@@ -1,0 +1,62 @@
+---
+import '../styles/tokens.css';
+
+interface Props {
+  title: string;
+  description: string;
+  /** The book's accent, which is a quotation from the book's own text. */
+  accent?: string;
+  ogImage?: string;
+}
+
+const { title, description, accent, ogImage } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const og = ogImage ? new URL(ogImage, Astro.site) : undefined;
+const repo = 'https://github.com/markselby9/readtheplaces.com';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <meta property="og:site_name" content="Read the Places" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content={canonical} />
+    {og && <meta property="og:image" content={og} />}
+    <meta name="twitter:card" content={og ? 'summary_large_image' : 'summary'} />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..600&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+
+  <body style={accent ? `--accent: ${accent}` : undefined}>
+    <a class="skip" href="#main">Skip to content</a>
+    <slot />
+
+    <footer class="site-foot">
+      <div class="wrap">
+        <p>
+          <strong>Read the Places.</strong> An open atlas of the real places in novels, in the order
+          the story happens. Free and open source: <a href={repo}>github.com/markselby9/readtheplaces.com</a>.
+        </p>
+        <p>
+          Book data <a href={`${repo}/blob/main/LICENSE`}>CC BY-SA 4.0</a>. Code MIT. Maps ©
+          <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.
+          Historical maps © <a href="https://maps.nls.uk/">National Library of Scotland</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+---
+import type { Book, BuiltWaypoint } from '@rtp/schema';
+import { googleMaps, streetView } from '../lib/links';
+
+interface Props {
+  book: Book;
+  slug: string;
+  wp: BuiltWaypoint;
+}
+
+const { book, slug, wp } = Astro.props;
+
+const character = book.characters[wp.character]!;
+const historical = book.layers?.historical;
+const plate = (era: 'now' | 'then') => `/plates/${slug}/${wp.id}-${era}.webp`;
+
+const caption = historical
+  ? `${book.setting.city} today, and ${historical.name}`
+  : `${book.setting.city} today`;
+---
+
+<article class="stop" style={`--c: ${character.color}`}>
+  <span class="who">{character.name}</span>
+
+  <h2 class="place-name" data-certainty={wp.placeCertainty}>{wp.name}</h2>
+  <p class="when">{wp.progressLabel} · {Math.round(wp.position * 100)}% through the novel</p>
+
+  {/*
+    Static images, not live maps. Browsers cap simultaneous WebGL contexts at
+    about sixteen; fifteen stops across two eras is thirty-one. Measured on the
+    prototype: 16 alive, 15 dead canvases. Plates are composited at build time
+    by @rtp/tools, which is also why this page ships zero JavaScript.
+  */}
+  <figure class="plates">
+    <img
+      src={plate('now')}
+      width="640"
+      height="400"
+      loading="lazy"
+      decoding="async"
+      alt={`Map of ${wp.name} today`}
+    />
+    {
+      historical && (
+        <img
+          src={plate('then')}
+          width="640"
+          height="400"
+          loading="lazy"
+          decoding="async"
+          alt={`${wp.name} on the ${historical.name}`}
+        />
+      )
+    }
+    <figcaption>{caption}</figcaption>
+  </figure>
+
+  <blockquote>{wp.passage}</blockquote>
+  <p class="note">{wp.note}</p>
+
+  <p class="certainty">
+    <span class="certainty-tag">{wp.placeCertainty.replace('_', ' ')}</span>
+    <span>{wp.certaintyNote ?? 'Named directly in the text.'}</span>
+  </p>
+
+  <p class="actions">
+    <a href={googleMaps(wp.coords)} target="_blank" rel="noopener">Open in Google Maps ↗</a>
+    <a href={streetView(wp.coords)} target="_blank" rel="noopener">Street View ↗</a>
+  </p>
+</article>

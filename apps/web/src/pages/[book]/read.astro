@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import Reader from '../../islands/Reader.svelte';
+import { allBooks, loadBook, stopGroups } from '../../lib/books';
+
+export async function getStaticPaths() {
+  const books = await allBooks();
+  return books.map(({ slug }) => ({ params: { book: slug } }));
+}
+
+const slug = Astro.params.book!;
+const { book, waypoints } = await loadBook(slug);
+const groups = stopGroups(waypoints);
+---
+
+<Base
+  title={`Read ${book.title} — Read the Places`}
+  description={`Move through the ${waypoints.length} places of ${book.title} in the order the novel visits them.`}
+  accent={book.palette.accent}
+  ogImage={`/og/${slug}.png`}
+>
+  {/* The only island in the site. Everything else ships zero JavaScript. */}
+  <Reader client:load book={book} groups={groups} />
+</Base>
+
+<style is:global>
+  /* The reader fills the viewport, so the site footer would push it off screen. */
+  body:has(.reader) .site-foot {
+    display: none;
+  }
+  body:has(.reader) {
+    overflow: hidden;
+  }
+</style>

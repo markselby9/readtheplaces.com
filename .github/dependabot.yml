@@ -1,0 +1,17 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: monthly }
+
+  # The npm ecosystem is deliberately absent until apps/web is an Astro project
+  # with a package.json. Declaring it now makes Dependabot fail on every run,
+  # and a workflow that is always red is one everyone learns to ignore.
+  # Re-enable with the Astro migration (plan phase 1):
+  #
+  # - package-ecosystem: npm
+  #   directory: /
+  #   schedule: { interval: monthly }
+  #   groups:
+  #     dev-dependencies:
+  #       dependency-type: development

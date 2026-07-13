@@ -1,0 +1,16 @@
+{
+  "name": "@rtp/tools",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "plates": "bun run src/plates.ts",
+    "extract": "bun run src/extract.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@rtp/schema": "workspace:*",
+    "sharp": "0.35.3"
+  },
+  "devDependencies": { "typescript": "5.9.3" }
+}

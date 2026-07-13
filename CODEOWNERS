@@ -1,0 +1,9 @@
+# Book data is owned by that book's maintainer. Review capacity grows with the
+# number of books instead of bottlenecking on one person — see CONTRIBUTING.md.
+/books/mrs-dalloway/   @markfeng
+
+# The contract. Changes here change what every contributor is allowed to claim.
+/the Zod schema     @markfeng
+/tools/test_validate.py @markfeng
+/schema/               @markfeng
+/docs/DESIGN.md        @markfeng

@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# CI does all the mechanical review, so a human reviewer only has to ask "is the
+# pin right, and is the note good?" That is what makes review cheap enough to
+# scale. See CONTRIBUTING.md.
+jobs:
+  verify:
+    name: Verify every claim against the book
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.2'
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+
+      - run: bun install --frozen-lockfile
+
+      # The contract is only worth something if the contract itself is tested.
+      - name: Unit tests
+        run: bun run test
+
+      - run: bun run typecheck
+
+      # The build is the gate. The Zod schema rejects a quote the novel does not
+      # contain, an ambiguous one, an unexplained guess, coordinates outside the
+      # book's setting, a one-sided simultaneity, and an accent colour that is
+      # not a real quotation or that misses WCAG AA.
+      - name: Build (the schema is the gate)
+        run: |
+          bun run plates mrs-dalloway
+          bun run build
+
+      - name: Install Playwright
+        run: bunx playwright install --with-deps chromium
+
+      - name: End-to-end
+        run: bun run e2e
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 7

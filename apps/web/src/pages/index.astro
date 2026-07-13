@@ -1,0 +1,127 @@
+---
+import Base from '../layouts/Base.astro';
+import { allBooks } from '../lib/books';
+
+const books = await allBooks();
+const repo = 'https://github.com/markselby9/readtheplaces.com';
+---
+
+<Base
+  title="Read the Places — not a map of books, a book you can walk through"
+  description="An open, contributor-driven atlas of the real places in novels, presented in the order the story happens."
+  ogImage="/og/mrs-dalloway.png"
+>
+  <div class="wrap">
+    <header class="mast">
+      <p class="kicker">Read the Places</p>
+      <h1>Not a map of books.<br /><em>A book you can walk through.</em></h1>
+      <p class="standfirst">
+        An open atlas of the real places in novels, in the order the story visits them. Every place is
+        pinned to a verbatim line from the book, and says how sure we are that it is the right place.
+      </p>
+    </header>
+
+    <main id="main">
+      <ul class="books">
+        {
+          books.map(({ slug, book, waypoints }) => (
+            <li style={`--accent: ${book.palette.accent}`}>
+              <a href={`/${slug}/`}>
+                <span class="kicker">{book.setting.city} · {book.published}</span>
+                <h2>{book.title}</h2>
+                <p class="by">{book.author}</p>
+                <p class="note">{book.setting.note}</p>
+                <p class="count">{waypoints.length} places →</p>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+
+      <section class="pitch">
+        <h2>Why the order matters</h2>
+        <p>
+          A map with a chapter filter is a map of pins, and those already exist. What they cannot do is
+          this. In <em>Mrs Dalloway</em>, at noon:
+        </p>
+        <blockquote>
+          …twelve o’clock struck as Clarissa Dalloway laid her green dress on her bed, <strong
+            >and the Warren Smiths walked down Harley Street.</strong
+          >
+        </blockquote>
+        <p>
+          One sentence. One stroke of the clock. Two places nearly two miles apart, two people who never
+          meet, one of whom will be dead within six hours. Order is the whole difference.
+        </p>
+
+        <h2>Help build it</h2>
+        <p>
+          You do not need to write code to do the most valuable work here, and you will never be asked to
+          upload a photograph. Adding a place means a coordinate, a verbatim quote, a source, and an
+          honest label saying how sure you are. <a href={`${repo}/blob/main/CONTRIBUTING.md`}>Start here</a>.
+        </p>
+      </section>
+    </main>
+  </div>
+</Base>
+
+<style>
+  .books {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: var(--s5);
+    margin-bottom: var(--s9);
+  }
+  .books a {
+    display: block;
+    padding: var(--s5);
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    color: inherit;
+    text-decoration: none;
+    transition: border-color 0.2s var(--ease);
+  }
+  .books a:hover {
+    border-color: var(--accent);
+  }
+  .books h2 {
+    font-size: var(--step-2);
+    font-weight: 400;
+    font-style: italic;
+    margin-block: var(--s2) var(--s1);
+  }
+  .books .by,
+  .books .count {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .books .note {
+    margin-block: var(--s3);
+    color: var(--ink-2);
+    font-size: var(--step--1);
+  }
+  .books .count {
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .pitch {
+    max-width: 38rem;
+    padding-bottom: var(--s9);
+  }
+  .pitch h2 {
+    font-size: var(--step-2);
+    font-weight: 400;
+    margin-block: var(--s7) var(--s4);
+  }
+  .pitch p {
+    color: var(--ink-2);
+    margin-bottom: var(--s4);
+  }
+  .pitch blockquote {
+    color: var(--ink);
+  }
+</style>

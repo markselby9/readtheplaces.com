@@ -1,0 +1,445 @@
+/* Read the Places — design tokens.
+
+   The page is a page of a book that happens to contain a living map. Paper,
+   ink, and one accent taken from the novel itself. The map is an illustration:
+   it must never fight the text. */
+
+:root {
+  /* Paper and ink */
+  --paper: #f5f2ea;
+  --paper-2: #fbf9f4;
+  --paper-3: #ede8dc;
+  --ink: #1b1917;
+  --ink-2: #4a453d;
+  --ink-3: #857d70;
+  --rule: #d9d2c4;
+
+  /* The accent is set per book, from the book's own text. See Base.astro. */
+  --accent: #40634a;
+  --accent-soft: color-mix(in srgb, var(--accent) 12%, transparent);
+
+  /* Literata: variable optical size 7–72, commissioned for reading books on
+     screens. It is what the novel is set in.
+     Atkinson Hyperlegible: built by the Braille Institute for legibility. It is
+     what the apparatus is set in. */
+  --serif: 'Literata', Georgia, 'Times New Roman', serif;
+  --sans: 'Atkinson Hyperlegible', system-ui, -apple-system, sans-serif;
+
+  --step--1: clamp(0.78rem, 0.76rem + 0.1vw, 0.84rem);
+  --step-0: clamp(1.02rem, 0.98rem + 0.2vw, 1.12rem);
+  --step-1: clamp(1.24rem, 1.14rem + 0.5vw, 1.5rem);
+  --step-2: clamp(1.55rem, 1.35rem + 1vw, 2.1rem);
+  --step-3: clamp(2rem, 1.6rem + 2vw, 3.2rem);
+  --step-4: clamp(2.6rem, 2rem + 3.2vw, 4.6rem);
+
+  --s1: 0.25rem;
+  --s2: 0.5rem;
+  --s3: 0.75rem;
+  --s4: 1rem;
+  --s5: 1.5rem;
+  --s6: 2rem;
+  --s7: 3rem;
+  --s8: 4rem;
+  --s9: 6rem;
+
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-optical-sizing: auto;
+  font-size: var(--step-0);
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--accent);
+  text-underline-offset: 0.2em;
+}
+
+::selection {
+  background: var(--accent-soft);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.wrap {
+  max-width: 64rem;
+  margin-inline: auto;
+  padding-inline: var(--s5);
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: var(--s5);
+  top: var(--s3);
+  z-index: 20;
+  background: var(--paper-2);
+  padding: var(--s2) var(--s4);
+  border: 1px solid var(--rule);
+}
+
+/* ---------------------------------------------------------------- masthead */
+
+.mast {
+  padding-block: var(--s9) var(--s7);
+}
+
+.kicker {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+h1 {
+  font-size: var(--step-4);
+  font-weight: 300;
+  line-height: 1.02;
+  letter-spacing: -0.028em;
+  margin-block: var(--s4);
+  max-width: 16ch;
+}
+h1 em {
+  font-style: italic;
+}
+
+.standfirst {
+  font-size: var(--step-1);
+  font-weight: 300;
+  line-height: 1.5;
+  color: var(--ink-2);
+  max-width: 44ch;
+}
+
+.colophon {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s5);
+  margin-top: var(--s6);
+  padding-top: var(--s5);
+  border-top: 1px solid var(--rule);
+}
+.colophon div {
+  border-left: 2px solid var(--rule);
+  padding-left: var(--s3);
+}
+.colophon dt {
+  font-family: var(--sans);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.colophon dd {
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  color: var(--ink-2);
+}
+
+/* ------------------------------------------------------------------- spine */
+
+/* The novel's order is the spine, so the page draws it: a continuous rule with
+   the progress label struck against it, and a bead per stop. It takes
+   "Part 1, ch. 6" as happily as "12:00". */
+
+.timeline {
+  position: relative;
+  padding-block: var(--s7) var(--s9);
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 7.5rem;
+  inset-block: 0;
+  width: 1px;
+  background: linear-gradient(180deg, transparent, var(--rule) 3%, var(--rule) 97%, transparent);
+}
+
+.hour {
+  position: relative;
+  padding-left: 11rem;
+  padding-bottom: var(--s8);
+}
+.hour::before {
+  content: '';
+  position: absolute;
+  left: calc(7.5rem - 4.5px);
+  top: 0.5rem;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 1.5px solid var(--ink-3);
+  z-index: 1;
+}
+.hour[data-paired]::before {
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 5px var(--accent-soft);
+}
+
+.strike {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 7.5rem;
+  padding-right: var(--s5);
+  text-align: right;
+  font-family: var(--sans);
+}
+.strike .label {
+  display: block;
+  font-size: var(--step-1);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  font-variant-numeric: tabular-nums;
+}
+.strike .pct {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  color: var(--ink-3);
+}
+
+.fork-lede {
+  max-width: 42ch;
+  margin-bottom: var(--s6);
+  font-size: var(--step-1);
+  font-weight: 300;
+  line-height: 1.5;
+}
+.fork-lede strong {
+  font-weight: 500;
+  color: var(--accent);
+}
+
+.fork {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--s7);
+}
+
+/* -------------------------------------------------------------------- stop */
+
+.stop {
+  --c: var(--ink-3);
+}
+
+.who {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--sans);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--c);
+}
+.who::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--c);
+}
+
+.place-name {
+  margin-block: var(--s2) var(--s1);
+  font-size: var(--step-2);
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+}
+
+/* Certainty is set, not badged. An inferred place is marked the way a critical
+   edition marks an emendation, so the reader sees the epistemology at a glance
+   without a legend. */
+.place-name[data-certainty='inferred'],
+.place-name[data-certainty='disputed'],
+.place-name[data-certainty='inspired_by'] {
+  font-style: italic;
+  text-decoration: underline dotted 1px;
+  text-decoration-color: var(--ink-3);
+  text-underline-offset: 0.28em;
+}
+
+.when {
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  color: var(--ink-3);
+}
+
+.plates {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  margin-block: var(--s5);
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+.plates:has(img:only-of-type) {
+  grid-template-columns: 1fr;
+}
+.plates img {
+  width: 100%;
+  aspect-ratio: 8 / 5;
+  object-fit: cover;
+  background: var(--paper-3);
+}
+.plates figcaption {
+  grid-column: 1 / -1;
+  padding: var(--s2) var(--s3);
+  background: var(--paper);
+  font-family: var(--sans);
+  font-size: 0.62rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+}
+
+blockquote {
+  max-width: 38rem;
+  margin-block: var(--s5);
+  font-size: var(--step-1);
+  font-weight: 300;
+  line-height: 1.58;
+}
+blockquote::before {
+  content: '\201C';
+  margin-left: -0.42em;
+  color: var(--accent);
+}
+blockquote::after {
+  content: '\201D';
+  color: var(--accent);
+}
+
+.note {
+  max-width: 36rem;
+  color: var(--ink-2);
+}
+
+.certainty {
+  display: flex;
+  gap: var(--s3);
+  align-items: baseline;
+  max-width: 36rem;
+  margin-top: var(--s4);
+  padding-top: var(--s3);
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  line-height: 1.55;
+  color: var(--ink-3);
+}
+.certainty-tag {
+  flex: none;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.09em;
+  font-weight: 700;
+  color: var(--ink-2);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s4);
+  margin-top: var(--s4);
+  font-family: var(--sans);
+  font-size: var(--step--1);
+}
+.actions a {
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+  padding-bottom: 2px;
+}
+.actions a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ------------------------------------------------------------------ footer */
+
+.site-foot {
+  padding-block: var(--s7);
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  color: var(--ink-3);
+}
+.site-foot a {
+  color: var(--ink-2);
+}
+.site-foot p + p {
+  margin-top: var(--s2);
+}
+
+/* --------------------------------------------------------------- responsive */
+
+@media (max-width: 780px) {
+  .timeline::before {
+    left: 1.25rem;
+  }
+  .hour {
+    padding-left: 3.25rem;
+  }
+  .hour::before {
+    left: 1.25rem;
+    transform: translateX(-50%);
+  }
+  .strike {
+    position: static;
+    width: auto;
+    padding: 0 0 var(--s3);
+    text-align: left;
+  }
+  .fork {
+    grid-template-columns: 1fr;
+    gap: var(--s8);
+  }
+  .plates {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

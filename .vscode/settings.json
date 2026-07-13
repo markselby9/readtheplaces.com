@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["books/*/waypoints.json"],
+      "url": "./schema/waypoint.schema.json"
+    }
+  ],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}

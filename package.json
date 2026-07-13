@@ -1,0 +1,22 @@
+{
+  "name": "readtheplaces",
+  "private": true,
+  "type": "module",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "bun --filter @rtp/web dev",
+    "build": "bun --filter @rtp/web build",
+    "preview": "bun --filter @rtp/web preview",
+    "typecheck": "bun --filter '*' typecheck",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "plates": "bun --filter @rtp/tools plates",
+    "extract": "bun --filter @rtp/tools extract"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1",
+    "typescript": "5.9.3",
+    "vitest": "4.1.10"
+  },
+  "engines": { "bun": ">=1.2.0" }
+}

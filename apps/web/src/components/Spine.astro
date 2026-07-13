@@ -1,0 +1,37 @@
+---
+import type { Book, BuiltWaypoint } from '@rtp/schema';
+import Stop from './Stop.astro';
+import { isSimultaneous, milesApart } from '../lib/books';
+
+interface Props {
+  book: Book;
+  slug: string;
+  group: BuiltWaypoint[];
+}
+
+const { book, slug, group } = Astro.props;
+
+const paired = isSimultaneous(group);
+const first = group[0]!;
+const apart = paired && group[1] ? milesApart(first.coords, group[1].coords) : null;
+---
+
+<section class="hour" data-paired={paired ? '' : undefined}>
+  <div class="strike">
+    <span class="label">{first.progressLabel}</span>
+    <span class="pct">{Math.round(first.position * 100)}% in</span>
+  </div>
+
+  {
+    paired && (
+      <p class="fork-lede">
+        One sentence. One stroke of the clock. <strong>Two places, {apart} apart.</strong> The
+        characters never meet.
+      </p>
+    )
+  }
+
+  <div class={paired ? 'fork' : undefined}>
+    {group.map((wp) => <Stop book={book} slug={slug} wp={wp} />)}
+  </div>
+</section>

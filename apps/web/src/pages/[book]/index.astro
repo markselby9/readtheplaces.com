@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import Spine from '../../components/Spine.astro';
+import { allBooks, loadBook, stopGroups } from '../../lib/books';
+
+export async function getStaticPaths() {
+  const books = await allBooks();
+  return books.map(({ slug }) => ({ params: { book: slug } }));
+}
+
+const slug = Astro.params.book!;
+const { book, waypoints } = await loadBook(slug);
+const groups = stopGroups(waypoints);
+
+const historical = book.layers?.historical;
+const title = `The ${book.setting.city} of ${book.title}`;
+const description = `${waypoints.length} real places from ${book.title}, in the order ${book.author} visits them.`;
+---
+
+<Base title={title} description={description} accent={book.palette.accent} ogImage={`/og/${slug}.png`}>
+  <div class="wrap">
+    <header class="mast">
+      <p class="kicker">Read the Places</p>
+      <h1>The {book.setting.city} of <em>{book.title}</em></h1>
+      <p class="standfirst">{book.setting.note}</p>
+
+      <dl class="colophon">
+        <div>
+          <dt>Author</dt>
+          <dd>{book.author}, {book.published}</dd>
+        </div>
+        <div>
+          <dt>Places</dt>
+          <dd>{waypoints.length}</dd>
+        </div>
+        {
+          historical && (
+            <div>
+              <dt>Historical map</dt>
+              <dd>{historical.name}</dd>
+            </div>
+          )
+        }
+        <div>
+          <dt>Accent colour</dt>
+          <dd>“{book.palette.accentSourceQuote}”</dd>
+        </div>
+      </dl>
+
+      <p class="actions">
+        <a href={`/${slug}/read/`}>Open the interactive map →</a>
+      </p>
+    </header>
+  </div>
+
+  <main id="main" class="wrap timeline">
+    {groups.map((group) => <Spine book={book} slug={slug} group={group} />)}
+  </main>
+</Base>

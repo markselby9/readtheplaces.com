@@ -1,0 +1,38 @@
+# Derived. Rebuilt by the tools and the Astro build, never committed, so the repo
+# always reflects what a contributor actually authored.
+#
+# NB: gitignore only honours `#` at the START of a line. A trailing comment
+# becomes part of the pattern and silently matches nothing.
+
+# regenerate: bun run extract <slug>
+books/*/candidates.json
+books/*/.geocode-cache.json
+
+# regenerate: bun run plates <slug>
+apps/web/public/plates/
+
+# Build
+node_modules/
+dist/
+.astro/
+.output/
+.wrangler/
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Env. Never commit keys, even free ones.
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# no longer generated: position is derived at build time, in memory
+books/*/waypoints.built.json
