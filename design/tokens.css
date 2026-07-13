@@ -1,0 +1,113 @@
+/* Read the Places — design tokens, shared across the three art directions.
+   These are the parts I am NOT proposing to vary: type, paper, ink, and the
+   rule that a book's accent is a quotation. Only layout and hierarchy differ
+   between A, B and C. */
+
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..600&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  /* ---- Paper and ink ------------------------------------------------- */
+  --paper:        #F5F2EA;
+  --paper-2:      #FBF9F4;   /* raised surfaces */
+  --paper-3:      #EDE8DC;   /* sunken / plates */
+  --ink:          #1B1917;
+  --ink-2:        #4A453D;   /* secondary prose */
+  --ink-3:        #857D70;   /* apparatus, captions */
+  --rule:         #D9D2C4;
+
+  /* ---- The book's accent is a QUOTATION -----------------------------
+     Mrs Dalloway: "…laid her green dress on her bed."
+     Not chosen from a palette. Taken from the text, and citable.
+     Crime and Punishment will be Petersburg yellow, for the same reason. */
+  --accent:       #40634A;
+  --accent-soft:  #40634A1F;
+  --accent-ink:   #2C4534;
+
+  /* ---- Characters ---------------------------------------------------
+     Colour is never the only channel: every pin and card also carries the
+     character's name, so a colourblind reader loses nothing. Chosen to be
+     separable by lightness as well as hue. */
+  --clarissa:     #45704F;   /* the green dress */
+  --septimus:     #2F5D8C;   /* the sky, the aeroplane, the war */
+  --peter:        #A8762F;   /* ochre — the India years */
+
+  /* ---- Type ---------------------------------------------------------
+     Literata: variable optical size 7–72, commissioned for reading books on
+     screens. It is what Woolf is set in.
+     Atkinson Hyperlegible: built by the Braille Institute for legibility.
+     It is what the apparatus is set in. Deliberately not Inter. */
+  --serif: 'Literata', Georgia, 'Times New Roman', serif;
+  --sans:  'Atkinson Hyperlegible', system-ui, -apple-system, sans-serif;
+
+  --step--1: clamp(0.78rem, 0.76rem + 0.1vw, 0.84rem);
+  --step-0:  clamp(1.02rem, 0.98rem + 0.2vw, 1.12rem);
+  --step-1:  clamp(1.28rem, 1.18rem + 0.5vw, 1.55rem);
+  --step-2:  clamp(1.6rem,  1.4rem  + 1vw,   2.2rem);
+  --step-3:  clamp(2.1rem,  1.7rem  + 2vw,   3.4rem);
+  --step-4:  clamp(2.8rem,  2.1rem  + 3.4vw, 5rem);
+
+  /* ---- Space: 4/8 rhythm --------------------------------------------- */
+  --s1: .25rem; --s2: .5rem;  --s3: .75rem; --s4: 1rem;
+  --s5: 1.5rem; --s6: 2rem;   --s7: 3rem;   --s8: 4rem;  --s9: 6rem;
+
+  --ease: cubic-bezier(.22,.61,.36,1);
+  --dur:  240ms;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-optical-sizing: auto;
+  font-size: var(--step-0);
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* The apparatus — anything the author did not write. */
+.apparatus {
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  letter-spacing: .02em;
+  color: var(--ink-3);
+}
+
+/* ---- The map is an illustration, not a UI surface ---------------------
+   CARTO's default styling (blue water, yellow motorways, green parks) fights
+   the paper on every tile. Until we ship our own Protomaps style, filter the
+   modern map down to ink on paper so the ONLY colour in the frame comes from
+   the historical survey and the character pins. The city recedes; the book
+   advances. This filter is a stand-in for a proper vector style — same result,
+   one line. */
+.map-modern canvas {
+  filter: grayscale(1) sepia(.18) brightness(1.06) contrast(.92);
+}
+.map-historic canvas {
+  filter: sepia(.28) contrast(1.06) brightness(1.02);
+}
+
+/* Certainty is scholarly apparatus, not a Bootstrap badge. An inferred place
+   is SET differently — italic, dotted underline — the way a critical edition
+   marks an emendation. */
+.certainty { font-family: var(--sans); font-size: var(--step--1); color: var(--ink-3); }
+.place-name[data-certainty="inferred"],
+.place-name[data-certainty="disputed"] {
+  font-style: italic;
+  text-decoration: underline dotted 1px;
+  text-underline-offset: .28em;
+  text-decoration-color: var(--ink-3);
+}
+.certainty-tag {
+  font-variant-caps: all-small-caps;
+  letter-spacing: .09em;
+  font-weight: 700;
+}
+
+::selection { background: var(--accent-soft); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

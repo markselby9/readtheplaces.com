@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# CI does ALL the mechanical review, so a human reviewer only ever has to ask
+# "is the pin right, and is the note good?" That is what makes review cheap
+# enough to scale — see CONTRIBUTING.md.
+#
+# The `build` job is deliberately absent until the Astro app exists (see
+# docs/DESIGN.md §7). A workflow that is red on every PR trains people to ignore
+# a red workflow, and then it stops protecting anything.
+jobs:
+  data:
+    name: Verify every claim against the book
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # The contract is only worth something if the contract itself is tested.
+      # 30 tests, standard library only — every rule CONTRIBUTING.md promises a
+      # contributor, proved to fail when it should.
+      - name: Test the validator
+        run: python3 -m unittest discover -s tools -p 'test_*.py' -v
+
+      # The contract. Fails if a waypoint quotes something the novel does not
+      # say, if the quote is ambiguous, if a guess is unexplained, if the
+      # coordinates fall outside the book's setting (transposed lat/lon, or a
+      # geocoder that guessed), if a simultaneity is not reciprocated, or if a
+      # book's accent colour is not a real quotation / misses WCAG AA on paper.
+      - name: Validate waypoints against the source text
+        run: python3 tools/validate.py

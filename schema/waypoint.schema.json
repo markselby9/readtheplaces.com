@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://readtheplaces.com/schema/waypoint.schema.json",
+  "title": "Read the Places — waypoints",
+  "description": "A place, at a position in the narrative, with the passage that puts it there, and an honest statement of how sure we are.",
+  "type": "array",
+  "items": { "$ref": "#/$defs/waypoint" },
+
+  "$defs": {
+    "waypoint": {
+      "type": "object",
+      "required": [
+        "id", "name", "clock", "character", "coords",
+        "place_certainty", "quote_anchor", "passage", "note",
+        "sources", "editorial_status"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "kebab-case, unique within the book."
+        },
+        "name": {
+          "type": "string",
+          "description": "How the place is shown to a reader. Use the book's own name for it where there is one."
+        },
+        "clock": {
+          "type": "string",
+          "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$",
+          "description": "24-hour progress label. Books ordered by chapter will use progress_label instead — see docs/DESIGN.md §3.2."
+        },
+        "character": {
+          "type": "string",
+          "description": "Must be declared in book.json → characters."
+        },
+        "coords": {
+          "type": "array",
+          "description": "[longitude, latitude] — GeoJSON order, NOT lat/lon. Must fall inside the book's setting.bbox unless outside_setting is true.",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "outside_setting": {
+          "type": "boolean",
+          "description": "Set true only for a deliberate excursion beyond the book's setting (e.g. Bourton, outside London). Never to silence a bad coordinate."
+        },
+        "place_certainty": {
+          "enum": ["explicit", "inferred", "inspired_by", "disputed"],
+          "description": "explicit: the author named it. inferred: you worked it out. inspired_by: a real place behind a fictional one. disputed: scholars disagree, and we show the disagreement."
+        },
+        "certainty_note": {
+          "type": "string",
+          "description": "REQUIRED unless place_certainty is 'explicit'. Say why you placed it there. Hiding a guess is what makes a pin map."
+        },
+        "quote_anchor": {
+          "type": "string",
+          "minLength": 12,
+          "description": "A VERBATIM string from source.txt, appearing exactly once. The build finds it and derives the waypoint's position in the novel. If it is not in the book, the build fails."
+        },
+        "passage": {
+          "type": "string",
+          "description": "What the reader sees. Must contain the quote_anchor verbatim."
+        },
+        "note": {
+          "type": "string",
+          "description": "Two or three sentences: why this place matters TO THE NOVEL. Not what is there today."
+        },
+        "simultaneous_with": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Other waypoint ids the author deliberately holds in the same moment. Must be mutual, and must share a clock. Not merely 'about the same time'."
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["kind", "ref"],
+            "properties": {
+              "kind": { "enum": ["passage", "scholarly", "historical-map", "heritage", "author", "guide", "external", "inference"] },
+              "ref": { "type": "string" },
+              "url": { "type": "string", "format": "uri" }
+            }
+          }
+        },
+        "editorial_status": {
+          "enum": ["draft", "reviewed", "verified"],
+          "description": "A book ships per-waypoint, not per-book. A draft can be visible-but-marked rather than blocking the release."
+        },
+        "position": {
+          "type": "number",
+          "description": "DERIVED — do not author this. The build computes it from quote_anchor's offset in source.txt."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>C · The Hours — Mrs Dalloway</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css">
+<link rel="stylesheet" href="../tokens.css">
+<style>
+/* DIRECTION C — THE HOURS
+   The novel's own form becomes the interface. Woolf keeps time by clocks, so
+   the page is a clock: one continuous rule down the left, hours struck along
+   it, stops hanging off it in order.
+   And the page keeps the day. It opens in June morning light and, as you
+   scroll toward Septimus's window and Clarissa's party, the paper darkens
+   into evening. The reader descends through the day.
+   This also answers dark mode honestly: the page is dark because it is night,
+   not because a toggle was flipped. */
+
+body { transition: background-color 900ms linear, color 900ms linear; }
+
+/* Hour-of-day palette. Each stop declares its hour; a scroll observer sets
+   the era on <body>, and every token re-tints. */
+body[data-era="morning"] { --paper: #F7F4EC; --paper-2:#FCFAF6; --ink:#1B1917; --ink-2:#4A453D; --ink-3:#8A8276; --rule:#DED7C9; }
+body[data-era="noon"]    { --paper: #F5F1E6; --paper-2:#FBF8F0; --ink:#1A1815; --ink-2:#4A443B; --ink-3:#877F72; --rule:#DBD3C3; }
+body[data-era="dusk"]    { --paper: #E8DFD1; --paper-2:#F0E9DD; --ink:#211C16; --ink-2:#4E463A; --ink-3:#847968; --rule:#CBBFAB; }
+body[data-era="night"]   { --paper: #16171C; --paper-2:#1D1F26; --ink:#EDE7DA; --ink-2:#B4AC9C; --ink-3:#7C7566; --rule:#2E313A; }
+
+/* At night the maps must invert too, or they blaze white. Sepia scans cannot
+   simply be inverted — they become photographic negatives. So we darken and
+   desaturate them instead, and accept that the survey reads as a night chart. */
+body[data-era="night"] .map-modern canvas   { filter: grayscale(1) invert(.9) contrast(.78) brightness(.9); }
+body[data-era="night"] .map-historic canvas { filter: grayscale(.9) invert(.88) sepia(.2) contrast(.72) brightness(.85); }
+
+.wrap { max-width: 62rem; margin: 0 auto; padding: 0 var(--s5); }
+
+header.mast { padding: var(--s9) 0 var(--s7); }
+.kicker { font-family: var(--sans); font-size: .68rem; letter-spacing: .18em;
+          text-transform: uppercase; color: var(--accent); }
+h1 { font-size: var(--step-4); font-weight: 300; line-height: 1.0; letter-spacing: -.03em;
+     margin: var(--s4) 0 var(--s4); }
+h1 em { font-style: italic; }
+.standfirst { font-size: var(--step-1); font-weight: 300; color: var(--ink-2); max-width: 44ch; line-height: 1.5; }
+
+/* ---- the spine ---- */
+.timeline { position: relative; padding: var(--s8) 0 var(--s9); }
+.timeline::before {                    /* the continuous rule: the day itself */
+  content:""; position: absolute; left: 7.5rem; top: 0; bottom: 0; width: 1px;
+  background: linear-gradient(180deg, transparent, var(--rule) 4%, var(--rule) 96%, transparent);
+}
+@media (max-width: 780px) { .timeline::before { left: 1.25rem; } }
+
+.hour { position: relative; padding-left: 11rem; padding-bottom: var(--s8); }
+@media (max-width: 780px) { .hour { padding-left: 3.25rem; } }
+
+/* the struck hour, in the margin */
+.strike { position: absolute; left: 0; top: 0; width: 7.5rem; text-align: right;
+          padding-right: var(--s5); font-family: var(--sans); }
+@media (max-width: 780px) { .strike { position: static; width: auto; text-align: left;
+                                      padding: 0 0 var(--s3); } }
+.strike .t { display: block; font-size: var(--step-1); font-weight: 700; letter-spacing: -.01em;
+             color: var(--ink); font-variant-numeric: tabular-nums; }
+.strike .pct { display: block; font-size: .62rem; letter-spacing: .1em; color: var(--ink-3); margin-top: 2px; }
+
+/* the bead on the rule */
+.hour::before { content:""; position: absolute; left: calc(7.5rem - 4.5px); top: .55rem;
+                width: 9px; height: 9px; border-radius: 50%;
+                background: var(--paper); border: 1.5px solid var(--ink-3); z-index: 1; }
+.hour[data-paired]::before { background: var(--accent); border-color: var(--accent);
+                             box-shadow: 0 0 0 5px var(--accent-soft); }
+@media (max-width: 780px) { .hour::before { left: 1.25rem; transform: translateX(-50%); } }
+
+.who { font-family: var(--sans); font-size: .66rem; letter-spacing: .12em; text-transform: uppercase;
+       font-weight: 700; color: var(--c); display: inline-flex; align-items: center; gap: .4rem; }
+.who::before { content:""; width: 6px; height: 6px; border-radius: 50%; background: var(--c); }
+.place-name { font-size: var(--step-2); font-weight: 400; margin: var(--s2) 0 var(--s4);
+              letter-spacing: -.015em; line-height: 1.15; }
+blockquote { font-size: var(--step-1); font-weight: 300; line-height: 1.58; margin-bottom: var(--s4);
+             max-width: 38rem; }
+blockquote::before { content:'\201C'; color: var(--accent); margin-left: -.42em; }
+blockquote::after  { content:'\201D'; color: var(--accent); }
+.note { color: var(--ink-2); max-width: 36rem; }
+
+.strip { margin: var(--s5) 0; height: 11rem; position: relative; overflow: hidden;
+         border: 1px solid var(--rule); background: var(--paper-2); }
+.strip .map { position: absolute; inset: 0; }
+.strip .map-historic { clip-path: inset(0 0 0 62%); }
+.strip .seam { position:absolute; top:0; bottom:0; left:62%; width:1px; background: var(--paper); z-index:3; }
+
+.foot { display: flex; gap: var(--s5); align-items: center; flex-wrap: wrap; margin-top: var(--s4); }
+.certainty-tag { color: var(--ink-2); }
+.sv { font-family: var(--sans); font-size: var(--step--1); color: var(--accent);
+      text-decoration: none; border-bottom: 1px solid var(--accent-soft); }
+
+/* noon: the rule forks */
+.fork { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s6); }
+@media (max-width: 780px) { .fork { grid-template-columns: 1fr; gap: var(--s7); } }
+.fork-lede { font-size: var(--step-1); font-weight: 300; line-height: 1.5; max-width: 42ch;
+             margin-bottom: var(--s6); color: var(--ink); }
+.fork-lede strong { font-weight: 500; color: var(--accent); }
+
+.pin { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--paper);
+       background: var(--c, var(--ink-3)); transform: scale(1.35); box-shadow: 0 1px 4px #0004; }
+</style>
+</head>
+<body data-era="morning">
+
+<div class="wrap">
+  <header class="mast">
+    <div class="kicker">Read the Places</div>
+    <h1>The Hours of<br><em>Mrs Dalloway</em></h1>
+    <p class="standfirst">Woolf wrote no chapters. She wrote clocks. Follow the day
+      down the page — from ten in the morning, when Clarissa goes out for flowers,
+      to the party that ends it.</p>
+  </header>
+</div>
+
+<main class="wrap timeline" id="stops"></main>
+
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<script type="module">
+import { loadBook, stopGroups, streetView, MODERN, historic } from './shared.js';
+
+const { book, waypoints } = await loadBook();
+const groups = stopGroups(waypoints);
+const C = id => book.characters[id];
+const root = document.getElementById('stops');
+
+// The day, in four lights.
+const eraFor = clock => {
+  const h = +clock.slice(0,2);
+  if (h < 12) return 'morning';
+  if (h < 16) return 'noon';
+  if (h < 20) return 'dusk';
+  return 'night';
+};
+
+for (const g of groups) {
+  const paired = g.length > 1 && g.some(w => (w.simultaneous_with||[]).length);
+  const sec = document.createElement('section');
+  sec.className = 'hour';
+  sec.dataset.era = eraFor(g[0].clock);
+  if (paired) sec.dataset.paired = '';
+
+  sec.innerHTML = `
+    <div class="strike">
+      <span class="t">${g[0].clock}</span>
+      <span class="pct">${Math.round(g[0].position*100)}% IN</span>
+    </div>
+    ${paired ? `<p class="fork-lede">One sentence. One stroke of the clock.
+        <strong>Two places, 1.7 miles apart.</strong> They never meet.</p>` : ''}
+    <div class="${paired ? 'fork' : ''}">${g.map(body).join('')}</div>`;
+  root.appendChild(sec);
+
+  for (const w of g) mapsFor(w);
+}
+
+function body(w) {
+  const c = C(w.character);
+  return `<div>
+    <span class="who" style="--c:${c.color}">${c.name}</span>
+    <h2 class="place-name" data-certainty="${w.place_certainty}">${w.name}</h2>
+    <div class="strip">
+      <div class="map map-modern" id="now-${w.id}"></div>
+      <div class="map map-historic" id="then-${w.id}"></div>
+      <div class="seam"></div>
+    </div>
+    <blockquote>${w.passage}</blockquote>
+    <p class="note">${w.note}</p>
+    <div class="foot">
+      <span class="certainty certainty-tag">${w.place_certainty}</span>
+      <a class="sv" href="${streetView(w.coords)}" target="_blank" rel="noopener">Street View →</a>
+    </div>
+  </div>`;
+}
+
+function mapsFor(w) {
+  for (const [pre, style, z] of [['now', MODERN, 15.2], ['then', historic(book), 15.2]]) {
+    const m = new maplibregl.Map({
+      container: `${pre}-${w.id}`, style, center: w.coords, zoom: z,
+      interactive: false, attributionControl: false,
+    });
+    const pin = document.createElement('div');
+    pin.className = 'pin';
+    pin.style.setProperty('--c', C(w.character).color);
+    new maplibregl.Marker({ element: pin }).setLngLat(w.coords).addTo(m);
+  }
+}
+
+// The page keeps the day: whichever hour is centred sets the light.
+const io = new IntersectionObserver(entries => {
+  const vis = entries.filter(e => e.isIntersecting)
+                     .sort((a,b) => b.intersectionRatio - a.intersectionRatio)[0];
+  if (vis) document.body.dataset.era = vis.target.dataset.era;
+}, { rootMargin: '-40% 0px -40% 0px', threshold: [0, .5, 1] });
+
+document.querySelectorAll('.hour').forEach(el => io.observe(el));
+</script>
+</body>
+</html>

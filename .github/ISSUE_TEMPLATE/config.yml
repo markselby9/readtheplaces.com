@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: How contributing works
+    url: https://github.com/markfeng/readtheplaces.com/blob/main/CONTRIBUTING.md
+    about: You do not need to code to do the most valuable work here.
+  - name: Why is it built this way?
+    url: https://github.com/markfeng/readtheplaces.com/blob/main/docs/DESIGN.md
+    about: Decisions, with the measurements behind them. Read before proposing an architecture change.

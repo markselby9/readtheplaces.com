@@ -1,0 +1,374 @@
+/* Read the Places — Mrs Dalloway prototype
+   Design intent: an editorial object, not a map app. The page should feel like
+   a well-set book that happens to contain a living map — paper, ink, one accent.
+   The map is context; the passage is the subject. */
+
+:root {
+  --paper: #f4f1ea;
+  --paper-raised: #fbf9f5;
+  --ink: #1c1a17;
+  --ink-soft: #55504a;
+  --ink-faint: #8b8479;
+  --rule: #ddd7cb;
+  --accent: #9c3a2f;
+
+  --clarissa: #c2536a;
+  --septimus: #4a7fb5;
+  --peter: #7d9a6d;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+/* ---------------------------------------------------------------- layout */
+
+#app {
+  display: grid;
+  grid-template-columns: 1fr 30rem;
+  height: 100vh;
+}
+
+@media (max-width: 900px) {
+  #app { grid-template-columns: 1fr; grid-template-rows: 45vh 1fr; }
+}
+
+/* ------------------------------------------------------------------- map */
+
+#stage { position: relative; overflow: hidden; background: #e8e4da; }
+
+.map { position: absolute; inset: 0; }
+
+/* The historical map sits above the modern one and is revealed by a wipe.
+   Two synced MapLibre instances + clip-path beats a simple opacity blend:
+   you read *this street, then / this street, now* rather than a muddy average. */
+#map-then { clip-path: inset(0 0 0 var(--wipe, 50%)); }
+
+#wipe-handle {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: var(--wipe, 50%);
+  width: 2px;
+  background: var(--paper);
+  box-shadow: 0 0 0 1px rgba(0,0,0,.18), 0 0 22px rgba(0,0,0,.22);
+  cursor: ew-resize;
+  z-index: 5;
+  touch-action: none;
+}
+
+#wipe-handle::after {
+  content: "";
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 44px; height: 44px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: var(--paper);
+  box-shadow: 0 2px 14px rgba(0,0,0,.28);
+}
+
+#wipe-handle .grip {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: .09em;
+  color: var(--ink-soft);
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.era-tag {
+  position: absolute;
+  top: 1rem;
+  z-index: 4;
+  padding: .3rem .6rem;
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  background: rgba(244,241,234,.9);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  backdrop-filter: blur(6px);
+  pointer-events: none;
+}
+.era-tag.now  { left: 1rem; }
+.era-tag.then { right: 1rem; }
+
+/* ----------------------------------------------------------------- pins */
+
+.pin {
+  width: 15px; height: 15px;
+  border-radius: 50%;
+  border: 2.5px solid var(--paper);
+  background: var(--ink-faint);
+  cursor: pointer;
+  transition: transform .25s var(--ease), background .25s var(--ease);
+  box-shadow: 0 1px 5px rgba(0,0,0,.32);
+}
+.pin:hover { transform: scale(1.35); }
+
+.pin.visited { background: var(--c, var(--ink-faint)); opacity: .55; }
+
+.pin.active {
+  background: var(--c, var(--accent));
+  transform: scale(1.5);
+  box-shadow: 0 0 0 5px color-mix(in srgb, var(--c, var(--accent)) 22%, transparent),
+              0 2px 10px rgba(0,0,0,.35);
+}
+
+/* At noon, two pins are live at once. They should visibly pulse together —
+   that simultaneity is the whole argument for this project. */
+.pin.active.paired { animation: pulse 1.9s var(--ease) infinite; }
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 5px  color-mix(in srgb, var(--c) 24%, transparent), 0 2px 10px rgba(0,0,0,.35); }
+  50%      { box-shadow: 0 0 0 15px color-mix(in srgb, var(--c) 0%,  transparent), 0 2px 10px rgba(0,0,0,.35); }
+}
+
+/* --------------------------------------------------------------- reader */
+
+#reader {
+  background: var(--paper-raised);
+  border-left: 1px solid var(--rule);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+@media (max-width: 900px) {
+  #reader { border-left: none; border-top: 1px solid var(--rule); }
+}
+
+#masthead {
+  padding: 1.4rem 1.75rem 1.1rem;
+  border-bottom: 1px solid var(--rule);
+  flex: none;
+}
+
+#masthead .book {
+  font-size: 1.45rem;
+  font-weight: 400;
+  letter-spacing: -.01em;
+  line-height: 1.15;
+}
+#masthead .byline {
+  margin-top: .3rem;
+  font-family: var(--sans);
+  font-size: 11px;
+  letter-spacing: .05em;
+  color: var(--ink-faint);
+}
+
+/* ---------------------------------------------------------------- clock */
+
+#clock {
+  flex: none;
+  display: flex;
+  gap: .35rem;
+  padding: .9rem 1.75rem;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--rule);
+  scrollbar-width: none;
+}
+#clock::-webkit-scrollbar { display: none; }
+
+.tick {
+  flex: none;
+  min-width: 3.4rem;
+  padding: .45rem .25rem .5rem;
+  text-align: center;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .02em;
+  color: var(--ink-faint);
+  border-bottom: 2px solid transparent;
+  transition: color .18s var(--ease), border-color .18s var(--ease);
+}
+.tick:hover { color: var(--ink); }
+.tick[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.tick .dots {
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  margin-top: .3rem;
+}
+.tick .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--c); }
+
+/* ---------------------------------------------------------------- cards */
+
+#stops {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem 1.75rem 2.5rem;
+}
+
+.simul-banner {
+  margin-bottom: 1.1rem;
+  padding: .65rem .8rem;
+  border-left: 2px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 5%, transparent);
+  font-family: var(--sans);
+  font-size: 11.5px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+.simul-banner b { color: var(--ink); font-weight: 600; }
+
+.stop { animation: rise .5s var(--ease) both; }
+.stop + .stop { margin-top: 1.6rem; padding-top: 1.6rem; border-top: 1px solid var(--rule); }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(9px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.stop .who {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--c);
+}
+.stop .who::before {
+  content: "";
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--c);
+}
+
+.stop h2 {
+  margin: .5rem 0 .1rem;
+  font-size: 1.32rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -.01em;
+}
+
+.stop .when {
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--ink-faint);
+  letter-spacing: .03em;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding-left: .95rem;
+  border-left: 2px solid var(--rule);
+  font-size: 1.06rem;
+  line-height: 1.62;
+  color: var(--ink);
+}
+blockquote em { color: var(--accent); font-style: italic; }
+
+.stop .note {
+  font-family: var(--sans);
+  font-size: 12.5px;
+  line-height: 1.68;
+  color: var(--ink-soft);
+}
+
+/* Certainty is displayed, never hidden. If we are guessing, the reader is told
+   we are guessing, and told why. This is the difference between a gazetteer
+   and a pin map. */
+.certainty {
+  margin-top: .9rem;
+  display: flex;
+  gap: .5rem;
+  align-items: flex-start;
+  font-family: var(--sans);
+  font-size: 10.5px;
+  line-height: 1.5;
+  color: var(--ink-faint);
+}
+
+.chip {
+  flex: none;
+  padding: .16rem .4rem;
+  border-radius: 2px;
+  font-weight: 600;
+  font-size: 9px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.chip.explicit { color: #2f6b46; background: #2f6b4614; border: 1px solid #2f6b4633; }
+.chip.inferred { color: #8a6320; background: #8a632014; border: 1px dashed #8a632055; }
+
+.actions { margin-top: 1.1rem; display: flex; gap: .5rem; flex-wrap: wrap; }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: .45rem .7rem;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: var(--paper);
+  color: var(--ink-soft);
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color .18s var(--ease), color .18s var(--ease);
+}
+.btn:hover { border-color: var(--ink-faint); color: var(--ink); }
+
+/* ------------------------------------------------------------------ nav */
+
+#nav {
+  flex: none;
+  display: flex;
+  gap: .5rem;
+  padding: .85rem 1.75rem;
+  border-top: 1px solid var(--rule);
+  background: var(--paper);
+}
+#nav .btn { flex: 1; justify-content: center; }
+#nav .btn:disabled { opacity: .35; cursor: default; }
+#nav .btn.primary {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+/* ---------------------------------------------------------- attribution */
+
+.maplibregl-ctrl-attrib {
+  font-family: var(--sans) !important;
+  font-size: 10px !important;
+  background: rgba(244,241,234,.86) !important;
+}
+
+/* A book with no georeferenced historical layer (Moscow, Shanghai — no free
+   layer exists yet) still works: one map, no wipe, no empty second pane. */
+body.no-historical #map-then,
+body.no-historical #wipe-handle,
+body.no-historical .era-tag { display: none; }

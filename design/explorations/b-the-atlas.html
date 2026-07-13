@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>B · The Atlas — Mrs Dalloway</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css">
+<link rel="stylesheet" href="../tokens.css">
+<style>
+/* DIRECTION B — THE ATLAS
+   The place wins. The 1890s Ordnance Survey is not a background: it is the
+   hero image, full-bleed, at a scale where you can read the buildings. Text
+   sits on it as a plate of letterpress sits on paper.
+   The reader should feel they are looking at a beautiful old map that has been
+   annotated with a novel. */
+
+.hero { position: relative; height: 92vh; min-height: 34rem; overflow: hidden;
+        background: var(--paper-3); }
+.hero .map { position: absolute; inset: 0; }
+.hero::after {                     /* paper vignette — the map is a printed sheet */
+  content:""; position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(120% 90% at 50% 40%, transparent 40%, #1b191726 100%),
+              linear-gradient(180deg, transparent 55%, var(--paper) 99%);
+}
+.hero-plate {
+  position: absolute; left: var(--s7); bottom: var(--s8); z-index: 2;
+  max-width: 30rem; background: var(--paper); padding: var(--s6);
+  border: 1px solid var(--rule);
+  box-shadow: 0 22px 60px -20px #1b191740;
+}
+@media (max-width: 800px) { .hero-plate { left: var(--s4); right: var(--s4); bottom: var(--s5);
+                                          padding: var(--s5); max-width: none; } }
+.kicker { font-family: var(--sans); font-size: .68rem; letter-spacing: .18em;
+          text-transform: uppercase; color: var(--accent-ink); }
+h1 { font-size: var(--step-3); font-weight: 400; line-height: 1.04; letter-spacing: -.02em;
+     margin: var(--s3) 0; }
+h1 em { font-style: italic; }
+.hero-plate p { color: var(--ink-2); font-weight: 300; }
+.scale-bar { margin-top: var(--s5); padding-top: var(--s3); border-top: 1px solid var(--rule);
+             font-family: var(--sans); font-size: .68rem; color: var(--ink-3);
+             display: flex; justify-content: space-between; }
+
+/* ---- the strip of stops ---- */
+.wrap { max-width: 74rem; margin: 0 auto; padding: 0 var(--s5); }
+.intro { padding: var(--s9) 0 var(--s7); max-width: 40rem; }
+.intro h2 { font-size: var(--step-2); font-weight: 400; margin-bottom: var(--s3); }
+.intro p { color: var(--ink-2); font-weight: 300; }
+
+.stop { display: grid; grid-template-columns: 1fr 1fr; min-height: 30rem; }
+.stop:nth-child(even) .frame { order: 2; }
+@media (max-width: 860px) { .stop { grid-template-columns: 1fr; }
+                            .stop:nth-child(even) .frame { order: 0; } }
+
+/* the frame: modern beneath, survey above, split by a hard vertical rule */
+.frame { position: relative; overflow: hidden; background: var(--paper-3);
+         border: 1px solid var(--rule); }
+.frame .map { position: absolute; inset: 0; }
+.frame .map-historic { clip-path: inset(0 0 0 50%); }
+.frame .seam { position: absolute; top: 0; bottom: 0; left: 50%; width: 1px;
+               background: var(--paper); box-shadow: 0 0 0 1px #1b191726; z-index: 3; }
+.era { position: absolute; bottom: var(--s3); z-index: 4; font-family: var(--sans);
+       font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2);
+       background: #f5f2eae0; padding: .2rem .45rem; border: 1px solid var(--rule); }
+.era.now  { left: var(--s3); }
+.era.then { right: var(--s3); }
+
+.body { padding: var(--s7); display: flex; flex-direction: column; justify-content: center; }
+@media (max-width: 860px) { .body { padding: var(--s6) var(--s4); } }
+.who { font-family: var(--sans); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase;
+       font-weight: 700; color: var(--c); display: inline-flex; align-items: center; gap: .4rem; }
+.who::before { content:""; width: 6px; height: 6px; border-radius: 50%; background: var(--c); }
+.place-name { font-size: var(--step-2); font-weight: 400; margin: var(--s3) 0 var(--s1);
+              letter-spacing: -.015em; line-height: 1.14; }
+.when { font-family: var(--sans); font-size: var(--step--1); color: var(--ink-3); }
+blockquote { margin: var(--s5) 0; font-size: var(--step-1); font-weight: 300; line-height: 1.55;
+             padding-left: var(--s4); border-left: 2px solid var(--accent); }
+.note { color: var(--ink-2); font-size: var(--step-0); }
+.foot { margin-top: var(--s5); display: flex; gap: var(--s5); align-items: center; flex-wrap: wrap; }
+.certainty-tag { color: var(--ink-2); }
+.sv { font-family: var(--sans); font-size: var(--step--1); color: var(--accent-ink);
+      text-decoration: none; border-bottom: 1px solid var(--accent-soft); }
+.sv:hover { border-bottom-color: var(--accent); }
+
+.pin { width: 13px; height: 13px; border-radius: 50%; border: 2px solid var(--paper);
+       background: var(--c, var(--ink-3)); box-shadow: 0 1px 4px #0004; transform: scale(1.4); }
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="map map-historic" id="hero-map"></div>
+  <div class="hero-plate">
+    <div class="kicker">Read the Places</div>
+    <h1>The London of <em>Mrs Dalloway</em></h1>
+    <p>Fifteen places, in the order the novel visits them — laid over the city
+       as the Ordnance Survey drew it, a generation before Clarissa walked out
+       to buy the flowers herself.</p>
+    <div class="scale-bar"><span>Ordnance Survey · London · 1890s</span><span>NLS</span></div>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="intro">
+    <h2>A day, kept by clocks</h2>
+    <p>Woolf does not use chapters. She uses Big Ben. Every stop below is fixed
+       by the hour it is struck — and at noon, the novel is in two places at once.</p>
+  </div>
+</div>
+
+<main id="stops" class="wrap"></main>
+
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<script type="module">
+import { loadBook, streetView, MODERN, historic } from './shared.js';
+
+const { book, waypoints } = await loadBook();
+const C = id => book.characters[id];
+
+// Hero: the survey itself, at a scale where the buildings read.
+new maplibregl.Map({
+  container: 'hero-map', style: historic(book),
+  center: [-0.1395, 51.5085], zoom: 14.1, interactive: false, attributionControl: false,
+});
+
+const root = document.getElementById('stops');
+for (const w of waypoints) {
+  const c = C(w.character);
+  const el = document.createElement('article');
+  el.className = 'stop';
+  el.innerHTML = `
+    <div class="frame">
+      <div class="map map-modern" id="now-${w.id}"></div>
+      <div class="map map-historic" id="then-${w.id}"></div>
+      <div class="seam"></div>
+      <span class="era now">Today</span><span class="era then">1890s</span>
+    </div>
+    <div class="body">
+      <span class="who" style="--c:${c.color}">${c.name}</span>
+      <h2 class="place-name" data-certainty="${w.place_certainty}">${w.name}</h2>
+      <div class="when">${w.clock} · ${Math.round(w.position*100)}% through the novel</div>
+      <blockquote>${w.passage}</blockquote>
+      <p class="note">${w.note}</p>
+      <div class="foot">
+        <span class="certainty certainty-tag">${w.place_certainty}</span>
+        <a class="sv" href="${streetView(w.coords)}" target="_blank" rel="noopener">Street View →</a>
+      </div>
+    </div>`;
+  root.appendChild(el);
+
+  for (const [pre, style] of [['now', MODERN], ['then', historic(book)]]) {
+    const m = new maplibregl.Map({
+      container: `${pre}-${w.id}`, style, center: w.coords, zoom: 15.6,
+      interactive: false, attributionControl: false,
+    });
+    const pin = document.createElement('div');
+    pin.className = 'pin';
+    pin.style.setProperty('--c', c.color);
+    new maplibregl.Marker({ element: pin }).setLngLat(w.coords).addTo(m);
+  }
+}
+</script>
+</body>
+</html>

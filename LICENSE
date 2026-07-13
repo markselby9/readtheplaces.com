@@ -1,0 +1,58 @@
+Read the Places is dual-licensed, because the code and the data are different
+kinds of thing and want different terms.
+
+────────────────────────────────────────────────────────────────────────────
+CODE — MIT
+Applies to: apps/, packages/, tools/, infra/, design/
+────────────────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 Read the Places contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+BOOK DATA — CC BY-SA 4.0
+Applies to: books/*/book.json, books/*/waypoints.json
+────────────────────────────────────────────────────────────────────────────
+
+The waypoints — the coordinates, the passages chosen, the certainty judgements
+and the editorial notes — are licensed Creative Commons Attribution-ShareAlike
+4.0 International.
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+Share-alike, deliberately: the dataset is the point of this project, and it
+should stay open. Reuse it, build a better interface than ours, but keep it
+free.
+
+────────────────────────────────────────────────────────────────────────────
+THIRD-PARTY MATERIAL — see each book's `rights` block
+────────────────────────────────────────────────────────────────────────────
+
+The novel, the translation, the transcription and the map imagery are separate
+rights objects and are NOT covered by either licence above. Each book records
+its own provenance in `books/<slug>/book.json` under `rights`.
+
+We describe the catalogue as rights-reviewed, never as "licence-clean". Public
+domain is jurisdiction-specific: a text that is free in the United States may
+not be free where you are. Check before you reuse.
+
+Map imagery carries its own terms — the National Library of Scotland's
+historical layers are CC BY-NC-SA (non-commercial), and OpenStreetMap data is
+ODbL. Attribution is displayed on the map, and must remain so.

@@ -1,0 +1,67 @@
+{
+  "id": "mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "author": "Virginia Woolf",
+  "published": 1925,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "date": "1923-06-20",
+    "note": "A single Wednesday in mid-June 1923. The novel is ordered by the striking of clocks.",
+    "bbox": [
+      -0.25,
+      51.44,
+      -0.02,
+      51.58
+    ],
+    "bbox_note": "Greater central London. A waypoint outside this must set outside_setting and say why — Bourton, the Dalloways' country house, would."
+  },
+  "ordering_key": "clock",
+  "center": [
+    -0.14,
+    51.512
+  ],
+  "zoom": 13.2,
+  "rights": {
+    "original_work": "Public domain. Woolf died 1941; PD in the UK and EU (life+70, since 2012) and in the US (published 1925, PD since 2021).",
+    "translation": "n/a — English original",
+    "text_source": "Standard Ebooks (public domain dedication), from a Project Gutenberg Australia transcription and Internet Archive scans",
+    "text_source_url": "https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway",
+    "audio_source": null,
+    "territory_notes": "Verify locally: PD in life+70 territories since 2012, US since 2021. Not yet confirmed PD in life+80 or longer jurisdictions.",
+    "attribution": "Text: Virginia Woolf, Mrs Dalloway (1925). Transcription: Standard Ebooks."
+  },
+  "palette": {
+    "accent": "#40634A",
+    "accent_source_quote": "laid her green dress on her bed",
+    "note": "The accent is a quotation, not a brand choice. Every book's colour must be citable in its own text, and the build checks that the quote exists — see the schema. Crime and Punishment will be Petersburg yellow for the same reason."
+  },
+  "characters": {
+    "clarissa": {
+      "name": "Clarissa Dalloway",
+      "color": "#45704F",
+      "color_source_quote": "laid her green dress on her bed"
+    },
+    "septimus": {
+      "name": "Septimus Warren Smith",
+      "color": "#2F5D8C",
+      "color_source_quote": "the sky"
+    },
+    "peter": {
+      "name": "Peter Walsh",
+      "color": "#8A5F1E",
+      "color_source_quote": "India"
+    }
+  },
+  "layers": {
+    "historical": {
+      "name": "Ordnance Survey, London, 1890s",
+      "tiles": "https://mapseries-tilesets.s3.amazonaws.com/london_1890s/{z}/{x}/{y}.png",
+      "minzoom": 10,
+      "maxzoom": 20,
+      "attribution": "Historical map: <a href=\"https://maps.nls.uk/\">National Library of Scotland</a> (CC BY-NC-SA)",
+      "note": "OS London Town Plan, 1890s. Thirty years before the novel, but the closest large-scale free layer; the street fabric Woolf walked is substantially this one.",
+      "licence": "CC BY-NC-SA — non-commercial use only"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>A · The Critical Edition — Mrs Dalloway</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css">
+<link rel="stylesheet" href="../tokens.css">
+<style>
+/* DIRECTION A — THE CRITICAL EDITION
+   The walk page as a page of a scholarly edition. Prose holds the centre and
+   sets the measure. The map is a *plate*: a figure that appears alongside the
+   text, captioned, not a chrome surface the text lives inside.
+   The reader should feel they are reading, and glancing at a map. */
+
+.wrap { max-width: 78rem; margin: 0 auto; padding: 0 var(--s5); }
+
+/* ---- masthead ---- */
+header.mast { padding: var(--s9) 0 var(--s7); border-bottom: 1px solid var(--rule); }
+.kicker { font-family: var(--sans); font-size: var(--step--1); letter-spacing: .16em;
+          text-transform: uppercase; color: var(--accent-ink); }
+h1 { font-size: var(--step-4); font-weight: 400; line-height: 1.02; letter-spacing: -.022em;
+     margin: var(--s4) 0 var(--s3); max-width: 18ch; }
+h1 em { font-style: italic; }
+.standfirst { font-size: var(--step-1); line-height: 1.5; color: var(--ink-2);
+              max-width: 46ch; font-weight: 300; }
+.byline { margin-top: var(--s5); display: flex; gap: var(--s5); flex-wrap: wrap; }
+.byline > div { border-left: 2px solid var(--rule); padding-left: var(--s3); }
+.byline dt { font-family: var(--sans); font-size: .68rem; letter-spacing: .12em;
+             text-transform: uppercase; color: var(--ink-3); }
+.byline dd { font-size: var(--step--1); font-family: var(--sans); color: var(--ink-2); }
+
+/* ---- the stop: prose column + plate ---- */
+.stop { display: grid; grid-template-columns: minmax(0,1fr) 22rem; gap: var(--s7);
+        padding: var(--s8) 0; border-bottom: 1px solid var(--rule); align-items: start; }
+@media (max-width: 900px) { .stop { grid-template-columns: 1fr; gap: var(--s5); } }
+
+.prose { max-width: 34rem; }         /* ~66ch — the measure does the work */
+
+.stop-head { display: flex; align-items: baseline; gap: var(--s3); margin-bottom: var(--s3); }
+.stop-no { font-family: var(--sans); font-size: .7rem; letter-spacing: .1em; color: var(--ink-3);
+           border: 1px solid var(--rule); border-radius: 2px; padding: .15rem .4rem; }
+.who { font-family: var(--sans); font-size: .7rem; letter-spacing: .12em; text-transform: uppercase;
+       font-weight: 700; color: var(--c); display: inline-flex; align-items: center; gap: .4rem; }
+.who::before { content:""; width: 6px; height: 6px; border-radius: 50%; background: var(--c); }
+
+.place-name { font-size: var(--step-2); font-weight: 400; letter-spacing: -.015em; line-height: 1.15; }
+.when { font-family: var(--sans); font-size: var(--step--1); color: var(--ink-3); margin-top: var(--s1); }
+
+/* The passage is the point. Give it the largest optical size and let it breathe. */
+blockquote { margin: var(--s5) 0; font-size: var(--step-1); line-height: 1.58; font-weight: 300;
+             text-indent: -.4em; }
+blockquote::before { content: '\201C'; color: var(--accent); }
+blockquote::after  { content: '\201D'; color: var(--accent); }
+
+.note { color: var(--ink-2); margin-top: var(--s4); }
+
+/* certainty as a footnote, because that is what it is */
+.footnote { margin-top: var(--s5); padding-top: var(--s3); border-top: 1px solid var(--rule);
+            display: grid; grid-template-columns: auto 1fr; gap: var(--s3); align-items: start; }
+.footnote .certainty-tag { color: var(--ink-2); white-space: nowrap; }
+.footnote p { font-family: var(--sans); font-size: var(--step--1); line-height: 1.6; color: var(--ink-3); }
+
+.sv { display: inline-flex; gap: .35rem; align-items: center; margin-top: var(--s4);
+      font-family: var(--sans); font-size: var(--step--1); color: var(--accent-ink);
+      text-decoration: none; border-bottom: 1px solid var(--accent-soft); padding-bottom: 2px; }
+.sv:hover { border-bottom-color: var(--accent); }
+
+/* ---- the plate ---- */
+figure { position: sticky; top: var(--s5); }
+.plate { position: relative; aspect-ratio: 4/5; background: var(--paper-3);
+         border: 1px solid var(--rule); overflow: hidden; }
+.plate .map { position: absolute; inset: 0; }
+figcaption { margin-top: var(--s2); font-family: var(--sans); font-size: .68rem; line-height: 1.5;
+             color: var(--ink-3); display: flex; justify-content: space-between; gap: var(--s3); }
+
+/* the simultaneity spread — the one moment that breaks the grid */
+.spread { background: var(--paper-3); border-block: 1px solid var(--rule); padding: var(--s8) 0; }
+.spread .lede { text-align: center; max-width: 40ch; margin: 0 auto var(--s7);
+                font-size: var(--step-1); font-weight: 300; line-height: 1.5; }
+.spread .lede strong { font-weight: 500; }
+.spread .two { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s7); }
+@media (max-width: 900px) { .spread .two { grid-template-columns: 1fr; } }
+.clock-rule { display: flex; align-items: center; gap: var(--s3); margin-bottom: var(--s6);
+              font-family: var(--sans); font-size: .7rem; letter-spacing: .2em; color: var(--accent-ink); }
+.clock-rule::before, .clock-rule::after { content:""; height: 1px; background: var(--rule); flex: 1; }
+
+.pin { width: 13px; height: 13px; border-radius: 50%; border: 2px solid var(--paper);
+       background: var(--c, var(--ink-3)); box-shadow: 0 1px 4px #0003; }
+.pin.on { transform: scale(1.45); box-shadow: 0 0 0 5px color-mix(in srgb, var(--c) 20%, transparent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div class="kicker">Read the Places · A walk in fifteen stops</div>
+    <h1>The London of <em>Mrs Dalloway</em></h1>
+    <p class="standfirst">One Wednesday in June 1923, from ten in the morning until three
+      the next. The novel keeps time by clocks; so does this walk.</p>
+    <dl class="byline">
+      <div><dt>Author</dt><dd>Virginia Woolf, 1925</dd></div>
+      <div><dt>Rights</dt><dd>Public domain · US &amp; UK</dd></div>
+      <div><dt>Historical map</dt><dd>OS London, 1890s · NLS</dd></div>
+      <div><dt>Accent colour</dt><dd>“her green dress”</dd></div>
+    </dl>
+  </header>
+</div>
+
+<main id="stops"></main>
+
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+<script type="module">
+import { loadBook, stopGroups, streetView, plateMap } from './shared.js';
+
+const { book, waypoints } = await loadBook();
+const groups = stopGroups(waypoints);
+const root = document.getElementById('stops');
+const C = id => book.characters[id];
+
+let n = 0;
+for (const g of groups) {
+  const paired = g.length > 1 && g.some(w => (w.simultaneous_with||[]).length);
+
+  if (paired) {
+    // The noon spread. The one place the grid breaks — because the novel breaks it.
+    const sec = document.createElement('section');
+    sec.className = 'spread';
+    sec.innerHTML = `<div class="wrap">
+      <div class="clock-rule">TWELVE O'CLOCK</div>
+      <p class="lede">Woolf holds two places in a single sentence. Clarissa lays out her dress;
+        two and a half miles north, a man walks to the doctor who will destroy him.
+        <strong>They never meet.</strong></p>
+      <div class="two">${g.map(w => card(w, ++n, true)).join('')}</div>
+    </div>`;
+    root.appendChild(sec);
+    g.forEach(w => plateMap(w, book));
+    continue;
+  }
+
+  for (const w of g) {
+    const sec = document.createElement('section');
+    sec.className = 'wrap';
+    sec.innerHTML = `<article class="stop">${card(w, ++n)}</article>`;
+    root.appendChild(sec);
+    plateMap(w, book);
+  }
+}
+
+function card(w, i, inSpread = false) {
+  const c = C(w.character);
+  const cert = w.place_certainty;
+  const plate = `
+    <figure>
+      <div class="plate"><div class="map map-modern" id="map-${w.id}"></div></div>
+      <figcaption><span>${w.name}</span><span>${w.coords[1].toFixed(4)}, ${w.coords[0].toFixed(4)}</span></figcaption>
+    </figure>`;
+
+  const body = `
+    <div class="prose">
+      <div class="stop-head">
+        <span class="stop-no">${String(i).padStart(2,'0')}</span>
+        <span class="who" style="--c:${c.color}">${c.name}</span>
+      </div>
+      <h2 class="place-name" data-certainty="${cert}">${w.name}</h2>
+      <div class="when">${w.clock} · ${Math.round(w.position*100)}% through the novel</div>
+      <blockquote>${w.passage}</blockquote>
+      <p class="note">${w.note}</p>
+      <div class="footnote">
+        <span class="certainty-tag">${cert}</span>
+        <p>${w.certainty_note || 'Named directly in the text.'}</p>
+      </div>
+      <a class="sv" href="${streetView(w.coords)}" target="_blank" rel="noopener">See it today, in Street View →</a>
+    </div>`;
+
+  return inSpread ? `<div>${body}${plate}</div>` : body + plate;
+}
+</script>
+</body>
+</html>

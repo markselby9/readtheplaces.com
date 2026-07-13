@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mrs Dalloway — Read the Places</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="app">
+    <section id="stage">
+      <div id="map-now" class="map"></div>
+      <div id="map-then" class="map"></div>
+
+      <span class="era-tag now">London today</span>
+      <span class="era-tag then">Ordnance Survey, 1890s</span>
+
+      <div id="wipe-handle"><span class="grip">THEN ⟷ NOW</span></div>
+    </section>
+
+    <aside id="reader">
+      <header id="masthead">
+        <div class="book"></div>
+        <div class="byline"></div>
+      </header>
+
+      <nav id="clock" role="tablist" aria-label="The clock"></nav>
+
+      <div id="stops"></div>
+
+      <footer id="nav">
+        <button id="prev" class="btn">← Back</button>
+        <button id="next" class="btn primary">Next stop →</button>
+      </footer>
+    </aside>
+  </main>
+
+  <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

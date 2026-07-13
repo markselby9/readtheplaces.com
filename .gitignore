@@ -1,0 +1,43 @@
+# Derived artifacts. Rebuilt by tools/ and the Astro build, never committed, so
+# the repo always reflects what a contributor actually authored.
+#
+# NB: gitignore only honours `#` at the START of a line — a trailing comment
+# becomes part of the pattern and silently matches nothing. Keep them above.
+
+# derived from waypoints.json + source.txt  (tools/validate.py)
+books/*/waypoints.built.json
+
+# regenerate with: python3 tools/extract.py <slug>
+books/*/candidates.json
+
+# cached Nominatim responses, so we don't hammer a free service
+books/*/.geocode-cache.json
+
+# regenerate with: python3 tools/plates.py <slug>
+design/plates/
+
+# Build
+node_modules/
+dist/
+.astro/
+.output/
+.wrangler/
+*.tsbuildinfo
+
+# Env — never commit keys, even free ones
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Python (tools/ is being ported to TypeScript; these linger meanwhile)
+__pycache__/
+*.pyc
+.venv/
