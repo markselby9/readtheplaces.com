@@ -20,7 +20,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "check": "bun run lint && bun run format:check && bun run typecheck && bun run test",
-    "prepare": "lefthook install",
+    "prepare": "lefthook install || true",
     "commit": "git cz || git commit",
     "new-book": "bun --filter @rtp/tools new-book",
     "fetch-text": "bun --filter @rtp/tools fetch-text",

@@ -37,7 +37,11 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
     {og && <meta property="og:image" content={og} />}
     <meta name="twitter:card" content={og ? 'summary_large_image' : 'summary'} />
 
-    {schema.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+    {
+      schema.map((s) => (
+        <script is:inline type="application/ld+json" set:html={JSON.stringify(s)} />
+      ))
+    }
 
     {preloadImage && <link rel="preload" href={preloadImage} as="image" fetchpriority="high" />}
 

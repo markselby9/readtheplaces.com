@@ -34,7 +34,7 @@ holds both.
 
 ```sh
 bun install
-bun run plates mrs-dalloway   # composite the static map images
+bun run plates                # composite the static map images
 bun dev
 ```
 

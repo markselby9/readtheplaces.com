@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Reader from '../../islands/Reader.svelte';
-import { allBooks, isStub, loadBook, stopGroups } from '../../lib/books';
+import { accentOf, allBooks, isStub, loadBook, stopGroups } from '../../lib/books';
 
 export async function getStaticPaths() {
   const books = await allBooks();
@@ -17,7 +17,7 @@ const groups = stopGroups(waypoints);
 <Base
   title={`Read ${book.title} — Read the Places`}
   description={`Move through the ${waypoints.length} places of ${book.title} in the order the novel visits them.`}
-  accent={book.palette.accent}
+  accent={accentOf(book)}
   ogImage={`/og/${slug}.png`}
 >
   {/* The only island in the site. Everything else ships zero JavaScript. */}

@@ -97,7 +97,7 @@ No code. Real craft. Enormous payoff.
 ```sh
 git clone …  &&  cd readtheplaces.com
 bun install
-bun run plates mrs-dalloway   # composite the static map images
+bun run plates                # composite the static map images
 bun dev
 ```
 

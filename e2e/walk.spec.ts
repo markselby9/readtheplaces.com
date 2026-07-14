@@ -43,13 +43,24 @@ test('links out to Google rather than embedding it', async ({ page }) => {
   await expect(page.getByRole('link', { name: /Street View/ }).first()).toBeVisible();
 });
 
-test('every stop always shows a modern map, lazily', async ({ page }) => {
+test('every stop shows a modern map, and only the first one is eager', async ({ page }) => {
   await page.goto('/mrs-dalloway/');
 
   const modern = page.locator('.plates img[src$="-now.webp"]');
   await expect(modern).toHaveCount(15);
-  for (const img of await modern.all()) {
+
+  // The first plate is the largest thing above the fold, so it is the LCP
+  // element. Lazy-loading it means the browser does not begin fetching it until
+  // layout, which is the worst thing to do to the one image that decides the
+  // score.
+  const first = modern.first();
+  await expect(first).toHaveAttribute('loading', 'eager');
+  await expect(first).toHaveAttribute('fetchpriority', 'high');
+
+  // Everything below the fold is lazy, and nothing else gets high priority.
+  for (const img of (await modern.all()).slice(1)) {
     await expect(img).toHaveAttribute('loading', 'lazy');
+    await expect(img).not.toHaveAttribute('fetchpriority', 'high');
   }
 });
 

@@ -34,6 +34,6 @@ const apart = paired && group[1] ? milesApart(head.coords, group[1].coords) : nu
   }
 
   <div class={paired ? 'fork' : undefined}>
-    {group.map((wp) => <Stop book={book} slug={slug} wp={wp} />)}
+    {group.map((wp, i) => <Stop book={book} slug={slug} wp={wp} eager={first && i === 0} />)}
   </div>
 </section>
