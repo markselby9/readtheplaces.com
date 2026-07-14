@@ -86,10 +86,22 @@ bun run new-book "Crime and Punishment" \
   --author "Fyodor Dostoevsky" --city "Saint Petersburg" --published 1866
 ```
 
-Fetches the text, locates the city, measures its bounding box, searches for a
-free historical map layer, and writes a `book.json` with everything a machine can
-know already filled in. It never invents a colour or a waypoint. Those are
-judgements, and they need a reader.
+Searches Standard Ebooks, fetches the text, locates the city, measures its
+bounding box, looks for a free historical map layer, and writes a `book.json`
+with everything a machine can know already filled in.
+
+It never invents a colour or a waypoint. Those are judgements, and they need a
+reader.
+
+## Adopt a book
+
+```sh
+bun run fetch-text ulysses     # 1.5M characters of Joyce
+bun run extract ulysses        # 108 place candidates, with sentences and coordinates
+```
+
+Then take one candidate, look at the pin on a map, and write two sentences about
+why the place matters to the novel. That is a waypoint.
 
 ## Find work
 
