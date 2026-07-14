@@ -548,3 +548,27 @@ replaces its UI layer entirely.
 **Must change first:** the prototype hardcodes `clock` as the ordering field.
 §3.2 replaces it with `position` + `progress_label` + `book.orderingKey`.
 *Crime and Punishment* cannot be represented otherwise, so this is task one.
+
+---
+
+## 12. Deployment
+
+Cloudflare Workers, serving static assets. There is no Worker script: the site is
+43 static pages and some images, served from the edge.
+
+Config lives in `wrangler.jsonc`. The build is:
+
+```
+bun install && bun run plates && bun run build
+```
+
+`bun run plates` composites the static map images. They are derived from the book
+data and gitignored, so they are built on every deploy rather than committed.
+
+**The build is the validator.** A book whose quotes are not in its novel fails
+here, and nothing reaches the edge.
+
+`_headers` and `_redirects` are in `apps/web/public/` and are natively supported
+by Workers Static Assets. The www-to-apex redirect is also configured in the
+Cloudflare dashboard; keeping it in the repo as well means a fork deploying
+somewhere else gets the same canonical behaviour without having to know about it.
