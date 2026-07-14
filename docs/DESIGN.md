@@ -568,6 +568,11 @@ data and gitignored, so they are built on every deploy rather than committed.
 **The build is the validator.** A book whose quotes are not in its novel fails
 here, and nothing reaches the edge.
 
+Deployment is Cloudflare's own git-connected Workers Build, configured in the
+dashboard. There is deliberately no deploy workflow in this repo: two deploy
+paths racing each other is worse than one, and the dashboard build needs no
+secrets.
+
 `_headers` and `_redirects` are in `apps/web/public/` and are natively supported
 by Workers Static Assets. The www-to-apex redirect is also configured in the
 Cloudflare dashboard; keeping it in the repo as well means a fork deploying
