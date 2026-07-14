@@ -1,0 +1,50 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  # Preview deploys for pull requests, so a data contributor can see their place
+  # on a real page before anyone merges it.
+  pull_request:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  deployments: write
+  pull-requests: write
+
+jobs:
+  deploy:
+    name: Deploy to Cloudflare Pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.2'
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+
+      - run: bun install --frozen-lockfile
+
+      # The plates are derived and gitignored, so they are composited here. This
+      # fetches map tiles, which is why it runs after install and before build.
+      - name: Composite the map plates
+        run: bun run plates
+
+      # The build is also the validator. A book whose quotes are not in its novel
+      # fails here, and nothing gets deployed.
+      - run: bun run build
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy apps/web/dist --project-name=readtheplaces --branch=${{ github.head_ref || github.ref_name }}

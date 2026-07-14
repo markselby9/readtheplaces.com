@@ -1,0 +1,23 @@
+# Cloudflare Pages headers.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+# Fonts are self-hosted, immutable, and fingerprinted by nothing. They never
+# change, so cache them for a year.
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Plates are derived from the book data. When a waypoint moves, the file name
+# stays the same, so a shorter cache with revalidation.
+/plates/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/og/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
