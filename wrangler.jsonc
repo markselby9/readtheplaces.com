@@ -1,0 +1,37 @@
+{
+  // Cloudflare Workers, serving static assets.
+  //
+  // There is no Worker script. The site is 42 static pages and some images, and
+  // Cloudflare serves them straight from the edge. Workers Static Assets is the
+  // path Cloudflare now recommends over Pages, and it is what the readtheplaces
+  // project on the dashboard is already using.
+  //
+  // The build that produces ./apps/web/dist is:
+  //
+  //   bun install && bun run plates && bun run build
+  //
+  // `bun run plates` composites the static map images. They are derived from the
+  // book data and gitignored, so they have to be built here, not committed.
+  //
+  // The build is also the validator: a book whose quotes are not in its novel
+  // fails at build time, and nothing is deployed.
+
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "readtheplaces-com",
+  "compatibility_date": "2026-07-01",
+
+  "assets": {
+    "directory": "./apps/web/dist",
+
+    // Astro emits /mrs-dalloway/index.html, and a reader asking for
+    // /mrs-dalloway should get it rather than a redirect.
+    "html_handling": "auto-trailing-slash",
+
+    // Serve the built 404 page rather than a bare Cloudflare error.
+    "not_found_handling": "404-page",
+  },
+
+  "observability": {
+    "enabled": true,
+  },
+}

@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import { allBooks, isStub } from '../lib/books';
+
+const books = await allBooks();
+const mapped = books.filter((b) => !isStub(b));
+---
+
+<Base
+  title="Not a place we know"
+  description="That page does not exist. Here are the books that do."
+>
+  <div class="wrap">
+    <header class="mast">
+      <p class="kicker">404</p>
+      <h1>Not a place we know.</h1>
+      <p class="standfirst">
+        There is nothing at this address. There is, however, a whole atlas one click away.
+      </p>
+
+      <ul class="links">
+        <li><a href="/">All {books.length} books</a></li>
+        {
+          mapped.map(({ slug, book }) => (
+            <li>
+              <a href={`/${slug}/`}>
+                The {book.setting.city} of <em>{book.title}</em>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </header>
+  </div>
+</Base>
+
+<style>
+  .links {
+    list-style: none;
+    padding: 0;
+    margin-top: var(--s6);
+    display: grid;
+    gap: var(--s3);
+  }
+  .links a {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-2);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2px;
+  }
+  .links a:hover {
+    border-bottom-color: var(--accent);
+    color: var(--ink);
+  }
+</style>

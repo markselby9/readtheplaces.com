@@ -36,7 +36,8 @@
     "prettier-plugin-astro": "0.14.1",
     "prettier-plugin-svelte": "3.4.0",
     "typescript": "5.9.3",
-    "vitest": "4.1.10"
+    "vitest": "4.1.10",
+    "wrangler": "^4.110.0"
   },
   "engines": {
     "bun": ">=1.2.0"

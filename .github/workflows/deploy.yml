@@ -3,22 +3,24 @@ name: Deploy
 on:
   push:
     branches: [main]
-  # Preview deploys for pull requests, so a data contributor can see their place
-  # on a real page before anyone merges it.
-  pull_request:
+  workflow_dispatch:
 
 concurrency:
-  group: deploy-${{ github.ref }}
+  group: deploy
   cancel-in-progress: true
 
 permissions:
   contents: read
-  deployments: write
-  pull-requests: write
 
+# Cloudflare Workers, serving static assets. See wrangler.jsonc.
+#
+# This runs only if the repository has CLOUDFLARE_API_TOKEN set. Cloudflare's own
+# git-connected Workers Build can do the same job from the dashboard; whichever
+# you use, the build command is the same, and the build is the validator, so a
+# book whose quotes are not in its novel never reaches the edge.
 jobs:
   deploy:
-    name: Deploy to Cloudflare Pages
+    name: Deploy to Cloudflare
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -33,13 +35,11 @@ jobs:
 
       - run: bun install --frozen-lockfile
 
-      # The plates are derived and gitignored, so they are composited here. This
-      # fetches map tiles, which is why it runs after install and before build.
+      # The map plates are derived from the book data and gitignored, so they are
+      # composited here rather than committed. This fetches map tiles.
       - name: Composite the map plates
         run: bun run plates
 
-      # The build is also the validator. A book whose quotes are not in its novel
-      # fails here, and nothing gets deployed.
       - run: bun run build
 
       - name: Deploy
@@ -47,4 +47,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy apps/web/dist --project-name=readtheplaces --branch=${{ github.head_ref || github.ref_name }}
+          command: deploy
