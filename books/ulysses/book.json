@@ -1,0 +1,23 @@
+{
+  "id": "ulysses",
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "published": 1922,
+  "orderingKey": "chapter",
+  "center": [-6.2606, 53.3494],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Dublin",
+    "country": "IE",
+    "note": "One day, 16 June 1904, mapped street by street. Joyce said he wanted Dublin rebuildable from the book, and people have been walking it every Bloomsday since. The most obvious book in the world for this project, and the hardest to do well.",
+    "bbox": [-6.387, 53.299, -6.115, 53.411]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. James Joyce published this in 1922.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/james-joyce/ulysses",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "James Joyce, Ulysses (1922)."
+  }
+}

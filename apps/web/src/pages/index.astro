@@ -1,15 +1,28 @@
 ---
 import Base from '../layouts/Base.astro';
-import { allBooks } from '../lib/books';
+import { accentOf, allBooks, isStub } from '../lib/books';
+import { websiteSchema } from '../lib/structured-data';
+import { slugifyCity } from './places/[city].astro';
 
 const books = await allBooks();
+
+const mapped = books.filter((b) => !isStub(b));
+const open = books.filter(isStub);
+
+const cities = [...new Set(books.map((b) => b.book.setting.city))];
+const places = mapped.reduce((n, b) => n + b.waypoints.length, 0);
+
 const repo = 'https://github.com/markselby9/readtheplaces.com';
+
+const cityLinks = [...new Set(books.map((b) => b.book.setting.city))].sort();
+const schema = [websiteSchema(books.length, cities.length)];
 ---
 
 <Base
   title="Read the Places: not a map of books, a book you can walk through"
-  description="An open, contributor-driven atlas of the real places in novels, presented in the order the story happens."
+  description={`An open atlas of the real places in novels, in the order the story visits them. ${books.length} books across ${cities.length} cities, and every place is pinned to a verbatim line from the text.`}
   ogImage="/og/mrs-dalloway.png"
+  schema={schema}
 >
   <div class="wrap">
     <header class="mast">
@@ -20,29 +33,64 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
         is pinned to a verbatim line from the book, and says how sure we are that it is the right
         place.
       </p>
+
+      <dl class="colophon">
+        <div>
+          <dt>Books</dt>
+          <dd>{books.length}</dd>
+        </div>
+        <div>
+          <dt>Cities</dt>
+          <dd>{cities.length}</dd>
+        </div>
+        <div>
+          <dt>Places mapped</dt>
+          <dd>{places}</dd>
+        </div>
+        <div>
+          <dt>Open for adoption</dt>
+          <dd>{open.length}</dd>
+        </div>
+      </dl>
     </header>
 
     <main id="main">
-      <ul class="books">
-        {
-          books.map(({ slug, book, waypoints }) => (
-            <li style={`--accent: ${book.palette.accent}`}>
-              <a href={`/${slug}/`}>
-                <span class="kicker">
-                  {book.setting.city} · {book.published}
-                </span>
-                <h2>{book.title}</h2>
-                <p class="by">{book.author}</p>
-                <p class="note">{book.setting.note}</p>
-                <p class="count">{waypoints.length} places →</p>
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+      <section aria-labelledby="mapped">
+        <h2 id="mapped" class="section">Mapped</h2>
+        <ul class="books">
+          {
+            mapped.map(({ slug, book, waypoints }) => (
+              <li style={`--accent: ${accentOf(book)}`}>
+                <a href={`/${slug}/`}>
+                  <span class="meta">
+                    {book.setting.city} · {book.published}
+                  </span>
+                  <h3>{book.title}</h3>
+                  <p class="by">{book.author}</p>
+                  <p class="note">{book.setting.note}</p>
+                  <p class="count">{waypoints.length} places →</p>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
 
-      <section class="pitch">
-        <h2>Why the order matters</h2>
+      <nav class="cities" aria-label="Browse by city">
+        <h2 class="section">By city</h2>
+        <ul>
+          {
+            cityLinks.map((c) => (
+              <li>
+                <a href={`/places/${slugifyCity(c)}/`}>{c}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+
+      <section class="pitch" aria-labelledby="why">
+        <h2 id="why">Why the order matters</h2>
         <p>
           A map with a chapter filter is a map of pins, and those already exist. What they cannot do
           is this. In <em>Mrs Dalloway</em>, at noon:
@@ -56,30 +104,63 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
           One sentence. One stroke of the clock. Two places nearly two miles apart, two people who
           never meet, one of whom will be dead within six hours. Order is the whole difference.
         </p>
+      </section>
 
-        <h2>Help build it</h2>
-        <p>
-          You do not need to write code to do the most valuable work here, and you will never be
-          asked to upload a photograph. Adding a place means a coordinate, a verbatim quote, a
-          source, and an honest label saying how sure you are. <a
-            href={`${repo}/blob/main/CONTRIBUTING.md`}>Start here</a
-          >.
+      <section aria-labelledby="open">
+        <h2 id="open" class="section">Open for adoption</h2>
+        <p class="section-note">
+          Listed because they can be done: the text is public domain, the city is real, and the
+          places in them are findable. Each is waiting for somebody who has read it. <a
+            href={`${repo}/blob/main/CONTRIBUTING.md`}>You do not need to write code.</a
+          >
         </p>
+
+        <ul class="books stubs">
+          {
+            open.map(({ slug, book }) => (
+              <li>
+                <a href={`/${slug}/`}>
+                  <span class="meta">
+                    {book.setting.city} · {book.published}
+                  </span>
+                  <h3>{book.title}</h3>
+                  <p class="by">{book.author}</p>
+                  <p class="count claim">Adopt this book →</p>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
       </section>
     </main>
   </div>
 </Base>
 
 <style>
+  .section {
+    margin-block: var(--s8) var(--s4);
+    font-size: var(--step-2);
+    font-weight: 400;
+  }
+  .section-note {
+    max-width: 40rem;
+    margin-bottom: var(--s5);
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    font-family: var(--sans);
+    line-height: 1.65;
+  }
+
   .books {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
-    gap: var(--s5);
-    margin-bottom: var(--s9);
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: var(--s4);
+    padding: 0;
   }
   .books a {
     display: block;
+    height: 100%;
     padding: var(--s5);
     background: var(--paper-2);
     border: 1px solid var(--rule);
@@ -91,40 +172,82 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
   .books a:hover {
     border-color: var(--accent);
   }
-  .books h2 {
-    font-size: var(--step-2);
-    font-weight: 400;
-    font-style: italic;
-    margin-block: var(--s2) var(--s1);
-  }
+  .books .meta,
   .books .by,
   .books .count {
     font-family: var(--sans);
     font-size: var(--step--1);
     color: var(--ink-3);
   }
+  .books .meta {
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .books h3 {
+    margin-block: var(--s2) var(--s1);
+    font-size: var(--step-1);
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1.2;
+  }
   .books .note {
     margin-block: var(--s3);
     color: var(--ink-2);
     font-size: var(--step--1);
+    line-height: 1.55;
   }
   .books .count {
+    margin-top: var(--s3);
     color: var(--accent);
     font-weight: 700;
   }
 
+  /* A stub looks provisional on purpose: dashed, uncoloured, waiting. */
+  .stubs a {
+    border-style: dashed;
+    border-left-color: var(--ink-3);
+    background: transparent;
+  }
+  .stubs a:hover {
+    border-color: var(--ink);
+  }
+  .stubs .claim {
+    color: var(--ink-2);
+  }
+
+  .cities ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--s2) var(--s4);
+    padding: 0;
+  }
+  .cities a {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-2);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2px;
+  }
+  .cities a:hover {
+    border-bottom-color: var(--accent);
+    color: var(--ink);
+  }
+
   .pitch {
     max-width: 38rem;
-    padding-bottom: var(--s9);
+    margin-block: var(--s9);
   }
   .pitch h2 {
+    margin-bottom: var(--s4);
     font-size: var(--step-2);
     font-weight: 400;
-    margin-block: var(--s7) var(--s4);
   }
   .pitch p {
-    color: var(--ink-2);
     margin-bottom: var(--s4);
+    color: var(--ink-2);
   }
   .pitch blockquote {
     color: var(--ink);

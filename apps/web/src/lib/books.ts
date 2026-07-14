@@ -30,6 +30,22 @@ export interface LoadedBook {
   waypoints: BuiltWaypoint[];
 }
 
+/** The default ink accent, for a book nobody has chosen a colour for yet. */
+export const DEFAULT_ACCENT = '#4a453d';
+
+/**
+ * A stub is a book that has been listed but not adopted: rights, a city and a
+ * bounding box, but no waypoints, no colour and no text. It appears on the site
+ * as open for adoption, which is the point of listing it.
+ */
+export function isStub(b: LoadedBook): boolean {
+  return b.waypoints.length === 0;
+}
+
+export function accentOf(book: Book): string {
+  return book.palette?.accent ?? DEFAULT_ACCENT;
+}
+
 /**
  * Load a book and derive every waypoint's position from the novel itself.
  *
@@ -44,9 +60,25 @@ export async function loadBook(slug: string): Promise<LoadedBook> {
   const raw = all.find((w) => w.id.startsWith(`${slug}/`))?.data;
   if (!book || !raw) throw new Error(`No such book: ${slug}`);
 
-  const text = readFileSync(join(BOOKS, slug, 'source.txt'), 'utf8');
-  const { errors, built } = validateBook(book, raw, text);
+  // A stub is a book that has been listed but not yet adopted: rights, a city
+  // and a bounding box, but no waypoints, no colour, and no text. It appears on
+  // the site as open for adoption. Nothing to validate, because it claims
+  // nothing about the novel yet.
+  if (raw.length === 0) {
+    return { slug, book, waypoints: [] };
+  }
 
+  const source = join(BOOKS, slug, 'source.txt');
+  if (!existsSync(source)) {
+    throw new Error(
+      `${slug} has ${raw.length} waypoint(s) but no source.txt. ` +
+        'Every quote is checked against the text, so the text has to be committed. ' +
+        'Run: bun run fetch-text ' +
+        slug,
+    );
+  }
+
+  const { errors, built } = validateBook(book, raw, readFileSync(source, 'utf8'));
   if (errors.length > 0) {
     throw new Error(`${slug} failed validation:\n  ${errors.join('\n  ')}`);
   }

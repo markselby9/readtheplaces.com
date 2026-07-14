@@ -1,0 +1,23 @@
+{
+  "id": "the-secret-agent",
+  "title": "The Secret Agent",
+  "author": "Joseph Conrad",
+  "published": 1907,
+  "orderingKey": "chapter",
+  "center": [-0.1278, 51.5074],
+  "zoom": 12.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Built around a real event: the 1894 attempt to bomb the Greenwich Observatory. Conrad walks his anarchists across a London he names honestly, and the Observatory is still standing.",
+    "bbox": [-0.51, 51.287, 0.334, 51.692]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Joseph Conrad published this in 1907.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Joseph Conrad, The Secret Agent (1907)."
+  }
+}

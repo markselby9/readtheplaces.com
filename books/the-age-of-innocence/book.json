@@ -1,0 +1,23 @@
+{
+  "id": "the-age-of-innocence",
+  "title": "The Age of Innocence",
+  "author": "Edith Wharton",
+  "published": 1920,
+  "orderingKey": "chapter",
+  "center": [-74.006, 40.7127],
+  "zoom": 12.5,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "Gilded Age Manhattan, where an address is a verdict. Wharton is exact about which streets are respectable and which are not, and half of the buildings are gone.",
+    "bbox": [-74.259, 40.477, -73.7, 40.918]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Edith Wharton published this in 1920.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Edith Wharton, The Age of Innocence (1920)."
+  }
+}

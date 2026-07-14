@@ -1,0 +1,23 @@
+{
+  "id": "the-idiot",
+  "title": "The Idiot",
+  "author": "Fyodor Dostoevsky",
+  "published": 1869,
+  "orderingKey": "chapter",
+  "center": [30.1587, 59.9607],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Saint Petersburg",
+    "country": "RU",
+    "note": "Dostoevsky’s other Petersburg, moving between Pavlovsk and the city. A companion to Crime and Punishment, and a chance to test whether two books can share a city and still feel distinct.",
+    "bbox": [29.426, 59.634, 30.759, 60.245]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Fyodor Dostoevsky published this in 1869.",
+    "translation": "Translated by eva m martin. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Fyodor Dostoevsky, The Idiot (1869)."
+  }
+}

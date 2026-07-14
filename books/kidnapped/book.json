@@ -1,0 +1,23 @@
+{
+  "id": "kidnapped",
+  "title": "Kidnapped",
+  "author": "Robert Louis Stevenson",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "center": [-3.1884, 55.9533],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Edinburgh",
+    "country": "GB",
+    "note": "Begins in Edinburgh and crosses the Highlands after a real murder, the Appin killing of 1752. Stevenson tracked the route on maps and it can be walked.",
+    "bbox": [-3.45, 55.819, -3.075, 56.004]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Robert Louis Stevenson published this in 1886.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Robert Louis Stevenson, Kidnapped (1886)."
+  }
+}

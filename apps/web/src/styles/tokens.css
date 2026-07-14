@@ -11,7 +11,7 @@
   --paper-3: #ede8dc;
   --ink: #1b1917;
   --ink-2: #4a453d;
-  --ink-3: #857d70;
+  --ink-3: #6f6a5c;
   --rule: #d9d2c4;
 
   /* The accent is set per book, from the book's own text. See Base.astro. */
@@ -22,8 +22,8 @@
      screens. It is what the novel is set in.
      Atkinson Hyperlegible: built by the Braille Institute for legibility. It is
      what the apparatus is set in. */
-  --serif: 'Literata', Georgia, 'Times New Roman', serif;
-  --sans: 'Atkinson Hyperlegible', system-ui, -apple-system, sans-serif;
+  --serif: 'Literata', 'Literata Fallback', Georgia, serif;
+  --sans: 'Atkinson Hyperlegible', 'Atkinson Fallback', system-ui, sans-serif;
 
   --step--1: clamp(0.78rem, 0.76rem + 0.1vw, 0.84rem);
   --step-0: clamp(1.02rem, 0.98rem + 0.2vw, 1.12rem);
@@ -454,4 +454,24 @@ blockquote::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* ------------------------------------------------------------- breadcrumbs */
+
+.crumbs {
+  padding-top: var(--s6);
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  color: var(--ink-3);
+}
+.crumbs a {
+  color: var(--ink-2);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+.crumbs a:hover {
+  border-bottom-color: var(--accent);
+}
+.crumbs span[aria-hidden] {
+  margin-inline: 0.4rem;
 }

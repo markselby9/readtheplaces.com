@@ -1,0 +1,23 @@
+{
+  "id": "heart-of-darkness",
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "published": 1899,
+  "orderingKey": "chapter",
+  "center": [15.3424, -4.3197],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Kinshasa",
+    "country": "CD",
+    "note": "Conrad went up the Congo himself in 1890 and the novella follows his own journey. It will have almost no Street View, no historical layer, and the places are named obliquely. If the design survives this book it survives anything.",
+    "bbox": [15.127, -5.033, 16.534, -3.928]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Joseph Conrad published this in 1899.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Joseph Conrad, Heart of Darkness (1899)."
+  }
+}

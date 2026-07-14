@@ -41,11 +41,14 @@ for (const wp of waypoints) {
 
   for (const [era, template, ink] of eras) {
     const buf = await renderPlate({
+      // Measured on the built page: the plate displays at 399x249 CSS pixels, so
+      // at DPR 2 it needs about 800x500. Shipping 1280x800 was 1.6x more pixels
+      // than any screen could use, and it was the LCP element.
       lat,
       lon,
       zoom: 16,
-      width: 640,
-      height: 400,
+      width: 512,
+      height: 320,
       template,
       ink,
       pin,

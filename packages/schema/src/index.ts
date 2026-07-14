@@ -107,14 +107,24 @@ export const bookSchema = z.object({
     attribution: z.string().optional(),
   }),
 
-  /** A book's accent is a quotation from its own text, and the build checks it. */
-  palette: z.object({
-    accent: z.string().regex(HEX),
-    accentSourceQuote: z.string().optional(),
-    note: z.string().optional(),
-  }),
+  /**
+   * A book's accent is a quotation from its own text, and the build checks it.
+   *
+   * Optional, because a book can be listed before anyone has adopted it. A stub
+   * has rights, a city and a bounding box, but no colour and no waypoints, and
+   * the site shows it as open for adoption. Whoever takes it chooses the colour,
+   * and has to cite the line that justifies it.
+   */
+  palette: z
+    .object({
+      accent: z.string().regex(HEX),
+      accentSourceQuote: z.string().optional(),
+      note: z.string().optional(),
+    })
+    .optional(),
 
-  characters: z.record(z.string(), characterSchema),
+  /** Empty on a stub, for the same reason as palette. */
+  characters: z.record(z.string(), characterSchema).default({}),
 
   /** Optional. Moscow, Shanghai and St Petersburg have no free historical layer;
    *  those books render a single map with no wipe. */

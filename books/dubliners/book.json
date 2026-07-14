@@ -1,0 +1,23 @@
+{
+  "id": "dubliners",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "published": 1914,
+  "orderingKey": "chapter",
+  "center": [-6.2606, 53.3494],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Dublin",
+    "country": "IE",
+    "note": "Fifteen stories, fifteen corners of one city, each with a real address. A gentler way into Joyce’s Dublin than Ulysses, and a natural first book for a new contributor.",
+    "bbox": [-6.387, 53.299, -6.115, 53.411]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. James Joyce published this in 1914.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "James Joyce, Dubliners (1914)."
+  }
+}

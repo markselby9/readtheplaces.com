@@ -1,0 +1,23 @@
+{
+  "id": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "author": "Mikhail Bulgakov",
+  "published": 1967,
+  "orderingKey": "chapter",
+  "center": [37.6064, 55.6256],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Moscow",
+    "country": "RU",
+    "note": "Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. Check the rights carefully: Bulgakov died in 1940, but the translation you use may not be free.",
+    "bbox": [36.803, 55.142, 37.967, 56.021]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Mikhail Bulgakov published this in 1967.",
+    "translation": "Translated by michael glenny. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/mikhail-bulgakov/the-master-and-margarita/michael-glenny",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Mikhail Bulgakov, The Master and Margarita (1967)."
+  }
+}

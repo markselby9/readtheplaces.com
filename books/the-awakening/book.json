@@ -1,0 +1,23 @@
+{
+  "id": "the-awakening",
+  "title": "The Awakening",
+  "author": "Kate Chopin",
+  "published": 1899,
+  "orderingKey": "chapter",
+  "center": [-90.0734, 29.9561],
+  "zoom": 12.5,
+  "setting": {
+    "city": "New Orleans",
+    "country": "US",
+    "note": "The French Quarter and Grand Isle, and a woman walking out of one life into the sea. Short, precise, and set in a city that has since been remade twice by water.",
+    "bbox": [-90.14, 29.865, -89.625, 30.199]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Kate Chopin published this in 1899.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Kate Chopin, The Awakening (1899)."
+  }
+}

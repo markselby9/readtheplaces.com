@@ -1,0 +1,23 @@
+{
+  "id": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "published": 1925,
+  "orderingKey": "chapter",
+  "center": [-74.006, 40.7127],
+  "zoom": 12.5,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "West Egg and East Egg are invented, the Valley of Ashes is Corona, and the Plaza is the Plaza. A book that will exercise inspired_by harder than any other on this list.",
+    "bbox": [-74.259, 40.477, -73.7, 40.918]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. F. Scott Fitzgerald published this in 1925.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "F. Scott Fitzgerald, The Great Gatsby (1925)."
+  }
+}

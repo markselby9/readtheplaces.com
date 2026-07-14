@@ -1,0 +1,23 @@
+{
+  "id": "les-miserables",
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "published": 1862,
+  "orderingKey": "chapter",
+  "center": [2.32, 48.8589],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "The barricade of the Rue de la Chanvrerie, the sewers, the convent. Hugo stops the novel for fifty pages to describe Paris, which is either a flaw or the point.",
+    "bbox": [2.224, 48.816, 2.47, 48.902]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Victor Hugo published this in 1862.",
+    "translation": "Translated by isabel f hapgood. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Victor Hugo, Les Misérables (1862)."
+  }
+}

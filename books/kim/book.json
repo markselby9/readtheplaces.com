@@ -1,0 +1,23 @@
+{
+  "id": "kim",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "published": 1901,
+  "orderingKey": "chapter",
+  "center": [74.3142, 31.5657],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Lahore",
+    "country": "PK",
+    "note": "It opens on the gun Zam-Zammah outside the Lahore Museum, both of which are still there, and then walks the length of the Grand Trunk Road. A test of whether this works outside Europe, where Street View is thin and historical layers are thinner.",
+    "bbox": [74.154, 31.406, 74.474, 31.726]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Rudyard Kipling published this in 1901.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Rudyard Kipling, Kim (1901)."
+  }
+}

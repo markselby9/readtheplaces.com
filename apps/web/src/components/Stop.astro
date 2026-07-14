@@ -6,9 +6,11 @@ interface Props {
   book: Book;
   slug: string;
   wp: BuiltWaypoint;
+  /** The first stop is the LCP element. It must not be lazy. */
+  eager?: boolean;
 }
 
-const { book, slug, wp } = Astro.props;
+const { book, slug, wp, eager = false } = Astro.props;
 
 const character = book.characters[wp.character]!;
 const historical = book.layers?.historical;
@@ -36,9 +38,10 @@ const caption = historical
   <figure class="plates">
     <img
       src={plate('now')}
-      width="640"
-      height="400"
-      loading="lazy"
+      width="512"
+      height="320"
+      loading={eager ? 'eager' : 'lazy'}
+      fetchpriority={eager ? 'high' : undefined}
       decoding="async"
       alt={`Map of ${wp.name} today`}
     />
@@ -46,8 +49,8 @@ const caption = historical
       historical && (
         <img
           src={plate('then')}
-          width="640"
-          height="400"
+          width="512"
+          height="320"
           loading="lazy"
           decoding="async"
           alt={`${wp.name} on the ${historical.name}`}

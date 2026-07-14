@@ -1,7 +1,10 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Spine from '../../components/Spine.astro';
-import { allBooks, loadBook, stopGroups } from '../../lib/books';
+import Adopt from '../../components/Adopt.astro';
+import { accentOf, allBooks, isStub, loadBook, stopGroups } from '../../lib/books';
+import { bookSchema, breadcrumbSchema } from '../../lib/structured-data';
+import { slugifyCity } from '../places/[city].astro';
 
 export async function getStaticPaths() {
   const books = await allBooks();
@@ -9,21 +12,46 @@ export async function getStaticPaths() {
 }
 
 const slug = Astro.params.book!;
-const { book, waypoints } = await loadBook(slug);
-const groups = stopGroups(waypoints);
+const loaded = await loadBook(slug);
+const { book, waypoints } = loaded;
 
+const stub = isStub(loaded);
+const groups = stopGroups(waypoints);
 const historical = book.layers?.historical;
+
+const citySlug = slugifyCity(book.setting.city);
+
 const title = `The ${book.setting.city} of ${book.title}`;
-const description = `${waypoints.length} real places from ${book.title}, in the order ${book.author} visits them.`;
+const description = stub
+  ? `${book.title} by ${book.author}, set in ${book.setting.city}. Listed and open for adoption: nobody has mapped its places yet.`
+  : `${waypoints.length} real places from ${book.title}, in the order ${book.author} visits them.`;
+const schema = [
+  bookSchema(loaded),
+  breadcrumbSchema([
+    { name: 'Read the Places', url: '/' },
+    { name: book.setting.city, url: `/places/${citySlug}/` },
+    { name: book.title, url: `/${slug}/` },
+  ]),
+];
 ---
 
 <Base
   title={title}
   description={description}
-  accent={book.palette.accent}
+  accent={accentOf(book)}
   ogImage={`/og/${slug}.png`}
+  schema={schema}
+  preloadImage={stub ? undefined : `/plates/${slug}/${waypoints[0]!.id}-now.webp`}
 >
   <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Read the Places</a>
+      <span aria-hidden="true">/</span>
+      <a href={`/places/${citySlug}/`}>{book.setting.city}</a>
+      <span aria-hidden="true">/</span>
+      <span>{book.title}</span>
+    </nav>
+
     <header class="mast">
       <p class="kicker">Read the Places</p>
       <h1>The {book.setting.city} of <em>{book.title}</em></h1>
@@ -36,7 +64,7 @@ const description = `${waypoints.length} real places from ${book.title}, in the 
         </div>
         <div>
           <dt>Places</dt>
-          <dd>{waypoints.length}</dd>
+          <dd>{stub ? 'none yet' : waypoints.length}</dd>
         </div>
         {
           historical && (
@@ -46,19 +74,37 @@ const description = `${waypoints.length} real places from ${book.title}, in the 
             </div>
           )
         }
-        <div>
-          <dt>Accent colour</dt>
-          <dd>“{book.palette.accentSourceQuote}”</dd>
-        </div>
+        {
+          book.palette?.accentSourceQuote && (
+            <div>
+              <dt>Accent colour</dt>
+              <dd>“{book.palette.accentSourceQuote}”</dd>
+            </div>
+          )
+        }
       </dl>
 
-      <p class="actions">
-        <a href={`/${slug}/read/`}>Open the interactive map →</a>
-      </p>
+      {
+        !stub && (
+          <p class="actions">
+            <a href={`/${slug}/read/`}>Open the interactive map →</a>
+          </p>
+        )
+      }
     </header>
   </div>
 
-  <main id="main" class="wrap timeline" data-ordering={book.orderingKey}>
-    {groups.map((group) => <Spine book={book} slug={slug} group={group} />)}
-  </main>
+  {
+    stub ? (
+      <main id="main" class="wrap">
+        <Adopt slug={slug} book={book} />
+      </main>
+    ) : (
+      <main id="main" class="wrap timeline" data-ordering={book.orderingKey}>
+        {groups.map((group, i) => (
+          <Spine book={book} slug={slug} group={group} first={i === 0} />
+        ))}
+      </main>
+    )
+  }
 </Base>

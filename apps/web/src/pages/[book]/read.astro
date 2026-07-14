@@ -1,11 +1,12 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Reader from '../../islands/Reader.svelte';
-import { allBooks, loadBook, stopGroups } from '../../lib/books';
+import { allBooks, isStub, loadBook, stopGroups } from '../../lib/books';
 
 export async function getStaticPaths() {
   const books = await allBooks();
-  return books.map(({ slug }) => ({ params: { book: slug } }));
+  // A stub has no places, so there is nothing to read. It gets no reader page.
+  return books.filter((b) => !isStub(b)).map(({ slug }) => ({ params: { book: slug } }));
 }
 
 const slug = Astro.params.book!;

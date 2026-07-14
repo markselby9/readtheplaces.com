@@ -1,0 +1,23 @@
+{
+  "id": "death-in-venice",
+  "title": "Death in Venice",
+  "author": "Thomas Mann",
+  "published": 1912,
+  "orderingKey": "chapter",
+  "center": [12.3105, 45.4046],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Venice",
+    "country": "IT",
+    "note": "The Lido, the lagoon, a city Mann fills with cholera and does not name the disease. Short enough to do properly, and the geography is a single hotel and the water in front of it.",
+    "bbox": [12.167, 45.231, 12.597, 45.578]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Thomas Mann published this in 1912.",
+    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/death-in-venice/h-t-lowe-porter",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Thomas Mann, Death in Venice (1912)."
+  }
+}

@@ -7,19 +7,21 @@ interface Props {
   book: Book;
   slug: string;
   group: BuiltWaypoint[];
+  /** True for the first stop group, whose plate is the LCP element. */
+  first?: boolean;
 }
 
-const { book, slug, group } = Astro.props;
+const { book, slug, group, first = false } = Astro.props;
 
 const paired = isSimultaneous(group);
-const first = group[0]!;
-const apart = paired && group[1] ? milesApart(first.coords, group[1].coords) : null;
+const head = group[0]!;
+const apart = paired && group[1] ? milesApart(head.coords, group[1].coords) : null;
 ---
 
 <section class="hour" data-paired={paired ? '' : undefined}>
   <div class="strike">
-    <span class="label">{first.progressLabel}</span>
-    <span class="pct">{Math.round(first.position * 100)}% in</span>
+    <span class="label">{head.progressLabel}</span>
+    <span class="pct">{Math.round(head.position * 100)}% in</span>
   </div>
 
   {

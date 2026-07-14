@@ -1,0 +1,11 @@
+# Read the Places
+# https://github.com/markselby9/readtheplaces.com
+
+User-agent: *
+Allow: /
+
+# The book data is CC BY-SA 4.0 and openly licensed. Take it from the repository
+# rather than scraping the site: it is cleaner there, and it is the whole point.
+# https://github.com/markselby9/readtheplaces.com/tree/main/books
+
+Sitemap: https://readtheplaces.com/sitemap-index.xml

@@ -1,0 +1,23 @@
+{
+  "id": "anna-karenina",
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "published": 1878,
+  "orderingKey": "chapter",
+  "center": [37.6064, 55.6256],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Moscow",
+    "country": "RU",
+    "note": "Moscow, Petersburg, and the railway between them. The novel opens at a station and ends at one, and the line itself is the most important place in it.",
+    "bbox": [36.803, 55.142, 37.967, 56.021]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Leo Tolstoy published this in 1878.",
+    "translation": "Translated by constance garnett. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Leo Tolstoy, Anna Karenina (1878)."
+  }
+}

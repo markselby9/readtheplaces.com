@@ -1,0 +1,23 @@
+{
+  "id": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "center": [-0.1278, 51.5074],
+  "zoom": 12.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "A door in a back street in Soho, and a respectable house around the corner that turns out to be the same building. The whole novella is an argument about a floor plan.",
+    "bbox": [-0.51, 51.287, 0.334, 51.692]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Robert Louis Stevenson published this in 1886.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Robert Louis Stevenson, The Strange Case of Dr. Jekyll and Mr. Hyde (1886)."
+  }
+}

@@ -27,8 +27,11 @@ function occurrences(haystack: string, needle: string): number[] {
 function checkPalette(book: Book, text: string): string[] {
   const errors: string[] = [];
 
+  // A stub has no colour yet. Nothing to check, and nothing wrong.
+  if (!book.palette) return errors;
+
   const claims: Array<[string, string | undefined, string | undefined]> = [
-    ['palette.accent', book.palette?.accent, book.palette?.accentSourceQuote],
+    ['palette.accent', book.palette.accent, book.palette.accentSourceQuote],
     ...Object.entries(book.characters ?? {}).map(
       ([id, c]) =>
         [`characters.${id}`, c.color, c.colorSourceQuote] as [

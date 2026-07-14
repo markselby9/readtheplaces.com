@@ -1,0 +1,23 @@
+{
+  "id": "notre-dame-de-paris",
+  "title": "Notre-Dame de Paris",
+  "author": "Victor Hugo",
+  "published": 1831,
+  "orderingKey": "chapter",
+  "center": [2.32, 48.8589],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "A novel written to save a building, and it worked. Hugo’s Paris of 1482 is reconstructed street by street, and the cathedral has burned and been rebuilt since he wrote it.",
+    "bbox": [2.224, 48.816, 2.47, 48.902]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Victor Hugo published this in 1831.",
+    "translation": "Translated by isabel f hapgood. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/victor-hugo/notre-dame-de-paris/isabel-f-hapgood",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Victor Hugo, Notre-Dame de Paris (1831)."
+  }
+}

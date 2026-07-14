@@ -1,0 +1,23 @@
+{
+  "id": "the-phantom-of-the-opera",
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "published": 1910,
+  "orderingKey": "chapter",
+  "center": [2.32, 48.8589],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "The Palais Garnier is real, and so is the lake under it. Leroux insisted the whole thing was true and gave enough addresses to check.",
+    "bbox": [2.224, 48.816, 2.47, 48.902]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Gaston Leroux published this in 1910.",
+    "translation": "Translated by alexander teixeira de mattos. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/gaston-leroux/the-phantom-of-the-opera/alexander-teixeira-de-mattos",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Gaston Leroux, The Phantom of the Opera (1910)."
+  }
+}

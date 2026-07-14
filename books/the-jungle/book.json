@@ -1,0 +1,23 @@
+{
+  "id": "the-jungle",
+  "title": "The Jungle",
+  "author": "Upton Sinclair",
+  "published": 1906,
+  "orderingKey": "chapter",
+  "center": [-87.6244, 41.8756],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Chicago",
+    "country": "US",
+    "note": "Packingtown and the Union Stock Yards, which Sinclair reported from directly. The yards are gone, Chicago has fourteen georeferenced historical maps, and the two facts belong together.",
+    "bbox": [-87.94, 41.645, -87.524, 42.023]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Upton Sinclair published this in 1906.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Upton Sinclair, The Jungle (1906)."
+  }
+}

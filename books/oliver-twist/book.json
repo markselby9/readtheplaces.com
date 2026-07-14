@@ -1,0 +1,23 @@
+{
+  "id": "oliver-twist",
+  "title": "Oliver Twist",
+  "author": "Charles Dickens",
+  "published": 1838,
+  "orderingKey": "chapter",
+  "center": [-0.1278, 51.5074],
+  "zoom": 12.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Jacob’s Island, Saffron Hill, Clerkenwell. Dickens was writing about slums that existed and were demolished within his lifetime, which makes the historical map layer do real work.",
+    "bbox": [-0.51, 51.287, 0.334, 51.692]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Charles Dickens published this in 1838.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Charles Dickens, Oliver Twist (1838)."
+  }
+}

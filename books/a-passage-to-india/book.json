@@ -1,0 +1,23 @@
+{
+  "id": "a-passage-to-india",
+  "title": "A Passage to India",
+  "author": "E. M. Forster",
+  "published": 1924,
+  "orderingKey": "chapter",
+  "center": [85.1498, 25.6219],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Bankipore",
+    "country": "IN",
+    "note": "Chandrapore is invented, but Forster built it from Bankipore, and the Marabar Caves are the Barabar Caves. Almost every place will be inspired_by, which is worth having in the catalogue on purpose.",
+    "bbox": [85.149, 25.621, 85.15, 25.622]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. E. M. Forster published this in 1924.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "E. M. Forster, A Passage to India (1924)."
+  }
+}
