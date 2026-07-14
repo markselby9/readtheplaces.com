@@ -1,0 +1,10 @@
+bun.lock
+books/*/source.txt
+books/*/candidates.json
+apps/web/public/
+apps/web/dist/
+apps/web/.astro/
+node_modules/
+
+# Prose is hand-written; Prettier mangles tables and emphasis.
+*.md

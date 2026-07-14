@@ -74,7 +74,7 @@
         const el = document.createElement('div');
         el.className = 'pin';
         el.style.setProperty('--c', book.characters[w.character]!.color);
-        el.title = `${w.progressLabel} — ${w.name}`;
+        el.title = `${w.progressLabel} · ${w.name}`;
         el.addEventListener('click', () => {
           cursor = groups.findIndex((g) => g.some((x) => x.id === w.id));
         });
@@ -99,7 +99,12 @@
   // pin state and camera are a reaction to the cursor, never a gate on it.
   $effect(() => {
     const live = new Set(group.map((w) => w.id));
-    const seen = new Set(groups.slice(0, cursor).flat().map((w) => w.id));
+    const seen = new Set(
+      groups
+        .slice(0, cursor)
+        .flat()
+        .map((w) => w.id),
+    );
 
     for (const [id, els] of pins) {
       for (const el of els) {
@@ -217,11 +222,7 @@
 
     <footer class="nav">
       <button disabled={cursor === 0} onclick={() => cursor--}>← Back</button>
-      <button
-        class="primary"
-        disabled={cursor === groups.length - 1}
-        onclick={() => cursor++}
-      >
+      <button class="primary" disabled={cursor === groups.length - 1} onclick={() => cursor++}>
         {cursor === groups.length - 1 ? 'The end' : 'Next stop →'}
       </button>
     </footer>
@@ -267,7 +268,9 @@
     left: var(--wipe, 50%);
     width: 2px;
     background: var(--paper);
-    box-shadow: 0 0 0 1px rgb(0 0 0 / 0.15), 0 0 22px rgb(0 0 0 / 0.2);
+    box-shadow:
+      0 0 0 1px rgb(0 0 0 / 0.15),
+      0 0 22px rgb(0 0 0 / 0.2);
     cursor: ew-resize;
     touch-action: none;
     z-index: 5;

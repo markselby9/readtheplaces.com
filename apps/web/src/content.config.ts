@@ -7,9 +7,9 @@ import { bookSchema, waypointSchema } from '@rtp/schema';
  *
  * Book data lives in /books as plain JSON, useful without this interface. Astro
  * validates it with Zod at build time, so `bun run build` fails on a book whose
- * data does not hold up. The deeper checks — the quote actually appearing in the
- * novel, the colour being a real quotation, the coordinates falling inside the
- * book's setting — run in `lib/books.ts`, which also fails the build.
+ * data does not hold up. The deeper checks run in `lib/books.ts`, which also
+ * fails the build: the quote actually appearing in the novel, the colour being a
+ * real quotation, the coordinates falling inside the book's setting.
  */
 
 const books = defineCollection({

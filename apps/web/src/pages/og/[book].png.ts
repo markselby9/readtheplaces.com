@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   return books.map(({ slug }) => ({ params: { book: slug } }));
 }
 
-const escape = (s: string) =>
+const escapeXml = (s: string) =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 export const GET: APIRoute = async ({ params }) => {
@@ -21,11 +21,11 @@ export const GET: APIRoute = async ({ params }) => {
   <rect x="0" y="0" width="10" height="630" fill="${book.palette.accent}"/>
   <text x="80" y="118" font-family="Helvetica,Arial,sans-serif" font-size="22" font-weight="700"
         letter-spacing="5" fill="#857D70">READ THE PLACES</text>
-  <text x="80" y="262" font-family="Georgia,serif" font-size="76" fill="#1B1917">The ${escape(book.setting.city)} of</text>
-  <text x="80" y="360" font-family="Georgia,serif" font-size="80" font-style="italic" fill="#1B1917">${escape(book.title)}</text>
+  <text x="80" y="262" font-family="Georgia,serif" font-size="76" fill="#1B1917">The ${escapeXml(book.setting.city)} of</text>
+  <text x="80" y="360" font-family="Georgia,serif" font-size="80" font-style="italic" fill="#1B1917">${escapeXml(book.title)}</text>
   <line x1="80" y1="428" x2="1120" y2="428" stroke="#D9D2C4" stroke-width="1"/>
   <text x="80" y="486" font-family="Georgia,serif" font-size="30" fill="#4A453D">${waypoints.length} places, in the order the story visits them</text>
-  <text x="80" y="556" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#857D70">${escape(book.author)}, ${book.published ?? ''}</text>
+  <text x="80" y="556" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#857D70">${escapeXml(book.author)}, ${book.published ?? ''}</text>
 </svg>`;
 
   const png = await sharp(Buffer.from(svg)).png().toBuffer();

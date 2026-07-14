@@ -25,12 +25,14 @@ const caption = historical
   <h2 class="place-name" data-certainty={wp.placeCertainty}>{wp.name}</h2>
   <p class="when">{wp.progressLabel} · {Math.round(wp.position * 100)}% through the novel</p>
 
-  {/*
+  {
+    /*
     Static images, not live maps. Browsers cap simultaneous WebGL contexts at
     about sixteen; fifteen stops across two eras is thirty-one. Measured on the
     prototype: 16 alive, 15 dead canvases. Plates are composited at build time
     by @rtp/tools, which is also why this page ships zero JavaScript.
-  */}
+  */
+  }
   <figure class="plates">
     <img
       src={plate('now')}

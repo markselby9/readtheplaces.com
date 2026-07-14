@@ -2,7 +2,10 @@
   "name": "readtheplaces",
   "private": true,
   "type": "module",
-  "workspaces": ["apps/*", "packages/*"],
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "scripts": {
     "dev": "bun --filter @rtp/web dev",
     "build": "bun --filter @rtp/web build",
@@ -11,12 +14,29 @@
     "test": "vitest run",
     "e2e": "playwright test",
     "plates": "bun --filter @rtp/tools plates",
-    "extract": "bun --filter @rtp/tools extract"
+    "extract": "bun --filter @rtp/tools extract",
+    "lint": "biome lint .",
+    "lint:fix": "biome lint --write .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "bun run lint && bun run format:check && bun run typecheck && bun run test",
+    "prepare": "lefthook install",
+    "commit": "git cz || git commit",
+    "new-book": "bun --filter @rtp/tools new-book"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.5.3",
+    "@commitlint/cli": "21.2.1",
+    "@commitlint/config-conventional": "21.2.0",
     "@playwright/test": "1.61.1",
+    "lefthook": "2.1.10",
+    "prettier": "3.6.2",
+    "prettier-plugin-astro": "0.14.1",
+    "prettier-plugin-svelte": "3.4.0",
     "typescript": "5.9.3",
     "vitest": "4.1.10"
   },
-  "engines": { "bun": ">=1.2.0" }
+  "engines": {
+    "bun": ">=1.2.0"
+  }
 }

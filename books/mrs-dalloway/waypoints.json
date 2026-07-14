@@ -4,10 +4,7 @@
     "name": "Clarissa's house, Westminster",
     "progressLabel": "10:00",
     "character": "clarissa",
-    "coords": [
-      -0.1275,
-      51.4993
-    ],
+    "coords": [-0.1275, 51.4993],
     "placeCertainty": "inferred",
     "certaintyNote": "Woolf never gives an address. The Dalloways live in Westminster within earshot of Big Ben; scholars place the house around Dean's Yard. Sited here as a considered guess, not a fact.",
     "quoteAnchor": "Mrs. Dalloway said she would buy the flowers herself.",
@@ -26,14 +23,11 @@
     "name": "Big Ben",
     "progressLabel": "10:00",
     "character": "clarissa",
-    "coords": [
-      -0.12462,
-      51.50073
-    ],
+    "coords": [-0.12462, 51.50073],
     "placeCertainty": "explicit",
     "quoteAnchor": "First a warning, musical; then the hour, irrevocable.",
     "passage": "There! Out it boomed. First a warning, musical; then the hour, irrevocable. The leaden circles dissolved in the air.",
-    "note": "The novel's metronome. Big Ben strikes eleven times across the book, and each strike is the hinge Woolf uses to cut from one character to another. 'The leaden circles dissolved in the air' recurs like a refrain — the same sound falling on people who will never meet.",
+    "note": "The novel's metronome. Big Ben strikes eleven times across the book, and each strike is the hinge Woolf uses to cut from one character to another. 'The leaden circles dissolved in the air' recurs like a refrain. The same sound falls on people who will never meet.",
     "sources": [
       {
         "kind": "passage",
@@ -47,10 +41,7 @@
     "name": "Victoria Street",
     "progressLabel": "10:05",
     "character": "clarissa",
-    "coords": [
-      -0.13215,
-      51.49823
-    ],
+    "coords": [-0.13215, 51.49823],
     "placeCertainty": "explicit",
     "quoteAnchor": "crossing Victoria Street",
     "passage": "Such fools we are, she thought, crossing Victoria Street. For Heaven only knows why one loves it so, how one sees it so, making it up, building it round one, tumbling it, creating it every moment afresh.",
@@ -68,10 +59,7 @@
     "name": "St James's Park",
     "progressLabel": "10:15",
     "character": "clarissa",
-    "coords": [
-      -0.1348,
-      51.5025
-    ],
+    "coords": [-0.1348, 51.5025],
     "placeCertainty": "explicit",
     "quoteAnchor": "She had reached the Park gates",
     "passage": "She had reached the Park gates. She stood for a moment, looking at the omnibuses in Piccadilly.",
@@ -89,14 +77,11 @@
     "name": "Hatchards, 187 Piccadilly",
     "progressLabel": "10:30",
     "character": "clarissa",
-    "coords": [
-      -0.13924,
-      51.50762
-    ],
+    "coords": [-0.13924, 51.50762],
     "placeCertainty": "explicit",
     "quoteAnchor": "as she looked into Hatchards' shop window",
     "passage": "But what was she dreaming as she looked into Hatchards' shop window? What was she trying to recover? What image of white dawn in the country, as she read in the book spread open: Fear no more the heat o' the sun / Nor the furious winter's rages.",
-    "note": "The bookshop is real, it is named in the text, and it is still at 187 Piccadilly today — one of the very few places in the novel you can stand in front of and see essentially what Clarissa saw. The lines in the window are from Shakespeare's Cymbeline, and they become the novel's private refrain: Clarissa returns to them, and so does Septimus.",
+    "note": "The bookshop is real, it is named in the text, and it is still at 187 Piccadilly today, one of the very few places in the novel you can stand in front of and see essentially what Clarissa saw. The lines in the window are from Shakespeare's Cymbeline, and they become the novel's private refrain: Clarissa returns to them, and so does Septimus.",
     "sources": [
       {
         "kind": "passage",
@@ -111,18 +96,15 @@
   },
   {
     "id": "bond-street",
-    "name": "Bond Street — Mulberry's, the florist",
+    "name": "Bond Street: Mulberry's, the florist",
     "progressLabel": "10:45",
     "character": "clarissa",
-    "coords": [
-      -0.1421,
-      51.511
-    ],
+    "coords": [-0.1421, 51.511],
     "placeCertainty": "inferred",
-    "certaintyNote": "Bond Street is explicit. Mulberry's, the florist, is Woolf's invention — there is no such shop. Sited mid-street as a representative point, not a real address.",
+    "certaintyNote": "Bond Street is explicit. Mulberry's, the florist, is Woolf's invention, there is no such shop. Sited mid-street as a representative point, not a real address.",
     "quoteAnchor": "Bond Street fascinated her",
     "passage": "Bond Street fascinated her; Bond Street early in the morning in the season; its flags flying; its shops; no splash; no glitter; one roll of tweed in the shop where her father had bought his suits for fifty years; a few pearls; salmon on an iceblock.",
-    "note": "The destination of the errand. While she is in the flower shop a motor car backfires in the street outside — and that bang is the pivot on which the novel turns from Clarissa to Septimus. The two never meet; the noise is the only thing they share.",
+    "note": "The destination of the errand. While she is in the flower shop a motor car backfires in the street outside. That bang is the pivot on which the novel turns from Clarissa to Septimus. The two never meet; the noise is the only thing they share.",
     "sources": [
       {
         "kind": "passage",
@@ -133,13 +115,10 @@
   },
   {
     "id": "regents-park-septimus",
-    "name": "Regent's Park — the Broad Walk",
+    "name": "Regent's Park: the Broad Walk",
     "progressLabel": "11:00",
     "character": "septimus",
-    "coords": [
-      -0.1506,
-      51.5264
-    ],
+    "coords": [-0.1506, 51.5264],
     "placeCertainty": "explicit",
     "quoteAnchor": "Septimus Warren Smith, who found himself unable to pass",
     "passage": "Septimus Warren Smith, who found himself unable to pass, heard him. Septimus Warren Smith, aged about thirty, pale-faced, beak-nosed, wearing brown shoes and a shabby overcoat, with hazel eyes which had that look of apprehension in them which makes complete strangers apprehensive too.",
@@ -154,18 +133,15 @@
   },
   {
     "id": "big-ben-half-hour",
-    "name": "Westminster — Peter Walsh leaves",
+    "name": "Westminster: Peter Walsh leaves",
     "progressLabel": "11:30",
     "character": "peter",
-    "coords": [
-      -0.128,
-      51.4998
-    ],
+    "coords": [-0.128, 51.4998],
     "placeCertainty": "inferred",
     "certaintyNote": "He is leaving Clarissa's house, whose location is itself inferred.",
     "quoteAnchor": "The sound of Big Ben striking the half-hour struck out between them",
     "passage": "The sound of Big Ben striking the half-hour struck out between them with extraordinary vigour, as if a young man, strong, indifferent, inconsiderate, were swinging dumbbells this way and that.",
-    "note": "Peter Walsh — who loved Clarissa thirty years ago and still does — has just called on her unannounced and been shown out. The half-hour strikes literally between them as he goes.",
+    "note": "Peter Walsh, who loved Clarissa thirty years ago and still does, has just called on her unannounced and been shown out. The half-hour strikes literally between them as he goes.",
     "sources": [
       {
         "kind": "passage",
@@ -179,10 +155,7 @@
     "name": "Whitehall and Trafalgar Square",
     "progressLabel": "11:45",
     "character": "peter",
-    "coords": [
-      -0.1269,
-      51.506
-    ],
+    "coords": [-0.1269, 51.506],
     "placeCertainty": "explicit",
     "quoteAnchor": "the quarter struck",
     "passage": "As he sat smiling at the dead man in the grey suit the quarter struck—the quarter to twelve.",
@@ -197,21 +170,16 @@
   },
   {
     "id": "noon-westminster",
-    "name": "Westminster — the green dress",
+    "name": "Westminster: the green dress",
     "progressLabel": "12:00",
     "character": "clarissa",
-    "coords": [
-      -0.1275,
-      51.4993
-    ],
+    "coords": [-0.1275, 51.4993],
     "placeCertainty": "inferred",
     "certaintyNote": "Clarissa's house; see westminster-doorstep.",
     "quoteAnchor": "twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed",
     "passage": "…and died up there among the seagulls—twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed, and the Warren Smiths walked down Harley Street.",
-    "note": "Read this stop and the next one together — they are the same sentence, and the same instant. Woolf uses the stroke of twelve to hold two places in one moment: a woman laying out a dress for her party, and a man walking to the doctor who will destroy him. This is what the book does that a map of pins cannot.",
-    "simultaneousWith": [
-      "noon-harley-street"
-    ],
+    "note": "Read this stop and the next one together: they are the same sentence, and the same instant. Woolf uses the stroke of twelve to hold two places in one moment: a woman laying out a dress for her party, and a man walking to the doctor who will destroy him. This is what the book does that a map of pins cannot.",
+    "simultaneousWith": ["noon-harley-street"],
     "sources": [
       {
         "kind": "passage",
@@ -222,20 +190,15 @@
   },
   {
     "id": "noon-harley-street",
-    "name": "Harley Street — the appointment",
+    "name": "Harley Street: the appointment",
     "progressLabel": "12:00",
     "character": "septimus",
-    "coords": [
-      -0.1479,
-      51.5202
-    ],
+    "coords": [-0.1479, 51.5202],
     "placeCertainty": "explicit",
     "quoteAnchor": "and the Warren Smiths walked down Harley Street",
     "passage": "…twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed, and the Warren Smiths walked down Harley Street. Twelve was the hour of their appointment. Probably, Rezia thought, that was Sir William Bradshaw's house with the grey motorcar in front of it. The leaden circles dissolved in the air.",
-    "note": "The same stroke of twelve, two and a half miles north. Sir William Bradshaw is the eminent psychiatrist who will prescribe 'a sense of proportion' and separation from his wife — and precipitate Septimus's death six hours from now.",
-    "simultaneousWith": [
-      "noon-westminster"
-    ],
+    "note": "The same stroke of twelve, two and a half miles north. Sir William Bradshaw is the eminent psychiatrist who will prescribe 'a sense of proportion' and separation from his wife, and precipitate Septimus's death six hours from now.",
+    "simultaneousWith": ["noon-westminster"],
     "sources": [
       {
         "kind": "passage",
@@ -246,17 +209,14 @@
   },
   {
     "id": "harley-street-clocks",
-    "name": "Harley Street — the clocks",
+    "name": "Harley Street: the clocks",
     "progressLabel": "13:30",
     "character": "septimus",
-    "coords": [
-      -0.1485,
-      51.5194
-    ],
+    "coords": [-0.1485, 51.5194],
     "placeCertainty": "explicit",
     "quoteAnchor": "the clocks of Harley Street nibbled at the June day",
     "passage": "Shredding and slicing, dividing and subdividing, the clocks of Harley Street nibbled at the June day, counselled submission, upheld authority, and pointed out in chorus the supreme advantages of a sense of proportion.",
-    "note": "The cruellest sentence in the book, and a place-specific one: Harley Street was — and remains — the address of expensive private medicine. Woolf makes its clocks complicit.",
+    "note": "The cruellest sentence in the book, and a place-specific one: Harley Street was, and remains: the address of expensive private medicine. Woolf makes its clocks complicit.",
     "sources": [
       {
         "kind": "passage",
@@ -267,13 +227,10 @@
   },
   {
     "id": "three-oclock-westminster",
-    "name": "Westminster — Richard brings roses",
+    "name": "Westminster: Richard brings roses",
     "progressLabel": "15:00",
     "character": "clarissa",
-    "coords": [
-      -0.1275,
-      51.4993
-    ],
+    "coords": [-0.1275, 51.4993],
     "placeCertainty": "inferred",
     "certaintyNote": "Clarissa's house; see westminster-doorstep.",
     "quoteAnchor": "the clock struck three; and she heard nothing else",
@@ -289,18 +246,15 @@
   },
   {
     "id": "septimus-window",
-    "name": "Bloomsbury — Mrs Filmer's lodgings",
+    "name": "Bloomsbury: Mrs Filmer's lodgings",
     "progressLabel": "18:00",
     "character": "septimus",
-    "coords": [
-      -0.131,
-      51.522
-    ],
+    "coords": [-0.131, 51.522],
     "placeCertainty": "inferred",
     "certaintyNote": "The lodging house is not given an address. The Warren Smiths live in Bloomsbury; sited here as a representative point. This waypoint should not be presented as a real address.",
     "quoteAnchor": "flung himself vigorously, violently down on to Mrs. Filmer's area railings",
     "passage": "He did not want to die. Life was good. The sun hot… Holmes was at the door. \"I'll give it you!\" he cried, and flung himself vigorously, violently down on to Mrs. Filmer's area railings.",
-    "note": "Six o'clock. Septimus kills himself rather than be taken away by Dr Holmes. The line that undoes you is 'He did not want to die.' The clock strikes on regardless — one, two, three, four, five, six.",
+    "note": "Six o'clock. Septimus kills himself rather than be taken away by Dr Holmes. The line that undoes you is 'He did not want to die.' The clock strikes on regardless: one, two, three, four, five, six.",
     "sources": [
       {
         "kind": "passage",
@@ -311,18 +265,15 @@
   },
   {
     "id": "the-party",
-    "name": "Westminster — the party",
+    "name": "Westminster: the party",
     "progressLabel": "22:30",
     "character": "clarissa",
-    "coords": [
-      -0.1275,
-      51.4993
-    ],
+    "coords": [-0.1275, 51.4993],
     "placeCertainty": "inferred",
     "certaintyNote": "Clarissa's house; see westminster-doorstep.",
     "quoteAnchor": "The young man had killed himself; but she did not pity him",
     "passage": "The young man had killed himself; but she did not pity him; with the clock striking the hour, one, two, three, she did not pity him, with all this going on.",
-    "note": "The party Clarissa has spent the whole day preparing. Sir William Bradshaw arrives late and mentions, as small talk, that a patient of his has killed himself. Clarissa goes alone into a small room and thinks about a man she has never met and never will. The two halves of the novel finally touch — and they touch here, in a drawing room in Westminster, at half past ten at night.",
+    "note": "The party Clarissa has spent the whole day preparing. Sir William Bradshaw arrives late and mentions, as small talk, that a patient of his has killed himself. Clarissa goes alone into a small room and thinks about a man she has never met and never will. The two halves of the novel finally touch, and they touch here, in a drawing room in Westminster, at half past ten at night.",
     "sources": [
       {
         "kind": "passage",

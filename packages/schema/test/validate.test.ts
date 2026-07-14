@@ -66,7 +66,9 @@ describe('the quote must be in the book', () => {
   });
 
   it('rejects an invented quote', () => {
-    const e = errs([wp({ quoteAnchor: 'She had reached the pub', passage: 'She had reached the pub.' })]);
+    const e = errs([
+      wp({ quoteAnchor: 'She had reached the pub', passage: 'She had reached the pub.' }),
+    ]);
     expect(matching(e, 'not found in source.txt')).toBe(true);
   });
 
@@ -83,7 +85,8 @@ describe('the quote must be in the book', () => {
 
   it('derives position from the text rather than trusting the author', () => {
     const { built } = validateBook(BOOK, [wp()], TEXT);
-    const expected = normalise(TEXT).indexOf('She had reached the Park gates') / normalise(TEXT).length;
+    const expected =
+      normalise(TEXT).indexOf('She had reached the Park gates') / normalise(TEXT).length;
     expect(built[0]!.position).toBeCloseTo(expected, 3);
   });
 
@@ -104,7 +107,9 @@ describe('the quote must be in the book', () => {
 
 describe('uncertainty must be declared', () => {
   it('rejects a guess with no explanation', () => {
-    expect(matching(errs([wp({ placeCertainty: 'inferred' })]), 'requires a certaintyNote')).toBe(true);
+    expect(matching(errs([wp({ placeCertainty: 'inferred' })]), 'requires a certaintyNote')).toBe(
+      true,
+    );
   });
 
   it('accepts a guess that explains itself', () => {
@@ -156,7 +161,9 @@ describe('geography must be sane', () => {
   });
 
   it('rejects an unknown character', () => {
-    expect(matching(errs([wp({ character: 'mrs-hilbery' })]), 'not declared in book.json')).toBe(true);
+    expect(matching(errs([wp({ character: 'mrs-hilbery' })]), 'not declared in book.json')).toBe(
+      true,
+    );
   });
 });
 

@@ -3,7 +3,7 @@ import type { StyleSpecification } from 'maplibre-gl';
 /**
  * Ink on warm paper.
  *
- * Default OSM styling — blue water, yellow motorways, green parks — fights the
+ * Default OSM styling (blue water, yellow motorways, green parks) fights the
  * page on every tile. Filtered down to near-monochrome, the only colour in the
  * frame comes from the historical survey beneath the wipe and the character
  * pins. The city recedes and the book advances.

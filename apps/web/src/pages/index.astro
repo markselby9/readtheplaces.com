@@ -7,7 +7,7 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
 ---
 
 <Base
-  title="Read the Places — not a map of books, a book you can walk through"
+  title="Read the Places: not a map of books, a book you can walk through"
   description="An open, contributor-driven atlas of the real places in novels, presented in the order the story happens."
   ogImage="/og/mrs-dalloway.png"
 >
@@ -16,8 +16,9 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
       <p class="kicker">Read the Places</p>
       <h1>Not a map of books.<br /><em>A book you can walk through.</em></h1>
       <p class="standfirst">
-        An open atlas of the real places in novels, in the order the story visits them. Every place is
-        pinned to a verbatim line from the book, and says how sure we are that it is the right place.
+        An open atlas of the real places in novels, in the order the story visits them. Every place
+        is pinned to a verbatim line from the book, and says how sure we are that it is the right
+        place.
       </p>
     </header>
 
@@ -27,7 +28,9 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
           books.map(({ slug, book, waypoints }) => (
             <li style={`--accent: ${book.palette.accent}`}>
               <a href={`/${slug}/`}>
-                <span class="kicker">{book.setting.city} · {book.published}</span>
+                <span class="kicker">
+                  {book.setting.city} · {book.published}
+                </span>
                 <h2>{book.title}</h2>
                 <p class="by">{book.author}</p>
                 <p class="note">{book.setting.note}</p>
@@ -41,8 +44,8 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
       <section class="pitch">
         <h2>Why the order matters</h2>
         <p>
-          A map with a chapter filter is a map of pins, and those already exist. What they cannot do is
-          this. In <em>Mrs Dalloway</em>, at noon:
+          A map with a chapter filter is a map of pins, and those already exist. What they cannot do
+          is this. In <em>Mrs Dalloway</em>, at noon:
         </p>
         <blockquote>
           …twelve o’clock struck as Clarissa Dalloway laid her green dress on her bed, <strong
@@ -50,15 +53,17 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
           >
         </blockquote>
         <p>
-          One sentence. One stroke of the clock. Two places nearly two miles apart, two people who never
-          meet, one of whom will be dead within six hours. Order is the whole difference.
+          One sentence. One stroke of the clock. Two places nearly two miles apart, two people who
+          never meet, one of whom will be dead within six hours. Order is the whole difference.
         </p>
 
         <h2>Help build it</h2>
         <p>
-          You do not need to write code to do the most valuable work here, and you will never be asked to
-          upload a photograph. Adding a place means a coordinate, a verbatim quote, a source, and an
-          honest label saying how sure you are. <a href={`${repo}/blob/main/CONTRIBUTING.md`}>Start here</a>.
+          You do not need to write code to do the most valuable work here, and you will never be
+          asked to upload a photograph. Adding a place means a coordinate, a verbatim quote, a
+          source, and an honest label saying how sure you are. <a
+            href={`${repo}/blob/main/CONTRIBUTING.md`}>Start here</a
+          >.
         </p>
       </section>
     </main>

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "raskolnikov-garret",
+    "name": "Raskolnikov's garret",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "raskolnikov",
+    "coords": [30.31, 59.9257],
+    "placeCertainty": "disputed",
+    "certaintyNote": "Dostoevsky censored the name. \"S⁠⸺ Place\" is read by almost all scholars as Stolyarny Lane, and the garret is traditionally sited at the corner house, 5 Stolyarny Lane and 19 Grazhdanskaya Street, where a relief was carved in 1999. The identification rests on the geography matching the novel, not on anything Dostoevsky wrote down.",
+    "quoteAnchor": "he lodged in S⁠⸺ Place",
+    "passage": "On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S⁠⸺ Place and walked slowly, as though in hesitation, towards K⁠⸺ bridge.",
+    "note": "The first sentence of the novel, and the first of its censored addresses. Dostoevsky abbreviated real street names to dodge the censor, and the literary geography of Petersburg has been an argument about what he meant ever since. The garret is a cupboard under the roof, and Raskolnikov barely leaves it for the first hundred pages.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 1, opening"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Relief carved at 5 Stolyarny Lane in 1999 marking the house as Raskolnikov's"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "seven-hundred-thirty-steps",
+    "name": "Seven hundred and thirty steps",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "raskolnikov",
+    "coords": [30.3072, 59.9264],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The route, not a building. Sited midway along the walk from Stolyarny Lane to the Griboyedov Canal, which is the path the counted steps must follow if the two traditional endpoints are right.",
+    "quoteAnchor": "exactly seven hundred and thirty",
+    "passage": "He had not far to go; he knew indeed how many steps it was from the gate of his lodging house: exactly seven hundred and thirty. He had counted them once when he had been lost in dreams.",
+    "note": "The most famous measurement in Russian literature. Raskolnikov has counted the distance from his door to the pawnbroker's, which tells you the murder is not an impulse. People have walked it ever since and report that it always takes more than 730. Either Dostoevsky had a long stride, or the novel is lying about how close the two houses really are.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kokushkin-bridge",
+    "name": "K⁠⸺ bridge",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "raskolnikov",
+    "coords": [30.3139, 59.9268],
+    "placeCertainty": "disputed",
+    "certaintyNote": "Another censored name. \"K⁠⸺ bridge\" is generally read as Kokushkin Bridge, the crossing you reach walking from Stolyarny Lane towards the Haymarket. Some readings prefer Kamenny Bridge. Both are on the Griboyedov Canal and the walk works either way.",
+    "quoteAnchor": "towards K⁠⸺ bridge",
+    "passage": "…a young man came out of the garret in which he lodged in S⁠⸺ Place and walked slowly, as though in hesitation, towards K⁠⸺ bridge. He had successfully avoided meeting his landlady on the staircase.",
+    "note": "He is avoiding his landlady because he owes her money. The first action of the novel is a man sneaking out of his own building, and the bridge is where the city opens in front of him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hay-market",
+    "name": "The Hay Market",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "raskolnikov",
+    "coords": [30.3199, 59.9268],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "Owing to the proximity of the Hay Market",
+    "passage": "Owing to the proximity of the Hay Market, the number of establishments of bad character, the preponderance of the trading and working class population crowded in these streets and alleys in the heart of Petersburg, types so various were to be seen in the streets that no figure, however queer, would have caused surprise.",
+    "note": "Sennaya Ploshchad, the one major place Dostoevsky does not bother to disguise. It was the poorest and most notorious square in the city, full of taverns, hay carts and brothels, and it is the gravitational centre of the whole novel. Almost everything happens within a few minutes' walk of it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tavern",
+    "name": "The tavern where Marmeladov talks",
+    "progressLabel": "Part 1, ch. 2",
+    "character": "raskolnikov",
+    "coords": [30.3168, 59.9259],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Not named. A basement pot-house off the Haymarket, entered by steps down from the pavement. Sited on a representative corner near the square, not at a real address.",
+    "quoteAnchor": "he was standing close to a tavern which was entered by steps leading from the pavement to the basement",
+    "passage": "Looking round, he noticed that he was standing close to a tavern which was entered by steps leading from the pavement to the basement.",
+    "note": "Raskolnikov goes down into a basement bar and meets Marmeladov, the drunk who tells him that his daughter Sonia has taken a yellow ticket, the licence of a registered prostitute, to feed the family. Yellow is this novel's colour, and it enters here.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 2"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pawnbroker-house",
+    "name": "The pawnbroker's house",
+    "progressLabel": "Part 1, ch. 7",
+    "character": "raskolnikov",
+    "coords": [30.2967, 59.9245],
+    "placeCertainty": "disputed",
+    "certaintyNote": "Most researchers place Alyona Ivanovna's flat at 104 Griboyedov Canal Embankment, the building that faces three streets and matches the novel's description. It is a reconstruction from the text and the counted steps, not a fact Dostoevsky recorded.",
+    "quoteAnchor": "brought the blunt side down on her head",
+    "passage": "He was almost unconscious of himself, and almost without effort, almost mechanically, brought the blunt side down on her head. He seemed not to use his own strength in this. But as soon as he had once brought the axe down, his strength returned to him.",
+    "note": "The murder. He uses the blunt side because he is carrying the axe in a noose under his coat, blade turned inward. Lizaveta, the pawnbroker's sister, walks in afterwards and he kills her too. That second death is the one he never plans and never recovers from.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 1, ch. 7"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "104 Griboyedov Canal Embankment, the consensus identification in Dostoevsky's Petersburg scholarship"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "police-office",
+    "name": "The police office",
+    "progressLabel": "Part 2, ch. 1",
+    "character": "raskolnikov",
+    "coords": [30.3051, 59.9243],
+    "placeCertainty": "disputed",
+    "certaintyNote": "Traditionally identified as 67 Griboyedov Canal Embankment, the district police station of Dostoevsky's day. The novel does not name it.",
+    "quoteAnchor": "A summons to the police office, of course",
+    "passage": "“A summons to the police office, of course. You know which office.” “To the police?⁠ ⁠… What for?⁠ ⁠…”",
+    "note": "The day after the murder he is summoned to the police, and faints. It turns out to be about an unpaid debt. Dostoevsky lets the machinery of the state stumble onto him by accident and then let him go, twice, which is far more frightening than a competent investigation would be.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 2, ch. 1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-stone",
+    "name": "The stone in a yard off V⁠⸺ Prospect",
+    "progressLabel": "Part 5, ch. 4",
+    "character": "raskolnikov",
+    "coords": [30.3053, 59.9285],
+    "placeCertainty": "disputed",
+    "certaintyNote": "\"V⁠⸺ Prospect\" is read as Voznesensky Prospect. The yard and the stone cannot be identified, and this is a representative point on that street rather than a place you can stand.",
+    "quoteAnchor": "I buried under a stone with the purse next morning in a yard off the V⁠⸺ Prospect",
+    "passage": "And the things⁠—chains and trinkets⁠—I buried under a stone with the purse next morning in a yard off the V⁠⸺ Prospect. They are all there now.",
+    "note": "He hides everything he stole under a stone in a courtyard and never touches it again. The robbery was supposedly the point of the murder, and he cannot even bring himself to look inside the purse. He only admits where the loot is much later, confessing to Sonia, which is where this line comes from.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 5, ch. 4, Raskolnikov's confession to Sonia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sonia-room",
+    "name": "Sonia's room",
+    "progressLabel": "Part 4, ch. 4",
+    "character": "sonia",
+    "coords": [30.3021, 59.9236],
+    "placeCertainty": "disputed",
+    "certaintyNote": "Traditionally 73 Griboyedov Canal Embankment. The novel gives the shape of the room in unusual detail, an irregular quadrangle with three windows on the canal, and the identification is built from that description.",
+    "quoteAnchor": "Sonia’s room looked like a barn",
+    "passage": "Sonia's room looked like a barn; it was a very irregular quadrangle and this gave it a grotesque appearance. A wall with three windows looking out on to the canal ran aslant so that one corner formed a very acute angle.",
+    "note": "Sonia lives in a room with no right angles, described more carefully than any other interior in the book. It is where Raskolnikov confesses, where they read the raising of Lazarus together, and the only place in the novel that offers him anything at all.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 4, ch. 4"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "crossroads",
+    "name": "The crossroads: kiss the earth",
+    "progressLabel": "Part 5, ch. 4",
+    "character": "sonia",
+    "coords": [30.3199, 59.9271],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sonia tells him to go to the crossroads and bow down, without naming one. He goes to the Haymarket to do it, so in effect the instruction and the square are the same place.",
+    "quoteAnchor": "stand at the crossroads, bow down, first kiss the earth which you have defiled",
+    "passage": "“Go at once, this very minute, stand at the crossroads, bow down, first kiss the earth which you have defiled and then bow down to all the world and say to all men aloud, ‘I am a murderer!’ Then God will send you life again.”",
+    "note": "Sonia gives him the only instruction in the novel that works, and it is not a legal one. He does go to the Haymarket. He does kneel and kiss the ground. Then he cannot say the words aloud, and walks away, and has to be driven back to the police a second time.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 5, ch. 4"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "svidrigailov-tower",
+    "name": "Svidrigailov and the Achilles helmet",
+    "progressLabel": "Part 6, ch. 6",
+    "character": "svidrigailov",
+    "coords": [30.2921, 59.9483],
+    "placeCertainty": "inferred",
+    "certaintyNote": "A fire tower with a sentry, on the Petersburg Side. The tower is not named. Sited near the historic fire station on the Petrogradsky district's Bolshoy Prospect.",
+    "quoteAnchor": "with a copper Achilles helmet on his head",
+    "passage": "At the great closed gates of the house, a little man stood with his shoulder leaning against them, wrapped in a grey soldier's coat, with a copper Achilles helmet on his head. He cast a drowsy and indifferent glance at Svidrigaïlov.",
+    "note": "Svidrigailov tells the bored sentry he is going to America, puts a revolver to his head and pulls the trigger. The witness to the novel's other suicide is a sleepy fireman in a helmet that Dostoevsky insists on calling Achilles. It is the coldest joke in the book.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 6, ch. 6"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "confession",
+    "name": "The confession",
+    "progressLabel": "Part 6, ch. 8",
+    "character": "raskolnikov",
+    "coords": [30.3051, 59.9243],
+    "placeCertainty": "disputed",
+    "certaintyNote": "The same police office as the summons in Part 2, traditionally 67 Griboyedov Canal Embankment. The novel returns him to the building it first dragged him into by accident.",
+    "quoteAnchor": "It was I killed the old pawnbroker woman and her sister Lizaveta with an axe",
+    "passage": "Raskolnikov refused the water with his hand, and softly and brokenly, but distinctly said: “It was I killed the old pawnbroker woman and her sister Lizaveta with an axe and robbed them.”",
+    "note": "Six hundred pages, and he says it in one sentence. He has already walked out of this building once without confessing, and turns back only because he sees Sonia in the street outside, waiting, in her green shawl. The last thing that moves him is not conscience and not fear. It is being watched by someone who loves him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Part 6, ch. 8, the final chapter before the epilogue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,37 @@
+# Git hooks. Installed by `bun run prepare`, which bun runs after `bun install`.
+#
+# These are fast on purpose. A hook that takes thirty seconds is a hook people
+# disable, and a disabled hook protects nothing. Anything slow (the full build,
+# Playwright) belongs in CI, not here.
+
+commit-msg:
+  commands:
+    conventional-commit:
+      run: bunx commitlint --edit {1}
+
+pre-commit:
+  parallel: true
+  commands:
+    lint:
+      glob: '*.{ts,js}'
+      run: bunx biome lint --no-errors-on-unmatched {staged_files}
+
+    format:
+      glob: '*.{ts,js,astro,svelte,css,json}'
+      run: bunx prettier --check {staged_files}
+
+    # The contract's own tests. Sub-second, and they are the thing this project
+    # promises contributors, so they run before every commit.
+    schema:
+      glob: 'packages/schema/**/*.ts'
+      run: bunx vitest run packages/schema --silent
+
+pre-push:
+  commands:
+    typecheck:
+      run: bun run typecheck
+
+    # The build IS the validator. Pushing data the novel does not support should
+    # not be possible from a machine that has the hooks installed.
+    build:
+      run: bun run build

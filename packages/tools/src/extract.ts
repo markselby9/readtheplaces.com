@@ -93,7 +93,9 @@ if (wantGeocode) {
 writeFileSync(new URL('candidates.json', dir), `${JSON.stringify(candidates, null, 2)}\n`);
 
 const todo = candidates.filter((c) => !c.alreadyCovered);
-console.log(`${slug}: ${candidates.length} place candidates from ${text.length.toLocaleString()} chars`);
+console.log(
+  `${slug}: ${candidates.length} place candidates from ${text.length.toLocaleString()} chars`,
+);
 console.log(`  ${candidates.length - todo.length} already have a waypoint`);
 console.log(`  ${todo.length} awaiting triage → books/${slug}/candidates.json\n`);
 console.log('  mentions    at  place');

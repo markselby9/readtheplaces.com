@@ -93,7 +93,6 @@ export function milesApart(a: [number, number], b: [number, number]): string {
   const dLat = rad(b[1] - a[1]);
   const dLon = rad(b[0] - a[0]);
   const h =
-    Math.sin(dLat / 2) ** 2 +
-    Math.cos(rad(a[1])) * Math.cos(rad(b[1])) * Math.sin(dLon / 2) ** 2;
+    Math.sin(dLat / 2) ** 2 + Math.cos(rad(a[1])) * Math.cos(rad(b[1])) * Math.sin(dLon / 2) ** 2;
   return `${(2 * R * Math.asin(Math.sqrt(h))).toFixed(1)} miles`;
 }

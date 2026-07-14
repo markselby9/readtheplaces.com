@@ -2,7 +2,7 @@
 
 # Read the Places
 
-**Not a map of books — a book you can walk through.**
+**Not a map of books. A book you can walk through.**
 
 An open, contributor-driven atlas of the real places in novels,
 presented in the order the story happens.
@@ -15,9 +15,9 @@ presented in the order the story happens.
 
 ## The idea
 
-The unit is not a pin. It is a **waypoint**: a place, at a position in the
-narrative, with the passage that puts it there, and an honest statement of how
-sure we are that it is the right place.
+A **waypoint** is a place, at a position in the narrative, with the passage that
+puts it there, and an honest statement of how sure we are that it is the right
+place.
 
 Narrative **order** is the spine, and that is the whole difference. A map with a
 chapter filter is a map of pins, and those already exist. Here is what an ordered
@@ -48,11 +48,10 @@ time. `bun run build` fails if a waypoint:
 - quotes something the novel does not say, or something it says more than once;
 - shows a passage that does not contain its own quote;
 - guesses at a location without explaining the guess;
-- sits outside the book's declared setting (a transposed coordinate, or a
-  geocoder that confidently returned the wrong city);
+- sits outside the book's declared setting, which catches a transposed coordinate
+  or a geocoder that returned the wrong city;
 - claims a simultaneity the other waypoint does not claim back;
-- uses an accent colour that is not a real quotation from the text, or that fails
-  WCAG AA against paper.
+- uses an accent colour with no quotation behind it, or one that fails WCAG AA.
 
 **You cannot ship a place the book does not support.**
 
@@ -70,8 +69,8 @@ language, and the same code produces the same 0.0–1.0 spine. That is what make
 ### A book's colour is a quotation
 
 *Mrs Dalloway* is green because she "laid her green dress on her bed". *Crime and
-Punishment* will be Petersburg yellow. The colour is declared with the line that
-justifies it, and the build checks the line is really there.
+Punishment* will be Petersburg yellow. The colour is declared alongside the line
+that justifies it, and the build checks the line is really there.
 
 ```jsonc
 "palette": {
@@ -79,6 +78,18 @@ justifies it, and the build checks the line is really there.
   "accentSourceQuote": "laid her green dress on her bed"
 }
 ```
+
+## Add a book
+
+```sh
+bun run new-book "Crime and Punishment" \
+  --author "Fyodor Dostoevsky" --city "Saint Petersburg" --published 1866
+```
+
+Fetches the text, locates the city, measures its bounding box, searches for a
+free historical map layer, and writes a `book.json` with everything a machine can
+know already filled in. It never invents a colour or a waypoint. Those are
+judgements, and they need a reader.
 
 ## Find work
 
@@ -99,26 +110,16 @@ someone who has read the book catches that.
 
 ## How it's built
 
-| | |
+| Layer | Choice |
 |---|---|
 | Site | Astro 7. Every walk page is static and ships **zero JavaScript**. |
 | Reader | One Svelte 5 island, the only place MapLibre loads. |
-| Walk pages | **Static map images**, composited at build time. Browsers cap WebGL contexts at ~16; fifteen stops across two eras needs thirty-one ([why](docs/DESIGN.md#44-the-walk-page-uses-no-webgl-and-this-is-not-a-preference)). |
+| Walk pages | **Static map images**, composited at build time. Browsers cap WebGL contexts at about sixteen, and fifteen stops across two eras needs thirty-one ([why](docs/DESIGN.md#44-the-walk-page-uses-no-webgl-and-this-is-not-a-preference)). |
 | Base map | OpenStreetMap. Free, keyless, global, forkable. |
-| Historical | Per book, optional. Free [NLS](https://maps.nls.uk/) tiles for Britain; [Allmaps](https://allmaps.org) elsewhere. |
+| Historical | Per book, optional. Free [NLS](https://maps.nls.uk/) tiles for Britain, [Allmaps](https://allmaps.org) elsewhere. |
 | Street view | An outbound **link** to Google, never an embed ([why](docs/DESIGN.md#42-street-view-is-a-link-and-that-is-a-legal-requirement)). |
 | Type | Literata for the novel, Atkinson Hyperlegible for the apparatus. |
 | Text | [Standard Ebooks](https://standardebooks.org), public domain. |
-
-## Books
-
-- ***Mrs Dalloway*** — Woolf, 1925. London, one day, kept by clocks. 15 places.
-- ***Crime and Punishment*** — Dostoevsky, 1866. *Next.* Chosen to break every
-  assumption the pilot makes: not English, not clock-ordered, and full of
-  Dostoevsky's censored addresses ("S— Place") that force the `disputed` label.
-
-If both render with no book-specific code, the design is general. That is the
-acceptance test.
 
 ## Contributing
 
@@ -129,8 +130,8 @@ You will never be asked to upload a photograph. You write data: a coordinate, a
 verbatim quote, a source, and an honest label saying how sure you are.
 
 Start with [`CONTRIBUTING.md`](CONTRIBUTING.md), or take a
-[historical-map issue](.github/ISSUE_TEMPLATE/historical-map.md) — Moscow,
-Shanghai and St Petersburg have no historical layer at all, and closing that gap
+[historical-map issue](.github/ISSUE_TEMPLATE/historical-map.md). Moscow,
+Shanghai and St Petersburg have no historical layer at all. Closing that gap
 needs no code and gives a whole novel a second era.
 
 ## Licence

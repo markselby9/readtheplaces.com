@@ -23,7 +23,13 @@ export function deg2num(lat: number, lon: number, z: number): [number, number] {
   return [x, y];
 }
 
-export function tileUrl(template: string, z: number, x: number, y: number, retina: boolean): string {
+export function tileUrl(
+  template: string,
+  z: number,
+  x: number,
+  y: number,
+  retina: boolean,
+): string {
   return template
     .replace('{z}', String(z))
     .replace('{x}', String(x))
@@ -134,7 +140,10 @@ export async function renderPlate(o: PlateOptions): Promise<Buffer> {
          <circle cx="${W / 2}" cy="${H / 2}" r="${r}" fill="${o.pin}"/>
        </svg>`,
     );
-    buf = await sharp(buf).composite([{ input: marker }]).png().toBuffer();
+    buf = await sharp(buf)
+      .composite([{ input: marker }])
+      .png()
+      .toBuffer();
   }
 
   return sharp(buf).webp({ quality: 82, effort: 6 }).toBuffer();

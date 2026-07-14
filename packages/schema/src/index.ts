@@ -26,7 +26,7 @@ export const waypointSchema = z.object({
 
   /**
    * The human-facing marker: "12:00" for Mrs Dalloway, "Part 1, ch. 6" for
-   * Crime and Punishment. Presentation only. Never used for ordering — see
+   * Crime and Punishment. Presentation only. Ordering uses
    * `position`, which is derived from the text itself.
    */
   progressLabel: z.string().min(1),

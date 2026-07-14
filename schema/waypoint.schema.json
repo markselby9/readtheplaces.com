@@ -57,12 +57,7 @@
           "description": "Set true only for a deliberate excursion beyond the book's setting (e.g. Bourton, outside London). Never to silence a bad coordinate."
         },
         "placeCertainty": {
-          "enum": [
-            "explicit",
-            "inferred",
-            "inspired_by",
-            "disputed"
-          ],
+          "enum": ["explicit", "inferred", "inspired_by", "disputed"],
           "description": "explicit: the author named it. inferred: you worked it out. inspired_by: a real place behind a fictional one. disputed: scholars disagree, and we show the disagreement."
         },
         "certaintyNote": {
@@ -94,10 +89,7 @@
           "minItems": 1,
           "items": {
             "type": "object",
-            "required": [
-              "kind",
-              "ref"
-            ],
+            "required": ["kind", "ref"],
             "properties": {
               "kind": {
                 "enum": [
@@ -122,11 +114,7 @@
           }
         },
         "editorialStatus": {
-          "enum": [
-            "draft",
-            "reviewed",
-            "verified"
-          ],
+          "enum": ["draft", "reviewed", "verified"],
           "description": "A book ships per-waypoint, not per-book. A draft can be visible-but-marked rather than blocking the release."
         },
         "position": {

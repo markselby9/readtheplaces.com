@@ -9,16 +9,16 @@ test('the noon simultaneity fires, and does not fire at ten', async ({ page }) =
   await page.goto('/mrs-dalloway/read/');
 
   // At ten, Clarissa's doorstep and Big Ben share a label. Same character, two
-  // hundred metres apart. That is not simultaneity, and an early version of the
-  // reader wrongly announced it as such because it keyed off group size.
+  // hundred metres apart. An early version of the reader wrongly announced that as
+  // a simultaneity, because it keyed off group size instead of the data.
   await page.getByRole('button', { name: '10:00' }).click();
   await expect(page.locator('.simul')).toHaveCount(0);
 
   await page.getByRole('button', { name: '12:00' }).click();
   await expect(page.locator('.simul')).toBeVisible();
   await expect(page.locator('.stops .stop')).toHaveCount(2);
-  await expect(page.getByText('Westminster — the green dress')).toBeVisible();
-  await expect(page.getByText('Harley Street — the appointment')).toBeVisible();
+  await expect(page.getByText('Westminster: the green dress')).toBeVisible();
+  await expect(page.getByText('Harley Street: the appointment')).toBeVisible();
 });
 
 test('pins exist on both maps, so they survive the wipe seam', async ({ page }) => {

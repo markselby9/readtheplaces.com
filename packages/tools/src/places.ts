@@ -27,10 +27,41 @@ import { normalise } from '@rtp/schema';
  */
 
 const TAILS = [
-  'Street', 'Square', 'Park', 'Road', 'Lane', 'Gardens', 'Garden', 'Place', 'Circus',
-  'Bridge', 'Palace', 'Abbey', 'Hall', 'House', 'Court', 'Terrace', 'Row', 'Walk',
-  'Yard', 'Hill', 'Gate', 'Church', 'Cathedral', 'Station', 'Market', 'Avenue',
-  'Crescent', 'Embankment', 'Quay', 'Wharf', 'Green', 'Fields', 'Field', 'Common', 'Heath',
+  'Street',
+  'Square',
+  'Park',
+  'Road',
+  'Lane',
+  'Gardens',
+  'Garden',
+  'Place',
+  'Circus',
+  'Bridge',
+  'Palace',
+  'Abbey',
+  'Hall',
+  'House',
+  'Court',
+  'Terrace',
+  'Row',
+  'Walk',
+  'Yard',
+  'Hill',
+  'Gate',
+  'Church',
+  'Cathedral',
+  'Station',
+  'Market',
+  'Avenue',
+  'Crescent',
+  'Embankment',
+  'Quay',
+  'Wharf',
+  'Green',
+  'Fields',
+  'Field',
+  'Common',
+  'Heath',
 ].join('|');
 
 /**
@@ -45,9 +76,22 @@ const PLACE = new RegExp(String.raw`\b((?:St\.?\s+)?(?:[A-Z][\w'-]+\s+){1,3}(?:$
  * itself a perfectly good first contribution.
  */
 const GAZETTEER = [
-  'Piccadilly', 'Westminster', 'Whitehall', 'Bloomsbury', 'Mayfair', 'Hatchards',
-  'Bourton', 'Holborn', 'Strand', 'Soho', 'Chelsea', 'Kensington', 'Greenwich',
-  'Waterloo', 'Marylebone', 'Bayswater',
+  'Piccadilly',
+  'Westminster',
+  'Whitehall',
+  'Bloomsbury',
+  'Mayfair',
+  'Hatchards',
+  'Bourton',
+  'Holborn',
+  'Strand',
+  'Soho',
+  'Chelsea',
+  'Kensington',
+  'Greenwich',
+  'Waterloo',
+  'Marylebone',
+  'Bayswater',
 ];
 
 export interface Candidate {

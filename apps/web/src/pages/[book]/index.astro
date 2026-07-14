@@ -17,7 +17,12 @@ const title = `The ${book.setting.city} of ${book.title}`;
 const description = `${waypoints.length} real places from ${book.title}, in the order ${book.author} visits them.`;
 ---
 
-<Base title={title} description={description} accent={book.palette.accent} ogImage={`/og/${slug}.png`}>
+<Base
+  title={title}
+  description={description}
+  accent={book.palette.accent}
+  ogImage={`/og/${slug}.png`}
+>
   <div class="wrap">
     <header class="mast">
       <p class="kicker">Read the Places</p>
@@ -53,7 +58,7 @@ const description = `${waypoints.length} real places from ${book.title}, in the 
     </header>
   </div>
 
-  <main id="main" class="wrap timeline">
+  <main id="main" class="wrap timeline" data-ordering={book.orderingKey}>
     {groups.map((group) => <Spine book={book} slug={slug} group={group} />)}
   </main>
 </Base>

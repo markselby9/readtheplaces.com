@@ -25,6 +25,12 @@ jobs:
 
       - run: bun install --frozen-lockfile
 
+      - name: Lint
+        run: bun run lint
+
+      - name: Format
+        run: bun run format:check
+
       # The contract is only worth something if the contract itself is tested.
       - name: Unit tests
         run: bun run test

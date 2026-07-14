@@ -11,8 +11,7 @@ import { renderPlate } from './tiles.ts';
  * derived, and rebuilding it is one command.
  */
 
-const MODERN =
-  'https://a.basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png';
+const MODERN = 'https://a.basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png';
 
 const slug = process.argv[2];
 if (!slug) {
@@ -58,4 +57,6 @@ for (const wp of waypoints) {
   }
 }
 
-console.log(`\n  ${(bytes / 1024).toFixed(0)} KB total. No WebGL, no context limit, no JavaScript.`);
+console.log(
+  `\n  ${(bytes / 1024).toFixed(0)} KB total. No WebGL, no context limit, no JavaScript.`,
+);

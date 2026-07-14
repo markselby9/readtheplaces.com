@@ -1,0 +1,35 @@
+name: Commits
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+# Hooks only protect people who installed them. A contributor who clones, edits
+# a waypoint on GitHub, and opens a PR never ran `bun install`. So the same rule
+# is enforced here, where it cannot be skipped.
+jobs:
+  conventional:
+    name: Conventional commits
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.2'
+
+      - run: bun install --frozen-lockfile
+
+      - name: Lint the PR title
+        # Squash merge means the PR title becomes the commit on main, so the
+        # title is what actually has to be conventional.
+        run: echo "${{ github.event.pull_request.title }}" | bunx commitlint
+
+      - name: Lint every commit in the PR
+        run: |
+          bunx commitlint \
+            --from "${{ github.event.pull_request.base.sha }}" \
+            --to "${{ github.event.pull_request.head.sha }}" \
+            --verbose
