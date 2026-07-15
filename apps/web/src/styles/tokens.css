@@ -362,6 +362,15 @@ blockquote::after {
   color: var(--ink-2);
 }
 
+/* A cited book cites the scene instead of quoting it: "Chapter 6". */
+.reference {
+  margin-top: var(--s2);
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--ink-3);
+}
+
 .certainty {
   display: flex;
   gap: var(--s3);

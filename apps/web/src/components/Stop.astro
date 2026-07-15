@@ -16,16 +16,24 @@ const character = book.characters[wp.character]!;
 const historical = book.layers?.historical;
 const plate = (era: 'now' | 'then') => `/plates/${slug}/${wp.id}-${era}.webp`;
 
+const cited = book.sourcing === 'cited';
+
 const caption = historical
   ? `${book.setting.city} today, and ${historical.name}`
   : `${book.setting.city} today`;
+
+const progress = cited
+  ? wp.progressLabel
+  : `${wp.progressLabel} · ${Math.round(wp.position * 100)}% through the novel`;
+
+const certaintyFallback = cited ? 'Named in the book.' : 'Named directly in the text.';
 ---
 
 <article class="stop" style={`--c: ${character.color}`}>
   <span class="who">{character.name}</span>
 
   <h2 class="place-name" data-certainty={wp.placeCertainty}>{wp.name}</h2>
-  <p class="when">{wp.progressLabel} · {Math.round(wp.position * 100)}% through the novel</p>
+  <p class="when">{progress}</p>
 
   {
     /*
@@ -60,12 +68,17 @@ const caption = historical
     <figcaption>{caption}</figcaption>
   </figure>
 
-  <blockquote>{wp.passage}</blockquote>
+  {
+    /* A sourced book quotes the novel. A cited book must not reproduce the
+       author's words, so it shows our own description and cites the scene. */
+  }
+  {wp.passage && <blockquote>{wp.passage}</blockquote>}
   <p class="note">{wp.note}</p>
+  {cited && wp.reference && <p class="reference">{wp.reference}</p>}
 
   <p class="certainty">
     <span class="certainty-tag">{wp.placeCertainty.replace('_', ' ')}</span>
-    <span>{wp.certaintyNote ?? 'Named directly in the text.'}</span>
+    <span>{wp.certaintyNote ?? certaintyFallback}</span>
   </p>
 
   <p class="actions">

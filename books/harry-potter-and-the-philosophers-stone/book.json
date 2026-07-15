@@ -1,0 +1,35 @@
+{
+  "id": "harry-potter-and-the-philosophers-stone",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J. K. Rowling",
+  "published": 1997,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.135, 51.522],
+  "zoom": 12.6,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "date": "1991",
+    "note": "The Muggle London that hides a wizarding one: a zoo, a pub on Charing Cross Road, a station with a platform that is not there.",
+    "bbox": [-0.28, 51.44, -0.05, 51.58]
+  },
+  "rights": {
+    "originalWork": "In copyright. J. K. Rowling, 1997. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.bloomsbury.com/uk/harry-potter-and-the-philosophers-stone-9781408855652/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Harry Potter and the Philosopher's Stone, J. K. Rowling (Bloomsbury, 1997). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8E1B16",
+    "note": "Gryffindor scarlet. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "harry": {
+      "name": "Harry Potter",
+      "color": "#8E1B16"
+    }
+  }
+}

@@ -23,6 +23,7 @@ const BOOK: Book = {
   title: 'Test',
   author: 'Test',
   orderingKey: 'clock',
+  sourcing: 'sourced',
   center: [-0.14, 51.51],
   zoom: 13,
   setting: { city: 'London', country: 'GB', bbox: [-0.25, 51.44, -0.02, 51.58] },
@@ -243,6 +244,100 @@ describe('colours are quotations', () => {
   it('computes contrast correctly', () => {
     expect(contrast('#FFFFFF', [0, 0, 0])).toBeCloseTo(21, 1);
     expect(contrast('#000000', [255, 255, 255])).toBeCloseTo(21, 1);
+  });
+});
+
+const CITED_BOOK: Book = {
+  id: 'cited',
+  title: 'A Book Still In Copyright',
+  author: 'A Living Author',
+  orderingKey: 'chapter',
+  sourcing: 'cited',
+  center: [-0.14, 51.51],
+  zoom: 13,
+  setting: { city: 'London', country: 'GB', bbox: [-0.25, 51.44, -0.02, 51.58] },
+  rights: { textSource: 'In copyright; locations only, no text stored' },
+  // A cited book's accent is not a quotation, because there is no text to quote.
+  palette: { accent: '#40634A' },
+  characters: { harry: { name: 'Harry', color: '#7C3B2C' } },
+};
+
+function cited(over: Partial<Waypoint> = {}): Waypoint {
+  return {
+    id: 'kings-cross',
+    name: "King's Cross, Platform 9¾",
+    progressLabel: 'Chapter 6',
+    character: 'harry',
+    coords: [-0.1237, 51.5308],
+    placeCertainty: 'explicit',
+    reference: 'Chapter 6',
+    order: 1,
+    note: 'Where Harry first boards the Hogwarts Express, through a barrier between platforms nine and ten.',
+    sources: [{ kind: 'author', ref: 'Chapter 6' }],
+    editorialStatus: 'reviewed',
+    ...over,
+  };
+}
+
+const citedErrs = (waypoints: Waypoint[], book: Book = CITED_BOOK): string[] =>
+  // A cited book has no text, so the validator is given none.
+  validateBook(book, waypoints, '').errors;
+
+describe('a cited book maps locations without reproducing the text', () => {
+  it('accepts a waypoint that cites the scene and describes it in our own words', () => {
+    expect(citedErrs([cited()])).toEqual([]);
+  });
+
+  it('requires a reference, so the citation points somewhere', () => {
+    const wp = cited();
+    delete wp.reference;
+    expect(citedErrs([wp]).some((e) => e.includes('reference'))).toBe(true);
+  });
+
+  it('requires an order, because there is no text to derive position from', () => {
+    const wp = cited();
+    delete wp.order;
+    expect(citedErrs([wp]).some((e) => e.includes('order'))).toBe(true);
+  });
+
+  it('refuses a verbatim passage, so we never reproduce the author', () => {
+    const errs = citedErrs([cited({ passage: 'It was a bright cold day in April.' })]);
+    expect(errs.some((e) => e.includes('must not reproduce'))).toBe(true);
+  });
+
+  it('refuses a verbatim quoteAnchor for the same reason', () => {
+    const errs = citedErrs([cited({ quoteAnchor: 'a verbatim string from the book' })]);
+    expect(errs.some((e) => e.includes('must not reproduce'))).toBe(true);
+  });
+
+  it('derives position from order, keeping the same 0.0-1.0 spine', () => {
+    const { built } = validateBook(
+      CITED_BOOK,
+      [cited({ id: 'a', order: 3 }), cited({ id: 'b', order: 1 }), cited({ id: 'c', order: 2 })],
+      '',
+    );
+    expect(built.map((w) => w.id)).toEqual(['b', 'c', 'a']);
+    expect(built[0]!.position).toBeLessThan(built[2]!.position);
+  });
+
+  it('still enforces coordinates inside the setting', () => {
+    const errs = citedErrs([cited({ coords: [2.35, 48.86] })]); // Paris
+    expect(errs.some((e) => e.includes("outside the book's setting"))).toBe(true);
+  });
+
+  it('still enforces an honest certainty note on a guess', () => {
+    const errs = citedErrs([cited({ placeCertainty: 'inferred' })]);
+    expect(errs.some((e) => e.includes('certaintyNote'))).toBe(true);
+  });
+
+  it('still enforces a legible accent colour', () => {
+    const book = { ...CITED_BOOK, palette: { accent: '#C9A227' } } as Book; // 2.16:1
+    expect(citedErrs([cited()], book).some((e) => e.includes('WCAG AA'))).toBe(true);
+  });
+
+  it('does not demand the accent be a quotation, because there is no text', () => {
+    // A sourced book would reject this; a cited book must not.
+    expect(citedErrs([cited()])).toEqual([]);
   });
 });
 

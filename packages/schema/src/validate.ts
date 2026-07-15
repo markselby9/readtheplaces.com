@@ -24,7 +24,7 @@ function occurrences(haystack: string, needle: string): number[] {
  * Punishment is Petersburg yellow. If the quote justifying a colour is not in
  * the book, the colour is decoration, and the build says so.
  */
-function checkPalette(book: Book, text: string): string[] {
+function checkPalette(book: Book, text: string, cited: boolean): string[] {
   const errors: string[] = [];
 
   // A stub has no colour yet. Nothing to check, and nothing wrong.
@@ -47,15 +47,23 @@ function checkPalette(book: Book, text: string): string[] {
       errors.push(`${label}: colour is required`);
       continue;
     }
-    if (!quote) {
-      errors.push(`${label}: colour needs a source quote. Colours are quotations, not decoration.`);
-      continue;
+
+    // A cited book stores no text, so its colours cannot be quotations. They
+    // still have to be legible.
+    if (!cited) {
+      if (!quote) {
+        errors.push(
+          `${label}: colour needs a source quote. Colours are quotations, not decoration.`,
+        );
+        continue;
+      }
+      if (!text.includes(normalise(quote))) {
+        errors.push(
+          `${label}: colour quote not found in source.txt, so the colour is decoration: ${JSON.stringify(quote)}`,
+        );
+      }
     }
-    if (!text.includes(normalise(quote))) {
-      errors.push(
-        `${label}: colour quote not found in source.txt, so the colour is decoration: ${JSON.stringify(quote)}`,
-      );
-    }
+
     const ratio = contrast(colour);
     if (ratio < 4.5) {
       errors.push(`${label}: ${colour} is ${ratio.toFixed(2)}:1 on paper. WCAG AA needs 4.5:1.`);
@@ -70,8 +78,9 @@ export function validateBook(
   waypoints: Waypoint[],
   rawText: string,
 ): { errors: string[]; built: BuiltWaypoint[] } {
+  const cited = book.sourcing === 'cited';
   const text = normalise(rawText);
-  const errors: string[] = checkPalette(book, text);
+  const errors: string[] = checkPalette(book, text, cited);
   const bbox = book.setting?.bbox;
 
   const seen = new Set<string>();
@@ -81,29 +90,59 @@ export function validateBook(
     if (seen.has(wp.id)) errors.push(`${wp.id}: duplicate id`);
     seen.add(wp.id);
 
-    // Does the book actually say this?
-    const anchor = normalise(wp.quoteAnchor);
-    const hits = occurrences(text, anchor);
+    let position: number | undefined;
 
-    if (hits.length === 0) {
-      errors.push(
-        `${wp.id}: quoteAnchor not found in source.txt: ${JSON.stringify(anchor.slice(0, 60))}`,
-      );
-      continue;
-    }
-    if (hits.length > 1) {
-      errors.push(
-        `${wp.id}: quoteAnchor is ambiguous, ${hits.length} matches. Lengthen it: ${JSON.stringify(anchor.slice(0, 60))}`,
-      );
-      continue;
+    if (cited) {
+      // A cited book maps an in-copyright novel. It stores no text, so we cannot
+      // verify a quote against it, and we must not reproduce the author's words.
+      if (wp.quoteAnchor || wp.passage) {
+        errors.push(
+          `${wp.id}: a cited book must not reproduce the text. Drop quoteAnchor and passage; ` +
+            'describe the scene in the note instead.',
+        );
+      }
+      if (!wp.reference) {
+        errors.push(`${wp.id}: a cited waypoint needs a reference (e.g. "Chapter 6")`);
+      }
+      if (typeof wp.order !== 'number') {
+        errors.push(
+          `${wp.id}: a cited waypoint needs an order, because there is no text to derive position from`,
+        );
+        continue;
+      }
+      // Rank order into the 0.0-1.0 spine after the loop, once we have them all.
+      position = wp.order;
+    } else {
+      // Sourced book: the claim must be checkable against the text.
+      const anchor = normalise(wp.quoteAnchor ?? '');
+      if (!anchor) {
+        errors.push(`${wp.id}: a sourced waypoint needs a quoteAnchor`);
+        continue;
+      }
+      const hits = occurrences(text, anchor);
+
+      if (hits.length === 0) {
+        errors.push(
+          `${wp.id}: quoteAnchor not found in source.txt: ${JSON.stringify(anchor.slice(0, 60))}`,
+        );
+        continue;
+      }
+      if (hits.length > 1) {
+        errors.push(
+          `${wp.id}: quoteAnchor is ambiguous, ${hits.length} matches. Lengthen it: ${JSON.stringify(anchor.slice(0, 60))}`,
+        );
+        continue;
+      }
+
+      position = Math.round((hits[0]! / text.length) * 1e5) / 1e5;
+
+      // The passage we display must be honest: it has to contain its own anchor.
+      if (!normalise(wp.passage ?? '').includes(anchor)) {
+        errors.push(`${wp.id}: passage does not contain its own quoteAnchor`);
+      }
     }
 
-    const position = Math.round((hits[0]! / text.length) * 1e5) / 1e5;
-
-    // The passage we display must be honest: it has to contain its own anchor.
-    if (!normalise(wp.passage).includes(anchor)) {
-      errors.push(`${wp.id}: passage does not contain its own quoteAnchor`);
-    }
+    // The rest is the same for both kinds of book.
 
     // Anything not explicitly in the text must say why it is where it is.
     if (wp.placeCertainty !== 'explicit' && !wp.certaintyNote) {
@@ -130,7 +169,17 @@ export function validateBook(
       }
     }
 
-    built.push({ ...wp, position });
+    built.push({ ...wp, position: position! });
+  }
+
+  // A cited book's `order` values are arbitrary integers. Rank them into the
+  // same 0.0-1.0 spine a sourced book derives from text position, so everything
+  // downstream (sorting, the progress rail, structured data) is identical.
+  if (cited && built.length > 0) {
+    const sorted = [...built].sort((a, b) => a.position - b.position);
+    sorted.forEach((w, i) => {
+      w.position = built.length === 1 ? 0 : Math.round((i / (built.length - 1)) * 1e5) / 1e5;
+    });
   }
 
   // Several waypoints sharing a label are usually just "about the same time".

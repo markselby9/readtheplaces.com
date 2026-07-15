@@ -68,6 +68,16 @@ export async function loadBook(slug: string): Promise<LoadedBook> {
     return { slug, book, waypoints: [] };
   }
 
+  // A cited book stores no text, so there is nothing to read or check against.
+  // Its waypoints are validated by reference and order, not by quotation.
+  if (book.sourcing === 'cited') {
+    const { errors, built } = validateBook(book, raw, '');
+    if (errors.length > 0) {
+      throw new Error(`${slug} failed validation:\n  ${errors.join('\n  ')}`);
+    }
+    return { slug, book, waypoints: built };
+  }
+
   const source = join(BOOKS, slug, 'source.txt');
   if (!existsSync(source)) {
     throw new Error(

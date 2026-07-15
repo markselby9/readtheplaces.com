@@ -93,6 +93,16 @@ with everything a machine can know already filled in.
 It never invents a colour or a waypoint. Those are judgements, and they need a
 reader.
 
+**Books still in copyright** (Harry Potter, most modern fiction) are mapped as
+**cited books**: locations only, no text stored, no passages quoted. Locations
+are facts and the notes are our own writing, so this is the same footing as any
+literary-location guide.
+
+```sh
+bun run new-book "Harry Potter and the Philosopher's Stone" \
+  --author "J. K. Rowling" --city London --cited
+```
+
 ## Adopt a book
 
 ```sh

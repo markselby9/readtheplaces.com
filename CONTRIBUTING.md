@@ -90,6 +90,26 @@ appears under the modern city.
 
 No code. Real craft. Enormous payoff.
 
+### Books still in copyright
+
+The book you love is probably not public domain. Harry Potter is not, and will
+not be for decades. That does not shut you out.
+
+Locations are facts, and your notes are your own writing. Neither is copyright.
+What is copyright is reproducing the author's text. So we map an in-copyright book
+as a **cited book**: no text stored, no passages quoted, just the real places
+where scenes happen and your own words about why they matter.
+
+```sh
+bun run new-book "Harry Potter and the Philosopher's Stone" \
+  --author "J. K. Rowling" --city London --cited
+```
+
+A cited waypoint has a `reference` ("Chapter 6"), an `order`, a `note` in your
+own words, and coordinates. It has no `quoteAnchor` and no `passage`, and the
+build rejects it if you add one. That is the one rule: describe the scene, never
+reproduce it.
+
 ---
 
 ## Contributing code

@@ -46,9 +46,27 @@ export const waypointSchema = z.object({
    * Verbatim from source.txt, appearing exactly once. The build finds it and
    * derives the waypoint's position in the novel. If the book does not say it,
    * the build fails.
+   *
+   * Sourced books only. A cited book maps an in-copyright novel, so it stores no
+   * text and reproduces no passage; it uses `reference` and `order` instead.
    */
-  quoteAnchor: z.string().min(12),
-  passage: z.string().min(1),
+  quoteAnchor: z.string().min(12).optional(),
+  passage: z.string().min(1).optional(),
+
+  /**
+   * Cited books only. Where the scene is, for citation and ordering, e.g.
+   * "Chapter 6" or "Book 4, ch. 20". We never reproduce the author's words, so
+   * this is a pointer, not a quotation.
+   */
+  reference: z.string().min(1).optional(),
+
+  /**
+   * Cited books only. An explicit sequence number, because there is no text to
+   * derive a position from. The build ranks these into the 0.0-1.0 spine.
+   */
+  order: z.number().optional(),
+
+  /** Our own editorial prose. On a cited book this is all the reader sees. */
   note: z.string().min(1),
 
   /** Other waypoints the author deliberately holds in the same moment. */
@@ -82,6 +100,20 @@ export const bookSchema = z.object({
 
   /** Presentation only: how to render the progress rail. */
   orderingKey: z.enum(['clock', 'chapter', 'position']),
+
+  /**
+   * How the book's places are grounded in the text.
+   *
+   * "sourced": a public-domain novel. We store the full text and every waypoint
+   * quotes it verbatim, so the build can verify each claim and derive its
+   * position. This is the default.
+   *
+   * "cited": a novel still in copyright. Locations are facts and our notes are
+   * our own writing, so we can map where scenes happen without reproducing the
+   * author's words. A cited book stores no text and no verbatim passages; its
+   * waypoints cite the scene by `reference` and are ordered by `order`.
+   */
+  sourcing: z.enum(['sourced', 'cited']).default('sourced'),
 
   center: z.tuple([z.number(), z.number()]),
   zoom: z.number(),

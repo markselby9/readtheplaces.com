@@ -68,7 +68,7 @@ const { book, waypoints, text } = loadBook(slug);
 const covered = new Set<string>();
 for (const w of waypoints) {
   covered.add(normalise(w.name).toLowerCase());
-  covered.add(normalise(w.quoteAnchor).toLowerCase());
+  covered.add(normalise(w.quoteAnchor ?? '').toLowerCase());
 }
 
 const candidates = findPlaces(text).map((c) => ({

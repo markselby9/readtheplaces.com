@@ -22,6 +22,7 @@
   );
 
   const historical = book.layers?.historical ?? null;
+  const cited = book.sourcing === 'cited';
 
   let now: maplibregl.Map | undefined;
   let then: maplibregl.Map | undefined;
@@ -204,13 +205,21 @@
           <span class="who">{book.characters[w.character]!.name}</span>
           <h2 class="place-name" data-certainty={w.placeCertainty}>{w.name}</h2>
           <p class="when">
-            {w.progressLabel} · {Math.round(w.position * 100)}% through the novel
+            {w.progressLabel}{cited ? '' : ` · ${Math.round(w.position * 100)}% through the novel`}
           </p>
-          <blockquote>{w.passage}</blockquote>
+          {#if w.passage}
+            <blockquote>{w.passage}</blockquote>
+          {/if}
           <p class="note">{w.note}</p>
+          {#if cited && w.reference}
+            <p class="reference">{w.reference}</p>
+          {/if}
           <p class="certainty">
             <span class="certainty-tag">{w.placeCertainty.replace('_', ' ')}</span>
-            <span>{w.certaintyNote ?? 'Named directly in the text.'}</span>
+            <span
+              >{w.certaintyNote ??
+                (cited ? 'Named in the book.' : 'Named directly in the text.')}</span
+            >
           </p>
           <p class="actions">
             <a href={googleMaps(w.coords)} target="_blank" rel="noopener">Google Maps ↗</a>
@@ -458,6 +467,13 @@
   }
   .stops :global(blockquote) {
     font-size: var(--step-0);
+  }
+  .stops .reference {
+    margin-top: var(--s2);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    font-style: italic;
+    color: var(--ink-3);
   }
 
   .nav {

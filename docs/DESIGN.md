@@ -140,6 +140,25 @@ The work, the translation, the transcription and the imagery are four separate
 rights objects. `book.json.rights` records each. We say *rights-reviewed*, never
 "licence-clean".
 
+### 3.6 Sourced books and cited books
+
+Locations are facts, and a note about why a place matters is our own writing.
+Neither is copyright. What is copyright is reproducing the author's text, which
+is exactly what the quote-anchor mechanism does. So a book has a `sourcing`.
+
+**Sourced** (`sourcing: "sourced"`, the default). A public-domain novel. We store
+the full `source.txt`, every waypoint quotes it verbatim, and the build verifies
+each quote and derives its position.
+
+**Cited** (`sourcing: "cited"`). A novel still in copyright, such as Harry
+Potter. We store no text and reproduce no passages. A waypoint cites the scene by
+`reference` ("Chapter 6"), is ordered by an explicit `order` field, and describes
+the place in our own prose. The build ranks the `order` values into the same
+0.0-1.0 spine a sourced book derives from text. The validator refuses a cited
+waypoint that carries a `quoteAnchor` or `passage`: a cited book never reproduces
+the author's words. This puts the project on the same footing as any
+literary-location guide, and opens the catalogue to all of literature.
+
 ---
 
 ## 4. The reader

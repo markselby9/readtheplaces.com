@@ -17,8 +17,6 @@
         "character",
         "coords",
         "placeCertainty",
-        "quoteAnchor",
-        "passage",
         "note",
         "sources",
         "editorialStatus"
@@ -67,11 +65,11 @@
         "quoteAnchor": {
           "type": "string",
           "minLength": 12,
-          "description": "A VERBATIM string from source.txt, appearing exactly once. The build finds it and derives the waypoint's position in the novel. If it is not in the book, the build fails."
+          "description": "Sourced books only. A VERBATIM string from source.txt, appearing exactly once. The build finds it and derives the waypoint's position in the novel. If it is not in the book, the build fails."
         },
         "passage": {
           "type": "string",
-          "description": "What the reader sees. Must contain the quoteAnchor verbatim."
+          "description": "Sourced books only. What the reader sees. Must contain the quoteAnchor verbatim."
         },
         "note": {
           "type": "string",
@@ -120,6 +118,15 @@
         "position": {
           "type": "number",
           "description": "DERIVED — do not author this. The build computes it from quoteAnchor's offset in source.txt."
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Cited books only. Where the scene is, for citation and ordering, e.g. \"Chapter 6\". A pointer, never a quotation."
+        },
+        "order": {
+          "type": "number",
+          "description": "Cited books only. An explicit sequence number; the build ranks these into the 0.0-1.0 spine."
         }
       }
     }

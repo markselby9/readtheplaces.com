@@ -1,0 +1,59 @@
+[
+  {
+    "id": "london-zoo-reptile-house",
+    "name": "The Reptile House, London Zoo",
+    "progressLabel": "Chapter 2",
+    "character": "harry",
+    "coords": [-0.1531, 51.5353],
+    "placeCertainty": "explicit",
+    "reference": "Chapter 2, The Vanishing Glass",
+    "order": 1,
+    "note": "On a trip to the zoo for Dudley's birthday, Harry finds he can talk to a boa constrictor, and the glass of its enclosure vanishes. It is the first sign, to him and to us, that he is not an ordinary boy. London Zoo is real, in Regent's Park, and its reptile house is still there.",
+    "sources": [{ "kind": "author", "ref": "Chapter 2" }],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leaky-cauldron-charing-cross-road",
+    "name": "The Leaky Cauldron, Charing Cross Road",
+    "progressLabel": "Chapter 5",
+    "character": "harry",
+    "coords": [-0.1287, 51.5145],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book places the Leaky Cauldron on Charing Cross Road, a real street, but the pub itself is invisible to Muggles and has no fixed address. Sited mid-street as a representative point.",
+    "reference": "Chapter 5, Diagon Alley",
+    "order": 2,
+    "note": "A tiny, grubby pub that the people hurrying past on Charing Cross Road cannot see. Hagrid leads Harry through it to buy his school things. It is the seam between the ordinary city and the hidden one, and Rowling puts it on a street any Londoner knows.",
+    "sources": [{ "kind": "author", "ref": "Chapter 5" }],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "diagon-alley-cecil-court",
+    "name": "Diagon Alley",
+    "progressLabel": "Chapter 5",
+    "character": "harry",
+    "coords": [-0.1275, 51.5111],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Diagon Alley is invented. Fans and Rowling herself have pointed to Cecil Court, a Victorian pedestrian lane of small shops off Charing Cross Road, as its likely real-world model. Sited there.",
+    "reference": "Chapter 5, Diagon Alley",
+    "order": 3,
+    "note": "The wizarding high street, reached by tapping a brick behind the Leaky Cauldron: Gringotts, Ollivanders, the shop where Harry buys his wand. Cecil Court, a lane of antiquarian booksellers a minute away, is the London street it most resembles.",
+    "sources": [
+      { "kind": "author", "ref": "Chapter 5" },
+      { "kind": "guide", "ref": "Cecil Court, widely cited as the model for Diagon Alley" }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kings-cross-platform-nine-three-quarters",
+    "name": "King's Cross, Platform 9¾",
+    "progressLabel": "Chapter 6",
+    "character": "harry",
+    "coords": [-0.1237, 51.5308],
+    "placeCertainty": "explicit",
+    "reference": "Chapter 6, The Journey from Platform Nine and Three-Quarters",
+    "order": 4,
+    "note": "Harry walks at a barrier between platforms nine and ten, expecting to crash, and passes through onto a platform that does not appear on any Muggle map. The Hogwarts Express is waiting. King's Cross is real; the station now marks the spot with a luggage trolley half-sunk into a wall.",
+    "sources": [{ "kind": "author", "ref": "Chapter 6" }],
+    "editorialStatus": "reviewed"
+  }
+]

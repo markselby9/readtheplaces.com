@@ -29,7 +29,9 @@ export function loadBook(slug: string): LoadedBook {
 
   const book = bookSchema.parse(JSON.parse(read('book.json')));
   const raw = waypointSchema.array().parse(JSON.parse(read('waypoints.json')));
-  const text = read('source.txt');
+
+  // A cited book stores no text; it is validated by reference and order.
+  const text = book.sourcing === 'cited' ? '' : read('source.txt');
 
   const { errors, built } = validateBook(book, raw, text);
   if (errors.length > 0) {

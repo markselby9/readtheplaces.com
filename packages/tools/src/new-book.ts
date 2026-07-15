@@ -29,6 +29,8 @@ interface Args {
   published?: number;
   text?: string;
   ordering: 'clock' | 'chapter' | 'position';
+  /** Map an in-copyright book: locations only, no text stored, no quotes. */
+  cited: boolean;
 }
 
 function parseArgs(argv: string[]): Args {
@@ -77,6 +79,7 @@ function parseArgs(argv: string[]): Args {
     published: published ? Number(published) : undefined,
     text: flag('text'),
     ordering,
+    cited: argv.includes('--cited'),
   };
 }
 
@@ -199,6 +202,98 @@ async function findHistoricalLayer(
   }
 }
 
+/**
+ * Scaffold a cited book: one in copyright, mapped by location only.
+ *
+ * We store no text and reproduce no passages. A place where a scene happens is
+ * a fact, and our notes are our own writing, so this is legally the same footing
+ * as any literary-location guide. The difference from a sourced book: no
+ * source.txt, no quoteAnchor, no verbatim passage. Each waypoint cites the scene
+ * by reference and is ordered by hand.
+ */
+async function scaffoldCited(args: Args, slug: string, dir: URL): Promise<void> {
+  console.log('  Cited book: locations only, no text stored.\n');
+  console.log('  Locating the city…');
+  const place = await geocodeCity(args.city, args.country);
+  if (!place) {
+    console.error(`  Could not locate "${args.city}". Pass --country to disambiguate.`);
+    process.exit(1);
+  }
+  console.log(`  ${place.lat.toFixed(3)}, ${place.lon.toFixed(3)}`);
+
+  mkdirSync(dir, { recursive: true });
+
+  const book = {
+    id: slug,
+    title: args.title,
+    author: args.author,
+    published: args.published,
+    orderingKey: args.ordering,
+    sourcing: 'cited',
+    center: [Number(place.lon.toFixed(4)), Number(place.lat.toFixed(4))],
+    zoom: 12.5,
+    setting: {
+      city: args.city,
+      country: place.country,
+      note: 'TODO: one sentence a reader would want. When and where is this novel set, and what shape does it have?',
+      bbox: place.bbox.map((n) => Number(n.toFixed(3))),
+    },
+    rights: {
+      originalWork: `TODO: confirm. In copyright. ${args.author}, ${args.published ?? '?'}. Mapped as a cited work: no text stored, no passages reproduced.`,
+      translation: null,
+      textSource: 'None stored. A cited book reproduces no text.',
+      textSourceUrl:
+        'TODO: a link to the publisher or an authoritative edition, for reference only.',
+      territoryNotes:
+        'Locations and original commentary only. No reproduction of the copyrighted text, in any territory.',
+      attribution: `${args.title}, ${args.author}${args.published ? ` (${args.published})` : ''}. Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher.`,
+    },
+    palette: {
+      accent: 'TODO',
+      note: "A cited book's colour is not a quotation, because we store no text. Pick a hex that means something for the book and clears WCAG AA on paper (>= 4.5:1).",
+    },
+    characters: {
+      TODO: {
+        name: 'TODO: a character whose thread the walk follows.',
+        color: 'TODO',
+      },
+    },
+  };
+
+  writeFileSync(new URL('book.json', dir), `${JSON.stringify(book, null, 2)}\n`);
+  writeFileSync(new URL('waypoints.json', dir), '[]\n');
+
+  console.log(`
+  Written:
+    books/${slug}/book.json         a cited book (sourcing: "cited")
+    books/${slug}/waypoints.json    empty, waiting for you
+
+  There is no text to mine, so you add places by hand. Each cited waypoint is:
+
+    {
+      "id": "kings-cross-platform-nine-three-quarters",
+      "name": "King's Cross, Platform 9¾",
+      "progressLabel": "Chapter 6",
+      "character": "harry",
+      "coords": [-0.1237, 51.5308],
+      "placeCertainty": "explicit",
+      "reference": "Chapter 6",
+      "order": 4,
+      "note": "Your own two sentences on why the place matters. Do NOT quote the book.",
+      "sources": [{ "kind": "author", "ref": "Chapter 6" }],
+      "editorialStatus": "reviewed"
+    }
+
+  No quoteAnchor, no passage: a cited book never reproduces the author's words.
+  Order the waypoints with the "order" field. Then check your work:
+
+    bun run build
+
+  The build refuses a cited waypoint that carries a verbatim passage, that sits
+  outside the book's setting, or that guesses at a place without saying so.
+`);
+}
+
 async function main(): Promise<void> {
   const args = parseArgs(process.argv.slice(2));
   const slug = slugify(args.title);
@@ -210,6 +305,11 @@ async function main(): Promise<void> {
   }
 
   console.log(`\n  ${args.title} → books/${slug}/\n`);
+
+  if (args.cited) {
+    await scaffoldCited(args, slug, dir);
+    return;
+  }
 
   // 1. The text.
   console.log('  Finding the text…');
@@ -243,9 +343,16 @@ async function main(): Promise<void> {
   Searched Standard Ebooks for "${args.title}" by ${args.author} and found nothing
   that matched.
 
-  Find a plain-text edition (Standard Ebooks, Project Gutenberg, Wikisource) and
-  pass it with --text <url>. It must be public domain where you are, and the
-  edition you cite is what every quote is checked against.
+  If the book is public domain, find a plain-text edition (Standard Ebooks,
+  Project Gutenberg, Wikisource) and pass it with --text <url>. That edition is
+  what every quote is checked against.
+
+  If the book is still in copyright (Harry Potter, and most modern fiction), we
+  cannot store its text or reproduce its passages. You can still map where its
+  scenes happen: locations are facts, and your notes are your own writing. Add
+  it as a cited book:
+
+    bun run new-book "${args.title}" --author "${args.author}" --city "${args.city}" --cited
 `);
     process.exit(1);
   }
