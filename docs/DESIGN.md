@@ -573,7 +573,11 @@ dashboard. There is deliberately no deploy workflow in this repo: two deploy
 paths racing each other is worse than one, and the dashboard build needs no
 secrets.
 
-`_headers` and `_redirects` are in `apps/web/public/` and are natively supported
-by Workers Static Assets. The www-to-apex redirect is also configured in the
-Cloudflare dashboard; keeping it in the repo as well means a fork deploying
-somewhere else gets the same canonical behaviour without having to know about it.
+`_headers` is in `apps/web/public/` and is natively supported by Workers Static
+Assets.
+
+The www-to-apex redirect is an edge Redirect Rule in the Cloudflare dashboard,
+not a `_redirects` file. Workers `_redirects` only accepts relative destinations,
+so a cross-hostname redirect (`www.readtheplaces.com` -> `readtheplaces.com`) is
+rejected by the deploy with error 100324 and cannot live there. It also is not
+something a fork on a different domain would want, so it belongs at the edge.

@@ -1,3 +1,0 @@
-# One canonical host. www redirects to the apex, which is what every canonical
-# tag and every schema.org @id on the site already points at.
-https://www.readtheplaces.com/* https://readtheplaces.com/:splat 301
