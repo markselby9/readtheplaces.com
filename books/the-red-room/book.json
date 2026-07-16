@@ -1,0 +1,23 @@
+{
+  "id": "the-red-room",
+  "title": "The Red Room",
+  "author": "August Strindberg",
+  "published": 1879,
+  "orderingKey": "chapter",
+  "center": [18.0711, 59.3251],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Stockholm",
+    "country": "SE",
+    "note": "Stockholm skewered: the newspaper offices, the government bureaus, and the Red Room of the Berns Salonger where the young cynics drink, a room that is still there. Strindberg walks a real city he despised, and it brings Sweden into the atlas.",
+    "bbox": [17.911, 59.165, 18.231, 59.485]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. August Strindberg published this in 1879.",
+    "translation": "Translated by ellie schleussner. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/august-strindberg/the-red-room/ellie-schleussner",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "August Strindberg, The Red Room (1879)."
+  }
+}

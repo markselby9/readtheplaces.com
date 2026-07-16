@@ -410,6 +410,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'A single square, mapped to the door: Dr Sloper’s house on Washington Square North, the Row still standing, the Bowery a world away. James fixes the whole novel to a few blocks of Greenwich Village, which is exactly what this project is for.',
   },
+  {
+    title: 'The Red Room',
+    author: 'August Strindberg',
+    published: 1879,
+    city: 'Stockholm',
+    country: 'se',
+    ordering: 'chapter',
+    why: 'Stockholm skewered: the newspaper offices, the government bureaus, and the Red Room of the Berns Salonger where the young cynics drink, a room that is still there. Strindberg walks a real city he despised, and it brings Sweden into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
