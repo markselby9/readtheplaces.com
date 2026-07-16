@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sayula-road-down-to-comala",
+    "name": "Sayula and the road down",
+    "progressLabel": "The descent",
+    "character": "juan",
+    "coords": [-103.60056, 19.88278],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sayula is a real town in Jalisco, named in the novel and the place Rulfo himself was born. It lies about sixty kilometres north of Comala, outside the book's Colima setting, so it is flagged as a deliberate excursion; the coordinates mark the town centre where the road toward Comala begins.",
+    "reference": "Opening; Juan Preciado sets out",
+    "order": 1,
+    "note": "The book begins with a journey. Juan Preciado, honouring a promise to his dying mother, comes down toward Comala to claim the father he has never met. On the road he falls in with a stranger driving burros, and the descent into heat and dust carries him from the living world into a town that turns out to be full of the dead. Sayula, north across the Jalisco line, is the real town those roads climb down from, and the place Rulfo grew up near.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sayula, Jalisco, Wikipedia, on the town and Rulfo's connection to it",
+        "url": "https://en.wikipedia.org/wiki/Sayula,_Jalisco"
+      },
+      {
+        "kind": "external",
+        "ref": "GPS coordinates of Sayula, Jalisco",
+        "url": "https://latitude.to/map/mx/mexico/cities/sayula"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "comala-jardin-principal",
+    "name": "The plaza of Comala",
+    "progressLabel": "Comala",
+    "character": "juan",
+    "coords": [-103.7588, 19.3228],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's Comala is a fictionalised version of a real town: Rulfo took the name and the setting from the actual Comala in Colima, but drained it of life and peopled it with ghosts. The coordinates mark the real main square, the Jardín Principal, where a life-size statue of Rulfo now sits reading on a bench.",
+    "reference": "Arrival in Comala",
+    "order": 2,
+    "note": "Juan reaches the town and finds it deserted, its streets echoing, its inhabitants long dead and still murmuring. The real Comala is nothing so grim: a whitewashed Pueblo Mágico of arcaded walkways and a shaded plaza. Rulfo borrowed its name and its bones and hollowed them out into the afterlife his narrator walks through.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jardín Principal de Comala, México es Cultura, on the main square and the Rulfo statue",
+        "url": "https://www.mexicoescultura.com/recinto/67471/jardin-principal-de-comala.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Comala, Wikipedia, on the town Rulfo drew the setting from",
+        "url": "https://en.wikipedia.org/wiki/Comala"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "parroquia-san-miguel-arcangel",
+    "name": "The parish church, San Miguel Arcángel",
+    "progressLabel": "Comala",
+    "character": "juan",
+    "coords": [-103.7584, 19.3231],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The church on Comala's plaza is real: the neoclassical Parroquia de San Miguel Arcángel del Espíritu Santo, whose white façade fronts the square. The novel's Comala is a fictionalised version of this real town, so the building stands, though the parish and its priest in the book are Rulfo's invention.",
+    "reference": "Comala's church and the dead",
+    "order": 3,
+    "note": "Much of the town's guilt gathers around its church and the priest who took the landowner's money and withheld absolution from the poor. In the real Comala the parish church of San Miguel Arcángel still presides over the plaza, its pale front the landmark every visitor photographs. Rulfo turned that ordinary village church into a confessional for a whole town of the damned.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Iglesia San Miguel Arcángel del Espíritu Santo, GCatholic",
+        "url": "https://gcatholic.org/churches/mexico/111468.htm"
+      },
+      {
+        "kind": "guide",
+        "ref": "Parroquia de San Miguel Arcángel del Espíritu Santo, Mapcarta, for the location on the plaza",
+        "url": "https://mapcarta.com/N4902063688"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "media-luna-hacienda",
+    "name": "The Media Luna, Pedro Páramo's estate",
+    "progressLabel": "The Media Luna",
+    "character": "juan",
+    "coords": [-103.74, 19.3239],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Media Luna is fictional. It is the hacienda from which Pedro Páramo rules and ruins the district, and it has no fixed real location. The point marks the ex-Hacienda de Nogueras just east of Comala, a genuine colonial estate of the kind Rulfo drew on, as a representative stand-in for the invented one.",
+    "reference": "The Media Luna and Pedro Páramo",
+    "order": 4,
+    "note": "Away from the town lies the Media Luna, the great estate where Pedro Páramo grows from a boy into the boss who owns the land, the water and most of the people on it. The hacienda is Rulfo's invention, but its shape is real: the countryside around Comala still holds old estates like Nogueras, whose chapel and walls survive as one of Colima's oldest. It stands in here for the domain the whole novel orbits.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nogueras Hacienda, Comala, Wikidata, for the location and coordinates",
+        "url": "https://www.wikidata.org/wiki/Q5404790"
+      },
+      {
+        "kind": "guide",
+        "ref": "Museo Universitario Alejandro Rangel Hidalgo, Nogueras, Comala",
+        "url": "https://portal.ucol.mx/dgpc//Rangel-Hidalgo-es.htm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "volcan-de-colima",
+    "name": "The Volcán de Colima on the skyline",
+    "progressLabel": "The valley",
+    "character": "juan",
+    "coords": [-103.62, 19.514],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Volcán de Colima, also called the Volcán de Fuego, is a real and still-active volcano that rises to the north of Comala and defines its horizon. It is not named as a plot location, but Rulfo's Comala sits at its foot, and the mountain's heat and ash pervade the book's landscape.",
+    "reference": "The Comala valley",
+    "order": 5,
+    "note": "Everything in the novel happens in the shadow of the fire-mountain, in a valley that Rulfo describes as lying over the very mouth of hell, so hot the dead come back for a blanket. The real volcano that gives the town its furnace of a climate is the Volcán de Colima, one of the most active in Mexico, standing over the whole Comala basin.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Volcán de Colima, Wikipedia, on the active volcano north of Comala",
+        "url": "https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Colima"
+      },
+      {
+        "kind": "external",
+        "ref": "Global Volcanism Program, Colima, for the summit coordinates",
+        "url": "https://volcano.si.edu/volcano.cfm?vn=341040"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

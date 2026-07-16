@@ -1,0 +1,34 @@
+{
+  "id": "pedro-paramo",
+  "title": "Pedro Páramo",
+  "author": "Juan Rulfo",
+  "published": 1955,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [-103.7585, 19.3231],
+  "zoom": 10.5,
+  "setting": {
+    "city": "Comala",
+    "country": "MX",
+    "note": "Rulfo set his town of the dead at the foot of the volcano in Colima, and the map holds the real Comala it grew from: a white-walled plaza, a parish church, the dusty road that drops down from the north, and the fire-mountain on the skyline. Juan Preciado goes looking for the father he was promised and finds a place where only the dead still speak.",
+    "bbox": [-103.8, 19.28, -103.58, 19.55]
+  },
+  "rights": {
+    "originalWork": "In copyright. Juan Rulfo, first published 1955. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://groveatlantic.com/book/pedro-paramo/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Pedro Páramo, Juan Rulfo (1955). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8B2500",
+    "note": "The ember of the volcano that stands over Comala, banked down to the colour of dried blood and old brick. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "juan": {
+      "name": "Juan Preciado",
+      "color": "#5C3A21"
+    }
+  }
+}
