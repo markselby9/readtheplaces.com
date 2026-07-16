@@ -343,6 +343,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Oxford in a single doomed summer term: the High, the river Isis, the Emperors’ heads outside the Sheldonian. Beerbohm invents a college but keeps the city exact, and it brings Oxford into the atlas.',
   },
+  {
+    title: 'Hunger',
+    author: 'Knut Hamsun',
+    published: 1890,
+    city: 'Oslo',
+    country: 'no',
+    ordering: 'chapter',
+    why: 'Kristiania, now Oslo, paced in a fever of starvation down Karl Johan and along the harbour. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

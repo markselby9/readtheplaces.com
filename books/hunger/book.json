@@ -1,0 +1,23 @@
+{
+  "id": "hunger",
+  "title": "Hunger",
+  "author": "Knut Hamsun",
+  "published": 1890,
+  "orderingKey": "chapter",
+  "center": [10.739, 59.9133],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Oslo",
+    "country": "NO",
+    "note": "Kristiania, now Oslo, paced in a fever of starvation down Karl Johan and along the harbour. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.",
+    "bbox": [10.489, 59.809, 10.951, 60.135]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Knut Hamsun published this in 1890.",
+    "translation": "Translated by george egerton. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/knut-hamsun/hunger/george-egerton",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Knut Hamsun, Hunger (1890)."
+  }
+}
