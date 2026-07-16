@@ -263,6 +263,15 @@ const CATALOGUE: Seed[] = [
     why: 'Austen’s Bath, named street by street: Camden Place, the Pump Room, Milsom Street, the White Hart. The novel also carries Anne Elliot to the Cobb at Lyme Regis, where Louisa falls. It brings both Bath and Jane Austen into the atlas.',
   },
   {
+    title: 'Sons and Lovers',
+    author: 'D. H. Lawrence',
+    published: 1913,
+    city: 'Nottingham',
+    country: 'gb',
+    ordering: 'chapter',
+    why: 'The Nottinghamshire coalfield that made Lawrence: the mining village he renamed but placed exactly on the ground of Eastwood, the pit, and Nottingham itself, where Paul Morel takes the train to work. It brings the English mining Midlands into the atlas.',
+  },
+  {
     title: 'Heart of Darkness',
     author: 'Joseph Conrad',
     published: 1899,

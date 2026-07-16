@@ -1,0 +1,23 @@
+{
+  "id": "sons-and-lovers",
+  "title": "Sons and Lovers",
+  "author": "D. H. Lawrence",
+  "published": 1913,
+  "orderingKey": "chapter",
+  "center": [-1.1496, 52.9534],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Nottingham",
+    "country": "GB",
+    "note": "The Nottinghamshire coalfield that made Lawrence: the mining village he renamed but placed exactly on the ground of Eastwood, the pit, and Nottingham itself, where Paul Morel takes the train to work. It brings the English mining Midlands into the atlas.",
+    "bbox": [-1.247, 52.889, -1.086, 53.019]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. D. H. Lawrence published this in 1913.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/d-h-lawrence/sons-and-lovers",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "D. H. Lawrence, Sons and Lovers (1913)."
+  }
+}
