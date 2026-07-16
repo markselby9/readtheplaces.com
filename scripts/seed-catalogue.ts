@@ -59,7 +59,7 @@ const CATALOGUE: Seed[] = [
     city: 'London',
     country: 'gb',
     ordering: 'chapter',
-    why: 'Short, famous, and a single night’s journey through the City. The Royal Exchange and Cornhill are named outright; Scrooge’s counting house and Bob Cratchit’s Camden are reconstructions, which makes it an honest test of the certainty labels.',
+    why: 'Short, famous, and a single night’s journey through the City. The Royal Exchange, Cornhill and Bob Cratchit’s Camden Town are named outright; the exact houses, Scrooge’s counting house and the Cratchits’ door, are reconstructions, which makes it an honest test of the certainty labels.',
   },
   {
     title: 'The Picture of Dorian Gray',
@@ -124,7 +124,7 @@ const CATALOGUE: Seed[] = [
     city: 'Paris',
     country: 'fr',
     ordering: 'chapter',
-    why: 'The Palais Garnier is real, and so is the lake under it. Leroux insisted the whole thing was true and gave enough addresses to check.',
+    why: 'The Palais Garnier is real, and so is the water beneath it: a cistern built to hold back the groundwater, which Leroux turned into an underground lake. He insisted the whole thing was true and gave enough addresses to check.',
   },
   {
     title: 'The Belly of Paris',
@@ -153,8 +153,12 @@ const CATALOGUE: Seed[] = [
     city: 'Moscow',
     country: 'ru',
     ordering: 'chapter',
-    why: 'Moscow, Petersburg, and the railway between them. The novel opens at a station and ends at one, and the line itself is the most important place in it.',
+    why: 'Moscow, Petersburg, and the railway between them. Anna arrives by train, past a man crushed at the station, and dies under one before her story ends. The line between the two cities is the most important place in the book.',
   },
+  // The seed only makes sourced stubs. This one is not sourceable: Bulgakov's
+  // Russian is public domain but every English translation is still in
+  // copyright, so after seeding it must be hand-converted to a cited book
+  // (sourcing: "cited", locations only). See books/the-master-and-margarita.
   {
     title: 'The Master and Margarita',
     author: 'Mikhail Bulgakov',
@@ -162,7 +166,7 @@ const CATALOGUE: Seed[] = [
     city: 'Moscow',
     country: 'ru',
     ordering: 'chapter',
-    why: 'Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. Check the rights carefully: Bulgakov died in 1940, but the translation you use may not be free.',
+    why: 'Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. The Russian text is public domain, but every English translation is still in copyright, so this is mapped as a cited book: locations only, no passages stored.',
   },
 
   // The United States.
@@ -220,7 +224,7 @@ const CATALOGUE: Seed[] = [
     city: 'Venice',
     country: 'it',
     ordering: 'chapter',
-    why: 'The Lido, the lagoon, a city Mann fills with cholera and does not name the disease. Short enough to do properly, and the geography is a single hotel and the water in front of it.',
+    why: 'The Lido, the lagoon, and an Asiatic cholera the city hushes up to protect the season. Short enough to do properly, and the geography is a single hotel and the water in front of it.',
   },
   {
     title: 'Kim',
