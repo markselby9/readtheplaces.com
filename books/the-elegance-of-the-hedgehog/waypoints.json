@@ -1,0 +1,152 @@
+[
+  {
+    "id": "seven-rue-de-grenelle",
+    "name": "7 rue de Grenelle",
+    "progressLabel": "The building",
+    "character": "renee",
+    "coords": [2.3294406, 48.8525729],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the address, 7 rue de Grenelle, as the hôtel particulier that holds nearly all its scenes. The real number 7 sits at the eastern, Saint-Germain end of the street, on the 6th and 7th arrondissement line rather than deep in the 7th; the coordinates mark that real doorway.",
+    "reference": "Setting, throughout",
+    "order": 1,
+    "note": "Everything turns on this one address: an elegant Left Bank apartment house of eight grand flats, a courtyard and a private garden, with a concierge's lodge by the entrance. The building is the whole world of the book, and every other point here is a room or a doorstep within a few metres of it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rue de Grenelle, French Wikipedia, noting number 7 as the fictional setting of Barbery's novel",
+        "url": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+      },
+      {
+        "kind": "guide",
+        "ref": "Books Set in Paris: Gourmet Rhapsody & Elegance of the Hedgehog, Bonjour Paris, on the 7 rue de Grenelle setting",
+        "url": "https://bonjourparis.com/archives/books-paris-gourmet-rhapsody-elegance-hedgehog/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "concierge-lodge",
+    "name": "Renée's concierge lodge",
+    "progressLabel": "The lodge",
+    "character": "renee",
+    "coords": [2.329405, 48.852545],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The lodge is a real fixture of such a building but has no separate address; it is sited with a small offset at the ground-floor entrance of 7 rue de Grenelle, where a Paris concierge's quarters would sit.",
+    "reference": "Renée's journal, throughout",
+    "order": 2,
+    "note": "The concierge lives and works in a small lodge just inside the door, playing the dull caretaker the tenants expect while secretly reading philosophy, watching art films and keeping a hidden inner room of books. Most of her half of the novel is thought and observation from this cramped, deliberately unremarkable space.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The concierge at Rue de Grenelle 7, Paris Impressions, on Renée and her lodge",
+        "url": "https://parisimpressions.com/en/boeken/the-concierge-at-rue-de-grenelle-7/"
+      },
+      {
+        "kind": "inference",
+        "ref": "Ground-floor position of a Paris apartment building's concierge lodge, sited within the named building",
+        "url": "https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "josse-family-flat",
+    "name": "The Josse family flat",
+    "progressLabel": "The Josse flat",
+    "character": "paloma",
+    "coords": [2.329475, 48.852615],
+    "placeCertainty": "inferred",
+    "certaintyNote": "One of the building's grand apartments, home to the Josse family; the exact floor is not fixed as a public location, so it is placed with a small upward-and-inward offset within 7 rue de Grenelle.",
+    "reference": "Paloma's journal, throughout",
+    "order": 3,
+    "note": "Twelve-year-old Paloma, the youngest daughter of a well-off political family, narrates from their apartment in the same building. Sharp, disenchanted and quietly planning to end her life on her thirteenth birthday, she fills notebooks with private observations while watching the adults around her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Elegance of the Hedgehog, Wikipedia, on Paloma Josse and her family in the building",
+        "url": "https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog"
+      },
+      {
+        "kind": "inference",
+        "ref": "One of the eight flats at the named 7 rue de Grenelle, sited within the building",
+        "url": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kakuro-ozu-flat",
+    "name": "Kakuro Ozu's flat",
+    "progressLabel": "The Ozu flat",
+    "character": "renee",
+    "coords": [2.329375, 48.852595],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The newly arrived tenant's apartment is another of the building's flats; its floor is not a public location, so it is sited with a small offset within 7 rue de Grenelle.",
+    "reference": "Renée's journal, later chapters",
+    "order": 4,
+    "note": "A cultured Japanese gentleman moves into a vacated flat and, unlike the other tenants, sees through the concierge's disguise. Their friendship, built over tea and shared taste, is the warm centre of the novel's second half, and much of it unfolds behind his door in the same house.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Elegance of the Hedgehog, Wikipedia, on Kakuro Ozu and his arrival in the building",
+        "url": "https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog"
+      },
+      {
+        "kind": "inference",
+        "ref": "One of the flats at the named 7 rue de Grenelle, sited within the building",
+        "url": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "left-bank-cafe",
+    "name": "A café off Saint-Germain",
+    "progressLabel": "The quarter",
+    "character": "renee",
+    "coords": [2.3326307, 48.8541444],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's excursions to a nearby café and the shops of the quarter are not tied to a named establishment; this marks the Café de Flore on boulevard Saint-Germain as a representative point a short walk from the building.",
+    "reference": "Various chapters",
+    "order": 5,
+    "note": "Now and then the characters step out of the building into the surrounding streets, to a café table and the small errands of the neighbourhood. The quarter around Saint-Germain-des-Prés, a short walk from the door, stands in for these brief openings onto the wider city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, The Elegance of the Hedgehog, on the Saint-Germain quarter around the setting",
+        "url": "https://www.thebooktrail.com/book-trails/the-elegance-of-the-hedgehog/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Café de Flore, boulevard Saint-Germain, as a representative Left Bank café near the building",
+        "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_de_Flore"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rue-de-grenelle-fountain",
+    "name": "Rue de Grenelle in the 7th",
+    "progressLabel": "Rue de Grenelle",
+    "character": "paloma",
+    "coords": [2.3251122, 48.8546899],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The street the novel names, rue de Grenelle, is real and runs on into the 7th arrondissement; this marks the Fontaine des Quatre-Saisons, its best-known landmark, as a fixed point along the named street. The book does not mention the fountain itself.",
+    "reference": "Setting, the named street",
+    "order": 6,
+    "note": "The address the whole book leans on is a real Paris street, running west from Saint-Germain into the heart of the 7th arrondissement. This point sits a little way along it, at the 18th-century Fountain of the Four Seasons, to fix the elegant quarter the novel keeps just outside its front door.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rue de Grenelle, French Wikipedia, on the street and its course through the 6th and 7th arrondissements",
+        "url": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fontaine des Quatre-Saisons, rue de Grenelle, 7th arrondissement, as a fixed landmark on the named street",
+        "url": "https://en.wikipedia.org/wiki/Fontaine_des_Quatre-Saisons"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
