@@ -1,0 +1,148 @@
+[
+  {
+    "id": "darlington-hall-oxfordshire",
+    "name": "Darlington Hall, Oxfordshire",
+    "progressLabel": "Prologue",
+    "character": "stevens",
+    "coords": [-1.35, 51.78],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Darlington Hall is invented, a stately home the novel places in rural Oxfordshire; commentators treat it as a conflation of English country houses rather than a single real building. Sited at a representative point in the Oxfordshire countryside west of Oxford, outside the West Country setting the trip crosses into.",
+    "reference": "Prologue, July 1956",
+    "order": 1,
+    "note": "The great house where Stevens has served for decades, first under a disgraced English lord and now an American owner. When the new master suggests he take the car and see something of the country, the butler sets off west, and the whole book is told as he drives and remembers. The hall is fictional; the novel roots it in Oxfordshire, the starting point of the journey.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Remains of the Day, Wikipedia, on the fictional Darlington Hall placed near Oxford",
+        "url": "https://en.wikipedia.org/wiki/The_Remains_of_the_Day"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Darlington Hall, Oxfordshire, COVE Collective location entry",
+        "url": "https://editions.covecollective.org/content/darlington-hall-oxfordshire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "salisbury-cathedral",
+    "name": "Salisbury Cathedral",
+    "progressLabel": "Day One, Evening",
+    "character": "stevens",
+    "coords": [-1.7975, 51.0648],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Salisbury is named as the first night's stop, and its cathedral is singled out; sited at the cathedral itself.",
+    "reference": "Day One, Evening, Salisbury",
+    "order": 2,
+    "note": "The first evening of the trip ends in Salisbury, where a fellow guest urges Stevens to see the cathedral. Its spire, the tallest in England, becomes the landmark of a night spent turning over the past rather than the town in front of him. Salisbury and its cathedral are real, in Wiltshire.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Salisbury Cathedral, Wikipedia, for the cathedral coordinates",
+        "url": "https://en.wikipedia.org/wiki/Salisbury_Cathedral"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, The Remains of the Day route through the West Country",
+        "url": "https://www.thebooktrail.com/book-trails/the-remains-of-the-day-kazuo-ishiguro/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "taunton-somerset",
+    "name": "Taunton, Somerset",
+    "progressLabel": "Day Two, Morning",
+    "character": "stevens",
+    "coords": [-3.1029, 51.0149],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Taunton is named as a stop on the second day; sited at the town centre.",
+    "reference": "Day Two, Morning",
+    "order": 3,
+    "note": "Driving on into Somerset, Stevens breaks his journey around Taunton, taking tea and listening to the easy talk of local men in a way his own trained reserve never allowed. The town is real, the county seat of Somerset.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Taunton, Wikipedia, for the town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Taunton"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, The Remains of the Day route through the West Country",
+        "url": "https://www.thebooktrail.com/book-trails/the-remains-of-the-day-kazuo-ishiguro/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mortehoe-devon",
+    "name": "Mortehoe, Devon",
+    "progressLabel": "Day Two, Afternoon",
+    "character": "stevens",
+    "coords": [-4.2075, 51.1853],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The chapter heading names Mortehoe; the novel attaches it to Cornwall, but the village is in fact in North Devon, where it is sited here.",
+    "reference": "Day Two, Afternoon, Mortehoe",
+    "order": 4,
+    "note": "The second afternoon carries Stevens to the far west, to the clifftop village of Mortehoe above the Atlantic, the outer edge of his route before he begins bending back toward Miss Kenton. Ishiguro's chapter heading files the village under Cornwall; in reality Mortehoe sits on the North Devon coast.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mortehoe, Wikipedia, for the North Devon village coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mortehoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tavistock-devon",
+    "name": "Near Tavistock, Devon",
+    "progressLabel": "Day Three, Evening",
+    "character": "stevens",
+    "coords": [-4.1442, 50.5511],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village of Moscombe, where the Ford runs dry and Stevens is taken for a gentleman, is invented; the novel places it near Tavistock, a real market town on the western edge of Dartmoor, where it is sited here.",
+    "reference": "Day Three, Evening, near Tavistock",
+    "order": 5,
+    "note": "The car runs out of petrol near a small Devon village and Stevens is put up for the night by locals who, hearing his careful speech, mistake him for a real gentleman rather than a servant of one. The village of Moscombe is fictional; Ishiguro anchors it near Tavistock, an actual town at the edge of Dartmoor.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tavistock, Wikipedia, for the market town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tavistock"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, The Remains of the Day route through the West Country",
+        "url": "https://www.thebooktrail.com/book-trails/the-remains-of-the-day-kazuo-ishiguro/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "weymouth-pier",
+    "name": "Weymouth pier",
+    "progressLabel": "Day Six, Evening",
+    "character": "stevens",
+    "coords": [-2.4576, 50.6144],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Weymouth and its pier are named as the final setting; sited at the harbour and pier on the seafront.",
+    "reference": "Day Six, Evening, Weymouth",
+    "order": 6,
+    "note": "The journey ends on the seafront at Weymouth, where, after the meeting with Miss Kenton has come and gone, Stevens sits on the pier as the lights come on and reckons with what his years of service cost him. The Dorset resort and its pier are real, the closing scene of the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Weymouth, Dorset, Wikipedia, for the seafront and pier coordinates",
+        "url": "https://en.wikipedia.org/wiki/Weymouth,_Dorset"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, The Remains of the Day route through the West Country",
+        "url": "https://www.thebooktrail.com/book-trails/the-remains-of-the-day-kazuo-ishiguro/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

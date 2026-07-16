@@ -1,0 +1,34 @@
+{
+  "id": "the-remains-of-the-day",
+  "title": "The Remains of the Day",
+  "author": "Kazuo Ishiguro",
+  "published": 1989,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.7, 50.95],
+  "zoom": 7.6,
+  "setting": {
+    "city": "Salisbury",
+    "country": "GB",
+    "note": "In the summer of 1956 an ageing butler borrows his new employer's Ford and drives west out of Oxfordshire across the English West Country, ostensibly to inspect the roads and secretly to call on a housekeeper he once worked beside. The map follows that six-day trip: a first night by Salisbury Cathedral, on through the Somerset and Devon country to the far coast, and back to a pier at Weymouth where the accounting of a wasted life finally arrives.",
+    "bbox": [-4.5, 50.4, -1.5, 51.4]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kazuo Ishiguro, first published 1989. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.faber.co.uk/product/9780571258246-the-remains-of-the-day/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Remains of the Day, Kazuo Ishiguro (1989). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2F5233",
+    "note": "The deep green of the West Country farmland Stevens rolls through, the landscape he calls the greatest in the world for its restraint. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "stevens": {
+      "name": "Stevens",
+      "color": "#5A3E28"
+    }
+  }
+}
