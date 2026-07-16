@@ -1,0 +1,34 @@
+{
+  "id": "the-bridge-on-the-drina",
+  "title": "The Bridge on the Drina",
+  "author": "Ivo Andrić",
+  "published": 1945,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [19.286, 43.776],
+  "zoom": 14,
+  "setting": {
+    "city": "Višegrad",
+    "country": "BA",
+    "note": "Andrić watches four centuries of a small Bosnian town pass across one Ottoman bridge. The Mehmed Paša Sokolović Bridge, thrown over the Drina in 1577, is the fixed point: the town gathers on its central terrace, the market grows from its foot, and empires rise and recede around it until the bridge itself is broken in the First World War. The map holds the bridge, the river, and the streets of Višegrad around them.",
+    "bbox": [19.27, 43.765, 19.315, 43.795]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ivo Andrić, first published 1945. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.ivoandric.org.rs/english/worksen/novels/169-the-bridge-on-the-drina",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Bridge on the Drina, Ivo Andrić (1945). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The grey-green of the Drina under the bridge's arches. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "townsfolk": {
+      "name": "The townsfolk of Višegrad",
+      "color": "#8A3B1E"
+    }
+  }
+}
