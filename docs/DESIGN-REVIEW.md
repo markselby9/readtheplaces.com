@@ -35,3 +35,21 @@ prefilled issue with the book already filled in.
 ## Bug found
 `.github/ISSUE_TEMPLATE/config.yml` linked `github.com/markfeng/...`; the repo is
 `markselby9/...`. Both contact links 404'd. Fixed.
+
+## Second pass: the reader
+The walk page holds up (plate images carry dimensions, lazy loading and real
+alt text, so no layout shift and no missing labels). The reader, the one
+interactive surface, had four accessibility gaps.
+
+- **Reduced motion.** CSS zeroes the pin animation, but the map camera is
+  JavaScript. A reader who asked for less motion still got a 1.5s flight on every
+  step. The camera now moves instantly when `prefers-reduced-motion` is set.
+- **Escape route.** The only way back to the book was a subtle title link. Added
+  an explicit "← Back to the book", and made the title a real `h1`.
+- **Orientation.** The chapter strip never said where you were overall. Added
+  "Stop N of M" to the footer.
+- **Touch targets.** The map pins were a 15px tap target, below the 44px minimum.
+  An invisible ring extends the hit area to 44px without changing how they look.
+
+Also fixed a recurring test flake: the wipe-handle test interacted before
+hydration; it now waits for the map the way the sibling tests do.

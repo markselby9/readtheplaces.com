@@ -58,6 +58,11 @@ test('the passage renders even when WebGL is unavailable', async ({ browser }) =
 test('the wipe handle is keyboard operable', async ({ page }) => {
   await page.goto('/mrs-dalloway/read/');
 
+  // The handle's key listener is wired on mount; a pin only exists once mount
+  // has run, so this waits out the hydration race the keypress could otherwise
+  // land inside.
+  await page.waitForSelector('.pin');
+
   const handle = page.getByRole('slider', { name: /Compare the modern map/ });
   await handle.focus();
   const before = await handle.getAttribute('aria-valuenow');
@@ -76,4 +81,34 @@ test('arrow keys move through the novel', async ({ page }) => {
 
   await page.keyboard.press('ArrowRight');
   await expect(page.getByRole('heading', { name: 'Victoria Street' })).toBeVisible();
+});
+
+test('the reader offers a clear way back to the book', async ({ page }) => {
+  await page.goto('/mrs-dalloway/read/');
+  const back = page.getByRole('link', { name: /Back to the book/ });
+  await expect(back).toBeVisible();
+  await back.click();
+  await expect(page).toHaveURL(/\/mrs-dalloway\/$/);
+});
+
+test('the reader shows overall progress and advances it', async ({ page }) => {
+  await page.goto('/mrs-dalloway/read/');
+  await page.waitForSelector('.pin');
+
+  const pos = page.locator('.pos');
+  await expect(pos).toHaveText(/Stop 1 of \d+/);
+  await page.getByRole('button', { name: /Next stop/ }).click();
+  await expect(pos).toHaveText(/Stop 2 of \d+/);
+});
+
+test('the map does not fly when the reader asks for reduced motion', async ({ browser }) => {
+  // With reduced motion, camera moves are instant (duration 0), so the heading
+  // and pins are still there and nothing animates for 1.5s on every step.
+  const context = await browser.newContext({ reducedMotion: 'reduce' });
+  const page = await context.newPage();
+  await page.goto('/mrs-dalloway/read/');
+  await page.waitForSelector('.pin');
+  await page.getByRole('button', { name: /Next stop/ }).click();
+  await expect(page.getByRole('heading', { name: 'Victoria Street' })).toBeVisible();
+  await context.close();
 });

@@ -16,6 +16,11 @@
   let wipe = $state(52);
   let ready = $state(false);
 
+  // A reader who asks for less motion should not get 1.5s camera flights. CSS
+  // handles the pins; the map camera is JavaScript, so it has to be checked here.
+  const reduceMotion =
+    typeof matchMedia !== 'undefined' && matchMedia('(prefers-reduced-motion: reduce)').matches;
+
   const group = $derived(groups[cursor]!);
   const paired = $derived(
     group.length > 1 && group.some((w) => (w.simultaneousWith ?? []).length > 0),
@@ -36,9 +41,9 @@
         (acc, w) => acc.extend(w.coords),
         new maplibregl.LngLatBounds(g[0]!.coords, g[0]!.coords),
       );
-      now.fitBounds(bounds, { padding: 110, duration: 1600, maxZoom: 14.4 });
+      now.fitBounds(bounds, { padding: 110, duration: reduceMotion ? 0 : 1600, maxZoom: 14.4 });
     } else {
-      now.flyTo({ center: g[0]!.coords, zoom: 15.6, duration: 1500 });
+      now.flyTo({ center: g[0]!.coords, zoom: 15.6, duration: reduceMotion ? 0 : 1500 });
     }
   }
 
@@ -171,7 +176,8 @@
 
   <aside class="panel">
     <header>
-      <p class="kicker"><a href={`/${book.id}/`}>{book.title}</a></p>
+      <a class="back" href={`/${book.id}/`}>← Back to the book</a>
+      <h1 class="title">{book.title}</h1>
       <p class="byline">{book.setting.note}</p>
     </header>
 
@@ -231,6 +237,7 @@
 
     <footer class="nav">
       <button disabled={cursor === 0} onclick={() => cursor--}>← Back</button>
+      <span class="pos" aria-live="polite">Stop {cursor + 1} of {groups.length}</span>
       <button class="primary" disabled={cursor === groups.length - 1} onclick={() => cursor++}>
         {cursor === groups.length - 1 ? 'The end' : 'Next stop →'}
       </button>
@@ -334,6 +341,7 @@
   }
 
   :global(.pin) {
+    position: relative;
     width: 15px;
     height: 15px;
     border-radius: 50%;
@@ -344,6 +352,14 @@
     transition:
       transform 0.25s var(--ease),
       background 0.25s var(--ease);
+  }
+  /* The dot is 15px; the tap target must be 44. An invisible ring extends the
+     hit area without changing how the pin looks on the map. */
+  :global(.pin)::after {
+    content: '';
+    position: absolute;
+    inset: -14px;
+    border-radius: 50%;
   }
   :global(.pin:hover) {
     transform: scale(1.35);
@@ -386,8 +402,24 @@
     padding: var(--s5) var(--s5) var(--s4);
     border-bottom: 1px solid var(--rule);
   }
-  .panel header .kicker a {
+  .back {
+    display: inline-block;
+    margin-bottom: var(--s2);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
     text-decoration: none;
+  }
+  .back:hover {
+    color: var(--ink);
+  }
+  .title {
+    font-family: var(--sans);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
   }
   .byline {
     margin-top: var(--s2);
@@ -497,6 +529,14 @@
   .nav button:disabled {
     opacity: 0.35;
     cursor: default;
+  }
+  .pos {
+    align-self: center;
+    font-family: var(--sans);
+    font-size: 11px;
+    color: var(--ink-3);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
   }
   .nav .primary {
     background: var(--ink);
