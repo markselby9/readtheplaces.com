@@ -58,10 +58,29 @@ export async function findOnStandardEbooks(title: string, author: string): Promi
     });
     if (!match) return null;
 
+    // A search hit is not proof the book exists. Standard Ebooks lists titles it
+    // wants but has not produced, and titles still under copyright until a future
+    // year, at the same /author/title URL. Those pages carry no download links;
+    // only a produced ebook does. Require one, or we would list a book with no
+    // text behind it (this is how The Master and Margarita slipped in).
+    if (!(await isProducedEbook(match))) return null;
+
     const parts = match.split('/');
     return { path: match, translator: parts[4] ?? null };
   } catch {
     return null;
+  }
+}
+
+async function isProducedEbook(path: string): Promise<boolean> {
+  try {
+    const res = await fetch(`https://standardebooks.org${path}`, {
+      headers: { 'User-Agent': 'readtheplaces-new-book/1.0 (https://readtheplaces.com)' },
+    });
+    if (!res.ok) return false;
+    return /href="[^"]+\.epub"/i.test(await res.text());
+  } catch {
+    return false;
   }
 }
 

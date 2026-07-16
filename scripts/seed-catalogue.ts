@@ -155,10 +155,10 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Moscow, Petersburg, and the railway between them. Anna arrives by train, past a man crushed at the station, and dies under one before her story ends. The line between the two cities is the most important place in the book.',
   },
-  // The seed only makes sourced stubs. This one is not sourceable: Bulgakov's
-  // Russian is public domain but every English translation is still in
-  // copyright, so after seeding it must be hand-converted to a cited book
-  // (sourcing: "cited", locations only). See books/the-master-and-margarita.
+  // Bulgakov's Russian is public domain but every English translation is still
+  // in copyright, so Standard Ebooks has no produced edition and the seed now
+  // skips this title. The cited book (sourcing: "cited", locations only) was
+  // authored by hand. See books/the-master-and-margarita.
   {
     title: 'The Master and Margarita',
     author: 'Mikhail Bulgakov',
