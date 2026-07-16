@@ -482,6 +482,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where Henchard sells his wife. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.',
   },
+  {
+    title: 'The War of the Worlds',
+    author: 'H. G. Wells',
+    published: 1898,
+    city: 'Woking',
+    country: 'gb',
+    ordering: 'chapter',
+    why: 'The Martian invasion mapped across real Surrey and London in strict order: the first cylinder lands on Horsell Common at Woking, the tripods burn Weybridge and Shepperton, and the last of them dies on Primrose Hill. Woking marks the spot with a tripod of its own, and it brings H. G. Wells into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

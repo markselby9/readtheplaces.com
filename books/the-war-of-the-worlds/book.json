@@ -1,0 +1,23 @@
+{
+  "id": "the-war-of-the-worlds",
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "published": 1898,
+  "orderingKey": "chapter",
+  "center": [-0.5565, 51.3202],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Woking",
+    "country": "GB",
+    "note": "The Martian invasion mapped across real Surrey and London in strict order: the first cylinder lands on Horsell Common at Woking, the tripods burn Weybridge and Shepperton, and the last of them dies on Primrose Hill. Woking marks the spot with a tripod of its own, and it brings H. G. Wells into the atlas.",
+    "bbox": [-0.596, 51.28, -0.516, 51.36]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. H. G. Wells published this in 1898.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "H. G. Wells, The War of the Worlds (1898)."
+  }
+}
