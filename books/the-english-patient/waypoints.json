@@ -1,0 +1,130 @@
+[
+  {
+    "id": "villa-san-girolamo",
+    "name": "Villa San Girolamo, Fiesole",
+    "progressLabel": "The villa",
+    "character": "hana",
+    "coords": [11.288944, 43.806306],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ondaatje names the Villa San Girolamo, a real building complex and former nunnery on Via Vecchia Fiesolana at Fiesole, in the hills above Florence; coordinates from the site's Wikipedia entry.",
+    "reference": "Chapter 1, The Villa",
+    "order": 1,
+    "note": "The whole frame of the novel happens here: a young Canadian nurse stays behind in a shelled hillside villa to care for a man burned beyond recognition, its rooms open to the sky, its garden mined. The real Villa San Girolamo at Fiesole served as a wartime hospital and gave Ondaatje his setting.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Villa San Girolamo, Wikipedia, on the Fiesole villa that inspired the novel's setting, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Villa_San_Girolamo"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Villa, symbol analysis, LitCharts guide to The English Patient",
+        "url": "https://www.litcharts.com/lit/the-english-patient/symbols/the-villa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fiesole-hills",
+    "name": "The hills of Fiesole",
+    "progressLabel": "The hills",
+    "character": "hana",
+    "coords": [11.2936, 43.8074],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fiesole is the real hill town on whose slopes the villa stands; this marks the town centre just above the fictional field hospital.",
+    "reference": "Chapters 2 to 3",
+    "order": 2,
+    "note": "Around the villa the war is not quite over: the retreating army has left mines in the orchard and the paths, and the little group learns to move carefully through terraced olive groves and cypress. These are the real slopes of Fiesole, looking down on the valley of the Arno.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fiesole, Wikipedia, on the hill town above Florence and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Fiesole"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "florence-below",
+    "name": "Florence, in the valley below",
+    "progressLabel": "The city below",
+    "character": "hana",
+    "coords": [11.2558, 43.7696],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ondaatje places the villa in the hills above Florence; this marks the historic centre of the city the characters look down on and travel from.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "The city the villa overlooks is Florence, fought over and battered as the front moves north through Tuscany in the last summer of the war. It is the world the sapper crosses when he clears bombs, and the fixed point against which the isolation of the ruined villa is measured.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Florence, Wikipedia, for the city coordinates and its Second World War history",
+        "url": "https://en.wikipedia.org/wiki/Florence"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gilf-kebir-plateau",
+    "name": "The Gilf Kebir plateau",
+    "progressLabel": "Desert flashback",
+    "character": "hana",
+    "coords": [25.85, 23.45],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The Gilf Kebir is a real sandstone plateau on the Egypt-Libya border, explicitly named in the novel but roughly two thousand kilometres from the Tuscan frame, so it is marked as outside the book's setting.",
+    "reference": "Chapters 5 to 6, A Buried Plane",
+    "order": 4,
+    "note": "The burned man's memories return again and again to a prewar mapping expedition in the eastern Sahara, where a small party of geographers and desert explorers surveyed a vast, little-known plateau. The Gilf Kebir is where the love affair and betrayal at the heart of his story unfold.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gilf Kebir, Wikipedia, on the plateau on the Egypt-Libya border and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Gilf_Kebir"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cave-of-swimmers",
+    "name": "The Cave of Swimmers, Wadi Sura",
+    "progressLabel": "The cave",
+    "character": "hana",
+    "coords": [25.5, 23.583],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The Cave of Swimmers at Wadi Sura in the Gilf Kebir is a real rock-art site, explicitly named in the novel; its coordinates are about 23 degrees 35 minutes north, 25 degrees 30 minutes east, far outside the Tuscan setting.",
+    "reference": "Chapter 9, The Cave of Swimmers",
+    "order": 5,
+    "note": "In a sheltered wadi the explorers find a cave whose prehistoric paintings show tiny figures that seem to swim, evidence that the desert was once green. It becomes the shelter where the patient leaves the woman he loves, and the place he tries, too late, to return to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cave of Swimmers, Wikipedia, on the Wadi Sura rock-art site and its location",
+        "url": "https://en.wikipedia.org/wiki/Cave_of_Swimmers"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cairo",
+    "name": "Cairo",
+    "progressLabel": "Cairo",
+    "character": "hana",
+    "coords": [31.2357, 30.0444],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "Cairo is explicitly named as the base for the desert expeditions and the wartime intelligence world; it lies about a thousand kilometres from the Gilf Kebir and far outside the Tuscan setting.",
+    "reference": "Chapter 4, South Cairo",
+    "order": 6,
+    "note": "Between desert seasons the explorers gather in the hotels and offices of Cairo, and later the city fills with wartime intelligence work. It is where the affair deepens away from the desert, and where the machinery that turns the patient into a suspected spy is set in motion.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cairo, Wikipedia, for the city coordinates and its role as a Second World War Allied hub",
+        "url": "https://en.wikipedia.org/wiki/Cairo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
