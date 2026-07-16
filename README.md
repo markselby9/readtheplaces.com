@@ -2,7 +2,7 @@
 
 # Read the Places
 
-**Not a map of books. A book you can walk through.**
+**A book you can walk through.**
 
 An open, contributor-driven atlas of the real places in novels,
 presented in the order the story happens.
