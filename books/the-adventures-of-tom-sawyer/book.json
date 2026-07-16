@@ -1,0 +1,23 @@
+{
+  "id": "the-adventures-of-tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "published": 1876,
+  "orderingKey": "chapter",
+  "center": [-91.3587, 39.7082],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Hannibal",
+    "country": "US",
+    "note": "Twain renamed his boyhood Hannibal “St. Petersburg”, but built it exactly: the Mississippi bank, the cave, the graveyard, the whitewashed fence. The town has marked those spots for tourists ever since, which makes it a rare novel a reader can already walk. It brings Mark Twain into the atlas.",
+    "bbox": [-91.461, 39.675, -91.322, 39.751]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Mark Twain published this in 1876.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Mark Twain, The Adventures of Tom Sawyer (1876)."
+  }
+}

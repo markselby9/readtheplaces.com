@@ -455,6 +455,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Stockholm skewered: the newspaper offices, the government bureaus, and the Red Room of the Berns Salonger where the young cynics drink, a room that is still there. Strindberg walks a real city he despised, and it brings Sweden into the atlas.',
   },
+  {
+    title: 'The Adventures of Tom Sawyer',
+    author: 'Mark Twain',
+    published: 1876,
+    city: 'Hannibal',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'Twain renamed his boyhood Hannibal “St. Petersburg”, but built it exactly: the Mississippi bank, the cave, the graveyard, the whitewashed fence. The town has marked those spots for tourists ever since, which makes it a rare novel a reader can already walk. It brings Mark Twain into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
