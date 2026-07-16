@@ -1,0 +1,23 @@
+{
+  "id": "mcteague",
+  "title": "McTeague",
+  "author": "Frank Norris",
+  "published": 1899,
+  "orderingKey": "chapter",
+  "center": [-122.4075, 37.7879],
+  "zoom": 12.5,
+  "setting": {
+    "city": "San Francisco",
+    "country": "US",
+    "note": "Polk Street, block by block, above a dental parlour. Norris pins his characters to specific corners of San Francisco, most of which the 1906 earthquake erased a few years after he wrote them.",
+    "bbox": [-123.174, 37.64, -122.281, 37.93]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Frank Norris published this in 1899.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/frank-norris/mcteague",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Frank Norris, McTeague (1899)."
+  }
+}

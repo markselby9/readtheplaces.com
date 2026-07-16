@@ -1,0 +1,23 @@
+{
+  "id": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "published": 1846,
+  "orderingKey": "chapter",
+  "center": [5.3778, 43.2964],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Marseille",
+    "country": "FR",
+    "note": "It begins in the harbour at Marseille and the island prison of the Château d’If, which is real and reached by boat. The novel then crosses the Mediterranean, so a contributor chooses the anchors that carry it.",
+    "bbox": [5.229, 43.17, 5.532, 43.391]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Alexandre Dumas published this in 1846.",
+    "translation": "Translated by chapman and hall. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Alexandre Dumas, The Count of Monte Cristo (1846)."
+  }
+}

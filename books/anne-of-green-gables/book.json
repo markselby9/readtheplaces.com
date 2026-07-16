@@ -1,0 +1,23 @@
+{
+  "id": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "published": 1908,
+  "orderingKey": "chapter",
+  "center": [-63.3792, 46.4942],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Cavendish",
+    "country": "CA",
+    "note": "Avonlea is invented, but Montgomery built it from Cavendish on Prince Edward Island, where the farmhouse she had in mind is now the most visited place on the island. The first book here set in Canada.",
+    "bbox": [-63.45, 46.46, -63.3, 46.53]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. L. M. Montgomery published this in 1908.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "L. M. Montgomery, Anne of Green Gables (1908)."
+  }
+}

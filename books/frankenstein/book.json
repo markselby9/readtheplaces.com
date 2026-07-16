@@ -1,0 +1,23 @@
+{
+  "id": "frankenstein",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "published": 1818,
+  "orderingKey": "chapter",
+  "center": [6.1466, 46.2018],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Geneva",
+    "country": "CH",
+    "note": "Geneva, the Mer de Glace above Chamonix, and a laboratory in Ingolstadt. Shelley wanders from the Alps to the Arctic, but the lake at the centre is precise, and it brings Switzerland into the atlas.",
+    "bbox": [6.11, 46.178, 6.176, 46.232]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Mary Shelley published this in 1818.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Mary Shelley, Frankenstein (1818)."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a-room-with-a-view",
+  "title": "A Room with a View",
+  "author": "E. M. Forster",
+  "published": 1908,
+  "orderingKey": "chapter",
+  "center": [11.2556, 43.7698],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Florence",
+    "country": "IT",
+    "note": "The Piazza della Signoria, Santa Croce, and the Arno, where a killing in the square changes everything. Half the book then moves to an invented corner of Surrey, so its certainty labels will earn their keep.",
+    "bbox": [11.15, 43.726, 11.339, 43.835]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. E. M. Forster published this in 1908.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/e-m-forster/a-room-with-a-view",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "E. M. Forster, A Room with a View (1908)."
+  }
+}

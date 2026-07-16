@@ -1,0 +1,23 @@
+{
+  "id": "the-bostonians",
+  "title": "The Bostonians",
+  "author": "Henry James",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "center": [-71.0578, 42.3588],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Boston",
+    "country": "US",
+    "note": "Beacon Hill, the Back Bay, and a decaying house out on Cape Cod. James fixes the exact social altitude of every address in a city that still keeps the same streets.",
+    "bbox": [-71.191, 42.228, -70.804, 42.397]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Henry James published this in 1886.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/henry-james/the-bostonians",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Henry James, The Bostonians (1886)."
+  }
+}
