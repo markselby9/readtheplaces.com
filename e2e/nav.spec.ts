@@ -43,7 +43,7 @@ test('the footer offers the contribute path', async ({ page }) => {
   const foot = page.locator('.site-foot');
   await expect(foot.getByRole('link', { name: 'Add a book' })).toHaveAttribute(
     'href',
-    /CONTRIBUTING\.md$/,
+    '/contribute/',
   );
   await expect(foot.getByRole('link', { name: 'Source on GitHub' })).toBeVisible();
 });

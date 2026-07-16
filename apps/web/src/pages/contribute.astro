@@ -1,0 +1,186 @@
+---
+import Base from '../layouts/Base.astro';
+import { allBooks, isStub } from '../lib/books';
+import { breadcrumbSchema } from '../lib/structured-data';
+
+const books = await allBooks();
+const open = books.filter(isStub);
+
+const repo = 'https://github.com/markselby9/readtheplaces.com';
+const newBook = `${repo}/issues/new?labels=data&title=${encodeURIComponent('New book: <title>')}`;
+const bug = `${repo}/issues/new?template=bug.md`;
+
+const schema = [
+  breadcrumbSchema([
+    { name: 'Read the Places', url: '/' },
+    { name: 'Add a book', url: '/contribute/' },
+  ]),
+];
+---
+
+<Base
+  title="Add a book — Read the Places"
+  description="How to put a novel on the atlas. Adopt one of the books already listed, or propose a new one. No code required."
+  schema={schema}
+>
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Read the Places</a>
+      <span aria-hidden="true">/</span>
+      <span>Add a book</span>
+    </nav>
+
+    <header class="mast">
+      <p class="kicker">Contribute</p>
+      <h1>Add a book to the atlas.</h1>
+      <p class="standfirst">
+        The software is a weekend; the dataset is the asset. The most valuable work here needs no
+        code. You read a novel you already love, and answer, for a dozen of its places, the one
+        question a machine cannot: why does this place matter?
+      </p>
+    </header>
+
+    <main id="main" class="paths">
+      <section class="path">
+        <p class="num">1</p>
+        <h2>Adopt a book already listed</h2>
+        <p>
+          {open.length} books are listed and waiting, each chosen because it can be done: the text is
+          public domain, the city is real, and the places in it are findable. Open one and it walks you
+          through fetching the text, working the place queue, and writing an honest waypoint.
+        </p>
+        <p class="go"><a class="primary" href="/#open">Browse the {open.length} open books →</a></p>
+      </section>
+
+      <section class="path">
+        <p class="num">2</p>
+        <h2>Propose a book that is not here</h2>
+        <p>There are two kinds, and they are mapped differently.</p>
+        <dl class="kinds">
+          <div>
+            <dt>Public domain</dt>
+            <dd>
+              Full text, verbatim quotes, position measured from the text itself. It has to be on{
+                ' '
+              }
+              <a href="https://standardebooks.org">Standard Ebooks</a> so the build can check every quote
+              against the book.
+            </dd>
+          </div>
+          <div>
+            <dt>Still in copyright</dt>
+            <dd>
+              Mapped as a <strong>cited book</strong>: locations only, no text stored, no passage
+              quoted. A place where a scene happens is a fact, and the notes are our own. This is
+              how{' '}
+              <a href="/harry-potter-and-the-philosophers-stone/">Harry Potter</a> is on the atlas.
+            </dd>
+          </div>
+        </dl>
+        <p class="go"><a class="primary" href={newBook}>Propose a book →</a></p>
+      </section>
+
+      <section class="path">
+        <p class="num">3</p>
+        <h2>Fix something that is wrong</h2>
+        <p>
+          A coordinate in the wrong place, a certainty that should read <em>inferred</em>, a rights
+          note nobody finished checking. Every mapped book has a “Suggest a correction” link, or
+          open an issue directly.
+        </p>
+        <p class="go"><a href={bug}>Report a problem →</a></p>
+      </section>
+
+      <p class="depth">
+        For the full picture, read <a href={`${repo}/blob/main/CONTRIBUTING.md`}>CONTRIBUTING</a>,
+        or{' '}
+        <a href={`${repo}/blob/main/docs/DESIGN.md`}>why it is built this way</a>. You will never be
+        asked to upload a photograph. You write data: a coordinate, a verbatim quote, a source, and
+        an honest label saying how sure you are.
+      </p>
+    </main>
+  </div>
+</Base>
+
+<style>
+  .paths {
+    max-width: 44rem;
+    padding-block: var(--s6) var(--s9);
+  }
+  .path {
+    position: relative;
+    padding: var(--s6) 0;
+    border-top: 1px solid var(--rule);
+  }
+  .path .num {
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--ink-3);
+    width: 1.7rem;
+    height: 1.7rem;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--rule);
+    border-radius: 50%;
+    margin-bottom: var(--s4);
+  }
+  .path h2 {
+    font-size: var(--step-2);
+    font-weight: 400;
+    margin-bottom: var(--s3);
+  }
+  .path p {
+    color: var(--ink-2);
+    max-width: 40rem;
+  }
+  .kinds {
+    display: grid;
+    gap: var(--s4);
+    margin-block: var(--s4);
+  }
+  .kinds div {
+    padding-left: var(--s4);
+    border-left: 2px solid var(--rule);
+  }
+  .kinds dt {
+    font-family: var(--sans);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin-bottom: var(--s1);
+  }
+  .kinds dd {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    line-height: 1.6;
+    color: var(--ink-2);
+  }
+  .go {
+    margin-top: var(--s4);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+  }
+  .go .primary {
+    display: inline-block;
+    padding: 0.55rem 1rem;
+    background: var(--ink);
+    color: var(--paper);
+    text-decoration: none;
+    font-weight: 700;
+  }
+  .go .primary:hover {
+    background: var(--accent);
+  }
+  .depth {
+    margin-top: var(--s7);
+    padding-top: var(--s5);
+    border-top: 1px solid var(--rule);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    line-height: 1.7;
+    color: var(--ink-3);
+  }
+</style>

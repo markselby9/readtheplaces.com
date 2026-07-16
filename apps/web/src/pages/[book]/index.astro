@@ -21,6 +21,9 @@ const historical = book.layers?.historical;
 
 const citySlug = slugifyCity(book.setting.city);
 
+const repo = 'https://github.com/markselby9/readtheplaces.com';
+const correctionUrl = `${repo}/issues/new?template=bug.md&title=${encodeURIComponent(`Correction: ${book.title}`)}`;
+
 const title = `The ${book.setting.city} of ${book.title}`;
 const description = stub
   ? `${book.title} by ${book.author}, set in ${book.setting.city}. Listed and open for adoption: nobody has mapped its places yet.`
@@ -106,4 +109,33 @@ const schema = [
       </main>
     )
   }
+
+  {
+    !stub && (
+      <aside class="wrap correction">
+        <p>
+          Spotted a place in the wrong spot, or a certainty that should read differently?{' '}
+          <a href={correctionUrl}>Suggest a correction →</a>
+        </p>
+      </aside>
+    )
+  }
 </Base>
+
+<style>
+  .correction {
+    padding-block: var(--s6) var(--s8);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .correction a {
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-soft);
+    padding-bottom: 2px;
+    white-space: nowrap;
+  }
+  .correction a:hover {
+    border-bottom-color: var(--accent);
+  }
+</style>
