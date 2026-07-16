@@ -383,6 +383,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Nero’s Rome, and the fire: the Palatine, the Circus, the Mamertine prison, the catacombs where the first Christians hide. Sienkiewicz builds the ancient city from the monuments that still stand, and it brings Rome into the atlas at last.',
   },
+  {
+    title: 'Villette',
+    author: 'Charlotte Brontë',
+    published: 1853,
+    city: 'Brussels',
+    country: 'be',
+    ordering: 'chapter',
+    why: 'Brussels, thinly disguised as Villette: the boarding school on the Rue d’Isabelle where Brontë herself taught, the park, the old Flemish streets. She mapped her own two years into it, and it brings Belgium into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

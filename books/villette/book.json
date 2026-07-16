@@ -1,0 +1,23 @@
+{
+  "id": "villette",
+  "title": "Villette",
+  "author": "Charlotte Brontë",
+  "published": 1853,
+  "orderingKey": "chapter",
+  "center": [4.3525, 50.8467],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Brussels",
+    "country": "BE",
+    "note": "Brussels, thinly disguised as Villette: the boarding school on the Rue d’Isabelle where Brontë herself taught, the park, the old Flemish streets. She mapped her own two years into it, and it brings Belgium into the atlas.",
+    "bbox": [4.314, 50.796, 4.437, 50.914]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Charlotte Brontë published this in 1853.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Charlotte Brontë, Villette (1853)."
+  }
+}
