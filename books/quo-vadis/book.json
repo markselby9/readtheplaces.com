@@ -1,0 +1,23 @@
+{
+  "id": "quo-vadis",
+  "title": "Quo Vadis",
+  "author": "Henryk Sienkiewicz",
+  "published": 1896,
+  "orderingKey": "chapter",
+  "center": [12.4829, 41.8933],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Rome",
+    "country": "IT",
+    "note": "Nero’s Rome, and the fire: the Palatine, the Circus, the Mamertine prison, the catacombs where the first Christians hide. Sienkiewicz builds the ancient city from the monuments that still stand, and it brings Rome into the atlas at last.",
+    "bbox": [12.234, 41.656, 12.856, 42.141]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Henryk Sienkiewicz published this in 1896.",
+    "translation": "Translated by jeremiah curtin. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Henryk Sienkiewicz, Quo Vadis (1896)."
+  }
+}

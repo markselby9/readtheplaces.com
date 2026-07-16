@@ -374,6 +374,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'A Hanseatic merchant family declines over four generations in a Lübeck Mann rebuilds house by house. The Buddenbrookhaus on Mengstraße is real and now a museum, and it brings Germany into the atlas.',
   },
+  {
+    title: 'Quo Vadis',
+    author: 'Henryk Sienkiewicz',
+    published: 1896,
+    city: 'Rome',
+    country: 'it',
+    ordering: 'chapter',
+    why: 'Nero’s Rome, and the fire: the Palatine, the Circus, the Mamertine prison, the catacombs where the first Christians hide. Sienkiewicz builds the ancient city from the monuments that still stand, and it brings Rome into the atlas at last.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
