@@ -1,0 +1,133 @@
+[
+  {
+    "id": "wormolds-shop-lamparilla",
+    "name": "Wormold's vacuum shop, Lamparilla Street",
+    "progressLabel": "Part One",
+    "character": "wormold",
+    "coords": [-82.3511, 23.1378],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Greene places Wormold's shop on Lamparilla Street in Old Havana but gives no street number, so this marks a representative point mid-street on the real Lamparilla.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story opens behind the counter of a failing vacuum-cleaner business in Old Havana, where a mild English widower frets over money and his teenage daughter. Lamparilla is a real street in Habana Vieja, and the shop stands for the ordinary life the intelligence service persuades him to leave behind.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lamparilla Street, Old Havana, on the real street in Habana Vieja named in the novel",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g147271-d148917-Reviews-Lamparilla_Street-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Old Havana, Wikipedia, on the Habana Vieja district",
+        "url": "https://en.wikipedia.org/wiki/Old_Havana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sloppy-joes-bar",
+    "name": "Sloppy Joe's Bar",
+    "progressLabel": "Part One",
+    "character": "wormold",
+    "coords": [-82.358, 23.1395],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Greene names the bar; it is a real establishment on the corner of Zulueta and Animas, and this marks the historic building.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "In the washroom of this famous tourist bar a stranger from British intelligence corners the salesman and signs him up as an agent. Sloppy Joe's was a genuine Havana landmark that drew American visitors through the 1950s, closed for decades, and later reopened in the same building.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sloppy Joe's Bar, Havana, Wikipedia, on the real bar and its location",
+        "url": "https://en.wikipedia.org/wiki/Sloppy_Joe's_Bar,_Havana"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sloppy Joe's Bar, Wikidata, for the coordinates",
+        "url": "https://www.wikidata.org/wiki/Q7541375"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hotel-nacional-de-cuba",
+    "name": "Hotel Nacional de Cuba",
+    "progressLabel": "Part Two",
+    "character": "wormold",
+    "coords": [-82.3806, 23.1431],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The cliff-top Hotel Nacional is a real, named Havana landmark on the Malecon in Vedado; this marks the hotel itself.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The grand hotel above the sea stands for the moneyed, cosmopolitan Havana the spy story moves through, a world of cocktails, informers and expense accounts. Greene sends his characters between hotels and bars of this tourist city, among them the Seville-Biltmore where Wormold drinks and schemes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Nacional de Cuba, Wikipedia, on the historic Vedado hotel and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Nacional_de_Cuba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-malecon",
+    "name": "The Malecon",
+    "progressLabel": "Part Three",
+    "character": "wormold",
+    "coords": [-82.3667, 23.1452],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Malecon is Havana's real seafront boulevard, named in the novel; it runs for kilometres, so this marks a representative point along the esplanade.",
+    "reference": "Part Three",
+    "order": 4,
+    "note": "The seafront drive, where waves break over the wall, recurs as a backdrop for walking, talking and being watched. Greene's characters cross it again and again, and it remains the best-known public space in Havana.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Malecon, Havana, Wikipedia, on the seafront boulevard",
+        "url": "https://en.wikipedia.org/wiki/Malec%C3%B3n,_Havana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tropicana-nightclub",
+    "name": "Tropicana nightclub",
+    "progressLabel": "Part Three",
+    "character": "wormold",
+    "coords": [-82.4231, 23.0961],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Greene names the Tropicana; it is the real open-air cabaret in the Marianao district, and this marks the club's grounds.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The open-air cabaret in the suburbs, all showgirls and floodlit trees, is where the spying and the drinking dissolve into tourist spectacle. The Tropicana is real, opened in 1939 in Marianao, and still stages its shows.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tropicana Club, Wikipedia, on the real Marianao cabaret",
+        "url": "https://en.wikipedia.org/wiki/Tropicana_Club"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santiago-de-cuba",
+    "name": "Santiago de Cuba",
+    "progressLabel": "Part Four",
+    "character": "wormold",
+    "coords": [-75.8217, 20.0229],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Greene names Santiago; this marks the centre of Cuba's second city, roughly 870 kilometres east of Havana, well outside the book's Havana setting.",
+    "reference": "Part Four",
+    "order": 6,
+    "note": "The plot pushes east to Santiago, the island's second city near the Sierra Maestra where rebels were massing, taking the story briefly out of Havana and closer to the revolution about to arrive. It is a deliberate excursion beyond the novel's Havana world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Santiago de Cuba, Wikipedia, on the eastern city and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Santiago_de_Cuba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "our-man-in-havana",
+  "title": "Our Man in Havana",
+  "author": "Graham Greene",
+  "published": 1958,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-82.353, 23.137],
+  "zoom": 12.4,
+  "setting": {
+    "city": "Havana",
+    "country": "CU",
+    "date": "1950s",
+    "note": "Greene's Havana is the tourist capital of Batista's Cuba, all cocktail bars, floodlit cabarets and the sea breaking over the Malecon, where a downtrodden vacuum-cleaner salesman is recruited as a British agent and invents his network out of thin air. The map anchors in Old Havana, runs out to the seafront and the Tropicana, and slips east to Santiago as the revolution gathers.",
+    "bbox": [-82.45, 23.08, -82.33, 23.16]
+  },
+  "rights": {
+    "originalWork": "In copyright. Graham Greene, first published 1958. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/56408/our-man-in-havana-by-graham-greene/9780099286080",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Our Man in Havana, Graham Greene (1958). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#146B5E",
+    "note": "A tropical sea-green for the Havana seafront and the tourist gloss over a country on the edge of revolution. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "wormold": {
+      "name": "Jim Wormold",
+      "color": "#9A4A24"
+    }
+  }
+}
