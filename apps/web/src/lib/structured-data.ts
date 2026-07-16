@@ -28,11 +28,21 @@ export function websiteSchema(bookCount: number, cityCount: number): Json {
     url: SITE,
     name: 'Read the Places',
     description:
-      'An open, contributor-driven atlas of the real places in novels, presented in the order the story happens.',
+      'An open, contributor-driven atlas of the real places in books, presented in the order the story happens.',
     inLanguage: 'en',
     isAccessibleForFree: true,
     license: 'https://creativecommons.org/licenses/by-sa/4.0/',
     codeRepository: REPO,
+    // The nav search reads ?q= and filters the home page live. Declaring it lets
+    // Google offer a sitelinks search box straight in the result.
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${SITE}/?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
     about: [
       { '@type': 'Thing', name: 'Literary geography' },
       { '@type': 'Thing', name: 'Literary tourism' },
@@ -41,7 +51,7 @@ export function websiteSchema(bookCount: number, cityCount: number): Json {
     mainEntity: {
       '@type': 'Dataset',
       name: 'Read the Places waypoints',
-      description: `${bookCount} novels across ${cityCount} cities. Every place is anchored to a verbatim quotation from the text and labelled with how certain the identification is.`,
+      description: `${bookCount} books across ${cityCount} cities. Every place is anchored to a verbatim quotation from the text and labelled with how certain the identification is.`,
       license: 'https://creativecommons.org/licenses/by-sa/4.0/',
       isAccessibleForFree: true,
       creator: { '@type': 'Organization', name: 'Read the Places contributors' },

@@ -7,13 +7,23 @@ interface Props {
   /** The book's accent, which is a quotation from the book's own text. */
   accent?: string;
   ogImage?: string;
+  /** Open Graph type: "website" for the home page, "article" for book/city pages. */
+  ogType?: string;
   /** schema.org JSON-LD. We only assert what the build has verified. */
   schema?: unknown[];
   /** The LCP image, preloaded so its fetch starts with the HTML. */
   preloadImage?: string;
 }
 
-const { title, description, accent, ogImage, schema = [], preloadImage } = Astro.props;
+const {
+  title,
+  description,
+  accent,
+  ogImage,
+  ogType = 'article',
+  schema = [],
+  preloadImage,
+} = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const og = ogImage ? new URL(ogImage, Astro.site) : undefined;
 const repo = 'https://github.com/markselby9/readtheplaces.com';
@@ -32,7 +42,7 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
     <meta property="og:site_name" content="Read the Places" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonical} />
     {og && <meta property="og:image" content={og} />}
     <meta name="twitter:card" content={og ? 'summary_large_image' : 'summary'} />
