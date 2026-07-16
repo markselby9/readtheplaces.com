@@ -1,0 +1,23 @@
+{
+  "id": "romola",
+  "title": "Romola",
+  "author": "George Eliot",
+  "published": 1863,
+  "orderingKey": "chapter",
+  "center": [11.2556, 43.7698],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Florence",
+    "country": "IT",
+    "note": "Eliot’s Florence of 1492, researched to the stone: the Piazza della Signoria where Savonarola burns the vanities, the Duomo, the Ponte Vecchio, San Marco. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.",
+    "bbox": [11.15, 43.726, 11.339, 43.835]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. George Eliot published this in 1863.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/george-eliot/romola",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "George Eliot, Romola (1863)."
+  }
+}

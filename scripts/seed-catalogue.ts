@@ -500,6 +500,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Stendhal’s Parma of court intrigue and prison towers: the citadel, the palace, and Fabrizio’s cell above the city, reached after the most famously confused battle in fiction at Waterloo. The tower is invented but the city is real, and it brings Stendhal, and a new Italian city, into the atlas.',
   },
+  {
+    title: 'Romola',
+    author: 'George Eliot',
+    published: 1863,
+    city: 'Florence',
+    country: 'it',
+    ordering: 'chapter',
+    why: 'Eliot’s Florence of 1492, researched to the stone: the Piazza della Signoria where Savonarola burns the vanities, the Duomo, the Ponte Vecchio, San Marco. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
