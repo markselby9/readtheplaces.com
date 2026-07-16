@@ -1,0 +1,23 @@
+{
+  "id": "the-charterhouse-of-parma",
+  "title": "The Charterhouse of Parma",
+  "author": "Stendhal",
+  "published": 1839,
+  "orderingKey": "chapter",
+  "center": [10.3279, 44.8015],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Parma",
+    "country": "IT",
+    "note": "Stendhal’s Parma of court intrigue and prison towers: the citadel, the palace, and Fabrizio’s cell above the city, reached after the most famously confused battle in fiction at Waterloo. The tower is invented but the city is real, and it brings Stendhal, and a new Italian city, into the atlas.",
+    "bbox": [10.28, 44.77, 10.38, 44.83]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Stendhal published this in 1839.",
+    "translation": "Translated by c k scott moncrieff. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Stendhal, The Charterhouse of Parma (1839)."
+  }
+}

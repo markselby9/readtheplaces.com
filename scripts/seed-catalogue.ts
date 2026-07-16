@@ -491,6 +491,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'The Martian invasion mapped across real Surrey and London in strict order: the first cylinder lands on Horsell Common at Woking, the tripods burn Weybridge and Shepperton, and the last of them dies on Primrose Hill. Woking marks the spot with a tripod of its own, and it brings H. G. Wells into the atlas.',
   },
+  {
+    title: 'The Charterhouse of Parma',
+    author: 'Stendhal',
+    published: 1839,
+    city: 'Parma',
+    country: 'it',
+    ordering: 'chapter',
+    why: 'Stendhal’s Parma of court intrigue and prison towers: the citadel, the palace, and Fabrizio’s cell above the city, reached after the most famously confused battle in fiction at Waterloo. The tower is invented but the city is real, and it brings Stendhal, and a new Italian city, into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
