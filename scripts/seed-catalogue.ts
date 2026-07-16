@@ -271,6 +271,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Philadelphia and the making of a financier: the banks and brokerages of Third Street, the Exchange, the penitentiary on Fairmount. Dreiser builds Frank Cowperwood’s rise from the real ledgers of the city, and it brings Philadelphia into the atlas.',
   },
+  {
+    title: 'Democracy',
+    author: 'Henry Adams',
+    published: 1880,
+    city: 'Washington',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'Gilded-Age Washington seen from a house on Lafayette Square, across from the White House: the Capitol, the drawing rooms, the corridors of a young capital. Adams knew the real city from the inside, and it brings Washington into the atlas.',
+  },
 
   // A second wave: new cities, and two countries the atlas did not reach before.
   {

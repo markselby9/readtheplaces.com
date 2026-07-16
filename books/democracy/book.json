@@ -1,0 +1,23 @@
+{
+  "id": "democracy",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "published": 1880,
+  "orderingKey": "chapter",
+  "center": [-77.0364, 38.8951],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Washington",
+    "country": "US",
+    "note": "Gilded-Age Washington seen from a house on Lafayette Square, across from the White House: the Capitol, the drawing rooms, the corridors of a young capital. Adams knew the real city from the inside, and it brings Washington into the atlas.",
+    "bbox": [-77.12, 38.792, -76.909, 38.996]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Henry Adams published this in 1880.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Henry Adams, Democracy (1880)."
+  }
+}
