@@ -1,0 +1,34 @@
+{
+  "id": "children-of-gebelawi",
+  "title": "Children of Gebelawi",
+  "author": "Naguib Mahfouz",
+  "published": 1959,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [31.263, 30.05],
+  "zoom": 14.2,
+  "setting": {
+    "city": "Cairo",
+    "country": "EG",
+    "note": "Mahfouz builds a single fictional alley, and the whole of scripture and history play out inside it: a founding ancestor in a great house at the desert edge, an endowment fought over by strongmen, and a line of reformers who each try to win the poor their share. The alley is drawn from the Gamaliya of his own childhood, the old Islamic quarter below the Muqattam hills, near the mosque of al-Husayn and the northern gate of Bab al-Futuh.",
+    "bbox": [31.255, 30.028, 31.29, 30.062]
+  },
+  "rights": {
+    "originalWork": "In copyright. Naguib Mahfouz, first serialised 1959. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://groveatlantic.com/book/children-of-the-alley/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Children of the Alley, Naguib Mahfouz (1959). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The fired-brick and dust brown of the old quarter's walls. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gabalawi": {
+      "name": "Gabalawi",
+      "color": "#2F6B3A"
+    }
+  }
+}

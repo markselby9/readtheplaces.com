@@ -1,0 +1,128 @@
+[
+  {
+    "id": "the-narrators-village",
+    "name": "The narrator's village on the great bend",
+    "progressLabel": "Homecoming",
+    "character": "narrator",
+    "coords": [31.0, 18.033],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village is never named in this novel and reads as a composite of the settlements on Salih's home reach of the Nile; it is placed near Karmakol, the writer's birthplace just upstream of Ad-Dabbah, rather than at any address the book supplies.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The novel opens with a return: after seven years studying in England the narrator comes home to his family's small farming village on the Nile in northern Sudan. Palm groves, the water-wheel and the neighbours' talk stand in for a whole world he had half forgotten. Salih drew the setting from the country around his own birthplace at Karmakol, near Ad-Dabbah, though the village itself is left unnamed and stands for many like it.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Tayeb Salih, born in Karmakol, a village on the Nile near Al Dabbah in Northern Sudan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+      },
+      {
+        "kind": "external",
+        "ref": "A Sudanese Village Arts Festival Looks Back to the Future, Global Voices, on Karmakol and Salih's home region",
+        "url": "https://globalvoices.org/2018/02/27/from-an-arts-festival-in-a-traditional-sudanese-village-visions-of-past-and-future/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ad-dabbah-town",
+    "name": "Ad-Dabbah, the town on the Nile",
+    "progressLabel": "Homecoming",
+    "character": "narrator",
+    "coords": [30.9495, 18.0502],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ad-Dabbah is not named in the novel; it is the real market town on this stretch of the Nile, the nearest anchor for Salih's unnamed village and for his birthplace at Karmakol a few kilometres to the east.",
+    "reference": "Setting anchor, Northern Sudan",
+    "order": 2,
+    "note": "The nearest real town to the world of the book is Ad-Dabbah, on the north bank of the Nile in Sudan's Northern State, at the western end of the great Dongola bend. Karmakol, where Salih was born, sits just upriver. The town grounds the fictional village in a place a reader can find: a farming and trading centre where the river swings back on itself.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Al Dabbah, Northern State, Sudan, a town on the banks of the Nile (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Al_Dabbah"
+      },
+      {
+        "kind": "author",
+        "ref": "Tayeb Salih biography locating Karmakol near Al Dabbah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "khartoum",
+    "name": "Khartoum",
+    "progressLabel": "The stranger's past",
+    "character": "narrator",
+    "coords": [32.5324, 15.5518],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Khartoum is named in the novel; the point marks the city centre near the confluence of the Blue and White Nile.",
+    "reference": "Mustafa Sa'eed's early life; the narrator's working years",
+    "order": 3,
+    "note": "The capital pulls at both men. Mustafa Sa'eed leaves the provinces for a colonial schooling in Khartoum before travelling on to Cairo and London, and the narrator later spends much of his own working life in government offices in the city, far from the village he keeps returning to. Khartoum stands where the Blue and White Nile meet, the same river that binds the whole story running north from here to the village.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Khartoum, capital of Sudan at the confluence of the Blue and White Nile (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Khartoum"
+      },
+      {
+        "kind": "guide",
+        "ref": "Season of Migration to the North, plot summary noting the narrator's time in Khartoum (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "london-flashback",
+    "name": "London",
+    "progressLabel": "The stranger's past",
+    "character": "narrator",
+    "coords": [-0.1281, 51.5219],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "A deliberate excursion outside the Sudanese setting. London is named in the novel, but the flashback gives no single address, so the point marks the central district around the university and Bloomsbury where a student of the period would have lived and worked.",
+    "reference": "Mustafa Sa'eed's account of his years in England",
+    "order": 4,
+    "note": "The book's long shadow falls from London. In flashback Mustafa Sa'eed recalls the 1920s, when he arrived as a brilliant colonial student, made a name as an economist, and drew a string of English women into affairs that ended in ruin, a killing and a prison term. This northern city is the other pole of the title, the migration that the narrator's own English education quietly echoes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Season of Migration to the North, on Mustafa Sa'eed's life in 1920s London (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North"
+      },
+      {
+        "kind": "author",
+        "ref": "Tayeb Salih, on the novel's counterpoint between Sudan and England (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-nile-at-the-village",
+    "name": "The Nile at the village",
+    "progressLabel": "The river",
+    "character": "narrator",
+    "coords": [31.02, 18.02],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Nile is named throughout, but the climactic river scenes have no charted spot; the point marks the channel beside the unnamed village, on the reach near Karmakol and Ad-Dabbah.",
+    "reference": "Later chapters and the close",
+    "order": 5,
+    "note": "The river carries the ending. Mustafa Sa'eed vanishes into the Nile in flood, his death left ambiguous, and in the final pages the narrator wades into the same water and hangs between drowning and a decision to live. The Nile that framed the homecoming becomes the border between the two worlds the book has held in tension.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Season of Migration to the North, on the Nile as the setting of Mustafa's disappearance and the closing scene (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North"
+      },
+      {
+        "kind": "author",
+        "ref": "Tayeb Salih, on his lifelong subject of the Nile and his home village (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "summerhouses-croft",
+    "name": "Summerhouses (Sumarhús)",
+    "progressLabel": "Book One",
+    "character": "bjartur",
+    "coords": [-21.5328, 64.1797],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Summerhouses is a fictional croft on an unnamed moor, so no real coordinate exists for it. This sites it on the moorland at the head of Mosfellsdalur, the highland countryside Laxness knew from boyhood, as a representative point near Helgufoss.",
+    "reference": "Book One",
+    "order": 1,
+    "note": "After eighteen years as a hired hand, Bjartur buys a poor croft on the heath and renames it Summerhouses, staking everything on owing no man anything. Local belief holds the ground cursed by an old witch. The farm is invented; Laxness drew its moor from the sheep-farming dales of the Icelandic interior he grew up among.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Halldór Laxness and the legacy of Independent People, Visit Iceland, on the moorland setting and Laxness's own upbringing in the countryside",
+        "url": "https://www.visiticeland.com/article/halldor-laxness/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Helgufoss, upper Mosfellsdalur, for a real point on the moor above the valley",
+        "url": "https://guidetoiceland.is/travel-iceland/drive/mosfellsdalur"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mosfellsdalur-parish",
+    "name": "Mosfell church, Mosfellsdalur",
+    "progressLabel": "Book One",
+    "character": "bjartur",
+    "coords": [-21.6202, 64.1855],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's parish and dale are unnamed and fictional. This marks Mosfellskirkja in Mosfellsdalur, the real valley where Laxness spent his childhood and is buried, as the countryside behind the book's settled farms.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "Below the heath lies the settled parish, with its church, its better farms and the neighbours whose good opinion Bjartur refuses to court. The green Mosfellsdalur valley, with its old church at Mosfell, is the lived-in dale Laxness knew; his boyhood farm Laxnes lay a few hundred metres off, and he is buried in the churchyard.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mosfell Church, NAT, for the church's location and coordinates in Mosfellsdalur",
+        "url": "https://nat.is/mosfell-church/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Halldór Laxness, Wikipedia, on his childhood at Laxnes in Mosfellsdalur and burial at Mosfell",
+        "url": "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mosfellsheidi-moor",
+    "name": "The heath, Mosfellsheiði",
+    "progressLabel": "Book Two",
+    "character": "bjartur",
+    "coords": [-21.4583, 64.1437],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's moor is unnamed. This marks Mosfellsheiði, the real heath between the dale and the interior, as a representative stretch of the open highland Bjartur crosses on foot in every weather.",
+    "reference": "Book Two",
+    "order": 3,
+    "note": "So much of the book is walking: Bjartur out on the open heath after a lost ewe, driving sheep, fording rivers, once carried off on the back of a reindeer across a flooded moor. Mosfellsheiði, the broad basalt plateau east of the dale, stands for the highland that both feeds his flock and nearly kills him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mosfellsheiði, Mapcarta, for the heath's location and coordinates between Mosfellsbær and Þingvellir",
+        "url": "https://mapcarta.com/19174446"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "market-town-fjord",
+    "name": "The market town",
+    "progressLabel": "Book Two",
+    "character": "bjartur",
+    "coords": [-21.917, 64.533],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The trading town where Bjartur deals with the merchant and the co-op is unnamed and fictional. This marks Borgarnes, a real regional trading town on the west coast, as a representative example of the market town a highland farmer would walk to.",
+    "reference": "Book Two",
+    "order": 4,
+    "note": "Independence has limits: Bjartur still has to sell wool and lambs and take on debt at the store. The long trek to the coastal market town, and the shift from the old merchant to the farmers' co-operative, drives the money side of the book. Borgarnes stands in for that regional trading town on its fjord.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Independent People, Britannica, on Bjartur's dealings with merchants and the co-operative movement",
+        "url": "https://www.britannica.com/topic/Independent-People"
+      },
+      {
+        "kind": "guide",
+        "ref": "Borgarnes, Wikipedia, for the coordinates of a representative west-coast trading town",
+        "url": "https://en.wikipedia.org/wiki/Borgarnes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "reykjavik-capital",
+    "name": "Reykjavík",
+    "progressLabel": "Book Two",
+    "character": "bjartur",
+    "coords": [-21.9398, 64.1472],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Reykjavík is named in the novel. This marks Austurvöllur, the historic heart of the old town, as a representative point in the growing capital.",
+    "reference": "Book Two",
+    "order": 5,
+    "note": "The capital pulls at the family from the far side of the heath. Bjartur makes the journey down to Reykjavík, and the town, with its wartime trade, its wages and its politics, becomes the modern world encroaching on the self-sufficient croft. It is the one large place the book names outright.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Independent People, Britannica, on the novel's early twentieth-century Iceland and the reach of Reykjavík",
+        "url": "https://www.britannica.com/topic/Independent-People"
+      },
+      {
+        "kind": "guide",
+        "ref": "Austurvöllur, Wikipedia, for the coordinates of the historic centre of Reykjavík",
+        "url": "https://en.wikipedia.org/wiki/Austurv%C3%B6llur"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

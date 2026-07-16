@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ogidi-umuofia-model",
+    "name": "Ogidi, model for Umuofia",
+    "progressLabel": "Part One",
+    "character": "okonkwo",
+    "coords": [6.8633, 6.1522],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Umuofia is an invented clan of nine villages; Achebe grew up in Ogidi, a real Igbo town, and drew the world of Umuofia from its customs, so we site the opening here.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The self-governing farming clan where Okonkwo rises by his own hand, taking titles, filling his barn with yams and ruling his compound by fear of weakness. This is the ordered Igbo world of the masquerades, the oracle and the elders, before anything from outside arrives to unsettle it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ogidi, Anambra (birthplace of Chinua Achebe), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ogidi,_Anambra"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "onitsha-niger-town",
+    "name": "Onitsha, the Niger river town",
+    "progressLabel": "Part One",
+    "character": "okonkwo",
+    "coords": [6.789, 6.145],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's clans are inland and fictional, but Onitsha is the real river town nearest Ogidi and the commercial and colonial gateway to this stretch of Igboland, so it stands for the wider world pressing on Umuofia.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The great market town on the east bank of the Niger, the real hub of trade and outside contact for the Igbo country Achebe drew on. It represents the busy river world at the edge of Umuofia's self-contained life, from which strangers and their goods would come.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Onitsha, Anambra State, Nigeria, Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/place/Onitsha"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "niger-river-onitsha",
+    "name": "The River Niger at Onitsha",
+    "progressLabel": "Part Two",
+    "character": "okonkwo",
+    "coords": [6.7588, 6.1344],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The waterway is not a named scene in the novel, but the missionaries and administrators of Achebe's setting reached Igboland by the Niger, so we mark the river at Onitsha as the route by which change arrived.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The broad river that carried European traders, missionaries and colonial power into the Igbo interior in the late nineteenth century. Its current is the road along which the forces that undo Okonkwo's world travel inland toward the villages.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Niger River, Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/place/Niger-River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "onitsha-anglican-mission",
+    "name": "Anglican mission ground, Onitsha",
+    "progressLabel": "Part Two",
+    "character": "okonkwo",
+    "coords": [6.7895, 6.1547],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The white man's church in the novel is fictional, but the Church Missionary Society landed at Onitsha in 1857 to plant the first Christian mission in Igboland; the Anglican cathedral ground marks the descendant of that mission.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Stands for the mission church that opens in the clan and takes in the outcasts and the doubtful, including Okonkwo's own son Nwoye. Onitsha is where the historical Anglican mission to Igboland actually began, the seed of the faith that splits families in the story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "All Saints' Cathedral, Onitsha (Anglican Diocese on the Niger), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/All_Saints%27_Cathedral,_Onitsha"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mungo-park-house-asaba",
+    "name": "Mungo Park House, Asaba",
+    "progressLabel": "Part Three",
+    "character": "okonkwo",
+    "coords": [6.7387, 6.1986],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The District Commissioner's headquarters is not named in the text, but Mungo Park House at Asaba, across the Niger from Onitsha, was the Royal Niger Company's administrative seat from 1886, the kind of colonial centre Achebe's officials belong to.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The colonial administrative building on the west bank of the Niger, headquarters of the chartered company that governed this territory. It answers to the District Commissioner and his court messengers who arrive to try Okonkwo's people by a law they never agreed to.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Mungo Park House, Asaba: from Royal Niger Company headquarters to National Museum, Historical Nigeria",
+        "url": "https://historicalnigeria.com/mungo-park-house-asaba-from-royal-niger-company-headquarters-to-national-museum/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

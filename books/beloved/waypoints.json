@@ -1,0 +1,123 @@
+[
+  {
+    "id": "sweet-home-kentucky",
+    "name": "Sweet Home, Kentucky",
+    "progressLabel": "The past",
+    "character": "sethe",
+    "coords": [-84.6249, 38.9206],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Sweet Home is Morrison's invented plantation and is never given a real address. It is placed here in Boone County, Kentucky, near Richwood, where the Gaines family farm of Maplewood stood; that farm enslaved Margaret Garner, whose 1856 escape the novel draws on.",
+    "reference": "The Kentucky past, recalled throughout",
+    "order": 1,
+    "note": "Before the events of the book, the woman at its centre is enslaved on a Kentucky farm whose gentle name mocks what happens there. Her memories of the place, and of the men held with her, run under the whole novel. Morrison invented the plantation, but its ground is the slaveholding country south of the Ohio, where the real family behind the story lived.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Beloved (novel), Wikipedia, on the novel's basis in the Margaret Garner case",
+        "url": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Richwood, Boone County, Kentucky, HometownLocator, for the location of the Gaines farm district",
+        "url": "https://kentucky.hometownlocator.com/ky/boone/richwood.cfm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ohio-river-crossing",
+    "name": "The Ohio River crossing",
+    "progressLabel": "The escape",
+    "character": "sethe",
+    "coords": [-84.50293, 39.09725],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Ohio River as the line between slavery and freedom. This marks the Cincinnati riverfront at the Public Landing, the northern bank fugitives reached after crossing from Kentucky.",
+    "reference": "The river crossing from Kentucky into Ohio",
+    "order": 2,
+    "note": "The river is the border. On one side is a slave state, on the other the free soil of Ohio, and crossing it is the difference between being owned and being a person. The novel's mother makes that passage heavily pregnant, and gives birth on the way north; the real woman behind her crossed the frozen river in the winter of 1856.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Public Landing, Cincinnati, Wikipedia, for the riverfront coordinates",
+        "url": "https://en.wikipedia.org/wiki/Public_Landing,_Cincinnati"
+      },
+      {
+        "kind": "external",
+        "ref": "Margaret Garner, Wikipedia, on the 1856 crossing of the Ohio into Cincinnati",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Garner"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "124-bluestone-road",
+    "name": "124 Bluestone Road",
+    "progressLabel": "The house",
+    "character": "sethe",
+    "coords": [-84.537, 39.1563],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "124 Bluestone Road is a fictional address. Morrison places the house at the edge of Cincinnati within the real free-Black community of the 1870s; it is sited here at Cumminsville, now Northside, on the city's northern edge.",
+    "reference": "124, the novel's central house",
+    "order": 3,
+    "note": "The house is the fixed point of the book, a place the family and its neighbours believe is haunted by the ghost of a dead child. It stands on the free side of the river, at the outer edge of the city, among a community of formerly enslaved people building lives in freedom. The number and the street are Morrison's; the setting is real Cincinnati.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Beloved (novel), Wikipedia, on the setting at 124 Bluestone Road outside Cincinnati",
+        "url": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Northside (Cumminsville), Cincinnati, coordinates for the northern-edge neighbourhood",
+        "url": "https://latitude.to/articles-by-country/us/united-states/68848/northside-cincinnati"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-clearing",
+    "name": "The Clearing",
+    "progressLabel": "The house",
+    "character": "sethe",
+    "coords": [-84.5405, 39.168],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Clearing is Morrison's invention, an open space in the woods beyond the house where the grandmother preaches to the community. It has no real address; this marks a representative point in the wooded hills just beyond the Cumminsville settlement.",
+    "reference": "The Clearing, where Baby Suggs preaches",
+    "order": 4,
+    "note": "A short walk through the trees from the house lies an open place where the family's grandmother, herself freed, gathers the community and tells them to love their own bodies, which slavery taught them to despise. It is the moral centre of the book, a made-up place standing for the woods on the edge of the real settlement.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Beloved (novel), Wikipedia, on the Clearing and Baby Suggs's preaching",
+        "url": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cincinnati-garner-case",
+    "name": "Cincinnati and the Garner case",
+    "progressLabel": "The reckoning",
+    "character": "sethe",
+    "coords": [-84.51132, 39.09767],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cincinnati is the novel's named setting. This marks the downtown riverfront, near where the National Underground Railroad Freedom Center now stands, to anchor the real 1856 case of Margaret Garner that Morrison drew on.",
+    "reference": "Cincinnati; the historical case behind the novel",
+    "order": 5,
+    "note": "The horror at the heart of the book, a mother killing her child rather than see her taken back into slavery, retells a real event. In 1856 a woman who had escaped across the river was cornered by slave-catchers in Cincinnati and cut her daughter's throat. Morrison read a brief account of the case and imagined the inner life the record left out.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Margaret Garner, Wikipedia, on the 1856 case in Cincinnati that inspired the novel",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Garner"
+      },
+      {
+        "kind": "guide",
+        "ref": "National Underground Railroad Freedom Center, for the downtown riverfront coordinates",
+        "url": "https://en.wikipedia.org/wiki/National_Underground_Railroad_Freedom_Center"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "place-de-clichy",
+    "name": "Place de Clichy",
+    "progressLabel": "Opening",
+    "character": "bardamu",
+    "coords": [2.3274, 48.8835],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Place de Clichy at the outset; this marks the real square where its five boulevards meet.",
+    "reference": "Opening pages",
+    "order": 1,
+    "note": "The book opens on a café terrace here, where a stray argument about patriotism sends the young narrator off to enlist almost on a whim. It is the one moment of careless city life before the war, and Céline pins it to a real Paris crossroads on the northern boulevards, a short walk from the poorer world the story will settle into.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Journey to the End of the Night, Wikipedia, on the opening scene",
+        "url": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+      },
+      {
+        "kind": "guide",
+        "ref": "Place de Clichy coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/fr/france/54139/place-de-clichy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fort-gono-colonial-africa",
+    "name": "Fort-Gono, French colonial Africa",
+    "progressLabel": "The colony",
+    "character": "bardamu",
+    "coords": [9.7679, 4.0511],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The colony and its capital Fort-Gono are invented; Céline built them from his own 1916 stint as a plantation overseer in French Cameroon, so this sites the episode at Douala, the port he worked out of.",
+    "reference": "The African episode",
+    "order": 2,
+    "note": "After the trenches the narrator ships out to a fevered French colony, first to its sweltering capital and then to a rotting trading post in the bush, where fraud, illness and cruelty grind everyone down. Céline drew the whole sequence from the year he spent supervising plantations in Cameroon; the fictional Fort-Gono stands in for the colonial port of Douala. It sits far outside the book's Paris and is flagged as an excursion.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "L'Afrique dans le Voyage au bout de la nuit, Persée, on Céline's Cameroon sources",
+        "url": "https://www.persee.fr/doc/litts_0563-9751_1995_num_32_1_1687"
+      },
+      {
+        "kind": "guide",
+        "ref": "Douala, Cameroon coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/cm/cameroon/5139/douala"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ford-plant-detroit",
+    "name": "The Ford plant, Detroit",
+    "progressLabel": "America",
+    "character": "bardamu",
+    "coords": [-83.1, 42.411],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The book names Detroit and Ford but no specific factory; this sites it at the Highland Park plant, the assembly-line works Céline saw on his 1925 visit to Ford.",
+    "reference": "The American episode",
+    "order": 3,
+    "note": "Broke in America, the narrator takes a place on a car assembly line and is reduced to a cog among the machines, until he drifts into a brief, tender attachment to a woman who wants him to stay. Céline had toured Ford's operations in 1925, and the deadening line he describes echoes the Highland Park works north of Detroit. Like the African chapters, this lies well outside the Paris setting.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Journey to the End of the Night, Wikipedia, on the Detroit and Ford assembly-line episode",
+        "url": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+      },
+      {
+        "kind": "guide",
+        "ref": "Highland Park Ford Plant, Wikipedia, on the moving assembly line",
+        "url": "https://en.wikipedia.org/wiki/Highland_Park_Ford_Plant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "la-garenne-rancy",
+    "name": "La Garenne-Rancy",
+    "progressLabel": "The suburb",
+    "character": "bardamu",
+    "coords": [2.3095, 48.9002],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Rancy is a fictional suburb. Céline wrote the novel while running a public clinic in Clichy and modelled the poor banlieue on it, so this sites Rancy at the centre of Clichy, just north of Paris.",
+    "reference": "The Rancy chapters",
+    "order": 4,
+    "note": "Home from his travels and newly qualified, the narrator sets up as a doctor in a bleak working-class suburb where almost no one can pay, and spends his days on hopeless cases and the wreckage of back-street abortions. The place is invented, but Céline built it out of the real Clichy, the northern banlieue where he practised medicine as he was writing the book. This suburb is the story's true centre of gravity.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Céline: Journey to the End of the Night, The Modern Novel, on the fictional La Garenne-Rancy and Céline's Clichy practice",
+        "url": "https://www.themodernnovel.org/europe/w-europe/france/celine/voyage/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Clichy, Hauts-de-Seine coordinates, latitude.to",
+        "url": "https://latitude.to/map/fr/france/cities/clichy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "porte-de-clichy-fortifications",
+    "name": "The fortifications, Porte de Clichy",
+    "progressLabel": "The suburb",
+    "character": "bardamu",
+    "coords": [2.3082, 48.89],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name a single crossing point; Porte de Clichy marks the historic line of the Paris fortifications where the city gave way to the banlieue of Rancy's kind in the 1920s.",
+    "reference": "The Rancy chapters",
+    "order": 5,
+    "note": "Between central Paris and the suburb the narrator crosses the shabby belt of the old city ramparts, the run-down no man's land of shacks and waste ground that once ringed Paris. Rancy lies just beyond it, and this threshold at Porte de Clichy stands for the divide the book keeps walking across, from the lit boulevards into the grey northern edge.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Thiers wall, Wikipedia, on the Paris fortifications and the zone along the Boulevards des Maréchaux",
+        "url": "https://en.wikipedia.org/wiki/Thiers_wall"
+      },
+      {
+        "kind": "guide",
+        "ref": "Porte de Clichy coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/fr/france/65125/porte-de-clichy-paris-metro-rer"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

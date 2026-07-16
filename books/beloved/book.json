@@ -1,0 +1,34 @@
+{
+  "id": "beloved",
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "published": 1987,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-84.512, 39.103],
+  "zoom": 11,
+  "setting": {
+    "city": "Cincinnati",
+    "country": "US",
+    "note": "A house on the free side of the Ohio River, haunted by a mother's choice under slavery. The map runs from the Kentucky plantation of the past, across the river into Ohio, out to a house and a clearing on the northern edge of Cincinnati, and back to the downtown riverfront where the real case behind the novel unfolded.",
+    "bbox": [-84.7, 38.85, -84.45, 39.22]
+  },
+  "rights": {
+    "originalWork": "In copyright. Toni Morrison, first published 1987. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/117662/beloved-by-toni-morrison/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Beloved, Toni Morrison (1987). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#7A1512",
+    "note": "A deep oxblood red for a book that turns on blood and a mother's grief. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sethe": {
+      "name": "Sethe",
+      "color": "#264653"
+    }
+  }
+}

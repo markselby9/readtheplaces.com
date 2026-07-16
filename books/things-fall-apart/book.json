@@ -1,0 +1,35 @@
+{
+  "id": "things-fall-apart",
+  "title": "Things Fall Apart",
+  "author": "Chinua Achebe",
+  "published": 1958,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [6.79, 6.15],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Onitsha",
+    "country": "NG",
+    "date": "1890s",
+    "note": "The Igbo country of the lower Niger, where forest villages of yam farmers and titled elders meet the missionaries and colonial officials who came upriver. Achebe built the invented clans of Umuofia and Mbanta from the towns around his native Ogidi, near the great river port of Onitsha.",
+    "bbox": [6.72, 6.11, 6.88, 6.22]
+  },
+  "rights": {
+    "originalWork": "In copyright. Chinua Achebe, 1958. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/565351/things-fall-apart-by-chinua-achebe/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Things Fall Apart, Chinua Achebe (1958). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#9A3B1B",
+    "note": "The red earth and clay of the Igbo hinterland. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "okonkwo": {
+      "name": "Okonkwo",
+      "color": "#7A3410"
+    }
+  }
+}

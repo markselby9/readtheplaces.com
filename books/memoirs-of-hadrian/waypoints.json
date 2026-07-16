@@ -1,0 +1,155 @@
+[
+  {
+    "id": "pantheon",
+    "name": "The Pantheon",
+    "progressLabel": "Rome",
+    "character": "hadrian",
+    "coords": [12.476873, 41.898609],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pantheon is a named, still-standing monument; Hadrian rebuilt it early in his reign and kept his predecessor Agrippa's name on the front. These are the coordinates of the building on the Piazza della Rotonda.",
+    "reference": "The rebuilding of Rome under Hadrian",
+    "order": 1,
+    "note": "Among the works the emperor counts as his own is the great round temple to all the gods, which he raised again from Agrippa's ruined original and left crowned with its open eye to the sky. It still stands, close to whole, in the heart of the old city.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pantheon, Rome, Wikipedia, on Hadrian's rebuilding around 113-125 AD",
+        "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+      },
+      {
+        "kind": "guide",
+        "ref": "Pantheon, Rome, latitude and longitude reference",
+        "url": "https://latitude.to/articles-by-country/it/italy/408/pantheon-rome"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "temple-of-venus-and-roma",
+    "name": "Temple of Venus and Roma",
+    "progressLabel": "Rome",
+    "character": "hadrian",
+    "coords": [12.488472, 41.891411],
+    "placeCertainty": "explicit",
+    "certaintyNote": "A named monument on the Velian Hill above the Forum, its ruins still visible beside the Colosseum. Hadrian drew the plans himself; these are the coordinates of the surviving platform.",
+    "reference": "The rebuilding of Rome under Hadrian",
+    "order": 2,
+    "note": "The emperor, an amateur architect proud of his own hand, sets the largest temple in the city on the ridge between the Forum and the amphitheatre, its two shrines built back to back for the goddess of the city and the goddess of love. Its brick vaults survive on the Via Sacra.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Temple of Venus and Roma, Wikipedia, on Hadrian's design and construction from 121 AD",
+        "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma"
+      },
+      {
+        "kind": "guide",
+        "ref": "Velian Hill, Wikipedia, for the location above the Roman Forum",
+        "url": "https://en.wikipedia.org/wiki/Velian_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mausoleum-castel-santangelo",
+    "name": "Hadrian's Mausoleum (Castel Sant'Angelo)",
+    "progressLabel": "Rome",
+    "character": "hadrian",
+    "coords": [12.466276, 41.903065],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Mausoleum of Hadrian, the cylindrical tomb he built for himself by the Tiber, still stands as Castel Sant'Angelo. These are the coordinates of the monument.",
+    "reference": "Hadrian's tomb by the Tiber",
+    "order": 3,
+    "note": "Looking toward his own death, the emperor thinks of the drum-shaped tomb he has ordered raised on the far bank of the river, where his ashes and those of his line will lie. Popes later turned it into a fortress; it endures above the Tiber as Castel Sant'Angelo.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mausoleum of Hadrian, Wikipedia, on the tomb Hadrian commissioned, now Castel Sant'Angelo",
+        "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Hadrian"
+      },
+      {
+        "kind": "guide",
+        "ref": "Castel Sant'Angelo, latitude and longitude reference",
+        "url": "https://latitude.to/articles-by-country/it/italy/2605/castel-santangelo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "villa-adriana-tivoli",
+    "name": "Villa Adriana, Tivoli",
+    "progressLabel": "Tibur",
+    "character": "hadrian",
+    "coords": [12.774399, 41.942802],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The named villa at Tibur, modern Tivoli, some twenty-eight kilometres east of Rome and outside the map's Rome bounding box; a UNESCO World Heritage site whose ruins survive. These are the coordinates of the archaeological complex.",
+    "reference": "The retreat at Tibur",
+    "order": 4,
+    "note": "In the country east of the city the emperor lays out a vast private estate, reworking in stone and water the places that marked his travels through the empire. Much of the long reflection belongs to this retreat; its pools, halls and colonnades still stand as ruins at Tivoli.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Villa Adriana (Tivoli), UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/907/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hadrian's Villa, latitude and longitude reference",
+        "url": "https://latitude.to/articles-by-country/it/italy/5599/hadrians-villa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "olympieion-athens",
+    "name": "Temple of Olympian Zeus, Athens",
+    "progressLabel": "Athens",
+    "character": "hadrian",
+    "coords": [23.732992, 37.969296],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "A named monument in Athens, far outside the Rome setting. Begun centuries earlier and finished under Hadrian, who dedicated it in 132 AD; its surviving columns stand near the Acropolis. Coordinates of the site.",
+    "reference": "Hadrian in Greece",
+    "order": 5,
+    "note": "The emperor, a lover of Greece who counts Athens a second home, completes the colossal temple that generations of Athenians had left unfinished, and rebuilds much of the city around it. A cluster of its columns still stands below the Acropolis.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Temple of Olympian Zeus, Athens, Wikipedia, on Hadrian's completion and dedication in 132 AD",
+        "url": "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"
+      },
+      {
+        "kind": "guide",
+        "ref": "Temple of Olympian Zeus, Athens, latitude and longitude reference",
+        "url": "https://latitude.to/articles-by-country/gr/greece/7380/temple-of-olympian-zeus-athens"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "antinoopolis-nile",
+    "name": "Antinoöpolis, on the Nile",
+    "progressLabel": "Egypt",
+    "character": "hadrian",
+    "coords": [30.8833, 27.8167],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Roman city Hadrian founded on the east bank of the Nile, at modern el-Sheikh Ibada, far outside the Rome setting. It marks the reach where his companion Antinous drowned in 130 AD. Coordinates of the ancient site.",
+    "reference": "The death of Antinous in Egypt",
+    "order": 6,
+    "note": "The grief that shadows the whole account belongs to Egypt, where the young Bithynian who travelled with the emperor drowns in the river. On the bank near the place, the emperor founds a city in his name and has him made a god. The ruins lie at el-Sheikh Ibada.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Antinoöpolis, Wikipedia, on the city Hadrian founded in 130 AD after Antinous drowned in the Nile",
+        "url": "https://en.wikipedia.org/wiki/Antino%C3%B6polis"
+      },
+      {
+        "kind": "guide",
+        "ref": "Antinopolis, Egypt, latitude and longitude reference",
+        "url": "https://latitude.to/articles-by-country/eg/egypt/36539/antinopolis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

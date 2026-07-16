@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cordisburgo",
+    "name": "Cordisburgo",
+    "progressLabel": "The storyteller's country",
+    "character": "riobaldo",
+    "coords": [-44.3203, -19.1258],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Cordisburgo does not appear in the novel; it is Rosa's birthplace and the country whose speech and cattle-droving world he carries into the book. It anchors the southern edge of the map as the source of the voice, not as a scene.",
+    "reference": "Riobaldo's narration (frame)",
+    "order": 1,
+    "note": "The whole book is one old man talking, and the talk comes out of country like this. Rosa was born in Cordisburgo, in central Minas, and grew up among the drovers and backland speech he later reworked into Riobaldo's monologue. It is where the storytelling begins, even though the wandering it describes lies further north.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cordisburgo, Wikipedia, on the town as João Guimarães Rosa's birthplace",
+        "url": "https://en.wikipedia.org/wiki/Cordisburgo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cordisburgo GPS coordinates, OpenStreetMap Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Cordisburgo%2C+Minas+Gerais%2C+Brazil&format=json"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "andrequice",
+    "name": "Andrequicé",
+    "progressLabel": "A point of reference",
+    "character": "riobaldo",
+    "coords": [-44.9833, -18.2762],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Andrequicé is named in the novel as a real reference point in the backland; today a district of Três Marias, its exact scene is not fixed, so the coordinate marks the village centre.",
+    "reference": "Riobaldo's narration (opening pages)",
+    "order": 2,
+    "note": "Early in the monologue Riobaldo measures the country by real places, and Andrequicé is one of them, weighed against the choice of going the straight overland way or the longer way by the river. The hamlet is bound up with the drover Manuelzão, whom Rosa met nearby in 1952 on the journey that fed the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Após 60 anos de Grande Sertão: Veredas, distrito mineiro respira Guimarães Rosa, Agência Brasil, on Andrequicé and the novel",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2016-07/apos-60-anos-de-grande-sertao-veredas-distrito-mineiro-respira-guimaraes"
+      },
+      {
+        "kind": "guide",
+        "ref": "Andrequicé (Três Marias) GPS coordinates, OpenStreetMap Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Andrequic%C3%A9%2C+Tr%C3%AAs+Marias%2C+Minas+Gerais%2C+Brazil&format=json"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rio-sao-francisco",
+    "name": "Rio São Francisco",
+    "progressLabel": "The river",
+    "character": "riobaldo",
+    "coords": [-44.92, -16.15],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The São Francisco is the explicit spine of the novel's geography, but the narration crosses it at many points rather than one; the coordinate marks a representative reach of the channel in the sertão between São Romão and São Francisco.",
+    "reference": "Riobaldo's narration",
+    "order": 3,
+    "note": "The great river cuts the sertão in two and every crossing in the book is an event, a border between one stretch of danger and the next. Riobaldo's jagunço wars are fought up and down its banks and its tributaries, and the river is the one fixed thing in a landscape the narrator otherwise remembers in loops.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "São Francisco River, Wikipedia, on the river's course through northern Minas Gerais",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sao-romao",
+    "name": "São Romão",
+    "progressLabel": "A river town",
+    "character": "riobaldo",
+    "coords": [-45.0722, -16.3689],
+    "placeCertainty": "explicit",
+    "certaintyNote": "São Romão is a real town named in the novel, on the left bank of the São Francisco; the coordinate is the town seat, though the narration does not pin a single scene to a street.",
+    "reference": "Riobaldo's narration",
+    "order": 4,
+    "note": "An old river port on the São Francisco, São Romão is one of the named towns that give the wandering its bearings. Places like it, half-forgotten landings on the water, are where the bands resupply, cross, and pass through between the long stretches of open country.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "São Romão, Wikipedia, on the town on the left bank of the São Francisco",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Rom%C3%A3o"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sao-francisco",
+    "name": "São Francisco",
+    "progressLabel": "The northern backland",
+    "character": "riobaldo",
+    "coords": [-44.8644, -15.9486],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "São Francisco is a real river town in the northern sertão that Rosa knew, and it stands here for the down-river backland of the novel; it is marked inspired_by because the book evokes this stretch of country rather than staging a fixed scene in the town itself.",
+    "reference": "Riobaldo's narration",
+    "order": 5,
+    "note": "Further down the river the sertão opens into the drier northern backland, still crossed by ferry from one bank to the other. The town of São Francisco stands for this reach of Rosa's country, the world of ferrymen, cattle and small river ports that the jagunços move through on their way toward the Bahia frontier.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "São Francisco (Minas Gerais), Wikipedia, on the river town and its ferry crossings",
+        "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(Minas_Gerais)"
+      },
+      {
+        "kind": "guide",
+        "ref": "São Francisco, MG coordinates, Geografos.com.br",
+        "url": "https://www.geografos.com.br/cidades-minas-gerais/sao-francisco.php"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "serra-das-araras",
+    "name": "Serra das Araras",
+    "progressLabel": "The high sertão",
+    "character": "riobaldo",
+    "coords": [-45.3559, -15.4344],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's jagunços cross highland ranges in the far sertão toward the Bahia border; the Serra das Araras is a real range of that country, but pinning a single ridge to the narration is inference, so the coordinate marks a representative point on the range near Chapada Gaúcha.",
+    "reference": "Riobaldo's narration",
+    "order": 6,
+    "note": "In the far north the backland rises into the high plains and serras near the Bahia line, where the veredas, the palm-lined springs, break the dry cerrado. The Serra das Araras stands for this upland country of hard marches and crossings that closes the northern end of Riobaldo's wandering.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Parque Estadual Serra das Araras, Wikipedia (Portuguese), on the range in northern Minas near the Bahia border",
+        "url": "https://pt.wikipedia.org/wiki/Parque_Estadual_Serra_das_Araras"
+      },
+      {
+        "kind": "guide",
+        "ref": "Serra das Araras (Chapada Gaúcha) coordinates, OpenStreetMap Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Serra+das+Araras%2C+Chapada+Ga%C3%BAcha%2C+Minas+Gerais%2C+Brazil&format=json"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

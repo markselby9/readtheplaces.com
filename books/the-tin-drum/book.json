@@ -1,0 +1,34 @@
+{
+  "id": "the-tin-drum",
+  "title": "The Tin Drum",
+  "author": "Günter Grass",
+  "published": 1959,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [18.62, 54.375],
+  "zoom": 11,
+  "setting": {
+    "city": "Gdańsk",
+    "country": "PL",
+    "note": "Grass's Danzig, the city he was born in and lost, is the whole stage of the novel: the Kashubian potato country to the west, the Langfuhr suburb where Oskar grows up beating his drum, the Old Town and its theatre, the Polish Post Office he helps defend as the war begins, and the harbour out at Neufahrwasser. The map runs from the fields inland to the Baltic mouth of the Dead Vistula, over what is now Poland.",
+    "bbox": [18.4, 54.32, 18.72, 54.42]
+  },
+  "rights": {
+    "originalWork": "In copyright. Günter Grass, first published 1959 (Die Blechtrommel). This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/158378/the-tin-drum-by-gunter-grass/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Tin Drum, Günter Grass (1959). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#B0221C",
+    "note": "The red of Oskar's lacquered tin drum, the object he beats through the whole book, and the red half of the Polish flag over the post office. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "oskar": {
+      "name": "Oskar Matzerath",
+      "color": "#1C5A82"
+    }
+  }
+}

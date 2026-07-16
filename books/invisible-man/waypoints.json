@@ -1,0 +1,154 @@
+[
+  {
+    "id": "southern-college",
+    "name": "The Southern college",
+    "progressLabel": "Chapters 1-6",
+    "character": "narrator",
+    "coords": [-85.70778, 32.43028],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The college is invented and never named, but its buildings, its founder and its ethos are drawn from Tuskegee in Alabama, where Ellison studied; this marks Tuskegee University. Set outsideSetting because it lies far from the book's Harlem map.",
+    "reference": "Chapters 1-6",
+    "order": 1,
+    "note": "Before New York, the narrator is a scholarship student at a Black college in the Deep South. A drive with a white trustee goes wrong, and he is expelled and sent north with letters that, he later learns, were written to keep him down. The campus echoes Tuskegee, the institute Ellison himself attended.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Ralph Ellison, Encyclopedia of Alabama, on his years at Tuskegee and its imprint on the novel",
+        "url": "https://encyclopediaofalabama.org/article/ralph-ellison/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tuskegee University, Wikipedia, for the campus coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tuskegee_University"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "liberty-paints",
+    "name": "Liberty Paints",
+    "progressLabel": "Chapters 10-11",
+    "character": "narrator",
+    "coords": [-73.9411, 40.7509],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Liberty Paints is a fictional plant the narrator says stands on Long Island; no address exists. This marks Long Island City, the industrial waterfront across the East River, as a representative site. Set outsideSetting because it sits outside the Harlem map.",
+    "reference": "Chapters 10-11",
+    "order": 2,
+    "note": "Newly arrived and broke, the narrator takes a job at a paint factory whose signature product is a brilliant white made by stirring in ten drops of black. An accident in the boiler room lands him in the plant hospital, where the machines seem to strip away his past. The works are invented; their world is the industrial belt of outer New York.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Invisible Man study guide, on the Liberty Paints episode and its symbolism",
+        "url": "https://www.sparknotes.com/lit/invisibleman/section6/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Long Island City, Wikipedia, for the neighbourhood coordinates",
+        "url": "https://en.wikipedia.org/wiki/Long_Island_City"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lenox-and-125th",
+    "name": "Lenox Avenue and 125th Street",
+    "progressLabel": "Chapters 13-17",
+    "character": "narrator",
+    "coords": [-73.945, 40.807],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ellison names Lenox Avenue and 125th Street directly; this marks their intersection, the site of the Lenox Avenue subway station.",
+    "reference": "Chapters 13-17",
+    "order": 3,
+    "note": "Harlem's main crossing is where the narrator finds his public voice. He stops an eviction on a cold pavement, speaks over the couple's furniture piled in the street, and is recruited as an orator. Lenox Avenue and 125th Street become the ground of his rise.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Invisible Man setting notes, on the Harlem locations Ellison names",
+        "url": "https://www.gradesaver.com/invisible-man/study-guide/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "125th Street station (IRT Lenox Avenue Line), Wikipedia, for the intersection coordinates",
+        "url": "https://en.wikipedia.org/wiki/125th_Street_station_(IRT_Lenox_Avenue_Line)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brotherhood-harlem-office",
+    "name": "The Brotherhood's Harlem office",
+    "progressLabel": "Chapters 17-22",
+    "character": "narrator",
+    "coords": [-73.94944, 40.80861],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Brotherhood's district office is placed in Harlem but never given an address. This marks the Hotel Theresa on 125th Street, the era's landmark hub for Black politics and organising, as a representative point.",
+    "reference": "Chapters 17-22",
+    "order": 4,
+    "note": "As the Brotherhood's man in Harlem, the narrator works from a district office, drawing crowds with his speeches until the organisation's leaders decide his rise is inconvenient and reassign him. The movement, widely read as a version of the Communist left, ran its Harlem work from around 125th Street.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Invisible Man and the Brotherhood, on the novel's Harlem political milieu",
+        "url": "https://www.gradesaver.com/invisible-man/study-guide/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hotel Theresa, Wikipedia, for the 125th Street coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Theresa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harlem-riot",
+    "name": "The streets of the Harlem riot",
+    "progressLabel": "Chapter 25",
+    "character": "narrator",
+    "coords": [-73.941, 40.814],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The riot runs along Lenox Avenue, which Ellison names; this marks the avenue near 135th Street, in the heart of the uptown blocks the disturbance sweeps through.",
+    "reference": "Chapter 25",
+    "order": 5,
+    "note": "The book climbs to a night of fire and looting on Lenox Avenue, where the narrator watches a tenement burned by its own tenants and realises how far the Brotherhood has let Harlem be pushed. The scene draws on the real 1943 Harlem riot, which began when a policeman shot a Black soldier at the Braddock Hotel on West 126th Street.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Harlem riot of 1943, Wikipedia, on the events behind the novel's climax",
+        "url": "https://en.wikipedia.org/wiki/Harlem_riot_of_1943"
+      },
+      {
+        "kind": "guide",
+        "ref": "135th Street station (IRT Lenox Avenue Line), Wikipedia, for the Lenox Avenue coordinates",
+        "url": "https://en.wikipedia.org/wiki/135th_Street_station_(IRT_Lenox_Avenue_Line)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "underground-hole",
+    "name": "The narrator's underground hole",
+    "progressLabel": "Prologue and Epilogue",
+    "character": "narrator",
+    "coords": [-73.952275, 40.798749],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The narrator describes his cellar only as a forgotten basement in a border area of Harlem, a building he says is rented to whites; no real address is given. This marks the southern edge of Harlem at 110th Street and Lenox Avenue as a representative border point.",
+    "reference": "Prologue and Epilogue",
+    "order": 6,
+    "note": "The story is told from a hole the narrator has claimed in a shut-off cellar on the edge of Harlem, warm and blazing with light he siphons off the power company, a whole ceiling of bulbs burning against his sense of being unseen. It is where he retreats after the riot to think it all through.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Invisible Man, Prologue analysis, on the underground hole and its lights",
+        "url": "https://www.sparknotes.com/lit/invisibleman/section1/"
+      },
+      {
+        "kind": "guide",
+        "ref": "110th Street station (IRT Lenox Avenue Line), Wikipedia, for the border coordinates",
+        "url": "https://en.wikipedia.org/wiki/110th_Street_station_(IRT_Lenox_Avenue_Line)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

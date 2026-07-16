@@ -1,0 +1,127 @@
+[
+  {
+    "id": "rua-dos-douradores-office",
+    "name": "Rua dos Douradores",
+    "progressLabel": "The office",
+    "character": "soares",
+    "coords": [-9.1367, 38.7116],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pessoa names the street repeatedly but gives no house number, so this marks a representative point along Rua dos Douradores in the Baixa.",
+    "reference": "Bernardo Soares's office and rented room, Rua dos Douradores",
+    "order": 1,
+    "note": "This one downtown street is the narrator's whole world. He keeps ledgers by day in the firm of his employer Vasques and climbs at night to a hired upper room on the same street, until the office, the boss and the errand boy are nearly the only company the diary admits. He treats the confinement as a fate he has half chosen.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Fernando Pessoa: Lisbon in 5 passages from The Book of Disquiet, Arts and Soul, on Rua dos Douradores as the narrator's street",
+        "url": "https://www.artsoulgroup.com/en/blog/fernando-pessoa-lisbon-in-5-passages-from-the-book-of-disquiet/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rua dos Douradores, Toponimia de Lisboa, on the street's history and its role in the book",
+        "url": "https://toponimialisboa.wordpress.com/2015/11/20/rua-dos-douradores/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rua-da-prata",
+    "name": "Rua da Prata",
+    "progressLabel": "The grid",
+    "character": "soares",
+    "coords": [-9.1364, 38.71],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The street is named in the diary; sited at a representative point along Rua da Prata, one block west of Rua dos Douradores.",
+    "reference": "The Baixa streets around Rua dos Douradores",
+    "order": 2,
+    "note": "One of the straight, silversmith-named streets of the rebuilt lower town, running parallel to the narrator's own. He threads these near-identical blocks between his room and his desk, and the regularity of the grid becomes a mirror for the sameness of his days.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Disquiet Lisbon: literary representation as an experience of the city, Dialnet, on the Baixa grid in the book",
+        "url": "https://dialnet.unirioja.es/descarga/articulo/7430673.pdf"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rua da Prata, OpenStreetMap, for the street coordinates in the Santa Maria Maior district",
+        "url": "https://www.openstreetmap.org/search?query=Rua%20da%20Prata%2C%20Lisboa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rossio",
+    "name": "The Rossio",
+    "progressLabel": "The square",
+    "character": "soares",
+    "coords": [-9.13944, 38.71389],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pessoa names the Rossio; coordinates are the centre of the square, officially Praca de Dom Pedro IV.",
+    "reference": "The Rossio, at the head of the Baixa",
+    "order": 3,
+    "note": "The wide plaza that closes the top of the grid, with its cafe tables, fountains and passing crowd. The narrator sits and watches the small traffic of the city here, a spectator who would rather observe life than take part in it.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Fernando Pessoa: Lisbon in 5 passages from The Book of Disquiet, Arts and Soul",
+        "url": "https://www.artsoulgroup.com/en/blog/fernando-pessoa-lisbon-in-5-passages-from-the-book-of-disquiet/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rossio, Wikipedia, for the coordinates of the square",
+        "url": "https://en.wikipedia.org/wiki/Rossio"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "terreiro-do-paco",
+    "name": "Terreiro do Paco",
+    "progressLabel": "The riverside",
+    "character": "soares",
+    "coords": [-9.13639, 38.7075],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pessoa names the riverside square, today Praca do Comercio; coordinates are the centre of the plaza.",
+    "reference": "The riverside square where the Baixa meets the Tagus",
+    "order": 4,
+    "note": "The grand arcaded square where the lower town opens onto the water. The narrator crosses it toward the river at the end of the day, drawn out of the closed streets by the sudden width of sky and the smell of the estuary.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Disquiet Lisbon: literary representation as an experience of the city, Dialnet",
+        "url": "https://dialnet.unirioja.es/descarga/articulo/7430673.pdf"
+      },
+      {
+        "kind": "guide",
+        "ref": "Praca do Comercio, Wikipedia, for the coordinates of the riverside square",
+        "url": "https://en.wikipedia.org/wiki/Pra%C3%A7a_do_Com%C3%A9rcio"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cais-das-colunas",
+    "name": "Cais das Colunas",
+    "progressLabel": "The river",
+    "character": "soares",
+    "coords": [-9.1361, 38.7065],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The marble quay and its two columns on the south side of Terreiro do Paco; coordinates mark the steps at the river's edge.",
+    "reference": "The Tagus waterfront below Terreiro do Paco",
+    "order": 5,
+    "note": "The low marble landing and its pair of columns where the pavement runs down into the Tagus. The narrator comes to the waterfront to watch the light shift on the river and the ships stand out in the estuary, the recurring release from the office and the grid behind him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cais das Colunas, Wikipedia (Portuguese), on the marble quay at Terreiro do Paco",
+        "url": "https://pt.wikipedia.org/wiki/Cais_das_Colunas"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cais das Colunas, OpenStreetMap, for the coordinates of the steps at the river's edge",
+        "url": "https://www.openstreetmap.org/search?query=Cais%20das%20Colunas%2C%20Lisboa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

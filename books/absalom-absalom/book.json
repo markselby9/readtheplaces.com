@@ -1,0 +1,42 @@
+{
+  "id": "absalom-absalom",
+  "title": "Absalom, Absalom!",
+  "author": "William Faulkner",
+  "published": 1936,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-89.5192, 34.3665],
+  "zoom": 12,
+  "setting": {
+    "city": "Oxford",
+    "country": "US",
+    "note": "Faulkner's Yoknapatawpha County is drawn from the real Lafayette County, Mississippi, and its county seat, Jefferson, from Oxford, the town where Faulkner lived and is buried. This novel maps the rise and ruin of Thomas Sutpen: his plantation twelve miles out in the county, the town that watched him, and the graves he left. Much of the story is told and retold decades later, some of it from a cold room at Harvard, so the map runs from the courthouse square out into the county and once far north to Cambridge.",
+    "bbox": [-89.73, 34.14, -89.34, 34.57]
+  },
+  "rights": {
+    "originalWork": "In copyright. William Faulkner, first published 1936. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are drawn from the real Lafayette County that Faulkner renamed Yoknapatawpha, and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/40855/absalom-absalom-by-william-faulkner/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Absalom, Absalom!, William Faulkner (1936). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3324",
+    "note": "The raw clay red of the land Sutpen tore his hundred square miles out of, the colour of new-turned Mississippi earth. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sutpen": {
+      "name": "Thomas Sutpen",
+      "color": "#5C3A21"
+    },
+    "rosa": {
+      "name": "Rosa Coldfield",
+      "color": "#6B2D5C"
+    },
+    "quentin": {
+      "name": "Quentin Compson",
+      "color": "#2F5563"
+    }
+  }
+}

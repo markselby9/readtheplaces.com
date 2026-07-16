@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ringstrasse",
+    "name": "The Ringstrasse",
+    "progressLabel": "Part One",
+    "character": "ulrich",
+    "coords": [16.36889, 48.20306],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Musil names the Ringstrasse, the boulevard that follows the line of the old city walls; this marks a representative point on it by the court opera, a stretch he singles out.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The grand ring boulevard, laid out where the medieval walls once stood, frames the whole novel. Musil opens on its traffic and returns to it as the public face of a capital that mistakes ceremony for purpose. The point sits on the Opernring by the court opera house.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ringstrasse, Wikipedia, on the boulevard built along the former city walls",
+        "url": "https://en.wikipedia.org/wiki/Ringstra%C3%9Fe"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vienna State Opera, Wikipedia, for the coordinates on the Opernring",
+        "url": "https://en.wikipedia.org/wiki/Vienna_State_Opera"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hofburg",
+    "name": "The imperial Hofburg",
+    "progressLabel": "Part Two",
+    "character": "ulrich",
+    "coords": [16.36528, 48.20639],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Hofburg, the emperor's winter residence in the heart of Vienna, is named in the novel and stands where the map places it.",
+    "reference": "Part Two",
+    "order": 2,
+    "note": "The rambling imperial palace is the still centre the whole story orbits. The scheme that drives the plot exists to honour a jubilee of the aged emperor who lives here, an occasion the narrator lets the reader know the monarchy will not survive to celebrate.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hofburg, Wikipedia, on the imperial residence in central Vienna and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hofburg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ballhausplatz-foreign-ministry",
+    "name": "The Foreign Ministry, Ballhausplatz",
+    "progressLabel": "Part Two",
+    "character": "ulrich",
+    "coords": [16.3639, 48.2081],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the section chief Tuzzi at the imperial foreign ministry without giving a street; until 1918 that ministry sat at Ballhausplatz 2, which this marks.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The husband of the narrator's cousin is a senior official at the empire's foreign ministry, and the bureaucratic hush of his world sets the tone for the whole enterprise. The joint ministry of Austria-Hungary occupied the building on the Ballhausplatz, a short walk from the palace it served.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Ballhausplatz, Wikipedia, on the building that was the seat of the k.u.k. foreign minister until 1918, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Ballhausplatz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leinsdorf-palais",
+    "name": "Count Leinsdorf's palais",
+    "progressLabel": "Part Two",
+    "character": "ulrich",
+    "coords": [16.36256, 48.2099],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The count and his town palace are invented; the map anchors him to the aristocratic palais quarter around Bankgasse in the inner city, marked here by the Liechtenstein city palace.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The old conservative nobleman who nominally leads the patriotic scheme receives his callers in a grand town palace, forever unable to decide anything. Musil gives no address; the fitting ground is the cluster of aristocratic palais behind the palace, along streets like the Bankgasse.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Liechtenstein City Palace, Wikipedia, on the aristocratic palais on Bankgasse in the first district, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Liechtenstein_City_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "diotima-salon",
+    "name": "Diotima's salon",
+    "progressLabel": "Part Two",
+    "character": "ulrich",
+    "coords": [16.36917, 48.20861],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The salon is fictional and its address is never given; the map places it in the fashionable heart of the inner city, marked at the Graben, where such a society hostess would have received.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The narrator's cousin, whom he privately dubs Diotima, turns her drawing room into the headquarters of the patriotic scheme, gathering diplomats, generals, poets and cranks under one roof. The rooms are invented, but their world is the fashionable inner city around the Graben.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Graben, Vienna, Wikipedia, on the fashionable inner-city street, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Graben,_Vienna"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ulrich-garden-house",
+    "name": "Ulrich's little garden palais",
+    "progressLabel": "Part One",
+    "character": "ulrich",
+    "coords": [16.37667, 48.19694],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Musil describes the narrator renting a small palais with an overgrown garden but names no district; the map anchors it to the baroque garden-palace quarter along the Rennweg, marked here by the Schwarzenberg palace.",
+    "reference": "Part One",
+    "order": 6,
+    "note": "Returning to Vienna, the narrator takes a small run-down palace behind a neglected garden and resolves to spend a year taking stock of his life. The building is fictional; its character belongs to the district of baroque garden palaces on the Landstrasse side of the city, along the Rennweg.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palais Schwarzenberg, Wikipedia, on the baroque garden palace on the Rennweg, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Palais_Schwarzenberg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

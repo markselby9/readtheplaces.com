@@ -1,0 +1,128 @@
+[
+  {
+    "id": "mollys-flat-bloomsbury",
+    "name": "Molly's flat, Bloomsbury",
+    "progressLabel": "Free Women",
+    "character": "anna",
+    "coords": [-0.129, 51.5211],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel keeps the flat's address vague, calling it only a London flat. We site it in Bloomsbury, the district of writers, publishers and left-wing talk that the framing chapters evoke, as a representative point rather than a fixed door.",
+    "reference": "Free Women (framing narrative)",
+    "order": 1,
+    "note": "The book opens and keeps returning to two women alone in a flat: Anna, a novelist who has stopped writing, and her friend Molly, an actress. Their long conversations about men, politics and going slightly mad hold the whole structure together. Lessing never pins the flat to a street, but its world of books and lapsed causes belongs to literary Bloomsbury.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Golden Notebook, Wikipedia, on the framing narrative set in a shared London flat",
+        "url": "https://en.wikipedia.org/wiki/The_Golden_Notebook"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bloomsbury, London, Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bloomsbury"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "communist-party-king-street",
+    "name": "Communist Party HQ, 16 King Street",
+    "progressLabel": "The Red Notebook",
+    "character": "anna",
+    "coords": [-0.124, 51.5119],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The red notebook records Party work and Party offices in central London. The Communist Party of Great Britain's headquarters at 16 King Street, off the Covent Garden piazza, was the real building that scene rests on.",
+    "reference": "The Red Notebook",
+    "order": 2,
+    "note": "In the red notebook Anna sets down her life inside the Communist Party and her slow, painful loss of faith after the revelations of 1956. The real Party headquarters stood at 16 King Street in Covent Garden from 1921 until 1980, offices and a bookshop that were the London hub of British communism. The building is now a bank branch.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Communist Party of Great Britain, Wikipedia, on the King Street headquarters",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Great_Britain"
+      },
+      {
+        "kind": "guide",
+        "ref": "The New Communist Party of Britain, note on the 16 King Street party centre in Covent Garden",
+        "url": "http://www.newworker.org/ncpcentral/kingstreet.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "soho-espresso-bars-frith-street",
+    "name": "The Soho coffee bars, Frith Street",
+    "progressLabel": "Free Women",
+    "character": "anna",
+    "coords": [-0.13075, 51.51277],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sends its characters to cafes and coffee bars without fixing an address. We mark Frith Street in Soho, home of the Moka, London's first espresso bar, opened 1953, as a representative point for the milieu the book moves through.",
+    "reference": "Free Women and the blue notebook",
+    "order": 3,
+    "note": "Between the flat and the meetings, much of the book's London happens over coffee: the writers, film people and disenchanted comrades who fill Anna's days meet and argue in the cafes of the West End. Soho's espresso bars, led by the Moka on Frith Street, were the new social ground of exactly that late-1950s crowd.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Great Wen, history of the Moka at 29 Frith Street, London's first espresso bar (1953)",
+        "url": "https://greatwen.com/2011/11/09/william-burroughs-and-the-strange-demise-of-londons-first-espresso-bar/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Espresso Bar, Soho, London Museum, on the 1950s Soho coffee-bar scene",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-795216/espresso-bar-soho/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "annas-flat-warwick-road",
+    "name": "Anna's flat, Warwick Road",
+    "progressLabel": "The Golden Notebook",
+    "character": "anna",
+    "coords": [-0.2038, 51.4956],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Anna's own flat, where she lets rooms and where the American Saul Green lodges during the breakdown at the book's centre, is not given a street. We anchor it at Warwick Road in Earls Court, where Lessing herself lived and wrote in the 1950s, as a biographical point rather than a stated address.",
+    "reference": "The Golden Notebook (inner section)",
+    "order": 4,
+    "note": "As her marriage to the notebooks breaks down, Anna moves through a flat she shares with lodgers, above all the volatile writer Saul Green, whose affair with her drives the central crisis and the single gold notebook that follows. Lessing drew on her own lodger-filled London years; she was living on Warwick Road in Earls Court while writing the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Notable Abodes, record of Doris Lessing at 58 Warwick Road, Earls Court",
+        "url": "http://www.notableabodes.com/person-abode-details/13165/doris-lessing-author_58-warwick-road-earls-court-london"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Golden Notebook, Wikipedia, on the inner golden-notebook section and Saul Green",
+        "url": "https://en.wikipedia.org/wiki/The_Golden_Notebook"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mashopi-hotel-southern-rhodesia",
+    "name": "The Mashopi hotel, Southern Rhodesia",
+    "progressLabel": "The Black Notebook",
+    "character": "anna",
+    "coords": [30.4, -17.3833],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The black-notebook chapters are set in wartime Southern Rhodesia, far outside the London frame, so this is flagged as an excursion. The Mashopi hotel is invented; we place it near Banket in the old Lomagundi district, the farming country where Lessing grew up, as the kind of veld railway hotel she drew on.",
+    "reference": "The Black Notebook",
+    "order": 5,
+    "note": "The black notebook returns to Anna's youth in colonial Southern Rhodesia, where a group of young left-wing whites gather at a country hotel called Mashopi, drinking and arguing through the war years. These African chapters underlie the novel Anna once wrote and can no longer face. The hotel is fictional, set in the veld of what is now Zimbabwe, the region where Lessing spent her own childhood on a farm near Banket.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Doris Lessing, Wikipedia, on her childhood in the Lomagundi district of Southern Rhodesia",
+        "url": "https://en.wikipedia.org/wiki/Doris_Lessing"
+      },
+      {
+        "kind": "guide",
+        "ref": "Banket, Zimbabwe, Wikipedia, for the coordinates near Lessing's family farm",
+        "url": "https://en.wikipedia.org/wiki/Banket,_Zimbabwe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

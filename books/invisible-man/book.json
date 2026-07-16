@@ -1,0 +1,34 @@
+{
+  "id": "invisible-man",
+  "title": "Invisible Man",
+  "author": "Ralph Ellison",
+  "published": 1952,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.945, 40.808],
+  "zoom": 13.2,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "The narrator's Harlem: a stretch of Lenox Avenue and 125th Street where he speaks for the Brotherhood, sees an old couple evicted onto the pavement, and is finally swept into a night of fire and looting. The arc runs from a Southern college and a downtown paint works into the heart of Harlem and down to the forgotten cellar where a man who feels unseen retreats underground.",
+    "bbox": [-73.99, 40.79, -73.9, 40.83]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ralph Ellison, first published 1952. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/97362/invisible-man-by-ralph-ellison/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Invisible Man, Ralph Ellison (1952). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1F1B18",
+    "note": "The near-black of the coal cellar and of invisibility itself, the darkness the narrator lines with stolen light. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The narrator",
+      "color": "#8C5A00"
+    }
+  }
+}

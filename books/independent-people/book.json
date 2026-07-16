@@ -1,0 +1,34 @@
+{
+  "id": "independent-people",
+  "title": "Independent People",
+  "author": "Halldór Laxness",
+  "published": 1935,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-21.62, 64.185],
+  "zoom": 9.5,
+  "setting": {
+    "city": "Mosfellsbær",
+    "country": "IS",
+    "note": "A sheep farmer's war of attrition with the land itself, set on a haunted croft on the open moor. The farm is invented, so the map anchors it in the countryside Laxness knew as a boy, the Mosfellsdalur valley and the Mosfellsheiði heath east of Reykjavík, and runs out to the capital and the coastal market town that pull his family away from the moor.",
+    "bbox": [-22.05, 64.1, -21.4, 64.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Halldór Laxness, first published 1934-1935. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/98744/independent-people-by-halldor-laxness/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Independent People, Halldór Laxness (1934-1935). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#3A5A40",
+    "note": "The moss-green of the moor Bjartur breaks his life against. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "bjartur": {
+      "name": "Bjartur of Summerhouses",
+      "color": "#7A3B2E"
+    }
+  }
+}

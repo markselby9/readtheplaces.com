@@ -1,0 +1,127 @@
+[
+  {
+    "id": "kashubian-potato-field",
+    "name": "The potato field at Bissau",
+    "progressLabel": "Book One",
+    "character": "oskar",
+    "coords": [18.46086, 54.37069],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Bissau, in the Kashubian country west of the city; today it is Bysewo, a quarter of Gdańsk in the Kokoszki district. The pin marks that settlement, since the field itself is unmarked farmland.",
+    "reference": "Book One, \"The Wide Skirt\"",
+    "order": 1,
+    "note": "The story starts a generation before the narrator is born, with his grandmother sitting among the potato fires at the edge of a Kashubian field. A man on the run from the police shelters under her wide skirts, and in that hiding place the narrator's mother is conceived. The Kashubians are the old Slavic people of the land around Danzig, and the scene roots the whole book in that countryside.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bysewo, Polish Wikipedia, on the settlement's German name Bissau and its place in Gdańsk",
+        "url": "https://pl.wikipedia.org/wiki/Bysewo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bysewo, Mapcarta, for the settlement coordinates west of Gdańsk",
+        "url": "https://mapcarta.com/18549674"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "langfuhr-wrzeszcz",
+    "name": "Oskar's Langfuhr",
+    "progressLabel": "Book One",
+    "character": "oskar",
+    "coords": [18.617, 54.383],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Langfuhr, now the Gdańsk district of Wrzeszcz; the family's street, Labesweg, is invented, modelled on the Wrzeszcz street where Grass himself grew up. The pin marks the district centre.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "Langfuhr, a suburb of the city, is where the narrator spends his childhood above his parents' grocery shop, refusing to grow past the height of a three-year-old and beating a tin drum against the adult world. It is the German name for today's Wrzeszcz, the same neighbourhood where Grass was born, and much of the middle of the book plays out on its streets and in its flats and yards.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wrzeszcz, Wikipedia, on the district and its German name Langfuhr",
+        "url": "https://en.wikipedia.org/wiki/Wrzeszcz"
+      },
+      {
+        "kind": "guide",
+        "ref": "Günter Grass Society in Gdańsk, on Grass's Wrzeszcz childhood and the novel's setting",
+        "url": "http://grass-gdansk.org/en/gg/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "danzig-old-town",
+    "name": "The Old Town of Danzig",
+    "progressLabel": "Book One",
+    "character": "oskar",
+    "coords": [18.6482, 54.3497],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel moves through the inner city without fixing every scene to a street; the pin marks the Long Market, Długi Targ, as a representative point in the historic core where the theatre and the toy shop sit.",
+    "reference": "Book One",
+    "order": 3,
+    "note": "The old heart of the city is the stage for the narrator's stranger gifts: a voice that can shatter glass at a distance, first tried out against the windows of the municipal theatre, and the toy shop of a Jewish dealer who keeps him in fresh drums until the violence of the late 1930s destroys him. This is the tourist-postcard Danzig of gabled houses, now the rebuilt Main City of Gdańsk.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Długi Targ, Wikipedia, for the coordinates of Gdańsk's Long Market",
+        "url": "https://en.wikipedia.org/wiki/D%C5%82ugi_Targ"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Tin Drum, Wikipedia, on the novel's Danzig settings and characters",
+        "url": "https://en.wikipedia.org/wiki/The_Tin_Drum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "neufahrwasser-harbour",
+    "name": "The harbour breakwater at Neufahrwasser",
+    "progressLabel": "Book One",
+    "character": "oskar",
+    "coords": [18.6748, 54.40526],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Neufahrwasser, the harbour district now called Nowy Port; the pin marks the breakwater at the mouth of the Dead Vistula, the setting of the Good Friday scene.",
+    "reference": "Book One, \"Good Friday Fare\"",
+    "order": 4,
+    "note": "On a Good Friday outing to the harbour, the family watches a dockworker haul a horse's head from the water and pull live eels out of it, one of the book's most notorious images. The disgust of the scene helps push the narrator's mother into her final decline. Neufahrwasser, the harbour at the sea mouth of the river, is today the Gdańsk district of Nowy Port.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nowy Port, Wikipedia, on the district and its German name Neufahrwasser",
+        "url": "https://en.wikipedia.org/wiki/Nowy_Port"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Tin Drum, Wikipedia, on the harbour eel scene",
+        "url": "https://en.wikipedia.org/wiki/The_Tin_Drum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "polish-post-office",
+    "name": "The Polish Post Office",
+    "progressLabel": "Book One",
+    "character": "oskar",
+    "coords": [18.65694, 54.355],
+    "placeCertainty": "explicit",
+    "certaintyNote": "A real building on what is now Plac Obrońców Poczty Polskiej, defended in September 1939 and today the Museum of the Polish Post Office. The coordinates are the building itself.",
+    "reference": "Book One, \"The Polish Post Office\"",
+    "order": 5,
+    "note": "The narrator is caught inside the Polish Post Office on 1 September 1939 when SS troops attack it, one of the first actions of the Second World War. The defenders hold out for hours before they are forced to surrender, and many are later shot. The building survives on the square now named for its defenders and houses a museum to them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Museum of the Polish Post Office, Museum of Gdańsk, on the building and its defence",
+        "url": "https://muzeumgdansk.pl/en/oddzialy-muzeum/museum-of-the-polish-post-office/"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Polish Post Office (Danzig), Wikipedia, for the building coordinates and 1939 history",
+        "url": "https://en.wikipedia.org/wiki/Polish_Post_Office_(Danzig)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

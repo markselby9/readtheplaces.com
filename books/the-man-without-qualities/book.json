@@ -1,0 +1,35 @@
+{
+  "id": "the-man-without-qualities",
+  "title": "The Man Without Qualities",
+  "author": "Robert Musil",
+  "published": 1930,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [16.367, 48.205],
+  "zoom": 13,
+  "setting": {
+    "city": "Vienna",
+    "country": "AT",
+    "date": "1913",
+    "note": "Musil's Vienna is the capital of a monarchy he nicknames Kakania, in its last year before the war that will end it. A detached young man drifts through the salons and ministries of an empire busy planning a grand patriotic jubilee that history will never let it hold. The map runs from the Ringstrasse and the imperial Hofburg through the palais quarter of the inner city out to the baroque garden districts where he keeps a small house of his own.",
+    "bbox": [16.34, 48.18, 16.4, 48.22]
+  },
+  "rights": {
+    "originalWork": "In copyright. Robert Musil, first published 1930-1943. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/117742/the-man-without-qualities-by-robert-musil/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Man Without Qualities, Robert Musil (1930-1943). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#7A5A12",
+    "note": "The dark side of imperial ochre, the Habsburg yellow of the palace walls under a fading empire. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ulrich": {
+      "name": "Ulrich",
+      "color": "#3A5470"
+    }
+  }
+}

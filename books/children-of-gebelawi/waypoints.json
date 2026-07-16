@@ -1,0 +1,132 @@
+[
+  {
+    "id": "the-alley-gamaliya",
+    "name": "The alley, Gamaliya",
+    "progressLabel": "The alley",
+    "character": "gabalawi",
+    "coords": [31.2654979, 30.048901],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The alley of the novel is invented and never mapped to a named street; Mahfouz drew it from the Gamaliya quarter where he was born and raised, so this marks the heart of that district.",
+    "reference": "Prologue",
+    "order": 1,
+    "note": "The whole book happens in one cramped alley: its coffee house, its handcarts, its poor crowded against the walls, and the strongmen who bully them. Mahfouz assembled it from the Gamaliya of his childhood, one of the oldest quarters of Islamic Cairo, and the alley's daily life is that district's life pushed into allegory.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "El Gamaliya, the historic quarter of Islamic Cairo, for the district location",
+        "url": "https://elevation.maplogs.com/poi/el_gamaliya_cairo_governorate_egypt.566247.html"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Naguib Mahfouz, Wikipedia, on his birth and upbringing in the Gamaliya quarter near al-Husayn",
+        "url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gabalawi-great-house-muqattam",
+    "name": "Gabalawi's great house, below the Muqattam",
+    "progressLabel": "The ancestor",
+    "character": "gabalawi",
+    "coords": [31.2833, 30.0333],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The great house and its walled garden are fictional. The book sets them at the head of the alley, on the desert edge beneath the Muqattam hills, so this marks the hills that stand over the old city to the east.",
+    "reference": "Prologue; Adham",
+    "order": 2,
+    "note": "At the top of the alley stands the mansion of the founding ancestor, shut behind a high wall with a garden his descendants can only imagine. From here he divides an endowment meant to keep them all, and from here his son Adham is cast out for disobedience, the alley's version of the fall. Mahfouz places the house where the built quarter meets the bare hills of the Muqattam.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mokattam (Muqattam) hills, Cairo, Wikipedia, for the hills at the eastern edge of the old city",
+        "url": "https://en.wikipedia.org/wiki/Mokattam"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Children of the Alley, Wikipedia, on the ancestor's house and endowment framing the allegory",
+        "url": "https://en.wikipedia.org/wiki/Children_of_the_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-husayn-mosque-district",
+    "name": "The al-Husayn mosque district",
+    "progressLabel": "The quarter",
+    "character": "gabalawi",
+    "coords": [31.26306, 30.04778],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel keeps its streets fictional and does not name the mosque, but the alley sits against the real religious heart of the quarter; this marks the mosque of Sayyidna al-Husayn, which anchors the district Mahfouz drew on.",
+    "reference": "The alley (setting)",
+    "order": 3,
+    "note": "The alley opens onto the crowded devotional heart of old Cairo, the square and mosque of al-Husayn, where Mahfouz set much of his own early life. The piety and the processions of this quarter feed straight into the book's argument about faith, justice and the poor.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Al-Hussein Mosque, Cairo, Wikipedia, for the mosque coordinates",
+        "url": "https://en.wikipedia.org/wiki/Al-Hussein_Mosque"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bayn-al-qasrayn-muizz-street",
+    "name": "Bayn al-Qasrayn, al-Muizz street",
+    "progressLabel": "The quarter",
+    "character": "gabalawi",
+    "coords": [31.2615, 30.0505],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book names no street, but its alley branches off the medieval spine of the quarter; this marks Bayn al-Qasrayn on al-Muizz street, the historic thoroughfare running through the district Mahfouz mapped his fiction onto.",
+    "reference": "The alley (setting)",
+    "order": 4,
+    "note": "The great processional street of Fatimid and Mamluk Cairo runs through the quarter the alley hangs off. Mahfouz would later name a whole novel for this stretch, Bayn al-Qasrayn; here it stands for the grand public world just beyond the alley's mouth, the city the alley's poor are shut out of.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bayn al-Qasrayn, Wikipedia, for the location on al-Muizz street",
+        "url": "https://en.wikipedia.org/wiki/Bayn_al-Qasrayn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bayt-al-suhaymi-courtyard-house",
+    "name": "Bayt al-Suhaymi, Darb al-Asfar",
+    "progressLabel": "The great house",
+    "character": "gabalawi",
+    "coords": [31.2625, 30.05222],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "No real house is named in the novel. This marks Bayt al-Suhaymi, the grand Ottoman courtyard mansion in the quarter, as a standing example of the walled-house-and-garden type the ancestor's mansion belongs to.",
+    "reference": "Prologue (the great house)",
+    "order": 5,
+    "note": "A merchant's mansion turned in on a private courtyard garden, hidden from the lane by a blank wall: the kind of grand old house, common in the quarter, that lies behind the novel's image of the ancestor sealed away with his garden while the alley goes without. Bayt al-Suhaymi survives on Darb al-Asfar as a preserved example.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bayt Al-Suhaymi, Wikipedia, for the courtyard house and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bayt_Al-Suhaymi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bab-al-futuh-gate",
+    "name": "Bab al-Futuh, the northern gate",
+    "progressLabel": "The desert edge",
+    "character": "gabalawi",
+    "coords": [31.2634222, 30.0555278],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The gate is not named in the novel. It marks the real northern edge of the walled old city, near where the built quarter gives way to the open ground the book keeps at the alley's back.",
+    "reference": "The alley (setting)",
+    "order": 6,
+    "note": "The great Fatimid gate closes the northern end of al-Muizz street, where the dense quarter meets the open ground beyond the walls. It fixes the edge of Mahfouz's world, the boundary between the crowded alley and the empty desert stretching toward the ancestor's house.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bab al-Futuh, Wikipedia, for the gate coordinates at the north of the old city",
+        "url": "https://en.wikipedia.org/wiki/Bab_al-Futuh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

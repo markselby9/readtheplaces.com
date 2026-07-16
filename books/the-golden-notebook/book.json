@@ -1,0 +1,35 @@
+{
+  "id": "the-golden-notebook",
+  "title": "The Golden Notebook",
+  "author": "Doris Lessing",
+  "published": 1962,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [-0.127, 51.521],
+  "zoom": 12.6,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "date": "1957",
+    "note": "The London of a divorced writer and ex-Communist in the late 1950s: talk in a Bloomsbury flat, the Party's real offices off Covent Garden, and the espresso bars of Soho where the literary and political left argued out the aftermath of 1956. The long African chapters, Anna's Rhodesian past in the black notebook, sit outside this frame and are marked apart.",
+    "bbox": [-0.24, 51.47, -0.1, 51.55]
+  },
+  "rights": {
+    "originalWork": "In copyright. Doris Lessing, first published 1962. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.co.uk/products/the-golden-notebook-doris-lessing",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Golden Notebook, Doris Lessing (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#9E1B14",
+    "note": "The red of the notebook Anna keeps for her years in the Communist Party, the political thread that runs through her London. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "anna": {
+      "name": "Anna Wulf",
+      "color": "#1F5C8A"
+    }
+  }
+}

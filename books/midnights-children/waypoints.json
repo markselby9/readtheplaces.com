@@ -1,0 +1,128 @@
+[
+  {
+    "id": "methwolds-estate-warden-road",
+    "name": "Methwold's Estate, Warden Road",
+    "progressLabel": "Book One",
+    "character": "saleem",
+    "coords": [72.807, 18.965],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Methwold's Estate is invented, four villas named for European palaces that a departing Englishman sells off at the stroke of Independence. Rushdie grew up at Windsor Villa on Warden Road, now Bhulabhai Desai Road, and that gated enclave on the Malabar Hill rise is the estate's model. Sited on Warden Road near Kemps Corner as a representative point.",
+    "reference": "Book One, Methwold",
+    "order": 1,
+    "note": "The hilltop cluster of villas where the narrator's family buys a home just as the British leave, and where he is raised among the departing empire's leftover cocktail hours and pianolas. It stands in for the Warden Road enclave of Rushdie's own childhood, high above the city on the Malabar Hill slope.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Week, on Rushdie's childhood home Windsor Villa on Warden Road and the Warden Road enclave behind Methwold's Estate",
+        "url": "https://www.theweek.in/theweek/specials/2023/12/23/rushdie-is-emotionally-attached-to-his-ancestral-homes-in-mumbai-and-solan.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bhulabhai Desai Road (formerly Warden Road), Wikipedia, for the street and its Breach Candy setting",
+        "url": "https://en.wikipedia.org/wiki/Bhulabhai_Desai_Road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cathedral-john-connon-school",
+    "name": "Cathedral and John Connon School, Fort",
+    "progressLabel": "Book Two",
+    "character": "saleem",
+    "coords": [72.8328, 18.9362],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Cathedral School as the narrator's school; it is a real institution in the Fort district near Flora Fountain.",
+    "reference": "Book Two",
+    "order": 2,
+    "note": "The old Anglo-Indian day school where the narrator is a pupil, sitting his lessons and enduring the cruelties of the classroom while his secret gift takes hold. The Cathedral and John Connon School is real, founded in the nineteenth century in the Fort, a short walk from Flora Fountain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cathedral and John Connon School, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cathedral_and_John_Connon_School"
+      },
+      {
+        "kind": "guide",
+        "ref": "latitude.to, for the school's coordinates in Fort, Mumbai",
+        "url": "https://latitude.to/articles-by-country/in/india/42567/the-cathedral-john-connon-school"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "breach-candy-swimming-bath",
+    "name": "Breach Candy Swimming Bath",
+    "progressLabel": "Book Two",
+    "character": "saleem",
+    "coords": [72.80361, 18.97176],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Breach Candy pool is named in the novel; it is a real club a few minutes down the hill from the Warden Road villas, with its famous outdoor pool cut in the shape of undivided British India.",
+    "reference": "Book Two",
+    "order": 3,
+    "note": "The whites-only club pool on the seafront below the estate, whose outdoor bath was dug in the outline of the map of British India, so a swimmer floats across a shrunken subcontinent. In a book obsessed with the accidents of Partition, a pool shaped like the old empire is exactly the kind of joke the city offers up on its own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Breach Candy, Wikipedia, on the India-shaped pool and its colonial history",
+        "url": "https://en.wikipedia.org/wiki/Breach_Candy"
+      },
+      {
+        "kind": "guide",
+        "ref": "Breach Candy Swimming Bath Trust listing, for the club's coordinates on Bhulabhai Desai Marg",
+        "url": "https://indiapl.com/maharashtra/breach-candy-swimming-bath-trust-19573"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "girgaum-chowpatty-marine-drive",
+    "name": "Girgaum Chowpatty and Marine Drive",
+    "progressLabel": "Book Two",
+    "character": "saleem",
+    "coords": [72.8115, 18.9543],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Chowpatty beach and the Marine Drive sea wall are named landmarks of the novel's Bombay; sited at Girgaum Chowpatty at the north end of Marine Drive.",
+    "reference": "Book Two",
+    "order": 4,
+    "note": "The public beach and the curving seafront where the city gathers, holds its political rallies, and lets its festivals spill down to the water. Against the private hush of the hillside estate, Chowpatty is where the narrator's Bombay becomes a crowd, loud and many-headed and impossible to hold in one frame.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Girgaon Chowpatty, Wikipedia, on the public beach at the end of Marine Drive",
+        "url": "https://en.wikipedia.org/wiki/Girgaon_Chowpatty"
+      },
+      {
+        "kind": "guide",
+        "ref": "latlong.net, for the Girgaum Chowpatty coordinates",
+        "url": "https://www.latlong.net/place/girgaum-chowpatty-mumbai-india-708.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "srinagar-dal-lake-kashmir",
+    "name": "Dal Lake, Srinagar",
+    "progressLabel": "Book One",
+    "character": "saleem",
+    "coords": [74.8667, 34.1167],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kashmir and Srinagar are named as the setting of the family's opening chapter; sited at Dal Lake. This lies far north of the Bombay frame, so it is flagged as outside the setting.",
+    "reference": "Book One, The Perforated Sheet",
+    "order": 5,
+    "note": "The saga opens a generation before the narrator, in the Kashmir valley, where his grandfather the doctor first examines his future wife through a hole in a sheet. It is the family's point of origin, deliberately far from the Bombay where the rest of the story unfolds, which is why it sits outside this map's frame.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dal Lake, Wikipedia, for the Srinagar location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Dal_Lake"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Midnight's Children, Encyclopedia.com, on the Kashmir opening of the narrative",
+        "url": "https://www.encyclopedia.com/arts/educational-magazines/midnights-children"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
