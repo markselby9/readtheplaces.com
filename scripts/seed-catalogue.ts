@@ -527,6 +527,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Archbishop Latour’s New Mexico, from the plaza and the cathedral he raises at Santa Fe to the sky-city of Ácoma and the desert missions. Cather draws the real Southwest of the 1850s, and it brings her, and a new American region, into the atlas.',
   },
+  {
+    title: 'Robbery Under Arms',
+    author: 'Rolf Boldrewood',
+    published: 1888,
+    city: 'Bathurst',
+    country: 'au',
+    ordering: 'chapter',
+    why: 'Colonial New South Wales: the Turon goldfields, the cattle runs, and the Terrible Hollow where the Marston boys hide out, on the real bushranging country around Bathurst. Boldrewood drew the diggings and the bush from life, and it brings Australia, a whole continent, into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

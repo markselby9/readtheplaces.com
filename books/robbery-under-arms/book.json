@@ -1,0 +1,23 @@
+{
+  "id": "robbery-under-arms",
+  "title": "Robbery Under Arms",
+  "author": "Rolf Boldrewood",
+  "published": 1888,
+  "orderingKey": "chapter",
+  "center": [149.5804, -33.4166],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Bathurst",
+    "country": "AU",
+    "note": "Colonial New South Wales: the Turon goldfields, the cattle runs, and the Terrible Hollow where the Marston boys hide out, on the real bushranging country around Bathurst. Boldrewood drew the diggings and the bush from life, and it brings Australia, a whole continent, into the atlas.",
+    "bbox": [149.42, -33.577, 149.74, -33.257]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Rolf Boldrewood published this in 1888.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/rolf-boldrewood/robbery-under-arms",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Rolf Boldrewood, Robbery Under Arms (1888)."
+  }
+}
