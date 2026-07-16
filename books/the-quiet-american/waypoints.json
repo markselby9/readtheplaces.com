@@ -1,0 +1,108 @@
+[
+  {
+    "id": "continental-hotel",
+    "name": "The terrace of the Continental",
+    "progressLabel": "Saigon",
+    "character": "fowler",
+    "coords": [106.70264, 10.77683],
+    "placeCertainty": "explicit",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The open terrace of the Hotel Continental, at the top of the rue Catinat by the theatre square, is where Fowler drinks and watches the city, and where he first takes the measure of Pyle. The 1880 hotel is a real fixture of colonial Saigon, its arcaded front still standing on Đồng Khởi, and it anchors the small downtown world the whole novel turns in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Continental Saigon, 132-134 Đồng Khởi; historic-hotel and listing sources for the address and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Continental_Saigon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rue-catinat",
+    "name": "The rue Catinat, now Đồng Khởi",
+    "progressLabel": "Saigon",
+    "character": "fowler",
+    "coords": [106.7048, 10.7746],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The street is named repeatedly in the novel under its colonial name, rue Catinat; it was renamed Tự Do and then Đồng Khởi after 1975. This marks a representative point along the real street between the theatre and the river, not a single address.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The rue Catinat is the short, smart spine of French Saigon, running from the cathedral down to the river past the shops, cafés and the milk bar. Fowler walks it constantly, and its shopfronts and rickshaws are the everyday backdrop against which the political violence keeps intruding.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Đồng Khởi Street (formerly rue Catinat), Ho Chi Minh City, for the street's identity and route",
+        "url": "https://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Kh%E1%BB%9Fi_Street"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative mid-street point between the opera house and the river; the street runs the length of the setting"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "place-garnier-opera",
+    "name": "The square by the opera house",
+    "progressLabel": "The bombing",
+    "character": "fowler",
+    "coords": [106.70295, 10.77646],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel calls the square the Place Garnier; it is the real square in front of the Saigon Opera House (the Municipal Theatre) on what is now Lam Sơn Square. The exact café/milk bar of the blast is not identifiable, so the pin sits on the theatre square itself.",
+    "reference": "Part Three",
+    "order": 3,
+    "note": "The square in front of the opera house is where a bomb goes off at mid-morning, killing civilians in the crowd, in the scene that turns Fowler decisively against Pyle. The real 1898 theatre still faces its plaza at the head of Đồng Khởi, the pivot of the downtown Fowler moves through.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ho Chi Minh City Opera House (Municipal Theatre), Lam Sơn Square, for the building and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Opera_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hotel-majestic",
+    "name": "The Majestic, on the river",
+    "progressLabel": "Saigon",
+    "character": "fowler",
+    "coords": [106.7063, 10.77271],
+    "placeCertainty": "explicit",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "At the foot of the rue Catinat, where the street reaches the water, the Hotel Majestic looks out over the Saigon River and the shipping. The 1925 hotel is a real landmark of the quarter, and it marks the seam between the enclosed colonial downtown and the river traffic that carries the wider war.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Majestic, Saigon, 1 Đồng Khởi, for the riverside location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Majestic_(Saigon)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saigon-river",
+    "name": "The Saigon River waterfront",
+    "progressLabel": "Saigon",
+    "character": "fowler",
+    "coords": [106.7078, 10.772],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The river is named throughout; this marks a representative point on the Bạch Đằng quay off the foot of Đồng Khởi, not a single named landing.",
+    "reference": "Part Four",
+    "order": 5,
+    "note": "The river quay is where Fowler waits and watches, and where the currents of the city and its war finally close over the story. The Bạch Đằng waterfront along the Saigon River is real and still runs below the old downtown, the edge of the small world the novel keeps returning to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Saigon River and the Bạch Đằng waterfront, District 1, Ho Chi Minh City",
+        "url": "https://en.wikipedia.org/wiki/Saigon_River"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative point on the riverfront quay at the foot of Đồng Khởi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
