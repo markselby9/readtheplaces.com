@@ -52,19 +52,6 @@ const schema = [websiteSchema(books.length, cities.length)];
     </header>
 
     <main id="main">
-      <form class="search" role="search" onsubmit="return false">
-        <label for="book-search">Find a book</label>
-        <input
-          id="book-search"
-          type="search"
-          placeholder="Title, author, city or country…"
-          autocomplete="off"
-          spellcheck="false"
-          aria-describedby="search-count"
-        />
-        <p id="search-count" class="search-count" role="status" aria-live="polite"></p>
-      </form>
-
       <p class="no-results" hidden>
         Nothing matches that. Try a city or an author, or <a href="#open">browse the open list</a>.
       </p>
@@ -157,13 +144,14 @@ const schema = [websiteSchema(books.length, cities.length)];
 
 <script>
   // Progressive enhancement: without this, the page is the full list. With it,
-  // the box narrows the grids and the city list live. No framework, no request.
+  // the nav box narrows the grids and the city list live. No framework, no
+  // request. The input lives in the site nav (see Base.astro), so it also shows
+  // on other pages; there it just GET-submits to /?q=… and this page applies it.
   const input = document.getElementById('book-search') as HTMLInputElement | null;
-  if (input) {
-    document.body.classList.add('js');
+  const sections = [...document.querySelectorAll<HTMLElement>('[data-search-section]')];
+  if (input && sections.length) {
     const count = document.getElementById('search-count')!;
     const empty = document.querySelector<HTMLElement>('.no-results')!;
-    const sections = [...document.querySelectorAll<HTMLElement>('[data-search-section]')];
     const items = [...document.querySelectorAll<HTMLElement>('[data-search]')];
     const bookCount = document.querySelectorAll('.books [data-search]').length;
 
@@ -184,50 +172,18 @@ const schema = [websiteSchema(books.length, cities.length)];
       count.textContent = q.length === 0 ? '' : `${shownBooks} of ${bookCount} books`;
     };
 
+    // Carry a query in from another page's nav search (/?q=…).
+    const initial = new URLSearchParams(location.search).get('q');
+    if (initial) input.value = initial;
+
+    // Here the box filters live, so Enter should not reload the page.
+    input.form?.addEventListener('submit', (e) => e.preventDefault());
     input.addEventListener('input', apply);
+    if (input.value) apply();
   }
 </script>
 
 <style>
-  .search {
-    display: none;
-    margin-top: var(--s6);
-  }
-  :global(body.js) .search {
-    display: block;
-  }
-  .search label {
-    display: block;
-    margin-bottom: var(--s2);
-    font-family: var(--sans);
-    font-size: 0.62rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-  }
-  .search input {
-    width: 100%;
-    max-width: 32rem;
-    padding: var(--s3) var(--s4);
-    font-family: var(--sans);
-    font-size: var(--step-0);
-    color: var(--ink);
-    background: var(--paper-2);
-    border: 1px solid var(--rule);
-    border-radius: 0;
-  }
-  .search input:focus-visible {
-    outline: 2px solid var(--accent);
-    outline-offset: 2px;
-    border-color: var(--accent);
-  }
-  .search-count {
-    min-height: 1.3em;
-    margin-top: var(--s2);
-    font-family: var(--sans);
-    font-size: var(--step--1);
-    color: var(--ink-3);
-  }
   .no-results {
     margin-top: var(--s6);
     font-family: var(--sans);

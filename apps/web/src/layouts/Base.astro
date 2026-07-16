@@ -67,6 +67,20 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
     <header class="site-nav">
       <div class="wrap">
         <a class="brand" href="/">Read the Places</a>
+        <form class="nav-search" role="search" action="/" method="get">
+          <input
+            id="book-search"
+            name="q"
+            type="search"
+            aria-label="Search books by title, author, or city"
+            placeholder="Search books…"
+            autocomplete="off"
+            spellcheck="false"
+            aria-describedby="search-count"
+            enterkeyhint="search"
+          />
+          <span id="search-count" class="search-count" role="status" aria-live="polite"></span>
+        </form>
         <nav aria-label="Primary">
           <a href="/#mapped">Books</a>
           <a href="/#by-city">Cities</a>
