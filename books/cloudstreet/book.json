@@ -1,0 +1,35 @@
+{
+  "id": "cloudstreet",
+  "title": "Cloudstreet",
+  "author": "Tim Winton",
+  "published": 1991,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [115.84, -31.955],
+  "zoom": 12.4,
+  "setting": {
+    "city": "Perth",
+    "country": "AU",
+    "date": "1943-1963",
+    "note": "Two rural families, the Pickles and the Lambs, wash up together in a big rambling house in working-class inner Perth and share it for twenty years. The map runs from the Lambs' lost country home in the south-west, into the shared house and its shop in the western suburbs, out to the wartime city on Perth Water, and always back to the Swan River, where a boy drowns at the start and is made whole at the end.",
+    "bbox": [115.7, -32.05, 115.95, -31.88]
+  },
+  "rights": {
+    "originalWork": "In copyright. Tim Winton, first published 1991. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.com.au/books/cloudstreet-9781760890186",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Cloudstreet, Tim Winton (1991). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1C6B5E",
+    "note": "The green-brown of the Swan River, the water that runs through the whole book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "fish": {
+      "name": "Fish Lamb",
+      "color": "#245A86"
+    }
+  }
+}
