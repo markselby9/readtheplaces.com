@@ -251,7 +251,7 @@ const CATALOGUE: Seed[] = [
     city: 'Edinburgh',
     country: 'gb',
     ordering: 'chapter',
-    why: 'Begins in Edinburgh and crosses the Highlands after a real murder, the Appin killing of 1752. Stevenson tracked the route on maps and it can be walked.',
+    why: 'Begins near Edinburgh, at the House of Shaws by Cramond, then crosses the Highlands after a real murder, the Appin killing of 1752. Stevenson tracked the route on maps and it can be walked.',
   },
   {
     title: 'Heart of Darkness',
