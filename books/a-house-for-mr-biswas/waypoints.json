@@ -1,0 +1,152 @@
+[
+  {
+    "id": "caroni-sugar-country",
+    "name": "The cane country of Caroni",
+    "progressLabel": "Part One",
+    "character": "biswas",
+    "coords": [-61.38482, 10.60734],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Naipaul sets the birth and childhood in the Caroni sugar district but names no single estate, so this marks Caroni village, in the heart of the belt.",
+    "reference": "Prologue and Part One, opening chapters",
+    "order": 1,
+    "note": "The story begins with Biswas born into poverty on a sugar estate in rural Caroni, in a family of Trinidadian Indians tied to the cane. An early loss scatters the household and sends him drifting, without land or trade of his own, toward the world of shops and towns.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Caroni Village, Trinidad, coordinates and its place in the sugar belt",
+        "url": "https://www.citypopulation.de/en/trinidad/admin/tunapuna_piarco/3327__caroni_village/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Caroni County, Wikipedia, on the district's sugar history",
+        "url": "https://en.wikipedia.org/wiki/Caroni_County"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "arwacas-chaguanas",
+    "name": "Arwacas (Chaguanas)",
+    "progressLabel": "Part One",
+    "character": "biswas",
+    "coords": [-61.4167, 10.5167],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's market town of Arwacas is not on any map; it is Naipaul's fictional name for Chaguanas, the central Trinidad town where he was born. This marks the real town centre.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "As a young sign-painter Biswas comes to the busy market town the book calls Arwacas, and it is here his life turns. The town is Naipaul's reworking of Chaguanas, his own birthplace, a commercial hub of the sugar belt with a large Indian community.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Chaguanas, Wikipedia, on the town as the model for the novel's Arwacas",
+        "url": "https://en.wikipedia.org/wiki/Chaguanas"
+      },
+      {
+        "kind": "guide",
+        "ref": "Chaguanas, Trinidad, coordinates",
+        "url": "https://www.geodatos.net/en/coordinates/trinidad-and-tobago/chaguanas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hanuman-house",
+    "name": "Hanuman House (the Lion House)",
+    "progressLabel": "Part One",
+    "character": "biswas",
+    "coords": [-61.4108, 10.5158],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Hanuman House is invented, but it is widely taken from the Lion House on the Chaguanas Main Road, the Capildeo family home where Naipaul was born. This marks that surviving building.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Biswas marries into the Tulsis and is drawn into their sprawling compound, a fortress of a house ruled by matriarch and clan where he is one dependent among many. The model is the Lion House, Naipaul's grandfather's home on the Chaguanas Main Road, whose stone lions the novel recasts as the monkey-god Hanuman.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "The Lion House, National Trust of Trinidad and Tobago, on the house and its link to the novel",
+        "url": "https://nationaltrust.tt/location/the-lion-house/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Chaguanas, Wikipedia, on the Lion House as the model for Hanuman House",
+        "url": "https://en.wikipedia.org/wiki/Chaguanas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "port-of-spain",
+    "name": "Port of Spain",
+    "progressLabel": "Part Two",
+    "character": "biswas",
+    "coords": [-61.51889, 10.66668],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Naipaul names the capital directly. This marks the centre of Port of Spain.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Seeking work and independence, Biswas moves to the capital and finds a footing as a newspaperman on a city daily, sharpening his ambition for a home the Tulsis cannot dominate. Port of Spain is the real capital of Trinidad, and the arena for his years of striving.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Port of Spain, coordinates",
+        "url": "https://latitudelongitude.org/tt/port-of-spain/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Port of Spain, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Port_of_Spain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-james",
+    "name": "St James",
+    "progressLabel": "Part Two",
+    "character": "biswas",
+    "coords": [-61.5335, 10.674],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places the final house in St James, a real western district of Port of Spain. This marks the district centre.",
+    "reference": "Part Two, closing chapters",
+    "order": 5,
+    "note": "The last stretch of the book settles in St James, a residential quarter on the western edge of Port of Spain. It is here, at the end of his striving, that Biswas at last takes on a house of his own, mortgaged, flawed and hard-won.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St James, Port of Spain, district and coordinates",
+        "url": "https://mapcarta.com/19493236"
+      },
+      {
+        "kind": "guide",
+        "ref": "Port of Spain, Wikipedia, on the St James district",
+        "url": "https://en.wikipedia.org/wiki/Port_of_Spain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sikkim-street-house",
+    "name": "The house on Sikkim Street",
+    "progressLabel": "Part Two",
+    "character": "biswas",
+    "coords": [-61.5342, 10.6748],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel gives the house a Sikkim Street address in St James; no such street is verifiable on the map, so this marks a representative point within the St James district it names.",
+    "reference": "Part Two, final chapters",
+    "order": 6,
+    "note": "The house Biswas finally buys stands on the book's Sikkim Street in St James, a cramped and imperfect place run up by a shady builder. It is the goal of the whole novel: a roof that is his own rather than the family's, the small, costly measure of a life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St James, Port of Spain, the district named for the house",
+        "url": "https://mapcarta.com/19493236"
+      },
+      {
+        "kind": "inference",
+        "ref": "Sikkim Street placed within the real St James district; the street itself is the novel's invention",
+        "url": "https://en.wikipedia.org/wiki/A_House_for_Mr_Biswas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
