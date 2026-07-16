@@ -1,0 +1,142 @@
+[
+  {
+    "id": "marengo-home-for-the-aged",
+    "name": "The home for the aged, Marengo",
+    "progressLabel": "Part One",
+    "character": "meursault",
+    "coords": [2.4138, 36.5126],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Camus names Marengo, but the specific home is not identified, so this marks the centre of the town, renamed Hadjout after independence.",
+    "reference": "Part One, chapter 1",
+    "order": 1,
+    "note": "The novel opens with the death of the narrator's mother and a bus ride inland to the home for the aged where she had been living. The town, French-named Marengo in the colonial period, is today's Hadjout, about eighty kilometres west of Algiers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hadjout, Wikipedia, on the town's colonial name and its role in the novel",
+        "url": "https://en.wikipedia.org/wiki/Hadjout"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Stranger: Analysis of Setting, EBSCO Research Starters",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/stranger-analysis-setting"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "belcourt-quarter",
+    "name": "Meursault's quarter, Belcourt",
+    "progressLabel": "Part One",
+    "character": "meursault",
+    "coords": [3.06222, 36.75361],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Camus never gives Meursault an address, but the poor European quarter he describes matches Belcourt, the district where Camus himself grew up; sited at the district centre, now Belouizdad.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "Between the funeral and the killing, the narrator's ordinary life plays out in a cramped flat and on a quiet Sunday street in a working-class quarter of Algiers. The district reads as Belcourt, the same neighbourhood where Camus spent his own childhood.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Albert Camus Society biography, on the family flat on the rue de Lyon in Belcourt",
+        "url": "https://www.camus-society.com/camus-bio-1"
+      },
+      {
+        "kind": "guide",
+        "ref": "Belouizdad, Algiers, Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Belouizdad,_Algiers"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "port-of-algiers-harbour",
+    "name": "The harbour of Algiers",
+    "progressLabel": "Part One",
+    "character": "meursault",
+    "coords": [3.0667, 36.7667],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sets the swims and the shipping-office errands by the water without naming a spot, so this marks the working port of Algiers as a representative point.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Much of Part One turns on the sea: a swim at the harbour baths where the narrator meets a young woman, and the routine of a clerk in a maritime firm. The port of Algiers anchors these everyday scenes before the story darkens.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Stranger: Analysis of Setting, EBSCO Research Starters",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/stranger-analysis-setting"
+      },
+      {
+        "kind": "guide",
+        "ref": "Port of Algiers, port information, for the harbour coordinates",
+        "url": "https://www.cogoport.com/en-IN/knowledge-center/resources/port-info/algiers-dzalg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "beach-west-of-algiers",
+    "name": "The beach beyond the bay",
+    "progressLabel": "Part One",
+    "character": "meursault",
+    "coords": [2.84389, 36.76111],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Camus never names the beach; the murder drew on a 1939 brawl at Bouisseville near Oran, but the book's own geography puts it a short trip west of Algiers, so this marks a representative strand at Sidi Fredj.",
+    "reference": "Part One, chapter 6",
+    "order": 4,
+    "note": "A weekend at a friend's beach cabin ends with the narrator shooting a man on the hot sand, the act that decides the rest of the book. Camus leaves the beach unnamed; its blinding light echoes the strands west of the city and a real fight he had heard of near Oran.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Why Is Albert Camus Still a Stranger in His Native Algeria?, Smithsonian, on the Bouisseville beach that inspired the scene",
+        "url": "https://www.smithsonianmag.com/innovation/why-is-albert-camus-still-a-stranger-in-his-native-algeria-13063/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sidi Fredj, Wikipedia, for the beach coordinates west of Algiers",
+        "url": "https://en.wikipedia.org/wiki/Sidi_Fredj"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palais-de-justice-algiers",
+    "name": "The courthouse of Algiers",
+    "progressLabel": "Part Two",
+    "character": "meursault",
+    "coords": [3.0607, 36.781],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Camus does not name the courthouse, so this marks the colonial-era Palais de Justice on what is now rue Abane-Ramdane, where an Algiers assize trial would have been heard.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "In Part Two the narrator is tried less for the killing than for his failure to grieve or to believe. The scene belongs to the grand colonial courthouse of central Algiers, where such a capital case would have come before the assizes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cour d'Alger, Wikipedia (French), on the historic Palais de Justice on rue Abane-Ramdane",
+        "url": "https://fr.wikipedia.org/wiki/Cour_d'Alger"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barberousse-prison",
+    "name": "Barberousse prison",
+    "progressLabel": "Part Two",
+    "character": "meursault",
+    "coords": [3.0564, 36.7861],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The prison is unnamed in the novel; this marks Barberousse, later Serkadji, the civil prison above the Casbah that held the condemned of Algiers in that period.",
+    "reference": "Part Two",
+    "order": 6,
+    "note": "Condemned to death, the narrator spends his last chapters in a cell, turning over memory, chance and the indifference of the world. Algiers's civil prison, Barberousse, stood above the Casbah and held the city's condemned.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Serkadji Prison, Wikipedia, on the former Barberousse prison above the Casbah",
+        "url": "https://en.wikipedia.org/wiki/Serkadji_Prison"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "love-in-the-time-of-cholera",
+  "title": "Love in the Time of Cholera",
+  "author": "Gabriel García Márquez",
+  "published": 1985,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-75.551, 10.424],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Cartagena",
+    "country": "CO",
+    "note": "García Márquez never names the Caribbean port of the novel, but readers and scholars identify it as Cartagena de Indias, with touches of Barranquilla and the Magdalena River. The walled colonial city, its cathedral and its seafront arcades supply the streets where Florentino Ariza waits half a century for Fermina Daza.",
+    "bbox": [-75.58, 10.36, -75.47, 10.46]
+  },
+  "rights": {
+    "originalWork": "In copyright. Gabriel García Márquez, 1985 (El amor en los tiempos del cólera). This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "Edith Grossman's English translation (1988) is also in copyright. A cited book needs neither the original nor a translation, because it stores no text.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/158088/love-in-the-time-of-cholera-by-gabriel-garcia-marquez/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text or any translation, in any territory.",
+    "attribution": "Love in the Time of Cholera, Gabriel García Márquez (1985). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#9E2B4C",
+    "note": "A deep Caribbean rose for a fifty-year love. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper at 6.46:1."
+  },
+  "characters": {
+    "florentino": {
+      "name": "Florentino Ariza",
+      "color": "#8A2846"
+    },
+    "fermina": {
+      "name": "Fermina Daza",
+      "color": "#146A63"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ogata-house-hase-kamakura",
+    "name": "The Ogata house, Hase, Kamakura",
+    "progressLabel": "The Sound of the Mountain",
+    "character": "shingo",
+    "coords": [139.5385, 35.3145],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house is fictional and unnamed. We site it in Hase, beside Kawabata's own former Kamakura residence at 1-12-5 Hase, whose domestic world and wooded backdrop the novel closely reflects.",
+    "reference": "Opening section, the sound in the hills",
+    "order": 1,
+    "note": "The Ogata family share a house in Kamakura, and it is here, on a sleepless August night, that the aging Shingo hears a low rumble from the hills behind the house and reads it as a warning of his own death. Kawabata leaves the house unnamed and wrote the book while living a few streets away in Hase, so we anchor it there.",
+    "sources": [
+      { "kind": "author", "ref": "The Sound of the Mountain, opening section" },
+      {
+        "kind": "guide",
+        "ref": "Former Residence of Yasunari Kawabata, 1-12-5 Hase, Kamakura",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g303156-d8148699-Reviews-Former_Residence_of_Yasunari_Kawabata-Kamakura_Kanagawa_Prefecture_Kanto.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kamakura-station-yokosuka-line",
+    "name": "Kamakura Station and the Yokosuka Line",
+    "progressLabel": "Ch. 3",
+    "character": "shingo",
+    "coords": [139.5503, 35.3181],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel has Shingo and his son commute from Kamakura into central Tokyo. The Yokosuka Line through Kamakura Station is the real railway that carries that journey, so it is the concrete point for a movement the text describes rather than names.",
+    "reference": "The Kamakura–Tokyo commute, recurring",
+    "order": 2,
+    "note": "Shingo and his son Shuichi ride the train from Kamakura into Tokyo together, and the daily line between home and office frames the novel's movement between family and work. The station and its Yokosuka Line still connect the two cities exactly as the commute requires.",
+    "sources": [
+      { "kind": "author", "ref": "The Sound of the Mountain, the commute to Tokyo" },
+      {
+        "kind": "guide",
+        "ref": "Kamakura Station, Yokosuka Line, 35.3181 N 139.5503 E",
+        "url": "https://latitude.to/articles-by-country/jp/japan/102884/kamakura-station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kotoku-in-great-buddha",
+    "name": "The Great Buddha, Kotoku-in",
+    "progressLabel": "Ch. 5",
+    "character": "shingo",
+    "coords": [139.5357, 35.3168],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Kotoku-in stands in Hase, the same neighbourhood as the Ogata home. The novel is set in this temple town without staging a scene we can pin to the statue, so we include it as a landmark of the Kamakura the family lives among.",
+    "reference": "Kamakura setting, Hase",
+    "order": 3,
+    "note": "The bronze Great Buddha has sat open to the sky in Hase since the thirteenth century, a short walk from where the novel places the Ogata house. It anchors the old seaside capital whose hills, temples and quiet give the book its mood.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kotoku-in, Great Buddha of Kamakura, 35.3168 N 139.5357 E",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in"
+      },
+      {
+        "kind": "inference",
+        "ref": "Setting landmark adjacent to the Hase location of the Ogata home"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "engaku-ji-kita-kamakura",
+    "name": "Engaku-ji, Kita-Kamakura",
+    "progressLabel": "Ch. 7",
+    "character": "shingo",
+    "coords": [139.5475, 35.3377],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Engaku-ji is Kamakura's great Zen monastery, at the wooded northern edge of the town the novel inhabits. We include it as a setting landmark rather than a pinpointed scene.",
+    "reference": "Kamakura setting, Kita-Kamakura",
+    "order": 4,
+    "note": "Engaku-ji spreads up a forested valley at Kita-Kamakura, its cedars and gates the kind of temple landscape that surrounds the Ogatas' Kamakura. The wooded hills that give the novel its title sound rise from exactly this terrain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Engaku-ji, Yamanouchi, Kamakura, 35.3377 N 139.5475 E",
+        "url": "https://en.wikipedia.org/wiki/Engaku-ji"
+      },
+      { "kind": "inference", "ref": "Setting landmark of the Kamakura temple town" }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shingo-office-marunouchi",
+    "name": "Shingo's office, Marunouchi",
+    "progressLabel": "Ch. 9",
+    "character": "shingo",
+    "coords": [139.7668, 35.6752],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Shingo works in a Tokyo office reached by the commuter line, but the novel does not give its street. We site it in Marunouchi, the central business district beside Tokyo Station where such an office would sit.",
+    "reference": "The Tokyo office, recurring",
+    "order": 5,
+    "note": "Shingo keeps a small Tokyo office and a young secretary, and the city is where the novel's business and its quiet betrayals play out, away from the Kamakura house. Marunouchi, the district around Tokyo Station, is the plausible ground for a company man's daily work.",
+    "sources": [
+      { "kind": "author", "ref": "The Sound of the Mountain, Shingo's Tokyo office" },
+      {
+        "kind": "guide",
+        "ref": "Tokyo Station, Marunouchi, 35.6752 N 139.7668 E",
+        "url": "https://latitude.to/articles-by-country/jp/japan/4893/tokyo-station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shinjuku-gyoen-garden",
+    "name": "Shinjuku Gyoen",
+    "progressLabel": "Ch. 11",
+    "character": "shingo",
+    "coords": [139.7094, 35.6853],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sends Shingo and his daughter-in-law Kikuko to a Tokyo park; readers and critics identify it as Shinjuku Gyoen, the national garden, which is where we place it.",
+    "reference": "The garden meeting with Kikuko, late in the novel",
+    "order": 6,
+    "note": "In one of the novel's tenderest passages Shingo meets Kikuko in a Tokyo garden, where she stands against a blaze of yellow ginkgo and steps for a moment out of the family's shadow. Shinjuku Gyoen, the great imperial garden opened to the public, is the park the scene is understood to describe.",
+    "sources": [
+      { "kind": "author", "ref": "The Sound of the Mountain, the garden scene with Kikuko" },
+      {
+        "kind": "guide",
+        "ref": "Shinjuku Gyoen National Garden, 35.6853 N 139.7094 E",
+        "url": "https://latitude.to/articles-by-country/jp/japan/12923/shinjuku-gyoen"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

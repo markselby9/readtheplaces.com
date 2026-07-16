@@ -1,0 +1,123 @@
+[
+  {
+    "id": "catedral-santa-catalina",
+    "name": "Catedral de Santa Catalina de Alejandría",
+    "progressLabel": "Part 2",
+    "character": "fermina",
+    "coords": [-75.5508, 10.4237],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's cathedral is not named, but the walled city's only cathedral is Santa Catalina, and literary tours of García Márquez's Cartagena place the church scenes here.",
+    "reference": "Part 2",
+    "order": 1,
+    "note": "The cathedral anchors the devout, respectable society into which Fermina Daza marries Dr. Juvenal Urbino. Its Mass and its social calendar mark the world of order and status that Florentino's patient love has to outlast.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cartagena Cathedral (Santa Catalina de Alejandría), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cartagena_Cathedral,_Colombia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "portal-de-los-escribanos",
+    "name": "Portal de los Escribanos, Plaza de los Coches",
+    "progressLabel": "Part 2",
+    "character": "florentino",
+    "coords": [-75.5486, 10.4231],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The arcade where the young Florentino writes letters is unnamed in the text; guides to García Márquez's Cartagena identify it with the real Portal de los Escribanos on the Plaza de los Coches, the historic gathering place of the city's public scribes.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "Under this colonnade of public scribes, Florentino Ariza sets down words of love for strangers who cannot write their own. The arcade turns his own thwarted longing into a trade, and the letters become the novel's currency of feeling.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "La Cartagena literaria de 'Gabo', El Tiempo",
+        "url": "https://www.eltiempo.com/archivo/documento/MAM-4504144"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baluarte-santo-domingo",
+    "name": "Baluarte de Santo Domingo, the sea wall",
+    "progressLabel": "Part 3",
+    "character": "florentino",
+    "coords": [-75.5533, 10.426],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's seafront promenade on the ramparts is a composite of the real walls; the Baluarte de Santo Domingo is the best-known stretch of that Caribbean-facing wall and stands in for the scenes set there.",
+    "reference": "Part 3",
+    "order": 3,
+    "note": "The ramparts facing the open Caribbean are where the city takes the evening air and where solitary figures watch the water. For Florentino the sea wall is a place to carry his obsession, staring out at the ocean that both separates and connects the lovers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Baluarte de Santo Domingo (Bastion of Santo Domingo), Cartagena",
+        "url": "https://www.gpsmycity.com/attractions/baluarte-de-santo-domingo-(bastion-of-santo-domingo)-60759.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "las-bovedas",
+    "name": "Las Bóvedas, the vaults in the walls",
+    "progressLabel": "Part 4",
+    "character": "fermina",
+    "coords": [-75.547, 10.4283],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The colonial town of the novel is Cartagena's walled centre; Las Bóvedas, the vaulted arcade built into the northern ramparts, is one of its most recognisable corners and represents the old city's arcaded streets.",
+    "reference": "Part 4",
+    "order": 4,
+    "note": "The vaulted archways set into the city walls, once magazines and cells, catch the ordinary commerce and passage of the walled town. They stand for the enclosed colonial world of shaded arcades in which Fermina lives out her long marriage.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cartagena de Indias literary tour of García Márquez, Hello Magazine",
+        "url": "https://www.hellomagazine.com/travel/201202137184/cartagena-de-indias-colombia/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "muelle-de-los-pegasos",
+    "name": "Muelle de los Pegasos, the bay wharf",
+    "progressLabel": "Part 5",
+    "character": "florentino",
+    "coords": [-75.5473, 10.4218],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The riverboat company's harbour is unnamed; the old wharf beside the clock-tower gate, today the Muelle de los Pegasos on the bay, is the historic Cartagena landing that scholarship associates with these dockside scenes.",
+    "reference": "Part 5",
+    "order": 5,
+    "note": "The bay wharf is the working heart of Florentino's river-shipping company and the threshold between the walled city and the water. From this quay the boats set out toward the Magdalena, tying the enclosed love story to the wider country beyond.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "City tour literario: la Cartagena de Gabo, La Nación",
+        "url": "https://www.lanacion.com.ar/turismo/city-tour-literario-la-cartagena-de-gabo-nid1964629/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "magdalena-river-landing",
+    "name": "Magdalena River steamboat landing (Barranquilla)",
+    "progressLabel": "Part 6",
+    "character": "florentino",
+    "coords": [-74.7745, 10.9755],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Marked outside the Cartagena setting on purpose: the Magdalena riverboats did not reach Cartagena but departed from the river itself, and Barranquilla, near the river's mouth up the coast, was the great steamboat port that scholars tie to the final voyage.",
+    "reference": "Part 6",
+    "order": 6,
+    "note": "The last part of the novel leaves the walled city for a paddle steamer heading up the Magdalena River. It is here, aboard a boat flying the flag that keeps other passengers away, that the two old lovers finally travel together with nowhere left to arrive.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Magdalena River steam navigation history, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magdalena_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

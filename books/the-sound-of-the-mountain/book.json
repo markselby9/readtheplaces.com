@@ -1,0 +1,35 @@
+{
+  "id": "the-sound-of-the-mountain",
+  "title": "The Sound of the Mountain",
+  "author": "Yasunari Kawabata",
+  "published": 1954,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [139.552, 35.319],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Kamakura",
+    "country": "JP",
+    "date": "1949–1954",
+    "note": "Kamakura, the old seaside capital, where one sleepless night the aging Shingo Ogata hears a deep sound from the wooded hills behind his house and takes it for a summons. He commutes to a Tokyo office along the line north, so the map runs from the temple town to the gardens of the capital.",
+    "bbox": [139.52, 35.3, 139.79, 35.7]
+  },
+  "rights": {
+    "originalWork": "In copyright. Yasunari Kawabata serialised the novel between 1949 and 1954; it first appeared as a book in 1954. Kawabata died in 1972, so the Japanese text is not yet public domain. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "The standard English translation, by Edward Seidensticker (1970), is also in copyright, which is another reason this cannot be a sourced book.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/90463/the-sound-of-the-mountain-by-yasunari-kawabata/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text or any translation, in any territory.",
+    "attribution": "The Sound of the Mountain, Yasunari Kawabata (1954). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2F5D4A",
+    "note": "The cypress green of the wooded hills that rise behind the Ogata house, where the sound of the mountain comes from. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper at 6.74:1."
+  },
+  "characters": {
+    "shingo": {
+      "name": "Shingo Ogata",
+      "color": "#3B4A66"
+    }
+  }
+}

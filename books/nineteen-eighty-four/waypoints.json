@@ -1,0 +1,126 @@
+[
+  {
+    "id": "ministry-of-truth-senate-house",
+    "name": "The Ministry of Truth",
+    "progressLabel": "Part One",
+    "character": "winston",
+    "coords": [-0.1287, 51.521],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Ministry of Truth is invented, but Orwell drew it from Senate House on Malet Street, the University of London's tower that housed the wartime Ministry of Information where he worked. Sited on the real building.",
+    "reference": "Part One, Chapter 1",
+    "order": 1,
+    "note": "Winston edits the past for a living inside the Ministry of Truth, rewriting old newspapers so the Party is never wrong. Orwell had sat in Senate House doing propaganda work he disliked, and its heavy Art Deco bulk over Bloomsbury became the ministry that towers over the city.",
+    "sources": [
+      { "kind": "author", "ref": "Part One, Chapter 1" },
+      {
+        "kind": "guide",
+        "ref": "Senate House, London, widely cited as the model for the Ministry of Truth",
+        "url": "https://en.wikipedia.org/wiki/Senate_House,_London"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "victory-square-trafalgar-square",
+    "name": "Victory Square",
+    "progressLabel": "Part One",
+    "character": "winston",
+    "coords": [-0.1281, 51.5079],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Victory Square is fictional but maps clearly onto Trafalgar Square: a great public space with a central column, where a statue of Big Brother has replaced the figure at the top. Sited on the real square.",
+    "reference": "Part Two, Chapter 2",
+    "order": 2,
+    "note": "The Party's ceremonial heart, dominated by a column carrying a statue of Big Brother instead of the admiral Londoners know from Trafalgar Square. Winston arranges to meet Julia here among the crowds, using the anonymity of a rally to pass unnoticed.",
+    "sources": [
+      { "kind": "author", "ref": "Part Two, Chapter 2" },
+      {
+        "kind": "guide",
+        "ref": "Trafalgar Square and Nelson's Column, the recognised basis for Victory Square",
+        "url": "https://en.wikipedia.org/wiki/Nelson%27s_Column"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-clement-danes-strand",
+    "name": "St Clement Danes",
+    "progressLabel": "Part Two",
+    "character": "winston",
+    "coords": [-0.1139, 51.5131],
+    "placeCertainty": "inferred",
+    "certaintyNote": "This church on the Strand is named in the novel: a steel engraving of it hangs in the rented room, and Charrington ties it to the old bells rhyme. Winston never visits it, so it is a referenced real place rather than a scene, sited on the actual church.",
+    "reference": "Part One, Chapter 8",
+    "order": 3,
+    "note": "A picture of this church hangs on the wall of the room Winston rents above the junk shop, and the half-remembered nursery rhyme about London's bells becomes a private token between him and Julia. The engraving turns out to conceal the telescreen that betrays them, so the one warm image in the book hides the trap.",
+    "sources": [
+      { "kind": "author", "ref": "Part One, Chapter 8" },
+      {
+        "kind": "guide",
+        "ref": "St Clement Danes, Strand, the church named for the engraving and the bells rhyme",
+        "url": "https://en.wikipedia.org/wiki/St_Clement_Danes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "proles-junk-shop-shoreditch",
+    "name": "Mr Charrington's Junk Shop, a Prole Quarter",
+    "progressLabel": "Part Two",
+    "character": "winston",
+    "coords": [-0.0785, 51.5265],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The shop and its quarter are invented and given no address. Sited representatively in Shoreditch, one of the poor East London districts named in the old bells rhyme and typical of the working-class streets Orwell drew the proles from.",
+    "reference": "Part Two, Chapter 4",
+    "order": 4,
+    "note": "In a shabby district outside the Party's watch, Winston buys a glass paperweight in a junk shop and rents the room above it, believing the proles' quarter is the one place free of surveillance. The bombed, run-down streets are Orwell's own 1948 London, the parts the ministries had not yet swallowed.",
+    "sources": [
+      { "kind": "author", "ref": "Part Two, Chapter 4" },
+      {
+        "kind": "inference",
+        "ref": "Sited in a working-class East London quarter of the kind Orwell used for the proles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "room-101-broadcasting-house",
+    "name": "Room 101, The Ministry of Love",
+    "progressLabel": "Part Three",
+    "character": "winston",
+    "coords": [-0.1436, 51.5186],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The windowless Ministry of Love is fictional, but the name Room 101 comes from a real conference room at Broadcasting House where Orwell endured tedious wartime BBC meetings. Sited on the BBC building on Portland Place.",
+    "reference": "Part Three, Chapter 5",
+    "order": 5,
+    "note": "The final room, where the Party breaks a prisoner with whatever he fears most, took its number from a dull committee room Orwell sat in at the BBC. What began as a private joke about a boring meeting became the most feared address in the novel.",
+    "sources": [
+      { "kind": "author", "ref": "Part Three, Chapter 5" },
+      {
+        "kind": "guide",
+        "ref": "Broadcasting House, BBC, the origin of the name Room 101",
+        "url": "https://en.wikipedia.org/wiki/Broadcasting_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chestnut-tree-cafe-bloomsbury",
+    "name": "The Chestnut Tree Café",
+    "progressLabel": "Part Three",
+    "character": "winston",
+    "coords": [-0.13, 51.5225],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The café is invented and given no address; the novel places it near the Ministry of Truth, frequented by disgraced Party members. Sited representatively in Bloomsbury beside the Senate House that models the ministry.",
+    "reference": "Part Three, Chapter 6",
+    "order": 6,
+    "note": "A near-empty café haunted by broken, discredited officials, where a released and hollowed-out Winston passes his last days drinking synthetic gin. It sits in the ministry district, close to the tower where his story began, so the book ends within sight of where it opened.",
+    "sources": [
+      { "kind": "author", "ref": "Part Three, Chapter 6" },
+      {
+        "kind": "inference",
+        "ref": "Sited near the Senate House / Ministry of Truth district the novel places it in"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
