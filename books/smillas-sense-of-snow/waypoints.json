@@ -1,0 +1,107 @@
+[
+  {
+    "id": "white-palace-flats-strandgade",
+    "name": "The White Palace flats, Strandgade",
+    "progressLabel": "The City",
+    "character": "smilla",
+    "coords": [12.58793, 55.67404],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The apartment block the novel calls the White Palace is invented, but it is set explicitly on Strandgade, the real waterfront street of Christianshavn lined with converted warehouses. Sited at a representative point on that street.",
+    "reference": "Part One: The City",
+    "order": 1,
+    "note": "The story begins with a small boy dead in the snow at the foot of the block where he and Smilla both live. She alone reads the single track of his footprints on the roof and sees that no child at play makes a line like that. His fall is where her investigation starts. The building is fictional; the street, Strandgade in Christianshavn, is real and still fronts the harbour.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Strandgade, Christianshavn, Wikipedia, on the historic waterfront street",
+        "url": "https://en.wikipedia.org/wiki/Strandgade"
+      },
+      {
+        "kind": "guide",
+        "ref": "Christianshavn, Wikipedia, for the district and its canals",
+        "url": "https://en.wikipedia.org/wiki/Christianshavn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cryolite-company-strandboulevarden",
+    "name": "The Cryolite Company of Denmark",
+    "progressLabel": "The City",
+    "character": "smilla",
+    "coords": [12.58889, 55.70528],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Cryolite Company of Denmark is a real firm; the office Smilla visits is not pinned to an address in the book, so this marks the company's long-standing cryolite works on Strandboulevarden in Østerbro.",
+    "reference": "Part One: The City",
+    "order": 2,
+    "note": "Smilla's search leads to the company that mined cryolite in Greenland, the mineral that once made Danish aluminium and Danish fortunes. Its records tie the dead boy's father to expeditions that went wrong. The firm was real, and its Copenhagen works stood on Strandboulevarden until 1990.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Øresunds chemiske Fabriker (Kryolitfabrikken), Wikipedia, on the Strandboulevarden cryolite works",
+        "url": "https://en.wikipedia.org/wiki/%C3%98resunds_chemiske_Fabriker"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "institute-for-arctic-medicine",
+    "name": "The Institute for Arctic Medicine",
+    "progressLabel": "The City",
+    "character": "smilla",
+    "coords": [12.56389, 55.69361],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The institute Smilla consults is a fictional research body; there is no such named address in Copenhagen, so this marks the University of Copenhagen's medical faculty at the Panum building, the real home of the city's Arctic and medical research.",
+    "reference": "Part One: The City",
+    "order": 3,
+    "note": "Chasing what killed the boy's father and what waits on the ice, Smilla presses the specialists in cold and Arctic disease. The institute in the book is invented; the city's real centre for such medicine is the University of Copenhagen's Panum building, north of the lakes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Panum Building, Faculty of Health and Medical Sciences, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Panum_Building"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "freeport-of-copenhagen",
+    "name": "The Freeport, Copenhagen",
+    "progressLabel": "The City",
+    "character": "smilla",
+    "coords": [12.5961, 55.7058],
+    "placeCertainty": "explicit",
+    "reference": "Part One: The City",
+    "order": 4,
+    "note": "The trail runs down to the water: cold-store sheds, bonded warehouses and the quay where the ship Kronos is fitting out for a voyage north. Smilla talks her way aboard. The Freeport of Copenhagen, in Nordhavn, is a real bonded harbour district and still handles the port's shipping.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Freeport of Copenhagen, Wikipedia, on the bonded harbour in Nordhavn",
+        "url": "https://en.wikipedia.org/wiki/Freeport_of_Copenhagen"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gela-alta-glacier",
+    "name": "Gela Alta, West Greenland",
+    "progressLabel": "The Ice",
+    "character": "smilla",
+    "coords": [-53.7, 70.2],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gela Alta is a fictional glaciated island; the novel places it off Greenland's west coast. Sited at a representative point in the waters west of the coast, not a real named island.",
+    "reference": "Part Three: The Ice",
+    "order": 5,
+    "note": "The Kronos carries Smilla out of Danish waters and north to a frozen island where a meteorite lies buried under the glacier, the secret the whole company was built to keep. This is the excursion the book has been steering toward. Gela Alta is invented; it stands for the remote West Greenland coast Smilla was born to and returns to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Miss Smilla's Feeling for Snow, Wikipedia, on the novel's Greenland setting",
+        "url": "https://en.wikipedia.org/wiki/Miss_Smilla%27s_Feeling_for_Snow"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "northeast-gaomi-township",
+    "name": "Northeast Gaomi Township, the sorghum country",
+    "progressLabel": "Part 1",
+    "character": "grandmother",
+    "coords": [119.92, 36.48],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The township of the novel is a literary invention, but Mo Yan built it from his own home ground, the former Dalan district and Ping'an village in the north-east of Gaomi. No village-level coordinate is published in the open sources we found, so this marks a representative point in that Dalan area, out toward the Jiaozhou border.",
+    "reference": "Part 1, 'Red Sorghum'",
+    "order": 1,
+    "note": "The family saga unfolds across a plain of red sorghum in what the narrator calls Northeast Gaomi Township. The name is fiction, but the landscape is Mo Yan's own: the fields, footpaths and villages of the old Dalan district in the north-east corner of Gaomi county, where he was born and where he set most of his work.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Mo Yan, Wikipedia, on his birth in Ping'an village, Dalan, Gaomi, and his fictional Northeast Gaomi Township",
+        "url": "https://en.wikipedia.org/wiki/Mo_Yan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gaomi, Wikipedia, on the county as Mo Yan's home and the setting of his fiction",
+        "url": "https://en.wikipedia.org/wiki/Gaomi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "black-water-river-bridge",
+    "name": "The Black Water River and the stone bridge",
+    "progressLabel": "Part 1",
+    "character": "grandmother",
+    "coords": [119.96, 36.44],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Black Water River of the novel corresponds to a real river of the same name, the Moshui He, which rises in southern Jiaozhou and runs north through Gaomi's north-east to the Jiaolai. We could not verify the exact bridge, so this marks a representative point on that river near the historic Sunjiakou ambush site rather than a surveyed span.",
+    "reference": "Part 1, 'Red Sorghum'",
+    "order": 2,
+    "note": "The book's central battle happens where a road crosses the Black Water River on a stone bridge: a home-made militia lies in the sorghum and ambushes a Japanese motor convoy in 1939. The river is real, the Moshui He of Gaomi's north-east, and the scene draws on a documented 1938 ambush by local fighters at the Sunjiakou bridge. The grandmother is cut down on the road here, carrying food to the men.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Moshui River (Mo He), Baidu Baike, identifying it as the river depicted in Mo Yan's Red Sorghum",
+        "url": "https://baike.baidu.com/item/%E5%A2%A8%E6%B0%B4%E6%B2%B3/18655916"
+      },
+      {
+        "kind": "external",
+        "ref": "Mo Yan Country, LARB China Channel, on the Sunjiakou bridge and the ambush that the novel and film reworked",
+        "url": "https://chinachannel.larbpublishingworkshop.org/2019/08/02/mo-yan-country/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shan-family-distillery",
+    "name": "The distillery village and the Shan family compound",
+    "progressLabel": "Part 2",
+    "character": "grandmother",
+    "coords": [119.8005, 36.3654],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The distillery village and the Shan compound are inventions of the novel with no real address. This marks the reconstructed Red Sorghum film set and cultural town in Xiazhuang, in Gaomi's north-east township zone, which was built to stand in for that fictional place; the coordinate is the verified Xiazhuang industrial-park location where the sets sit.",
+    "reference": "Part 2, 'Sorghum Wine'",
+    "order": 3,
+    "note": "Married off to a leprous distillery owner, the grandmother comes into a village that makes strong sorghum wine, and the Shan family compound and its stills become the heart of the family's fortune. The place is fictional; Gaomi has since built a Red Sorghum film set and cultural town in Xiazhuang to represent it for visitors.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Sorghum Cultural Tourism Town / film base, Gaomi, on the reconstructed distillery and Shan compound sets in Xiazhuang",
+        "url": "https://www.trip.com/travel-guide/attraction/gaomi/red-sorghum-movie-and-television-base-15119095/"
+      },
+      {
+        "kind": "inference",
+        "ref": "Xiazhuang, Gaomi, coordinate for the north-east township zone where the sets stand (Global Energy Monitor gazetteer entry)",
+        "url": "https://www.gem.wiki/Shandong_Gaomi_Xiazhuang_Industrial_Park_solar_project"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gaomi-county-town",
+    "name": "The county town of Gaomi",
+    "progressLabel": "Part 5",
+    "character": "grandmother",
+    "coords": [119.7528, 36.3833],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Gaomi is named as the county, and this marks the seat, the modern city centre.",
+    "reference": "Part 5, 'Strange Death'",
+    "order": 4,
+    "note": "Beyond the fields lies the county seat, the walled town of Gaomi that gives the whole region its name. Through the occupation years it stands for the wider authority the villagers resist, Japanese and Nationalist and Communist by turns, while the family's story plays out in the countryside to the north-east.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gaomi, Wikipedia, for the county-level city and its centre coordinates",
+        "url": "https://en.wikipedia.org/wiki/Gaomi"
+      },
+      {
+        "kind": "external",
+        "ref": "GPS coordinates of Gaomi, latitude.to gazetteer",
+        "url": "https://latitude.to/map/cn/china/cities/gaomi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

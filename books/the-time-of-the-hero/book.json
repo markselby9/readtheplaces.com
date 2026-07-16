@@ -1,0 +1,42 @@
+{
+  "id": "the-time-of-the-hero",
+  "title": "The Time of the Hero",
+  "author": "Mario Vargas Llosa",
+  "published": 1963,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-77.085, -12.095],
+  "zoom": 12,
+  "setting": {
+    "city": "Lima",
+    "country": "PE",
+    "note": "Vargas Llosa's first novel maps a cruel adolescence onto real ground: the Leoncio Prado military academy on the fog-bound cliffs of La Perla in Callao, and the Lima the cadets slip out to on leave. The map runs from the barracks above the Pacific across the bay to middle-class Miraflores and bohemian Barranco, down to the Costa Verde, and back to the working-class streets of Callao the boys came from.",
+    "bbox": [-77.16, -12.18, -77.0, -12.03]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mario Vargas Llosa, first published 1963 as La ciudad y los perros. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://us.macmillan.com/books/9780374525798/thetimeofthehero",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Time of the Hero, Mario Vargas Llosa (1963). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5A6B",
+    "note": "The cold steel-grey of the Pacific and the coastal fog, the garua, that hangs over the academy's cliffs. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "alberto": {
+      "name": "Alberto, the Poet",
+      "color": "#3F5C34"
+    },
+    "jaguar": {
+      "name": "The Jaguar",
+      "color": "#8A2B1E"
+    },
+    "ricardo": {
+      "name": "Ricardo Arana, the Slave",
+      "color": "#4A4A4A"
+    }
+  }
+}

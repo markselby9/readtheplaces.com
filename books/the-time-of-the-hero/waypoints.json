@@ -1,0 +1,127 @@
+[
+  {
+    "id": "leoncio-prado-academy",
+    "name": "The Leoncio Prado Military Academy, La Perla",
+    "progressLabel": "Part One",
+    "character": "jaguar",
+    "coords": [-77.1184, -12.0756],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The academy is named in the novel and is a real, still-operating institution; the coordinates mark its campus in La Perla, Callao, where Vargas Llosa was himself a cadet.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "Almost the whole novel is set inside this state boarding academy, where boys from across Peru's classes and regions are drilled into a brutal hierarchy. A stolen chemistry exam and a pilfered rifle bolt set the plot moving; the cadets' own code, enforced by a gang who call themselves the Circle, governs everything the officers do not see.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Leoncio Prado Military Academy, Wikipedia, on the real school and its place in the novel",
+        "url": "https://en.wikipedia.org/wiki/Leoncio_Prado_Military_Academy"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Time of the Hero, Wikipedia, on the setting and its autobiographical basis",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Hero"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "la-perla-cliffs",
+    "name": "The cliffs of La Perla, above the Pacific",
+    "progressLabel": "Part Two",
+    "character": "ricardo",
+    "coords": [-77.121, -12.077],
+    "placeCertainty": "explicit",
+    "certaintyNote": "La Perla is a real district and the academy sits on its coastal cliffs; the exact patch of ground used for the field exercise is not pinpointed, so this marks the shoreline just below the campus.",
+    "reference": "Part Two",
+    "order": 2,
+    "note": "The open ground between the barracks and the sea, wrapped in coastal fog, is where the cadets run their manoeuvres. During one such exercise Ricardo Arana, the timid boy the others call the Slave, is shot in the head, and the death drives the rest of the book: accident, or reprisal for informing on the gang?",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "La Perla District, Wikipedia, for the coastal district in Callao",
+        "url": "https://en.wikipedia.org/wiki/La_Perla_District"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "miraflores",
+    "name": "Miraflores, Alberto's neighbourhood",
+    "progressLabel": "Part One",
+    "character": "alberto",
+    "coords": [-77.0298, -12.1219],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Miraflores is named as the middle-class district Alberto comes from; the novel moves through its streets without fixing one address, so this marks Parque Kennedy at the district's heart.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "On leave, Alberto, the cadet nicknamed the Poet for the stories and letters he sells to the others, returns to comfortable Miraflores. His flirtation with a neighbourhood girl and his walks through these quiet streets stand in flat contrast to the violence he goes back to behind the academy walls.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Miraflores District, Wikipedia, for the district Alberto is from",
+        "url": "https://en.wikipedia.org/wiki/Miraflores_District,_Lima"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barranco",
+    "name": "Barranco, by the sea",
+    "progressLabel": "Part One",
+    "character": "alberto",
+    "coords": [-77.0226, -12.1491],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Barranco is named among the seaside districts the cadets frequent on leave; no single spot is fixed, so this marks the Puente de los Suspiros at the heart of the old bohemian quarter.",
+    "reference": "Part One",
+    "order": 4,
+    "note": "The bohemian, faded-genteel district just south of Miraflores is part of the cadets' world beyond the gates, a place of cinemas, girls and idle Sunday afternoons. For boys locked most of the week in the barracks, an outing to these streets above the sea is a taste of ordinary freedom.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Barranco District, Wikipedia, for the seaside district",
+        "url": "https://en.wikipedia.org/wiki/Barranco_District"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bellavista-callao",
+    "name": "Bellavista, Callao",
+    "progressLabel": "Part Two",
+    "character": "jaguar",
+    "coords": [-77.1054, -12.0582],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the Jaguar's hard childhood in the working-class streets of Callao rather than at a named address; this marks the district of Bellavista as a representative point.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "In flashback the reader sees where the toughest cadet, the Jaguar, came from: the poor streets of Callao, a world of petty theft and street fights that shaped the boy who now rules the barracks by fear. These origins are the counterweight to Alberto's sheltered Miraflores.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bellavista District, Wikipedia, for the working-class Callao district",
+        "url": "https://en.wikipedia.org/wiki/Bellavista_District,_Callao"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "costa-verde",
+    "name": "The Costa Verde seafront",
+    "progressLabel": "Part Two",
+    "character": "alberto",
+    "coords": [-77.035, -12.13],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The strip of coast below the cliffs is a recurring backdrop rather than a single named scene; this marks a representative point on the Costa Verde below Miraflores.",
+    "reference": "Part Two",
+    "order": 6,
+    "note": "The beaches and coast road running along the foot of the cliffs, from Callao down past Miraflores and Barranco, edge the whole story. It is the same Pacific the cadets stare at from the academy walls, and it ties the boys' separate worlds, barracks and city, into one grey coastline.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Costa Verde, Lima, Wikipedia, for the coastal strip below the districts",
+        "url": "https://en.wikipedia.org/wiki/Costa_Verde,_Lima"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
