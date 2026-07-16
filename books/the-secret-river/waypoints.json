@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sydney-cove",
+    "name": "Sydney Cove",
+    "progressLabel": "Part 1",
+    "character": "thornhill",
+    "coords": [151.207, -33.8552],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Sydney Cove as the place of arrival; this marks the head of the cove, the landing point of the early colony.",
+    "reference": "Part 1, the arrival in New South Wales",
+    "order": 1,
+    "note": "The waterman and his family reach the far side of the world as convicts, rowed ashore at the small cove where the penal colony began. After a life on the Thames, he faces a strange harbour, unfamiliar light and the prospect of earning a pardon at the edge of the known world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sydney Cove, on the landing place of the first colony",
+        "url": "https://en.wikipedia.org/wiki/Sydney_Cove"
+      },
+      {
+        "kind": "author",
+        "ref": "Kate Grenville, The Secret River, official book page",
+        "url": "https://kategrenville.com.au/books/the-secret-river/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-rocks",
+    "name": "The Rocks",
+    "progressLabel": "Part 1",
+    "character": "thornhill",
+    "coords": [151.209, -33.8598],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Rocks, on the western side of Sydney Cove, is named as the quarter where the family lives and works; sited at the centre of the historic precinct.",
+    "reference": "Part 1, the years in the colony",
+    "order": 2,
+    "note": "On the rocky western shore of the cove, the family scrapes a living carrying cargo on the harbour while he works toward his freedom. This crowded, muddy quarter of the young town, built on land the Cadigal called Tallawoladah, is where he first dreams of holding ground of his own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Rocks, New South Wales, on the historic quarter and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/The_Rocks,_New_South_Wales"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lower-hawkesbury-river",
+    "name": "The lower Hawkesbury River",
+    "progressLabel": "Part 2",
+    "character": "thornhill",
+    "coords": [151.143, -33.457],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Hawkesbury is named throughout, but no single reach is fixed for the first sight of the river; this marks a representative point on the lower river at Spencer, where Dyarubbin winds through steep bush.",
+    "reference": "Part 2, working the river",
+    "order": 3,
+    "note": "Freed and hired to carry goods upriver, he first travels the great river north of Sydney and sees the country he means to claim. To the settlers it is empty land for the taking; to the Darug it is Dyarubbin, lived-in country, and that gap in seeing drives everything that follows.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hawkesbury River, on the river the Darug call Dyarubbin",
+        "url": "https://en.wikipedia.org/wiki/Hawkesbury_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "Spencer, New South Wales, for a coordinate on the lower Hawkesbury",
+        "url": "https://en.wikipedia.org/wiki/Spencer,_New_South_Wales"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wisemans-ferry",
+    "name": "Wisemans Ferry",
+    "progressLabel": "Part 3",
+    "character": "thornhill",
+    "coords": [150.985, -33.38194],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wisemans Ferry is a real crossing on the Hawkesbury, named for Solomon Wiseman, the transported waterman whose life Grenville drew on; sited at the village and river crossing.",
+    "reference": "Part 3, the settlement on the Hawkesbury",
+    "order": 4,
+    "note": "This bend of the Hawkesbury, later named for Solomon Wiseman, is the real ground behind the book. Wiseman was a Thames waterman transported in 1806, and Grenville, his descendant, built her convict settler on the outline of his life while inventing the man and his choices.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wisemans Ferry, New South Wales, on the crossing named for Solomon Wiseman",
+        "url": "https://en.wikipedia.org/wiki/Wisemans_Ferry,_New_South_Wales"
+      },
+      {
+        "kind": "author",
+        "ref": "The Secret River, Wikipedia, on Grenville's ancestor Solomon Wiseman",
+        "url": "https://en.wikipedia.org/wiki/The_Secret_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "thornhills-point",
+    "name": "Thornhill's Point",
+    "progressLabel": "Part 4",
+    "character": "thornhill",
+    "coords": [150.956, -33.386],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Thornhill's Point is invented: in the book he seizes a stretch of river the Darug use and renames Darkey's Creek after himself. It is modelled on Wiseman's Hawkesbury grant, so this marks a representative bend of the lower river near Wisemans Ferry.",
+    "reference": "Part 4, the taking of the land",
+    "order": 5,
+    "note": "The settler stakes out a point of land on the river and gives it his own name, over the top of the people already living there. What begins as fencing and clearing hardens into a massacre of the Darug, told plainly in the book and grounded in the documented frontier violence of the Hawkesbury. The prosperity that follows is built on that ground and never lets him rest.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "The Secret River, Wikipedia, on Thornhill renaming Darkey's Creek as Thornhill's Point",
+        "url": "https://en.wikipedia.org/wiki/The_Secret_River"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Secret River, silences and our nation's history, The Conversation, on the novel's frontier violence",
+        "url": "https://theconversation.com/the-secret-river-silences-and-our-nations-history-56878"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

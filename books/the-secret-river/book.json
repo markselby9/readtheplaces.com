@@ -1,0 +1,35 @@
+{
+  "id": "the-secret-river",
+  "title": "The Secret River",
+  "author": "Kate Grenville",
+  "published": 2005,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [150.985, -33.5],
+  "zoom": 8.8,
+  "setting": {
+    "city": "Sydney",
+    "country": "AU",
+    "date": "1806",
+    "note": "A Thames waterman, transported for theft, lands in the raw penal colony at Sydney Cove and then takes up land sixty kilometres north on the Hawkesbury River. The map runs from The Rocks up to Wisemans Ferry and the reaches of the lower Hawkesbury, called Dyarubbin by the Darug people whose country the settlers were seizing. The frontier violence in the book is drawn from the documented history of these reaches.",
+    "bbox": [150.8, -34.0, 151.35, -33.3]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kate Grenville, first published 2005. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://kategrenville.com.au/books/the-secret-river/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Secret River, Kate Grenville (2005). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2C5F4A",
+    "note": "The dark green of the Hawkesbury bush and its deep water. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper at 6.6:1."
+  },
+  "characters": {
+    "thornhill": {
+      "name": "William Thornhill",
+      "color": "#8A3B1E"
+    }
+  }
+}
