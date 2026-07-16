@@ -1,0 +1,23 @@
+{
+  "id": "the-mayor-of-casterbridge",
+  "title": "The Mayor of Casterbridge",
+  "author": "Thomas Hardy",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "center": [-2.4371, 50.7132],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Dorchester",
+    "country": "GB",
+    "note": "Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where Henchard sells his wife. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.",
+    "bbox": [-2.474, 50.7, -2.406, 50.724]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Thomas Hardy published this in 1886.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-hardy/the-mayor-of-casterbridge",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Thomas Hardy, The Mayor of Casterbridge (1886)."
+  }
+}

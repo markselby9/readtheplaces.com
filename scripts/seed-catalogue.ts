@@ -473,6 +473,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Balzac’s Paris of 1819, climbed one address at a time: the shabby Maison Vauquer boarding house on the Left Bank, and the faubourg Saint-Germain where Rastignac learns what he wants. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.',
   },
+  {
+    title: 'The Mayor of Casterbridge',
+    author: 'Thomas Hardy',
+    published: 1886,
+    city: 'Dorchester',
+    country: 'gb',
+    ordering: 'chapter',
+    why: 'Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where Henchard sells his wife. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
