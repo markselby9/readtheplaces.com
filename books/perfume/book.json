@@ -1,0 +1,34 @@
+{
+  "id": "perfume",
+  "title": "Perfume: The Story of a Murderer",
+  "author": "Patrick Süskind",
+  "published": 1985,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [2.3488, 48.8566],
+  "zoom": 12.8,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "A Paris built from smell before sight: the reeking fish stalls of the old Innocents charnel-ground, the tanneries steaming by the Seine, and a perfumer's shop crowded onto a bridge over the river. The map anchors in the medieval heart of the city, then follows its scent-obsessed foundling south across France to the perfume town of Grasse, marked here as a deliberate excursion beyond Paris.",
+    "bbox": [2.25, 48.8, 2.42, 48.9]
+  },
+  "rights": {
+    "originalWork": "In copyright. Patrick Süskind, first published 1985 as Das Parfum. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/157111/perfume-by-patrick-suskind/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Perfume: The Story of a Murderer, Patrick Süskind (1985). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#5B3A7E",
+    "note": "A deep violet, the colour of distilled essence and of the aristocratic scent the story chases. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "grenouille": {
+      "name": "Jean-Baptiste Grenouille",
+      "color": "#6B4423"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "cimetiere-des-innocents",
+    "name": "The fish market at the Cimetière des Innocents",
+    "progressLabel": "Part One",
+    "character": "grenouille",
+    "coords": [2.348097, 48.860627],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Cimetière des Innocents, the old charnel-ground by Les Halles; the burial ground was cleared in the 1780s and the site is today the Place Joachim-du-Bellay around the Fontaine des Innocents, which marks it here.",
+    "reference": "Part One, chapter 1",
+    "order": 1,
+    "note": "The story begins with a birth in the filth beneath a fishmonger's stall, at the most foul-smelling spot in an already stinking city: the market that had grown up over Paris's oldest and most crowded cemetery. The child born there has no odour of his own but a preternatural gift for every scent around him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Holy Innocents' Cemetery, Wikipedia, on the former cemetery and market by Les Halles and its later clearance",
+        "url": "https://en.wikipedia.org/wiki/Holy_Innocents%27_Cemetery"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cimetière des Innocents, Wikipédia (French), for the site now occupied by the Fontaine des Innocents",
+        "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_des_Innocents"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grimal-tannery-mortellerie",
+    "name": "Grimal's tannery, rue de la Mortellerie",
+    "progressLabel": "Part One",
+    "character": "grenouille",
+    "coords": [2.3575, 48.8546],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names the rue de la Mortellerie, the riverside street of tanners on the right bank, renamed rue de l'Hôtel-de-Ville in 1835; the exact workshop is invented, so this marks a representative point along the old street near the Seine.",
+    "reference": "Part One, chapter 6",
+    "order": 2,
+    "note": "Sold on as a boy, the foundling is worked half to death at a riverside tannery, hauling hides and steeping in the caustic pits. The street of the tanners ran close to the water on the right bank, so its trade could draw on the river; his employer will later drown in that same Seine.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The tragic fate of the old rue de la Mortellerie, un jour de plus à Paris, on the tanners' street by the Seine and its 1835 renaming",
+        "url": "https://www.unjourdeplusaparis.com/en/paris-insolite/destin-tragique-ancienne-rue-de-la-mortellerie"
+      },
+      {
+        "kind": "guide",
+        "ref": "Perfume (novel), Wikipedia, plot summary placing Grimal's tannery in the rue de la Mortellerie",
+        "url": "https://en.wikipedia.org/wiki/Perfume_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baldini-shop-pont-au-change",
+    "name": "Baldini's perfume shop, Pont au Change",
+    "progressLabel": "Part One",
+    "character": "grenouille",
+    "coords": [2.346554, 48.856291],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel puts the perfumer Baldini's shop on the Pont au Change, a real bridge that once carried rows of houses and shops; the present stone bridge dates from 1860 and no exact address survives, so this marks the bridge itself.",
+    "reference": "Part One, chapters 12 to 22",
+    "order": 3,
+    "note": "The boy talks his way into the workshop of a fading master perfumer whose premises sit on one of the built-up bridges spanning the Seine. There he reveals an uncanny nose, reconstructing and outdoing the master's formulas, and learns the craft of distillation that will drive the rest of his life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pont au Change, Wikipedia, on the bridge over the Seine that historically carried shops and houses",
+        "url": "https://en.wikipedia.org/wiki/Pont_au_Change"
+      },
+      {
+        "kind": "guide",
+        "ref": "Perfume (novel), Wikipedia, plot summary placing Baldini's shop on the Pont au Change",
+        "url": "https://en.wikipedia.org/wiki/Perfume_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plomb-du-cantal-cave",
+    "name": "The cave on the Plomb du Cantal",
+    "progressLabel": "Part Two",
+    "character": "grenouille",
+    "coords": [2.76, 45.0461],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names the Plomb du Cantal, the highest peak of the Cantal mountains in the Massif Central, as the most remote-from-humanity point in France; the exact cave is invented, so this points at the named summit, which lies far south of the Paris bbox, so this waypoint is marked outside the setting.",
+    "reference": "Part Two, chapters 24 to 26",
+    "order": 4,
+    "note": "Sickened by the smell of humanity, the perfumer walks south out of Paris and holes up alone in a cave on a volcanic peak in the middle of France, as far from any human scent as the country allows. Years pass in that darkness before a private horror drives him back down toward people, and toward the south.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plomb du Cantal, Wikipedia, on the highest summit of the Cantal mountains in the Massif Central and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Plomb_du_Cantal"
+      },
+      {
+        "kind": "guide",
+        "ref": "Perfume (novel), Wikipedia, plot summary placing Grenouille's hermitage on the Plomb du Cantal",
+        "url": "https://en.wikipedia.org/wiki/Perfume_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grasse-perfume-town",
+    "name": "Grasse, the perfume town",
+    "progressLabel": "Part Three",
+    "character": "grenouille",
+    "coords": [6.925, 43.6597],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Grasse, the real perfume-making town in Provence; it lies far southeast of the Paris bbox, so this waypoint is marked outside the setting and centred on the town.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The final act moves to the hill town that was, and still is, the capital of French perfumery. Working his way into its scent trade, the perfumer sets out to capture the one essence he cannot distil from flowers, and a series of murders of young women follows, building toward the book's notorious climax.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Grasse, Wikipedia, on the Provençal town long known as the perfume capital of the world",
+        "url": "https://en.wikipedia.org/wiki/Grasse"
+      },
+      {
+        "kind": "guide",
+        "ref": "Perfume (novel), Wikipedia, plot summary setting the final part in Grasse",
+        "url": "https://en.wikipedia.org/wiki/Perfume_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
