@@ -1,0 +1,34 @@
+{
+  "id": "the-handmaids-tale",
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "published": 1985,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-71.1195, 42.3735],
+  "zoom": 13.8,
+  "setting": {
+    "city": "Cambridge",
+    "country": "US",
+    "note": "Atwood wrote the novel while at Harvard and set the Republic of Gilead in the real Cambridge she knew. The old university town keeps its shape, but its landmarks are put to a theocracy's uses: the campus becomes a walled compound, the library a secret-police headquarters, the brick wall along the avenue a gallows. The map runs from Harvard Square through the Yard to the banks of the Charles.",
+    "bbox": [-71.135, 42.362, -71.108, 42.382]
+  },
+  "rights": {
+    "originalWork": "In copyright. Margaret Atwood, first published 1985. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/17439/the-handmaids-tale-by-margaret-atwood/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Handmaid's Tale, Margaret Atwood (1985). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#9E1B1B",
+    "note": "Gilead's red, the colour of the Handmaids' habits and of blood. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "offred": {
+      "name": "Offred",
+      "color": "#8A1C2B"
+    }
+  }
+}

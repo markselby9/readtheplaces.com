@@ -1,0 +1,152 @@
+[
+  {
+    "id": "harvard-square",
+    "name": "Harvard Square",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.119, 42.3736],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Atwood set Gilead in the real Cambridge she lived and studied in. Harvard Square is the town's hub, and the streets, checkpoints and shop routines the narrator walks belong to it.",
+    "reference": "Shopping and Household sections",
+    "order": 1,
+    "note": "The narrator's daily walks for the household's shopping trace the crossroads at the centre of Cambridge. In the novel the square keeps its geography but loses its old life: barriers, guards and identity passes stand where a busy college district used to be.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Take a Tour of 10 Locales from The Handmaid's Tale in Boston and Cambridge, Boston University",
+        "url": "https://www.bu.edu/articles/2019/take-a-tour-of-the-handmaids-tale-in-boston-and-cambridge/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Harvard Square, Cambridge, latlong.net, for the coordinates",
+        "url": "https://www.latlong.net/poi/harvard-square-253768"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harvard-yard",
+    "name": "Harvard Yard",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.117, 42.3744],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Atwood, a Radcliffe graduate, placed the seat of Gilead's power on the Harvard campus she knew. The enclosed Yard reads through the novel as the regime's fortified core.",
+    "reference": "Gilead compound scenes",
+    "order": 2,
+    "note": "The old university enclosure becomes the heart of the new order, its gates and buildings turned over to the state. What was a place of study is remade into a compound of offices, ceremonies and control.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Handmaid's Tale: A Walking Tour of the Novel's Cambridge Settings, Wonderland",
+        "url": "https://gregcookland.com/wonderland/2019/05/10/handmaids-tale-walking-tour/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Harvard Yard, Cambridge, coordinates",
+        "url": "https://www.topozone.com/massachusetts/middlesex-ma/park/harvard-yard/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-wall",
+    "name": "The Wall",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.1193, 42.3738],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's Wall is the real brick wall along Massachusetts Avenue at the edge of Harvard Yard, renamed and repurposed. Atwood set Gilead in the Cambridge she knew, so this marks a point on that wall.",
+    "reference": "The Wall scenes",
+    "order": 3,
+    "note": "Along the avenue the regime hangs the bodies of the executed on the old campus wall as a warning to the town. Atwood took a real brick perimeter, topped with wire and glass, and made it Gilead's public scaffold.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Handmaid's Tale: A Walking Tour of the Novel's Cambridge Settings, Wonderland",
+        "url": "https://gregcookland.com/wonderland/2019/05/10/handmaids-tale-walking-tour/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Take a Tour of 10 Locales from The Handmaid's Tale, Boston University",
+        "url": "https://www.bu.edu/articles/2019/take-a-tour-of-the-handmaids-tale-in-boston-and-cambridge/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "widener-library",
+    "name": "Widener Library",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.1164, 42.3737],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Atwood has said Gilead's secret service sits in the Widener Library, where she spent hours researching New England history. The novel renames the building's function, so this marks the real library.",
+    "reference": "Salvaging and secret-service scenes",
+    "order": 4,
+    "note": "The grand research library becomes the headquarters of Gilead's secret police, and its steps and front lawn become the stage for public executions the regime calls Salvagings. Atwood turned a place she worked in into an instrument of the state.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Margaret Atwood on siting Gilead's Secret Service in the Widener Library, as reported in the BU tour",
+        "url": "https://www.bu.edu/articles/2019/take-a-tour-of-the-handmaids-tale-in-boston-and-cambridge/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Widener Library, Harvard, coordinates",
+        "url": "https://latitude.to/satellite-map/us/united-states/21488/widener-library"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "charles-river",
+    "name": "The Charles River",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.1221, 42.3694],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The river the narrator remembers is the real Charles, which runs below the Harvard campus in Cambridge where Atwood set the novel. This marks its bank by the university boathouses.",
+    "reference": "Riverbank recollections",
+    "order": 5,
+    "note": "The narrator recalls the riverbank as a place of ordinary freedom before Gilead, its bridges and green edges now watched and off limits. The real Charles runs just below the campus, marking the southern boundary of the world she can no longer move through freely.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Take a Tour of 10 Locales from The Handmaid's Tale, Boston University",
+        "url": "https://www.bu.edu/articles/2019/take-a-tour-of-the-handmaids-tale-in-boston-and-cambridge/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Weld Boathouse, Charles River, Wikipedia, for the riverbank coordinates",
+        "url": "https://en.wikipedia.org/wiki/Weld_Boathouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "commanders-house",
+    "name": "The Commander's house",
+    "progressLabel": "The Republic of Gilead",
+    "character": "offred",
+    "coords": [-71.1245, 42.376],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel never gives the Commander's house a street address, but its large old rooms and grounds fit the leafy residential streets west of Harvard Square, near Brattle Street. This marks a representative point there.",
+    "reference": "Household and Night sections",
+    "order": 6,
+    "note": "The narrator is posted to a senior official's household, a substantial old house with a garden and a sitting room she is mostly forbidden to use. Atwood leaves it unnamed, but it reads as one of the grand homes in the quiet streets a short walk from the square.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Take a Tour of 10 Locales from The Handmaid's Tale, Boston University, on the novel's Cambridge residential setting",
+        "url": "https://www.bu.edu/articles/2019/take-a-tour-of-the-handmaids-tale-in-boston-and-cambridge/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brattle Street, Cambridge, for the residential-district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Brattle_Street_(Cambridge,_Massachusetts)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

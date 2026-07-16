@@ -1,0 +1,127 @@
+[
+  {
+    "id": "libel-court-kungsholmen",
+    "name": "The libel court, Kungsholmen",
+    "progressLabel": "Part 1",
+    "character": "blomkvist",
+    "coords": [18.0436, 59.33083],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the courthouse. This marks Stockholm District Court on Kungsholmen, the island of the city's law and finance worlds, where a Stockholm libel case would be heard.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "The story opens with the public disgrace of a financial journalist, convicted of libel after an exposé of a corporate magnate falls apart under him. The verdict sends him out of the courtroom with his reputation and his magazine in ruins. Stockholm's courts sit on Kungsholmen, the island most tied to the city's money and legal power.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Stockholm District Court, Scheelegatan 7, Kungsholmen, for the courthouse coordinates",
+        "url": "https://www.hitta.se/stockholms+tingsr%C3%A4tt/stockholm/amtzfjccm"
+      },
+      {
+        "kind": "guide",
+        "ref": "Exploring Stieg Larsson's Södermalm, Slow Travel Stockholm, on the Millennium locations",
+        "url": "https://www.slowtravelstockholm.com/literature/exploring-stieg-larssons-sodermalm/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "millennium-offices-gotgatan",
+    "name": "The Millennium offices, Götgatan",
+    "progressLabel": "Part 1",
+    "character": "blomkvist",
+    "coords": [18.071323, 59.318345],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Millennium is a fictional magazine. The novels place its newsroom on Götgatan, a real Södermalm street; this sites it at the Götgatan and Hökens gata corner that readers and the screen versions use.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "The small investigative monthly at the heart of the book keeps its newsroom on Götgatan, one of Södermalm's busy shopping streets. It is the journalist's real home and the venture he spends the story trying to save. Larsson set it in a part of Söder he knew well, near where his own magazine once had its offices.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Stockholm walking tour: 8 Södermalm locations every Millennium fan has to visit, The Local, on the Götgatan office",
+        "url": "https://www.thelocal.se/20181026/stockholm-walking-tour-8-sodermalm-locations-every-millennium-fan-has-to-visit"
+      },
+      {
+        "kind": "guide",
+        "ref": "Götgatan 11, Stockholm, for the corner coordinates",
+        "url": "https://www.hitta.se/stockholms+l%C3%A4n/stockholm/g%C3%B6tgatan+11/omr%C3%A5de/59.318345236797114:18.071323415865116"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "blomkvist-flat-bellmansgatan",
+    "name": "Blomkvist's flat, Bellmansgatan",
+    "progressLabel": "Part 1",
+    "character": "blomkvist",
+    "coords": [18.064657, 59.320606],
+    "placeCertainty": "explicit",
+    "reference": "Part 1",
+    "order": 3,
+    "note": "The journalist lives in an attic flat on Bellmansgatan, high on Södermalm, reached by a walkway that crosses above the street. The book names the street, and the real building at Bellmansgatan 1 has become a fixed stop for readers walking the city of the novel.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bellmansgatan 1, Visit Stockholm, on Blomkvist's fictional address",
+        "url": "https://www.visitstockholm.com/o/bellmansgatan-1/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bellmansgatan 1, Stockholm, for the building coordinates",
+        "url": "https://www.hitta.se/stockholms+l%C3%A4n/stockholm/bellmansgatan+1/omr%C3%A5de/59.320606:18.064657"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hedeby-island-hedesunda",
+    "name": "Hedeby island",
+    "progressLabel": "Parts 2–3",
+    "character": "blomkvist",
+    "coords": [17.0243, 60.364],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Hedeby island and the town of Hedestad are invented. The novels place them on the coast a few hours north of Stockholm and just over an hour north of Gävle. This marks the Hedesunda islands on the Dalälven, the real river landscape the fictional island most resembles, far outside the Stockholm setting.",
+    "reference": "Parts 2–3",
+    "order": 4,
+    "note": "The long central investigation unfolds on a small private island held by an industrial dynasty, where a teenage girl vanished decades before. The island is fictional, set in the forested river country of northern Sweden. The Hedesunda islands on the Dalälven, north-west of Gävle, give a sense of the real geography Larsson drew on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hedesunda, Wikipedia, on the parish and its Dalälven islands",
+        "url": "https://en.wikipedia.org/wiki/Hedesunda"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hedeby Island, The Tattooed Girl, on the fictional island's northern-coast setting",
+        "url": "https://thetattooedgirl.wordpress.com/2011/05/30/hedeby-island/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "salander-flat-fiskargatan",
+    "name": "Salander's flat, Fiskargatan",
+    "progressLabel": "Part 4",
+    "character": "lisbeth",
+    "coords": [18.076778, 59.317955],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The flat is fictional. The Millennium novels place Salander's Södermalm home on Fiskargatan at Mosebacke; this marks Fiskargatan 9, the real building tied to that address across the trilogy.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "The hacker at the centre of the book keeps to herself on Södermalm, and by the end of the story she has the means to vanish into a large apartment near Mosebacke Torg. The address readers associate with her, Fiskargatan 9, is a real building above the square, its green metal roof easy to pick out on the skyline.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fiskargatan 9, Visit Stockholm, on Salander's fictional address at Mosebacke",
+        "url": "https://www.visitstockholm.com/o/fiskargatan-9/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fiskargatan 9, Stockholm, for the building coordinates",
+        "url": "https://www.hitta.se/stockholms+l%C3%A4n/stockholm/fiskargatan+9/omr%C3%A5de/59.317955:18.076778"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

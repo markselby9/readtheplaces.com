@@ -1,0 +1,38 @@
+{
+  "id": "the-girl-with-the-dragon-tattoo",
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "published": 2005,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [18.0705, 59.3175],
+  "zoom": 13,
+  "setting": {
+    "city": "Stockholm",
+    "country": "SE",
+    "note": "Larsson's Stockholm is a city of investigative journalism and cold money, centred on Södermalm: the Millennium magazine on Götgatan, a reporter's attic on Bellmansgatan, a hacker's flat above Mosebacke. From there the story makes one long excursion north, to the invented island of Hedeby in the river country beyond Gävle, and back again to settle scores in the capital's finance world.",
+    "bbox": [18.0, 59.3, 18.12, 59.35]
+  },
+  "rights": {
+    "originalWork": "In copyright. Stieg Larsson, first published in Swedish as Män som hatar kvinnor in 2005. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/178630/the-girl-with-the-dragon-tattoo-by-larsson-stieg/9780857054036",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Girl with the Dragon Tattoo, Stieg Larsson (2005). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1E5F74",
+    "note": "The cold steel-blue of a Nordic winter and the water around Södermalm. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "blomkvist": {
+      "name": "Mikael Blomkvist",
+      "color": "#1E5F74"
+    },
+    "lisbeth": {
+      "name": "Lisbeth Salander",
+      "color": "#A6321F"
+    }
+  }
+}
