@@ -1,0 +1,23 @@
+{
+  "id": "zuleika-dobson",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "published": 1911,
+  "orderingKey": "chapter",
+  "center": [-1.2578, 51.752],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Oxford",
+    "country": "GB",
+    "note": "Oxford in a single doomed summer term: the High, the river Isis, the Emperors’ heads outside the Sheldonian. Beerbohm invents a college but keeps the city exact, and it brings Oxford into the atlas.",
+    "bbox": [-1.304, 51.711, -1.176, 51.796]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Max Beerbohm published this in 1911.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Max Beerbohm, Zuleika Dobson (1911)."
+  }
+}

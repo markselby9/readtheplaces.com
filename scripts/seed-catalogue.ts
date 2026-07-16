@@ -334,6 +334,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'The gabled house is real, still standing on Turner Street in Salem and now a museum. Hawthorne built the novel around a house he could see, in the town he grew up in and later fled.',
   },
+  {
+    title: 'Zuleika Dobson',
+    author: 'Max Beerbohm',
+    published: 1911,
+    city: 'Oxford',
+    country: 'gb',
+    ordering: 'chapter',
+    why: 'Oxford in a single doomed summer term: the High, the river Isis, the Emperors’ heads outside the Sheldonian. Beerbohm invents a college but keeps the city exact, and it brings Oxford into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
