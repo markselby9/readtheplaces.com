@@ -1,0 +1,124 @@
+[
+  {
+    "id": "neckar-old-bridge-altstadt",
+    "name": "The Neckar and the Old Bridge, Altstadt",
+    "progressLabel": "Part One",
+    "character": "michael",
+    "coords": [8.7095, 49.4145],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Schlink leaves the city unnamed, but the river, the arched old bridge and the castle on the hill above the old town are drawn from his own Heidelberg, so this marks the Karl-Theodor-Brücke over the Neckar.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The novel's home ground is a river town with a steep old quarter and a bridge across the water. The narrator is a schoolboy here when a sudden illness in the street begins the affair that shapes his life, and the Neckar and its old bridge fix the setting as Heidelberg without the book ever saying so.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old Bridge (Karl Theodor Bridge), Heidelberg, Wikipedia, for the bridge and river coordinates",
+        "url": "https://en.wikipedia.org/wiki/Old_Bridge_(Heidelberg)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Reader, encyclopaedia overview noting the unnamed setting modelled on Heidelberg",
+        "url": "https://en.wikipedia.org/wiki/The_Reader"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hanna-flat-bahnhofstrasse",
+    "name": "Hanna's flat, Bahnhofstrasse",
+    "progressLabel": "Part One",
+    "character": "michael",
+    "coords": [8.6828, 49.406],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The city is never named and no exact address is given; the book places the tram conductor's flat in an old building on the Bahnhofstrasse, so this marks that street in Heidelberg's Bergheim quarter as a representative point.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The older woman lives in a plain flat up a worn staircase in an old building near the railway. It becomes the room where the boy reads aloud to her, book after book, before each meeting. The story ties it to the Bahnhofstrasse; the building itself is not identified.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bahnhofstrasse, Bergheim, Heidelberg, OpenStreetMap, for the street's location",
+        "url": "https://www.openstreetmap.org/search?query=Bahnhofstrasse%20Heidelberg"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Reader, plot and setting overview, for the flat's place in the story",
+        "url": "https://en.wikipedia.org/wiki/The_Reader"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "michael-gymnasium-altstadt",
+    "name": "Michael's gymnasium",
+    "progressLabel": "Part One",
+    "character": "michael",
+    "coords": [8.706, 49.4112],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The narrator's grammar school is never named, and the city is left unnamed but is modelled on Heidelberg; this marks the Kurfuerst-Friedrich-Gymnasium in the old town as a plausible stand-in for the boy's school.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The narrator is a gymnasium pupil skipping classes and slipping out to meet the older woman, then hiding the affair from schoolfriends on a swimming afternoon. The book keeps the school unnamed; a grammar school in the old town fits the walk between his lessons, the river and her flat.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kurfuerst-Friedrich-Gymnasium, Heidelberg, Wikipedia, for a representative Altstadt grammar school",
+        "url": "https://de.wikipedia.org/wiki/Kurf%C3%BCrst-Friedrich-Gymnasium"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "war-crimes-court-frankfurt",
+    "name": "The war-crimes court near Frankfurt",
+    "progressLabel": "Part Two",
+    "character": "michael",
+    "coords": [8.6897, 50.1165],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The court city is not named, but the novel sets the trial a train ride north of the unnamed home town, in the Frankfurt orbit where West Germany's real concentration-camp trials were held; this marks the Landgericht in Frankfurt am Main, about ninety kilometres north of Heidelberg.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Years later, a law student, the narrator sits in on a trial of former camp guards and recognises one of the defendants. The proceedings echo the real war-crimes trials heard in the courts around Frankfurt, far enough north that the daily journey marks the distance the story has travelled from the river town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Landgericht Frankfurt am Main, Wikidata, for the court coordinates",
+        "url": "https://www.wikidata.org/wiki/Q1802838"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Frankfurt Auschwitz trials, Wikipedia, on the real war-crimes trials that inform the scene",
+        "url": "https://en.wikipedia.org/wiki/Frankfurt_Auschwitz_trials"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "natzweiler-struthof-camp",
+    "name": "The former camp, Natzweiler-Struthof",
+    "progressLabel": "Part Two",
+    "character": "michael",
+    "coords": [7.2544, 48.4547],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "During the trial the narrator drives to a preserved camp site in Alsace; the book points to the former Natzweiler-Struthof camp in the Vosges hills, the only Nazi concentration camp on French soil, well outside the Heidelberg setting.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "Trying to grasp what the trial is about, the narrator makes a long drive to a preserved camp and walks the silent terraces of huts and wire. The site answers to Natzweiler-Struthof in the Alsace mountains, a real memorial reached across the Rhine and far from the river town where the story began.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Natzweiler-Struthof concentration camp, Wikipedia, for the memorial coordinates",
+        "url": "https://en.wikipedia.org/wiki/Natzweiler-Struthof_concentration_camp"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Reader, setting overview noting the visit to the Struthof camp site",
+        "url": "https://en.wikipedia.org/wiki/The_Reader"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
