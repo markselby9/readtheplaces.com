@@ -1,0 +1,23 @@
+{
+  "id": "father-goriot",
+  "title": "Father Goriot",
+  "author": "Honoré de Balzac",
+  "published": 1835,
+  "orderingKey": "chapter",
+  "center": [2.3484, 48.8535],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "Balzac’s Paris of 1819, climbed one address at a time: the shabby Maison Vauquer boarding house on the Left Bank, and the faubourg Saint-Germain where Rastignac learns what he wants. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.",
+    "bbox": [2.224, 48.816, 2.47, 48.902]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Honoré de Balzac published this in 1835.",
+    "translation": "Translated by ellen marriage. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/honore-de-balzac/father-goriot/ellen-marriage",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Honoré de Balzac, Father Goriot (1835)."
+  }
+}

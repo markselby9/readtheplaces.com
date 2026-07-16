@@ -464,6 +464,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Twain renamed his boyhood Hannibal “St. Petersburg”, but built it exactly: the Mississippi bank, the cave, the graveyard, the whitewashed fence. The town has marked those spots for tourists ever since, which makes it a rare novel a reader can already walk. It brings Mark Twain into the atlas.',
   },
+  {
+    title: 'Father Goriot',
+    author: 'Honoré de Balzac',
+    published: 1835,
+    city: 'Paris',
+    country: 'fr',
+    ordering: 'chapter',
+    why: 'Balzac’s Paris of 1819, climbed one address at a time: the shabby Maison Vauquer boarding house on the Left Bank, and the faubourg Saint-Germain where Rastignac learns what he wants. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
