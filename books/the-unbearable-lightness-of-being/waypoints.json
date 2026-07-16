@@ -1,0 +1,148 @@
+[
+  {
+    "id": "tomas-tereza-flat",
+    "name": "Tomas and Tereza's flat",
+    "progressLabel": "Prague",
+    "character": "tomas",
+    "coords": [14.427, 50.077],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Kundera never gives the couple a street address. Their life together plays out in an ordinary Prague flat above the old core, so this marks a representative point in the central residential district, not a documented building.",
+    "reference": "Part One, Lightness and Weight",
+    "order": 1,
+    "note": "The surgeon Tomas and the waitress Tereza set up house in a Prague flat, sharing it with the dog Karenin. Their domestic life, his affairs and her jealousy, is the intimate weight the novel keeps setting against the huge public weight of the occupation. Kundera keeps the address vague, so the flat stands for the private Prague the tanks could not quite reach.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on Tomas and Tereza's life in occupied Prague",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative point in central Prague; no address is given in the text"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wenceslas-square",
+    "name": "Wenceslas Square",
+    "progressLabel": "The invasion, 1968",
+    "character": "tomas",
+    "coords": [14.4232, 50.0755],
+    "placeCertainty": "explicit",
+    "reference": "Part Two, Soul and Body",
+    "order": 2,
+    "note": "In August 1968 the tanks of the Warsaw Pact roll into Prague, and Wenceslas Square becomes the stage of the resistance: crowds, painted-over street signs, young people arguing with the soldiers. Tereza goes out with her camera into the danger, and the invasion turns her private restlessness into a public act. The long boulevard-square is the symbolic heart of the Czech capital, then and in 1989.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on the 1968 invasion and Tereza's photographs",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "guide",
+        "ref": "Wenceslas Square, Wikipedia, for the coordinates of the square",
+        "url": "https://en.wikipedia.org/wiki/Wenceslas_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "charles-bridge-old-town",
+    "name": "Charles Bridge and the Old Town",
+    "progressLabel": "The invasion, 1968",
+    "character": "tomas",
+    "coords": [14.4114, 50.0865],
+    "placeCertainty": "explicit",
+    "reference": "Part Two, Soul and Body",
+    "order": 3,
+    "note": "The medieval stone bridge and the Old Town it leads into are the streets Tereza roams with her camera during the occupation, photographing soldiers and crowds along the Vltava. The bridge, lined with baroque statues, is the oldest crossing of the river and the seam between the Old Town and the castle side, the Prague the couple move through before exile.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on the Prague setting during the occupation",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "guide",
+        "ref": "Charles Bridge, Wikipedia, for the coordinates of the bridge",
+        "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "letna-plain",
+    "name": "The Letná plain",
+    "progressLabel": "Prague",
+    "character": "tomas",
+    "coords": [14.4075, 50.0896],
+    "placeCertainty": "explicit",
+    "reference": "Part Five, Lightness and Weight",
+    "order": 4,
+    "note": "The open plateau of Letná, above the river on the north bank, is the kind of empty Prague space the novel uses for its quieter reckonings, the long walks and second thoughts that follow the couple's return from exile. The plain looks back across the Vltava to the Old Town, and in the Communist years its parade ground carried the weight of official spectacle that the book's private lives resist.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on the Prague chapters after the couple's return",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "guide",
+        "ref": "Letná Park, Wikipedia, for the coordinates of the Letná plain",
+        "url": "https://en.wikipedia.org/wiki/Letn%C3%A1_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "petrin-hill",
+    "name": "Petřín Hill",
+    "progressLabel": "Tereza's dream",
+    "character": "tomas",
+    "coords": [14.3905, 50.0835],
+    "placeCertainty": "explicit",
+    "reference": "Part Four, Soul and Body",
+    "order": 5,
+    "note": "The wooded hill on the left bank, crowned with its slender lookout tower, is the setting of one of Tereza's recurring dreams, a strange gentle nightmare in which people walk up the hill to be shot at their own request. Petřín, a real park above the city, becomes the novel's image of a death that is offered as mercy and of Tereza's fear that her own life weighs nothing.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on Tereza's Petřín dream",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "guide",
+        "ref": "Petřín, Wikipedia, for the coordinates of the hill and lookout tower",
+        "url": "https://en.wikipedia.org/wiki/Pet%C5%99%C3%ADn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zurich-exile",
+    "name": "Zurich",
+    "progressLabel": "Exile",
+    "character": "tomas",
+    "coords": [8.5417, 47.3769],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kundera names Zurich as the couple's city of exile but gives no address; this marks the historic centre of the city as a representative point. Set outsideSetting because it lies beyond the Prague bounding box, a deliberate excursion to Switzerland.",
+    "reference": "Part Two / Part Five",
+    "order": 6,
+    "note": "After the invasion Tomas takes a hospital post in Zurich, and the couple leave Prague for Switzerland. Exile exposes the difference between them: Tomas can carry his lightness anywhere, while Tereza cannot bear a life cut loose from home. Her decision to go back, and his to follow, is the hinge of the novel, the choice of weight over lightness.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Unbearable Lightness of Being, Wikipedia, on the couple's exile in Zurich and return to Prague",
+        "url": "https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being"
+      },
+      {
+        "kind": "guide",
+        "ref": "Zürich, Wikipedia, for the coordinates of the city centre",
+        "url": "https://en.wikipedia.org/wiki/Z%C3%BCrich"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
