@@ -1,0 +1,142 @@
+[
+  {
+    "id": "hotel-metropol-lobby",
+    "name": "Hotel Metropol, the lobby",
+    "progressLabel": "Book One",
+    "character": "rostov",
+    "coords": [37.62158, 55.75833],
+    "placeCertainty": "explicit",
+    "reference": "Book One (1922)",
+    "order": 1,
+    "note": "The whole novel turns on this address. Stripped of his estate and sentenced to house arrest, the count is escorted back to the grand hotel where he already lives and told he will be shot if he ever steps outside. The Metropol is a real belle-epoque hotel of 1905, on the corner off Theatre Square, and its lobby, front desk and revolving doors become the edge of his entire world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Metropol Moscow, Wikipedia, on the 1905 hotel and its location by Theatre Square",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+      },
+      {
+        "kind": "author",
+        "ref": "Book One (1922), the count's arrival under house arrest"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "belfry-attic-room",
+    "name": "The belfry room, sixth floor",
+    "progressLabel": "Book One",
+    "character": "rostov",
+    "coords": [37.62145, 55.75848],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Towles moves the count from a grand suite up to a small former servants' room in an attic off the belfry. The Metropol is real but this exact room is the novel's invention, so it is sited within the hotel's upper floors.",
+    "reference": "Book One (1922)",
+    "order": 2,
+    "note": "On the day of his sentence the count is marched up to a cramped, sloping room under the eaves, a converted servants' quarters near the old bell tower, and made to leave his belongings behind. This attic becomes his home for the next thirty years. It is a fiction set inside a real building, tucked into the Metropol's top floor.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Metropol Moscow, Wikipedia, for the real building the attic room sits within",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+      },
+      {
+        "kind": "author",
+        "ref": "Book One (1922), the count is moved to the attic room"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "boyarsky-restaurant",
+    "name": "The Boyarsky restaurant",
+    "progressLabel": "Book Three",
+    "character": "rostov",
+    "coords": [37.62138, 55.75842],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The count becomes headwaiter of the hotel's finest restaurant, which Towles calls the Boyarsky. The Metropol has a famous dining room in reality, but the named restaurant and its staff are the novel's, so it is placed within the hotel.",
+    "reference": "Book Three (1930)",
+    "order": 3,
+    "note": "As the years pass the count takes a post as headwaiter in the hotel's most elegant restaurant, running its floor with two colleagues he calls the Triumvirate. The dining room, the wine cellar and the kitchen give his confinement a daily purpose. The restaurant as named is the book's, set inside the real Metropol.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hotel Metropol Moscow, Wikipedia, on the hotel's celebrated restaurant and dining hall",
+        "url": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+      },
+      {
+        "kind": "author",
+        "ref": "Book Three (1930), the count works as headwaiter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "theatre-square",
+    "name": "Theatre Square",
+    "progressLabel": "Book Two",
+    "character": "rostov",
+    "coords": [37.6193, 55.7586],
+    "placeCertainty": "explicit",
+    "reference": "Book Two",
+    "order": 4,
+    "note": "Just beyond the hotel's doors lies the open square the count can see but, for years, not cross. Theatre Square is a real plaza in central Moscow, ringed by theatres, and it stands for everything the wider city holds while he remains inside. Passers-by, weather and the changing decades reach him mostly through its windows.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Theatre Square (Moscow), Wikipedia, on the central square beside the Metropol",
+        "url": "https://en.wikipedia.org/wiki/Theatre_Square_(Moscow)"
+      },
+      {
+        "kind": "author",
+        "ref": "Book Two, the square outside the count's confinement"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bolshoi-theatre",
+    "name": "The Bolshoi Theatre",
+    "progressLabel": "Book Four",
+    "character": "rostov",
+    "coords": [37.6187, 55.7601],
+    "placeCertainty": "explicit",
+    "reference": "Book Four",
+    "order": 5,
+    "note": "Across Theatre Square rises the Bolshoi, the great opera and ballet house whose lit facade the count knows well from before his arrest. Its performances and grand occasions mark the cultural life of the Soviet capital going on without him. The Bolshoi is a real theatre, a short walk from the Metropol.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bolshoi Theatre, Wikipedia, on the opera house on Theatre Square",
+        "url": "https://en.wikipedia.org/wiki/Bolshoi_Theatre"
+      },
+      {
+        "kind": "author",
+        "ref": "Book Four, the Bolshoi across the square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "red-square-kremlin-walls",
+    "name": "Red Square and the Kremlin walls",
+    "progressLabel": "Book One",
+    "character": "rostov",
+    "coords": [37.6205, 55.7541],
+    "placeCertainty": "explicit",
+    "reference": "Book One (1922)",
+    "order": 6,
+    "note": "A few minutes' walk from the hotel stand the red brick walls of the Kremlin and the vast expanse of Red Square, the seat of the new government that has just tried and confined the count. Their nearness is the point: the machinery of the state that rules his fate sits almost next door. Both are real, at the heart of Moscow.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Square, Wikipedia, on the square and the Kremlin walls in central Moscow",
+        "url": "https://en.wikipedia.org/wiki/Red_Square"
+      },
+      {
+        "kind": "author",
+        "ref": "Book One (1922), the state that sentences the count"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
