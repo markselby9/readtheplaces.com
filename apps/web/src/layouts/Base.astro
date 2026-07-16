@@ -63,21 +63,55 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
 
   <body style={accent ? `--accent: ${accent}` : undefined}>
     <a class="skip" href="#main">Skip to content</a>
+
+    <header class="site-nav">
+      <div class="wrap">
+        <a class="brand" href="/">Read the Places</a>
+        <nav aria-label="Primary">
+          <a href="/#mapped">Books</a>
+          <a href="/#by-city">Cities</a>
+          <a href={`${repo}/blob/main/CONTRIBUTING.md`}>Add a book</a>
+        </nav>
+      </div>
+    </header>
+
     <slot />
 
     <footer class="site-foot">
-      <div class="wrap">
-        <p>
-          <strong>Read the Places.</strong> An open atlas of the real places in novels, in the order
-          the story happens. Free and open source: <a href={repo}
-            >github.com/markselby9/readtheplaces.com</a
-          >.
-        </p>
-        <p>
-          Book data <a href={`${repo}/blob/main/LICENSE`}>CC BY-SA 4.0</a>. Code MIT. Maps ©
-          <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors. Historical
-          maps © <a href="https://maps.nls.uk/">National Library of Scotland</a>.
-        </p>
+      <div class="wrap foot-grid">
+        <div class="foot-about">
+          <p class="foot-brand">Read the Places</p>
+          <p>An open atlas of the real places in novels, in the order the story happens.</p>
+        </div>
+
+        <nav class="foot-col" aria-label="Explore">
+          <h2>Explore</h2>
+          <ul>
+            <li><a href="/#mapped">All books</a></li>
+            <li><a href="/#by-city">By city</a></li>
+            <li><a href="/#open">Open for adoption</a></li>
+          </ul>
+        </nav>
+
+        <nav class="foot-col" aria-label="Contribute">
+          <h2>Contribute</h2>
+          <ul>
+            <li><a href={`${repo}/blob/main/CONTRIBUTING.md`}>Add a book</a></li>
+            <li><a href={repo}>Source on GitHub</a></li>
+            <li><a href={`${repo}/issues`}>Open issues</a></li>
+          </ul>
+        </nav>
+
+        <div class="foot-col foot-legal">
+          <h2>Credits</h2>
+          <p>
+            Book data <a href={`${repo}/blob/main/LICENSE`}>CC BY-SA 4.0</a>. Code MIT.
+          </p>
+          <p>
+            Maps © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.
+            Historical maps © <a href="https://maps.nls.uk/">National Library of Scotland</a>.
+          </p>
+        </div>
       </div>
     </footer>
   </body>

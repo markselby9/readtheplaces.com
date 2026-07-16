@@ -409,20 +409,129 @@ blockquote::after {
   border-bottom-color: var(--accent);
 }
 
+/* --------------------------------------------------------------- top nav */
+
+/* Site chrome, not page content: a quiet editorial bar. The wordmark carries
+   the name so the mast no longer has to. It sticks, so navigation is one reach
+   away on a long walk page. The reader hides it (see read.astro). */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(8px);
+  border-bottom: 1px solid var(--rule);
+}
+.site-nav .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s4);
+  padding-block: var(--s3);
+}
+.brand {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.site-nav nav {
+  display: flex;
+  gap: var(--s5);
+  align-items: center;
+}
+.site-nav nav a {
+  font-family: var(--sans);
+  font-size: var(--step--1);
+  color: var(--ink-2);
+  text-decoration: none;
+  padding-block: 2px;
+  border-bottom: 1px solid transparent;
+}
+.site-nav nav a:hover {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+@media (max-width: 460px) {
+  .site-nav .wrap {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s2);
+  }
+  .site-nav nav {
+    gap: var(--s4);
+  }
+}
+
 /* ------------------------------------------------------------------ footer */
 
 .site-foot {
+  margin-top: var(--s9);
   padding-block: var(--s7);
   border-top: 1px solid var(--rule);
   font-family: var(--sans);
   font-size: var(--step--1);
+  line-height: 1.6;
   color: var(--ink-3);
+}
+.foot-grid {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1fr 1.4fr;
+  gap: var(--s6) var(--s5);
 }
 .site-foot a {
   color: var(--ink-2);
 }
 .site-foot p + p {
   margin-top: var(--s2);
+}
+.foot-brand {
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+  margin-bottom: var(--s2);
+}
+.foot-col h2 {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: var(--s3);
+}
+.foot-col ul {
+  list-style: none;
+}
+.foot-col li + li {
+  margin-top: var(--s2);
+}
+.foot-col a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.foot-col a:hover {
+  border-bottom-color: var(--accent);
+}
+
+@media (max-width: 780px) {
+  .foot-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .foot-about {
+    grid-column: 1 / -1;
+  }
+}
+@media (max-width: 460px) {
+  .foot-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* --------------------------------------------------------------- responsive */

@@ -26,7 +26,6 @@ const schema = [websiteSchema(books.length, cities.length)];
 >
   <div class="wrap">
     <header class="mast">
-      <p class="kicker">Read the Places</p>
       <h1>Not a map of books.<br /><em>A book you can walk through.</em></h1>
       <p class="standfirst">
         An open atlas of the real places in novels, in the order the story visits them. Every place
@@ -76,7 +75,7 @@ const schema = [websiteSchema(books.length, cities.length)];
         </ul>
       </section>
 
-      <nav class="cities" aria-label="Browse by city">
+      <nav class="cities" aria-label="Browse by city" id="by-city">
         <h2 class="section">By city</h2>
         <ul>
           {

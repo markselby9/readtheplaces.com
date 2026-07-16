@@ -25,7 +25,8 @@ const groups = stopGroups(waypoints);
 </Base>
 
 <style is:global>
-  /* The reader fills the viewport, so the site footer would push it off screen. */
+  /* The reader fills the viewport, so the site chrome would push it off screen. */
+  body:has(.reader) .site-nav,
   body:has(.reader) .site-foot {
     display: none;
   }
