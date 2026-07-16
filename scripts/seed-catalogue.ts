@@ -392,6 +392,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Brussels, thinly disguised as Villette: the boarding school on the Rue d’Isabelle where Brontë herself taught, the park, the old Flemish streets. She mapped her own two years into it, and it brings Belgium into the atlas.',
   },
+  {
+    title: 'Madame Bovary',
+    author: 'Gustave Flaubert',
+    published: 1857,
+    city: 'Rouen',
+    country: 'fr',
+    ordering: 'chapter',
+    why: 'Emma’s world is the fictional village of Yonville, but her escapes are to a real Rouen: the cathedral, the theatre, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

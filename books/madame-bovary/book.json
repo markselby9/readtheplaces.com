@@ -1,0 +1,23 @@
+{
+  "id": "madame-bovary",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "published": 1857,
+  "orderingKey": "chapter",
+  "center": [1.094, 49.4405],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Rouen",
+    "country": "FR",
+    "note": "Emma’s world is the fictional village of Yonville, but her escapes are to a real Rouen: the cathedral, the theatre, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.",
+    "bbox": [1.03, 49.417, 1.152, 49.465]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Gustave Flaubert published this in 1857.",
+    "translation": "Translated by eleanor marx aveling. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Gustave Flaubert, Madame Bovary (1857)."
+  }
+}
