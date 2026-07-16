@@ -1,0 +1,133 @@
+[
+  {
+    "id": "paterson-new-jersey",
+    "name": "Oscar's Paterson, New Jersey",
+    "progressLabel": "Ghetto Nerd",
+    "character": "oscar",
+    "coords": [-74.1718, 40.9168],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Díaz names Paterson as the family's American home; the novel gives no single address, so this marks the city centre. Flagged as outside the setting because the book is anchored on Santo Domingo.",
+    "reference": "Opening section, GhettoNerd at the End of the World",
+    "order": 1,
+    "note": "The overweight, comics-and-genre-obsessed teenager at the centre of the book grows up in the Dominican diaspora of Paterson, a working New Jersey city with a large island community. It is the northern pole of a story that keeps pulling south, back toward the family's Dominican past.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Paterson, New Jersey, Wikipedia, for the city and its Dominican community",
+        "url": "https://en.wikipedia.org/wiki/Paterson,_New_Jersey"
+      },
+      {
+        "kind": "guide",
+        "ref": "GPS coordinates of Paterson, New Jersey",
+        "url": "https://latitude.to/map/us/united-states/cities/paterson-new-jersey"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zona-colonial",
+    "name": "The Zona Colonial",
+    "progressLabel": "Santo Domingo",
+    "character": "oscar",
+    "coords": [-69.88644, 18.472],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colonial old town of Santo Domingo is a named, real district; this marks its centre.",
+    "reference": "The Santo Domingo chapters",
+    "order": 2,
+    "note": "When the family returns to the capital, the oldest streets of the Americas frame the summers: the walled colonial quarter of Santo Domingo, the first European city in the New World, with its cathedral, forts and grid laid down in the early sixteenth century. It grounds the island half of the story in a place that predates everything the dictatorship built on top of it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ciudad Colonial (Colonial City of Santo Domingo), UNESCO World Heritage listing",
+        "url": "https://whc.unesco.org/en/list/526/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Zona Colonial geographic coordinates, geodatos.net",
+        "url": "https://www.geodatos.net/en/coordinates/dominican-republic/zona-colonial"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malecon-seafront",
+    "name": "The Malecón",
+    "progressLabel": "Santo Domingo",
+    "character": "oscar",
+    "coords": [-69.9018, 18.4593],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Malecón, the Avenida George Washington seafront, is named and real; this marks a representative point along it, at the landmark obelisk.",
+    "reference": "The Santo Domingo chapters",
+    "order": 3,
+    "note": "The city's long ocean drive, the Malecón, is where the capital comes out to walk, drink and be seen after dark. Along Avenida George Washington the sea keeps company with the traffic, and the tall Trujillo-era obelisk stands as a reminder of the regime whose reach shapes the whole family's story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Malecón de Santo Domingo and the Obelisco Macho on Avenida George Washington",
+        "url": "https://www.conectate.com.do/articulo/malecon-de-santo-domingo-republica-dominicana/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "capital-family-home",
+    "name": "The family's house in the capital",
+    "progressLabel": "The de León house",
+    "character": "oscar",
+    "coords": [-69.9056, 18.4684],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the house a street or number. This marks Gazcue, a long-established residential quarter between the colonial zone and the Malecón, as a representative middle-class Santo Domingo neighbourhood of the kind the family keeps.",
+    "reference": "The Santo Domingo chapters",
+    "order": 4,
+    "note": "Back on the island the family has a house in the capital, the base for the summers and the place where the older generation's memory lives. We place it in Gazcue, one of the city's oldest residential districts, as a stand-in for the unnamed home rather than a claim to a specific address.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gazcue, a historic residential sector of Santo Domingo, Mapcarta",
+        "url": "https://mapcarta.com/34674016"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "canefield-outside-capital",
+    "name": "The cane field outside the capital",
+    "progressLabel": "The curse",
+    "character": "oscar",
+    "coords": [-70.113, 18.415],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The cane field where the family curse turns violent is described but not located. This marks the historic sugar country around Nigua, west of the capital, as a representative cane landscape rather than an identified spot.",
+    "reference": "Wildwood / the Belicia chapters",
+    "order": 5,
+    "note": "One of the book's most brutal scenes plays out in the sugar cane beyond the city, where a young woman is driven out and beaten among the stalks. The cane fields stand for the reach of the dictatorship and the curse the family cannot outrun. We site it in the old sugar districts west of Santo Domingo, around Nigua, as a representative landscape, since the novel keeps the exact place unnamed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nigua and the colonial sugar mills of the San Cristóbal coast, west of Santo Domingo",
+        "url": "https://en.wikipedia.org/wiki/Nigua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bani",
+    "name": "Baní",
+    "progressLabel": "Family origins",
+    "character": "oscar",
+    "coords": [-70.33181, 18.27971],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Baní is a named, real town in Peravia Province; this marks the town centre.",
+    "reference": "The Cabral / Belicia family history",
+    "order": 6,
+    "note": "West of the capital, Baní is where the family line reaches back into the years of the dictatorship, the province that ties the de León and Cabral story to a specific corner of the country. It sits in a dry coastal valley about a hundred kilometres from Santo Domingo, at the far edge of the map's island half.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Baní, Dominican Republic, geographic coordinates, geodatos.net",
+        "url": "https://www.geodatos.net/en/coordinates/dominican-republic/bani"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

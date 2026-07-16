@@ -1,0 +1,34 @@
+{
+  "id": "the-brief-wondrous-life-of-oscar-wao",
+  "title": "The Brief Wondrous Life of Oscar Wao",
+  "author": "Junot Díaz",
+  "published": 2007,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-69.9, 18.47],
+  "zoom": 10.6,
+  "setting": {
+    "city": "Santo Domingo",
+    "country": "DO",
+    "note": "The Dominican half of a story that runs between New Jersey and the island. Díaz sets the family's fortunes against the long shadow of the Trujillo dictatorship: the walled Zona Colonial, the seafront Malecón, a quiet capital neighbourhood, the cane fields inland where the family curse turns violent, and Baní to the west, where the line begins. The map anchors on Santo Domingo; Oscar's Paterson sits outside it, to the north.",
+    "bbox": [-70.45, 18.2, -69.8, 18.55]
+  },
+  "rights": {
+    "originalWork": "In copyright. Junot Díaz, first published 2007. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/294208/the-brief-wondrous-life-of-oscar-wao-by-junot-diaz/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Brief Wondrous Life of Oscar Wao, Junot Díaz (2007). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#9E2B17",
+    "note": "The red of Caribbean heat and the fukú, the family curse that stalks the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "oscar": {
+      "name": "Oscar de León",
+      "color": "#2F3F8F"
+    }
+  }
+}

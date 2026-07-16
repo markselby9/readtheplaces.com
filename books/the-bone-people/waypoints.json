@@ -1,0 +1,108 @@
+[
+  {
+    "id": "kerewin-tower-okarito",
+    "name": "Kerewin's tower, near Okarito",
+    "progressLabel": "Part One",
+    "character": "kerewin",
+    "coords": [170.217, -43.2],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The tower is invented, but its ground is not. Keri Hulme lived at Okarito, on this coast, in a house she built herself, and the novel's stone tower stands on the same shore. Sited at Okarito township as the nearest real anchor.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "Kerewin Holmes, a painter estranged from her family, has built a tall stone tower on the coast and lives there alone, self-sufficient and walled off from other people. Her solitude is broken when a mute boy climbs in through a window. Okarito, the small West Coast settlement where the author herself made her home, sits behind the same dunes and lagoon.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Okarito, Wikipedia, noting Keri Hulme among the settlement's residents",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Keri Hulme, Wikipedia, on her life at Okarito and the writing of the novel",
+        "url": "https://en.wikipedia.org/wiki/Keri_Hulme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tasman-beach-okarito",
+    "name": "The Tasman Sea beach, Okarito",
+    "progressLabel": "Part One",
+    "character": "kerewin",
+    "coords": [170.185, -43.21],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The beach below Okarito is a real strand on the open Tasman; sited at the shore just west of the settlement as a representative point.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The long grey beach on the open Tasman, all driftwood and surf, is where much of the coastal life of the book happens: walks, salvage, the slow forming of a strange found family between the woman, the boy and the man. The West Coast surf here is real and dangerous, the sea that carries wreckage ashore.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Okarito lagoon and beach, West Coast NZ visitor guide",
+        "url": "https://westcoast.co.nz/visit/operators/okarito-lagoon-and-beach/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "okarito-lagoon",
+    "name": "Okarito Lagoon",
+    "progressLabel": "Part Two",
+    "character": "kerewin",
+    "coords": [170.187, -43.223],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Okarito Lagoon is a real coastal wetland on the West Coast; sited at the lagoon itself. The novel fictionalises the nearby township but keeps this landscape of tidal water and forest.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The still tidal lagoon behind the dunes is the largest unmodified coastal wetland in New Zealand, backed by rainforest and the Southern Alps, and home to the kotuku, the white heron. Its quiet water and birdlife give the book its sense of a place apart, where the characters retreat and take stock.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Okarito Lagoon, Wikipedia, on the wetland's size and location south of Hokitika",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito_Lagoon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hokitika-town",
+    "name": "Hokitika",
+    "progressLabel": "Part Two",
+    "character": "kerewin",
+    "coords": [170.96806, -42.71556],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Hokitika is the real West Coast town, the region's main centre north of Okarito; sited at the town.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Hokitika, an old gold-rush port at the mouth of its river, is the nearest real town of any size on this stretch of coast, the place people come to for supplies, drink and company. It stands for the small West Coast world the characters move through, a day's travel up the coast from the Okarito shore.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hokitika, Wikipedia, for the town's location and gold-rush history",
+        "url": "https://en.wikipedia.org/wiki/Hokitika"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "christchurch",
+    "name": "Christchurch",
+    "progressLabel": "Part Three",
+    "character": "kerewin",
+    "coords": [172.6361, -43.5311],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Christchurch is a real city and a deliberate excursion east across the island, far outside the West Coast setting; marked outsideSetting for that reason and sited at the city centre.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "When violence tears the makeshift family apart, the story reaches across the Southern Alps to Christchurch, the largest city of the South Island, on the dry eastern plains. It is where the injured child is taken and where the characters are scattered, the hard institutional world beyond the coast's isolation.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Christchurch, Wikipedia, for the city's location on the South Island's east coast",
+        "url": "https://en.wikipedia.org/wiki/Christchurch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
