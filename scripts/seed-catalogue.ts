@@ -365,6 +365,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Puritan Boston in the 1640s, most of it long gone: the scaffold in the market-place, the prison on its lane, the forest at the edge of town. Almost everything here will be inferred, which is exactly the test the certainty labels are for. It pairs with The Bostonians, the same city two centuries on.',
   },
+  {
+    title: 'Buddenbrooks',
+    author: 'Thomas Mann',
+    published: 1901,
+    city: 'Lübeck',
+    country: 'de',
+    ordering: 'chapter',
+    why: 'A Hanseatic merchant family declines over four generations in a Lübeck Mann rebuilds house by house. The Buddenbrookhaus on Mengstraße is real and now a museum, and it brings Germany into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

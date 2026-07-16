@@ -1,0 +1,23 @@
+{
+  "id": "buddenbrooks",
+  "title": "Buddenbrooks",
+  "author": "Thomas Mann",
+  "published": 1901,
+  "orderingKey": "chapter",
+  "center": [10.6847, 53.8664],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Lübeck",
+    "country": "DE",
+    "note": "A Hanseatic merchant family declines over four generations in a Lübeck Mann rebuilds house by house. The Buddenbrookhaus on Mengstraße is real and now a museum, and it brings Germany into the atlas.",
+    "bbox": [10.554, 53.768, 10.969, 53.994]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Thomas Mann published this in 1901.",
+    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Thomas Mann, Buddenbrooks (1901)."
+  }
+}
