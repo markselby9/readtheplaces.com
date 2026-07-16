@@ -1,0 +1,23 @@
+{
+  "id": "the-house-of-the-seven-gables",
+  "title": "The House of the Seven Gables",
+  "author": "Nathaniel Hawthorne",
+  "published": 1851,
+  "orderingKey": "chapter",
+  "center": [-70.8912, 42.5205],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Salem",
+    "country": "US",
+    "note": "The gabled house is real, still standing on Turner Street in Salem and now a museum. Hawthorne built the novel around a house he could see, in the town he grew up in and later fled.",
+    "bbox": [-70.94, 42.49, -70.85, 42.55]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Nathaniel Hawthorne published this in 1851.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-house-of-the-seven-gables",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Nathaniel Hawthorne, The House of the Seven Gables (1851)."
+  }
+}

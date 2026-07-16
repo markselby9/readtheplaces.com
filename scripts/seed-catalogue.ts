@@ -323,6 +323,17 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Geneva, the Mer de Glace above Chamonix, and a laboratory in Ingolstadt. Shelley wanders from the Alps to the Arctic, but the lake at the centre is precise, and it brings Switzerland into the atlas.',
   },
+
+  // A third wave, one book at a time.
+  {
+    title: 'The House of the Seven Gables',
+    author: 'Nathaniel Hawthorne',
+    published: 1851,
+    city: 'Salem',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'The gabled house is real, still standing on Turner Street in Salem and now a museum. Hawthorne built the novel around a house he could see, in the town he grew up in and later fled.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
