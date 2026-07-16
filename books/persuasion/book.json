@@ -1,0 +1,23 @@
+{
+  "id": "persuasion",
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "published": 1817,
+  "orderingKey": "chapter",
+  "center": [-2.3597, 51.3814],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Bath",
+    "country": "GB",
+    "note": "Austen’s Bath, named street by street: Camden Place, the Pump Room, Milsom Street, the White Hart. The novel also carries Anne Elliot to the Cobb at Lyme Regis, where Louisa falls. It brings both Bath and Jane Austen into the atlas.",
+    "bbox": [-2.414, 51.351, -2.316, 51.411]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Jane Austen published this in 1817.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Jane Austen, Persuasion (1817)."
+  }
+}

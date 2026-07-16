@@ -254,6 +254,15 @@ const CATALOGUE: Seed[] = [
     why: 'Begins near Edinburgh, at the House of Shaws by Cramond, then crosses the Highlands after a real murder, the Appin killing of 1752. Stevenson tracked the route on maps and it can be walked.',
   },
   {
+    title: 'Persuasion',
+    author: 'Jane Austen',
+    published: 1817,
+    city: 'Bath',
+    country: 'gb',
+    ordering: 'chapter',
+    why: 'Austen’s Bath, named street by street: Camden Place, the Pump Room, Milsom Street, the White Hart. The novel also carries Anne Elliot to the Cobb at Lyme Regis, where Louisa falls. It brings both Bath and Jane Austen into the atlas.',
+  },
+  {
     title: 'Heart of Darkness',
     author: 'Joseph Conrad',
     published: 1899,
