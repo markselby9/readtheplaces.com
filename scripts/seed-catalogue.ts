@@ -518,6 +518,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'The March sisters’ Concord, drawn from Alcott’s own Orchard House on Lexington Road, now a museum: the house, the neighbour’s mansion, the town where the Alcotts, Emerson and Thoreau were all near neighbours. It brings Louisa May Alcott into the atlas.',
   },
+  {
+    title: 'Death Comes for the Archbishop',
+    author: 'Willa Cather',
+    published: 1927,
+    city: 'Santa Fe',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'Archbishop Latour’s New Mexico, from the plaza and the cathedral he raises at Santa Fe to the sky-city of Ácoma and the desert missions. Cather draws the real Southwest of the 1850s, and it brings her, and a new American region, into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

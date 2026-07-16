@@ -1,0 +1,23 @@
+{
+  "id": "death-comes-for-the-archbishop",
+  "title": "Death Comes for the Archbishop",
+  "author": "Willa Cather",
+  "published": 1927,
+  "orderingKey": "chapter",
+  "center": [-105.9385, 35.6876],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Santa Fe",
+    "country": "US",
+    "note": "Archbishop Latour’s New Mexico, from the plaza and the cathedral he raises at Santa Fe to the sky-city of Ácoma and the desert missions. Cather draws the real Southwest of the 1850s, and it brings her, and a new American region, into the atlas.",
+    "bbox": [-106.112, 35.588, -105.894, 35.755]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Willa Cather published this in 1927.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/willa-cather/death-comes-for-the-archbishop",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Willa Cather, Death Comes for the Archbishop (1927)."
+  }
+}
