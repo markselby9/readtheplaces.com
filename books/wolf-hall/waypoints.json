@@ -1,0 +1,153 @@
+[
+  {
+    "id": "putney-birthplace",
+    "name": "Putney, the smith's yard",
+    "progressLabel": "Part One",
+    "character": "cromwell",
+    "coords": [-0.2211, 51.4649],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Cromwell was born in Putney, then a Thames-side village upstream of London, around 1485; the family's exact plot is not recorded, so this marks the riverside village near Brewhouse Lane where his father Walter kept a brewery and forge.",
+    "reference": "Part One, opening",
+    "order": 1,
+    "note": "The story begins on the ground, with a beaten boy fleeing his violent father in a riverside village. Putney is where the future councillor starts as a blacksmith's son, and the distance from here to the King's chamber is the whole arc of the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Thomas Cromwell, Wikipedia, on his birth in Putney around 1485",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Cromwell"
+      },
+      {
+        "kind": "guide",
+        "ref": "Putney High Street, Wikipedia, for the village coordinates by the Thames",
+        "url": "https://en.wikipedia.org/wiki/Putney_High_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "austin-friars-house",
+    "name": "Cromwell's house, Austin Friars",
+    "progressLabel": "Part Two",
+    "character": "cromwell",
+    "coords": [-0.0857, 51.5155],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Cromwell built one of the City's largest private mansions within the Augustinian friary precinct at Austin Friars, but the house is gone; this marks the precinct centre at the surviving Dutch Church, raised in the old friary nave.",
+    "reference": "Parts Two to Six",
+    "order": 2,
+    "note": "The book's warm heart is the busy household Cromwell runs in the City: clerks, wards, ledgers and a table always laid for one more guest. He enlarged his home out of the friary land at Austin Friars, and after his fall the Crown seized it. The precinct's church still stands as the Dutch Church.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Austin Friars, London, Wikipedia, on Cromwell's mansion within the friary precinct",
+        "url": "https://en.wikipedia.org/wiki/Austin_Friars,_London"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dutch Church, Austin Friars, Wikidata, for the precinct coordinates",
+        "url": "https://www.wikidata.org/wiki/Q5317258"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "york-place-whitehall",
+    "name": "York Place, becoming Whitehall",
+    "progressLabel": "Part Three",
+    "character": "cromwell",
+    "coords": [-0.1256, 51.5044],
+    "placeCertainty": "explicit",
+    "certaintyNote": "York Place, the archbishops of York's London residence, passed to the King after Wolsey's fall and was rebuilt as the Palace of Whitehall; nothing Tudor survives above ground, so this marks the site at the Banqueting House, the one standing fragment.",
+    "reference": "Parts Three to Five",
+    "order": 3,
+    "note": "When Cardinal Wolsey falls, the King takes his grand riverside house at York Place and makes it Whitehall, the new seat of the court. Cromwell moves with the power, from the cardinal's service into the King's, and the transfer of this one building marks the hinge of his rise.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palace of Whitehall, Wikipedia, on York Place, Wolsey and the rebuilding as Whitehall",
+        "url": "https://en.wikipedia.org/wiki/Palace_of_Whitehall"
+      },
+      {
+        "kind": "guide",
+        "ref": "Banqueting House, Whitehall, latitude.to, for the site coordinates",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/2344/banqueting-house-whitehall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tower-of-london",
+    "name": "The Tower of London",
+    "progressLabel": "Part Five",
+    "character": "cromwell",
+    "coords": [-0.0759, 51.5081],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Tower is named in the novel and stands today, both fortress and state prison; sited at the White Tower at the centre of the complex.",
+    "reference": "Parts Five and Six",
+    "order": 4,
+    "note": "The fortress downriver is where the King's business turns lethal. Thomas More is held and questioned here before his execution, and Cromwell is the man who must manage it. The Tower is the place the book keeps returning to when loyalty runs out.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "White Tower, Tower of London, latitude.to, for the coordinates",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/8469/white-tower-tower-of-london"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Thomas Cromwell, Historic Royal Palaces, on Cromwell and the Tower",
+        "url": "https://www.hrp.org.uk/tower-of-london/history-and-stories/thomas-cromwell/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hampton-court",
+    "name": "Hampton Court Palace",
+    "progressLabel": "Part Four",
+    "character": "cromwell",
+    "coords": [-0.3375, 51.4033],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Hampton Court is named and stands today; Wolsey built the palace and it passed to the King. It sits about twenty kilometres upriver, at the western edge of the book's Greater-London map.",
+    "reference": "Part Four",
+    "order": 5,
+    "note": "Wolsey's country palace upriver is the measure of how high a cardinal could reach, and of how much the King wanted it. When it passes to Henry, the lesson is not lost on Cromwell: build magnificently, and be ready to hand it over. The Tudor palace still stands.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hampton Court Palace, Wikipedia, on Wolsey's palace passing to the King",
+        "url": "https://en.wikipedia.org/wiki/Hampton_Court_Palace"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hampton Court Palace, latitude.to, for the coordinates",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/1821/hampton-court-palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wulfhall-wiltshire",
+    "name": "Wolf Hall, Wiltshire",
+    "progressLabel": "Part Six",
+    "character": "cromwell",
+    "coords": [-1.631, 51.341],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wulfhall, near Burbage in Wiltshire, was the Seymour family seat; the Tudor house is gone, and this marks its recorded site, roughly 110 kilometres west of London and well outside the book's London map.",
+    "reference": "Part Six, Wolf Hall",
+    "order": 6,
+    "note": "The title names a place the reader barely reaches: the Seymour seat in Wiltshire, where the court will progress and where Jane Seymour waits at the edge of the story. It hangs over the last pages as the next move on the board, far from the City where Cromwell does his work.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wulfhall, Wikipedia, on the Seymour family seat near Burbage",
+        "url": "https://en.wikipedia.org/wiki/Wulfhall"
+      },
+      {
+        "kind": "guide",
+        "ref": "Wulfhall, latitude.to, for the site coordinates in Wiltshire",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/9517/wulfhall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

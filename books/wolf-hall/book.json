@@ -1,0 +1,35 @@
+{
+  "id": "wolf-hall",
+  "title": "Wolf Hall",
+  "author": "Hilary Mantel",
+  "published": 2009,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.09, 51.515],
+  "zoom": 11.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "date": "1500s",
+    "note": "Tudor London seen from the desk of a blacksmith's son who rises to run a kingdom. The map holds the City around Cromwell's own house at Austin Friars, then reaches west to Cardinal Wolsey's York Place as it becomes the King's Whitehall, downriver to the Tower, and upriver past Putney to the palace at Hampton Court.",
+    "bbox": [-0.4, 51.38, -0.04, 51.54]
+  },
+  "rights": {
+    "originalWork": "In copyright. Hilary Mantel, first published 2009. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.com/products/wolf-hall-hilary-mantel",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Wolf Hall, Hilary Mantel (2009). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8C2D1B",
+    "note": "The deep Tudor brick-red of livery and sealing wax. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "cromwell": {
+      "name": "Thomas Cromwell",
+      "color": "#2E2A26"
+    }
+  }
+}
