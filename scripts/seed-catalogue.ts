@@ -536,6 +536,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Colonial New South Wales: the Turon goldfields, the cattle runs, and the Terrible Hollow where the Marston boys hide out, on the real bushranging country around Bathurst. Boldrewood drew the diggings and the bush from life, and it brings Australia, a whole continent, into the atlas.',
   },
+  {
+    title: 'The Purple Land',
+    author: 'W. H. Hudson',
+    published: 1885,
+    city: 'Montevideo',
+    country: 'uy',
+    ordering: 'chapter',
+    why: 'Richard Lamb loose in the Banda Oriental, the purple land east of the river: Montevideo, the estancias of the pampas, and the little towns of a country just out of civil war. Hudson rode this ground himself, and it brings Uruguay, and South America, into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
