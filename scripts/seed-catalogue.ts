@@ -509,6 +509,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Eliot’s Florence of 1492, researched to the stone: the Piazza della Signoria where Savonarola burns the vanities, the Duomo, the Ponte Vecchio, San Marco. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.',
   },
+  {
+    title: 'Little Women',
+    author: 'Louisa May Alcott',
+    published: 1868,
+    city: 'Concord',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'The March sisters’ Concord, drawn from Alcott’s own Orchard House on Lexington Road, now a museum: the house, the neighbour’s mansion, the town where the Alcotts, Emerson and Thoreau were all near neighbours. It brings Louisa May Alcott into the atlas.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

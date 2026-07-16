@@ -1,0 +1,23 @@
+{
+  "id": "little-women",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "published": 1868,
+  "orderingKey": "chapter",
+  "center": [-71.343, 42.4581],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Concord",
+    "country": "US",
+    "note": "The March sisters’ Concord, drawn from Alcott’s own Orchard House on Lexington Road, now a museum: the house, the neighbour’s mansion, the town where the Alcotts, Emerson and Thoreau were all near neighbours. It brings Louisa May Alcott into the atlas.",
+    "bbox": [-71.4, 42.43, -71.3, 42.49]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Louisa May Alcott published this in 1868.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/louisa-may-alcott/little-women",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Louisa May Alcott, Little Women (1868)."
+  }
+}
