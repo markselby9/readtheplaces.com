@@ -1,0 +1,23 @@
+{
+  "id": "washington-square",
+  "title": "Washington Square",
+  "author": "Henry James",
+  "published": 1880,
+  "orderingKey": "chapter",
+  "center": [-73.9973, 40.7308],
+  "zoom": 12.5,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "A single square, mapped to the door: Dr Sloper’s house on Washington Square North, the Row still standing, the Bowery a world away. James fixes the whole novel to a few blocks of Greenwich Village, which is exactly what this project is for.",
+    "bbox": [-74.259, 40.477, -73.7, 40.918]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Henry James published this in 1880.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/henry-james/washington-square",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Henry James, Washington Square (1880)."
+  }
+}

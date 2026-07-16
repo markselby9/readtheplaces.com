@@ -401,6 +401,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Emma’s world is the fictional village of Yonville, but her escapes are to a real Rouen: the cathedral, the theatre, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.',
   },
+  {
+    title: 'Washington Square',
+    author: 'Henry James',
+    published: 1880,
+    city: 'New York',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'A single square, mapped to the door: Dr Sloper’s house on Washington Square North, the Row still standing, the Bowery a world away. James fixes the whole novel to a few blocks of Greenwich Village, which is exactly what this project is for.',
+  },
 ];
 
 // ---------------------------------------------------------------------------
