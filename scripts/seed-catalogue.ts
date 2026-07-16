@@ -262,6 +262,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Conrad went up the Congo himself in 1890 and the novella follows his own journey. It will have almost no Street View, no historical layer, and the places are named obliquely. If the design survives this book it survives anything.',
   },
+  {
+    title: 'The Financier',
+    author: 'Theodore Dreiser',
+    published: 1912,
+    city: 'Philadelphia',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'Philadelphia and the making of a financier: the banks and brokerages of Third Street, the Exchange, the penitentiary on Fairmount. Dreiser builds Frank Cowperwood’s rise from the real ledgers of the city, and it brings Philadelphia into the atlas.',
+  },
 
   // A second wave: new cities, and two countries the atlas did not reach before.
   {
