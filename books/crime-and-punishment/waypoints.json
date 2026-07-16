@@ -201,9 +201,9 @@
     "name": "Svidrigailov and the Achilles helmet",
     "progressLabel": "Part 6, ch. 6",
     "character": "svidrigailov",
-    "coords": [30.2921, 59.9483],
+    "coords": [30.2947, 59.954],
     "placeCertainty": "inferred",
-    "certaintyNote": "A fire tower with a sentry, on the Petersburg Side. The tower is not named. Sited near the historic fire station on the Petrogradsky district's Bolshoy Prospect.",
+    "certaintyNote": "A fire tower with a sentry, on the Petersburg Side. Dostoevsky does not name it, but scholars place it at the fire station on Syezzhinskaya Street, whose watchtower stood over the Petrogradsky district.",
     "quoteAnchor": "with a copper Achilles helmet on his head",
     "passage": "At the great closed gates of the house, a little man stood with his shoulder leaning against them, wrapped in a grey soldier's coat, with a copper Achilles helmet on his head. He cast a drowsy and indifferent glance at Svidrigaïlov.",
     "note": "Svidrigailov tells the bored sentry he is going to America, puts a revolver to his head and pulls the trigger. The witness to the novel's other suicide is a sleepy fireman in a helmet that Dostoevsky insists on calling Achilles. It is the coldest joke in the book.",
@@ -211,6 +211,11 @@
       {
         "kind": "passage",
         "ref": "Part 6, ch. 6"
+      },
+      {
+        "kind": "guide",
+        "ref": "The fire station at Syezzhinskaya Street 3, whose watchtower is the one Dostoevsky depicts in Svidrigailov's last walk",
+        "url": "https://mariaivart.ru/en/Locations-from-Crime-and-Punishment-novel-4/"
       }
     ],
     "editorialStatus": "reviewed"
