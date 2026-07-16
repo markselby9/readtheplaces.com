@@ -1,0 +1,127 @@
+[
+  {
+    "id": "siguake-homestead-communal-lands",
+    "name": "The family homestead, communal lands",
+    "progressLabel": "Chapter 1",
+    "character": "tambu",
+    "coords": [32.45, -18.78],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The homestead is an invented family compound. The novel places it about twenty miles from Umtali, by the Nyamarira river, in the communal lands set aside for Black farmers under colonial rule; this marks a representative point in that countryside between Mutare and Rusape.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The narrator's childhood is spent here, in a poor rural household of subsistence farmers where school fees are scarce and a girl's schooling comes last. The death of her brother, away at the mission, is what finally opens a place for her. The communal lands were the reserves colonial policy pushed African families onto, and the book opens on that hard, ordinary ground.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Nervous Conditions plot summary and setting, LitCharts",
+        "url": "https://www.litcharts.com/lit/nervous-conditions/summary"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative point in the Manicaland communal lands, roughly twenty miles from Mutare as the novel states"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rusape-market-bus-town",
+    "name": "Rusape, the district town",
+    "progressLabel": "Chapter 1",
+    "character": "tambu",
+    "coords": [32.1284, -18.5279],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's bus terminus and market, the cluster of tuckshops the family call the magrosa, is unnamed and sits about two miles from the homestead. Rusape is the real Manicaland market and bus town of that region, on the main road to the capital, and stands in for the trading centre the family's world turns on.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "Beyond the homestead is the trading centre and bus stop: a row of small stores, women selling eggs and fruit under the trees, and the buses that carry people to town and to school. It is the seam between the rural family and the wider colonial economy. Rusape is the real district town that anchors this stretch of the eastern countryside, about ninety kilometres from Mutare.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Nervous Conditions plot summary, on the bus terminus and market near the homestead, LitCharts",
+        "url": "https://www.litcharts.com/lit/nervous-conditions/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rusape, Zimbabwe, gazetteer coordinates",
+        "url": "https://latitude.to/map/zw/zimbabwe/cities/rusape"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "umtali-town-market",
+    "name": "Umtali town and market",
+    "progressLabel": "Chapter 2",
+    "character": "tambu",
+    "coords": [32.6709, -18.9707],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Umtali is named in the novel. It was renamed Mutare in 1982; this marks the town centre.",
+    "reference": "Chapter 2",
+    "order": 3,
+    "note": "To raise her own school fees the narrator grows a crop of green maize and carries it to sell in town, where a stranger's charity teaches her early how race and money bend a life. Umtali was the colonial name for Mutare, the main town of the eastern highlands and the pole the whole region turns toward.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Nervous Conditions plot summary, on selling maize in town for school fees, LitCharts",
+        "url": "https://www.litcharts.com/lit/nervous-conditions/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mutare, Zimbabwe, formerly Umtali, gazetteer coordinates",
+        "url": "https://latitude.to/map/zw/zimbabwe/cities/mutare"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-umtali-mission-school",
+    "name": "The mission school near Umtali",
+    "progressLabel": "Chapter 4",
+    "character": "tambu",
+    "coords": [32.5831, -18.9066],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The mission the uncle runs is not named as a real place, but it is set just outside Umtali. Old Umtali Mission, the historic Methodist station where Dangarembga herself attended Hartzell School, is the real mission of that area it most closely resembles; sited there.",
+    "reference": "Chapters 4-6",
+    "order": 4,
+    "note": "After her brother's death the narrator goes to live at the mission where her uncle is headmaster, a place of running water, books and English that dazzles her after the homestead. It is also where she begins to see the cost of that world, in her cousin's quiet rebellion and her own divided loyalties. The mission stands for the Christian schools that shaped the colony's educated Black elite.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old Umtali Mission, the second Methodist mission site near Mutare, Zimbabwe Field Guide",
+        "url": "https://zimfieldguide.com/manicaland/old-umtali-%E2%80%93-second-site"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Tsitsi Dangarembga, biography noting she attended Hartzell School at Old Mutare Mission, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsitsi_Dangarembga"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sacred-heart-convent-salisbury",
+    "name": "The convent school, Salisbury",
+    "progressLabel": "Chapter 10",
+    "character": "tambu",
+    "coords": [31.0522, -17.8292],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Young Ladies College of the Sacred Heart is an invented convent, drawn from the multiracial Catholic schools of the period. The novel places it in Salisbury, the colonial capital, now Harare; this marks that city, deliberately far west of the eastern-highlands setting.",
+    "reference": "Chapter 10",
+    "order": 5,
+    "note": "At the close the narrator wins a scholarship to an elite, mostly white convent boarding school in the capital, a door out of the communal lands and a fresh set of pressures she can already sense. The school is a composite of the mission and convent educations of the time; the book leaves her weighing what such an escape will ask of her. Salisbury was renamed Harare in 1982.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Nervous Conditions summary, on the Sacred Heart convent scholarship in the capital, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/nervouscondition/summary/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Harare, Zimbabwe, formerly Salisbury, gazetteer coordinates",
+        "url": "https://en.wikipedia.org/wiki/Harare"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
