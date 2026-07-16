@@ -480,7 +480,7 @@ const CATALOGUE: Seed[] = [
     city: 'Dorchester',
     country: 'gb',
     ordering: 'chapter',
-    why: 'Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where Henchard sells his wife. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.',
+    why: 'Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where a hay-trusser who once sold his wife at a country fair has risen to be mayor. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.',
   },
   {
     title: 'The War of the Worlds',
