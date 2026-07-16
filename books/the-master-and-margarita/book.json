@@ -4,20 +4,21 @@
   "author": "Mikhail Bulgakov",
   "published": 1967,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [37.592, 55.7636],
   "zoom": 12.5,
   "setting": {
     "city": "Moscow",
     "country": "RU",
-    "note": "Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. Check the rights carefully: Bulgakov died in 1940, but the translation you use may not be free.",
+    "note": "Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. The Russian text is public domain, but every English translation is still in copyright, so this is mapped as a cited book: locations only, no passages stored.",
     "bbox": [36.803, 55.142, 37.967, 56.021]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Mikhail Bulgakov published this in 1967.",
-    "translation": "Translated by michael glenny. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
+    "originalWork": "Bulgakov died in 1940, so the Russian text is public domain. The novel was first published in the 1960s, and it is mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": "Every English translation is still in copyright. Michael Glenny's (1967) does not enter the US public domain until 2063, and no free English translation exists yet, which is why this cannot be a sourced book.",
+    "textSource": "None stored. A cited book reproduces no text.",
     "textSourceUrl": "https://standardebooks.org/ebooks/mikhail-bulgakov/the-master-and-margarita/michael-glenny",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Mikhail Bulgakov, The Master and Margarita (1967)."
+    "territoryNotes": "Locations and original commentary only. No reproduction of any copyrighted translation, in any territory.",
+    "attribution": "The Master and Margarita, Mikhail Bulgakov (first published 1966–67). Locations mapped by Read the Places."
   }
 }

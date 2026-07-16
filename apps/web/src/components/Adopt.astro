@@ -8,6 +8,7 @@ interface Props {
 
 const { slug, book } = Astro.props;
 
+const cited = book.sourcing === 'cited';
 const repo = 'https://github.com/markselby9/readtheplaces.com';
 const issue = `${repo}/issues/new?template=add-a-place.md&title=${encodeURIComponent(`Adopt: ${book.title}`)}`;
 ---
@@ -18,8 +19,11 @@ const issue = `${repo}/issues/new?template=add-a-place.md&title=${encodeURICompo
   <h2>Nobody has mapped this book yet.</h2>
 
   <p class="lede">
-    It is listed because it can be done: the text is public domain, the city is real, and the places
-    in it are findable. What it needs is somebody who has read it.
+    {
+      cited
+        ? 'It is listed because it can be done: the city is real and the places in it are findable. The book is still in copyright, so it is mapped as a cited work — locations only, no text stored. What it needs is somebody who has read it.'
+        : 'It is listed because it can be done: the text is public domain, the city is real, and the places in it are findable. What it needs is somebody who has read it.'
+    }
   </p>
 
   <h3>What adopting a book means</h3>
@@ -29,45 +33,80 @@ const issue = `${repo}/issues/new?template=add-a-place.md&title=${encodeURICompo
     places, the one question a machine cannot: <strong>why does this place matter?</strong>
   </p>
 
-  <ol class="steps">
-    <li>
-      <code>bun run fetch-text {slug}</code>
-      <p>
-        Downloads the text from {book.rights.textSource}. Every quote you write will be checked
-        against it.
-      </p>
-    </li>
-    <li>
-      <code>bun run extract {slug} --geocode</code>
-      <p>
-        Hands you a queue of every place the book mentions, with the sentence it appears in, where
-        it falls in the text, and a suggested coordinate. It never writes a waypoint. It writes a
-        worklist.
-      </p>
-    </li>
-    <li>
-      <strong>Take one. Look at the pin on a map.</strong>
-      <p>
-        The geocoder is confidently wrong all the time. It once placed Bourton, the Dalloways'
-        country house, in Hillingdon. Only a reader catches that.
-      </p>
-    </li>
-    <li>
-      <strong>Say how sure you are, and why it matters.</strong>
-      <p>
-        Two or three sentences about the novel, not about what is there today. If the author never
-        gave an address, say so. An honest <em>inferred</em> beats a confident mistake.
-      </p>
-    </li>
-    <li>
-      <strong>Choose the book's colour.</strong>
-      <p>
-        A colour here is a quotation. <em>Mrs Dalloway</em> is green because she “laid her green dress
-        on her bed”. Find the line in this novel where a colour means something, and the build will check
-        the line is really there.
-      </p>
-    </li>
-  </ol>
+  {
+    cited ? (
+      <ol class="steps">
+        <li>
+          <strong>Find the scene, and cite the chapter.</strong>
+          <p>
+            A cited book stores none of the author's text. You note where a place appears — “Chapter
+            5” — never a quotation from it.
+          </p>
+        </li>
+        <li>
+          <strong>Locate it on a real map. Look at the pin.</strong>
+          <p>
+            A place where a scene happens is a fact. Find it, and check the pin is really there. If
+            the book invents a place from a real one, mark it <em>inspired_by</em>.
+          </p>
+        </li>
+        <li>
+          <strong>Write your own two sentences, and say how sure you are.</strong>
+          <p>
+            Why the place matters, in your words, never the author's. An honest <em>inferred</em>{' '}
+            beats a confident mistake.
+          </p>
+        </li>
+        <li>
+          <strong>Choose the book's colour.</strong>
+          <p>
+            For a cited book the colour is your judgement, not a quotation from stored text.{' '}
+            <em>Harry Potter</em> is Gryffindor scarlet.
+          </p>
+        </li>
+      </ol>
+    ) : (
+      <ol class="steps">
+        <li>
+          <code>bun run fetch-text {slug}</code>
+          <p>
+            Downloads the text from {book.rights.textSource}. Every quote you write will be checked
+            against it.
+          </p>
+        </li>
+        <li>
+          <code>bun run extract {slug} --geocode</code>
+          <p>
+            Hands you a queue of every place the book mentions, with the sentence it appears in,
+            where it falls in the text, and a suggested coordinate. It never writes a waypoint. It
+            writes a worklist.
+          </p>
+        </li>
+        <li>
+          <strong>Take one. Look at the pin on a map.</strong>
+          <p>
+            The geocoder is confidently wrong all the time. It once placed Bourton, the Dalloways'
+            country house, in Hillingdon. Only a reader catches that.
+          </p>
+        </li>
+        <li>
+          <strong>Say how sure you are, and why it matters.</strong>
+          <p>
+            Two or three sentences about the novel, not about what is there today. If the author
+            never gave an address, say so. An honest <em>inferred</em> beats a confident mistake.
+          </p>
+        </li>
+        <li>
+          <strong>Choose the book's colour.</strong>
+          <p>
+            A colour here is a quotation. <em>Mrs Dalloway</em> is green because she “laid her green
+            dress on her bed”. Find the line in this novel where a colour means something, and the
+            build will check the line is really there.
+          </p>
+        </li>
+      </ol>
+    )
+  }
 
   <p class="actions">
     <a class="primary" href={issue}>Claim this book →</a>
