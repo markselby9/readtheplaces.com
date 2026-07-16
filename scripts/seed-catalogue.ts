@@ -356,6 +356,15 @@ const CATALOGUE: Seed[] = [
     ordering: 'chapter',
     why: 'Kristiania, now Oslo, paced in a fever of starvation down Karl Johan and along the harbour. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.',
   },
+  {
+    title: 'The Scarlet Letter',
+    author: 'Nathaniel Hawthorne',
+    published: 1850,
+    city: 'Boston',
+    country: 'us',
+    ordering: 'chapter',
+    why: 'Puritan Boston in the 1640s, most of it long gone: the scaffold in the market-place, the prison on its lane, the forest at the edge of town. Almost everything here will be inferred, which is exactly the test the certainty labels are for. It pairs with The Bostonians, the same city two centuries on.',
+  },
 ];
 
 // ---------------------------------------------------------------------------

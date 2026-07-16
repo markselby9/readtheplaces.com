@@ -1,0 +1,23 @@
+{
+  "id": "the-scarlet-letter",
+  "title": "The Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "published": 1850,
+  "orderingKey": "chapter",
+  "center": [-71.0578, 42.3588],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Boston",
+    "country": "US",
+    "note": "Puritan Boston in the 1640s, most of it long gone: the scaffold in the market-place, the prison on its lane, the forest at the edge of town. Almost everything here will be inferred, which is exactly the test the certainty labels are for. It pairs with The Bostonians, the same city two centuries on.",
+    "bbox": [-71.191, 42.228, -70.804, 42.397]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Nathaniel Hawthorne published this in 1850.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Nathaniel Hawthorne, The Scarlet Letter (1850)."
+  }
+}
