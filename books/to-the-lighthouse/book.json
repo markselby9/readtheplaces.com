@@ -1,0 +1,23 @@
+{
+  "id": "to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "published": 1927,
+  "orderingKey": "chapter",
+  "center": [-5.4795, 50.2149],
+  "zoom": 12.5,
+  "setting": {
+    "city": "St Ives",
+    "country": "GB",
+    "note": "Nominally the Isle of Skye, but built from the Woolfs’ summers at Talland House in St Ives, looking out to the Godrevy light. The bay, the house, and ten years passing inside a single bracket.",
+    "bbox": [-5.527, 50.173, -5.43, 50.22]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Virginia Woolf published this in 1927.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Virginia Woolf, To the Lighthouse (1927)."
+  }
+}

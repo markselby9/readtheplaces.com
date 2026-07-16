@@ -1,0 +1,23 @@
+{
+  "id": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "published": 1847,
+  "orderingKey": "chapter",
+  "center": [-1.9486, 53.8312],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Haworth",
+    "country": "GB",
+    "note": "The moors above Haworth, where Top Withens still stands in for the Heights and the wind never stops. Brontë invents the two houses but keeps the real Pennine ground between them, an hour’s walk that is the whole novel.",
+    "bbox": [-1.969, 53.811, -1.929, 53.851]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Emily Brontë published this in 1847.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Emily Brontë, Wuthering Heights (1847)."
+  }
+}

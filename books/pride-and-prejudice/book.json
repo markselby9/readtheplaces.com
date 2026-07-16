@@ -1,0 +1,23 @@
+{
+  "id": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "published": 1813,
+  "orderingKey": "chapter",
+  "center": [-1.6759, 53.2148],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Bakewell",
+    "country": "GB",
+    "note": "Almost every house in it is invented, but Darcy’s Pemberley is Derbyshire, and readers have walked Chatsworth near Bakewell for it ever since. A novel that will exercise inspired_by as hard as any on the list.",
+    "bbox": [-1.733, 53.197, -1.635, 53.229]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Jane Austen published this in 1813.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Jane Austen, Pride and Prejudice (1813)."
+  }
+}

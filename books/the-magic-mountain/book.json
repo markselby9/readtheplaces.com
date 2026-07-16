@@ -1,0 +1,23 @@
+{
+  "id": "the-magic-mountain",
+  "title": "The Magic Mountain",
+  "author": "Thomas Mann",
+  "published": 1924,
+  "orderingKey": "chapter",
+  "center": [9.8237, 46.7962],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Davos",
+    "country": "CH",
+    "note": "Seven years in a sanatorium above Davos, where Hans Castorp goes up for a three-week visit and forgets to leave. Mann sets the whole novel on one Alpine shelf, the real cure-town still there, and makes time itself the subject.",
+    "bbox": [9.669, 46.67, 9.967, 46.86]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Thomas Mann published this in 1924.",
+    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Thomas Mann, The Magic Mountain (1924)."
+  }
+}

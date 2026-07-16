@@ -1,0 +1,23 @@
+{
+  "id": "great-expectations",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "published": 1861,
+  "orderingKey": "chapter",
+  "center": [-0.1278, 51.5074],
+  "zoom": 12.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Pip’s London: Newgate and the Old Bailey, the Temple, Jaggers’s office in Little Britain, Wemmick’s wooden castle at Walworth. Dickens threads the Kent marshes to the city and back, and the money is always dirtier than it looks.",
+    "bbox": [-0.51, 51.287, 0.334, 51.692]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Charles Dickens published this in 1861.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Charles Dickens, Great Expectations (1861)."
+  }
+}

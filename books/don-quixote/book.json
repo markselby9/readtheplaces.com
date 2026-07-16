@@ -1,0 +1,23 @@
+{
+  "id": "don-quixote",
+  "title": "Don Quixote",
+  "author": "Miguel de Cervantes Saavedra",
+  "published": 1615,
+  "orderingKey": "chapter",
+  "center": [-3.1255, 39.4053],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Campo de Criptana",
+    "country": "ES",
+    "note": "La Mancha, and the windmills at Campo de Criptana he charges as giants, still turning on their ridge. Cervantes sends the knight roaming a real, dusty plain of inns and villages, and it brings Spain into the atlas.",
+    "bbox": [-3.185, 39.171, -2.983, 39.496]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Miguel de Cervantes Saavedra published this in 1615.",
+    "translation": "Translated by john ormsby. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra/don-quixote/john-ormsby",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Miguel de Cervantes Saavedra, Don Quixote (1615)."
+  }
+}

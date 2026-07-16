@@ -1,0 +1,23 @@
+{
+  "id": "the-sound-and-the-fury",
+  "title": "The Sound and the Fury",
+  "author": "William Faulkner",
+  "published": 1929,
+  "orderingKey": "chapter",
+  "center": [-89.5188, 34.3664],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Oxford",
+    "country": "US",
+    "note": "Faulkner’s Yoknapatawpha is Lafayette County, Mississippi, and its Jefferson is Oxford, where he lived and is buried. The Compson place, the branch, the courthouse square, all drawn from ground he could see.",
+    "bbox": [-89.597, 34.31, -89.475, 34.394]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. William Faulkner published this in 1929.",
+    "translation": null,
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "William Faulkner, The Sound and the Fury (1929)."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "the-decameron",
+  "title": "The Decameron",
+  "author": "Giovanni Boccaccio",
+  "published": 1353,
+  "orderingKey": "chapter",
+  "center": [11.2556, 43.7698],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Florence",
+    "country": "IT",
+    "note": "Ten young Florentines flee the Black Death of 1348 to a villa in the hills above the city and tell a hundred tales. The frame is real Florence and Fiesole, emptied by plague, which is exactly what the historical layer is for.",
+    "bbox": [11.15, 43.726, 11.339, 43.835]
+  },
+  "rights": {
+    "originalWork": "TODO: confirm. Giovanni Boccaccio published this in 1353.",
+    "translation": "Translated by john payne. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
+    "textSource": "Standard Ebooks (public domain dedication)",
+    "textSourceUrl": "https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne",
+    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
+    "attribution": "Giovanni Boccaccio, The Decameron (1353)."
+  }
+}
