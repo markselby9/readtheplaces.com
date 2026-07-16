@@ -1,0 +1,137 @@
+[
+  {
+    "id": "yacoubian-building-talaat-harb",
+    "name": "The Yacoubian Building, Talaat Harb Street",
+    "progressLabel": "Opening",
+    "character": "zaki",
+    "coords": [31.240777, 30.051177],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's building is a fictional cross-section of Egyptian society, but Al Aswany named it after and placed it on the street of a real 1937 Art Deco block at 34 Talaat Harb Street, where his own father once kept an office. Sited at the real building.",
+    "reference": "Opening chapter",
+    "order": 1,
+    "note": "A 1930s apartment house downtown becomes the whole cast's shared address, its floors sorted by class: European-style flats below, a ground-floor office where the ageing playboy Zaki Bey still receives visitors, and the poor pressed onto the roof. Al Aswany borrowed the name and the location from a real block that still stands on Talaat Harb Street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yacoubian Building (Cairo), Wikipedia, on the real 1937 block at 34 Talaat Harb Street and its link to the novel",
+        "url": "https://en.wikipedia.org/wiki/Yacoubian_Building_(Cairo)"
+      },
+      {
+        "kind": "external",
+        "ref": "Yacoubian Building, Wikidata, for the building's coordinates",
+        "url": "https://www.wikidata.org/wiki/Q1756487"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rooftop-iron-huts",
+    "name": "The rooftop iron huts",
+    "progressLabel": "Early chapters",
+    "character": "zaki",
+    "coords": [31.24075, 30.05125],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The roof is a floor of the same building, not a separate address, so it shares the block's coordinates, nudged a few metres. The tin-and-iron rooms are described in the novel rather than mapped to a surveyed spot.",
+    "reference": "Early chapters",
+    "order": 2,
+    "note": "On top of the building, the cramped iron-walled rooms first built for storage and servants have become a village of the poor, with their own tap, their own gossip and their own hierarchy. This is where Taha the doorkeeper's son grows up and where several of the novel's turning points begin, a slum sitting directly above the flats of the rich.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yacoubian Building (Cairo), Wikipedia, describing the rooftop rooms of the real block",
+        "url": "https://en.wikipedia.org/wiki/Yacoubian_Building_(Cairo)"
+      },
+      {
+        "kind": "external",
+        "ref": "The Yacoubian Building, publisher summary of the novel's social layout",
+        "url": "https://www.harpercollins.com/products/the-yacoubian-building-alaa-al-aswany"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talaat-harb-street",
+    "name": "Talaat Harb Street",
+    "progressLabel": "Throughout",
+    "character": "zaki",
+    "coords": [31.239524, 30.048912],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Talaat Harb Street is named in the novel as the building's address; sited at a representative point on the mile-long stretch between Talaat Harb and Tahrir squares.",
+    "reference": "Throughout",
+    "order": 3,
+    "note": "The commercial spine of downtown, lined with old neoclassical facades and modern shopfronts, running from Talaat Harb Square toward Tahrir. The characters cross it constantly, between the building, the shops and the cafes, and it fixes the whole story in the real geography of central Cairo.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Talaat Harb Street, Wikipedia, on its route and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Talaat_Harb_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talaat-harb-square",
+    "name": "Talaat Harb Square",
+    "progressLabel": "Throughout",
+    "character": "zaki",
+    "coords": [31.2383, 30.0477],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The square is named in the novel; sited at the roundabout where Talaat Harb Street meets Kasr El Nil Street around the statue of Talaat Harb.",
+    "reference": "Throughout",
+    "order": 4,
+    "note": "The busy roundabout at the heart of downtown, its statue of the banker Talaat Harb ringed by cafes and traffic. It is the pivot of the neighbourhood the novel roams, a few steps from the building and the meeting point of its main streets.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Talaat Harb Street, Wikipedia, on Talaat Harb Square and the surrounding downtown",
+        "url": "https://en.wikipedia.org/wiki/Talaat_Harb_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kasr-el-nil-street",
+    "name": "Kasr El Nil Street",
+    "progressLabel": "Middle chapters",
+    "character": "zaki",
+    "coords": [31.23625, 30.04679],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kasr El Nil Street is named in the novel; sited at a representative point on the street near where it crosses Talaat Harb Square.",
+    "reference": "Middle chapters",
+    "order": 5,
+    "note": "A grand nineteenth-century street of shops, offices and businesses that crosses downtown and passes through Talaat Harb Square. Its clothing stores and workplaces are among the everyday settings where the characters earn, scheme and cross paths outside the building.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Qasr El Nil Street, Wikipedia, on the downtown street and its route",
+        "url": "https://en.wikipedia.org/wiki/Qasr_El_Nil_Street"
+      },
+      {
+        "kind": "external",
+        "ref": "Qasr el-Nil Street, Wikidata, for the street's coordinates",
+        "url": "https://www.wikidata.org/wiki/Q7267045"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wust-el-balad-bars-offices",
+    "name": "The bars and offices of Wust el-Balad",
+    "progressLabel": "Throughout",
+    "character": "zaki",
+    "coords": [31.2412, 30.0498],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel spreads its downtown drinking dens, shirt shops and offices across Wust el-Balad without pinning each to an address, so this marks a representative point in the downtown blocks just east of Talaat Harb Street.",
+    "reference": "Throughout",
+    "order": 6,
+    "note": "Beyond the building, much of the story plays out in the bars, back-street offices and shops of Wust el-Balad, the European-built downtown quarter. These half-hidden rooms are where deals get struck, where the lonely drink and where private lives run against public respectability.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Downtown Cairo (Wust el-Balad), on the district of Art Deco blocks, bars and offices around Talaat Harb and Kasr El Nil",
+        "url": "https://www.cairo360.com/city/downtown/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

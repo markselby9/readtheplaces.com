@@ -1,0 +1,34 @@
+{
+  "id": "the-shadow-lines",
+  "title": "The Shadow Lines",
+  "author": "Amitav Ghosh",
+  "published": 1988,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [88.362, 22.52],
+  "zoom": 13,
+  "setting": {
+    "city": "Kolkata",
+    "country": "IN",
+    "note": "Ghosh's narrator remembers a divided subcontinent from a house in south Calcutta, where the streets around Gole Park and the lake hold a family's ordinary life. Memory then jumps the borders the novel calls shadow lines, west to the Prices' London and east to a grandmother's Dhaka, where the 1964 riots turn distance into loss. The map is anchored here in Calcutta, with those two waypoints reaching beyond it.",
+    "bbox": [88.3, 22.45, 88.45, 22.62]
+  },
+  "rights": {
+    "originalWork": "In copyright. Amitav Ghosh, first published 1988. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.in/book/the-shadow-lines/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Shadow Lines, Amitav Ghosh (1988). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#275D66",
+    "note": "A river-and-map teal for a book about the shadow lines drawn across a delta. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The narrator",
+      "color": "#8C2F39"
+    }
+  }
+}

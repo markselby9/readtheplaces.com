@@ -1,0 +1,38 @@
+{
+  "id": "the-vegetarian",
+  "title": "The Vegetarian",
+  "author": "Han Kang",
+  "published": 2007,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [126.99, 37.56],
+  "zoom": 11,
+  "setting": {
+    "city": "Seoul",
+    "country": "KR",
+    "note": "Han Kang's Seoul is a modern city of apartment towers and family duty, where a woman's decision to stop eating meat quietly pulls a marriage and a family apart. The map runs from the couple's flat and the parents' apartment across the two sisters' homes and a video artist's studio, then out to a psychiatric hospital in the wooded mountains on the city's northern edge.",
+    "bbox": [126.76, 37.42, 127.18, 37.7]
+  },
+  "rights": {
+    "originalWork": "In copyright. Han Kang, first published in Korean in 2007; English translation by Deborah Smith, 2015. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/247493/the-vegetarian-by-han-kang/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text or its translation, in any territory.",
+    "attribution": "The Vegetarian, Han Kang (2007). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B3C",
+    "note": "The green of leaves and growing things, the vegetal life the protagonist drifts toward as she turns away from meat and, finally, from being human at all. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "yeong-hye": {
+      "name": "Yeong-hye",
+      "color": "#2E6B3C"
+    },
+    "in-hye": {
+      "name": "In-hye",
+      "color": "#6A4E8C"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "half-of-a-yellow-sun",
+  "title": "Half of a Yellow Sun",
+  "author": "Chimamanda Ngozi Adichie",
+  "published": 2006,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [7.41, 6.86],
+  "zoom": 8,
+  "setting": {
+    "city": "Nsukka",
+    "country": "NG",
+    "date": "1960s",
+    "note": "Eastern Nigeria on either side of the Biafran war. The story begins in the university town of Nsukka, in the quiet of a campus household, then follows the short life of Biafra as its capital falls back from Enugu to Umuahia and the region shrinks under blockade and hunger. The map runs south through the Igbo heartland, with the far northern city of Kano at its edge as the place the killing began.",
+    "bbox": [7.35, 5.45, 7.6, 6.95]
+  },
+  "rights": {
+    "originalWork": "In copyright. Chimamanda Ngozi Adichie, first published 2006. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/40384/half-of-a-yellow-sun-by-chimamanda-ngozi-adichie/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Half of a Yellow Sun, Chimamanda Ngozi Adichie (2006). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1A6B41",
+    "note": "The green of the Biafran flag, standing for the land the secession was fought over. The title's rising sun is a warm gold that cannot be read on paper, so the accent takes the flag's green instead. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ugwu": {
+      "name": "Ugwu",
+      "color": "#7A4A12"
+    },
+    "olanna": {
+      "name": "Olanna",
+      "color": "#9A2B1F"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pachinko",
+  "title": "Pachinko",
+  "author": "Min Jin Lee",
+  "published": 2017,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [135.515, 34.682],
+  "zoom": 12,
+  "setting": {
+    "city": "Osaka",
+    "country": "JP",
+    "note": "The Osaka of a Korean family who cross the strait and never quite arrive: the Ikaino ghetto where they are packed into a lane of tin-roofed houses, and the Tsuruhashi market where the women build a life from a kimchi cart and, in time, a sweets stall. The book's Osaka is a working city of tenements and railway arches; its edges reach back to Busan and forward to Yokohama.",
+    "bbox": [135.4, 34.6, 135.62, 34.75]
+  },
+  "rights": {
+    "originalWork": "In copyright. Min Jin Lee, first published 2017. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.hachettebookgroup.com/titles/min-jin-lee/pachinko-national-book-award-finalist/9781455563937/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Pachinko, Min Jin Lee (2017). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1E5945",
+    "note": "The deep green of the pachinko parlour and the strait the family keeps crossing. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sunja": {
+      "name": "Sunja",
+      "color": "#8A3324"
+    }
+  }
+}

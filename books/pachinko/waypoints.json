@@ -1,0 +1,155 @@
+[
+  {
+    "id": "yeongdo-boarding-house",
+    "name": "The boarding house, Yeongdo",
+    "progressLabel": "Book I",
+    "character": "sunja",
+    "coords": [129.0681, 35.0742],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel opens on the fishing island of Yeongdo in Busan and names it, but the family's boarding house is invented; this marks the centre of Yeongdo District, which sits far south of the Osaka setting.",
+    "reference": "Book I",
+    "order": 1,
+    "note": "The story begins on a small island off Busan, where a hard-working couple keep a lodging house for fishermen and their daughter grows up gutting fish and cooking for the boarders. A market errand there sets the whole family saga in motion. Yeongdo is a real island, today a district of Busan reached by bridge.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yeongdo District, Busan, Wikipedia, for the island's coordinates and status",
+        "url": "https://en.wikipedia.org/wiki/Yeongdo_District"
+      },
+      {
+        "kind": "external",
+        "ref": "Pachinko (novel), Wikipedia, on the opening set on Yeongdo in Busan",
+        "url": "https://en.wikipedia.org/wiki/Pachinko_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "osaka-station-arrival",
+    "name": "Arrival at Osaka",
+    "progressLabel": "Book I",
+    "character": "sunja",
+    "coords": [135.4959, 34.7025],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book brings the young couple to Osaka by ferry and train in the 1930s without naming a terminus; this marks Osaka Station in Umeda, the city's main railway gateway of the period, as a representative point of arrival.",
+    "reference": "Book I",
+    "order": 2,
+    "note": "Newly married and pregnant, the heroine leaves Korea with a kind pastor and crosses to Japan, arriving in Osaka to join his brother's household. The great railway terminus at Umeda stands for that threshold, the moment the family becomes a diaspora in a country that will never treat it as its own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Osaka Station, Wikipedia, for the Umeda terminus coordinates",
+        "url": "https://en.wikipedia.org/wiki/Osaka_Station"
+      },
+      {
+        "kind": "external",
+        "ref": "Pachinko by Min Jin Lee, LitCharts plot summary, on the move from Busan to Osaka",
+        "url": "https://www.litcharts.com/lit/pachinko/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ikaino-korean-quarter",
+    "name": "The Korean quarter, Ikaino",
+    "progressLabel": "Book II",
+    "character": "sunja",
+    "coords": [135.5345, 34.6605],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Ikaino, the poor Korean district of prewar Osaka, as the family's home; the exact house is invented, so this marks the heart of the old quarter, now the Ikuno Koreatown in Ikuno-ku.",
+    "reference": "Book II",
+    "order": 3,
+    "note": "The family settles in the Korean ghetto of Osaka, a crowded lane of makeshift houses where Koreans are penned together, watched by landlords and police and barred from decent work. Much of the middle of the book plays out here, in the daily grind of poverty, prejudice and the women's refusal to be beaten. The district survives as Osaka's Ikuno Koreatown.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ikuno Korea Town, Wikipedia, on the district formerly known as Ikaino",
+        "url": "https://en.wikipedia.org/wiki/Ikuno_Korea_Town"
+      },
+      {
+        "kind": "external",
+        "ref": "Contextualizing Min Jin Lee's Pachinko, Association for Asian Studies, on Ikaino as the Korean quarter of Osaka",
+        "url": "https://www.asianstudies.org/publications/eaa/archives/contextualizing-min-jin-lees-pachinko/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tsuruhashi-market",
+    "name": "Tsuruhashi market",
+    "progressLabel": "Book II",
+    "character": "sunja",
+    "coords": [135.5299, 34.6652],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book sends the women to sell at the market by Tsuruhashi station; this marks Tsuruhashi station, still the centre of Osaka's largest Korean market district, as the representative point.",
+    "reference": "Book II",
+    "order": 4,
+    "note": "To keep the household alive, the women take a cart to the market and sell kimchi they ferment themselves, later graduating to a sweets stall. The scenes under the railway arches are the book's picture of immigrant labour: exhausting, precarious, and the only path to any dignity. The market around Tsuruhashi station is still there, thick with Korean food stalls.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsuruhashi Station, Wikipedia, for the station coordinates at the heart of the market",
+        "url": "https://en.wikipedia.org/wiki/Tsuruhashi_Station"
+      },
+      {
+        "kind": "external",
+        "ref": "Pachinko by Min Jin Lee, LitCharts plot summary, on the women's market trade in Osaka",
+        "url": "https://www.litcharts.com/lit/pachinko/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nagano-noa-exile",
+    "name": "Noa's exile, Nagano",
+    "progressLabel": "Book III",
+    "character": "sunja",
+    "coords": [138.1833, 36.65],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sends the son Noa to Nagano to disappear and names the city, but not an address; this marks central Nagano city, well north of the Osaka setting.",
+    "reference": "Book III",
+    "order": 5,
+    "note": "Learning the truth about his father, the elder son cuts off his family and vanishes to a distant city, passing as Japanese and working quietly at a pachinko parlour for years. Nagano, in the mountains north of Osaka, is where he buries his Korean past, a self-erasure the book treats as its quiet tragedy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nagano (city), Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Nagano_(city)"
+      },
+      {
+        "kind": "external",
+        "ref": "Pachinko by Min Jin Lee, LitCharts plot summary, on Noa's move to Nagano",
+        "url": "https://www.litcharts.com/lit/pachinko/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yokohama-pachinko",
+    "name": "Mozasu's pachinko, Yokohama",
+    "progressLabel": "Book III",
+    "character": "sunja",
+    "coords": [139.638, 35.4437],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The younger son builds his pachinko business in Yokohama in the novel's later chapters; the parlours are invented, so this marks central Yokohama, far east of the Osaka setting.",
+    "reference": "Book III",
+    "order": 6,
+    "note": "The younger son leaves school for the one trade open to a Korean without prospects, the pachinko halls, and works his way from clerk to owner, settling his family in Yokohama. His success, made in a business the wider world looks down on, gives the novel its title and its argument about what a life can amount to in a country that shuts you out.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yokohama, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Yokohama"
+      },
+      {
+        "kind": "external",
+        "ref": "Pachinko by Min Jin Lee, LitCharts plot summary, on Mozasu's pachinko career and move to Yokohama",
+        "url": "https://www.litcharts.com/lit/pachinko/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

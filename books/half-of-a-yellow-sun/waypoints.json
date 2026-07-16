@@ -1,0 +1,144 @@
+[
+  {
+    "id": "university-of-nigeria-nsukka",
+    "name": "University of Nigeria, Nsukka",
+    "progressLabel": "Early sixties",
+    "character": "olanna",
+    "coords": [7.4097, 6.8653],
+    "placeCertainty": "explicit",
+    "reference": "Part 1, the early sixties",
+    "order": 1,
+    "note": "The novel opens on the campus of the University of Nigeria at Nsukka, where a mathematics lecturer holds forth on independence and pan-African politics with a circle of academic friends. Olanna leaves a comfortable life in Lagos to lecture here and share his house. The university is real, founded in 1960 as the country's first fully indigenous one, and Nsukka becomes an early casualty when federal troops overrun the town in 1967.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "University of Nigeria, Wikipedia, on the Nsukka campus opened in 1960",
+        "url": "https://en.wikipedia.org/wiki/University_of_Nigeria"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nsukka, Wikipedia, for the town and campus location",
+        "url": "https://en.wikipedia.org/wiki/Nsukka"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "odenigbo-house-odim-street",
+    "name": "Odenigbo's house, Odim Street",
+    "progressLabel": "Early sixties",
+    "character": "ugwu",
+    "coords": [7.411, 6.862],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Adichie gives the household a campus address, Odim Street, that does not match a mapped road; this marks the senior-staff residential quarter of the Nsukka campus, where such a lecturer's house would stand.",
+    "reference": "Part 1, the early sixties",
+    "order": 2,
+    "note": "Most of the book's domestic life happens inside one house in the university's staff quarters, seen largely through the eyes of Ugwu, the teenage houseboy who arrives from a nearby village to cook and clean. The kitchen, the garden and the sitting-room debates make the house a small world that the war will later tear apart. The street name is the author's; the setting is the campus housing itself.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "University of Nigeria, Wikipedia, on the residential Nsukka campus",
+        "url": "https://en.wikipedia.org/wiki/University_of_Nigeria"
+      },
+      {
+        "kind": "inference",
+        "ref": "Fictional campus address placed in the university's staff quarters at Nsukka"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "opi-village",
+    "name": "Opi, Ugwu's home village",
+    "progressLabel": "Early sixties",
+    "character": "ugwu",
+    "coords": [7.43319, 6.78223],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Adichie names Opi as the village Ugwu comes from, a real settlement just southeast of Nsukka; his family compound within it is invented, so this marks the village centre.",
+    "reference": "Part 1, the early sixties",
+    "order": 3,
+    "note": "Ugwu is brought to the campus from Opi, a farming village a short walk from Nsukka, and he carries its customs and its people with him through the book. He returns there between the household's crises, and the village stands for the ordinary rural life the war overturns. Opi is a real place; the particular family and compound are the author's.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Opi, Nsukka, Enugu State, coordinates from a gazetteer of Nigerian places",
+        "url": "https://database.earth/countries/nigeria/regions/enugu/cities/opi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kano-1966-massacre",
+    "name": "Kano, the 1966 killings",
+    "progressLabel": "1966",
+    "character": "olanna",
+    "coords": [8.5167, 12.0001],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kano is named in the novel and lies far to the north of the eastern setting, so it is marked as a deliberate excursion beyond the book's bounding box.",
+    "reference": "Part 2, the late sixties",
+    "order": 4,
+    "note": "Visiting relatives in the northern city of Kano, Olanna is caught in the 1966 pogroms in which thousands of Igbo were murdered. What she survives there is the hinge of the book, the atrocity that turns political argument into a war for a separate Igbo homeland. The massacres in Kano and other northern towns were real events of 1966 that drove the East toward secession.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "1966 anti-Igbo pogrom, Wikipedia, on the massacres in Kano and the north",
+        "url": "https://en.wikipedia.org/wiki/1966_anti-Igbo_pogrom"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kano, Wikipedia, for the city's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Kano"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "enugu-biafra-capital",
+    "name": "Enugu, Biafra's first capital",
+    "progressLabel": "1967",
+    "character": "olanna",
+    "coords": [7.5103, 6.4527],
+    "placeCertainty": "explicit",
+    "reference": "Part 2, the late sixties",
+    "order": 5,
+    "note": "When the East secedes in 1967, the new republic of Biafra makes its capital at Enugu, and the characters gather there in the first flush of independence before federal shelling forces them out. Olanna's family has roots in the city, and its fall marks the moment the war stops being distant. Enugu was the coal-city capital of the old Eastern Region and Biafra's first seat of government.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Biafra, Wikipedia, on Enugu as the secessionist capital",
+        "url": "https://en.wikipedia.org/wiki/Biafra"
+      },
+      {
+        "kind": "guide",
+        "ref": "Enugu, Wikipedia, for the city's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Enugu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "umuahia-shrinking-biafra",
+    "name": "Umuahia, the shrinking republic",
+    "progressLabel": "1968-69",
+    "character": "ugwu",
+    "coords": [7.4946, 5.5249],
+    "placeCertainty": "explicit",
+    "reference": "Part 4, the late sixties",
+    "order": 6,
+    "note": "As Biafra loses ground, the government retreats south and Umuahia becomes its capital, and the characters end up crowded there amid air raids, ration lines and the hunger of the blockade. It is around here that Ugwu is seized off the street and forced into the Biafran army. Umuahia really did serve as Biafra's administrative capital after Enugu fell, until it too was captured in 1969.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Umuahia, Wikipedia, on its role as Biafra's wartime capital",
+        "url": "https://en.wikipedia.org/wiki/Umuahia"
+      },
+      {
+        "kind": "guide",
+        "ref": "Umuahia, Wikipedia, for the city's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Umuahia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

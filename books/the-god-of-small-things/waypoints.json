@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ayemenem-house",
+    "name": "The Ayemenem house",
+    "progressLabel": "Ayemenem",
+    "character": "twins",
+    "coords": [76.49979, 9.61215],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Roy names Ayemenem throughout; it is the real village of Aymanam on the Meenachal, a few kilometres west of Kottayam town. This marks the village centre.",
+    "reference": "Chapter 1, Paradise Pickles & Preserves",
+    "order": 1,
+    "note": "The family house in Ayemenem is where the grown twins return and where the whole story keeps circling back. Aymanam is an actual village near Kottayam in central Kerala, and Roy, who grew up nearby, sets the household, the garden and the memory of a lost cousin here.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Aymanam, Wikipedia, on the village near Kottayam that Roy renders as Ayemenem",
+        "url": "https://en.wikipedia.org/wiki/Aymanam"
+      },
+      {
+        "kind": "guide",
+        "ref": "Aymanam, Kottayam, Mapcarta, for the village coordinates",
+        "url": "https://mapcarta.com/27498990"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paradise-pickles-factory",
+    "name": "Paradise Pickles & Preserves",
+    "progressLabel": "Ayemenem",
+    "character": "twins",
+    "coords": [76.501, 9.6105],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The family factory is invented, but the novel places it in Ayemenem by the house and the river. This marks a representative point in the village, next to the Ayemenem house, since no real premises exist.",
+    "reference": "Chapter 1, Paradise Pickles & Preserves",
+    "order": 2,
+    "note": "The pickle and jam works that the family runs, and that gives the opening chapter its name, is fictional, but Roy roots it in Ayemenem beside the house. It stands in the book for a small provincial enterprise and its tangle of ambition, labour trouble and caste, so we site it in the real village where the story places it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The God of Small Things, Wikipedia, on the Ayemenem setting and the family pickle business",
+        "url": "https://en.wikipedia.org/wiki/The_God_of_Small_Things"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative placement in Aymanam village; the factory is fictional and has no real premises to map."
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "meenachal-river",
+    "name": "The Meenachal river",
+    "progressLabel": "Ayemenem",
+    "character": "twins",
+    "coords": [76.495, 9.606],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Roy names the Meenachal, a real river that rises east of Kottayam and runs past Aymanam to the Vembanad backwaters. This marks the reach beside the village.",
+    "reference": "Chapter 8 and Chapter 16, the river crossing",
+    "order": 3,
+    "note": "The river beside Ayemenem is the book's turning point: the children treat it as a place to swim and cross, and it is where the drowning happens that the whole novel is built to explain. The Meenachal is a real Kerala river, flowing from the Western Ghats past Kottayam and Aymanam into Vembanad Lake.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Meenachil River, Wikipedia, on the river's course through Kottayam district",
+        "url": "https://en.wikipedia.org/wiki/Meenachil_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "history-house",
+    "name": "The History House",
+    "progressLabel": "Ayemenem",
+    "character": "twins",
+    "coords": [76.491, 9.602],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The abandoned bungalow across the water is fictional, drawn from the kind of colonial rubber-estate house found around Ayemenem. This marks a representative point on the far bank of the Meenachal from the village.",
+    "reference": "Chapter 8 and Chapter 18, the abandoned house across the river",
+    "order": 4,
+    "note": "Across the Meenachal from Ayemenem stands a derelict bungalow the children call the History House, once the home of an Englishman gone to seed. It is where the children hide and where the book's violence comes to a head. The house is invented, in the mould of the old colonial estate homes of the region, so we mark a representative spot on the opposite bank.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The God of Small Things, Wikipedia, on the History House and the story's Ayemenem geography",
+        "url": "https://en.wikipedia.org/wiki/The_God_of_Small_Things"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative placement across the Meenachal from Aymanam; the History House is fictional."
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kumarakom-backwaters",
+    "name": "The Vembanad backwaters",
+    "progressLabel": "Ayemenem",
+    "character": "twins",
+    "coords": [76.4333, 9.5833],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Meenachal empties into the Vembanad backwaters at Kumarakom, near Ayemenem. This marks Kumarakom on the lake.",
+    "reference": "Chapter 8, the river and the backwaters",
+    "order": 5,
+    "note": "West of the village the Meenachal opens into the wide Vembanad backwaters, the lagoon-and-canal country that colours the whole book with heat, water and green. Kumarakom, on the lake near Ayemenem, is the real threshold between the river of the children's world and the sea beyond.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kumarakom, Wikipedia, on the Vembanad Lake backwaters near Kottayam",
+        "url": "https://en.wikipedia.org/wiki/Kumarakom"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vembanad, Wikipedia, on the backwater system the Meenachal drains into",
+        "url": "https://en.wikipedia.org/wiki/Vembanad"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cochin-cinema-railway",
+    "name": "Cochin: the cinema and the station",
+    "progressLabel": "Cochin",
+    "character": "twins",
+    "coords": [76.29079, 9.97002],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Roy names Cochin, the city now called Kochi, about sixty kilometres north-west of Ayemenem and outside the Kottayam setting. This marks Ernakulam Junction, the mainland railway terminus, near the old cinema district.",
+    "reference": "Chapter 4, the drive to Cochin and the cinema",
+    "order": 6,
+    "note": "The family's outing to a Cochin cinema to see The Sound of Music is where a private harm is done to one of the twins, and where the visiting English cousin arrives by train. Cochin, today's Kochi, is a real port city north of Ayemenem; its mainland station and picture houses anchor these scenes away from the village.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ernakulam Junction railway station, Wikipedia, for the Kochi mainland terminus coordinates",
+        "url": "https://en.wikipedia.org/wiki/Ernakulam_Junction_railway_station"
+      },
+      {
+        "kind": "guide",
+        "ref": "The God of Small Things, Wikipedia, on the Cochin cinema outing in the plot",
+        "url": "https://en.wikipedia.org/wiki/The_God_of_Small_Things"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

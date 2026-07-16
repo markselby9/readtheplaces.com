@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ballygunge-family-house",
+    "name": "The family's house, Ballygunge",
+    "progressLabel": "Going Away",
+    "character": "narrator",
+    "coords": [88.3588, 22.533],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel gives the narrator's family a house in south Calcutta but no street address. Ballygunge, the settled middle-class quarter it reads as, is a real district; sited at its centre as the model, not a located building.",
+    "reference": "Part One, Going Away",
+    "order": 1,
+    "note": "The narrator grows up in a comfortable Calcutta house that his cousins measure themselves against, the fixed point his memory keeps returning to. Ballygunge, a genteel residential quarter of south Calcutta, is the kind of neighbourhood the family belongs to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ballygunge, Kolkata, Wikipedia, on the south Calcutta residential district",
+        "url": "https://en.wikipedia.org/wiki/Ballygunge"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Shadow Lines by Amitav Ghosh, plot summary, LitCharts, on the Calcutta household",
+        "url": "https://www.litcharts.com/lit/the-shadow-lines/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gole-park",
+    "name": "Gole Park",
+    "progressLabel": "Going Away",
+    "character": "narrator",
+    "coords": [88.3623, 22.5137],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ghosh names Gole Park; this marks the real traffic circle at the Gariahat and Southern Avenue junction that gives the neighbourhood its name.",
+    "reference": "Part One, Going Away",
+    "order": 2,
+    "note": "Gole Park is one of the everyday Calcutta landmarks that fixes the narrator's childhood world to a real map, a busy roundabout at the edge of his family's part of the city. Ghosh uses such named corners to root a story that otherwise ranges across continents.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gariahat Road, Wikipedia, on the Gole Park junction in south Calcutta",
+        "url": "https://en.wikipedia.org/wiki/Gariahat_Road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dhakuria-lake",
+    "name": "The lake, Rabindra Sarobar",
+    "progressLabel": "Going Away",
+    "character": "narrator",
+    "coords": [88.36, 22.511],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The lake the narrator walks by is the artificial lake of south Calcutta, known as Dhakuria Lake and renamed Rabindra Sarobar; sited at the lake's centre.",
+    "reference": "Part One, Going Away",
+    "order": 3,
+    "note": "The wooded lake a short walk from the family's quarter is a place of childhood errands and adolescent talk, part of the ordinary Calcutta geography the narrator sets against the far cities of his memory. Long called Dhakuria Lake, it was renamed Rabindra Sarobar for the poet Tagore.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rabindra Sarobar, Wikipedia, for the coordinates of the former Dhakuria Lake",
+        "url": "https://en.wikipedia.org/wiki/Rabindra_Sarobar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "prices-house-lymington-road",
+    "name": "The Prices' house, Lymington Road",
+    "progressLabel": "Going Away",
+    "character": "narrator",
+    "coords": [-0.1863, 51.5488],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Outside the Calcutta setting. Ghosh names Lymington Road in West Hampstead, a real street, but the Prices' house is invented; sited on the street as its model rather than a specific number.",
+    "reference": "Part One, Going Away",
+    "order": 4,
+    "note": "In London the narrator's memory settles on the Prices' home on Lymington Road in West Hampstead, the English family whose lives are bound to his own across a generation and a war. The street is real; the house and the family are Ghosh's, a second fixed point to set against Calcutta.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lymington Road, West Hampstead, London NW6, Streetlist, for the street location",
+        "url": "https://www.streetlist.co.uk/nw/nw6/nw6-1/lymington-road"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Shadow Lines by Amitav Ghosh, plot summary, LitCharts, on the London family and the Price household",
+        "url": "https://www.litcharts.com/lit/the-shadow-lines/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jindabahar-lane-dhaka",
+    "name": "The ancestral house, old Dhaka",
+    "progressLabel": "Coming Home",
+    "character": "narrator",
+    "coords": [90.4073, 23.7195],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Outside the Calcutta setting, and across a border. The grandmother's house is placed at 1/31 Jindabahar Lane in old Dhaka, a real lane in the Bangshal and Nazira Bazar quarter; sited there, at the neighbourhood the lane runs through, since the house itself is the novel's.",
+    "reference": "Part Two, Coming Home",
+    "order": 5,
+    "note": "The grandmother's memory keeps a partitioned family house in old Dhaka, and her return in 1964 draws the narrator's world toward the communal riots and the death that the whole book has been circling. Jindabahar Lane is a real lane in the old city; the divided house on it belongs to Ghosh.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nazirabazar, old Dhaka, Wikipedia, for coordinates of the Bangshal quarter where Jindabahar Lane runs",
+        "url": "https://en.wikipedia.org/wiki/Nazirabazar"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Shadow Lines by Amitav Ghosh, plot summary, LitCharts, on the Dhaka house at Jindabahar Lane and the 1964 riots",
+        "url": "https://www.litcharts.com/lit/the-shadow-lines/summary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

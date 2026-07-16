@@ -1,0 +1,134 @@
+[
+  {
+    "id": "wazir-akbar-khan-fathers-house",
+    "name": "Baba's house, Wazir Akbar Khan",
+    "progressLabel": "Chapters 1-3",
+    "character": "amir",
+    "coords": [69.1839, 34.5361],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the family's grand house in the affluent Wazir Akbar Khan district but gives no address; the house itself is invented. Sited at the district centre as a representative point.",
+    "reference": "Chapter 3",
+    "order": 1,
+    "note": "The story opens in the comfortable childhood home of the narrator, a wealthy merchant's son, in one of Kabul's richest districts. The friendship between the boy and the servant's son who grows up beside him sets the guilt that drives the whole book. Wazir Akbar Khan is a real northern quarter of large villas and, later, foreign embassies.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wazir Akbar Khan, Kabul, Wikipedia, on the affluent district and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Wazir_Akbar_Khan,_Kabul"
+      },
+      {
+        "kind": "external",
+        "ref": "The Kite Runner setting overview, on the Wazir Akbar Khan neighbourhood",
+        "url": "https://www.litcharts.com/lit/the-kite-runner/setting"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wazir-akbar-khan-hill-kite-tournament",
+    "name": "The kite-fighting hill",
+    "progressLabel": "Chapter 7",
+    "character": "amir",
+    "coords": [69.1802, 34.5428],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The winter tournament is set in the skies and streets of Wazir Akbar Khan; no single vantage point is named. Sited on the hill that overlooks the district as a representative point.",
+    "reference": "Chapter 7",
+    "order": 2,
+    "note": "Kabul's great winter sport is kite fighting, glass-coated strings cutting rival kites from the sky, and the boy stakes everything on winning the neighbourhood tournament to earn his father's pride. The victory and what happens to his friend in an alley afterward is the wound at the heart of the novel. The hill above Wazir Akbar Khan looks out over the rooftops where the kites fly.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wazir Akbar Khan Hill, Wikipedia, on the hill overlooking the district",
+        "url": "https://en.wikipedia.org/wiki/Wazir_Akbar_Khan_Hill"
+      },
+      {
+        "kind": "external",
+        "ref": "The Kite Runner setting overview, on Kabul kite fighting in the Wazir Akbar Khan district",
+        "url": "https://www.litcharts.com/lit/the-kite-runner/setting"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "qargha-lake",
+    "name": "Ghargha Lake",
+    "progressLabel": "Chapter 8",
+    "character": "amir",
+    "coords": [69.0329, 34.5558],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the lake at Ghargha; this marks the Qargha reservoir west of Kabul, spelled Ghargha in the book.",
+    "reference": "Chapter 8",
+    "order": 3,
+    "note": "Trying to mend things after the tournament, the father drives the boys out to the lake for a day away from the city. The outing only deepens the narrator's shame at what he saw and did nothing to stop. Qargha, a reservoir dammed in the 1930s a short way west of Kabul, has long been the city's favourite spot for a family picnic.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Qargha Dam, Wikipedia, on the reservoir west of Kabul and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Qargha_Dam"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ghazi-stadium",
+    "name": "Ghazi Stadium",
+    "progressLabel": "Chapter 21",
+    "character": "amir",
+    "coords": [69.1937, 34.5185],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Ghazi Stadium as the site of the public execution.",
+    "reference": "Chapter 21",
+    "order": 4,
+    "note": "Returning to a Kabul ruined by war and ruled by the Taliban, the narrator witnesses a public stoning carried out at half-time on the football pitch. The scene fixes the regime's brutality and the distance between the city he remembers and the one he finds. Ghazi Stadium is real, Afghanistan's national ground, notorious for the executions the Taliban staged there in the 1990s.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ghazi Stadium, Wikipedia, on the ground and the Taliban-era executions",
+        "url": "https://en.wikipedia.org/wiki/Ghazi_Stadium"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "peshawar-pakistan",
+    "name": "Peshawar, Pakistan",
+    "progressLabel": "Chapter 14",
+    "character": "amir",
+    "coords": [71.5785, 34.008],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Peshawar as the Pakistani city where the dying friend summons the narrator and where the return to Afghanistan begins.",
+    "reference": "Chapters 14-15",
+    "order": 5,
+    "note": "A phone call draws the narrator from California back across the world to Peshawar, the Pakistani border city crowded with Afghan refugees, where an old family friend asks him to go back into Afghanistan and put right the past. The city is the threshold between his exile and his return. It lies just east of the Khyber Pass, the historic road into Afghanistan.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Peshawar, Wikipedia, on the border city and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Peshawar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fremont-california",
+    "name": "Fremont, California",
+    "progressLabel": "Chapters 11-13",
+    "character": "amir",
+    "coords": [-121.9886, 37.5483],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel sets the family's American exile in Fremont, in the San Francisco Bay Area, with weekend flea-market trading in nearby San Jose.",
+    "reference": "Chapters 11-13",
+    "order": 6,
+    "note": "Fleeing the Soviet occupation, father and son settle among the Afghan community of the San Francisco Bay Area, the father pumping gas and the pair selling at weekend flea markets. Here the narrator grows up, marries and becomes a writer, while the guilt he carried out of Kabul waits. Fremont, in Alameda County, holds one of the largest Afghan populations in the United States.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fremont, California, Wikipedia, on the city, its Afghan community and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Fremont,_California"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

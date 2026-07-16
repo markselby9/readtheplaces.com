@@ -1,0 +1,126 @@
+[
+  {
+    "id": "nisantasi-kemal-family-flat",
+    "name": "Nişantaşı, Kemal's district",
+    "progressLabel": "The engagement",
+    "character": "kemal",
+    "coords": [28.9945, 41.0492],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nişantaşı is a real district and the novel names it repeatedly; the family's specific flat is invented, so this sits at the heart of the quarter, near the Teşvikiye junction.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The gilded world Kemal is born into: a wealthy Istanbul family, an apartment among the well-to-do of Nişantaşı, and an engagement to a suitable young woman. Pamuk's own childhood district, its avenues of tailors and shops frame the life the narrator will slowly abandon.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nişantaşı, Wikipedia, on the district and its association with Pamuk",
+        "url": "https://en.wikipedia.org/wiki/Ni%C5%9Fanta%C5%9F%C4%B1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sanzelize-boutique-nisantasi",
+    "name": "The Şanzelize boutique",
+    "progressLabel": "Spring 1975",
+    "character": "kemal",
+    "coords": [28.9928, 41.0472],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Şanzelize boutique is invented. The novel sets it among the fashionable shops of Nişantaşı, so this marks a representative point on Valikonağı Avenue, the district's shopping street.",
+    "reference": "Opening chapters",
+    "order": 2,
+    "note": "Buying a handbag for his fiancée, Kemal walks into a small Nişantaşı boutique and finds a distant young relative, Füsun, working behind the counter. The chance meeting is the hinge of the whole book. The shop is fictional, but the world of imported labels and moneyed Nişantaşı around it is exact.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nişantaşı, Wikipedia, on the district's boutiques and shopping avenues",
+        "url": "https://en.wikipedia.org/wiki/Ni%C5%9Fanta%C5%9F%C4%B1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "merhamet-apartments-tesvikiye",
+    "name": "The Merhamet Apartments",
+    "progressLabel": "The affair",
+    "character": "kemal",
+    "coords": [28.9938, 41.05],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Merhamet Apartmanı is a fictional building. The novel places it on Teşvikiye Avenue in Nişantaşı, so this marks a point along that real street; Pamuk has said he drew on his family's own apartment block.",
+    "reference": "The Happiest Moment of My Life",
+    "order": 3,
+    "note": "In an empty flat his family keeps in the Merhamet Apartments, Kemal and Füsun meet in secret over one spring. He will remember it as the happiest stretch of his life, and its afternoons set off the collecting that consumes his years. The building is invented; Teşvikiye Avenue, where Pamuk puts it, is real.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Museum of Innocence (museum), Wikipedia, on Pamuk's fictional Nişantaşı settings and the Çukurcuma museum",
+        "url": "https://en.wikipedia.org/wiki/The_Museum_of_Innocence_(museum)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "istiklal-beyoglu",
+    "name": "İstiklal Avenue, Beyoğlu",
+    "progressLabel": "The obsession",
+    "character": "kemal",
+    "coords": [28.9779, 41.0338],
+    "placeCertainty": "explicit",
+    "certaintyNote": "İstiklal Avenue and the Beyoğlu district are named in the novel; this marks a central point on the pedestrian avenue.",
+    "reference": "The middle chapters",
+    "order": 4,
+    "note": "As the affair breaks and Kemal's engagement collapses, the city itself becomes the stage for his longing: the cinemas, meyhanes and crowds of Beyoğlu and its great avenue, İstiklal, walked over and over in a decade of restless nights. The novel's Istanbul is a real, walkable place, and this is its spine.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "İstiklal Avenue, Wikipedia, on the Beyoğlu avenue",
+        "url": "https://en.wikipedia.org/wiki/%C4%B0stiklal_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cukurcuma-keskin-house",
+    "name": "Çukurcuma, the Keskin house",
+    "progressLabel": "The lost years",
+    "character": "kemal",
+    "coords": [28.9787, 41.0296],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Çukurcuma is a real quarter of Beyoğlu, named in the novel; the Keskin family house is fictional, so this marks a point in the quarter's lanes near where Pamuk later sited the museum.",
+    "reference": "The later chapters",
+    "order": 5,
+    "note": "For eight years Kemal comes almost nightly to dinner at the modest Çukurcuma house where Füsun now lives with her family, quietly pocketing the objects she touches. The steep, old timber streets of Çukurcuma, then a poor quarter of junk shops, hold the long middle of his devotion. The house is invented; the quarter is real.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Museum of Innocence (museum), Wikipedia, on the Çukurcuma setting",
+        "url": "https://en.wikipedia.org/wiki/The_Museum_of_Innocence_(museum)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "museum-of-innocence-cukurcuma",
+    "name": "The Museum of Innocence",
+    "progressLabel": "The museum",
+    "character": "kemal",
+    "coords": [28.979854, 41.030849],
+    "placeCertainty": "explicit",
+    "reference": "The closing chapters",
+    "order": 6,
+    "note": "In the novel Kemal turns the Çukurcuma house into a museum of the objects he saved, so his story can be walked rather than only read. Pamuk built it for real: a museum at Çukurcuma Caddesi, Dalgıç Çıkmazı No. 2, opened in 2012, where the book's ticket is printed inside and a visitor can climb to Kemal's attic. Fiction and address are the same place.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Museum of Innocence (museum), Wikipedia, on the real museum Pamuk opened in Çukurcuma in 2012",
+        "url": "https://en.wikipedia.org/wiki/The_Museum_of_Innocence_(museum)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Masumiyet Müzesi, official site, address and visiting information",
+        "url": "https://www.masumiyetmuzesi.org/en"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

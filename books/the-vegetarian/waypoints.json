@@ -1,0 +1,128 @@
+[
+  {
+    "id": "the-couples-apartment",
+    "name": "The couple's apartment",
+    "progressLabel": "The Vegetarian",
+    "character": "yeong-hye",
+    "coords": [127.1, 37.5133],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Han Kang never names the couple's district. Jamsil, a dense expanse of apartment towers on the south bank of the Han, stands in as a representative modern-Seoul home for an ordinary married couple.",
+    "reference": "Part One: The Vegetarian",
+    "order": 1,
+    "note": "The story opens in the small flat the narrator shares with his wife, an unremarkable married life in a high-rise city. After she throws out every scrap of meat in the kitchen and refuses to eat it again, the apartment becomes the first ground of the conflict. The novel gives no address, so this marks a representative apartment district.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lotte World Tower, Jamsil, Songpa-gu, latlong.net, for the district coordinates",
+        "url": "https://www.latlong.net/place/lotte-world-songpa-gu-seoul-south-korea-3644.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Vegetarian, Wikipedia, on the novel's contemporary-Seoul setting and structure",
+        "url": "https://en.wikipedia.org/wiki/The_Vegetarian"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "parents-apartment",
+    "name": "The parents' apartment",
+    "progressLabel": "The Vegetarian",
+    "character": "yeong-hye",
+    "coords": [127.0132, 37.6413],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The parents' home has no address in the novel. Suyu-dong, an older residential quarter below the northern mountains, is chosen as a plausible home for a traditional family of that generation.",
+    "reference": "Part One: The Vegetarian",
+    "order": 2,
+    "note": "The family gathers at her parents' apartment for a meal, and the visit turns violent when her father, a Vietnam War veteran, tries to force meat into her mouth and strikes her across the face. This is the scene that fractures the family for good. The location is never given, so this marks a representative older residential district.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Suyu-dong, Gangbuk-gu, Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Suyu-dong"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Vegetarian, Wikipedia, on the family confrontation in Part One",
+        "url": "https://en.wikipedia.org/wiki/The_Vegetarian"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "video-artists-studio",
+    "name": "The video artist's studio",
+    "progressLabel": "Mongolian Mark",
+    "character": "in-hye",
+    "coords": [127.0515, 37.5506],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The studio is unnamed in the text. Seongsu, the former factory district east of the river that Seoul's artists have turned into studios, is used as a representative location for a struggling video artist's rented workspace.",
+    "reference": "Part Two: Mongolian Mark",
+    "order": 3,
+    "note": "In the second part, the woman's brother-in-law, a video artist, grows obsessed with the birthmark on her body and films her painted with flowers in his rented workspace. The affair that follows wrecks his marriage to her sister. The studio has no address, so this marks Seoul's real cluster of converted-factory artist studios as a stand-in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Seongsu-dong, Seongdong-gu, Wikipedia, for the district coordinates and its artist studios",
+        "url": "https://en.wikipedia.org/wiki/Seongsu-dong"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Vegetarian, Wikipedia, on the Mongolian Mark section narrated by the brother-in-law",
+        "url": "https://en.wikipedia.org/wiki/The_Vegetarian"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "in-hyes-home",
+    "name": "In-hye's home",
+    "progressLabel": "Flaming Trees",
+    "character": "in-hye",
+    "coords": [126.8741, 37.533],
+    "placeCertainty": "inferred",
+    "certaintyNote": "In-hye's apartment is never located. Mok-dong, a settled middle-class apartment district in western Seoul, is a representative choice for the more stable of the two sisters.",
+    "reference": "Part Three: Flaming Trees",
+    "order": 4,
+    "note": "The final part follows the older sister, In-hye, left to hold her life and her young son together after both marriages collapse. Her apartment, where she raises her child alone and carries the weight of the family, is the quiet centre of the last section. The book does not place it, so this marks a representative western-Seoul apartment district.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yangcheon District (Mok-dong), Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Yangcheon_District"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Vegetarian, Wikipedia, on In-hye's perspective in Flaming Trees",
+        "url": "https://en.wikipedia.org/wiki/The_Vegetarian"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chukseong-psychiatric-hospital",
+    "name": "Ch'ukseong Psychiatric Hospital",
+    "progressLabel": "Flaming Trees",
+    "character": "yeong-hye",
+    "coords": [127.02, 37.705],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Ch'ukseong hospital is fictional and only described as lying in the mountains beyond the city. This marks a representative point on the wooded Dobongsan ridge on the Seoul-Gyeonggi border; outsideSetting is set because it sits beyond the city's edge.",
+    "reference": "Part Three: Flaming Trees",
+    "order": 5,
+    "note": "In-hye makes the long journey out of the city to the psychiatric hospital where her sister is now confined, still refusing food and turning ever more toward the trees. The novel names it the Ch'ukseong hospital and sets it deep in a forested mountain area outside Seoul; no such hospital exists at a fixed address, so this marks a representative point in the wooded mountains on the city's northern fringe.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dobongsan, Wikipedia, for the mountain coordinates on the Seoul-Gyeonggi border",
+        "url": "https://en.wikipedia.org/wiki/Dobongsan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bukhansan National Park, Wikipedia, on the wooded mountains at Seoul's northern edge",
+        "url": "https://en.wikipedia.org/wiki/Bukhansan_National_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

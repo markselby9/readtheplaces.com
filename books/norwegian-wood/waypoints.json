@@ -1,0 +1,153 @@
+[
+  {
+    "id": "toru-dormitory-bunkyo",
+    "name": "Toru's dormitory, Bunkyo",
+    "progressLabel": "Chapter 2",
+    "character": "toru",
+    "coords": [139.7233, 35.7141],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel never names the dormitory, but its regimented flag-raising mornings, tatami rooms and cramped hierarchy match Wakeijuku, the all-male hall in Mejirodai where Murakami himself lived as a student. Sited there.",
+    "reference": "Chapter 2",
+    "order": 1,
+    "note": "Toru's first Tokyo home is a strict private dormitory in the hills of Bunkyo, run by a shadowy foundation, where a neat, stammering roommate the students nickname Storm-Trooper drills the day into order. It grounds the narrator's arrival in the city and his early distance from the people around him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wakeijuku, Wikipedia, on the Bunkyo dormitory Murakami lived in and used as the model",
+        "url": "https://en.wikipedia.org/wiki/Wakeijuku"
+      },
+      {
+        "kind": "guide",
+        "ref": "Revisiting locations from Haruki Murakami's Norwegian Wood, Waseda University news",
+        "url": "https://www.waseda.jp/top/en/news/41941"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waseda-university-district",
+    "name": "The university, Waseda",
+    "progressLabel": "Chapter 3",
+    "character": "toru",
+    "coords": [139.7196, 35.7087],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The private Tokyo university Toru attends is unnamed, but the drama department, the campus geography and Murakami's own enrolment point to Waseda. Sited at the main Waseda campus.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "Toru drifts through lectures at a large private university, studying drama without much conviction, sitting through classes on the Euripides he does not care for and skipping the ones he does. The campus reads as Waseda, in whose district he lives, and where Murakami was a student in these years.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Waseda University campus access page, for the main campus coordinates",
+        "url": "https://www.waseda.jp/top/en/access/waseda-campus"
+      },
+      {
+        "kind": "guide",
+        "ref": "Revisiting locations from Haruki Murakami's Norwegian Wood, Waseda University news",
+        "url": "https://www.waseda.jp/top/en/news/41941"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shinjuku-bars-bookshops",
+    "name": "The bars and bookshops of Shinjuku",
+    "progressLabel": "Chapter 4",
+    "character": "toru",
+    "coords": [139.7006, 35.6939],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Shinjuku is named repeatedly, but the specific bars are not, so this marks Golden Gai, the warren of tiny drinking dens off Kabukicho that stands for the district's night life.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "Shinjuku is where Toru and his worldly friend Nagasawa go looking for drink and strangers, and where the narrator spends idle hours among record shops and bookshops. The neighbourhood carries the restless, transactional side of his student life, away from Naoko.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shinjuku Golden Gai, Wikipedia, for the bar-district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Shinjuku_Golden_Gai"
+      },
+      {
+        "kind": "guide",
+        "ref": "Walking Through Murakami's Tokyo, Voyapon, on the Shinjuku settings of the novel",
+        "url": "https://voyapon.com/murakami-tokyo-walk/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yotsuya-embankment-walk",
+    "name": "The walk from Yotsuya",
+    "progressLabel": "Chapter 3",
+    "character": "toru",
+    "coords": [139.73056, 35.68611],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Yotsuya is named as the start of the walk; the coordinates anchor Yotsuya Station, beside the grassy embankment along the old outer moat.",
+    "reference": "Chapter 3",
+    "order": 4,
+    "note": "A chance meeting on a train sets Toru and Naoko walking for hours with almost nothing said, out from Yotsuya along the green railway embankment above the old moat. It is the reunion that pulls the two of them back together after the death that shadows them both.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yotsuya Station, Wikipedia, for the station coordinates",
+        "url": "https://en.wikipedia.org/wiki/Yotsuya_Station"
+      },
+      {
+        "kind": "guide",
+        "ref": "Walking the Scenes of Norwegian Wood, Ignition, tracing the Yotsuya-to-Iidabashi walk",
+        "url": "https://medium.com/ignition-int/walking-the-scenes-of-norwegian-wood-bc2245ac6341"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "iidabashi-canal",
+    "name": "The canal at Iidabashi",
+    "progressLabel": "Chapter 3",
+    "character": "toru",
+    "coords": [139.745, 35.70194],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Iidabashi is named on the long walk; the coordinates mark Iidabashi Station where the moatside path meets the canal before the route turns on toward Ochanomizu.",
+    "reference": "Chapter 3",
+    "order": 5,
+    "note": "The wordless walk carries on past Iidabashi, where the outer moat opens into the canal, and the two keep going through the city rather than stop and speak. The stretch of water fixes the slow, held-breath mood of their renewed acquaintance.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Iidabashi Station, Wikipedia, for the station coordinates",
+        "url": "https://en.wikipedia.org/wiki/Iidabashi_Station"
+      },
+      {
+        "kind": "guide",
+        "ref": "Walking the Scenes of Norwegian Wood, Ignition, tracing the Yotsuya-to-Iidabashi walk",
+        "url": "https://medium.com/ignition-int/walking-the-scenes-of-norwegian-wood-bc2245ac6341"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ami-hostel-sanatorium-kyoto",
+    "name": "Naoko's sanatorium near Kyoto",
+    "progressLabel": "Chapter 6",
+    "character": "toru",
+    "coords": [135.7695, 35.121],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The retreat, called Ami Hostel in the novel, is invented. The text places it in the wooded mountains roughly an hour by bus north of Kyoto, so this marks a representative point in the northern hills near Mount Kurama.",
+    "reference": "Chapter 6",
+    "order": 6,
+    "note": "Naoko withdraws to a secluded sanatorium in the hills north of Kyoto, where patients and staff live half as equals, tending gardens and taking long walks in the woods. Toru's visits there, and his growing closeness to her roommate Reiko, form the still centre of the book away from Tokyo.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Norwegian Wood (novel), Wikipedia, on Naoko's sanatorium in the hills near Kyoto",
+        "url": "https://en.wikipedia.org/wiki/Norwegian_Wood_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mount Kurama, latitude.to, for a representative point in the northern Kyoto hills",
+        "url": "https://latitude.to/articles-by-country/jp/japan/33097/mount-kurama"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

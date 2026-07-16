@@ -1,0 +1,35 @@
+{
+  "id": "the-shadow-of-the-wind",
+  "title": "The Shadow of the Wind",
+  "author": "Carlos Ruiz Zafón",
+  "published": 2001,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [2.174, 41.383],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Barcelona",
+    "country": "ES",
+    "date": "1945",
+    "note": "Zafón's Barcelona of the postwar 1940s: a fog-bound old town of narrow lanes and antiquarian bookshops, from a hidden library in the Raval and a family shop off La Rambla out to the ruined modernista mansions above the city and the cemetery on Montjuïc.",
+    "bbox": [2.12, 41.34, 2.19, 41.42]
+  },
+  "rights": {
+    "originalWork": "In copyright. Carlos Ruiz Zafón, first published 2001. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/158865/the-shadow-of-the-wind-by-carlos-ruiz-zafon/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Shadow of the Wind, Carlos Ruiz Zafón (2001). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#24506B",
+    "note": "The misty blue of Zafón's night-time Barcelona, the colour of fog on the harbour and the lamplit streets of the old town. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "daniel": {
+      "name": "Daniel Sempere",
+      "color": "#9C3A1E"
+    }
+  }
+}

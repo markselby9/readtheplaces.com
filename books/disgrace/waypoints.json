@@ -1,0 +1,119 @@
+[
+  {
+    "id": "cape-town-technical-university",
+    "name": "The technical university, Cape Town",
+    "progressLabel": "Part One",
+    "character": "lurie",
+    "coords": [18.4321, -33.9305],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Coetzee names only a Cape Town technical university, never a real campus; the description matches the former Cape Technikon, now the Cape Peninsula University of Technology's District Six campus, so this marks that site.",
+    "reference": "Part One, chapters 1-4",
+    "order": 1,
+    "note": "A middle-aged professor of communications teaches poetry to indifferent students at a downsized technical university. An affair with one of them collapses into a disciplinary hearing that he refuses to answer with the contrition demanded, and he loses his post. This is the disgrace of the title, and it sits far to the west of the rest of the story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "CPUT District Six Campus, formerly the Cape Technikon, on Keizersgracht in Zonnebloem",
+        "url": "https://www.cput.ac.za/about/visit/district-six-campus"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Disgrace, Wikipedia, on the Cape Town university setting of the opening",
+        "url": "https://en.wikipedia.org/wiki/Disgrace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "green-point-flat",
+    "name": "Lurie's flat, Green Point",
+    "progressLabel": "Part One",
+    "character": "lurie",
+    "coords": [18.39862, -33.90043],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Green Point as the professor's neighbourhood but gives no street address, so this marks the centre of the Atlantic Seaboard suburb.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "Before his fall the professor keeps an ordered bachelor life in an Atlantic Seaboard suburb of Cape Town, with Thursday visits to a paid companion and a settled routine. Green Point, named in the book, is where that self-contained world comes apart when the scandal breaks.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Green Point, Cape Town, Wikipedia, for the suburb and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Green_Point,_Cape_Town"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lucy-smallholding-salem",
+    "name": "Lucy's smallholding, near Salem",
+    "progressLabel": "Part Two",
+    "character": "lurie",
+    "coords": [26.4833, -33.4714],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Coetzee places the daughter's smallholding on the land near Salem but the farm itself is fictional and unaddressed, so this marks the settler village of Salem as the anchor for it.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "Leaving the city, the professor goes to stay with his adult daughter, who runs a small farm on the veld: a kennels, a flower and vegetable plot, a Saturday market stall. The quiet of the place breaks with a violent daylight attack that leaves father and daughter changed and unable to speak the same language about what happened. The smallholding lies out near Salem, between town and coast.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Salem, Eastern Cape, Wikipedia, on the 1820 settler village between Grahamstown and the coast",
+        "url": "https://en.wikipedia.org/wiki/Salem,_Eastern_Cape"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Disgrace, Wikipedia, on the Eastern Cape smallholding setting",
+        "url": "https://en.wikipedia.org/wiki/Disgrace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grahamstown-makhanda",
+    "name": "Grahamstown (Makhanda)",
+    "progressLabel": "Part Two",
+    "character": "lurie",
+    "coords": [26.53276, -33.30422],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Grahamstown is named in the novel; it was officially renamed Makhanda in 2018, after the book was written.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The nearest town to the farm is the old frontier settlement of Grahamstown, since renamed Makhanda. It is where the daughter sells her produce, where the professor reports the crime to indifferent police, and where the wider currents of post-apartheid land and power press in on the family's private trouble.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Makhanda, South Africa, Wikipedia, on the town formerly named Grahamstown",
+        "url": "https://en.wikipedia.org/wiki/Makhanda,_South_Africa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bev-shaw-animal-clinic",
+    "name": "The animal clinic, Grahamstown",
+    "progressLabel": "Part Three",
+    "character": "lurie",
+    "coords": [26.5215, -33.3125],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The volunteer animal-welfare clinic in the novel is fictional and unaddressed but set in and around Grahamstown, so this marks a point in the town near the daughter's neighbour who runs it.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The professor takes work helping a neighbour at a shoestring animal-welfare clinic, where unwanted dogs are put down and their bodies disposed of with a strange, growing tenderness on his part. This humble labour, more than any hearing, becomes the book's slow measure of what humility and grace might mean.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Disgrace, Wikipedia, on the animal-welfare clinic and Lurie's work with the dogs",
+        "url": "https://en.wikipedia.org/wiki/Disgrace"
+      },
+      {
+        "kind": "guide",
+        "ref": "Makhanda, South Africa, Wikipedia, for the town the clinic sits in",
+        "url": "https://en.wikipedia.org/wiki/Makhanda,_South_Africa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

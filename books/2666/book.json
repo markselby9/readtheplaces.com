@@ -1,0 +1,38 @@
+{
+  "id": "2666",
+  "title": "2666",
+  "author": "Roberto Bolaño",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-106.4833, 31.7333],
+  "zoom": 11.5,
+  "setting": {
+    "city": "Ciudad Juárez",
+    "country": "MX",
+    "note": "Bolaño's Santa Teresa is a thin fictional mask over Ciudad Juárez, the Mexican border city facing El Paso across the Rio Grande. The map runs from the international bridges and the old downtown out to the maquiladora factories and the desert lots on the city's edge, where over years the bodies of hundreds of murdered women were found. A European frame, followed here to Bremen, opens the book far from that violence.",
+    "bbox": [-106.6, 31.68, -106.38, 31.8]
+  },
+  "rights": {
+    "originalWork": "In copyright. Roberto Bolaño, first published 2004. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://us.macmillan.com/books/9780312429218/2666",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "2666, Roberto Bolaño (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3324",
+    "note": "A dried, iron-red taken from the border desert and the violence at the book's centre. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "santateresa": {
+      "name": "Santa Teresa",
+      "color": "#365062"
+    },
+    "critics": {
+      "name": "The critics",
+      "color": "#5C4630"
+    }
+  }
+}

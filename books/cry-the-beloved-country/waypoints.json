@@ -1,0 +1,153 @@
+[
+  {
+    "id": "ndotsheni-hills-above-ixopo",
+    "name": "Ndotsheni, the hills above Ixopo",
+    "progressLabel": "Book One",
+    "character": "kumalo",
+    "coords": [30.0694, -30.1531],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ndotsheni is a fictional village, set in the tribal country in the hills above the real town of Ixopo in Natal, roughly 400 km south of Johannesburg. This marks Ixopo, the named landmark the book opens from, and sits outside the Johannesburg setting on purpose.",
+    "reference": "Book One, chapter 1",
+    "order": 1,
+    "note": "The story begins in a poor rural parish in the Natal midlands, where the pastor keeps a shrinking congregation on land that no longer feeds its people. A letter calls him north to the city to look for his sister and his son. Paton frames the district from the lovely road that climbs into the green hills above Ixopo, before the valleys fall away to the dry, red, overgrazed country the young have left.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ixopo, Wikipedia, on the KwaZulu-Natal town the novel opens from",
+        "url": "https://en.wikipedia.org/wiki/Ixopo"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Cry, the Beloved Country, Encyclopaedia Britannica, on the Natal setting and the journey to Johannesburg",
+        "url": "https://www.britannica.com/topic/Cry-the-Beloved-Country"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sophiatown",
+    "name": "Sophiatown",
+    "progressLabel": "Book One",
+    "character": "kumalo",
+    "coords": [27.9816, -26.1767],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sophiatown is named in the novel. This marks the historic freehold suburb west of central Johannesburg, later demolished under apartheid and rebuilt as Triomf before the old name was restored.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "Arriving in Johannesburg, the pastor is taken in by a fellow priest in one of the few places where black families could still own their homes. Crowded, poor and alive, this western suburb was a centre of black city life in the 1940s. The search for the lost son starts here, moving out through the addresses where he was last known.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sophiatown, Wikipedia, on the freehold suburb and its role in mid-century black Johannesburg",
+        "url": "https://en.wikipedia.org/wiki/Sophiatown"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sophiatown coordinates, latitude.to",
+        "url": "https://latitude.to/satellite-map/za/south-africa/19516/sophiatown"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "alexandra",
+    "name": "Alexandra",
+    "progressLabel": "Book One",
+    "character": "kumalo",
+    "coords": [28.091, -26.1023],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Alexandra is named in the novel. This marks the township northeast of the city centre, one of the few freehold areas open to black residents at the time.",
+    "reference": "Book One",
+    "order": 3,
+    "note": "The trail leads to the packed township on the northern edge of Johannesburg, reached on foot during a bus boycott the pastor joins in solidarity. Alexandra shows him a poverty deeper than home and a city that runs on the labour of people it will not house decently. The son has already moved on by the time he gets there.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Alexandra, Gauteng, Wikipedia, on the township's history and the 1940s bus boycotts",
+        "url": "https://en.wikipedia.org/wiki/Alexandra,_Gauteng"
+      },
+      {
+        "kind": "guide",
+        "ref": "Alexandra coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/za/south-africa/16558/alexandra-gauteng"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanty-town-orlando",
+    "name": "Shanty Town, Orlando",
+    "progressLabel": "Book One",
+    "character": "kumalo",
+    "coords": [27.941, -26.232],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Orlando and its shanty town. This marks Orlando, the oldest part of what became Soweto, southwest of the city, where the postwar squatter camps rose.",
+    "reference": "Book One",
+    "order": 4,
+    "note": "The search reaches the shack settlement thrown up overnight on open ground southwest of the city, where families with nowhere else drove stakes and stretched sacking into homes. Paton drew on the real squatter movement at Orlando in the mid-1940s. Here the pastor learns his son has drifted into trouble and reformatory, and the worst of the news comes close.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Orlando, Soweto, Wikipedia, on the township and the postwar shanty settlements",
+        "url": "https://en.wikipedia.org/wiki/Orlando,_Soweto"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Soweto, Wikipedia, on the 1944-46 Orlando squatter movement",
+        "url": "https://en.wikipedia.org/wiki/Soweto"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-reef-goldmines",
+    "name": "The goldmines of the Reef",
+    "progressLabel": "Book One",
+    "character": "kumalo",
+    "coords": [28.0972, -26.2344],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel returns again to the mines of the Witwatersrand that draw men to the city. This marks City Deep, one of the deep-level gold mines on the Reef beneath southern Johannesburg, as a representative point.",
+    "reference": "Book One",
+    "order": 5,
+    "note": "The gold under the ridge is why the city exists and why the young men keep leaving the land for it. The book keeps circling back to the mines and their headgear and the migrant compounds, the machine that pulls families apart even as it makes fortunes above ground. City Deep is one of the deep mines worked along the Reef in this period.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Witwatersrand, Wikipedia, on the gold Reef and the mines that built Johannesburg",
+        "url": "https://en.wikipedia.org/wiki/Witwatersrand"
+      },
+      {
+        "kind": "external",
+        "ref": "City Deep Mine, Johannesburg, mindat.org, for the mine location on the Reef",
+        "url": "https://www.mindat.org/loc-10107.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "johannesburg-court",
+    "name": "The Johannesburg court",
+    "progressLabel": "Book Two",
+    "character": "kumalo",
+    "coords": [28.0343, -26.2068],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the courthouse. This marks the central Johannesburg court precinct at Fox and Ntemi Piliso Streets in Marshalltown, where a case of this period would have been heard, as a representative point.",
+    "reference": "Book Two",
+    "order": 6,
+    "note": "The second half turns on a trial after the killing of a white man during a burglary, and the machinery of the law falls hardest on the accused who least expected to face it. Paton, who ran a reformatory, sets the courtroom scenes in the heart of white Johannesburg, where a black defendant stood before a bench and a system built without him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Johannesburg Magistrates Court, The Heritage Portal, on the 1940s courthouse in Marshalltown",
+        "url": "https://www.theheritageportal.co.za/node/734"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Cry, the Beloved Country, Encyclopaedia Britannica, on the trial and the novel's structure",
+        "url": "https://www.britannica.com/topic/Cry-the-Beloved-Country"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

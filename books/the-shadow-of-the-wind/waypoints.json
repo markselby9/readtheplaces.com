@@ -1,0 +1,135 @@
+[
+  {
+    "id": "cemetery-of-forgotten-books-arc-del-teatre",
+    "name": "The Cemetery of Forgotten Books",
+    "progressLabel": "Chapter 1",
+    "character": "daniel",
+    "coords": [2.175, 41.3786],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Cemetery of Forgotten Books is invented. The novel leads the boy to it through the tangled lanes off the lower Rambla, and readers and Zafón's own companion pieces place its doorway on Carrer de l'Arc del Teatre in the Raval; sited on that street as a representative point.",
+    "reference": "Chapter 1, opening",
+    "order": 1,
+    "note": "Before dawn, Daniel's father takes him to a secret labyrinthine library where each visitor adopts one book to protect for life. Daniel chooses a novel by Julián Carax, and that choice sets the whole story in motion. The place is a fiction, but Zafón roots it in a real, shadowy street a few steps off the Rambla.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Exploring Zafón's Barcelona: The Shadow of the Wind Locations, Barcelona Navigator, placing the fictional cemetery on Carrer de l'Arc del Teatre",
+        "url": "https://barcelonanavigator.com/shadow-of-the-wind-locations/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sempere-and-sons-carrer-de-santa-anna",
+    "name": "Sempere & Sons, Carrer de Santa Anna",
+    "progressLabel": "Chapter 1",
+    "character": "daniel",
+    "coords": [2.17192, 41.38561],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carrer de Santa Anna is named in the novel and is a real street just off Plaça de Catalunya; the Sempere family bookshop itself is fictional, so this marks a representative point on the street.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The bookshop where Daniel lives and works with his widowed father, the still centre the story keeps returning to. Zafón sets it on Carrer de Santa Anna, a narrow shopping street near the top of the Rambla; the shop is invented but the address is one any reader can walk to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Touring Barcelona with The Shadow of the Wind, on the fictional Sempere shop set on the real Carrer de Santa Anna",
+        "url": "https://jadeasterling.com/blog/2019/2/1/touring-barcelona-with-the-shadow-of-the-wind"
+      },
+      {
+        "kind": "guide",
+        "ref": "Carrer de Santa Anna, Callejero de Barcelona, for the street coordinates",
+        "url": "https://barcelona.callejero.net/carrer-de-santa-anna.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "la-rambla",
+    "name": "La Rambla",
+    "progressLabel": "Chapter 2",
+    "character": "daniel",
+    "coords": [2.1737, 41.3813],
+    "placeCertainty": "explicit",
+    "reference": "Chapter 2",
+    "order": 3,
+    "note": "The tree-lined promenade that runs down to the harbour is the spine of Daniel's city, crossed and recrossed on his errands and his hunt for the truth about Carax. Zafón names it plainly; it is the busy public artery the book's secret places branch off from.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Exploring Zafón's Barcelona: The Shadow of the Wind Locations, Barcelona Navigator, on La Rambla as the novel's central thoroughfare",
+        "url": "https://barcelonanavigator.com/shadow-of-the-wind-locations/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "els-quatre-gats-carrer-de-montsio",
+    "name": "Els Quatre Gats",
+    "progressLabel": "Chapter 4",
+    "character": "daniel",
+    "coords": [2.1707, 41.3847],
+    "placeCertainty": "explicit",
+    "reference": "Chapter 4",
+    "order": 4,
+    "note": "A real modernista café on Carrer de Montsió, once a haunt of Barcelona's turn-of-the-century artists, where scenes from Carax's earlier life play out. Zafón names the café by its own name, folding the city's genuine bohemian history into the buried story Daniel is uncovering.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Els Quatre Gats, Wikipedia, on the historic café at Carrer de Montsió 3",
+        "url": "https://en.wikipedia.org/wiki/Els_Quatre_Gats"
+      },
+      {
+        "kind": "guide",
+        "ref": "Els Quatre Gats satellite map, latitude.to, for the café coordinates",
+        "url": "https://latitude.to/satellite-map/es/spain/28069/els-quatre-gats"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "aldaya-mansion-avinguda-del-tibidabo",
+    "name": "The Aldaya mansion, Avinguda del Tibidabo",
+    "progressLabel": "Chapter 8",
+    "character": "daniel",
+    "coords": [2.13491, 41.41348],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Avinguda del Tibidabo is a real avenue of grand old villas and is named in the novel, which gives the Aldaya house the number 32; the mansion itself is fictional, so this marks that address on the avenue.",
+    "reference": "Chapter 8",
+    "order": 5,
+    "note": "The crumbling, haunted house of the wealthy Aldaya family, the Angel of Mist, where the doomed love between Julián Carax and Penélope Aldaya began. Zafón places it on the Avinguda del Tibidabo, the hillside avenue of decaying modernista mansions, giving his invented ruin a precise real-world address.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Getting to Know Carlos Ruiz Zafón's Barcelona, on the fictional Aldaya mansion set at Avinguda del Tibidabo 32",
+        "url": "https://medium.com/@gjdwyer39/getting-to-know-carlos-ruiz-zafons-barcelona-2eb24efe353d"
+      },
+      {
+        "kind": "guide",
+        "ref": "Avinguda del Tibidabo 32, Callejero de Barcelona, for the address coordinates",
+        "url": "https://barcelona.callejero.net/avinguda-del-tibidabo_numero-32.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "montjuic-cemetery",
+    "name": "Montjuïc cemetery",
+    "progressLabel": "Chapter 12",
+    "character": "daniel",
+    "coords": [2.15127, 41.3531],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Montjuïc is named in the novel; the terraced cemetery on the seaward slope of the hill is the burial ground the book evokes, marked here at its entrance.",
+    "reference": "Chapter 12",
+    "order": 6,
+    "note": "The vast tiered cemetery on the Montjuïc hillside above the port, where the dead of Zafón's Barcelona are laid and where the story's threads of loss and buried history come together. The hill and its cemetery are real, looming over the city that the novel keeps returning to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Montjuïc Cemetery, Cementiris de Barcelona, for the cemetery entrance coordinates",
+        "url": "https://cementiris.ajuntament.barcelona.cat/en/cementiris/montjuic"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

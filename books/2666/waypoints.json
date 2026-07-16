@@ -1,0 +1,153 @@
+[
+  {
+    "id": "bremen-conference",
+    "name": "Bremen, Germany",
+    "progressLabel": "The Part About the Critics",
+    "character": "critics",
+    "coords": [8.8078, 53.0752],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bremen is named in the novel and is a real city in northern Germany, far from the border setting; it is flagged as an excursion beyond the book's anchor in Ciudad Juárez.",
+    "reference": "The Part About the Critics",
+    "order": 1,
+    "note": "The book opens in Europe with four literary scholars whose shared obsession with a reclusive German novelist binds them together at academic gatherings. A conference in Bremen sharpens their rivalries and their friendship before the trail they are following eventually points them south to the Mexican border. Bremen stands here for the book's European frame, remote from the violence at its core.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "2666 Read-Along, The Part About the Critics, The Mookse and the Gripes, on the Bremen conference scene",
+        "url": "https://mookseandgripes.com/reviews/2014/09/19/2666-read-along-part-1-the-part-about-the-critics/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bremen, Germany, coordinates",
+        "url": "https://latitude.to/map/de/germany/cities/bremen"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-paso-texas",
+    "name": "El Paso, Texas",
+    "progressLabel": "The Part About Fate",
+    "character": "santateresa",
+    "coords": [-106.4883, 31.7608],
+    "placeCertainty": "explicit",
+    "certaintyNote": "El Paso is a real US city and the northern half of the binational area whose Mexican side, Ciudad Juárez, the novel renames Santa Teresa.",
+    "reference": "The Part About Fate",
+    "order": 2,
+    "note": "Across the Rio Grande from Ciudad Juárez sits El Paso, Texas, the American twin of the border city the novel calls Santa Teresa. The narrative moves between the two sides: an American reporter drives down from the United States, and investigators cross the line in search of answers. El Paso marks the US edge of a single urban area divided by an international border.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "El Paso, Texas, coordinates",
+        "url": "https://latitude.to/map/us/united-states/cities/el-paso"
+      },
+      {
+        "kind": "guide",
+        "ref": "El Paso–Juárez, Wikipedia, on the binational metropolitan area straddling the border",
+        "url": "https://en.wikipedia.org/wiki/El_Paso%E2%80%93Ju%C3%A1rez"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paso-del-norte-bridge",
+    "name": "Paso del Norte International Bridge",
+    "progressLabel": "The Part About Fate",
+    "character": "santateresa",
+    "coords": [-106.4855, 31.7419],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel does not name this bridge, but the border crossing between Santa Teresa and the United States corresponds to the real crossings that link Ciudad Juárez and El Paso; this marks the main downtown bridge.",
+    "reference": "The Part About Fate",
+    "order": 3,
+    "note": "The Paso del Norte bridge is one of the principal crossings between Ciudad Juárez and El Paso. In the novel the border is a constant presence, with characters passing between Mexico and the United States, and this corridor carries much of that movement. The real bridge takes pedestrians and vehicles over the Rio Grande between the two downtowns.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Paso del Norte International Bridge, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paso_del_Norte_International_Bridge"
+      },
+      {
+        "kind": "guide",
+        "ref": "Paso del Norte International Bridge, coordinates",
+        "url": "https://latitude.to/articles-by-country/mx/mexico/109586/paso-del-norte-international-bridge"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-santa-teresa",
+    "name": "Downtown Ciudad Juárez",
+    "progressLabel": "The Part About Amalfitano",
+    "character": "santateresa",
+    "coords": [-106.4833, 31.7333],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Santa Teresa is a lightly fictionalised Ciudad Juárez; this marks the real city's historic centre, near the cathedral and the old market a short walk from the border bridges.",
+    "reference": "The Part About Amalfitano",
+    "order": 4,
+    "note": "Santa Teresa is a barely disguised Ciudad Juárez, and its downtown holds many of the bars, hotels and streets where the book's characters move, among them a philosophy professor who has settled in the city with his daughter. This marks the historic centre of the real border city, a dense grid of commerce and traffic close to the international line.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ciudad Juárez, coordinates",
+        "url": "https://latitude.to/map/mx/mexico/cities/ciudad-juarez"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ciudad Juárez, Wikipedia, on the city's downtown and border geography",
+        "url": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bermudez-maquiladora-zone",
+    "name": "Antonio J. Bermúdez Industrial Park",
+    "progressLabel": "The Part About the Crimes",
+    "character": "santateresa",
+    "coords": [-106.398, 31.7152],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The maquiladora zone is real and central to the novel's Santa Teresa; this marks the Antonio J. Bermúdez park, the oldest and largest of the city's industrial parks.",
+    "reference": "The Part About the Crimes",
+    "order": 5,
+    "note": "Ciudad Juárez grew around its maquiladoras, foreign-owned assembly plants that drew tens of thousands of workers, many of them young women, to the border. The novel returns repeatedly to these factories and to the long commutes and night shifts around them. The Antonio J. Bermúdez park is the city's oldest and largest industrial zone, emblematic of that economy and of the working lives of many of the murder victims.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Antonio J. Bermúdez Industrial Park, ProMexico Industry, park profile and coordinates",
+        "url": "https://www.promexicoindustry.com/parks/en/mexico/chihuahua/ciudad-jurez-1/antonio-j-bermudez-industrial-park-1"
+      },
+      {
+        "kind": "external",
+        "ref": "Femicides in Ciudad Juárez, Wikipedia, on maquiladora workers among the victims",
+        "url": "https://en.wikipedia.org/wiki/Femicides_in_Ciudad_Ju%C3%A1rez"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lomas-de-poleo-desert",
+    "name": "Lomas de Poleo desert",
+    "progressLabel": "The Part About the Crimes",
+    "character": "santateresa",
+    "coords": [-106.5825, 31.7713],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's desert dumping grounds are fictionalised composites; Lomas de Poleo, a real barren tract northwest of Ciudad Juárez near the border, is one of the documented sites where victims' bodies were found and is used here to stand for those scenes.",
+    "reference": "The Part About the Crimes",
+    "order": 6,
+    "note": "From the early 1990s the desert on the outskirts of Ciudad Juárez became a place where the bodies of murdered women were repeatedly discovered, a wave of killings that remains largely unsolved. The book gives its longest section over to a sober, accumulating record of these deaths, drawn from the real cases. Lomas de Poleo, a bleak stretch of ground northwest of the city near the border fence, is one of the actual sites where victims were found.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Femicides in Ciudad Juárez, Wikipedia, naming Lomas del Poleo as a site where bodies were found",
+        "url": "https://en.wikipedia.org/wiki/Femicides_in_Ciudad_Ju%C3%A1rez"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lomas de Poleo, Juárez Municipality, coordinates",
+        "url": "https://mapcarta.com/N703104795"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

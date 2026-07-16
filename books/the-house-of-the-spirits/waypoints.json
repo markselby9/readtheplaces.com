@@ -1,0 +1,122 @@
+[
+  {
+    "id": "big-house-on-the-corner",
+    "name": "The big house on the corner",
+    "progressLabel": "The family's early years",
+    "character": "esteban",
+    "coords": [-70.6483, -33.4372],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house is invented and the country is never named, so this marks a representative point in the old upper-class heart of Santiago, the capital the novel plainly draws on.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The rambling family home in the capital is the book's fixed point: Esteban Trueba builds it as a proud, orderly mansion, and over three generations his wife and daughters fill its rooms and its garden with unruly life. It has no real address; Allende models the setting on Santiago without ever putting the name Chile on the page.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The House of the Spirits, The Modern Novel, on the unnamed country and the capital's grand family house",
+        "url": "https://www.themodernnovel.org/americas/latin-america/chile/allende/casa/"
+      },
+      {
+        "kind": "guide",
+        "ref": "The House of the Spirits, Wikipedia, on the setting modelled on Chile but never named",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tres-marias-estate",
+    "name": "The Tres Marías estate",
+    "progressLabel": "The family's early years",
+    "character": "esteban",
+    "coords": [-70.95623, -32.84043],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Tres Marías is a fictional hacienda in an unnamed country; this sites it representatively in the Aconcagua valley north of Santiago, the rural central-Chile landscape it is built from and where a recent screen adaptation filmed. Point at Llay-Llay.",
+    "reference": "Esteban rebuilds the hacienda (early chapters)",
+    "order": 2,
+    "note": "After the death of his first love, Esteban buries himself in the family's neglected country estate and turns it into a showpiece he runs like a small kingdom. Tres Marías becomes the stage for the book's long argument about land, class and power. The estate is invented; its fields and tenant farmers belong to the central-Chilean countryside.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Where is The House of the Spirits set and filmed, Primetimer, on the Aconcagua valley locations used for Tres Marías",
+        "url": "https://www.primetimer.com/features/where-is-the-house-of-the-spirits-set-and-filmed-chile-locations-behind-season-1-explained"
+      },
+      {
+        "kind": "guide",
+        "ref": "Llay-Llay, Wikipedia, for a valley reference point on the Aconcagua river",
+        "url": "https://en.wikipedia.org/wiki/Llay-Llay"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cementerio-general",
+    "name": "The General Cemetery",
+    "progressLabel": "Across the generations",
+    "character": "esteban",
+    "coords": [-70.64917, -33.41278],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel buries its dead in the capital without naming a cemetery, so this marks Santiago's Cementerio General, the city's great historic burial ground, as a representative site.",
+    "reference": "Family funerals across the novel",
+    "order": 3,
+    "note": "Death threads through the whole saga, and the family carries its losses to a grand city cemetery again and again across the decades. Allende never names the ground; in the Santiago the book is drawn from, the General Cemetery is where the capital has long buried both its powerful and its poor.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Santiago General Cemetery, Wikipedia, on the historic cemetery of the capital and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Santiago_General_Cemetery"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "la-moneda-palace",
+    "name": "The presidential palace, La Moneda",
+    "progressLabel": "The coup, 1973",
+    "character": "esteban",
+    "coords": [-70.6539, -33.443],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The text keeps the country unnamed, but the military coup it stages is unmistakably Chile's of September 1973, when the presidential palace was bombed; this is Santiago's real La Moneda.",
+    "reference": "The military coup (late chapters)",
+    "order": 4,
+    "note": "The novel's politics come to a head when the army overthrows an elected socialist president and the seat of government is shelled from the air. Esteban, who spent his life on the right and helped bring the soldiers in, watches the order he wanted curdle into terror. The scene belongs to La Moneda, the palace bombed in Santiago on the eleventh of September 1973.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "La Moneda Palace, Wikipedia, on the presidential palace and its bombing in the 1973 coup",
+        "url": "https://en.wikipedia.org/wiki/La_Moneda_Palace"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "1973 Chilean coup d'état, Wikipedia, on the assault on the palace and the fall of the government",
+        "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "estadio-nacional",
+    "name": "The National Stadium",
+    "progressLabel": "The coup, 1973",
+    "character": "alba",
+    "coords": [-70.6106, -33.4644],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The country is never named, but the stadium the regime fills with prisoners after the coup is plainly the real thing; this is Santiago's Estadio Nacional, used as a mass detention camp in 1973.",
+    "reference": "After the coup (late chapters)",
+    "order": 5,
+    "note": "In the aftermath of the coup the new regime turns a sports stadium into a holding pen for thousands of the arrested, and Alba, the granddaughter, is swept up into the machinery of detention and torture. The novel's stadium is Santiago's Estadio Nacional, which the military ran as a concentration camp in the weeks after September 1973.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Estadio Nacional Julio Martínez Prádanos, Wikipedia, on the stadium and its use as a detention centre in 1973",
+        "url": "https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Pr%C3%A1danos"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "1973 Chilean coup d'état, Wikipedia, on the mass detentions that followed the coup",
+        "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

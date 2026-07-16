@@ -1,0 +1,38 @@
+{
+  "id": "the-house-of-the-spirits",
+  "title": "The House of the Spirits",
+  "author": "Isabel Allende",
+  "published": 1982,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-70.66, -33.44],
+  "zoom": 9.5,
+  "setting": {
+    "city": "Santiago",
+    "country": "CL",
+    "note": "Allende never names the country, but its geography and its history are Chile's: the big house on the corner in the capital, the Tres Marías estate out in the countryside, and, in the last chapters, a very real September. The coup, the palace under fire and the stadium turned into a prison are Santiago in 1973. The map runs from the capital's streets north to the Aconcagua valley that stands in for the family's land.",
+    "bbox": [-71.05, -33.55, -70.55, -32.75]
+  },
+  "rights": {
+    "originalWork": "In copyright. Isabel Allende, first published 1982. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/157836/the-house-of-the-spirits-by-isabel-allende/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The House of the Spirits, Isabel Allende (1982). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1E6E4E",
+    "note": "The green of the family's spirits and their walled garden, the colour that runs through three generations of women. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "esteban": {
+      "name": "Esteban Trueba",
+      "color": "#8C2F1E"
+    },
+    "alba": {
+      "name": "Alba",
+      "color": "#5E3A87"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "the-poisonwood-bible",
+  "title": "The Poisonwood Bible",
+  "author": "Barbara Kingsolver",
+  "published": 1998,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [18.55, -4.95],
+  "zoom": 8,
+  "setting": {
+    "city": "Kikwit",
+    "country": "CD",
+    "date": "1959",
+    "note": "An American missionary family lands in the Belgian Congo in 1959 and settles by the Kwilu River in the Bandundu backcountry, near the real river town of Kikwit. Over the next years the story follows the country out of colonial rule and into the turmoil of independence, from the fictional village of Kilanga to Leopoldville, then downriver to Bulungu. The map holds the Kwilu heartland; the family's later drift into Angola and back to Georgia falls outside it.",
+    "bbox": [15.0, -5.25, 19.05, -4.1]
+  },
+  "rights": {
+    "originalWork": "In copyright. Barbara Kingsolver, first published 1998. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.com/products/the-poisonwood-bible-barbara-kingsolver",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Poisonwood Bible, Barbara Kingsolver (1998). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#166043",
+    "note": "The wet green of the Kwilu forest, and of the poisonwood tree that gives the book its title. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "price": {
+      "name": "The Price family",
+      "color": "#8E3B1F"
+    }
+  }
+}

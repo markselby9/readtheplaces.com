@@ -1,0 +1,145 @@
+[
+  {
+    "id": "pondicherry-botanical-garden",
+    "name": "The Pondicherry Botanical Garden",
+    "progressLabel": "Part One",
+    "character": "pi",
+    "coords": [79.82368, 11.92975],
+    "placeCertainty": "explicit",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The novel places the Patel family's zoo inside the town's Botanical Garden, and it is where Pi spends his childhood among the animals and the planting. The garden is real: a laid-out French garden near the old bus stand and railway station, founded in the nineteenth century and still open to the public.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Part One, the chapters on the family zoo in the Pondicherry Botanical Garden"
+      },
+      {
+        "kind": "guide",
+        "ref": "Botanical Garden, Puducherry, geocoded via OpenStreetMap Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Botanical+Garden+Puducherry&format=json"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pondicherry-zoo",
+    "name": "The Pondicherry Zoo",
+    "progressLabel": "Part One",
+    "character": "pi",
+    "coords": [79.8245, 11.9302],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The zoo is invented. There was no large zoo of this kind in the real Botanical Garden; Martel imagines its enclosures and paths across the garden's grounds, so this marks a point within the garden rather than a place you can visit.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "Pi's father runs a zoo whose animals, routines and eventual sale set up the voyage and the shipwreck. The institution is fictional, its layout imagined within the real garden, but the book locates it firmly in Pondicherry, so we site it among the garden beds it is said to occupy.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Part One, the descriptions of the family zoo and its grounds"
+      },
+      {
+        "kind": "guide",
+        "ref": "Botanical Garden, Puducherry, the grounds the fictional zoo is set within",
+        "url": "https://pondicherrytourism.co.in/botanical-garden-puducherry"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "white-town-french-quarter",
+    "name": "White Town, the French Quarter",
+    "progressLabel": "Part One",
+    "character": "pi",
+    "coords": [79.83424, 11.9332],
+    "placeCertainty": "explicit",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Pi's Pondicherry is a former French territory, and the childhood chapters move through the grid of the old colonial quarter by the sea, where the town's schools, churches and temples shape his early education and his turn toward three faiths at once. White Town, the seaward French Quarter, is the heart of that colonial townscape; the point is set at Bharathi Park at its centre.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Part One, the chapters on Pi's upbringing and religions in French Pondicherry"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bharathi Park, White Town, Puducherry, for the quarter's coordinates",
+        "url": "https://www.trawell.in/pondicherry/pondicherry/french-quarters-white-town"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "port-of-madras",
+    "name": "The port of Madras",
+    "progressLabel": "Part One",
+    "character": "pi",
+    "coords": [80.2899, 13.0844],
+    "placeCertainty": "explicit",
+    "reference": "Part One",
+    "order": 4,
+    "note": "When the family decides to leave India for Canada, they load the zoo animals aboard a Japanese cargo ship and sail from Madras. The ship is later lost in the Pacific, but the departure itself is fixed to a real harbour: the working port of Madras, now Chennai, up the coast from Pondicherry.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Part One, the family's emigration and departure by ship from Madras"
+      },
+      {
+        "kind": "guide",
+        "ref": "Chennai Port (formerly Madras), for the harbour coordinates",
+        "url": "https://latitude.to/articles-by-country/in/india/10673/chennai-port"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tomatlan-mexico-landfall",
+    "name": "Tomatlán, Mexico",
+    "progressLabel": "Part Three",
+    "character": "pi",
+    "coords": [-105.2501, 19.9366],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Outside the Indian setting, but named in the novel: Pi's lifeboat reaches the Mexican coast near Tomatlán, on the Pacific in Jalisco. Set at the town, as the open-ocean drift before it has no fixed coordinates and is left off the map.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "After the long ordeal at sea, Pi's lifeboat finally makes landfall on a beach near Tomatlán on Mexico's Pacific coast, where villagers find him and the story of survival ends. It is the one point of the ocean journey that lands on solid, mappable ground.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Part Three, the landfall on the Mexican coast near Tomatlan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tomatlan, Jalisco, Mexico, for the town's coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tomatl%C3%A1n,_Jalisco"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "scarborough-toronto-frame",
+    "name": "Scarborough, Toronto",
+    "progressLabel": "Author's Note",
+    "character": "pi",
+    "coords": [-79.2446, 43.7737],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Outside the Indian setting, but part of the book's frame: the grown Pi lives in Scarborough, in the east of Toronto, where the author-narrator visits to hear his story. Set at the district, as no exact address is given.",
+    "reference": "Author's Note and Part One",
+    "order": 6,
+    "note": "The whole tale is recounted in the present day to a writer who tracks down the adult Pi in Canada, now settled with a family in Toronto. Their conversations frame the novel and place its telling far from where it happened, in the suburb of Scarborough.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Author's Note and Part One, the framing visits to the adult Pi in Toronto"
+      },
+      {
+        "kind": "guide",
+        "ref": "Scarborough, Toronto, Ontario, for the district coordinates",
+        "url": "https://latitude.to/articles-by-country/ca/canada/2637/scarborough-ontario"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

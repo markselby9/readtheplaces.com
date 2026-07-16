@@ -1,0 +1,153 @@
+[
+  {
+    "id": "kilanga-village",
+    "name": "Kilanga, on the Kwilu",
+    "progressLabel": "Book 1",
+    "character": "price",
+    "coords": [18.794, -4.96],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Kilanga is an invented village and does not appear on any map. Kingsolver places it on the Kwilu River in the Bandundu backcountry, so this marks a representative point on the real river a short way upstream of Kikwit.",
+    "reference": "Book 1, The Things We Carried",
+    "order": 1,
+    "outsideSetting": false,
+    "note": "The family arrives to run a mission in a riverside village of mud-walled houses and mango trees, where the father's certainties collide at once with the land, the language and the people. The village is fictional, but the setting is drawn from the real mission country along the Kwilu.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Poisonwood Bible, Wikipedia, on the fictional village of Kilanga and its Kwilu setting",
+        "url": "https://en.wikipedia.org/wiki/The_Poisonwood_Bible"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kwilu River, Wikipedia, for the river's course past Kikwit",
+        "url": "https://en.wikipedia.org/wiki/Kwilu_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kwilu-river",
+    "name": "The Kwilu River",
+    "progressLabel": "Book 2",
+    "character": "price",
+    "coords": [18.805, -5.035],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Kwilu is named and real; this marks the river where it runs past Kikwit, the stretch nearest the book's mission country.",
+    "reference": "Book 2, The Revelation",
+    "order": 2,
+    "outsideSetting": false,
+    "note": "The river is the family's road, larder and threat all at once, feeding the fishing, the floods and the sickness that shape their days. It is a real river of Bandundu, flowing north past Kikwit toward the Kasai.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kwilu River, Wikipedia, on the river and the towns along it",
+        "url": "https://en.wikipedia.org/wiki/Kwilu_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kikwit",
+    "name": "Kikwit",
+    "progressLabel": "Book 3",
+    "character": "price",
+    "coords": [18.8162, -5.041],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kikwit is a real town on the Kwilu, the nearest sizeable settlement to the book's mission country and the anchor for its geography.",
+    "reference": "Book 3, The Judges",
+    "order": 3,
+    "outsideSetting": false,
+    "note": "The largest town of the Kwilu region and the furthest navigable point on the river, Kikwit is the real market and mission hub near which the family's fictional village is set. It stands in for the wider world the Prices reach when they leave the village.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kikwit, Wikipedia, on the town's position on the Kwilu",
+        "url": "https://en.wikipedia.org/wiki/Kikwit"
+      },
+      {
+        "kind": "external",
+        "ref": "Kikwit coordinates, latitude.to (-5.0410, 18.8162)",
+        "url": "https://latitude.to/map/cd/congo-democratic-republic/cities/kikwit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leopoldville-kinshasa",
+    "name": "Leopoldville",
+    "progressLabel": "Book 4",
+    "character": "price",
+    "coords": [15.3136, -4.3276],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colonial capital is named in the book as Leopoldville, the city renamed Kinshasa in 1966; coordinates mark the modern city centre.",
+    "reference": "Book 4, Bel and the Serpent",
+    "order": 4,
+    "outsideSetting": false,
+    "note": "The story widens to the capital during independence in 1960, the rise of Patrice Lumumba and the coup that ends with his killing. The city, then Leopoldville and now Kinshasa, is where the novel ties one family's fate to the country's.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kinshasa, Wikipedia, on the city formerly named Leopoldville",
+        "url": "https://en.wikipedia.org/wiki/Kinshasa"
+      },
+      {
+        "kind": "external",
+        "ref": "Kinshasa coordinates, latitude.to (-4.3276, 15.3136)",
+        "url": "https://latitude.to/map/cd/congo-democratic-republic/cities/kinshasa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bulungu",
+    "name": "Bulungu",
+    "progressLabel": "Book 5",
+    "character": "price",
+    "coords": [18.6036, -4.5444],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bulungu is a real town on the Kwilu downstream of Kikwit; the book names it as a stop on the family's flight.",
+    "reference": "Book 5, Exodus",
+    "order": 5,
+    "outsideSetting": false,
+    "note": "As the mission collapses, the family scatters, and the road out runs through Bulungu, a real river town downstream of Kikwit. It marks the point where the surviving daughters begin lives that carry them far from the village.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bulungu, Kwilu, Wikipedia, on the town on the Kwilu below Kikwit",
+        "url": "https://en.wikipedia.org/wiki/Bulungu,_Kwilu"
+      },
+      {
+        "kind": "external",
+        "ref": "Bulungu coordinates, database.earth (-4.5444, 18.6036)",
+        "url": "https://database.earth/countries/democratic-republic-of-the-congo/regions/kwilu/cities/bulungu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "atlanta-georgia",
+    "name": "Atlanta, Georgia",
+    "progressLabel": "Book 6",
+    "character": "price",
+    "coords": [-84.388, 33.749],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Deliberate excursion outside the Congo setting: the novel's frame carries the mother and one daughter back to Georgia in the United States, well beyond the Kwilu map.",
+    "reference": "Book 6, Song of the Three Children",
+    "order": 6,
+    "outsideSetting": true,
+    "note": "The closing chapters follow the survivors home to the American South, where the mother tries to reckon with what the Congo cost her family. Atlanta stands for that return to Georgia, far from the river where the story began.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Poisonwood Bible, Wikipedia, on the novel's American frame and Georgia setting",
+        "url": "https://en.wikipedia.org/wiki/The_Poisonwood_Bible"
+      },
+      {
+        "kind": "external",
+        "ref": "Atlanta coordinates, latlong.net (33.7490, -84.3880)",
+        "url": "https://www.latlong.net/place/atlanta-ga-usa-6167.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
