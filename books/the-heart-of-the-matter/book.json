@@ -1,0 +1,35 @@
+{
+  "id": "the-heart-of-the-matter",
+  "title": "The Heart of the Matter",
+  "author": "Graham Greene",
+  "published": 1948,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-13.234, 8.487],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Freetown",
+    "country": "SL",
+    "date": "1942",
+    "note": "A West African coastal colony in the middle of the Second World War, lightly fictionalised but unmistakably wartime Freetown, where Greene himself served in intelligence. A deputy police commissioner moves between the harbour and its anchored convoys, the waterfront wharf and the police station, the hillside bungalows above the town and the Catholic church, until private failure and Catholic conscience close in. The map runs across the Freetown peninsula, with one excursion inland to the border district.",
+    "bbox": [-13.3, 8.44, -13.15, 8.51]
+  },
+  "rights": {
+    "originalWork": "In copyright. Graham Greene, first published 1948. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/56445/the-heart-of-the-matter-by-graham-greene/9780099478423",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Heart of the Matter, Graham Greene (1948). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The damp green of the West African rains that soak the whole book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "scobie": {
+      "name": "Henry Scobie",
+      "color": "#8A3B1E"
+    }
+  }
+}

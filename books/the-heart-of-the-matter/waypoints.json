@@ -1,0 +1,148 @@
+[
+  {
+    "id": "freetown-harbour",
+    "name": "The harbour of Freetown",
+    "progressLabel": "Book One",
+    "character": "scobie",
+    "coords": [-13.2048, 8.4891],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colony is never named, but its wartime harbour crowded with convoys is drawn directly from Freetown, where Greene served; this marks the deep-water anchorage now the Queen Elizabeth II Quay.",
+    "reference": "Book One",
+    "order": 1,
+    "note": "The story opens on a colonial port at war, its wide estuary filled with anchored ships waiting to join convoys north. The deputy police commissioner boards the arriving vessels to search for diamonds and contraband, work that first draws him toward the compromises that undo him. The setting is wartime Freetown in all but name.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Port of Freetown, SeaRates port information, for the harbour and anchorage coordinates",
+        "url": "https://www.searates.com/port/freetown_sl"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Heart of the Matter, Wikipedia, on the wartime Freetown setting and Greene's service there",
+        "url": "https://en.wikipedia.org/wiki/The_Heart_of_the_Matter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "government-wharf",
+    "name": "The wharf on the waterfront",
+    "progressLabel": "Book One",
+    "character": "scobie",
+    "coords": [-13.2321, 8.4901],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book's bonded wharf and steaming waterfront read as central Freetown's landing, sited here at the historic Government Wharf below the Cotton Tree; the colony itself is a lightly fictionalised Freetown.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "The town meets the sea at a crowded landing of warehouses, bonded stores and rats, where cargoes are checked and rumours trade as freely as goods. The policeman's rounds bring him among the traders and clerks of the waterfront, the ground on which small corruptions grow. It maps to Freetown's old Government Wharf.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Freetown Commonwealth Walkway, on the Government Wharf and Old Wharf Steps below the Cotton Tree",
+        "url": "https://commonwealthwalkway.info/the-walks/freetown-commonwealth-walkway/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cotton Tree (Sierra Leone), Wikipedia, for the central-waterfront location",
+        "url": "https://en.wikipedia.org/wiki/Cotton_Tree_(Sierra_Leone)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "police-station",
+    "name": "The police station in the town",
+    "progressLabel": "Book One",
+    "character": "scobie",
+    "coords": [-13.2337, 8.4858],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel gives no address for the station; this marks central Freetown near the law courts and Cotton Tree, where the colonial police headquarters stood, in a colony that is lightly fictionalised Freetown.",
+    "reference": "Book One",
+    "order": 3,
+    "note": "The commissioner's daily life turns on a hot, understaffed police station where he keeps the town's small order and is quietly passed over for the top job. The slight sets his wife longing to leave and pushes him into the debt that traps him. Greene places it in the colonial capital's centre, matching Freetown's own police headquarters.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Freetown, Wikipedia, for the colonial administrative centre near the Cotton Tree",
+        "url": "https://en.wikipedia.org/wiki/Freetown"
+      },
+      {
+        "kind": "inference",
+        "ref": "Sited at the historic administrative core of central Freetown, near the law courts, where the colonial police headquarters stood",
+        "url": "https://en.wikipedia.org/wiki/Sierra_Leone_Police"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "scobie-bungalow-hill-station",
+    "name": "Scobie's bungalow above the town",
+    "progressLabel": "Book One",
+    "character": "scobie",
+    "coords": [-13.2339, 8.4867],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The bungalow is unnamed; the hillside European quarters it evokes match Hill Station, the colonial enclave of prefabricated bungalows above Freetown, in a colony that is lightly fictionalised Freetown.",
+    "reference": "Book One",
+    "order": 4,
+    "note": "Home is a modest bungalow on the heights above the town, where the marriage frays through the long rains and the wife finally sails for South Africa. Left alone, the husband drifts into an affair and deeper into his private crisis. The European hill quarter reads as Freetown's Hill Station, the malaria-driven enclave of imported bungalows overlooking the port.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Hill Station: Colonial Period Housing in Freetown, Transnational Architecture Group, on the hillside European bungalows above the town",
+        "url": "https://transnationalarchitecture.group/2023/01/11/hill-station-colonial-period-housing-in-freetown-sierra-leone/"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hill Station: architecture and the altitudes of Empire, RIBA, for the enclave's history and siting",
+        "url": "https://www.riba.org/news/hill-station-architecture-and-the-altitudes-of-empire/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "catholic-church",
+    "name": "The Catholic church",
+    "progressLabel": "Book Two",
+    "character": "scobie",
+    "coords": [-13.2333, 8.4922],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The church is unnamed; this marks Sacred Heart Cathedral, the Catholic seat in central Freetown that stood in Greene's time, in a colony that is lightly fictionalised Freetown.",
+    "reference": "Book Two",
+    "order": 5,
+    "note": "The deepest drama is a Catholic one, played out at Mass and in the confessional, where the hero believes his adultery and his refusal to give it up cut him off from grace. His decision to take communion in a state of sin becomes the novel's moral crux. The town's Catholic church stands in for Freetown's Sacred Heart Cathedral.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sacred Heart Cathedral, Freetown, Wikipedia, for the Catholic cathedral and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Sacred_Heart_Cathedral,_Freetown"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pende-border-district",
+    "name": "The border district of Pende",
+    "progressLabel": "Book One",
+    "character": "scobie",
+    "coords": [-10.7, 8.1],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pende and Bamba are invented names for a French-border district reached upcountry; Greene drew on the eastern frontier of Sierra Leone, so this marks Pendembu in Kailahun near the border as a representative point. Set outside the Freetown setting.",
+    "outsideSetting": true,
+    "reference": "Book One",
+    "order": 6,
+    "note": "One journey takes the policeman far inland to a remote border post, where a district officer has killed himself and a boy is carried out of French territory after a wreck. The scene of failure and of a rescued child feeds directly into the tragedy waiting back in the town. The invented Pende evokes Sierra Leone's eastern frontier around Pendembu.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pendembu, Wikipedia, for a representative eastern border town in Kailahun District",
+        "url": "https://en.wikipedia.org/wiki/Pendembu"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Heart of the Matter, Wikipedia, on the fictionalised colony and its upcountry border district",
+        "url": "https://en.wikipedia.org/wiki/The_Heart_of_the_Matter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
