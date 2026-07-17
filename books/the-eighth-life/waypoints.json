@@ -1,0 +1,112 @@
+[
+  {
+    "id": "chocolate-makers-shop",
+    "name": "The chocolate-maker's shop",
+    "progressLabel": "Book I",
+    "character": "niza",
+    "coords": [44.805, 41.6913],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the family's confectionery in the old town but gives no street; this marks a representative point on Kote Abkhazi Street, the historic commercial artery of Old Tbilisi, once called Leselidze.",
+    "reference": "Book I (Stasia)",
+    "order": 1,
+    "note": "The saga begins with a confectioner whose secret hot chocolate is so good it seems dangerous, a sweetness the narrator comes to read as a family curse. His shop belongs to the merchant lanes of the old town, where such trades clustered in the last years before the empire fell.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old Tbilisi, Wikipedia, on the historic quarter and its commercial streets",
+        "url": "https://en.wikipedia.org/wiki/Old_Tbilisi"
+      },
+      {
+        "kind": "external",
+        "ref": "The Eighth Life, Wikipedia, on the family's chocolate recipe as the saga's central motif",
+        "url": "https://en.wikipedia.org/wiki/The_Eighth_Life"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "family-house-sololaki",
+    "name": "The family house, Sololaki",
+    "progressLabel": "Book II",
+    "character": "niza",
+    "coords": [44.7979, 41.6914],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the house an address; the grand old quarter it describes at the foot of Mtatsminda reads as Sololaki, so this marks a central point in that district.",
+    "reference": "Book II (Christine)",
+    "order": 2,
+    "note": "The generations gather in a large family home whose rooms fill and empty as the century turns, holding weddings, denunciations and long silences. The elegant houses of Sololaki, built by merchants below the hill, match the world the book gives the Jashi family.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sololaki, on the historic residential quarter on the slope of Mtatsminda",
+        "url": "https://georgia.to/en/places-to-go/tbilisi/sololaki-district/"
+      },
+      {
+        "kind": "external",
+        "ref": "The Eighth Life, Wikipedia, on the family saga set in Tbilisi",
+        "url": "https://en.wikipedia.org/wiki/The_Eighth_Life"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-town-abanotubani",
+    "name": "The old town below Narikala",
+    "progressLabel": "Book III",
+    "character": "niza",
+    "coords": [44.8092, 41.6894],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old town of Tbilisi is named in the novel; this marks the bath district of Abanotubani beneath the Narikala fortress, the ancient core of the city.",
+    "reference": "Books I to VIII (Tbilisi)",
+    "order": 3,
+    "note": "The city itself is a character across the book, its brick bathhouse domes, crooked lanes and river running under the whole saga. Abanotubani, the sulphur-bath quarter below the Narikala fortress, is the oldest heart of the Tbilisi the family never quite leaves behind.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Abanotubani, Wikipedia, on the ancient bath district at the foot of Narikala",
+        "url": "https://en.wikipedia.org/wiki/Abanotubani"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rustaveli-avenue",
+    "name": "Rustaveli Avenue",
+    "progressLabel": "Book V",
+    "character": "niza",
+    "coords": [44.7983, 41.6985],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Rustaveli Avenue is a named, real thoroughfare; this marks a central point on the avenue, formerly Golovin Street.",
+    "reference": "Books IV to VI (Soviet years)",
+    "order": 4,
+    "note": "Public life plays out along the grand central avenue, where parades pass, theatres light up and, in the later chapters, protest turns to bloodshed under Soviet rule. Rustaveli Avenue is the stage on which the family's private history keeps colliding with the state's.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rustaveli Avenue, Wikipedia, on the central avenue of Tbilisi",
+        "url": "https://en.wikipedia.org/wiki/Rustaveli_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mtatsminda-hill",
+    "name": "Mtatsminda, the holy mountain",
+    "progressLabel": "Book VIII",
+    "character": "niza",
+    "coords": [44.7867, 41.6908],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mtatsminda is the named hill above Tbilisi; this marks the Pantheon on its slope, the terrace and burial ground overlooking the city.",
+    "reference": "Books VI to VIII (Tbilisi)",
+    "order": 5,
+    "note": "The hill rises over every rooftop in the book, a place the characters climb to look down on the city that has held and hurt them. Mtatsminda, the holy mountain, carries the Pantheon of Georgia's dead and gives the saga its long view over Tbilisi and the years.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mtatsminda Pantheon, on the terrace and burial ground on the slope above Tbilisi",
+        "url": "https://en.wikipedia.org/wiki/Mtatsminda_Pantheon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
