@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "car-conductors-coffee-joint-polk-street",
+    "name": "The car conductors' coffee-joint, Polk Street",
+    "progressLabel": "Ch. 1",
+    "character": "mcteague",
+    "coords": [-122.42, 37.7887],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Polk Street is named throughout; the coffee-joint itself is a working-class fixture Norris invents on the block. The pin marks Polk Street in the residence quarter, near Bush, where its small tradespeople and car men ate.",
+    "quoteAnchor": "coffee-joint on Polk Street",
+    "passage": "It was Sunday, and, according to his custom on that day, McTeague took his dinner at two in the afternoon at the car conductors' coffee-joint on Polk Street.",
+    "note": "The book opens on McTeague's Sunday routine: the heavy dinner at the car conductors' coffee-joint, the beer, the nap in the operating chair. Norris fixes his dentist to the block before anything happens, and it is here, over these meals with Marcus, that Trina first enters the story.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 1",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "Polk Street, San Francisco",
+        "url": "https://en.wikipedia.org/wiki/Polk_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mcteague-dental-parlors-polk-street",
+    "name": "McTeague's “Dental Parlors,” Polk Street",
+    "progressLabel": "Ch. 1",
+    "character": "mcteague",
+    "coords": [-122.4204, 37.7915],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Polk Street is explicit, but the exact corner is not. Norris puts the single-room parlour on the second floor over a branch post-office; the pin marks Polk Street near Sacramento, a representative corner of the accommodation street he describes.",
+    "quoteAnchor": "over the branch post-office",
+    "passage": "When he opened his “Dental Parlors,” he felt that his life was a success, that he could hope for nothing better. In spite of the name, there was but one room. It was a corner room on the second floor over the branch post-office, and faced the street.",
+    "note": "The corner bay window over the branch post-office is the spine of the book. McTeague works, eats, and sleeps in the one room, dreaming of the giant gilded tooth he will hang outside it. Losing the licence to practise here is the blow that starts the long slide toward the desert.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 1",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "Polk Street, San Francisco",
+        "url": "https://en.wikipedia.org/wiki/Polk_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sieppe-house-b-street-station-oakland",
+    "name": "The Sieppe house, foot of B Street, Oakland",
+    "progressLabel": "Ch. 5",
+    "character": "trina",
+    "coords": [-122.2977, 37.806],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Norris names B Street station and the edge of Oakland across the bay, with salt flats between the shed and the first houses. The exact lot is not fixed; the pin marks the West Oakland waterfront where the little lettered-street station stood.",
+    "quoteAnchor": "at the foot of B Street",
+    "passage": "The Sieppes lived in a little box of a house at the foot of B Street, the first house to the right as one went up from the station. It was two stories high, with a funny red mansard roof of oval slates.",
+    "note": "Trina's family live across the bay at the foot of B Street, past the salt flats at the edge of Oakland. McTeague crosses on the ferry to court her here, and from this house the whole Sieppe clan is later scattered, freeing Trina to marry back in the city.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "West Oakland and the Oakland waterfront, California",
+        "url": "https://en.wikipedia.org/wiki/West_Oakland,_Oakland,_California"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-orpheum-theatre",
+    "name": "The Orpheum",
+    "progressLabel": "Ch. 6",
+    "character": "mcteague",
+    "coords": [-122.408, 37.7859],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the variety show at the Orpheum",
+    "passage": "“Take her to the variety show at the Orpheum. There's a good show there this week; you'll have to take Mrs. Sieppe, too, of course,” he added.",
+    "note": "Marcus tells McTeague to take Trina to the variety show at the Orpheum, the vaudeville house whose original theatre opened on O'Farrell Street in 1887. The awkward theatre party, with Mrs. Sieppe in tow, is the courtship's high point, the polite outing before the marriage and everything that follows it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 6",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "Orpheum Circuit and the original San Francisco Orpheum on O'Farrell Street",
+        "url": "https://en.wikipedia.org/wiki/Orpheum_Theatre_(San_Francisco)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-marriage-photographers-rooms-polk-street",
+    "name": "The wedding, the photographer's rooms on Polk Street",
+    "progressLabel": "Ch. 9",
+    "character": "trina",
+    "coords": [-122.4203, 37.7911],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The rented photographer's rooms are on Polk Street, next to the parlour, but no exact address is given. The pin marks Polk Street near the dental parlour where the couple set up house.",
+    "quoteAnchor": "Trina and McTeague were married on the first day of June",
+    "passage": "Trina and McTeague were married on the first day of June, in the photographer's rooms that the dentist had rented. All through May the dentist had been at work upon the little suite.",
+    "note": "The pair marry in the rented photographer's rooms on Polk Street, a few doors from the parlour, the flat Trina fills with her Noah's-ark carvings and, soon, her gold. The lottery winnings that make the wedding possible are the same money she will hoard and McTeague will kill for.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 9",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "Polk Street, San Francisco",
+        "url": "https://en.wikipedia.org/wiki/Polk_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "death-valley-the-final-showdown",
+    "name": "The heart of Death Valley",
+    "progressLabel": "Ch. 22",
+    "character": "mcteague",
+    "coords": [-116.8656, 36.4614],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Death Valley is real and named, some 500 km southeast of San Francisco, so it is flagged as an excursion far beyond the book's setting. The pin marks the valley floor near Furnace Creek.",
+    "quoteAnchor": "They were in the heart of Death Valley",
+    "passage": "There was the brazen sky and the leagues upon leagues of alkali, leper white. There was nothing more. They were in the heart of Death Valley.",
+    "note": "The flight from the law ends on the alkali floor of Death Valley, where Marcus tracks McTeague down. Their mule and the last water are shot away, the old hatred flares, and the fight leaves McTeague handcuffed to a dead man in the desert with the canary chittering in its gilt cage. The novel's real ending, and its farthest point from Polk Street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "McTeague, Chapter 22",
+        "url": "https://www.gutenberg.org/ebooks/165"
+      },
+      {
+        "kind": "guide",
+        "ref": "Death Valley, California",
+        "url": "https://en.wikipedia.org/wiki/Death_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

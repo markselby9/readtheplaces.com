@@ -4,20 +4,38 @@
   "author": "Frank Norris",
   "published": 1899,
   "orderingKey": "chapter",
-  "center": [-122.4075, 37.7879],
+  "sourcing": "sourced",
+  "center": [-122.4204, 37.7908],
   "zoom": 12.5,
   "setting": {
     "city": "San Francisco",
     "country": "US",
-    "note": "Polk Street, block by block, above a dental parlour. Norris pins his characters to specific corners of San Francisco, most of which the 1906 earthquake erased a few years after he wrote them.",
+    "note": "Polk Street, block by block, above a dental parlour. Norris pins his people to specific corners of the 1890s city and the flats of the East Bay, most of it erased by the 1906 earthquake a few years after he wrote it. The story then flees south and east, out of the setting entirely, to end in Death Valley.",
     "bbox": [-123.174, 37.64, -122.281, 37.93]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Frank Norris published this in 1899.",
+    "originalWork": "Public domain. Frank Norris, first published 1899; the author died in 1902.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/frank-norris/mcteague",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Frank Norris, McTeague (1899)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/165",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1902).",
+    "attribution": "Frank Norris, McTeague (1899). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "gold pieces between the folds of her apron",
+    "note": "The gold of Trina's hoarded coins, the metal that drives the whole book to its end in the desert. Taken straight from the text and clears WCAG AA on paper."
+  },
+  "characters": {
+    "mcteague": {
+      "name": "McTeague",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "thick, red neck and mane of yellow hair"
+    },
+    "trina": {
+      "name": "Trina Sieppe",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "tiara of royal black"
+    }
   }
 }
