@@ -1,0 +1,127 @@
+[
+  {
+    "id": "dh-holmes-clock-canal-street",
+    "name": "The D.H. Holmes clock, Canal Street",
+    "progressLabel": "Chapter 1",
+    "character": "ignatius",
+    "coords": [-90.0709, 29.9541],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens by name at the clock outside the D.H. Holmes department store on Canal Street; the store closed in 1989 and the building is now a hotel, with a statue of the hero marking the spot at 819 Canal.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book begins with the hero loitering under a landmark department-store clock, waiting for his mother and sneering at the crowd of shoppers around him. The store is long gone, redeveloped into a hotel, but a bronze figure in a hunting cap now stands under a replica clock to mark where the comedy starts.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ignatius J. Reilly Statue, Atlas Obscura, on the clock and the former D.H. Holmes store at 819 Canal Street",
+        "url": "https://www.atlasobscura.com/places/ignatius-j-reilly-statue"
+      },
+      {
+        "kind": "guide",
+        "ref": "Blakeview: Remembering D.H. Holmes, Gambit / nola.com, on the store's Canal Street history",
+        "url": "https://www.nola.com/gambit/news/blake_pontchartrain/blakeview-remembering-d-h-holmes-one-of-the-first-department-stores-in-the-u-s/article_2b3c7016-4c7d-5487-aa77-77805b02329c.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "reilly-house-constantinople-street",
+    "name": "The Reilly house, Constantinople Street",
+    "progressLabel": "Chapter 1",
+    "character": "ignatius",
+    "coords": [-90.0862, 29.9238],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Toole names Constantinople Street in Uptown but never gives a number; local research points to the modest shotgun houses in the 600 block of the Touro neighbourhood, so this marks that block.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The hero lives with his widowed mother in a cramped house on a quiet Uptown street, holed up in a back room writing screeds against the modern age. The author names the street but no address; the humble shotgun houses in the 600 block have long been read as the model for the home.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A million bucks for Ignatius Reilly's New Orleans house?, nola.com, on the 600 block of Constantinople Street in Touro",
+        "url": "https://www.nola.com/news/a-million-bucks-for-ignatius-reilly-s-new-orleans-house-be-still-my-pyloric-valve/article_45054075-4b38-5395-9eca-3e854e981d10.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Reilly House, Ignatius' Ghost, on the Constantinople Street setting in the Touro district",
+        "url": "http://ignatiusghost.blogspot.com/2009/01/reilly-house.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "night-of-joy-bourbon-street",
+    "name": "The Night of Joy, Bourbon Street",
+    "progressLabel": "Chapter 2",
+    "character": "ignatius",
+    "coords": [-90.0648, 29.9589],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Night of Joy bar is invented, but the novel plants it explicitly on Bourbon Street in the French Quarter, so this marks a representative point on the strip of neon and clubs.",
+    "reference": "Chapter 2",
+    "order": 3,
+    "note": "A seedy Bourbon Street nightclub is the engine of half the plot, with its put-upon barmaid, its scheming owner, and a stripper whose act involves a cockatoo. The bar itself is fiction, but the author sets it firmly on the real Bourbon Street, amid the drink and neon the hero loudly deplores.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "1980: A Confederacy of Dunces holds up a mirror to New Orleans, nola.com, on the novel's French Quarter and Bourbon Street settings",
+        "url": "https://www.nola.com/300/1980-a-confederacy-of-dunces-hilariously-holds-up-a-mirror-to-new-orleans/article_a975f5ec-67e2-5193-9da6-0734901b17cd.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bourbon Street, Wikipedia, for the French Quarter location",
+        "url": "https://en.wikipedia.org/wiki/Bourbon_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "levy-pants-factory-bywater",
+    "name": "Levy Pants, down by the river",
+    "progressLabel": "Chapter 4",
+    "character": "ignatius",
+    "coords": [-90.025, 29.961],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Levy Pants is fictional; the novel places it downriver by the Industrial Canal near Poland Avenue, in what is now Bywater, so this marks that riverside stretch. No surviving building matches the described factory.",
+    "reference": "Chapter 4",
+    "order": 4,
+    "note": "The hero takes a clerical job at a shabby, failing trouser factory downriver, where he promptly launches a doomed workers' crusade and files the correspondence in the bin. The author sites the plant by the river near the Industrial Canal, in the working district now called Bywater.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Levy Pants, Inc., Ignatius' Ghost, on the factory's setting by the Industrial Canal and river in Bywater",
+        "url": "http://ignatiusghost.blogspot.com/2009/01/levy-pants-inc.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bywater, New Orleans, Wikipedia, for the downriver district near the Industrial Canal",
+        "url": "https://en.wikipedia.org/wiki/Bywater,_New_Orleans"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "french-quarter-hot-dog-cart",
+    "name": "The French Quarter hot-dog rounds",
+    "progressLabel": "Chapter 6",
+    "character": "ignatius",
+    "coords": [-90.0629, 29.9574],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel sets the hero's vending in the French Quarter without fixing one corner, since the cart roams, so this marks the heart of the Quarter at Jackson Square.",
+    "reference": "Chapter 6",
+    "order": 5,
+    "note": "Cast out to earn a living, the hero pushes a hot-dog cart through the French Quarter, eating most of the stock himself and costumed as a pirate to hawk them. The cart wanders the old streets around Jackson Square, the tourist heart of the Quarter, which anchors this stop.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lucky Dogs, 64 Parishes, on the real French Quarter hot-dog vendors behind the novel's cart",
+        "url": "https://64parishes.org/entry/lucky-dogs"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jackson Square, Wikipedia, for the French Quarter coordinates",
+        "url": "https://en.wikipedia.org/wiki/Jackson_Square,_New_Orleans"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

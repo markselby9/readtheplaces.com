@@ -1,0 +1,35 @@
+{
+  "id": "a-confederacy-of-dunces",
+  "title": "A Confederacy of Dunces",
+  "author": "John Kennedy Toole",
+  "published": 1980,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-90.065, 29.95],
+  "zoom": 12.5,
+  "setting": {
+    "city": "New Orleans",
+    "country": "US",
+    "date": "1960s",
+    "note": "Toole's New Orleans is a hot, cluttered comic stage: a medievalist crank in a hunting cap wages war on the modern world from his mother's shotgun house Uptown out to the department-store clock on Canal Street, the neon of Bourbon Street, the French Quarter where he peddles hot dogs, and a failing pants factory down by the river. The map runs from Uptown across the Central Business District and French Quarter to Bywater.",
+    "bbox": [-90.1, 29.9, -90.0, 29.98]
+  },
+  "rights": {
+    "originalWork": "In copyright. John Kennedy Toole, first published 1980. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://lsupress.org/9780807130759/a-confederacy-of-dunces/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Confederacy of Dunces, John Kennedy Toole (1980). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "A wrought-iron green, the colour of French Quarter balconies and shuttered Uptown porches. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ignatius": {
+      "name": "Ignatius J. Reilly",
+      "color": "#8A3B1E"
+    }
+  }
+}
