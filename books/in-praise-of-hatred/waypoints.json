@@ -1,0 +1,113 @@
+[
+  {
+    "id": "family-house-old-city",
+    "name": "The family house, Old City",
+    "progressLabel": "Part One",
+    "character": "narrator",
+    "coords": [37.16278, 36.19917],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the house a street address; it sets it among the grand old courtyard houses of Aleppo's walled Old City, so this marks the historic core of that quarter, a UNESCO World Heritage site.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story is narrated by a young woman growing up in her family's large, shuttered house in the old quarter of Aleppo, a world of courtyards, aunts and religious observance. As the country's crisis deepens, that enclosed household becomes the ground on which her turn toward radical certainty begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ancient City of Aleppo, UNESCO World Heritage Centre, for the walled Old City and its coordinates",
+        "url": "https://whc.unesco.org/en/list/21/"
+      },
+      {
+        "kind": "external",
+        "ref": "In Praise of Hatred, Wikipedia, on the Aleppo old-city setting and the narrator's family",
+        "url": "https://en.wikipedia.org/wiki/In_Praise_of_Hatred"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-madina-souq",
+    "name": "The covered souqs (al-Madina)",
+    "progressLabel": "Part One",
+    "character": "narrator",
+    "coords": [37.1572, 36.1986],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The covered market of the Old City is al-Madina Souq, the vaulted stone bazaar that runs west from the Citadel; this marks a representative point along it.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The family's standing rests partly on trade, and the covered stone souqs of the Old City recur as the everyday economy around the household. Al-Madina Souq is the largest covered historic market in the world, its narrow vaulted lanes threading between the Great Mosque and the Citadel.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Al-Madina Souq, Wikipedia, for the covered market and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Al-Madina_Souq"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "citadel-of-aleppo",
+    "name": "The Citadel of Aleppo",
+    "progressLabel": "Part One",
+    "character": "narrator",
+    "coords": [37.1575, 36.1928],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Citadel is a named, fixed landmark: the medieval fortified hill at the centre of the Old City.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The great medieval Citadel rises over the Old City, the fixed landmark against which the household's daily life plays out. Its mass on the skyline is a constant in a book whose ground keeps shifting under sectarian fear and state suspicion.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Citadel of Aleppo, Wikipedia, for the landmark and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Citadel_of_Aleppo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "university-of-aleppo",
+    "name": "University of Aleppo",
+    "progressLabel": "Part Two",
+    "character": "narrator",
+    "coords": [37.12, 36.21],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The University of Aleppo is a named institution on the western side of the city; coordinates are its main campus.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Leaving the enclosed house for school and then the University of Aleppo opens the narrator to the political currents dividing the country. The campus, on the western edge of the city, becomes a place where the conflict between the state and its Islamist opponents is felt among students.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "University of Aleppo, Wikipedia, for the institution and its campus coordinates",
+        "url": "https://en.wikipedia.org/wiki/University_of_Aleppo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hama-1982",
+    "name": "Hama",
+    "progressLabel": "Part Three",
+    "character": "narrator",
+    "coords": [36.75, 35.1333],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "A deliberate excursion beyond Aleppo. Hama lies about 150 kilometres south; it is named for the 1982 events that shadow the novel's later chapters.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The narrator's world is finally overtaken by the state's war on the Muslim Brotherhood, which culminated in February 1982 when the Syrian army besieged and largely destroyed the city of Hama, killing many thousands of people. Historians' estimates of the dead range from several thousand into the tens of thousands. The novel carries the weight of that atrocity into its account of prison and aftermath.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "1982 Hama massacre, Wikipedia, for the events and casualty estimates",
+        "url": "https://en.wikipedia.org/wiki/1982_Hama_massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hama, Wikipedia, for the city and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hama"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
