@@ -1,0 +1,138 @@
+[
+  {
+    "id": "the-first-clinic-zurich",
+    "name": "The first clinic for the past, Zurich",
+    "progressLabel": "Part One",
+    "character": "narrator",
+    "coords": [8.5417, 47.3769],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the founding clinic in Switzerland, in Zurich, but names no exact address; this marks the city centre as a representative point. It sits outside the book's Sofia setting.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story begins with a clinic that rebuilds the past in exact detail, decade by decade, so that patients losing their memory can live inside a time they still recognise. The first such refuge opens in Zurich before the idea travels across the continent.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Time Shelter, Wikipedia, on the clinic for the past and the novel's premise",
+        "url": "https://en.wikipedia.org/wiki/Time_Shelter"
+      },
+      {
+        "kind": "guide",
+        "ref": "Zurich, Wikipedia, for the city-centre coordinates",
+        "url": "https://en.wikipedia.org/wiki/Z%C3%BCrich"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sveta-nedelya-square-sofia",
+    "name": "Sveta Nedelya Square, Sofia",
+    "progressLabel": "The Bulgarian chapters",
+    "character": "narrator",
+    "coords": [23.3219, 42.6966],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's Bulgarian sections are set explicitly in Sofia; this marks the symbolic centre of the city at Sveta Nedelya Square, where its main streets converge.",
+    "reference": "The Bulgarian chapters",
+    "order": 2,
+    "note": "As the fashion for reliving the past spreads, the narrator's own country becomes the book's centre of gravity. His Sofia is a real capital of squares and boulevards, and the story keeps returning to it as Europe slides toward a nostalgia epidemic.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Time Shelter, Wikipedia, on the novel's Bulgarian setting",
+        "url": "https://en.wikipedia.org/wiki/Time_Shelter"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sveta Nedelya Square, Wikipedia, for the central Sofia coordinates",
+        "url": "https://en.wikipedia.org/wiki/Sveta_Nedelya_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-largo-yellow-cobblestones",
+    "name": "The Largo and the yellow cobblestones",
+    "progressLabel": "The referendum on the past",
+    "character": "narrator",
+    "coords": [23.3225, 42.6971],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The yellow-paved ceremonial centre of Sofia is a real, named landmark; this marks the Largo, the socialist-era ensemble around the former Party House on Independence Square.",
+    "reference": "The referendum on the past",
+    "order": 3,
+    "note": "When Europe votes on which decade to return to, the argument runs through places like this: the grand socialist Largo, its ministries ringed by the ochre paving Bulgarians call the yellow cobblestones. It is where the country staged its old power, and where the novel's contest over which past to revive turns physical.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Largo, Sofia, Wikipedia, on the socialist-era ensemble and yellow paving",
+        "url": "https://en.wikipedia.org/wiki/Largo,_Sofia"
+      },
+      {
+        "kind": "guide",
+        "ref": "Time Shelter, Wikipedia, on the national referendums to return to a chosen past",
+        "url": "https://en.wikipedia.org/wiki/Time_Shelter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "georgi-dimitrov-mausoleum-site",
+    "name": "The former Georgi Dimitrov Mausoleum site",
+    "progressLabel": "The referendum on the past",
+    "character": "narrator",
+    "coords": [23.3262, 42.6959],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mausoleum was a real monument on Knyaz Alexander I Square, demolished in 1999; this marks the now-empty site where it stood.",
+    "reference": "The referendum on the past",
+    "order": 4,
+    "note": "For decades a communist leader's tomb stood at the heart of the capital, then it was pulled down in 1999 and left as an open square. The vanished monument is exactly the kind of contested memory the novel circles: a past that Bulgaria erased and now half-wishes it could summon back.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Georgi Dimitrov Mausoleum, Wikipedia, on the monument and its 1999 demolition",
+        "url": "https://en.wikipedia.org/wiki/Georgi_Dimitrov_Mausoleum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-alexander-nevsky-cathedral",
+    "name": "St Alexander Nevsky Cathedral",
+    "progressLabel": "The Bulgarian chapters",
+    "character": "narrator",
+    "coords": [23.3328, 42.6957],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The cathedral is a real, prominent Sofia landmark; coordinates are its known location on the square that bears its name.",
+    "reference": "The Bulgarian chapters",
+    "order": 5,
+    "note": "The great domed cathedral is the postcard image of Sofia, a symbol of national memory raised to the dead of an earlier war. In a book about a country weighing which version of itself to become, its monuments stand as reminders of how many pasts a single city already carries.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St Alexander Nevsky Cathedral, Sofia, Wikipedia, for the landmark coordinates",
+        "url": "https://en.wikipedia.org/wiki/St._Alexander_Nevsky_Cathedral,_Sofia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vitosha-boulevard-sofia",
+    "name": "Vitosha Boulevard",
+    "progressLabel": "The Bulgarian chapters",
+    "character": "narrator",
+    "coords": [23.3185, 42.689],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Vitosha Boulevard is a real, named street: Sofia's main pedestrian and shopping avenue running south from Sveta Nedelya Square toward the mountain.",
+    "reference": "The Bulgarian chapters",
+    "order": 6,
+    "note": "The city's main promenade runs toward the mountain that gives it its name, lined with shops and cafes and the ordinary present the novel keeps setting against the pull of the past. It is the everyday Sofia the narrator walks while whole nations debate retreating into an earlier decade.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Vitosha Boulevard, Wikipedia, for the street and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Vitosha_Boulevard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
