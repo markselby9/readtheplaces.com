@@ -1,0 +1,128 @@
+[
+  {
+    "id": "tallis-house-surrey",
+    "name": "The Tallis house, Surrey",
+    "progressLabel": "Part One",
+    "character": "briony",
+    "coords": [-0.59, 51.22],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house is invented and never given a real address; the novel only places the estate in the Surrey countryside, so this marks a representative point in rural Surrey south-west of Guildford. The 2007 film used Stokesay Court in Shropshire, which is a screen substitute rather than the book's location.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "On a hot day in 1935 the whole first movement unfolds at a wealthy family's country house and its grounds, where a thirteen-year-old watches a scene by the fountain, and later another in the dark, and reads both wrongly. Her false accusation sends her sister's lover to prison and severs the family. McEwan sites the estate in Surrey without naming a town, so the pin stands for that lost English house rather than a surviving address.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Atonement (novel), Wikipedia, on the 1935 setting at the Tallis family house in the Surrey countryside",
+        "url": "https://en.wikipedia.org/wiki/Atonement_(novel)"
+      },
+      {
+        "kind": "external",
+        "ref": "Design of History: Sarah Greenwood's Atonement, Focus Features, on the fictional estate and the film's substitute location",
+        "url": "https://www.focusfeatures.com/article/design_of_history__sarah_greenwood_s_atonement"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dunkirk-beach",
+    "name": "The beach at Dunkirk",
+    "progressLabel": "Part Two",
+    "character": "briony",
+    "coords": [2.391, 51.049],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Dunkirk directly; this marks the evacuation beach at Malo-les-Bains, on the eastern edge of the town, one of the strands used in Operation Dynamo in 1940. It sits in France, so it is flagged as an excursion beyond the book's English setting.",
+    "reference": "Part Two",
+    "order": 2,
+    "note": "The second movement follows the imprisoned lover, now a soldier, through the 1940 retreat across northern France to the coast. Wounded and feverish, he reaches the crowded sand where an army waits under air attack to be lifted home. Dunkirk is the real terminus of that walk, and the beaches east of the harbour held tens of thousands of men through the evacuation.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Dunkirk evacuation, Wikipedia, on Operation Dynamo and the beaches used in 1940",
+        "url": "https://en.wikipedia.org/wiki/Dunkirk_evacuation"
+      },
+      {
+        "kind": "guide",
+        "ref": "Malo-les-Bains, on the Dunkirk beach resort district used in the evacuation, for the coordinates",
+        "url": "https://en.wikipedia.org/wiki/Malo-les-Bains"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-thomas-hospital",
+    "name": "St Thomas's Hospital, Lambeth",
+    "progressLabel": "Part Three",
+    "character": "briony",
+    "coords": [-0.118, 51.4986],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names St Thomas's; the coordinates mark the hospital on the Lambeth bank of the Thames, opposite the Houses of Parliament.",
+    "reference": "Part Three",
+    "order": 3,
+    "note": "By 1940 the girl who made the accusation has become a trainee nurse in London, doing hard ward work as a private penance. When casualties from France arrive, she scrubs, dresses wounds and sits with the dying. The riverside hospital in Lambeth grounds this section, its wards filling as the war reaches the city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St Thomas' Hospital, Wikipedia, for the Lambeth location and history",
+        "url": "https://en.wikipedia.org/wiki/St_Thomas'_Hospital"
+      },
+      {
+        "kind": "guide",
+        "ref": "St Thomas' Hospital coordinates, latlong.net",
+        "url": "https://www.latlong.net/place/st-thomas-hospital-london-the-uk-27363.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "balham-lodgings",
+    "name": "Cecilia's lodgings, Balham",
+    "progressLabel": "Part Three",
+    "character": "briony",
+    "coords": [-0.1525, 51.4434],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places the elder sister's rented rooms in Balham; no exact street is fixed in the book, so this marks the centre of the south London district.",
+    "reference": "Part Three",
+    "order": 4,
+    "note": "Estranged from her family, the elder sister has taken lodgings in a south London suburb, where the reunited couple face the sister who wronged them. The scene turns on an attempt to set the record straight and undo the accusation, staged in a cramped rented flat in Balham.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Atonement (novel), Wikipedia, on the Part Three London scenes",
+        "url": "https://en.wikipedia.org/wiki/Atonement_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Balham coordinates, distancesto.com",
+        "url": "https://www.distancesto.com/coordinates/gb/balham-latitude-longitude/history/156850.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "imperial-war-museum",
+    "name": "Imperial War Museum, London",
+    "progressLabel": "London, 1999",
+    "character": "briony",
+    "coords": [-0.1088, 51.4958],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The closing section names the Imperial War Museum, where the now-elderly narrator has researched the war chapters; the coordinates mark the museum on Lambeth Road.",
+    "reference": "London, 1999",
+    "order": 5,
+    "note": "The present-day coda belongs to the accuser grown old, a successful novelist looking back on the story she has spent a lifetime writing and rewriting. She has done her research among the war archives, and the last pages weigh how much a writer may reshape the past to grant the ending life denied. The museum's reading rooms in Lambeth anchor that reckoning.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Atonement (novel), Wikipedia, on the London 1999 coda and the narrator's archival research",
+        "url": "https://en.wikipedia.org/wiki/Atonement_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Imperial War Museum coordinates, latlong.net",
+        "url": "https://www.latlong.net/place/imperial-war-museum-london-uk-33412.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
