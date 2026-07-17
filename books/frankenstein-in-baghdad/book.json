@@ -1,0 +1,35 @@
+{
+  "id": "frankenstein-in-baghdad",
+  "title": "Frankenstein in Baghdad",
+  "author": "Ahmed Saadawi",
+  "published": 2013,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [44.416, 33.325],
+  "zoom": 13.4,
+  "setting": {
+    "city": "Baghdad",
+    "country": "IQ",
+    "date": "2005",
+    "note": "Baghdad under the US occupation, roughly 2005, a city broken by car bombs and checkpoints. The story is anchored in the old, run-down Bataween district of the central Rusafa side, where a junk dealer stitches body parts left by explosions into a corpse that comes to life and sets out to avenge the dead. The map runs from the neighbourhood's alleys and coffee house out to Tahrir Square, the faded grandeur of al-Rasheed Street and the Tigris that splits the city.",
+    "bbox": [44.37, 33.31, 44.44, 33.35]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ahmed Saadawi, first published in Arabic in 2013 as Frankenstein fi Baghdad. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/300522/frankenstein-in-baghdad-by-saadawi-ahmed/9781786073976",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Frankenstein in Baghdad, Ahmed Saadawi (2013). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The dried-blood red of a city living with daily bombings. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "hadi": {
+      "name": "Hadi",
+      "color": "#2E5064"
+    }
+  }
+}

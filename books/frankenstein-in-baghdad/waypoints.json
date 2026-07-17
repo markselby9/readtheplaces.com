@@ -1,0 +1,147 @@
+[
+  {
+    "id": "bataween-district",
+    "name": "The Bataween district",
+    "progressLabel": "Chapter 1",
+    "character": "hadi",
+    "coords": [44.4205, 33.3201],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Saadawi names Bataween as the novel's home ground; this marks the centre of the district, an old quarter on the Rusafa side near Saadoun Street and Firdos Square.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The novel is rooted in Bataween, a decayed inner-city quarter that was once home to Baghdad's Jewish community and by the occupation years had become a crowded, run-down neighbourhood of lodging houses, workshops and small traders. It is here that the junk dealer collects his scrap and the story of the stitched-together corpse begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bataween, Wikipedia, on the district's history and location in central Baghdad",
+        "url": "https://en.wikipedia.org/wiki/Bataween"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Frankenstein in Baghdad, Wikipedia, on the Bataween setting and plot",
+        "url": "https://en.wikipedia.org/wiki/Frankenstein_in_Baghdad"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "aziz-coffee-house",
+    "name": "Aziz's coffee house",
+    "progressLabel": "Chapter 1",
+    "character": "hadi",
+    "coords": [44.418, 33.3216],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The cafe is fictional and unaddressed; the book places it in Bataween, so this marks a representative point in the district near Saadoun Street, close to the old Meir Taweig synagogue.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "Much of the neighbourhood's talk passes through a coffee house run by a man named Aziz, where the junk dealer holds court and spins the tale that gives the book its frame. It is an ordinary Baghdad cafe, the kind of gathering place where rumour, grief and gossip circulate as the bombings continue outside.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Frankenstein in Baghdad, Wikipedia, on Hadi and the Bataween coffee house",
+        "url": "https://en.wikipedia.org/wiki/Frankenstein_in_Baghdad"
+      },
+      {
+        "kind": "guide",
+        "ref": "Meir Taweig Synagogue, Wikipedia, for a fixed point within Bataween between Saadoun and Nidal streets",
+        "url": "https://en.wikipedia.org/wiki/Meir_Taweig_Synagogue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hadi-junk-house-lane-seven",
+    "name": "The junk dealer's house, Lane 7",
+    "progressLabel": "Chapter 2",
+    "character": "hadi",
+    "coords": [44.4224, 33.3193],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lane 7 and the rooming house are fictional; the novel sites them among Bataween's alleys, so this marks a representative point in the district's back streets.",
+    "reference": "Chapter 2",
+    "order": 3,
+    "note": "In a derelict house off one of Bataween's narrow lanes, near a decaying rooming house, the junk dealer assembles a body from parts gathered at bomb sites. When the composite corpse comes to life it leaves this refuge and moves through the city, killing those it holds responsible for the deaths that made it. Saadawi uses the horror to weigh guilt and revenge in a place where the dead were often unnamed and unclaimed.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Frankenstein in Baghdad, Wikipedia, on the junk dealer, the rooming house and the creature",
+        "url": "https://en.wikipedia.org/wiki/Frankenstein_in_Baghdad"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bataween, Wikipedia, for the district's alleys and boundaries",
+        "url": "https://en.wikipedia.org/wiki/Bataween"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tahrir-square",
+    "name": "Tahrir Square",
+    "progressLabel": "Chapter 5",
+    "character": "hadi",
+    "coords": [44.4101, 33.3293],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tahrir (Liberation) Square is a real landmark just north-west of Bataween, marked by the Freedom Monument; this is its mapped centre.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "Tahrir Square sits a short walk from Bataween, where the neighbourhood meets central Baghdad and the approach to the Jumhuriya Bridge. In the occupation years it was a busy, exposed civic space of the kind the novel returns to, near the checkpoints and crowded streets where car bombs took their toll.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Liberation Square, Baghdad, Wikipedia, for the square's coordinates and the Freedom Monument",
+        "url": "https://en.wikipedia.org/wiki/Liberation_Square,_Baghdad"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-rasheed-street",
+    "name": "Al-Rasheed Street",
+    "progressLabel": "Chapter 8",
+    "character": "hadi",
+    "coords": [44.3887, 33.3427],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Al-Rasheed Street is a real historic thoroughfare of old Rusafa; this marks a central point along its colonnaded length.",
+    "reference": "Chapter 8",
+    "order": 5,
+    "note": "Al-Rasheed Street was old Baghdad's grand commercial artery, a long colonnaded avenue of shops, cafes and printing houses running through Rusafa. By the time of the novel it had faded, and it stands for the older city that the war and the bombings were steadily wearing away as the story moves across town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Al-Rasheed Street, GPS coordinates reference for the historic Rusafa thoroughfare",
+        "url": "https://latitude.to/articles-by-country/iq/iraq/141317/al-rasheed-street"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Rashid Street, Wikipedia, on the street's history in central Baghdad",
+        "url": "https://en.wikipedia.org/wiki/Rashid_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tigris",
+    "name": "The Tigris",
+    "progressLabel": "Chapter 11",
+    "character": "hadi",
+    "coords": [44.404, 33.3305],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Tigris is the real river dividing Baghdad; this marks a point on the water beside central Baghdad, near the Jumhuriya Bridge below Tahrir Square.",
+    "reference": "Chapter 11",
+    "order": 6,
+    "note": "The Tigris runs through the middle of Baghdad, separating the Rusafa side that holds Bataween from the fortified Green Zone across the water. The river is the city's constant, threaded through a story of checkpoints, closed bridges and blast walls, a reminder of the ordinary Baghdad that endures beneath the violence of the occupation years.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tigris, Wikipedia, on the river through Baghdad",
+        "url": "https://en.wikipedia.org/wiki/Tigris"
+      },
+      {
+        "kind": "guide",
+        "ref": "Liberation Square, Baghdad, Wikipedia, for the adjacent Jumhuriya Bridge crossing to the Green Zone",
+        "url": "https://en.wikipedia.org/wiki/Liberation_Square,_Baghdad"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
