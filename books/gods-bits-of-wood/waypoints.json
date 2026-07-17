@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bamako-eastern-terminus",
+    "name": "Bamako, the eastern terminus",
+    "progressLabel": "Bamako",
+    "character": "strikers",
+    "coords": [-8.00292, 12.6392],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bamako is named as one of the three towns of the strike. It sits about twelve hundred kilometres east in what was then French Sudan, today Mali, so it lies well outside the western Senegal frame; this marks the city centre.",
+    "reference": "Bamako sections",
+    "order": 1,
+    "note": "The story opens far up the line in the eastern railway town of Bamako, in the French Sudan that is now Mali. Here an old man and a watchful girl stand for the families who keep the strike alive along the whole length of the track, before the action swings west toward the sea.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "God's Bits of Wood, Wikipedia, on the novel's three settings of Bamako, Thiès and Dakar",
+        "url": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bamako, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bamako"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "thies-railway-workshops",
+    "name": "The railway workshops of Thiès",
+    "progressLabel": "Thiès",
+    "character": "strikers",
+    "coords": [-17.10611, 14.83417],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Thiès, the workshop town at the heart of the strike, is named throughout; the specific depot and workers' quarters are not pinned, so this marks the town centre about seventy kilometres east of Dakar.",
+    "reference": "Thiès sections",
+    "order": 2,
+    "note": "Thiès is the beating heart of the walkout, the workshop town where the engines are built and repaired and where the stoppage bites hardest. Its yards fall silent, hunger sets in, and the decision to keep holding the line is argued out among the workers and their families.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "God's Bits of Wood, Wikipedia, on Thiès as the workshop town central to the strike",
+        "url": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+      },
+      {
+        "kind": "guide",
+        "ref": "Thiès, Wikipedia, for the town coordinates and its place on the Dakar line",
+        "url": "https://en.wikipedia.org/wiki/Thi%C3%A8s"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rufisque-on-the-march",
+    "name": "Rufisque, on the women's march",
+    "progressLabel": "The march",
+    "character": "strikers",
+    "coords": [-17.2667, 14.7167],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The women's march from Thiès to Dakar is explicit, but the book does not itemise its stages; Rufisque is the real town on the road between the two, so it marks a representative point on that route.",
+    "reference": "The women's march",
+    "order": 3,
+    "note": "When the men falter, the women set out on foot from Thiès toward Dakar, walking for days along the road that shadows the rail. Rufisque, the old port town on the way into the peninsula, stands for that hard passage and the crowds who came out to meet the marchers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "God's Bits of Wood, Wikipedia, on the women marching on foot from Thiès to Dakar",
+        "url": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rufisque, Wikipedia, for the town coordinates on the Thiès-Dakar road",
+        "url": "https://en.wikipedia.org/wiki/Rufisque"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dakar-the-capital",
+    "name": "Dakar, the capital",
+    "progressLabel": "Dakar",
+    "character": "strikers",
+    "coords": [-17.4441, 14.6937],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Dakar is named as the capital and the march's destination; the specific rally grounds are not fixed, so this marks the city centre.",
+    "reference": "Dakar sections",
+    "order": 4,
+    "note": "Dakar is the colonial capital at the tip of the peninsula, where the administration and the company have their offices and where the marching women finally arrive to a vast gathering. The confrontation here brings the strike to its head.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "God's Bits of Wood, Wikipedia, on Dakar as capital and the destination of the march",
+        "url": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dakar, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Dakar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dakar-railway-terminus",
+    "name": "The Dakar railway terminus and port",
+    "progressLabel": "Dakar",
+    "character": "strikers",
+    "coords": [-17.4333, 14.6754],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The line begins at Dakar's station by the harbour; the novel does not describe the building in detail, so this marks the historic Dakar railway station near the port.",
+    "reference": "Dakar sections",
+    "order": 5,
+    "note": "The Dakar-Niger line runs from this station by the harbour all the way inland, so the terminus is where the stopped railway meets the sea and the wider colonial economy it served. It anchors the western end of the strike that the whole book turns on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dakar-Niger Railway, Wikipedia, on the line running from Dakar to the interior",
+        "url": "https://en.wikipedia.org/wiki/Dakar%E2%80%93Niger_Railway"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dakar station, Wikidata, for the station coordinates by the port",
+        "url": "https://www.wikidata.org/wiki/Q3096341"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

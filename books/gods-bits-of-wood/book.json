@@ -1,0 +1,35 @@
+{
+  "id": "gods-bits-of-wood",
+  "title": "God's Bits of Wood",
+  "author": "Ousmane Sembène",
+  "published": 1960,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-17.27, 14.76],
+  "zoom": 9.5,
+  "setting": {
+    "city": "Thiès",
+    "country": "SN",
+    "date": "1947",
+    "note": "The long railway strike of 1947-48 seen from the line itself. The workshops of Thiès stop, and from there the walkout runs west to the capital and port at Dakar and east along the track to Bamako. When the men are starved back toward defeat, the women take up the fight and march the road from Thiès to Dakar. The map holds the western Senegal stretch of that strike.",
+    "bbox": [-17.55, 14.6, -17.0, 14.9]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ousmane Sembène, Les Bouts de bois de Dieu, first published 1960. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "God's Bits of Wood, Ousmane Sembène (1960). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The rust-red of the rail bed and the iron of a stopped line. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "strikers": {
+      "name": "The strikers and the women",
+      "color": "#2E5064"
+    }
+  }
+}
