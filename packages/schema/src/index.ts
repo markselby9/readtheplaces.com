@@ -95,6 +95,11 @@ export const historicalLayerSchema = z.object({
 export const bookSchema = z.object({
   id: z.string(),
   title: z.string(),
+
+  /** The title in the work's original language, when that is not English, e.g.
+   *  "Анна Каренина" for Anna Karenina. Presentation only; optional. */
+  titleOriginal: z.string().optional(),
+
   author: z.string(),
   published: z.number().optional(),
 
