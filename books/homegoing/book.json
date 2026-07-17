@@ -1,0 +1,38 @@
+{
+  "id": "homegoing",
+  "title": "Homegoing",
+  "author": "Yaa Gyasi",
+  "published": 2016,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.2412, 5.1036],
+  "zoom": 6.4,
+  "setting": {
+    "city": "Cape Coast",
+    "country": "GH",
+    "note": "Two half-sisters born in the eighteenth-century Gold Coast never meet, and the novel follows their descendants down parallel lines for two hundred and fifty years. One line stays in the Fante and Asante country of what is now Ghana, anchored on Cape Coast and its slave castle; the other is shipped across the Atlantic into American slavery and, generations later, the Great Migration north. The map centres on the Cape Coast Castle, where the two lines split, and runs inland to the Asante capital at Kumasi.",
+    "bbox": [-2.3, 4.8, -1.0, 6.9]
+  },
+  "rights": {
+    "originalWork": "In copyright. Yaa Gyasi, first published 2016. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/247653/homegoing-by-yaa-gyasi/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Homegoing, Yaa Gyasi (2016). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red laterite earth of the Gold Coast, and the fire that runs as an omen through the family that stays. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "effia": {
+      "name": "Effia and her line",
+      "color": "#8A3B1E"
+    },
+    "esi": {
+      "name": "Esi and her line",
+      "color": "#2E5064"
+    }
+  }
+}

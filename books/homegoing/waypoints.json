@@ -1,0 +1,129 @@
+[
+  {
+    "id": "fante-coastal-village",
+    "name": "A Fante village on the coast",
+    "progressLabel": "Part One",
+    "character": "effia",
+    "coords": [-1.32, 5.09],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village where the first half-sister grows up is not a mapped place; it is a Fante settlement on the Central Region coast a short way from the castle. This marks a representative point on that shoreline west of Cape Coast.",
+    "reference": "Part One, Effia",
+    "order": 1,
+    "note": "The novel opens in a Fante village near the coast, where the elder of two half-sisters comes of age and is married off to a British officer stationed at the nearby slave fort. Her line will stay on the Gold Coast for the rest of the book. The village stands in for the many real Fante communities strung along this stretch of shore in the eighteenth century.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fante people, Wikipedia, on the Fante coastal states of the central Gold Coast",
+        "url": "https://en.wikipedia.org/wiki/Fante_people"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cape Coast, Wikipedia, on the Central Region coastline and its Fante settlements",
+        "url": "https://en.wikipedia.org/wiki/Cape_Coast"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cape-coast-castle",
+    "name": "Cape Coast Castle",
+    "progressLabel": "Part One",
+    "character": "esi",
+    "coords": [-1.2412, 5.1036],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cape Coast Castle is a real fortress on the Gulf of Guinea, named in the novel and central to it. The coordinates mark the castle on its rocky promontory.",
+    "reference": "Part One, Effia and Esi",
+    "order": 2,
+    "note": "The castle is the hinge of the whole book. One half-sister lives in the airy governor's quarters above; the other, unknown to her, is held in the women's dungeon beneath the same stone floor before being sold and shipped across the Atlantic. It is a real slave fort, a departure point of the transatlantic trade, and today a UNESCO World Heritage site and museum. Its dungeons and the door to the sea are preserved as they were.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cape Coast Castle, UNESCO World Heritage listing (Forts and Castles, Volta, Greater Accra, Central and Western Regions)",
+        "url": "https://whc.unesco.org/en/list/34/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cape Coast Castle, Wikipedia, on the fort, its dungeons and its role in the slave trade",
+        "url": "https://en.wikipedia.org/wiki/Cape_Coast_Castle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kumasi-asante-capital",
+    "name": "Kumasi, capital of Asante",
+    "progressLabel": "Part One",
+    "character": "effia",
+    "coords": [-1.6244, 6.6885],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kumasi is a real city, the historic Asante capital, named in the novel. It lies roughly 150 kilometres inland from Cape Coast; the wide Ghana bounding box holds both.",
+    "reference": "Part One, Quey and later chapters",
+    "order": 3,
+    "note": "As the Gold Coast line moves inland, the story enters Asante country and its capital, the seat of the Asantehene. Kumasi grounds the novel's account of the powerful inland kingdom, its wars and its own role in the slave trade, set against the coastal forts held by the British. The real city was founded in the late seventeenth century as the capital of the Asante state.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kumasi, Wikipedia, on the city as the historic capital of the Asante Empire",
+        "url": "https://en.wikipedia.org/wiki/Kumasi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ashanti Empire, Wikipedia, on Kumasi as the seat of the Asantehene",
+        "url": "https://en.wikipedia.org/wiki/Ashanti_Empire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "alabama-coal-mines",
+    "name": "The coal country of Alabama",
+    "progressLabel": "Part Two",
+    "character": "esi",
+    "coords": [-86.8025, 33.5207],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The American line reaches the coal-mining district around Birmingham, Alabama, a real place named in the novel and far from the Gold Coast setting. The coordinates mark central Birmingham; the mines and convict-lease camps such as Pratt City lay on its western edge.",
+    "reference": "Part Two, H",
+    "order": 4,
+    "note": "Generations after the Atlantic crossing, the descendants of the sold sister live under American slavery and then, nominally free, are pulled into the convict-lease system that fed the Alabama coal mines. The chapter set here follows a man leased out to dig coal near Birmingham, one link in a chain that runs from a Gold Coast dungeon to an American pit.",
+    "outsideSetting": true,
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Convict lease, Wikipedia, on the leasing of prisoners to Alabama coal mines",
+        "url": "https://en.wikipedia.org/wiki/Convict_lease"
+      },
+      {
+        "kind": "guide",
+        "ref": "Pratt City, Birmingham, Wikipedia, on the coal-mining community west of the city",
+        "url": "https://en.wikipedia.org/wiki/Pratt_City,_Birmingham"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harlem-new-york",
+    "name": "Harlem, New York",
+    "progressLabel": "Part Two",
+    "character": "esi",
+    "coords": [-73.9465, 40.8116],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Harlem is a real district of Upper Manhattan, named in the novel and far from the Gold Coast setting. The coordinates mark the centre of the neighbourhood.",
+    "reference": "Part Two, Sonny",
+    "order": 5,
+    "note": "The American line's northward move ends in Harlem during the Great Migration, in a chapter that turns on heroin, addiction and the weight of inherited history in a mid-century Black neighbourhood. It is the far end of the arc the book traces from a single family split at Cape Coast, generations and an ocean away from where it began.",
+    "outsideSetting": true,
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Harlem, Wikipedia, on the Upper Manhattan neighbourhood and the Great Migration",
+        "url": "https://en.wikipedia.org/wiki/Harlem"
+      },
+      {
+        "kind": "guide",
+        "ref": "Great Migration (African American), Wikipedia, on the movement north that Harlem drew",
+        "url": "https://en.wikipedia.org/wiki/Great_Migration_(African_American)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
