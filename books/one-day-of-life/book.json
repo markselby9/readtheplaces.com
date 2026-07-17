@@ -1,0 +1,34 @@
+{
+  "id": "one-day-of-life",
+  "title": "One Day of Life",
+  "author": "Manlio Argueta",
+  "published": 1980,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [-88.9333, 14.0333],
+  "zoom": 9.4,
+  "setting": {
+    "city": "Chalatenango",
+    "country": "SV",
+    "note": "The rural north of El Salvador on the eve of the civil war, seen across a single day from a peasant farming family in the hills of Chalatenango. The map runs from the dirt roads and cornfields of a poor hamlet out to the departmental town, and up into the highland country toward the Honduran border where the National Guard, the army and the first guerrillas collide.",
+    "bbox": [-89.35, 13.85, -88.6, 14.45]
+  },
+  "rights": {
+    "originalWork": "In copyright. Manlio Argueta, first published in Spanish as Un día en la vida, 1980. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/58974/one-day-of-life-by-manlio-argueta/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "One Day of Life, Manlio Argueta (1980). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red-brown of the Chalatenango dirt roads and worked earth the family walks all day. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lupe": {
+      "name": "Lupe",
+      "color": "#2E5064"
+    }
+  }
+}
