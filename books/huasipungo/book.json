@@ -1,0 +1,34 @@
+{
+  "id": "huasipungo",
+  "title": "Huasipungo",
+  "author": "Jorge Icaza",
+  "published": 1934,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-78.33, -0.18],
+  "zoom": 9,
+  "setting": {
+    "city": "Quito",
+    "country": "EC",
+    "note": "Icaza's Ecuador is the Andean sierra above and around Quito, where a landowner in debt turns his highland estate over to a foreign oil company and drives the Quechua families tied to it to build a road through mountain and swamp. The map runs from the capital out into the highland countryside toward the eastern cordillera, the range that falls away to the Amazon.",
+    "bbox": [-78.7, -0.65, -78.0, 0.2]
+  },
+  "rights": {
+    "originalWork": "In copyright. Jorge Icaza, first published 1934. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Huasipungo",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Huasipungo, Jorge Icaza (1934). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red-brown of turned highland earth, the huasipungo soil the workers are bound to. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "andres": {
+      "name": "Andrés Chiliquinga",
+      "color": "#2E5064"
+    }
+  }
+}
