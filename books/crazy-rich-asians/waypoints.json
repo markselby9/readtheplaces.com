@@ -1,0 +1,127 @@
+[
+  {
+    "id": "changi-airport",
+    "name": "Changi Airport",
+    "progressLabel": "Part One",
+    "character": "rachel",
+    "coords": [103.9915, 1.3644],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kwan names Singapore's Changi Airport as the couple's point of arrival; sited at the main passenger terminals on the island's eastern edge.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "Rachel lands in Singapore expecting a modest family visit and is met instead by the first signs of extraordinary money. The arrival at Changi, gleaming and orchid-lined, sets the tone for a world she cannot yet read.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Changi Airport, Wikipedia, for the airport's location and terminals",
+        "url": "https://en.wikipedia.org/wiki/Changi_Airport"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tyersall-park",
+    "name": "Tyersall Park",
+    "progressLabel": "Part One",
+    "character": "rachel",
+    "coords": [103.811, 1.305],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Tyersall Park is a fictional mansion, but its name and setting draw on the real Tyersall estate beside the Botanic Gardens, home to the Sultan of Johor's Istana Woodneuk; sited on that historic ground.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The family seat is a vast colonial estate hidden behind a long drive, a house older and grander than any hotel. Kwan invents the mansion but borrows its bearings from the genuine Tyersall grounds by the Botanic Gardens, where a Johor sultan once kept a palace now lost to fire.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tyersall Park, Wikipedia, on the historic estate near the Botanic Gardens",
+        "url": "https://en.wikipedia.org/wiki/Tyersall_Park"
+      },
+      {
+        "kind": "guide",
+        "ref": "Istana Woodneuk, Wikipedia, on the ruined palace on the Tyersall grounds",
+        "url": "https://en.wikipedia.org/wiki/Istana_Woodneuk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "newton-food-centre",
+    "name": "Newton Food Centre",
+    "progressLabel": "Part One",
+    "character": "rachel",
+    "coords": [103.8394, 1.3119],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kwan names the Newton hawker centre as the setting for a late-night meal; sited at the food centre on Clemenceau Avenue North by Newton Circus.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Away from the mansions, Nick takes Rachel to a hawker centre for satay and noodles under fluorescent light, a reminder that the same city holds street food and staggering wealth side by side. Newton is the open-air stalls that anchor the scene.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Newton Food Centre, Wikipedia, for the hawker centre's location",
+        "url": "https://en.wikipedia.org/wiki/Newton_Food_Centre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "orchard-road",
+    "name": "Orchard Road",
+    "progressLabel": "Part Two",
+    "character": "rachel",
+    "coords": [103.8318, 1.3048],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kwan names Orchard Road, Singapore's main shopping boulevard; sited along its central retail stretch.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The novel's spending sprees and status games play out along Orchard Road, the boulevard of luxury malls where the family's friends measure each other in handbags and couture. It stands in for the city's appetite for display.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Orchard Road, Wikipedia, for the shopping district's location",
+        "url": "https://en.wikipedia.org/wiki/Orchard_Road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marina-bay-sands",
+    "name": "Marina Bay Sands",
+    "progressLabel": "Part Two",
+    "character": "rachel",
+    "coords": [103.8607, 1.2834],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kwan names Marina Bay Sands, the three-towered hotel with its rooftop deck; sited at the resort on Bayfront Avenue.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The famous rooftop of Marina Bay Sands, with its ship-shaped deck and infinity pool high above the bay, appears as a stage for the moneyed set at play. It is one of the city's most recognisable modern landmarks.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Marina Bay Sands, Wikipedia, for the resort's location and rooftop",
+        "url": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sentosa",
+    "name": "Sentosa",
+    "progressLabel": "Part Three",
+    "character": "rachel",
+    "coords": [103.8303, 1.2494],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kwan names Sentosa, the resort island off Singapore's southern coast; sited at the island's centre.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "Sentosa, the pleasure island of beaches, resorts and private villas just off the main coast, marks the story's turn toward leisure and spectacle among the very rich. It rounds out Kwan's tour of a Singapore built for indulgence.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sentosa, Wikipedia, for the island's location",
+        "url": "https://en.wikipedia.org/wiki/Sentosa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

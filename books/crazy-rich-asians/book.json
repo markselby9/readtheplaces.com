@@ -1,0 +1,34 @@
+{
+  "id": "crazy-rich-asians",
+  "title": "Crazy Rich Asians",
+  "author": "Kevin Kwan",
+  "published": 2013,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [103.85, 1.3],
+  "zoom": 11.5,
+  "setting": {
+    "city": "Singapore",
+    "country": "SG",
+    "note": "An American-born Chinese economics professor flies to Singapore with her boyfriend and discovers that his family is impossibly wealthy. The map runs from the arrivals hall at Changi across the island: a hidden colonial estate near the Botanic Gardens, the hawker stalls of Newton, the shops of Orchard Road, the rooftop of Marina Bay Sands and the beaches of Sentosa.",
+    "bbox": [103.6, 1.15, 104.1, 1.48]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kevin Kwan, first published 2013. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://us.macmillan.com/books/9780345803788/crazyrichasians",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Crazy Rich Asians, Kevin Kwan (2013). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The old-money gold of a family that never talks about its wealth. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rachel": {
+      "name": "Rachel Chu",
+      "color": "#2E5064"
+    }
+  }
+}
