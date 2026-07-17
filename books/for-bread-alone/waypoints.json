@@ -1,0 +1,144 @@
+[
+  {
+    "id": "rif-countryside-near-nador",
+    "name": "The Rif countryside near Nador",
+    "progressLabel": "Childhood",
+    "character": "mohamed",
+    "coords": [-2.93333, 35.16667],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The narrative places the family's origin in the drought-stricken Rif, but names no exact village, so this marks Nador, the regional town, about 350 kilometres east of Tangier and well outside the book's Tangier setting.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The book begins in the Rif, where famine and a violent father make the countryside unlivable and push the family toward the coast. The exact hamlet is not identified; the regional anchor is Nador, on Morocco's northeastern Mediterranean edge, far from the Tangier where the rest of the story unfolds.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "For Bread Alone, Wikipedia, on the Rif famine and the family's move to Tangier",
+        "url": "https://en.wikipedia.org/wiki/For_Bread_Alone"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nador, Wikipedia, for the regional coordinates in the eastern Rif",
+        "url": "https://en.wikipedia.org/wiki/Nador"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grand-socco",
+    "name": "The Grand Socco",
+    "progressLabel": "Tangier",
+    "character": "mohamed",
+    "coords": [-5.8129, 35.7846],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Grand Socco, officially Place du 9 Avril 1947, is a named, real square at the edge of the medina; these are its coordinates.",
+    "reference": "Tangier chapters",
+    "order": 2,
+    "note": "The great market square where the new town meets the old is one of the boy's first fixtures in Tangier: a place of crowds, vendors and errands, where a hungry child can scavenge, beg or find scraps of work. It marks the threshold between the European city and the medina he lives in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Grand Socco, Wikipedia, on the square at the entrance to the medina",
+        "url": "https://en.wikipedia.org/wiki/Grand_Socco"
+      },
+      {
+        "kind": "external",
+        "ref": "OpenStreetMap Nominatim geocoding of Place du 9 Avril 1947, Tangier",
+        "url": "https://nominatim.openstreetmap.org/search?q=Place+du+9+Avril+1947+Tangier&format=json"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "petit-socco",
+    "name": "The Petit Socco",
+    "progressLabel": "Tangier",
+    "character": "mohamed",
+    "coords": [-5.8106, 35.7854],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Petit Socco, or Souk Dakhli, is a named, real square inside the medina; these are its coordinates.",
+    "reference": "Tangier chapters",
+    "order": 3,
+    "note": "The small square deep in the medina is the social heart of the interzone: cheap cafés, traffickers, prostitutes and drifters. Much of the boy's street life turns on these tables and the alleys around them, where he learns to survive by whatever the day offers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Petit Socco, Wikipedia, on the square at the focal point of the old city",
+        "url": "https://en.wikipedia.org/wiki/Petit_Socco"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "medina-family-quarter",
+    "name": "The family's quarter in the medina",
+    "progressLabel": "Tangier",
+    "character": "mohamed",
+    "coords": [-5.8118, 35.7868],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book describes cramped rooms in the old city but gives no street address, so this marks a representative point in the upper medina, between the two Soccos and the Kasbah.",
+    "reference": "Tangier chapters",
+    "order": 4,
+    "note": "The family settles into rented rooms in the crowded lanes of the old city, the base from which the boy is sent out to earn or steal. The precise house is not identifiable; the point stands for the medina's tangle of alleys above the markets, where poverty and domestic violence shape his days.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "For Bread Alone, Wikipedia, on the family's life in the Tangier medina",
+        "url": "https://en.wikipedia.org/wiki/For_Bread_Alone"
+      },
+      {
+        "kind": "guide",
+        "ref": "Medina of Tangier, Wikipedia, for the old city between the Soccos and the Kasbah",
+        "url": "https://en.wikipedia.org/wiki/Tangier"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "port-of-tangier",
+    "name": "The port of Tangier",
+    "progressLabel": "Tangier",
+    "character": "mohamed",
+    "coords": [-5.8046, 35.7883],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The working harbour below the medina is a real, named place; this marks the old port basin on the bay northeast of the old city.",
+    "reference": "Tangier chapters",
+    "order": 5,
+    "note": "The harbour on the bay is where the smuggling, casual labour and comings and goings of the international city are most visible. For the boy it is another arena of survival, at the waterline below the medina where the town opens onto the strait.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tangier, Wikipedia, on the port below the old city on the bay",
+        "url": "https://en.wikipedia.org/wiki/Tangier"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tetouan",
+    "name": "A spell in Tetouan",
+    "progressLabel": "Tetouan",
+    "character": "mohamed",
+    "coords": [-5.367, 35.567],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tetouan is a named, real city, but it lies about sixty kilometres southeast of Tangier and outside the book's Tangier setting, so it is marked as a deliberate excursion.",
+    "reference": "Later chapters",
+    "order": 6,
+    "note": "The narrative leaves Tangier for a stretch in Tetouan, the old Spanish-protectorate capital in the hills to the southeast. It is one of the moves away from the home city, part of the restless drifting between towns that runs alongside the boy's slow reach toward reading and writing.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "For Bread Alone, Wikipedia, on the episodes set beyond Tangier",
+        "url": "https://en.wikipedia.org/wiki/For_Bread_Alone"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tétouan, Wikipedia, for the city's coordinates southeast of Tangier",
+        "url": "https://en.wikipedia.org/wiki/T%C3%A9touan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
