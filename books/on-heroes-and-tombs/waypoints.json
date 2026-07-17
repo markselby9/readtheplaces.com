@@ -1,0 +1,128 @@
+[
+  {
+    "id": "parque-lezama",
+    "name": "Parque Lezama",
+    "progressLabel": "Part I: The Dragon and the Princess",
+    "character": "martin",
+    "coords": [-58.3698, -34.6265],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The park is named in the novel and is a real public park on the edge of San Telmo, above Barracas.",
+    "reference": "Part I",
+    "order": 1,
+    "note": "The book opens on a bench here, where a lonely student first meets the restless young woman who will draw him into her family's ruin. Sábato uses the park, on the slope of the old southern city, as the threshold to the whole story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lezama Park, Wikipedia, on the real park in the old southern quarter of Buenos Aires",
+        "url": "https://en.wikipedia.org/wiki/Lezama_Park"
+      },
+      {
+        "kind": "guide",
+        "ref": "Parque Lezama, official Buenos Aires city tourism site, for the park coordinates",
+        "url": "https://turismo.buenosaires.gob.ar/en/otros-establecimientos/parque-lezama"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "olmos-mansion-barracas",
+    "name": "The Olmos mansion, Barracas",
+    "progressLabel": "Part II: Invisible Faces",
+    "character": "martin",
+    "coords": [-58.3805, -34.642],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The mansion is a fictional house the novel places in Barracas; there is no single confirmed address, so this marks a representative point in the old barrio the book evokes.",
+    "reference": "Part II",
+    "order": 2,
+    "note": "The woman belongs to a decayed patrician family living in a crumbling colonial house in Barracas, a southern barrio left behind by the city's move north. The mansion, with its shut rooms and its mad, bedridden relatives, becomes the story's dark centre. Sábato draws it from the real world of grand old porteño houses that outlived their fortunes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Barracas, Buenos Aires, Wikipedia, on the historic southern barrio and its old houses",
+        "url": "https://en.wikipedia.org/wiki/Barracas,_Buenos_Aires"
+      },
+      {
+        "kind": "guide",
+        "ref": "Barracas, Buenos Aires, coordinate reference for the barrio",
+        "url": "https://latitude.to/articles-by-country/ar/argentina/75004/barracas-buenos-aires"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plaza-de-mayo",
+    "name": "Plaza de Mayo",
+    "progressLabel": "Part III: Report on the Blind",
+    "character": "martin",
+    "coords": [-58.3724, -34.6084],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The plaza is the real civic heart of central Buenos Aires, named in the novel's wanderings through the city.",
+    "reference": "Part III",
+    "order": 3,
+    "note": "The narrative moves into the busy centre of Buenos Aires, the plaza and streets around the old cathedral and government house. For one obsessed character the ordinary crowd is a mask: he becomes convinced a secret sect controls the city, and the daylight square is where his surveillance of the blind begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plaza de Mayo, Wikipedia, on the central square of Buenos Aires",
+        "url": "https://en.wikipedia.org/wiki/Plaza_de_Mayo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Plaza de Mayo, coordinate reference for the square",
+        "url": "https://www.latlong.net/place/plaza-de-mayo-buenos-aires-argentina-33659.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "underworld-of-the-blind",
+    "name": "The tunnels beneath the city",
+    "progressLabel": "Part III: Report on the Blind",
+    "character": "martin",
+    "coords": [-58.3925, -34.6094],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The subterranean world is imagined, not a mapped place; this marks a representative point in central Buenos Aires, near the Congreso, where the paranoid descent is set.",
+    "reference": "Part III",
+    "order": 4,
+    "note": "The novel's most famous section is a feverish confession that descends from cellars and sewers into an imagined labyrinth beneath the city, a private hell ruled by the blind. The underworld is a vision, not a real address, but it is rooted in the basements and drains of central Buenos Aires.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "On Heroes and Tombs, Wikipedia, on the Report on the Blind and its subterranean vision",
+        "url": "https://en.wikipedia.org/wiki/On_Heroes_and_Tombs"
+      },
+      {
+        "kind": "guide",
+        "ref": "Plaza del Congreso, Buenos Aires, coordinate reference for the central district",
+        "url": "https://www.latlong.net/place/plaza-del-congreso-buenos-aires-argentina-33684.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lavalle-retreat-jujuy",
+    "name": "General Lavalle's retreat, San Salvador de Jujuy",
+    "progressLabel": "Part IV: An Unknown God",
+    "character": "martin",
+    "coords": [-65.2995, -24.1858],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "A deliberate excursion far north of the Buenos Aires setting. The novel sets its historical thread around the 1841 retreat and death of General Lavalle; this marks San Salvador de Jujuy, where he was killed and from where his men carried his body toward the border.",
+    "reference": "Part IV",
+    "order": 5,
+    "note": "Threaded through the modern story is a historical strand: the 1841 flight of General Lavalle's defeated unitarian army through the far north, and the loyal soldiers who carried his corpse toward Bolivia to keep it from his enemies. Sábato ties the family's fate to this doomed retreat, closing the book far from the porteño south.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Juan Lavalle, Wikipedia, on his 1841 death at San Salvador de Jujuy and the northern retreat",
+        "url": "https://en.wikipedia.org/wiki/Juan_Lavalle"
+      },
+      {
+        "kind": "guide",
+        "ref": "San Salvador de Jujuy, coordinate reference for the northern city",
+        "url": "https://latitude.to/map/ar/argentina/cities/san-salvador-de-jujuy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
