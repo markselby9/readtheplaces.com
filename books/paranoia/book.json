@@ -1,0 +1,34 @@
+{
+  "id": "paranoia",
+  "title": "Paranoia",
+  "author": "Viktor Martinovich",
+  "published": 2009,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [27.5606, 53.8995],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Minsk",
+    "country": "BY",
+    "note": "A thinly veiled authoritarian Belarus, watched from every corner. A young writer's affair with the mistress of the state security minister plays out along the vast Stalinist spine of Independence Avenue, across Independence Square, in the shadow of the security headquarters, and by the slow curve of the Svislach. The map runs south to north through the centre of a real, surveilled Minsk.",
+    "bbox": [27.4, 53.8, 27.75, 54.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Viktor Martinovich, first published in Russian in 2009. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.northwestern.edu/press/books/2013/paranoia.html",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Paranoia, Viktor Martinovich (2009). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The dark red of state banners and the surveillance-state dread that colours the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "anatoly": {
+      "name": "Anatoly",
+      "color": "#2E5064"
+    }
+  }
+}
