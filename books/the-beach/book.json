@@ -1,0 +1,34 @@
+{
+  "id": "the-beach",
+  "title": "The Beach",
+  "author": "Alex Garland",
+  "published": 1996,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [99.9, 9.58],
+  "zoom": 9.4,
+  "setting": {
+    "city": "Bangkok",
+    "country": "TH",
+    "note": "A young backpacker's Thailand: the traveller ghetto of the Khao San Road, then the long haul south to the party islands of the Gulf, and finally a rumoured paradise hidden in a marine park. The map runs from central Bangkok down to Surat Thani and out across the archipelago of Ko Samui, Ko Pha Ngan and Ang Thong, where the secret beach is imagined.",
+    "bbox": [99.2, 9.0, 100.7, 13.9]
+  },
+  "rights": {
+    "originalWork": "In copyright. Alex Garland, first published 1996. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/56471/the-beach-by-garland-alex/9780241950432",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Beach, Alex Garland (1996). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#1C6B7A",
+    "note": "The teal of a Gulf of Thailand lagoon. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "richard": {
+      "name": "Richard",
+      "color": "#8A3B1E"
+    }
+  }
+}

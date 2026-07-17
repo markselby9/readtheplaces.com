@@ -1,0 +1,127 @@
+[
+  {
+    "id": "khao-san-road-bangkok",
+    "name": "Khao San Road, Bangkok",
+    "progressLabel": "Bangkok",
+    "character": "richard",
+    "coords": [100.49722, 13.75889],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Garland names the Khao San Road; this marks the real backpacker street in the Banglamphu district of central Bangkok.",
+    "reference": "Opening chapters, Bangkok",
+    "order": 1,
+    "note": "The novel opens in Bangkok's backpacker heart, the Khao San Road, a strip of cheap guesthouses, bars and travel touts. Here the narrator takes a room, meets a wild-eyed neighbour and comes into possession of a hand-drawn map to a secret island beach. It is a real street, long the first stop for budget travellers arriving in Thailand.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Khao San Road, Wikipedia, on the Banglamphu backpacker street",
+        "url": "https://en.wikipedia.org/wiki/Khaosan_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "Khao San Road, Bangkok, latlong.net, for the street coordinates",
+        "url": "https://www.latlong.net/place/khao-san-road-bangkok-thailand-29017.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "surat-thani",
+    "name": "Surat Thani",
+    "progressLabel": "The journey south",
+    "character": "richard",
+    "coords": [99.3331, 9.1401],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book sends the travellers south by overnight coach and then boat to the islands; Surat Thani is the mainland railhead and ferry gateway for that route, marked here at the provincial town.",
+    "reference": "The journey south to the islands",
+    "order": 2,
+    "note": "Leaving Bangkok, the narrator and his companions ride south through the night toward the coast, where boats cross to the Gulf islands. Surat Thani is the mainland town and ferry port that funnels backpackers out to Samui and its neighbours, the practical hinge between the capital and the archipelago.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Surat Thani, Wikipedia, on the town as the gateway to the Samui archipelago",
+        "url": "https://en.wikipedia.org/wiki/Surat_Thani"
+      },
+      {
+        "kind": "guide",
+        "ref": "Surat Thani, latitude.to, for the town coordinates",
+        "url": "https://latitude.to/map/th/thailand/cities/surat-thani"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ko-samui",
+    "name": "Ko Samui",
+    "progressLabel": "The islands",
+    "character": "richard",
+    "coords": [100.0136, 9.512],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Garland names Ko Samui; this marks the real island in the Gulf of Thailand, sited at its centre.",
+    "reference": "Arrival in the Gulf islands",
+    "order": 3,
+    "note": "The first island stop is Ko Samui, the largest and most developed of the Gulf group, all resorts, dive shops and traveller traffic. For the narrator it is a way-station on the road to something less spoiled, the busy, commercial version of paradise that the secret beach is meant to escape.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ko Samui, Wikipedia, on the Gulf of Thailand island",
+        "url": "https://en.wikipedia.org/wiki/Ko_Samui"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ko Samui, geodatos.net, for the island coordinates",
+        "url": "https://www.geodatos.net/en/coordinates/thailand/ko-samui"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "haad-rin-ko-pha-ngan",
+    "name": "Haad Rin, Ko Pha Ngan",
+    "progressLabel": "The islands",
+    "character": "richard",
+    "coords": [100.0682, 9.6764],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Garland names Ko Pha Ngan; Haad Rin, the beach at the island's southern tip and home of the full moon parties, is marked as its most representative point.",
+    "reference": "Ko Pha Ngan",
+    "order": 4,
+    "note": "Ko Pha Ngan, the next island north, is the raucous rave capital of the Gulf, its Haad Rin beach famous for the all-night full moon parties. In the novel it stands for exactly the crowded, chemical scene the narrator wants to leave behind, the last outpost of mass tourism before the leap to the hidden beach.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ko Pha-ngan, Wikipedia, on the island and Haad Rin",
+        "url": "https://en.wikipedia.org/wiki/Ko_Pha-ngan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Full Moon Party, Wikipedia, on Haad Rin beach at the island's southern tip",
+        "url": "https://en.wikipedia.org/wiki/Full_Moon_Party"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ang-thong-secret-beach",
+    "name": "The secret beach, Ang Thong",
+    "progressLabel": "The lagoon",
+    "character": "richard",
+    "coords": [99.666, 9.6565],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The secret island and its lagoon are fictional. Garland has said the beach was inspired by the Ang Thong marine park, a real archipelago of limestone islands with hidden inland lagoons; this marks the centre of that park.",
+    "reference": "The hidden beach",
+    "order": 5,
+    "note": "The paradise the map promises is a beach on a hidden island, its lagoon sealed behind cliffs and guarded by a secret community. The island itself is invented, but its landscape is drawn from the Ang Thong marine park west of Samui, a cluster of steep limestone islets pierced by caves and emerald inland lakes. Reaching it in the book means a boat to a nearer island and then a long swim across open water.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mu Ko Ang Thong National Park, Wikipedia, on the archipelago and its inland lagoons",
+        "url": "https://en.wikipedia.org/wiki/Mu_Ko_Ang_Thong_National_Park"
+      },
+      {
+        "kind": "external",
+        "ref": "Ang Thong National Marine Park, Thai National Parks, on the park as the inspiration for the setting of The Beach",
+        "url": "https://www.thainationalparks.com/mu-ko-ang-thong-national-park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
