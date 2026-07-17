@@ -1,0 +1,34 @@
+{
+  "id": "the-old-drift",
+  "title": "The Old Drift",
+  "author": "Namwali Serpell",
+  "published": 2019,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [27.05, -16.6],
+  "zoom": 6.3,
+  "setting": {
+    "city": "Lusaka",
+    "country": "ZM",
+    "note": "A century of Zambia in one saga, following three intertwined families. It begins at the Old Drift, the colonial river settlement by the Victoria Falls on the Zambezi, moves through the flooding of the Kariba Dam, and settles into modern Lusaka, its compounds and its university, before pressing on into a near future. The map runs some 470 kilometres north-east from the falls to the capital.",
+    "bbox": [25.6, -18.0, 29.0, -15.3]
+  },
+  "rights": {
+    "originalWork": "In copyright. Namwali Serpell, first published 2019. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/564780/the-old-drift-by-namwali-serpell/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Old Drift, Namwali Serpell (2019). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red earth of the Zambezi valley. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mwamba": {
+      "name": "The Mwamba line",
+      "color": "#2E5064"
+    }
+  }
+}

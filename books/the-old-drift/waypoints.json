@@ -1,0 +1,127 @@
+[
+  {
+    "id": "the-old-drift-zambezi",
+    "name": "The Old Drift, on the Zambezi",
+    "progressLabel": "Part One: The Grandmothers",
+    "character": "mwamba",
+    "coords": [25.7978, -17.8739],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Old Drift is a real place: the early colonial river crossing and settlement above the Victoria Falls, abandoned by 1905 for the higher ground that became Livingstone. This marks the surviving Old Drift cemetery, its clearest trace on the ground today.",
+    "reference": "Part One: The Grandmothers",
+    "order": 1,
+    "note": "The saga takes both its title and its opening from this spot, a fever-ridden white settlement on the north bank of the Zambezi where turn-of-the-century settlers crossed the river near the falls. Within a few years malaria drove the survivors uphill to found Livingstone, and the drift was left to its graves. Serpell uses it as the ground from which three family lines begin to tangle.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old Drift cemetery, Wikipedia, on the settlement and its burial ground in Mosi-oa-Tunya National Park",
+        "url": "https://en.wikipedia.org/wiki/Old_Drift_cemetery"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Old Drift settlers, To the Victoria Falls, for the 1898-1905 crossing and its move to higher ground",
+        "url": "https://www.tothevictoriafalls.com/vfpages/devel/settlers.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "livingstone-victoria-falls",
+    "name": "Livingstone and the falls",
+    "progressLabel": "Part One: The Grandmothers",
+    "character": "mwamba",
+    "coords": [25.8542, -17.8419],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Livingstone is a real town, the colonial-era capital of Northern Rhodesia and the tourist gateway to the Victoria Falls, laid out when the Old Drift settlers moved to higher ground. Sited at the town centre.",
+    "reference": "Part One: The Grandmothers",
+    "order": 2,
+    "note": "Ten kilometres up from the river, Livingstone grew into the colonial capital and the hotel-and-railway town for visitors to the falls. In the early chapters it is the world of the settler grandmother's generation, a place of grand verandahs, a barbershop and the smoke that thunders on the horizon, where the colonial and African strands of the story first cross.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Livingstone, Zambia, Wikipedia, on the town's founding and its role as gateway to the falls",
+        "url": "https://en.wikipedia.org/wiki/Livingstone,_Zambia"
+      },
+      {
+        "kind": "guide",
+        "ref": "Livingstone, Britannica, on the Zambezi tourism town and former colonial capital",
+        "url": "https://www.britannica.com/place/Livingstone"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kariba-dam",
+    "name": "The Kariba Dam",
+    "progressLabel": "Part One: The Grandmothers",
+    "character": "mwamba",
+    "coords": [28.7619, -16.5222],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Kariba Dam is a real double-curvature arch dam in the Kariba Gorge of the Zambezi, built in the late 1950s and flooding Lake Kariba behind it. Sited at the dam wall.",
+    "reference": "Part One: The Grandmothers",
+    "order": 3,
+    "note": "Downstream on the same river, the great colonial engineering project of the 1950s dams the Zambezi, drowning the gorge and the villages along it to make Lake Kariba. Serpell weaves the dam's construction, its floods and the displacement it caused into the middle generation of the story, tying the family's fortunes to a wall of concrete across the water.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kariba Dam, Wikipedia, for the dam's location and 1950s construction on the Zambezi",
+        "url": "https://en.wikipedia.org/wiki/Kariba_Dam"
+      },
+      {
+        "kind": "external",
+        "ref": "Kariba Hydro-Electric Scheme, Zambezi River Authority, for the dam coordinates",
+        "url": "https://www.zambezira.org/hydro-electric-schemes/kariba-hes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lusaka-city-centre",
+    "name": "Lusaka and its compounds",
+    "progressLabel": "Part Two: The Mothers",
+    "character": "mwamba",
+    "coords": [28.2817, -15.4166],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lusaka is the real capital of Zambia; Cairo Road is its central commercial spine. Sited on Cairo Road as a representative point for the modern city that carries most of the novel.",
+    "reference": "Part Two: The Mothers",
+    "order": 4,
+    "note": "From independence onward the story moves to the capital and stays there, in the markets off Cairo Road and out in the crowded compounds where the later generations live and work. Lusaka is where the three family lines fully braid together, through hair salons, small businesses and the long shadow of the AIDS epidemic.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lusaka, Wikipedia, on the Zambian capital and its central Cairo Road",
+        "url": "https://en.wikipedia.org/wiki/Lusaka"
+      },
+      {
+        "kind": "external",
+        "ref": "Cairo Road, Lusaka, coordinate reference",
+        "url": "https://latitude.to/articles-by-country/zm/zambia/213826/cairo-road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "university-of-zambia",
+    "name": "The University of Zambia",
+    "progressLabel": "Part Three: The Children",
+    "character": "mwamba",
+    "coords": [28.3281, -15.3906],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The University of Zambia is a real institution on the Great East Road in Lusaka, opened in 1966. Sited at its main Great East Road campus.",
+    "reference": "Part Three: The Children",
+    "order": 5,
+    "note": "The Great East Road campus stands for the country's post-independence hopes and, in the novel, for its science: the near-future strand follows the youngest generation into research on the virus that has haunted their parents. Serpell brings the century-long story to a head where a modern Zambia tries to engineer its own future, as the colonial dam-builders once tried to engineer the river.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "University of Zambia, Wikipedia, on the 1966 university and its Great East Road campus",
+        "url": "https://en.wikipedia.org/wiki/University_of_Zambia"
+      },
+      {
+        "kind": "external",
+        "ref": "University of Zambia Library, Great East Road campus, coordinate reference",
+        "url": "https://www.latlong.net/place/university-of-zambia-library-lusaka-zambia-22357.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
