@@ -1,0 +1,117 @@
+[
+  {
+    "id": "predio-dos-invejados",
+    "name": "Ludo's building, the Prédio dos Invejados",
+    "progressLabel": "1975",
+    "character": "ludo",
+    "coords": [13.232, -8.8175],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Prédio dos Invejados is an invented name and the building is not a real named address; Agualusa sets it in an elegant apartment block in central Luanda, so this marks a representative point in the Ingombota downtown where such a building would stand.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "On the eve of independence the narrator, a fearful Portuguese woman, seals the entrance to her top-floor apartment with a wall of bricks and stays shut in for close to thirty years. The building sits in the smart heart of colonial Luanda, the kind of address left half-empty as settlers fled in 1975.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A General Theory of Oblivion, publisher synopsis, on the walled-in apartment in central Luanda",
+        "url": "https://www.penguin.co.uk/books/181581/a-general-theory-of-oblivion-by-agualusa-jose-eduardo/9781784701482"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ingombota, Luanda, Wikipedia, for the central district the apartment building sits in",
+        "url": "https://en.wikipedia.org/wiki/Ingombota"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baixa-de-luanda-old-town",
+    "name": "The old town, Baixa de Luanda",
+    "progressLabel": "Independence",
+    "character": "ludo",
+    "coords": [13.2234, -8.8083],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Central Luanda is the book's anchor; this marks the historic core around the Fortress of São Miguel, whose coordinates are documented.",
+    "reference": "Throughout",
+    "order": 2,
+    "note": "Below the sealed apartment the colonial downtown empties and then fills again: departures in the last days of Portuguese rule, then a new republic, coups, shortages and the long war. The old town, crowned by the sixteenth-century fortress above the bay, is the ground the whole story turns on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fortress of São Miguel, Wikipedia, for the coordinates of the old-town core of Luanda",
+        "url": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "José Eduardo Agualusa, Wikipedia, on the Luanda setting of the novel",
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Eduardo_Agualusa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marginal-seafront",
+    "name": "The Marginal seafront",
+    "progressLabel": "The war years",
+    "character": "ludo",
+    "coords": [13.234, -8.813],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The bayfront avenue, Avenida 4 de Fevereiro, is a real named road along Luanda Bay; this marks a representative point on its promenade.",
+    "reference": "Throughout",
+    "order": 3,
+    "note": "The palm-lined avenue curving along the bay is where colonial Luanda showed itself off and where the post-independence city paraded its own hopes and hungers. Lives that brush against the walled-in woman's own play out along this seafront over the decades she stays hidden.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Avenida 4 de Fevereiro, Wikipedia, on the Marginal road along Luanda Bay",
+        "url": "https://en.wikipedia.org/wiki/Avenida_4_de_Fevereiro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baia-de-luanda-bay",
+    "name": "The bay of Luanda",
+    "progressLabel": "The war years",
+    "character": "ludo",
+    "coords": [13.23556, -8.79528],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Luanda Bay is a named body of water in front of the city, with documented coordinates.",
+    "reference": "Throughout",
+    "order": 4,
+    "note": "The sheltered bay, held in the long arm of the Ilha, frames the city the recluse can only glimpse. Ships come and go with the changing fortunes of the war, and the water is the constant backdrop to the shifting Luanda that surrounds her hiding place.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Luanda Bay, Wikipedia, for the coordinates of the bay",
+        "url": "https://en.wikipedia.org/wiki/Luanda_Bay"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sambizanga-musseque",
+    "name": "A musseque, Sambizanga",
+    "progressLabel": "The war years",
+    "character": "ludo",
+    "coords": [13.2622, -8.8125],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The musseques are the real sand-soil shantytowns ringing Luanda; this marks Sambizanga, a well-known one just north of the centre, whose coordinates are documented.",
+    "reference": "Throughout",
+    "order": 5,
+    "note": "Beyond the concrete downtown spread the musseques, the crowded shantytowns on Luanda's red earth where much of the city's real life and its politics unfolded. Characters whose paths cross the hidden woman's, from street children to fighters, move through these districts across the years of upheaval.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sambizanga, Wikipedia, for the musseque district north of central Luanda and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Sambizanga"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Sambizanga Musseque, Allan Cain, on the informal settlements of Luanda",
+        "url": "https://www.researchgate.net/publication/327824425_Sambizanga_Musseque"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
