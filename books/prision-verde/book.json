@@ -1,0 +1,34 @@
+{
+  "id": "prision-verde",
+  "title": "Prisión Verde",
+  "author": "Ramón Amaya Amador",
+  "published": 1945,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-87.85, 15.46],
+  "zoom": 10.4,
+  "setting": {
+    "city": "El Progreso",
+    "country": "HN",
+    "note": "The banana zone of Honduras's Caribbean lowlands in the 1930s, where the fruit companies ran the Sula valley as a private domain. The map follows the campeños from the endless plantation rows and company camps around El Progreso, along the Ulúa river, out to the industrial city of San Pedro Sula and the export port of Tela.",
+    "bbox": [-88.2, 15.28, -87.35, 15.88]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ramón Amaya Amador, first published 1945. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://es.wikipedia.org/wiki/Prisi%C3%B3n_verde",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Prisión Verde, Ramón Amaya Amador (1945). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the banana rows that gives the novel its title and its metaphor: a prison made of plantation. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lucas": {
+      "name": "Lucas Ríos",
+      "color": "#8A3B1E"
+    }
+  }
+}

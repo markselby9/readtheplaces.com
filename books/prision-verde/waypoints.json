@@ -1,0 +1,112 @@
+[
+  {
+    "id": "el-progreso-company-town",
+    "name": "The company town, El Progreso",
+    "progressLabel": "Part One",
+    "character": "lucas",
+    "coords": [-87.8064, 15.4001],
+    "placeCertainty": "explicit",
+    "certaintyNote": "El Progreso, on the Ulúa in the Sula valley, is the real town at the heart of the banana zone the novel describes; the specific commissary and camp buildings are not identifiable today, so this marks the town centre.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "El Progreso stands at the centre of the banana country the book maps: a town organised around the fruit company, its commissary and its camps, where a small landowner is drawn off his own plot and into wage labour on the plantations. In the 1930s the town lived on the banana trade and the company that controlled it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "El Progreso, Honduras, Wikipedia, on the town on the Ulúa river in the banana-growing Sula valley",
+        "url": "https://en.wikipedia.org/wiki/El_Progreso"
+      },
+      {
+        "kind": "guide",
+        "ref": "El Progreso, Encyclopaedia Britannica, on the industrial city of the Caribbean lowlands",
+        "url": "https://www.britannica.com/place/El-Progreso"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "banana-plantations-sula-valley",
+    "name": "The banana plantations, Sula valley",
+    "progressLabel": "Part One",
+    "character": "lucas",
+    "coords": [-87.87, 15.44],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's plantation camps are drawn from the real fincas that blanketed the Sula valley around El Progreso; no single camp is named or locatable, so this marks a representative point in the valley's plantation belt west of the town.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The title's green prison is the plantation itself: rows of banana that run to the horizon, worked in company camps under overseers, in mud and heat and debt. The book turns the fincas of the Sula valley into a landscape of confinement, where workers are bound to the fruit and the firm that owns it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sula Valley, Wikipedia, on the alluvial valley that held Honduras's banana plantations",
+        "url": "https://en.wikipedia.org/wiki/Sula_Valley"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Ramón Amaya Amador, Wikipedia, on Prisión Verde and the author's years as a banana worker",
+        "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Amaya_Amador"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ulua-river",
+    "name": "The Ulúa river",
+    "progressLabel": "Part Two",
+    "character": "lucas",
+    "coords": [-87.83, 15.47],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Ulúa is the real river of the Sula valley, running past El Progreso; the exact bank in any scene is not fixed, so this marks a point on the river between El Progreso and San Pedro Sula.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The Ulúa is the artery of the banana zone, watering the fincas and threading past the company towns before it reaches the coast. In the novel the river marks the valley the workers cannot leave, the same water that floods the plantations and carries the fruit toward the sea.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ulúa River, Wikipedia, on the river running north through the Sula valley to the Gulf of Honduras",
+        "url": "https://en.wikipedia.org/wiki/Ul%C3%BAa_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "san-pedro-sula",
+    "name": "San Pedro Sula",
+    "progressLabel": "Part Two",
+    "character": "lucas",
+    "coords": [-88.025, 15.5042],
+    "placeCertainty": "explicit",
+    "certaintyNote": "San Pedro Sula is the real commercial city of the Sula valley, west of El Progreso, and the regional hub the novel's world revolves around; this marks the city centre.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "San Pedro Sula is the city the valley feeds: the commercial capital of the north coast, where the money of the banana trade gathers and where the workers' grievances harden toward organisation. It stands at the western edge of the plantation country as its urban counterweight.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "San Pedro Sula, Wikipedia, on the city in the Sula valley near El Progreso",
+        "url": "https://en.wikipedia.org/wiki/San_Pedro_Sula"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "port-of-tela",
+    "name": "The port of Tela",
+    "progressLabel": "Part Three",
+    "character": "lucas",
+    "coords": [-87.4673, 15.7743],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tela is the real Caribbean port that served as headquarters of the Tela Railroad Company, the United Fruit subsidiary that ran much of this banana zone; this marks the coastal town.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "Tela is where the plantations meet the sea: a company port on the Caribbean from which the fruit was shipped north, and the local seat of the United Fruit subsidiary that governed the zone. It closes the circuit the novel traces, from the workers in the rows to the boats that carry the harvest away.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tela, Wikipedia, on the port and headquarters of the Tela Railroad Company, a United Fruit subsidiary",
+        "url": "https://en.wikipedia.org/wiki/Tela"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
