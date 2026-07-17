@@ -1,0 +1,34 @@
+{
+  "id": "brideshead-revisited",
+  "title": "Brideshead Revisited",
+  "author": "Evelyn Waugh",
+  "published": 1945,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.08, 52.94],
+  "zoom": 6.5,
+  "setting": {
+    "city": "Oxford",
+    "country": "GB",
+    "note": "Charles Ryder's memoir of the Catholic, aristocratic Flyte family between the wars. It begins in the sunlit Oxford of his undergraduate years, opens out to the vast baroque country house he calls Brideshead, and returns to the London and the faith he cannot leave behind. The map runs from the Oxford quads north to the Yorkshire house that stands in for Brideshead, with the family's town house in St James's and a youthful summer in Venice.",
+    "bbox": [-1.3, 51.45, -0.1, 54.2]
+  },
+  "rights": {
+    "originalWork": "In copyright. Evelyn Waugh, first published 1945. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/312436/brideshead-revisited-by-evelyn-waugh/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Brideshead Revisited, Evelyn Waugh (1945). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A5A12",
+    "note": "The warm honey-gold of Oxford stone and a baroque country house in late-summer light. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "charles": {
+      "name": "Charles Ryder",
+      "color": "#2E5064"
+    }
+  }
+}

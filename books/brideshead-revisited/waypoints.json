@@ -1,0 +1,113 @@
+[
+  {
+    "id": "meadow-building-christ-church",
+    "name": "Sebastian's rooms, the Meadow Building",
+    "progressLabel": "Book One",
+    "character": "charles",
+    "coords": [-1.2544, 51.7494],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Waugh does not name a college, but Sebastian's undergraduate rooms are long identified with the Venetian-Gothic Meadow Building at Christ Church, where Waugh's friend Harold Acton, a partial model for the set, was lodged. Sited on that building.",
+    "reference": "Book One",
+    "order": 1,
+    "note": "The friendship that runs through the whole book begins at Oxford, when a drunken young aristocrat is sick through the narrator's ground-floor window and makes amends the next day with flowers. Sebastian's rooms, high in a heavy Victorian range at Christ Church, become the centre of a charmed undergraduate world of wine, idleness and easy talk.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Meadow Building, Wikipedia, on the range identified as Sebastian Flyte's rooms",
+        "url": "https://en.wikipedia.org/wiki/The_Meadow_Building"
+      },
+      {
+        "kind": "guide",
+        "ref": "Christ Church, Oxford, Wikipedia, for the college and building location",
+        "url": "https://en.wikipedia.org/wiki/Christ_Church,_Oxford"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "oxford-botanic-garden",
+    "name": "The Botanic Garden, Oxford",
+    "progressLabel": "Book One",
+    "character": "charles",
+    "coords": [-1.2477, 51.751],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Waugh names the Botanical Gardens by the Cherwell explicitly; this is the University of Oxford Botanic Garden, still on Rose Lane.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "In the first flush of the friendship Sebastian carries the narrator off to the university's old walled garden to look at the ivy, an outing that stands for the whole unhurried, slightly absurd enchantment of that Oxford summer. The garden, founded in 1621 beside the river, is real and open to visitors today.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "University of Oxford Botanic Garden, Wikipedia, for the named garden and its location",
+        "url": "https://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brideshead-castle-howard",
+    "name": "Brideshead (Castle Howard)",
+    "progressLabel": "Book One",
+    "character": "charles",
+    "coords": [-0.9058, 54.1214],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Brideshead is invented. Its great dome and baroque grandeur draw chiefly on Castle Howard in Yorkshire, sited here; the family's Catholicism and private chapel owe more to Madresfield Court in Worcestershire, the Lygon family seat Waugh knew well.",
+    "reference": "Book One",
+    "order": 3,
+    "note": "The house that gives the book its title is a vast baroque pile with a domed hall and a fountain, home to the Flytes and to the faith that governs them. The narrator spends an idyllic vacation there and returns years later as an officer billeted in its grounds. Waugh built it mainly from Castle Howard, with the devout Catholic household drawn from Madresfield Court.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Castle Howard, Wikipedia, on its use as Brideshead and the house's coordinates",
+        "url": "https://en.wikipedia.org/wiki/Castle_Howard"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Madresfield Court, Wikipedia, on the Lygon seat as a model for the Flytes' Catholic household",
+        "url": "https://en.wikipedia.org/wiki/Madresfield_Court"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "venice-grand-canal",
+    "name": "Lord Marchmain's palazzo, Venice",
+    "progressLabel": "Book One",
+    "character": "charles",
+    "coords": [12.3319, 45.4319],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Waugh sets the scene in a palazzo on the Grand Canal without naming it; this marks a representative point on the canal in Venice, well outside the book's English setting.",
+    "reference": "Book One",
+    "order": 4,
+    "note": "During the long vacation the two young men travel out to Venice, where Sebastian's exiled father keeps a palazzo and a mistress and lives the expatriate life he has chosen over his wife and religion. The Venetian interlude, all heat and water and easy pleasure, is the high point of the friendship before the shadows gather.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Grand Canal, Venice, Wikipedia, for the setting of the palazzo scenes",
+        "url": "https://en.wikipedia.org/wiki/Grand_Canal_(Venice)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marchmain-house-st-jamess",
+    "name": "Marchmain House, St James's",
+    "progressLabel": "Book Two",
+    "character": "charles",
+    "coords": [-0.1398, 51.5048],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Marchmain House is a fictional town house, placed by the novel in St James's with Green Park below its windows. Sited at Bridgewater House on Cleveland Row, the grand mansion later used to stand in for it on screen.",
+    "reference": "Book Two",
+    "order": 5,
+    "note": "The Flytes' London house, overlooking Green Park, is the setting for the family's society season and, later, for its slow break-up as the great mansion is sold and pulled down. Waugh gives it no real address, but its position in aristocratic St James's matches the run of private palaces there, of which Bridgewater House is the surviving type.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bridgewater House, Westminster, Wikipedia, on the St James's mansion and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bridgewater_House,_Westminster"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
