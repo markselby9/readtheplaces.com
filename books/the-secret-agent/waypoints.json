@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "id": "verlocs-shop-soho",
+    "name": "Verloc's shop, Soho",
+    "progressLabel": "Ch. 1",
+    "character": "verloc",
+    "coords": [-0.132, 51.5135],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Verloc keeps his shop on Brett Street, which Conrad invented, but he sites it in the grimy Soho of the 1890s, the quarter of the foreign anarchist clubs. The pin marks central Soho.",
+    "quoteAnchor": "The shop was a square box of a place",
+    "passage": "The shop was small, and so was the house. It was one of those grimy brick houses which existed in large quantities before the era of reconstruction dawned upon London. The shop was a square box of a place, with the front glazed in small panes.",
+    "note": "The novel opens here, in the seedy shop of dubious wares that fronts Verloc's real trade as a paid informer. He lives over it with his wife Winnie, her mother, and her brother Stevie, and by the last chapters it is the scene of a murder.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "guide",
+        "ref": "Soho, City of Westminster, London; the district Conrad gives the shop",
+        "url": "https://en.wikipedia.org/wiki/Soho"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-embassy-belgravia",
+    "name": "The foreign Embassy, Belgravia",
+    "progressLabel": "Ch. 2",
+    "character": "verloc",
+    "coords": [-0.1537, 51.499],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Conrad walks Verloc to No. 10 Chesham Square, past a wall marked No. 1 Chesham Square and a stray house from Porthill Street, all invented names dropped into the real Belgravia near Vauxhall Bridge Road. The pin marks Belgrave Square, the heart of the district he names.",
+    "quoteAnchor": "No. 1 Chesham Square written on it in black letters",
+    "passage": "With a turn to the left Mr Verloc pursued his way along a narrow street by the side of a yellow wall which, for some inscrutable reason, had No. 1 Chesham Square written on it in black letters.",
+    "note": "Summoned to the Embassy, Verloc is dressed down by the First Secretary, Mr Vladimir, who orders him to provoke an outrage that will frighten England into cracking down on the anarchists it shelters. The target Vladimir chooses is Greenwich.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter II",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Belgrave Square, Belgravia, City of Westminster, London",
+        "url": "https://en.wikipedia.org/wiki/Belgrave_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "greenwich-park-explosion",
+    "name": "Greenwich Park, the explosion",
+    "progressLabel": "Ch. 4",
+    "character": "verloc",
+    "coords": [-0.0021, 51.4772],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The bomb goes off in Greenwich Park, on the slope below the Observatory. The pin marks the north-west slope of Observatory Hill, where the real anarchist Martial Bourdin died in 1894, the outrage Conrad built the novel on.",
+    "quoteAnchor": "There's a man blown up in Greenwich Park this morning",
+    "passage": "I am afraid I'll have to spoil your holiday for you, though. There's a man blown up in Greenwich Park this morning.",
+    "note": "The plan miscarries: the bomb detonates early and destroys the man carrying it. Only later does the reader learn it was Stevie, Winnie's simple brother, whom Verloc had sent up the hill with the explosive. Conrad drew the scene straight from the 1894 Greenwich Bomb Outrage.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter IV",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The 1894 Greenwich bomb and Martial Bourdin, Royal Museums Greenwich",
+        "url": "https://www.rmg.co.uk/stories/space-astronomy/astronomers-anarchist-bomber"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "royal-observatory-greenwich",
+    "name": "The Royal Observatory, Greenwich",
+    "progressLabel": "Ch. 5",
+    "character": "verloc",
+    "coords": [-0.0015, 51.4779],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "within a hundred yards from the Observatory walls",
+    "passage": "In his opinion, the two men had parted from each other within a hundred yards from the Observatory walls. He explained also how the other man could have got out of the park speedily without being observed.",
+    "note": "The Observatory on the prime meridian is the outrage's target, chosen by Vladimir precisely because an attack on astronomy is senseless enough to terrify. Chief Inspector Heat reconstructs the last hundred yards to its walls, where the bomb went off before it could be laid.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter V",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Royal Observatory, Greenwich, and the prime meridian",
+        "url": "https://en.wikipedia.org/wiki/Royal_Observatory,_Greenwich"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "licensed-victuallers-almshouses",
+    "name": "The almshouses, South London",
+    "progressLabel": "Ch. 8",
+    "character": "winnie",
+    "coords": [-0.0603, 51.4789],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The almshouses are not named, but Conrad's charity founded by a wealthy innkeeper for the destitute widows of the trade, reached by cab into South London, matches the Licensed Victuallers' Benevolent Institution Asylum, now Caroline Gardens, on Asylum Road in Peckham, a real home for retired publicans' widows. The pin marks it.",
+    "quoteAnchor": "almshouses founded by a wealthy innkeeper for the destitute widows of the trade",
+    "passage": "Mrs Verloc's mother had at last secured her admission to certain almshouses founded by a wealthy innkeeper for the destitute widows of the trade.",
+    "note": "To lighten the household after Verloc's troubles, Winnie's mother has herself admitted to a charity almshouse and leaves in a jolting cab, a self-sacrifice Winnie watches without fully grasping. It is one of the quiet cruelties that set the tragedy in motion.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter VIII",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Licensed Victuallers' Almshouses (Caroline Gardens), Asylum Road, Peckham; Historic England listing 47500",
+        "url": "https://historicengland.org.uk/listing/heritage-at-risk/search-register/list-entry/47500"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waterloo-station",
+    "name": "Waterloo Station",
+    "progressLabel": "Ch. 12",
+    "character": "winnie",
+    "coords": [-0.1124, 51.5032],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "From Waterloo. Plenty of time.",
+    "passage": "From Waterloo. Plenty of time. We are all right after all. . . .",
+    "note": "Having killed Verloc, Winnie falls in with the anarchist Ossipon, who means to put her on the Southampton boat train from Waterloo and flee to the Continent with her savings. It is the last stage before she vanishes, and drowns in the Channel.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Secret Agent, Chapter XII",
+        "url": "https://www.gutenberg.org/ebooks/974"
+      },
+      {
+        "kind": "heritage",
+        "ref": "London Waterloo station, Lambeth, London",
+        "url": "https://en.wikipedia.org/wiki/Waterloo_station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
