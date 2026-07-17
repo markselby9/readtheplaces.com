@@ -1,0 +1,34 @@
+{
+  "id": "trainspotting",
+  "title": "Trainspotting",
+  "author": "Irvine Welsh",
+  "published": 1993,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-3.175, 55.968],
+  "zoom": 12.8,
+  "setting": {
+    "city": "Edinburgh",
+    "country": "GB",
+    "note": "Welsh's Edinburgh is the one the tourist city turns its back on: the tenements, schemes and pubs of Leith and Leith Walk in the late 1980s, where a group of young heroin users drift between deals, dole offices and squalid flats. The map runs down Leith Walk from the New Town to the docks, takes in the great curved council block on Cables Wynd and the derelict station that gives the book its name, and ends with a doomed trip south to London.",
+    "bbox": [-3.28, 55.92, -3.1, 56.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Irvine Welsh, first published 1993. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/558324/trainspotting-by-welsh-irvine/9780099465898",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Trainspotting, Irvine Welsh (1993). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "A dried, bruised red, for the book's poverty and its drug wreckage. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "renton": {
+      "name": "Mark Renton",
+      "color": "#2E5064"
+    }
+  }
+}

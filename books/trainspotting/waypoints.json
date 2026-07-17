@@ -1,0 +1,123 @@
+[
+  {
+    "id": "leith-walk",
+    "name": "Leith Walk",
+    "progressLabel": "Leith",
+    "character": "renton",
+    "coords": [-3.179, 55.966],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Welsh names Leith Walk directly; the long street has no single scene, so this marks a representative point on the tenement stretch between the New Town and the foot of the Walk.",
+    "reference": "Leith and Leith Walk sections",
+    "order": 1,
+    "note": "The spine of the book's Leith: a long, downhill street of tenements, betting shops and pubs running from the edge of the New Town to the docks. Welsh's characters live, score, drink and argue along it, and the local speech is written the way it is spoken here. In the late 1980s this was a poor, run-down quarter, well before its later gentrification.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Leith Walk, Wikipedia, for the street and its place in the book's geography",
+        "url": "https://en.wikipedia.org/wiki/Leith_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "banana-flats-cables-wynd-house",
+    "name": "The Banana Flats, Cables Wynd House",
+    "progressLabel": "Leith",
+    "character": "renton",
+    "coords": [-3.1739, 55.9739],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cables Wynd House, nicknamed the Banana Flats for its curve, is a real Leith building and is named in the wider Welsh writing; sited at the block itself.",
+    "reference": "Leith sections",
+    "order": 2,
+    "note": "A long, curving nine-storey council block on Cables Wynd, built in the mid 1960s and known to everyone in Leith as the Banana Flats for its shape. It is the home of Simon Williamson, the character called Sick Boy, and has become a landmark of the book's working-class Leith. The building is now category-A listed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cables Wynd House, Wikipedia, on the Banana Flats and their Trainspotting association",
+        "url": "https://en.wikipedia.org/wiki/Cables_Wynd_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leith-pub",
+    "name": "A Leith drinking den",
+    "progressLabel": "Leith",
+    "character": "renton",
+    "coords": [-3.1705, 55.9752],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's pubs are drawn from Leith's bars but not tied to one address; this marks the Port o' Leith Bar on Constitution Street as a representative example of the old dockside pubs the characters would have used.",
+    "reference": "Leith sections",
+    "order": 3,
+    "note": "Much of the book happens in Leith's pubs, where the drinking is heavy and the violence, especially around the character Begbie, is never far off. Welsh mixes invented bars with the feel of real ones; the Port o' Leith Bar on Constitution Street was one of the district's best-known dockside pubs of that era, and stands in here for the type.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Port O' Leith, CAMRA pub listing, for the Constitution Street bar",
+        "url": "https://camra.org.uk/pubs/port-o-leith-edinburgh-150909"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leith-central-station",
+    "name": "The old Leith Central station",
+    "progressLabel": "Leith",
+    "character": "renton",
+    "coords": [-3.1716, 55.9703],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The disused Leith Central station is named in the book and gives it its title; sited at the former station at the foot of Leith Walk.",
+    "reference": "Trainspotting at Leith Central",
+    "order": 4,
+    "note": "The station that gives the book its title. Leith Central closed to passengers in 1952 and shut completely in 1972, then stood derelict and was used by drug users. In the scene, two characters wander into the empty shed and a drunk old man mockingly asks if they are trainspotting; one of them realises the man is his own father. The site is now a supermarket and leisure building; the clock tower survives.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Leith Central railway station, Wikipedia, on the derelict station and the Trainspotting scene",
+        "url": "https://en.wikipedia.org/wiki/Leith_Central_railway_station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "princes-street",
+    "name": "Princes Street",
+    "progressLabel": "City centre",
+    "character": "renton",
+    "coords": [-3.1981, 55.9517],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Welsh names Princes Street, the main street of central Edinburgh; sited on the street itself.",
+    "reference": "City-centre sections",
+    "order": 5,
+    "note": "Edinburgh's grand central shopping street, the tourist face of the city, a short walk and a whole world away from Leith. The characters cross into it to shoplift and to move among the respectable crowds, and the gap between this Edinburgh and their own is part of the book's point.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Princes Street, Wikipedia, for the central Edinburgh thoroughfare",
+        "url": "https://en.wikipedia.org/wiki/Princes_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "progressLabel": "Outside Edinburgh",
+    "character": "renton",
+    "coords": [-0.1276, 51.5074],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The late section moves to London without pinning a single spot; this marks central London as the representative point of the excursion south.",
+    "reference": "London sections",
+    "order": 6,
+    "note": "Near the end the story leaves Scotland for London, where the group gathers to sell a large quantity of heroin. Renton, given the chance, walks off with almost all of the money, betraying his friends and setting up the escape that closes the book. London is the exit from Leith, and from the life the book has mapped.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Trainspotting (novel), Wikipedia, on the London deal and the ending",
+        "url": "https://en.wikipedia.org/wiki/Trainspotting_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
