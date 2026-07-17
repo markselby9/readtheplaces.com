@@ -1,0 +1,34 @@
+{
+  "id": "dona-barbara",
+  "title": "Doña Bárbara",
+  "author": "Rómulo Gallegos",
+  "published": 1929,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-68.6, 7.5],
+  "zoom": 7.4,
+  "setting": {
+    "city": "San Fernando de Apure",
+    "country": "VE",
+    "note": "The flooded savannah of Apure, where a Caracas lawyer comes home to a cattle ranch on the Arauca and finds a neighbour who has been swallowing his land. The map runs from the provincial capital and seat of law at San Fernando de Apure west across the open llanos to the great river, with the two rival ranches set among the plains between them.",
+    "bbox": [-70.6, 6.4, -66.4, 8.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Rómulo Gallegos, first published 1929. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://press.uchicago.edu/ucp/books/book/chicago/D/bo25781955.html",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Doña Bárbara, Rómulo Gallegos (1929). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red earth and dry-season dust of the llano. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "santos": {
+      "name": "Santos Luzardo",
+      "color": "#2E5064"
+    }
+  }
+}
