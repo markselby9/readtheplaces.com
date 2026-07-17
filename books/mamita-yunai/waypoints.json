@@ -1,0 +1,127 @@
+[
+  {
+    "id": "puerto-limon-port",
+    "name": "The port of Limón",
+    "progressLabel": "The Atlantic zone",
+    "character": "sibaja",
+    "coords": [-83.036, 9.9907],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Limón, the Caribbean port that is the gateway to the banana zone, is named directly; this marks the centre of the city and its harbour.",
+    "reference": "The banana-zone chapters",
+    "order": 1,
+    "note": "The Caribbean port through which the United Fruit Company shipped its bananas north and through which the migrant labourers arrived to look for work. Puerto Limón is the head of the railway that carries the story inland to the plantations, and the commercial heart of the exploited zone the workers nicknamed Mamita Yunai.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Puerto Limón, Wikipedia, for the port city's location and role in the banana trade",
+        "url": "https://en.wikipedia.org/wiki/Lim%C3%B3n"
+      },
+      {
+        "kind": "external",
+        "ref": "GPS coordinates of Puerto Limón, Costa Rica",
+        "url": "https://latitude.to/map/cr/costa-rica/cities/puerto-limon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "banana-railway-penshurst",
+    "name": "The banana railway at Penshurst",
+    "progressLabel": "The Atlantic zone",
+    "character": "sibaja",
+    "coords": [-82.9167, 9.7833],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Penshurst, the railway hamlet where the Estrella branch line met the coastal railway, is a real place; the specific camps the narrator rides through are inferred, as the novel's finca names are not tied to single stops.",
+    "reference": "The banana-zone chapters",
+    "order": 2,
+    "note": "The narrow-gauge railway the company built to move its fruit doubles as the only road into the plantations, and the labourers ride it out to the camps. Penshurst, on the line between Limón and the Estrella valley, stands for the rail spine along which the banana work and its abuses were organised.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Penshurst, Valle La Estrella, Limón, geographic feature record",
+        "url": "https://www.mindat.org/feature-3622443.html"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Rail transport in Costa Rica, Wikipedia, on the Caribbean banana railway",
+        "url": "https://en.wikipedia.org/wiki/Rail_transport_in_Costa_Rica"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "estrella-valley-pandora",
+    "name": "The plantations of the Estrella valley",
+    "progressLabel": "The linares",
+    "character": "sibaja",
+    "coords": [-82.9631, 9.7369],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Valle de la Estrella is named as the banana district; this marks Pandora at its centre. The particular fincas and worker camps the narrator labours on are inferred.",
+    "reference": "The banana-zone chapters",
+    "order": 3,
+    "note": "The Estrella valley is where the recollected banana work happens: the linares, the long rows of banana plants, cut through swampy lowland where the men clear, plant and harvest for wages the company keeps thin. Pandora sits at the heart of the valley the United Fruit Company turned into plantation.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Valle La Estrella, Wikipedia, on the banana-growing valley of Limón province",
+        "url": "https://en.wikipedia.org/wiki/Valle_La_Estrella"
+      },
+      {
+        "kind": "external",
+        "ref": "Elevation and coordinates for Pandora, Valle de La Estrella, Limón",
+        "url": "https://elevationmap.net/colonia-valle-de-la-estrella-limon-cr-1000345425"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rio-estrella-mouth",
+    "name": "The mouth of the Estrella river",
+    "progressLabel": "The linares",
+    "character": "sibaja",
+    "coords": [-82.8944, 9.7969],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Estrella river and its flooding are central to the banana-zone scenes; this marks its mouth on the Caribbean coast, midway between Limón and Cahuita.",
+    "reference": "The banana-zone chapters",
+    "order": 4,
+    "note": "The rivers that drain the Talamanca range flood the flat plantations, and the swollen Estrella is a constant danger to the men who cross and work beside it. Its mouth on the Caribbean coast marks where the banana lowland meets the sea, the low, waterlogged ground that made the labour so punishing.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Estrella River (Costa Rica), Wikipedia, for the river's course and mouth",
+        "url": "https://en.wikipedia.org/wiki/Estrella_River_(Costa_Rica)"
+      },
+      {
+        "kind": "external",
+        "ref": "Río Estrella feature record, coordinates of the river mouth",
+        "url": "https://www.mindat.org/feature-3623741.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talamanca-bribri",
+    "name": "The Talamanca elections at Bribrí",
+    "progressLabel": "The Talamanca elections",
+    "character": "sibaja",
+    "coords": [-82.8333, 9.6333],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Talamanca and its Bribri people frame the novel's electoral episode; this marks the town of Bribrí, the seat of the Talamanca canton.",
+    "reference": "The Talamanca frame chapters",
+    "order": 5,
+    "note": "The framing story sends the narrator into the indigenous Talamanca highlands as an electoral delegate, where he watches the Bribri people courted and cheated at the ballot. Bribrí, the town at the heart of the canton, anchors the highland journey that opens and closes the book around the banana-zone memories.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bribri, Talamanca, destination and location guide",
+        "url": "https://www.getamap.net/maps/costa_rica/limon/_bribri/"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Mamita Yunai, overview of Fallas's novel and its Talamanca electoral frame",
+        "url": "https://es.wikipedia.org/wiki/Mamita_Yunai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
