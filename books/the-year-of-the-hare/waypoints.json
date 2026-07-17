@@ -1,0 +1,117 @@
+[
+  {
+    "id": "helsinki-departure",
+    "name": "Helsinki",
+    "progressLabel": "The start",
+    "character": "vatanen",
+    "coords": [24.9384, 60.1699],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel begins with the journalist at work in the capital; this marks central Helsinki, the life he leaves behind.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "A tired newspaperman is stuck in Helsinki, worn down by his job and his marriage. He is driving out of the city on an assignment when the accident that changes everything happens, and the capital becomes the point he never goes back to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Helsinki, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Helsinki"
+      },
+      {
+        "kind": "external",
+        "ref": "The Year of the Hare, publisher summary, on the Helsinki journalist who abandons his life",
+        "url": "https://www.penguin.co.uk/books/181140/the-year-of-the-hare-by-paasilinna-arto/9780141043098"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "heinola-lake-country-roadside",
+    "name": "The lake country road, near Heinola",
+    "progressLabel": "The hare",
+    "character": "vatanen",
+    "coords": [26.0417, 61.2039],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book does not fix the exact roadside; it lies on the country roads north of Helsinki in the lake district, so this marks the town of Heinola as a representative point.",
+    "reference": "Early chapters",
+    "order": 2,
+    "note": "On a gravel road in the lake country the car clips a young hare and injures its leg. The man climbs out to find the animal in the ferns, decides to keep it, and simply does not return to the car or to his old life. From here the two of them start moving.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Heinola, Wikipedia, for the lake-district town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Heinola"
+      },
+      {
+        "kind": "external",
+        "ref": "The Year of the Hare, publisher summary, on the roadside collision that begins the journey",
+        "url": "https://www.penguin.co.uk/books/181140/the-year-of-the-hare-by-paasilinna-arto/9780141043098"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nilsia-forest-work",
+    "name": "Nilsiä",
+    "progressLabel": "The forests",
+    "character": "vatanen",
+    "coords": [28.0822, 63.2075],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nilsiä is named among the eastern places the wanderer passes through; this marks the town centre.",
+    "reference": "Middle chapters",
+    "order": 3,
+    "note": "Drifting north and east through Savo, the man takes casual work in the woods and villages, doing whatever a season needs. Around here he joins the effort against a forest fire that has broken out across the dry timberland, one of the odd jobs that fund his walk.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nilsiä, Wikipedia, for the town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Nilsi%C3%A4"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rovaniemi-lapland",
+    "name": "Rovaniemi, Lapland",
+    "progressLabel": "The north",
+    "character": "vatanen",
+    "coords": [25.7294, 66.5039],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lapland and its towns are named as the journey reaches the far north; this marks Rovaniemi, the gateway on the Arctic Circle.",
+    "reference": "Later chapters",
+    "order": 4,
+    "note": "The road carries him up into Lapland, the open country near the Arctic Circle where the seasons and the light are harsher. Rovaniemi stands for this northern stretch, the last big town before the forest thins toward the frontier.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rovaniemi, Wikipedia, for the Lapland town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Rovaniemi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kuhmo-eastern-border",
+    "name": "The eastern border, near Kuhmo",
+    "progressLabel": "The border",
+    "character": "vatanen",
+    "coords": [29.5163, 64.1284],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The story ends in the forests along the Soviet frontier without a named crossing point, so this marks the border town of Kuhmo as a representative point on that eastern edge.",
+    "reference": "Final chapters",
+    "order": 5,
+    "note": "The journey closes in the deep forest along the border with the Soviet Union, where a long chase after a bear leads the man across the line and into the hands of Soviet officials. Kuhmo stands for this last, easternmost reach of his year on the move.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kuhmo, Wikipedia, for the eastern border town coordinates",
+        "url": "https://en.wikipedia.org/wiki/Kuhmo"
+      },
+      {
+        "kind": "external",
+        "ref": "The Year of the Hare, book summary, on the bear chase across the Soviet border at the close",
+        "url": "https://www.goodreads.com/book/show/656876.The_Year_of_the_Hare"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
