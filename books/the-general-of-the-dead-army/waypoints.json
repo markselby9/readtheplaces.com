@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tirana-the-capital",
+    "name": "Tirana, the capital",
+    "progressLabel": "Arrival",
+    "character": "general",
+    "coords": [19.8189, 41.3275],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kadare names Tirana as the general's point of arrival; this marks the city centre.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The story opens as an Italian general lands in the Albanian capital, twenty years after the war, charged with digging up the bones of his country's soldiers and carrying them home. Accompanied by a priest, he takes his instructions and his maps here before setting out into the country.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tirana, Wikipedia, for the coordinates of the Albanian capital",
+        "url": "https://en.wikipedia.org/wiki/Tirana"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The General of the Dead Army, Wikipedia, on the plot and Albanian setting",
+        "url": "https://en.wikipedia.org/wiki/The_General_of_the_Dead_Army"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "durres-adriatic-port",
+    "name": "The port of Durrës",
+    "progressLabel": "The coast",
+    "character": "general",
+    "coords": [19.4414, 41.3231],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Adriatic coast and its harbour frame the novel; this marks Durrës, Albania's main port, west of Tirana.",
+    "reference": "Coastal chapters",
+    "order": 2,
+    "note": "Behind the whole expedition lies the Adriatic, the sea the dead soldiers once crossed to invade and by which the living now hope to ship them home. Durrës, the country's chief port a short way west of the capital, anchors that coastal edge of the map.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Durrës, Wikipedia, for the coordinates of Albania's principal port",
+        "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shkoder-northern-highlands",
+    "name": "The northern highlands near Shkodër",
+    "progressLabel": "Into the mountains",
+    "character": "general",
+    "coords": [19.5126, 42.0683],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kadare sends the search into the northern mountains; Shkodër marks the gateway to the northwestern highlands, though no single village is named as the route.",
+    "reference": "Mountain chapters",
+    "order": 3,
+    "note": "The general and the priest drive north into the rain and mud of the highlands, moving between remote villages where the war left graves in the fields and memories that have not softened. Shkodër, at the foot of the northern mountains, stands for this stretch of the journey.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shkodër, Wikipedia, for the coordinates of the northern city",
+        "url": "https://en.wikipedia.org/wiki/Shkod%C3%ABr"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The General of the Dead Army, Wikipedia, on the northern-Albania journey",
+        "url": "https://en.wikipedia.org/wiki/The_General_of_the_Dead_Army"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "highland-battlefield-kukes",
+    "name": "A highland battlefield",
+    "progressLabel": "The old front",
+    "character": "general",
+    "coords": [20.4143, 42.0807],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The specific battlefields are never named in the novel; this marks the Kukës highlands of the northeast as a representative point among the remote wartime fronts the pair search.",
+    "reference": "Mountain chapters",
+    "order": 4,
+    "note": "The pair work old battle sites scattered through the eastern mountains, matching regimental lists to bones pulled from the earth and puzzling over which unnamed hillside swallowed which lost company. The Kukës highlands stand in for these unnamed, remote fronts.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kukës, Wikipedia, for the coordinates of the northeastern highland town",
+        "url": "https://en.wikipedia.org/wiki/Kuk%C3%ABs"
+      },
+      {
+        "kind": "inference",
+        "ref": "Battlefield sites are unnamed in the text; the Kukës highlands are chosen as a representative point in the mountainous northeast",
+        "url": "https://en.wikipedia.org/wiki/The_General_of_the_Dead_Army"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "labourers-work-camp",
+    "name": "The labourers' work camp",
+    "progressLabel": "The work camp",
+    "character": "general",
+    "coords": [20.4287, 41.6849],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's work camp is not tied to a named village; this marks the Peshkopi area of the Dibër highlands as a representative mountain site where such digging would have gone on.",
+    "reference": "Mountain chapters",
+    "order": 5,
+    "note": "At one point the excavation halts at a camp of labourers set to turning over the ground, where the dry mechanics of counting and boxing the dead press hardest on the general's nerve. Kadare leaves the camp unplaced; the mountain country around Peshkopi stands for it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Peshkopi, Wikipedia, for the coordinates of the Dibër highland town",
+        "url": "https://en.wikipedia.org/wiki/Peshkopi"
+      },
+      {
+        "kind": "inference",
+        "ref": "The work camp is unnamed in the text; the Peshkopi highlands are chosen as a representative mountain location",
+        "url": "https://en.wikipedia.org/wiki/The_General_of_the_Dead_Army"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
