@@ -1,0 +1,34 @@
+{
+  "id": "three-apples-fell-from-the-sky",
+  "title": "Three Apples Fell from the Sky",
+  "author": "Narine Abgaryan",
+  "published": 2015,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [45.32, 40.86],
+  "zoom": 9.4,
+  "setting": {
+    "city": "Berd",
+    "country": "AM",
+    "note": "A remote mountain village called Maran, clinging to a high ridge in the Armenian highlands, where a few dozen elderly villagers outlive famine, earthquake and war and a late love still finds room to grow. Maran is invented, but it is drawn from the author's own home town of Berd in the Tavush region of north-eastern Armenia, so the map anchors the story in the real Tavush highlands rather than a fictional coordinate.",
+    "bbox": [44.8, 40.6, 45.7, 41.05]
+  },
+  "rights": {
+    "originalWork": "In copyright. Narine Abgaryan, first published in Russian in 2015. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "English translation by Lisa C. Hayden (Oneworld, 2020). None of it is stored or reproduced here; the map cites places and scenes only.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://oneworld-publications.com/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Three Apples Fell from the Sky, Narine Abgaryan (2015). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The rust-red of highland earth and old tile roofs above the Tavush valley. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "anatolia": {
+      "name": "Anatolia",
+      "color": "#2E5064"
+    }
+  }
+}

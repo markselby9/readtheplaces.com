@@ -1,0 +1,112 @@
+[
+  {
+    "id": "maran-mountain-village",
+    "name": "Maran, the mountain village",
+    "progressLabel": "The village",
+    "character": "anatolia",
+    "coords": [45.3805, 40.8925],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Maran is a fictional village and has no real coordinate. Abgaryan has said it is drawn from her home town of Berd, so we site it on the high ground just above Berd, where such a ridge settlement would sit.",
+    "reference": "Throughout",
+    "order": 1,
+    "note": "The whole novel unfolds in Maran, a shrinking village on a mountain ridge cut off from the world below, where a handful of old people keep going after their children have left and disaster after disaster has thinned the population. The village is invented, but the author places its spirit firmly in the Tavush highlands she grew up in.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Narine Abgaryan interview, PanARMENIAN, on Berd as the real ground of her fiction",
+        "url": "https://www.panarmenian.net/m/eng/interviews/242694"
+      },
+      {
+        "kind": "guide",
+        "ref": "Berd, Wikipedia, on the town surrounded by mountains that inspired the setting",
+        "url": "https://en.wikipedia.org/wiki/Berd"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "berd-home-town",
+    "name": "Berd, the author's home town",
+    "progressLabel": "The town",
+    "character": "anatolia",
+    "coords": [45.39167, 40.88083],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Berd is a real town and the acknowledged source for the fictional Maran. The novel does not name it, but Abgaryan repeatedly points to Berd as the place her village is built from.",
+    "reference": "Throughout",
+    "order": 2,
+    "note": "Berd is the real town in the Tavush region where Abgaryan was born and raised, west of the Tavush River and ringed by low mountains about two hundred kilometres from Yerevan. Its remoteness, its emptying streets and its highland weather all feed the imagined village of Maran.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Berd, Wikipedia, for the town's location and coordinates in Tavush",
+        "url": "https://en.wikipedia.org/wiki/Berd"
+      },
+      {
+        "kind": "author",
+        "ref": "Narine Abgaryan interview, PanARMENIAN, on Berd as home and the heart of her Armenia",
+        "url": "https://www.panarmenian.net/m/eng/interviews/242694"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tavush-highlands",
+    "name": "The Tavush highlands",
+    "progressLabel": "The region",
+    "character": "anatolia",
+    "coords": [45.2, 40.82],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The fictional Maran sits in mountains like these. This marks a representative point in the Tavush highlands south-west of Berd, the wider landscape the novel is set among; it does not fix an exact scene.",
+    "reference": "Throughout",
+    "order": 3,
+    "note": "The book's world is the forested, folded mountain country of north-eastern Armenia, where villages perch on ridges reached by a single road and winters cut them off for weeks. This is the real Tavush landscape whose isolation shapes every story in the novel.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tavush Province, Wikipedia, on the mountainous north-eastern region of Armenia",
+        "url": "https://en.wikipedia.org/wiki/Tavush"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ijevan-provincial-town",
+    "name": "Ijevan, the road to the valley",
+    "progressLabel": "The valley",
+    "character": "anatolia",
+    "coords": [45.1485, 40.8788],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Not named in the novel. Ijevan is the administrative centre of Tavush and the nearest larger town on the valley floor, standing here for the world below the mountain that the villagers rarely reach.",
+    "reference": "Throughout",
+    "order": 4,
+    "note": "Ijevan is the real provincial capital of Tavush, down in the river valley and connected to the outside world in a way the ridge villages are not. It stands for the lowland towns the people of Maran must travel to for whatever the mountain cannot supply.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ijevan, Wikipedia, for the provincial capital of Tavush and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Ijevan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chinari-frontier-village",
+    "name": "Chinari, a village on the frontier",
+    "progressLabel": "The frontier",
+    "character": "anatolia",
+    "coords": [45.57194, 40.84972],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Not named in the novel. Chinari is a real border village of the Berd district; it marks the frontier edge of the same highlands, where the wars that haunt Maran left their mark.",
+    "reference": "Throughout",
+    "order": 5,
+    "note": "The novel's grief is partly the grief of the border: sons and neighbours lost to war, houses emptied by fighting. Chinari, a real village of the Berd district hard against the Armenia-Azerbaijan line, shows how close the frontier runs to the highland communities the book imagines.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Chinari, Armenia, Wikipedia, on the border village of the Berd Municipality in Tavush",
+        "url": "https://en.wikipedia.org/wiki/Chinari,_Armenia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
