@@ -1,0 +1,127 @@
+[
+  {
+    "id": "new-york-departure",
+    "name": "New York",
+    "progressLabel": "Part One",
+    "character": "sal",
+    "coords": [-73.9857, 40.7484],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kerouac names New York plainly; the narrator lives with an aunt across the river in New Jersey and treats Manhattan as his home base. The point marks midtown Manhattan as the eastern hub of the journeys, not a single named address.",
+    "reference": "Part One, chapter 1",
+    "order": 1,
+    "note": "The story begins in New York, where the narrator is drifting after an illness and a broken marriage until a live-wire friend from the West sets his mind on the road. Every long trip in the book starts or ends here, the city he keeps returning to before striking out again.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "On the Road, Wikipedia, on the New York starting point and the cross-country structure",
+        "url": "https://en.wikipedia.org/wiki/On_the_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "Manhattan, Wikipedia, for the borough coordinates",
+        "url": "https://en.wikipedia.org/wiki/Manhattan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "denver-crossroads",
+    "name": "Denver",
+    "progressLabel": "Part One",
+    "character": "sal",
+    "coords": [-104.9847, 39.7392],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Denver is named throughout and is the friend's home town; the point marks the city centre rather than any one bar or rooming house.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "Denver is the great middle of the book, the place where the two friends' circles collide and the parties never quite stop. Hitching and busing out from the East, the narrator lands here first, among old crowds and new schemes, before pressing on to the coast.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "On the Road, Wikipedia, on Denver as a central hub of the travels",
+        "url": "https://en.wikipedia.org/wiki/On_the_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "Denver, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Denver"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "san-francisco-bay",
+    "name": "San Francisco",
+    "progressLabel": "Part One",
+    "character": "sal",
+    "coords": [-122.4194, 37.7749],
+    "placeCertainty": "explicit",
+    "certaintyNote": "San Francisco and the Bay are named directly; the point marks the city as the western end of the crossing, with specific rooms and jobs left unlocated.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "San Francisco is the far western wall the continent runs into, reached after a hard haul across the plains and the mountains. Broke and hungry by the water, the narrator works and wanders the Bay before the pull of the East and the road turns him around again.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "On the Road, Wikipedia, on San Francisco and the Bay as the western terminus",
+        "url": "https://en.wikipedia.org/wiki/On_the_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "San Francisco, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "algiers-new-orleans",
+    "name": "Algiers, across the river from New Orleans",
+    "progressLabel": "Part Two",
+    "character": "sal",
+    "coords": [-90.0532, 29.9532],
+    "placeCertainty": "explicit",
+    "certaintyNote": "New Orleans and the friend's house in Algiers across the Mississippi are named; the specific house is not locatable, so the point marks Algiers Point, the historic west-bank neighbourhood reached by ferry.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "On the long winter drive south and east, the travellers stop at a friend's house in Algiers, the old neighbourhood on the far bank of the Mississippi from New Orleans, crossing back over on the ferry into the city itself. It is the Gulf-coast pause before the group swings west once more.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "On the Road, Wikipedia, on the New Orleans and Algiers stop in Part Two",
+        "url": "https://en.wikipedia.org/wiki/On_the_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "Algiers Point, Wikipedia, for the west-bank neighbourhood coordinates",
+        "url": "https://en.wikipedia.org/wiki/Algiers_Point"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mexico-city-end-of-the-road",
+    "name": "Mexico City",
+    "progressLabel": "Part Four",
+    "character": "sal",
+    "coords": [-99.1332, 19.4326],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mexico City is named as the destination of the plunge south; the point marks the city centre, with the fever-dream lodgings left unlocated.",
+    "reference": "Part Four",
+    "order": 5,
+    "note": "The final great trip runs the length of Mexico to its capital, the farthest the road ever carries the narrator. Mexico City is the end of the line, where fever, wonder and a friend's departure leave him alone at the bottom of the continent, the journey's real terminus.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "On the Road, Wikipedia, on the Part Four journey to Mexico City",
+        "url": "https://en.wikipedia.org/wiki/On_the_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mexico City, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mexico_City"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
