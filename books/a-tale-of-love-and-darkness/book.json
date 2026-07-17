@@ -1,0 +1,35 @@
+{
+  "id": "a-tale-of-love-and-darkness",
+  "title": "A Tale of Love and Darkness",
+  "author": "Amos Oz",
+  "published": 2002,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [35.219, 31.786],
+  "zoom": 12.2,
+  "setting": {
+    "city": "Jerusalem",
+    "country": "IL",
+    "date": "1940s",
+    "note": "Oz's memoir maps a bookish, threadbare childhood in late-Mandate Jerusalem: a cramped basement flat in Kerem Avraham, the reading rooms of the National Library and the university on Mount Scopus, and the night the streets filled to celebrate the United Nations vote for partition. The map runs from the poor prophet-named streets of the north out east to the campus on the ridge and down into the heart of downtown.",
+    "bbox": [35.18, 31.74, 35.27, 31.81]
+  },
+  "rights": {
+    "originalWork": "In copyright. Amos Oz, first published in Hebrew in 2002. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/158755/a-tale-of-love-and-darkness-by-amos-oz/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Tale of Love and Darkness, Amos Oz (2002). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "A muted Jerusalem-stone blue-grey, the colour of dusk over the ridge. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "amos": {
+      "name": "Amos",
+      "color": "#8A3B1E"
+    }
+  }
+}

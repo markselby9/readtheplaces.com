@@ -1,0 +1,123 @@
+[
+  {
+    "id": "kerem-avraham-basement-flat",
+    "name": "The family's basement flat, Amos Street",
+    "progressLabel": "Kerem Avraham",
+    "character": "amos",
+    "coords": [35.2145, 31.7898],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Kerem Avraham and Amos Street are real and named, but the memoir does not turn the flat into a museum address, so this marks a representative point on Amos Street in the neighbourhood where the family lived.",
+    "reference": "The Kerem Avraham childhood",
+    "order": 1,
+    "note": "The centre of the book is a small, damp, book-lined flat on the ground floor of a building in Kerem Avraham, a poor neighbourhood in the north of the city whose streets carry the names of Hebrew prophets. The boy grows up here among his parents' languages, arguments and unspoken griefs, with the wider world reaching him mostly through books.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Amos Oz, Wikipedia, on his birth and childhood at No. 18 Amos Street in Kerem Avraham",
+        "url": "https://en.wikipedia.org/wiki/Amos_Oz"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kerem Avraham, Wikipedia, for the neighbourhood and its location",
+        "url": "https://en.wikipedia.org/wiki/Kerem_Avraham"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "national-library-mount-scopus",
+    "name": "The National Library and Hebrew University, Mount Scopus",
+    "progressLabel": "The library",
+    "character": "amos",
+    "coords": [35.2445, 31.7927],
+    "placeCertainty": "explicit",
+    "certaintyNote": "In the late Mandate the national and university library and the Hebrew University shared the Mount Scopus campus, which the book names directly; sited on the ridge campus.",
+    "reference": "The library and the university",
+    "order": 2,
+    "note": "Learning is the family religion, and the library is its temple. Relatives and friends move through the reading rooms of the national library and the university out on Mount Scopus, the long ridge east of the city, where scholarship and the dream of a renewed Hebrew culture come together above the desert light.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hebrew University of Jerusalem, Wikipedia, on the Mount Scopus campus and the national library housed there",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mount Scopus, Wikipedia, for the ridge and campus coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mount_Scopus"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "national-institutions-house-partition",
+    "name": "National Institutions House, the partition-vote night",
+    "progressLabel": "29 November 1947",
+    "character": "amos",
+    "coords": [35.2159, 31.7766],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The memoir describes the crowds that poured into the streets after the vote rather than naming a single building; this marks the courtyard of the Jewish Agency's National Institutions House, the documented focal point of the celebrations in Jerusalem.",
+    "reference": "The night of the UN partition vote",
+    "order": 3,
+    "note": "On the night in late November 1947 when the United Nations voted for partition, the city stayed up to listen and then spilled into the streets. Strangers danced and wept together, and the crowds converged on the courtyard of the Jewish Agency, the fortress-like seat of the Zionist institutions where the hope of a state had been kept alive.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "National Institutions House, Wikipedia, on the Jewish Agency building and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/National_Institutions_House"
+      },
+      {
+        "kind": "guide",
+        "ref": "United Nations Partition Plan for Palestine, Wikipedia, on the 29 November 1947 vote and the celebrations that followed",
+        "url": "https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zion-square-downtown",
+    "name": "Zion Square, downtown Jerusalem",
+    "progressLabel": "Into town",
+    "character": "amos",
+    "coords": [35.21972, 31.78194],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book's outings into the centre of Jerusalem move through the shops and cafes of Jaffa Road and Ben Yehuda Street without fixing on one address; Zion Square, the meeting point of those streets, marks the heart of that downtown.",
+    "reference": "Downtown Jerusalem",
+    "order": 4,
+    "note": "Trips into town are events: a cafe, a bookshop, a careful conversation among adults who had come from Europe and were remaking themselves in a new language. The commercial heart of Jewish Jerusalem in those years was the knot of streets around Zion Square, where Jaffa Road meets Ben Yehuda Street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zion Square, Wikipedia, on the downtown square and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Zion_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kibbutz-hulda",
+    "name": "Kibbutz Hulda",
+    "progressLabel": "Hulda",
+    "character": "amos",
+    "coords": [34.883, 31.8316],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The memoir names Hulda as the kibbutz the teenage narrator leaves the city for; sited at the kibbutz, about forty kilometres west of Jerusalem, outside the book's Jerusalem setting.",
+    "reference": "The move to Kibbutz Hulda",
+    "order": 5,
+    "note": "As a teenager, after the loss that shadows the book, the narrator leaves Jerusalem to start again on a kibbutz in the coastal plain, even taking a new surname. Hulda, among fields and the pine woods on the road up to the city, is where the bookish child tries to become a labourer and, in time, a writer.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hulda, Israel, Wikipedia, on the kibbutz where Oz spent his youth and for its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hulda,_Israel"
+      },
+      {
+        "kind": "guide",
+        "ref": "Amos Oz, Wikipedia, on his move to Kibbutz Hulda as a teenager",
+        "url": "https://en.wikipedia.org/wiki/Amos_Oz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
