@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kallafo-ogaden",
+    "name": "Kallafo (Qallaafo), the Ogaden",
+    "progressLabel": "Part One",
+    "character": "askar",
+    "coords": [44.2056, 5.5889],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kallafo (Qallaafo, today spelled Kelafo) is a real town on the Shebelle in the Ogaden, the Somali-speaking region of eastern Ethiopia that Somalia disputed and briefly held in the 1977 war; coordinates mark the town.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The boy is born and raised here after his parents are gone, brought up by a woman who is not his mother in a frontier town of the Ogaden. The place matters because it is Somali in speech and Ethiopian on the map, the exact contradiction the novel keeps circling.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kelafo, Wikipedia, on the town on the Shebelle in Ethiopia's Somali Region and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Kelafo"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Ogaden, Wikipedia, on the disputed Somali region of eastern Ethiopia and the 1977 war",
+        "url": "https://en.wikipedia.org/wiki/Ogaden"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shebelle-river-kallafo",
+    "name": "The Shebelle river at Kallafo",
+    "progressLabel": "Part One",
+    "character": "askar",
+    "coords": [44.19, 5.58],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Shebelle is a real river that runs through Kallafo in the Ogaden of Ethiopia, the disputed Somali region; the point marks the river as it passes the town, not a scene named to the metre.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The river gives the childhood landscape its seasons of flood and drought and its farming life along the banks. It is also a thread that ties the inland Ogaden to the coast, since the same Shebelle bends south toward Somalia before it dies in the sand near the ocean.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shebelle River, Wikipedia, on the river's course through the Ogaden and Somalia",
+        "url": "https://en.wikipedia.org/wiki/Shebelle_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kelafo, Wikipedia, on the bridge and the Shebelle passing the town",
+        "url": "https://en.wikipedia.org/wiki/Kelafo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "family-compound-kallafo",
+    "name": "The family compound near Kallafo",
+    "progressLabel": "Part One",
+    "character": "askar",
+    "coords": [44.215, 5.592],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The household is not tied to a mapped address; this marks a representative point at the edge of Kallafo, which lies in the Ogaden of Ethiopia, the disputed Somali region.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The daily world of the small boy is a single household on the town's edge, where the woman raising him is the whole of his early life. We place it as a representative point beside Kallafo rather than a surveyed plot, since the novel keeps the home intimate rather than mapped.",
+    "sources": [
+      {
+        "kind": "inference",
+        "ref": "Editorial placement at the edge of Kallafo, the childhood town, as a representative household point",
+        "url": "https://en.wikipedia.org/wiki/Kelafo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mogadishu-capital",
+    "name": "Mogadishu, the Somali capital",
+    "progressLabel": "Part Two",
+    "character": "askar",
+    "coords": [45.3438, 2.0371],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mogadishu, the coastal capital of Somalia on the Indian Ocean, is named in the novel; coordinates mark the city.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The boy is sent roughly eight hundred kilometres south to the capital, to live with an uncle and aunt and to be schooled into adulthood. The city is where his questions turn political: what a Somali is, what the nation's borders mean, and whether a map can hold a people the frontier has split.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mogadishu, Wikipedia, on the Somali capital on the Indian Ocean and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mogadishu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hamar-weyne-old-town",
+    "name": "Hamar Weyne, the old town of Mogadishu",
+    "progressLabel": "Part Three",
+    "character": "askar",
+    "coords": [45.334, 2.027],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The uncle's household is not given a mapped address; this marks Hamar Weyne, the historic coastal quarter of Mogadishu, as a representative point for the boy's city life.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "Adulthood arrives in the older seaward part of the capital, among the coral-stone lanes near the ocean where his relatives' life is set. We anchor the household in Hamar Weyne, Mogadishu's ancient quarter, as a stand-in for the family home the novel never pins to a street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hamar Weyne, Wikipedia, on the historic coastal district of Mogadishu",
+        "url": "https://en.wikipedia.org/wiki/Hamar_Weyne"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
