@@ -1,0 +1,127 @@
+[
+  {
+    "id": "rizal-avenue-movie-houses",
+    "name": "The movie houses of the Avenue",
+    "progressLabel": "Part One",
+    "character": "rio",
+    "coords": [120.982, 14.6045],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Rizal Avenue, the Avenida, is named and real; its grand cinemas clustered in the Santa Cruz stretch. The exact theatre is not fixed here, so this marks a representative point along the avenue's old movie-palace row.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The novel opens with the young narrator and her cousin at the pictures, an American melodrama flickering in a cooled, gilded hall. Those palaces stood along Rizal Avenue, the downtown thoroughfare Manilenos called the Avenida, whose picture houses defined the city's imported dream life in the 1950s.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rizal Avenue, Wikipedia, on the Avenida and its Santa Cruz cinema district",
+        "url": "https://en.wikipedia.org/wiki/Rizal_Avenue"
+      },
+      {
+        "kind": "heritage",
+        "ref": "List of Art Deco theaters in Metro Manila, Wikipedia, on the movie palaces of the Avenue",
+        "url": "https://en.wikipedia.org/wiki/List_of_Art_Deco_theaters_in_Metro_Manila"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "escolta-department-stores",
+    "name": "Escolta",
+    "progressLabel": "Part One",
+    "character": "rio",
+    "coords": [120.97753, 14.59638],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Escolta is a named, real street in Binondo; coordinates mark the historic commercial stretch by the Pasig.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The narrator's Manila is also a city of shopping and display, the smart downtown where old money and new appetite meet. Escolta, the colonial commercial street in Binondo just north of the river, was the city's premier address for department stores and cafes, the setting for that world of imported goods and status.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Escolta Street, Wikidata, for the street's location in Binondo",
+        "url": "https://www.wikidata.org/wiki/Q15216775"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Cinemas and Theaters of Old Manila, TriptheIslands, on downtown Manila's commercial heart",
+        "url": "https://triptheislands.com/featured/the-cinemas-and-theaters-of-old-manila/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ermita-nightclubs",
+    "name": "The nightclubs of Ermita",
+    "progressLabel": "Part One",
+    "character": "rio",
+    "coords": [120.9808, 14.5868],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's bars and clubs are not tied to one named address; Ermita and its Mabini Street strip were Manila's nightlife quarter in the Marcos era, so this marks that district as a representative point.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Night in the novel belongs to hostesses, hustlers and foreign visitors moving through smoky clubs and hotel bars. Ermita, along Mabini Street south of the old walled city, was Manila's nightlife district in these years, the natural ground for those neon-lit scenes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ermita, Wikipedia, on the district's coordinates and its nightlife strip",
+        "url": "https://en.wikipedia.org/wiki/Ermita"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ermita and Malate Nightlife, The Trip Guru, on the Mabini Street nightlife area",
+        "url": "https://thetripguru.com/destination/place/ermita-and-malate/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tondo-slums",
+    "name": "Tondo",
+    "progressLabel": "Part Two",
+    "character": "rio",
+    "coords": [120.967, 14.617],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tondo is a named, real district of Manila; coordinates mark the district centre in the city's northwest.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "Against the palaces and clubs the novel sets the other Manila, the crowded poverty from which some of its characters climb and to which the city keeps returning. Tondo, in the northwest by the port, was the largest and most densely packed of the city's districts, shorthand for the slums the dictatorship's glamour tried to hide.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tondo, Manila, GPS coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/ph/philippines/8228/tondo-manila"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tondo, Manila, latlong.info, for the district coordinates",
+        "url": "https://latlong.info/philippines/metro-manila/tondo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malacanang-palace",
+    "name": "Malacanang Palace",
+    "progressLabel": "Part Two",
+    "character": "rio",
+    "coords": [120.99435, 14.59396],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Malacanang, the presidential palace, is a named, real building on the Pasig in San Miguel; coordinates mark the palace itself.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "At the top of the novel's world sits the presidential palace, source of the favours, the fear and the violence that reach every other place on this map. Malacanang stands on the north bank of the Pasig in San Miguel, the seat of the Marcos-era power the book anatomises.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Malacanang Palace, Wikidata, for the palace coordinates",
+        "url": "https://www.wikidata.org/wiki/Q942688"
+      },
+      {
+        "kind": "guide",
+        "ref": "GPS coordinates for Malacanang Palace, CoordinatesFinder.com",
+        "url": "https://www.coordinatesfinder.com/coordinates/977650-malacanang-palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
