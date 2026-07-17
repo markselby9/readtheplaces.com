@@ -1,0 +1,122 @@
+[
+  {
+    "id": "casco-viejo-old-quarter",
+    "name": "Casco Viejo, the old quarter",
+    "progressLabel": "Part One",
+    "character": "pendel",
+    "coords": [-79.535, 8.9525],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places its old-city scenes in the historic colonial quarter of Panama City, named in the text; this marks the centre of Casco Viejo, also called Casco Antiguo or San Felipe.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story's heart is the faded colonial old town, a grid of Spanish balconies and crumbling stucco a short walk from the banking towers. Casco Viejo is where the tailor keeps his shop and his customers gather to gossip and be measured, and where the city's oldest money and its street poverty rub together.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Casco Viejo, Panama, Wikipedia, for the district and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Casco_Viejo,_Panama"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pendel-and-braithwaite-shop",
+    "name": "Pendel & Braithwaite, the tailor's shop",
+    "progressLabel": "Part One",
+    "character": "pendel",
+    "coords": [-79.5341, 8.9531],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Pendel's shop, Pendel & Braithwaite, is invented; the novel sites it in the old colonial city, so this marks a representative point in Casco Viejo near the old-quarter streets the book describes.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The tailor's shop, styled as a genteel English house of cloth, is where Harry Pendel dresses the powerful and, cornered by a British spy, begins to sell them stories he has stitched together. The shop is fictional, but the book roots it firmly in the colonial old town among the bankers, ministers and fixers who pass through.",
+    "sources": [
+      {
+        "kind": "inference",
+        "ref": "Placed within Casco Viejo per the novel's own siting of the shop in the old colonial quarter",
+        "url": "https://en.wikipedia.org/wiki/The_Tailor_of_Panama"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palacio-de-las-garzas",
+    "name": "Palacio de las Garzas, the presidential palace",
+    "progressLabel": "Part One",
+    "character": "pendel",
+    "coords": [-79.534364, 8.953966],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The presidential palace is a real building in Casco Viejo; the novel turns on access to Panama's rulers, and this marks the Palacio de las Garzas.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The seat of Panama's president stands in the old quarter, its courtyard famous for the herons that give it its name. The tailor's supposed value to London rests on his closeness to men like the president, and the palace stands for the circle of power the invented intelligence claims to reach.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palacio de las Garzas, Wikipedia, for the presidential palace and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Palacio_de_las_Garzas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "area-bancaria-banking-district",
+    "name": "The banking district",
+    "progressLabel": "Part Two",
+    "character": "pendel",
+    "coords": [-79.5186, 8.9831],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel contrasts the old town with the modern banking quarter of glass towers; this marks the Area Bancaria along Vía España and Calle 50.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "A short drive from the colonial streets, the banking quarter rises in mirrored towers where the region's money is laundered, lent and hidden. The book uses this district as the modern face of Panama, the discreet finance that makes the country matter to the spies circling it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Downtown Panama City and the Area Bancaria financial district, Fodor's Travel",
+        "url": "https://www.fodors.com/world/mexico-and-central-america/panama/panama-city/things-to-do/sights/reviews/area-bancaria-453697"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "miraflores-locks",
+    "name": "The Miraflores Locks",
+    "progressLabel": "Part Two",
+    "character": "pendel",
+    "coords": [-79.59187, 8.99708],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Panama Canal and its locks are named in the novel; this marks the Miraflores Locks, the set nearest the Pacific entrance.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The canal is the prize behind the whole plot, and the Miraflores Locks are its most visible engine, lifting ships between the ocean and the inland lakes. As the 1999 handover nears, the waterway's future is the secret everyone pretends to know, and the tailor's fictions feed on that anxiety.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Miraflores locks, Wikipedia, for the locks and their coordinates",
+        "url": "https://en.wikipedia.org/wiki/Miraflores_locks"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bridge-of-the-americas",
+    "name": "The Bridge of the Americas",
+    "progressLabel": "Part Three",
+    "character": "pendel",
+    "coords": [-79.565, 8.9431],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The bridge over the Pacific mouth of the canal is a real landmark near the city; this marks the Bridge of the Americas.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "The great road bridge arches over the Pacific entrance to the canal, tying the city to the country beyond and marking the threshold between the isthmus and the sea. It stands over the waterway that drives the novel, the point where Panama's land meets the trade route the powers are fighting to control.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bridge of the Americas, Wikipedia, for the bridge and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bridge_of_the_Americas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

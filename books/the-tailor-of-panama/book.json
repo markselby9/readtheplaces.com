@@ -1,0 +1,34 @@
+{
+  "id": "the-tailor-of-panama",
+  "title": "The Tailor of Panama",
+  "author": "John le Carré",
+  "published": 1996,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-79.545, 8.97],
+  "zoom": 11.5,
+  "setting": {
+    "city": "Panama City",
+    "country": "PA",
+    "note": "Le Carré's Panama City in the last years before the 1999 canal handover: a cramped colonial old town under the glass banking towers, the canal cutting inland to the locks, the rich hills and the poor barrios all held together by rumour and money. An expatriate tailor, flattered and squeezed by a British intelligence man, invents a country's secrets from his shop. The map runs from Casco Viejo out along the waterway to Miraflores and the Bridge of the Americas.",
+    "bbox": [-79.62, 8.92, -79.5, 9.02]
+  },
+  "rights": {
+    "originalWork": "In copyright. John le Carré, first published 1996. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/24800/the-tailor-of-panama-by-le-carre-john/9780241322369",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Tailor of Panama, John le Carré (1996). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the canal water and the isthmus jungle that crowds the city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "pendel": {
+      "name": "Harry Pendel",
+      "color": "#8A3B1E"
+    }
+  }
+}
