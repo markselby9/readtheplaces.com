@@ -1,0 +1,129 @@
+[
+  {
+    "id": "shona-dhanmondi",
+    "name": "Shona, the house in Dhanmondi",
+    "progressLabel": "March 1971",
+    "character": "rehana",
+    "coords": [90.376015, 23.746466],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The house Shona is invented, but the novel places it plainly in Dhanmondi; this marks the centre of that district, the planned residential area laid out for East Pakistan's elite in the 1950s.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The widow Rehana Haque has raised a second house, which she calls Shona, in the garden of her Dhanmondi home and lets it to tenants to hold the family together. As 1971 opens, her grown son and daughter gather here while the political crisis in East Pakistan sharpens toward war.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dhanmondi Thana, Banglapedia, on the district's planning as a residential area from the early 1950s",
+        "url": "https://en.banglapedia.org/index.php/Dhanmondi_Thana"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dhanmondi, Dhaka, latlong.net, for the district coordinates",
+        "url": "https://www.latlong.net/place/dhanmondi-dhaka-bangladesh-6536.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "university-of-dhaka",
+    "name": "University of Dhaka",
+    "progressLabel": "25 March 1971",
+    "character": "rehana",
+    "coords": [90.3908, 23.735],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The campus is named in the book; coordinates mark the main University of Dhaka campus at Shahbagh, beside Ramna.",
+    "reference": "March 1971 chapters",
+    "order": 2,
+    "note": "On the night of 25 March 1971 the Pakistan Army launched Operation Searchlight and stormed the university's halls of residence, killing students, teachers and staff. In the novel this crackdown marks the start of the Bangladesh Liberation War and pulls the family from ordinary life into the fight.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "1971 Dhaka University massacre, Wikipedia, on the 25 March attack on the campus",
+        "url": "https://en.wikipedia.org/wiki/1971_Dhaka_University_massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "University of Dhaka, latitude.to, for the campus coordinates",
+        "url": "https://latitude.to/articles-by-country/bd/bangladesh/7329/university-of-dhaka"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ramna-under-curfew",
+    "name": "Ramna, under curfew",
+    "progressLabel": "Spring 1971",
+    "character": "rehana",
+    "coords": [90.40071, 23.73785],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ramna is a real central district of Dhaka; coordinates mark Ramna Park, its green heart beside the university.",
+    "reference": "1971 chapters",
+    "order": 3,
+    "note": "With the army in the streets, Dhaka spent much of 1971 under curfew. Ramna, the central district of parkland and colonial avenues next to the university, is where the city's public life and its danger overlapped, and where the family moves through checkpoints and shuttered roads.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ramna Park, Wikipedia, on the central Dhaka district and its park",
+        "url": "https://en.wikipedia.org/wiki/Ramna_Park"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ramna Thana, latitude.to, for the district coordinates",
+        "url": "https://latitude.to/articles-by-country/bd/bangladesh/109128/ramna-thana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "calcutta",
+    "name": "Calcutta",
+    "progressLabel": "Mid 1971",
+    "character": "rehana",
+    "coords": [88.363892, 22.572645],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Calcutta, today's Kolkata, is named in the book; coordinates mark the city centre. A deliberate excursion beyond the Dhaka setting.",
+    "reference": "Later chapters",
+    "order": 4,
+    "note": "As the war drove millions of refugees over the border into India, the road out of East Pakistan led to Calcutta, the West Bengal capital that became the centre of the exile Bangladeshi government and the relief effort. The novel follows the family there, far from the Dhaka setting.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kolkata, latlong.net, for the city-centre coordinates",
+        "url": "https://www.latlong.net/place/kolkata-west-bengal-india-257.html"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Mukti Bahini, Wikipedia, on the Bangladeshi war effort based across the Indian border",
+        "url": "https://en.wikipedia.org/wiki/Mukti_Bahini"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "border-camp-petrapole",
+    "name": "The border camp near Petrapole",
+    "progressLabel": "1971",
+    "character": "rehana",
+    "coords": [88.83, 23.0],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The camp is not a named place; coordinates mark the Petrapole crossing in West Bengal, opposite Benapole, as a representative point for the guerrilla camps strung along the frontier.",
+    "reference": "Later chapters",
+    "order": 5,
+    "note": "Guerrilla fighters of the Mukti Bahini trained and sheltered in camps just inside India along the border. The novel takes the family to such a camp near the frontier; Petrapole, facing Benapole across the line, was one of the main crossing points during the 1971 war. A deliberate excursion beyond the Dhaka setting.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Petrapole, Wikipedia, for the border-crossing coordinates in North 24 Parganas",
+        "url": "https://en.wikipedia.org/wiki/Petrapole"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "How the Mukti Bahini was trained, The Daily Star, on the training camps across the Indian border",
+        "url": "https://www.thedailystar.net/in-focus/news/how-the-mukti-bahini-was-trained-2097481"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

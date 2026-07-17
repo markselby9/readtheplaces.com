@@ -1,0 +1,35 @@
+{
+  "id": "a-golden-age",
+  "title": "A Golden Age",
+  "author": "Tahmima Anam",
+  "published": 2007,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [90.388, 23.74],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Dhaka",
+    "country": "BD",
+    "date": "1971",
+    "note": "Dhaka in 1971, then the capital of East Pakistan, as the Bangladesh Liberation War begins. A widow and her grown children are drawn into the fight from a family house in the planned district of Dhanmondi, past the university where the March crackdown starts, out along the refugee road to Calcutta and a guerrilla camp near the border.",
+    "bbox": [90.3, 23.68, 90.46, 23.82]
+  },
+  "rights": {
+    "originalWork": "In copyright. Tahmima Anam, first published 2007. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.com/products/a-golden-age-tahmima-anam",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Golden Age, Tahmima Anam (2007). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The deep red of the liberation war and the flag that came out of it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rehana": {
+      "name": "Rehana Haque",
+      "color": "#2E5064"
+    }
+  }
+}
