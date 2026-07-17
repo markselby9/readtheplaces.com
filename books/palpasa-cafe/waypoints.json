@@ -1,0 +1,152 @@
+[
+  {
+    "id": "thamel-kathmandu",
+    "name": "Thamel",
+    "progressLabel": "The city",
+    "character": "drishya",
+    "coords": [85.312, 27.715],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Thamel is named in the novel; this marks the centre of the tourist quarter, its warren of cafés, bars and galleries.",
+    "reference": "Drishya's Kathmandu",
+    "order": 1,
+    "note": "The painter's daily round begins in the tangle of streets that has been Kathmandu's tourist and café district for decades. It is where the artist talks art and politics over coffee, and where the easy cosmopolitan life of the capital sits at an odd distance from the war in the hills.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Thamel, GPS coordinates reference for the Kathmandu tourist quarter",
+        "url": "https://latitude.to/articles-by-country/np/nepal/22282/thamel"
+      },
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, on the Kathmandu painter Drishya and the novel's setting",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kathmandu-durbar-square",
+    "name": "Kathmandu Durbar Square",
+    "progressLabel": "The city",
+    "character": "drishya",
+    "coords": [85.3066, 27.7043],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old royal square is a real, named landmark of the capital; coordinates mark the palace complex at Basantapur.",
+    "reference": "Drishya's Kathmandu",
+    "order": 2,
+    "note": "The temples and palace courtyards of the old city give the painter his subject and his sense of place. This UNESCO-listed square of pagoda roofs and carved wood is the heart of the Kathmandu that Drishya paints and argues over before the journey west.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kathmandu Durbar Square, Wikipedia, for the world-heritage palace square",
+        "url": "https://en.wikipedia.org/wiki/Kathmandu_Durbar_Square"
+      },
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, on Drishya's life as a painter in the capital",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "drishya-studio-kathmandu",
+    "name": "The painter's studio",
+    "progressLabel": "The city",
+    "character": "drishya",
+    "coords": [85.3145, 27.7095],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Wagle gives Drishya a studio in Kathmandu but no fixed address, so this sites it at a representative point in the central old-city artist quarter near Kantipath.",
+    "reference": "Drishya's studio, Kathmandu",
+    "order": 3,
+    "note": "Much of the love story turns on the studio where the painter works and where Palpasa, newly back from years in America, sits for and spars with him. The novel keeps the address vague; it belongs to the working artist's Kathmandu of rented rooms near the centre of the old city.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, on Drishya's studio and his relationship with Palpasa",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kathmandu, GPS coordinates reference for the central city",
+        "url": "https://latitude.to/map/np/nepal/cities/kathmandu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "swayambhu-kathmandu",
+    "name": "Swayambhu",
+    "progressLabel": "The city",
+    "character": "drishya",
+    "coords": [85.2906, 27.7149],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Swayambhu, the ancient stupa on the hill west of the city, is a named Kathmandu landmark; coordinates mark the main stupa.",
+    "reference": "Above the valley",
+    "order": 4,
+    "note": "The stupa on its wooded hill looks out over the whole valley, a vantage that fixes the capital in the mind before the story leaves it. From up here the painter's Kathmandu is a bowl of brick and haze, calm above a country sliding toward violence.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Swayambhunath, GPS coordinates reference for the stupa west of Kathmandu",
+        "url": "https://latitude.to/articles-by-country/np/nepal/8229/swayambhunath"
+      },
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, for the Kathmandu Valley setting",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "western-hills-war-village",
+    "name": "The hill village in the war zone",
+    "progressLabel": "The hill country",
+    "character": "drishya",
+    "coords": [82.4667, 28.6167],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's western-hill villages are unnamed, and Drishya's own home village is never located; this marks Musikot in Rukum, in the mid-western districts that were the heartland of the Maoist People's War the book depicts.",
+    "reference": "The journey west",
+    "order": 5,
+    "note": "Away from the capital the story turns dark: the painter walks through hill villages caught between the army and the insurgents, past checkpoints, ambushes and grief. Wagle never names these places, but they belong to the mid-western hills of Rukum and Rolpa where the People's War was fiercest.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rukum District, Wikipedia, for the mid-western district and its headquarters at Musikot",
+        "url": "https://en.wikipedia.org/wiki/Rukum_District"
+      },
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, on Drishya's origins in the western hills and the war-zone journey",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kathmandu-war-returns",
+    "name": "The war reaches the city",
+    "progressLabel": "The city",
+    "character": "drishya",
+    "coords": [85.314, 27.704],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's frame is set in Kathmandu but names no single spot for Drishya's disappearance, so this marks a representative point in the central city around New Road and Ratna Park.",
+    "reference": "The Kathmandu frame",
+    "order": 6,
+    "note": "The book opens and closes with the painter back in the capital, and with news that he has been seized by security forces and has vanished. The violence he witnessed in the hills has followed him home, and the safe distance the city seemed to keep from the war turns out to be an illusion.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Palpasa Café, Wikipedia, on the Kathmandu frame and Drishya's disappearance",
+        "url": "https://en.wikipedia.org/wiki/Palpasa_Caf%C3%A9"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kathmandu, GPS coordinates reference for the central city",
+        "url": "https://latitude.to/map/np/nepal/cities/kathmandu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
