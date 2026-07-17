@@ -1,0 +1,142 @@
+[
+  {
+    "id": "hbs-surabaya",
+    "name": "The H.B.S., Surabaya",
+    "progressLabel": "Opening chapters",
+    "character": "minke",
+    "coords": [112.7491, -7.2509],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the H.B.S., the elite Dutch secondary school. Its surviving building on Jalan Wijaya Kusuma dates to 1923; in the story's period the school stood nearer the old Kadipaten quarter, so this marks the enduring H.B.S. site in the north-east of the city.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The narrator is one of a handful of native students admitted to the Hogere Burgerschool, the Dutch-language school built for European and elite children. His schooling sets him apart from other Javanese and is the hinge on which the whole story of colonial hierarchy turns.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Hoogere Burgerschool (HBS): education for the elite in Surabaya, Universitas Airlangga repository",
+        "url": "https://repository.unair.ac.id/27199/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hogere Burgerschool, Wikipedia, on the colonial elite school type in the Dutch East Indies",
+        "url": "https://en.wikipedia.org/wiki/Hogere_Burgerschool"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "surabaya-old-town",
+    "name": "The colonial city, Surabaya",
+    "progressLabel": "Early chapters",
+    "character": "minke",
+    "coords": [112.7383, -7.2367],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Surabaya is named throughout. This marks the old European town on the Kalimas at the Red Bridge, the commercial and administrative heart of the colonial city.",
+    "reference": "Early chapters",
+    "order": 2,
+    "note": "Surabaya is the world the narrator moves through: a busy Dutch port town of trading houses, offices and a rigid order that ranks Europeans, foreign Asians and natives in that fixed sequence. The old town around the Kalimas and the Red Bridge was its commercial centre.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Bridge, Surabaya, Wikidata, for the coordinates of the old-town bridge on the Kalimas",
+        "url": "https://www.wikidata.org/wiki/Q7355016"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wonokromo",
+    "name": "Wonokromo",
+    "progressLabel": "Arrival at Wonokromo",
+    "character": "minke",
+    "coords": [112.7364, -7.293],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wonokromo is named as the location of the household the narrator is drawn into. This marks the district, then a semi-rural town on the southern edge of Surabaya.",
+    "reference": "Early chapters",
+    "order": 3,
+    "note": "South of the city proper lies Wonokromo, in the story a half-rural district on the edge of the sugar country. A schoolfriend takes the narrator there on a visit that changes his life, into a European-style farm run by a Javanese woman.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wonokromo, Wikidata, for the district coordinates on the southern edge of Surabaya",
+        "url": "https://www.wikidata.org/wiki/Q3298334"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "boerderij-buitenzorg",
+    "name": "Nyai Ontosoroh's estate, Boerderij Buitenzorg",
+    "progressLabel": "The household",
+    "character": "minke",
+    "coords": [112.738, -7.305],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Boerderij Buitenzorg is a fictional estate. The novel places it at Wonokromo, so this sites it just south of the district centre, on the then-rural farmland at the edge of the city.",
+    "reference": "Middle chapters",
+    "order": 4,
+    "note": "The heart of the book is a country house and dairy farm named Boerderij Buitenzorg, held by a Dutchman but run in fact by his native concubine, a woman of iron competence and her sharp-witted daughter. The narrator is taken in, falls in love, and comes up against the law that gives a native woman no standing over her own family.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bumi Manusia (film), Indonesian Wikipedia, on the Boerderij Buitenzorg estate at Wonokromo",
+        "url": "https://id.wikipedia.org/wiki/Bumi_Manusia_(film)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Nyai Ontosoroh's resilience in Pramoedya's This Earth of Mankind, Universitas Muhammadiyah Surakarta eprints",
+        "url": "https://eprints.ums.ac.id/30074/11/02._NASKAH_PUBLIKASI.pdf"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tulangan-sugar-country",
+    "name": "The sugar country, Tulangan",
+    "progressLabel": "The sugar country",
+    "character": "minke",
+    "coords": [112.6492, -7.4742],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel ties the household's fortune to a Dutch sugar enterprise in the country south of Surabaya; secondary sources place it at Tulangan in Sidoarjo, so this marks that town as a representative point in the East Java sugar belt.",
+    "reference": "Middle chapters",
+    "order": 5,
+    "note": "The wealth behind the estate comes from sugar, the cash crop that drove the colonial economy of East Java. The plantations and mills of the flat country south of Surabaya, around Tulangan and Sidoarjo, stand behind the family's money and its ruin.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bumi Manusia (film), Indonesian Wikipedia, on the sugar factory at Tulangan tied to the estate",
+        "url": "https://id.wikipedia.org/wiki/Bumi_Manusia_(film)"
+      },
+      {
+        "kind": "external",
+        "ref": "Tulangan, Sidoarjo, coordinates for the East Java sugar-belt town",
+        "url": "https://www.distancesto.com/coordinates/id/tulangan-latitude-longitude/history/29815.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "raad-van-justitie",
+    "name": "The colonial courts",
+    "progressLabel": "Closing chapters",
+    "character": "minke",
+    "coords": [112.7378, -7.2458],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the courthouse. This marks the site of Surabaya's Raad van Justitie, the colonial high court, whose 1891 building stood where the Heroes Monument now stands.",
+    "reference": "Closing chapters",
+    "order": 6,
+    "note": "The story ends in a court of colonial law, where European legal authority overrides every claim the native characters can make and takes from them what they love. Surabaya's high court, the Raad van Justitie, sat in the old administrative quarter on the site now occupied by the Heroes Monument.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gedung Pengadilan Tinggi (former Raad van Justitie), Begandring Soerabaia, on the colonial high court building",
+        "url": "https://begandring.com/gedung-pengadilan-tinggi/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heroes Monument (Tugu Pahlawan), Wikipedia, for the site coordinates of the former courthouse",
+        "url": "https://en.wikipedia.org/wiki/Heroes_Monument"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

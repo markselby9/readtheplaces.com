@@ -1,0 +1,35 @@
+{
+  "id": "this-earth-of-mankind",
+  "title": "This Earth of Mankind",
+  "author": "Pramoedya Ananta Toer",
+  "published": 1980,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [112.7383, -7.25],
+  "zoom": 11,
+  "setting": {
+    "city": "Surabaya",
+    "country": "ID",
+    "date": "c. 1900",
+    "note": "Colonial Surabaya at the turn of the twentieth century, the largest port of the Dutch East Indies and a city ruled by a strict ladder of race and law. A gifted Javanese student at the elite Dutch H.B.S. is pulled south to Wonokromo, into the household of a formidable concubine who runs a European farm, and finally into the colonial courts. The map runs from the old town on the Kalimas down through Wonokromo to the sugar country of East Java.",
+    "bbox": [112.6, -7.5, 112.8, -7.2]
+  },
+  "rights": {
+    "originalWork": "In copyright. Pramoedya Ananta Toer, first published 1980. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/56386/this-earth-of-mankind-by-pramoedya-ananta-toer/9780143106388",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "This Earth of Mankind, Pramoedya Ananta Toer (1980). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red earth and burnt sugar of colonial East Java. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "minke": {
+      "name": "Minke",
+      "color": "#2E5064"
+    }
+  }
+}
