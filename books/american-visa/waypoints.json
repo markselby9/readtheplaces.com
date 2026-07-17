@@ -1,0 +1,132 @@
+[
+  {
+    "id": "hotel-california-illampu-quarter",
+    "name": "The lower-town hotel quarter, Calle Illampu",
+    "progressLabel": "Arrival",
+    "character": "mario",
+    "coords": [-68.1398, -16.4948],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's Hotel California is fictional; it stands in the real rough lower quarter of cheap hostels around Calle Illampu and Manco Kapac, so this marks that hotel district rather than a single building.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The schoolteacher arrives from the provinces and takes a room in a shabby hotel in the poor lower part of the city, and it becomes his base for the whole stranded stay. The district reads as the Illampu and Manco Kapac blocks, La Paz's long-standing warren of budget hotels near the markets and the old railway approach.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Avenida Illampu, La Paz street directory, on the budget-hotel quarter of the lower town",
+        "url": "https://bolivia-streets.openalfa.com/streets/avenida-illampu-municipio-nuestra-senora-de-la-paz-provincia-murillo"
+      },
+      {
+        "kind": "external",
+        "ref": "American Visa, Akashic Books edition page, on the novel's La Paz setting",
+        "url": "https://www.akashicbooks.com/catalog/american-visa/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plaza-san-francisco",
+    "name": "The church of San Francisco",
+    "progressLabel": "The lower city",
+    "character": "mario",
+    "coords": [-68.1373, -16.4965],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colonial church of San Francisco and the plaza that carries its name are named landmarks of the novel's La Paz; coordinates are the basilica itself.",
+    "reference": "Wanderings through the city",
+    "order": 2,
+    "note": "The stone church of San Francisco and the crowded plaza in front of it mark the hinge between the old town and the market streets, the kind of public heart the stranded teacher crosses again and again on foot. The basilica was built in the eighteenth century and its tower finished at the end of the nineteenth.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Basilica of San Francisco, La Paz, Wikipedia, for the church and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Francisco,_La_Paz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-prado-avenida-16-de-julio",
+    "name": "The Prado",
+    "progressLabel": "The lower city",
+    "character": "mario",
+    "coords": [-68.132, -16.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "El Prado, the Avenida 16 de Julio boulevard, is a named thoroughfare of the novel's La Paz; this marks a representative point along the promenade.",
+    "reference": "Wanderings through the city",
+    "order": 3,
+    "note": "The Prado, the broad tree-lined boulevard laid along the old riverbed, is where the city shows its respectable face of cafes and shop windows, a world the drifting outsider watches from its edges. The avenue is the central artery of La Paz, running downhill as the Avenida 16 de Julio and on into the Avenida Mariscal Santa Cruz.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Paseo del Prado (La Paz), Spanish Wikipedia, on the Avenida 16 de Julio promenade",
+        "url": "https://es.wikipedia.org/wiki/Paseo_del_Prado_(La_Paz)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "billiards-hall-lower-town",
+    "name": "A pool hall in the lower quarter",
+    "progressLabel": "Drift",
+    "character": "mario",
+    "coords": [-68.1358, -16.4972],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's pool hall is not a named or verifiable address; this marks a representative point among the billiard halls and cafes of the lower central streets below San Francisco.",
+    "reference": "Middle chapters",
+    "order": 4,
+    "note": "Killing time and money he does not have, the teacher sinks into the pool halls, bars and back-room games of the lower town, the loose economy of the stranded and the small-time. These billiard rooms cluster in the dense central blocks below the church, where the everyday city trades and gambles.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "American Visa, Akashic Books edition page, on the novel's underworld of pool halls and bars",
+        "url": "https://www.akashicbooks.com/catalog/american-visa/"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative point in the lower central district of La Paz below Plaza San Francisco",
+        "url": "https://en.wikipedia.org/wiki/La_Paz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plaza-murillo",
+    "name": "Plaza Murillo",
+    "progressLabel": "The upper city",
+    "character": "mario",
+    "coords": [-68.1336, -16.4958],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Plaza Murillo, the seat of the Bolivian state, is a named square of the novel's La Paz; coordinates are the plaza itself.",
+    "reference": "Wanderings through the city",
+    "order": 5,
+    "note": "Plaza Murillo is the political heart of Bolivia, ringed by the government palace, the legislature and the cathedral, an official grandeur that stands at a deliberate distance from the outsider's grubbier errands below. The square was laid out in the sixteenth-century grid of the city and renamed for a hanged independence leader.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plaza Murillo, Wikipedia, for the central square and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Plaza_Murillo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "us-embassy-avenida-arce",
+    "name": "The United States embassy, Avenida Arce",
+    "progressLabel": "The visa",
+    "character": "mario",
+    "coords": [-68.1213, -16.5127],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The American embassy and its visa queue are the fixed goal of the plot; coordinates are the United States embassy on Avenida Arce.",
+    "reference": "The visa thread, throughout",
+    "order": 6,
+    "note": "Every scheme in the book bends toward the visa window, the guarded door where a stamp decides whether the teacher can reach his son in Miami. The United States embassy sits downhill on the Avenida Arce, and its queue is the real gate the whole story presses against.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Embassy of the United States, La Paz, on the Avenida Arce location and coordinates",
+        "url": "https://embassies.net/united-states-in-bolivia/la-paz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
