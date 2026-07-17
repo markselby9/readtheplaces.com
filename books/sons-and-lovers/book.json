@@ -4,20 +4,38 @@
   "author": "D. H. Lawrence",
   "published": 1913,
   "orderingKey": "chapter",
-  "center": [-1.1496, 52.9534],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-1.23, 52.99],
+  "zoom": 10.5,
   "setting": {
-    "city": "Nottingham",
+    "city": "Eastwood",
     "country": "GB",
-    "note": "The Nottinghamshire coalfield that made Lawrence: the mining village he renamed but placed exactly on the ground of Eastwood, the pit, and Nottingham itself, where Paul Morel takes the train to work. It brings the English mining Midlands into the atlas.",
-    "bbox": [-1.247, 52.889, -1.086, 53.019]
+    "note": "The Nottinghamshire coalfield that made Lawrence. He renamed his home village of Eastwood \"Bestwood\" and the pit \"Minton\", but placed them exactly on the ground he grew up on: the collieries where his father worked, the Chambers family's Haggs Farm that became Miriam's, and Nottingham itself, where Paul takes the train to work and to the art school. It brings the English mining Midlands into the atlas.",
+    "bbox": [-1.315, 52.94, -1.14, 53.052]
   },
   "rights": {
-    "originalWork": "TODO: confirm. D. H. Lawrence published this in 1913.",
+    "originalWork": "Public domain. D. H. Lawrence, first published 1913; the author died in 1930.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/d-h-lawrence/sons-and-lovers",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "D. H. Lawrence, Sons and Lovers (1913)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/217",
+    "territoryNotes": "Public domain in the United States (published 1913) and in the United Kingdom and the EU, where the author died more than 70 years ago (1930).",
+    "attribution": "D. H. Lawrence, Sons and Lovers (1913). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "their red mouths",
+    "note": "The collier's red mouth in a grey, coal-dirtied face, straight from the miners tramping home from the pit. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "paul": {
+      "name": "Paul Morel",
+      "color": "#2E5064",
+      "colorSourceQuote": "deep blue"
+    },
+    "miriam": {
+      "name": "Miriam Leivers",
+      "color": "#5A3B8A",
+      "colorSourceQuote": "the darkening purple of bluebells"
+    }
   }
 }

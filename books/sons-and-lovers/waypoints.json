@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "bestwood-eastwood",
+    "name": "Bestwood (Eastwood)",
+    "progressLabel": "Ch. 1",
+    "character": "paul",
+    "coords": [-1.3026, 53.0174],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Bestwood\" is Lawrence's fictional name for Eastwood, the Nottinghamshire mining town where he was born in 1885. The village he describes, its Squares and Bottoms of miners' dwellings, is Eastwood on the ground; the pin marks the town centre.",
+    "quoteAnchor": "formed the village of Bestwood.",
+    "passage": "And the cottages of these coal-miners, in blocks and pairs here and there, together with odd farms and homes of the stockingers, straying over the parish, formed the village of Bestwood.",
+    "note": "The novel opens with the coalfield itself, the gin-pits swept aside by the great financiers' mines, and the miners' quarters thrown up on the hillside. Lawrence renamed his birthplace Bestwood, but every street and slope is Eastwood, the town he called \"the country of my heart\".",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Eastwood, Nottinghamshire, birthplace of D. H. Lawrence",
+        "url": "https://en.wikipedia.org/wiki/Eastwood,_Nottinghamshire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "minton-pit-brinsley-colliery",
+    "name": "Minton pit (Brinsley Colliery)",
+    "progressLabel": "Ch. 4",
+    "character": "paul",
+    "coords": [-1.3087, 53.0344],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Minton\" is the novel's pit, where Walter Morel works as Lawrence's own father did. It is drawn from the collieries around Eastwood, chiefly Brinsley Colliery, where Arthur Lawrence was a miner; the pin marks the preserved Brinsley headstocks site.",
+    "quoteAnchor": "tangle of lights below where Minton pit lay",
+    "passage": "The entry was very dark, and at the end the whole great night opened out, in a hollow, with a little tangle of lights below where Minton pit lay, and another far away opposite for Selby.",
+    "note": "The pit is the fixed pole of the Morels' world: the father goes down it, the family lives by its wages, and its lights hang in the valley below the house at night. Lawrence's father worked at Brinsley Colliery, whose wooden headstocks stood on this spot until 2023.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter IV",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Brinsley Colliery, west Nottinghamshire, where Lawrence's father worked",
+        "url": "https://en.wikipedia.org/wiki/Brinsley_Colliery"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jordans-spaniel-row-nottingham",
+    "name": "Jordan's, 21 Spaniel Row, Nottingham",
+    "progressLabel": "Ch. 5",
+    "character": "paul",
+    "coords": [-1.1512, 52.9515],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Thomas Jordan's surgical-appliance factory is fictional, but the address Lawrence gives it, Spaniel Row in Nottingham, is a real street off Friar Lane in the city centre; the pin sits on it.",
+    "quoteAnchor": "Surgical Appliances, at 21, Spaniel Row, Nottingham",
+    "passage": "Presently, Paul was bidden call upon Thomas Jordan, Manufacturer of Surgical Appliances, at 21, Spaniel Row, Nottingham.",
+    "note": "At fourteen Paul is summoned to Nottingham for his first job, a junior clerk at a maker of trusses and artificial limbs. The factory in the gloomy warehouse is invented, but Lawrence pins it to a real Nottingham street, the daily train ride into the city that pulls Paul away from Bestwood.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter V",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "guide",
+        "ref": "Spaniel Row, Nottingham city centre (NG1)",
+        "url": "https://en.wikipedia.org/wiki/Nottingham"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "willey-farm-haggs-farm",
+    "name": "Willey Farm (Haggs Farm)",
+    "progressLabel": "Ch. 6",
+    "character": "miriam",
+    "coords": [-1.289, 53.045],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Willey Farm\", the Leivers home and Miriam's, is drawn from Haggs Farm near Underwood, the working farm of the Chambers family, whose daughter Jessie was Lawrence's model for Miriam. The pin marks Old Haggs Farmhouse off Willey Lane, Greasley (NGR SK 478 501).",
+    "quoteAnchor": "Is this the way to Willey Farm?",
+    "passage": "A dog barked furiously. A woman came out to see. “Is this the way to Willey Farm?” Mrs. Morel asked.",
+    "note": "Mrs Morel and Paul walk out across the fields to the Leivers' farm, and the visit opens the whole second half of the book: Paul's long, tormented love for Miriam. Lawrence took the farm and its family straight from Haggs Farm and the Chambers, where he spent his happiest years.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter VI",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Haggs Farm, Underwood, home of Jessie Chambers (Lawrence's Miriam)",
+        "url": "https://www.haggsfarmsociety.co.uk/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nottingham-castle-exhibition",
+    "name": "Nottingham Castle",
+    "progressLabel": "Ch. 9",
+    "character": "paul",
+    "coords": [-1.1546, 52.9493],
+    "placeCertainty": "inferred",
+    "certaintyNote": "\"The Castle\" is Nottingham Castle, then the municipal museum and art gallery, which held the annual exhibitions of the local art students' work. The pin marks the castle building; the exact gallery is not fixed in the text.",
+    "quoteAnchor": "students' work in the Castle",
+    "passage": "And in the autumn exhibition of students’ work in the Castle he had two studies, a landscape in water-colour and a still life in oil, both of which had first-prize awards.",
+    "note": "Paul's painting, the gift that might carry him out of the clerk's stool at Jordan's, first wins public notice here: two first prizes in the students' exhibition at Nottingham Castle. His mother's fierce pride in the achievement is the engine of the whole book.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter IX",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Nottingham Castle, museum and art gallery",
+        "url": "https://en.wikipedia.org/wiki/Nottingham_Castle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "theddlethorpe-lincolnshire-coast",
+    "name": "Theddlethorpe, the Lincolnshire coast",
+    "progressLabel": "Ch. 13",
+    "character": "paul",
+    "coords": [0.222, 53.3733],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The holiday cottage is fictional and unlocated, but Lawrence names Theddlethorpe on the Lincolnshire coast, some 90 km east of Eastwood, so it is flagged as an excursion beyond the book's setting. The pin marks the village of Theddlethorpe St Helen.",
+    "quoteAnchor": "In the spring they went together to the seaside",
+    "passage": "In the spring they went together to the seaside. They had rooms at a little cottage near Theddlethorpe, and lived as man and wife.",
+    "note": "Paul takes Clara Dawes to the sea, to a cottage near Theddlethorpe on the flat Lincolnshire shore he loves. The long empty foreshore and the dawn bathing are among the book's most open moments, a brief escape from the mining valley and from his mother's hold.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Sons and Lovers, Chapter XIII",
+        "url": "https://www.gutenberg.org/ebooks/217"
+      },
+      {
+        "kind": "guide",
+        "ref": "Theddlethorpe St Helen, East Lindsey, Lincolnshire",
+        "url": "https://en.wikipedia.org/wiki/Theddlethorpe_St_Helen"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
