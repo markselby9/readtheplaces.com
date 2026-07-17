@@ -1,0 +1,152 @@
+[
+  {
+    "id": "peking-university",
+    "name": "Peking University",
+    "progressLabel": "The campuses",
+    "character": "daiwei",
+    "coords": [116.3032, 39.9872],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the university in the Haidian district where the narrator studies; this marks the main campus.",
+    "reference": "The 1989 chapters",
+    "order": 1,
+    "note": "The student democracy movement of spring 1989 takes root on the campuses of Beijing's north-west, among them Peking University, where the narrator is a science student. Meetings, wall posters and marches from here feed the growing protest that will fill the centre of the capital.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Peking University, Wikipedia, on the Haidian campus and its role in the 1989 movement",
+        "url": "https://en.wikipedia.org/wiki/Peking_University"
+      },
+      {
+        "kind": "external",
+        "ref": "Peking University coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/cn/china/2802/peking-university"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "beijing-normal-university",
+    "name": "Beijing Normal University",
+    "progressLabel": "The campuses",
+    "character": "daiwei",
+    "coords": [116.3575, 39.9543],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Beijing Normal among the universities that supplied leaders and marchers to the movement; this marks the Haidian campus.",
+    "reference": "The 1989 chapters",
+    "order": 2,
+    "note": "Beijing Normal University is one of the campuses that drove the 1989 protests, sending students and organisers into the square alongside those from Peking University. The narrator moves between these universities as the movement grows and splinters into rival committees.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Beijing Normal University, Wikipedia, on the university and its students' part in the 1989 protests",
+        "url": "https://en.wikipedia.org/wiki/Beijing_Normal_University"
+      },
+      {
+        "kind": "external",
+        "ref": "Beijing Normal University coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/cn/china/15649/beijing-normal-university"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tiananmen-square",
+    "name": "Tiananmen Square",
+    "progressLabel": "The occupation",
+    "character": "daiwei",
+    "coords": [116.3915, 39.9042],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The square is named throughout as the centre of the occupation; this marks its centre.",
+    "reference": "The 1989 chapters",
+    "order": 3,
+    "note": "For weeks in May and June 1989 the students occupy Tiananmen Square, the vast ceremonial space at the heart of Beijing. The narrator lives among the tents, loudspeakers and hunger strikers as the occupation swells and factions argue over whether to stay or withdraw.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tiananmen Square, Wikipedia, on the square and the 1989 protests",
+        "url": "https://en.wikipedia.org/wiki/Tiananmen_Square"
+      },
+      {
+        "kind": "guide",
+        "ref": "1989 Tiananmen Square protests and massacre, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "monument-to-the-peoples-heroes",
+    "name": "Monument to the People's Heroes",
+    "progressLabel": "The occupation",
+    "character": "daiwei",
+    "coords": [116.3883, 39.9018],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The obelisk at the centre of the square is named as the base of the student command; this marks the monument itself.",
+    "reference": "The 1989 chapters",
+    "order": 4,
+    "note": "The granite obelisk at the centre of the square becomes the movement's headquarters and broadcast point, where the hunger strike is declared and the last holdouts gather. In the early hours of 4 June 1989 the remaining students negotiate their retreat from around its base as the army closes in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Monument to the People's Heroes, Wikipedia, on the obelisk in Tiananmen Square",
+        "url": "https://en.wikipedia.org/wiki/Monument_to_the_People's_Heroes"
+      },
+      {
+        "kind": "external",
+        "ref": "Monument to the People's Heroes coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/cn/china/34957/monument-to-the-peoples-heroes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "changan-avenue-muxidi",
+    "name": "Chang'an Avenue at Muxidi",
+    "progressLabel": "June the Fourth",
+    "character": "daiwei",
+    "coords": [116.3413, 39.9075],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places the army's advance and the narrator's shooting on Chang'an Avenue; this marks Muxidi, on the avenue west of the square, where troops met the heaviest resistance and many were killed on the night of 3-4 June 1989.",
+    "reference": "The 1989 chapters",
+    "order": 5,
+    "note": "On the night of 3-4 June 1989 the army forces its way toward Tiananmen along Chang'an Avenue, the great east-west boulevard through the centre of Beijing. At Muxidi, west of the square, troops fired on crowds trying to block their path; it is on this avenue that the narrator is shot in the head, the wound that leaves him in a coma.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "1989 Tiananmen Square protests and massacre, Wikipedia, on the army's advance along Chang'an Avenue and the killings at Muxidi",
+        "url": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "Chang'an Avenue, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chang'an_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mothers-flat",
+    "name": "The mother's flat",
+    "progressLabel": "The coma",
+    "character": "daiwei",
+    "coords": [116.36, 39.93],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the flat an address; it lies somewhere in the residential Beijing of the 1990s, so this marks a representative point in the inner-city districts west of the centre.",
+    "reference": "The coma chapters",
+    "order": 6,
+    "note": "For roughly a decade the narrator lies paralysed and speechless in his mother's small Beijing flat, aware but unable to move, while she tends and struggles to keep him. Through the window and the talk around his bed he registers the city changing, its old lanes demolished and rebuilt through the boom of the 1990s.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Beijing Coma, publisher summary, on the narrator's years in his mother's flat",
+        "url": "https://us.macmillan.com/books/9780312428372/beijingcoma"
+      },
+      {
+        "kind": "external",
+        "ref": "Beijing Coma, Wikipedia, on the novel's frame of the coma in a Beijing flat",
+        "url": "https://en.wikipedia.org/wiki/Beijing_Coma"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

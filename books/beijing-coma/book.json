@@ -1,0 +1,34 @@
+{
+  "id": "beijing-coma",
+  "title": "Beijing Coma",
+  "author": "Ma Jian",
+  "published": 2008,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [116.39, 39.92],
+  "zoom": 11.4,
+  "setting": {
+    "city": "Beijing",
+    "country": "CN",
+    "note": "Ma Jian's Beijing is two cities held in one body: the Beijing of spring 1989, when students carried the democracy movement from the campuses of the north-west out to the occupied heart of the capital, and the demolition-and-construction Beijing of the following decade, glimpsed through a window by a man who was shot on Chang'an Avenue and left in a coma. The map runs from the universities of Haidian down the central axis to Tiananmen Square and west along the avenue where the army advanced.",
+    "bbox": [116.25, 39.86, 116.46, 40.02]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ma Jian, first published 2008. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://us.macmillan.com/books/9780312428372/beijingcoma",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Beijing Coma, Ma Jian (2008). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "A dark, sober red, for the banners of the square and the violence that ended the occupation. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "daiwei": {
+      "name": "Dai Wei",
+      "color": "#2E5064"
+    }
+  }
+}
