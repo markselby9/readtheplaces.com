@@ -1,0 +1,127 @@
+[
+  {
+    "id": "colombo-arrival-lab",
+    "name": "Colombo",
+    "progressLabel": "Arrival",
+    "character": "anil",
+    "coords": [79.861244, 6.927079],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Colombo is named in the novel as the point of return and the base of the investigation; sited at the city centre, since the archaeological headquarters and its makeshift laboratory are not tied to a single verifiable address.",
+    "reference": "Opening section",
+    "order": 1,
+    "note": "A forensic pathologist trained abroad flies home to Sri Lanka on a human-rights posting and sets up in a laboratory attached to an old archaeological base in the capital. Colombo is where the assignment begins and where the pressure of a government keen to control the findings is first felt.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anil's Ghost, Wikipedia, plot and setting overview",
+        "url": "https://en.wikipedia.org/wiki/Anil's_Ghost"
+      },
+      {
+        "kind": "guide",
+        "ref": "Colombo, Sri Lanka, coordinates",
+        "url": "https://latitude.to/map/lk/sri-lanka/cities/colombo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bandarawela-reserve",
+    "name": "The reserve near Bandarawela",
+    "progressLabel": "The skeleton",
+    "character": "anil",
+    "coords": [80.9833, 6.8333],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names Bandarawela and places the burial in a government-protected zone among natural rock hollows, but does not give a mapped point for the grave; this marks the hill town as a representative location for the reserve.",
+    "reference": "Sarath section",
+    "order": 2,
+    "note": "In a state-protected archaeological reserve in the tea-country hills, where old skeletons lie in natural rock hollows, the investigators find one set of remains that is far more recent than the rest. Nicknamed Sailor, it was buried elsewhere first and moved here, which points to a killing the authorities would rather keep hidden.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anil's Ghost plot summary, LitCharts, on Bandarawela and the protected zone",
+        "url": "https://www.litcharts.com/lit/anil-s-ghost/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bandarawela, Sri Lanka, coordinates",
+        "url": "https://latitude.to/articles-by-country/lk/sri-lanka/53234/bandarawela"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-walawwa",
+    "name": "The walawwa in the hills",
+    "progressLabel": "The estate",
+    "character": "anil",
+    "coords": [80.9, 6.87],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The manor house on an old family estate is not tied to a named or verifiable location; this marks a representative point in the same upland region, west of Bandarawela, and is inspired by the highland walawwa tradition rather than a specific house.",
+    "reference": "Ananda section",
+    "order": 3,
+    "note": "Working mostly in secret, the group retreats to a crumbling ancestral manor house, a walawwa, in the hills, where a local artificer is brought in to rebuild the dead man's face from the skull. The old house becomes a workshop and a hiding place, away from the eyes of the state.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anil's Ghost plot summary, SuperSummary, on the family estate where Sailor's face is reconstructed",
+        "url": "https://www.supersummary.com/anils-ghost/summary/"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative upland location west of Bandarawela; the walawwa is not a named site",
+        "url": "https://en.wikipedia.org/wiki/Wal%C4%81wwa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "anuradhapura-ruins",
+    "name": "Anuradhapura",
+    "progressLabel": "The ancient north",
+    "character": "anil",
+    "coords": [80.41306, 8.31223],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The ancient ruins and forest monasteries of the Anuradhapura region are named in the novel as the world of the archaeologist mentor; sited at the ancient city, a UNESCO World Heritage site.",
+    "reference": "Palipana section",
+    "order": 4,
+    "note": "The trail runs north to the ruined stupas, tanks and forest monasteries of the old royal capital, where a blind, disgraced epigraphist once mentored the archaeologist now leading the case. This is the deep-time Sri Lanka of rock inscriptions and Buddhist heritage that the novel sets against the war's fresh graves.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anil's Ghost study guide, on the Anuradhapura ruins and the epigraphist Palipana",
+        "url": "https://www.supersummary.com/anils-ghost/summary/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Anuradhapura, Sri Lanka, coordinates",
+        "url": "https://latitude.to/map/lk/sri-lanka/cities/anuradhapura"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-great-buddha",
+    "name": "The great Buddha statue",
+    "progressLabel": "The eyes",
+    "character": "anil",
+    "coords": [80.5188, 8.0203],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The colossal Buddha that a stonemason restores at the close of the novel is not identified with a named monument; this marks the Avukana Buddha, a famous rock-carved standing Buddha in the same north-central region, as a representative site.",
+    "reference": "Closing section",
+    "order": 5,
+    "note": "The novel ends away from the investigation, with a stonemason restoring a huge Buddha statue shattered by looters and then painting in its eyes in the old consecration rite. It is a quiet act of repair set against a country full of the dead, and it stands in for the giant rock-cut Buddhas of the north-central plain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anil's Ghost plot summary, LitCharts, on the artificer's reconstruction of the Buddha statue",
+        "url": "https://www.litcharts.com/lit/anil-s-ghost/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Avukana Buddha statue, coordinates",
+        "url": "https://latitude.to/articles-by-country/lk/sri-lanka/27582/avukana-buddha-statue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

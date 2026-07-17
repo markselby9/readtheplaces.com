@@ -1,0 +1,34 @@
+{
+  "id": "anils-ghost",
+  "title": "Anil's Ghost",
+  "author": "Michael Ondaatje",
+  "published": 2000,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [80.4, 7.6],
+  "zoom": 7.3,
+  "setting": {
+    "city": "Colombo",
+    "country": "LK",
+    "note": "Ondaatje's Sri Lanka is a country under the pressure of civil war in the late 1980s and early 1990s, seen through a forensic investigation. The map runs from the capital, Colombo, up the central axis to the ancient Buddhist ruins and monasteries of the north-central plain and out to the tea-country hills, where the war's disappearances surface as bones.",
+    "bbox": [79.6, 6.6, 81.2, 8.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Michael Ondaatje, first published 2000. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/166935/anils-ghost-by-michael-ondaatje/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Anil's Ghost, Michael Ondaatje (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "A fired-earth red for laterite soil, terracotta and the ochre of temple stone. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "anil": {
+      "name": "Anil Tissera",
+      "color": "#2E5064"
+    }
+  }
+}
