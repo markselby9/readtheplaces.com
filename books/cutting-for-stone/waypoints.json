@@ -1,0 +1,118 @@
+[
+  {
+    "id": "missing-hospital",
+    "name": "Missing Hospital",
+    "progressLabel": "Birth",
+    "character": "marion",
+    "coords": [38.7544, 9.0251],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Missing is a fictional mission hospital, a composite of the church-run medical compounds of mid-century Addis Ababa; its name is a clerk's misspelling of Mission. This marks a representative real point, the Addis Ababa Fistula Hospital in Lideta, the kind of mission institution Verghese drew on.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The twins Marion and Shiva Stone are born here, on a compound of wards, chapel and eucalyptus that stands in for the mission hospitals of the city. Verghese has said the name came from a clerk who could not spell Mission, and the place is a composite rather than one building. We site it at a real fistula hospital in Lideta to fix the world it belongs to.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "An Epic Of Ethiopia, Full Of Medical Lore, NPR, on Verghese's Addis childhood and the mission-hospital world behind the novel",
+        "url": "https://www.npr.org/2009/03/10/101416445/an-epic-of-ethiopia-full-of-medical-lore"
+      },
+      {
+        "kind": "guide",
+        "ref": "Addis Ababa Fistula Hospital, Wikipedia, for a real mission hospital and its coordinates in Lideta",
+        "url": "https://en.wikipedia.org/wiki/Addis_Ababa_Fistula_Hospital"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "piazza-old-town",
+    "name": "Piazza, the old town",
+    "progressLabel": "Boyhood",
+    "character": "marion",
+    "coords": [38.75475, 9.0337],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Piazza, in the Arada district, is a real quarter of Addis Ababa, the Italian-era commercial heart named for its central square.",
+    "reference": "Part Two",
+    "order": 2,
+    "note": "As the boys grow, the city itself becomes a schoolroom: the arcaded shops, cafes and crowds of the old town where a mission child learns how Addis works. Piazza, laid out during the brief Italian occupation, was the commercial centre of the capital in these years.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Piassa (piazza), Area in Arada, map.et, for the district and its coordinates",
+        "url": "https://map.et/n622357165/piyasa-akababi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Arada (district of Addis Ababa), Wikipedia, on the old commercial quarter",
+        "url": "https://en.wikipedia.org/wiki/Arada_(district_of_Addis_Ababa)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-georges-cathedral",
+    "name": "St George's Cathedral, Menelik Square",
+    "progressLabel": "The city",
+    "character": "marion",
+    "coords": [38.7514, 9.0367],
+    "placeCertainty": "explicit",
+    "certaintyNote": "St George's Cathedral, at the head of Churchill Road by Menelik Square in Arada, is a real Addis Ababa landmark and a coronation church of the imperial line.",
+    "reference": "Part Three",
+    "order": 3,
+    "note": "The novel keeps the emperor's Ethiopia close to the hospital gates, and the octagonal cathedral of the capital stands for that imperial, Orthodox order. It is the coronation church tied to Menelik and Haile Selassie, at the top of the road that runs down through the city centre.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St. George's Cathedral, Addis Ababa, Wikipedia, for the cathedral and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/St._George's_Cathedral,_Addis_Ababa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jubilee-palace",
+    "name": "The Jubilee Palace",
+    "progressLabel": "Revolution",
+    "character": "marion",
+    "coords": [38.7605, 9.0165],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Jubilee Palace, now the National Palace, is a real building; it was Haile Selassie's main residence and the site of his removal by the Derg in September 1974.",
+    "reference": "Part Three",
+    "order": 4,
+    "note": "The private drama of the hospital plays out against the fall of an empire. The emperor's residence, built for his silver jubilee, is where low-ranking officers of the Derg read Haile Selassie his deposition in 1974, the upheaval that reshapes the family's world and drives Marion out of the country.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "National Palace, Addis Ababa, Wikipedia, on the former Jubilee Palace and the 1974 deposition",
+        "url": "https://en.wikipedia.org/wiki/National_Palace,_Addis_Ababa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "our-lady-of-perpetual-succour",
+    "name": "Our Lady of Perpetual Succour, the Bronx",
+    "progressLabel": "Exile",
+    "character": "marion",
+    "coords": [-73.8648, 40.8448],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Our Lady of Perpetual Succour is a fictional hospital, drawn from the hard-pressed municipal and Catholic hospitals of the Bronx where Verghese trained; this marks a representative point in the borough, well outside the Addis Ababa setting.",
+    "reference": "Part Four",
+    "order": 5,
+    "note": "Exile carries Marion from Addis Ababa to a struggling hospital in the Bronx, where a foreign doctor learns American medicine on the wards no one else wants. The hospital is invented, but it stands for the under-resourced New York hospitals that took in immigrant physicians, a world Verghese knew first hand.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "An Epic Of Ethiopia, Full Of Medical Lore, NPR, on Verghese's own path from Ethiopia to hospital work in the United States",
+        "url": "https://www.npr.org/2009/03/10/101416445/an-epic-of-ethiopia-full-of-medical-lore"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Bronx, Wikipedia, for a representative borough coordinate",
+        "url": "https://en.wikipedia.org/wiki/The_Bronx"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
