@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "moscow-railway-station",
+    "name": "The Moscow railway station",
+    "progressLabel": "Part 1, ch. 18",
+    "character": "anna",
+    "coords": [37.653, 55.7758],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Tolstoy names only \"the station\" in Moscow, but Anna arrives from Petersburg, and the Moscow terminus of the Petersburg line was the Nikolaevsky station, now Leningradsky on Komsomolskaya Square. The pin marks it.",
+    "quoteAnchor": "either drunk or too much muffled up in the bitter frost",
+    "passage": "A guard, either drunk or too much muffled up in the bitter frost, had not heard the train moving back, and had been crushed.",
+    "note": "Anna steps off the Petersburg train into Vronsky's life, and a watchman is crushed under the wheels on the same platform the moment they meet. The novel's ending is laid down here in its first pages: she reads the death as an omen, and returns to this rail line to die.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 1, Chapter 18",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Moscow Leningradsky (formerly Nikolaevsky) railway station, terminus of the Moscow-Petersburg line",
+        "url": "https://en.wikipedia.org/wiki/Moscow_Leningradsky_railway_station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-moscow-ball",
+    "name": "The Moscow ball",
+    "progressLabel": "Part 1, ch. 22",
+    "character": "kitty",
+    "coords": [37.6164, 55.7589],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Tolstoy does not name the house. Moscow's grand society balls of the 1870s were held in halls like the Noble Assembly (Blagorodnoye Sobraniye), now the House of the Unions on Bolshaya Dmitrovka, where the pin sits.",
+    "quoteAnchor": "The ball was only just beginning as Kitty and her mother",
+    "passage": "The ball was only just beginning as Kitty and her mother walked up the great staircase, flooded with light, and lined with flowers and footmen in powder and red coats.",
+    "note": "Kitty comes to the ball expecting Vronsky to propose, and watches him fall for Anna across the ballroom instead. The Moscow winter season is where three lives turn at once: Kitty is humiliated, Anna is undone, and Vronsky is caught.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 1, Chapter 22",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "heritage",
+        "ref": "House of the Unions (the former Moscow Noble Assembly), Bolshaya Dmitrovka",
+        "url": "https://en.wikipedia.org/wiki/House_of_the_Unions"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "petersburg-railway-station",
+    "name": "The Petersburg railway station",
+    "progressLabel": "Part 1, ch. 31",
+    "character": "anna",
+    "coords": [30.3573, 59.9245],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The scene is explicitly in Petersburg, where Karenin meets Anna's train home. The Petersburg terminus of the line was the Nikolaevsky station, now Moskovsky on Znamenskaya (Vosstaniya) Square; the pin marks it.",
+    "quoteAnchor": "with his Petersburg face and severely self-confident figure",
+    "passage": "Seeing Alexey Alexandrovitch with his Petersburg face and severely self-confident figure, in his round hat, with his rather prominent spine, he believed in him, and was aware of a disagreeable sensation, such as a man might feel tortured by thirst, who, on reaching a spring, should find a dog, a sheep, or a pig, who has drunk of it and muddied the water.",
+    "note": "Anna returns to Petersburg and to Karenin, who takes her arm on the platform with a sense of property. This is where the capital and its society close around her: the correct husband, the ministry, the salons that will soon judge and then cut her.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 1, Chapter 31",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Moskovsky (formerly Nikolaevsky) railway station, Saint Petersburg, terminus of the Petersburg-Moscow line",
+        "url": "https://en.wikipedia.org/wiki/Moskovsky_railway_station_(Saint_Petersburg)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-races-at-krasnoe-selo",
+    "name": "The races at Krasnoe Selo",
+    "progressLabel": "Part 2, ch. 19",
+    "character": "vronsky",
+    "coords": [30.0863, 59.7338],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "On the day of the races at Krasnoe Selo",
+    "passage": "On the day of the races at Krasnoe Selo, Vronsky had come earlier than usual to eat beefsteak in the common messroom of the regiment.",
+    "note": "At the officers' steeplechase at Krasnoe Selo, the summer camp town south of Petersburg, Vronsky breaks his mare Frou-Frou's back with a clumsy movement in the saddle. Anna, watching from the stands, betrays herself in front of her husband, and the affair stops being a secret.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 2, Chapter 19",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Krasnoye Selo, historic imperial military camp and racecourse south of Saint Petersburg",
+        "url": "https://en.wikipedia.org/wiki/Krasnoye_Selo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "levins-pokrovskoe",
+    "name": "Levin's estate, Pokrovskoe",
+    "progressLabel": "Part 3, ch. 2",
+    "character": "levin",
+    "coords": [37.5223, 54.0723],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pokrovskoe is invented and unlocated, somewhere in the central-Russian provinces a day from Moscow. Tolstoy drew Levin's country life from his own estate at Yasnaya Polyana in Tula, where he wrote the novel; the pin marks that real place, south of the book's setting.",
+    "quoteAnchor": "walked into the vast gray-green sea of grass unstirred by the wind",
+    "passage": "His brother seated himself under a bush, arranging his tackle, while Levin led the horse away, fastened him up, and walked into the vast gray-green sea of grass unstirred by the wind.",
+    "note": "Away from the capitals, Levin mows the meadow alongside his own peasants through a long summer day, and the physical work gives him the peace the city never does. His half of the book is the counterweight to Anna's: the land, marriage, and faith set against the railway and the salon.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 3, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "author",
+        "ref": "Yasnaya Polyana, Leo Tolstoy's estate near Tula, model for Levin's country life",
+        "url": "https://en.wikipedia.org/wiki/Yasnaya_Polyana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "obiralovka-station",
+    "name": "Obiralovka station",
+    "progressLabel": "Part 7, ch. 31",
+    "character": "anna",
+    "coords": [38.0168, 55.744],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "she thought of the man crushed by the train the day she had first met Vronsky",
+    "passage": "And all at once she thought of the man crushed by the train the day she had first met Vronsky, and she knew what she had to do.",
+    "note": "Anna takes the train out to Obiralovka to find Vronsky, and on the platform the memory of the watchman crushed the day they met tells her what to do. She throws herself under the wheels here. The real station, east of Moscow, is now Zheleznodorozhnaya, in the town once called Obiralovka.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Anna Karenina, Part 7, Chapter 31",
+        "url": "https://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Zheleznodorozhnaya station (formerly Obiralovka), Zheleznodorozhny, Moscow Oblast",
+        "url": "https://en.wikipedia.org/wiki/Zheleznodorozhnaya_railway_station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

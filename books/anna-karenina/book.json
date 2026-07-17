@@ -1,23 +1,52 @@
 {
   "id": "anna-karenina",
   "title": "Anna Karenina",
+  "titleOriginal": "Анна Каренина",
   "author": "Leo Tolstoy",
   "published": 1878,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [37.6175, 55.752],
-  "zoom": 12.5,
+  "zoom": 5.5,
   "setting": {
     "city": "Moscow",
     "country": "RU",
-    "note": "Moscow, Petersburg, and the railway between them. Anna arrives by train, past a man crushed at the station, and dies under one before her story ends. The line between the two cities is the most important place in the book.",
-    "bbox": [36.803, 55.142, 37.967, 56.021]
+    "note": "Moscow, Petersburg, and the railway between them. Anna arrives in Moscow past a man crushed at the station, and dies under a train at Obiralovka before her story ends. Levin's Pokrovskoe is invented; Tolstoy drew it from his own country life at Yasnaya Polyana. The line between the two capitals is the most important place in the book.",
+    "bbox": [29.9, 55.1, 38.1, 60.1]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Leo Tolstoy published this in 1878.",
-    "translation": "Translated by constance garnett. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Leo Tolstoy, Anna Karenina (1878)."
+    "originalWork": "Public domain. Leo Tolstoy, first published 1878; the author died in 1910.",
+    "translation": "English translation by Constance Garnett (1901); she died in 1946, so the translation is public domain in the US and the UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1399",
+    "territoryNotes": "Public domain in the US and UK/EU: Tolstoy died 1910, Garnett 1946.",
+    "attribution": "Leo Tolstoy, Anna Karenina (1878), trans. Constance Garnett. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "the red bag",
+    "note": "The red bag Anna carries to Obiralovka and drops the instant before the wheels reach her. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "anna": {
+      "name": "Anna Karenina",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "her red lips"
+    },
+    "vronsky": {
+      "name": "Count Vronsky",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "short-cropped black hair"
+    },
+    "kitty": {
+      "name": "Kitty Shtcherbatsky",
+      "color": "#8A6A12",
+      "colorSourceQuote": "thick rolls of fair chignon"
+    },
+    "levin": {
+      "name": "Konstantin Levin",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "vast gray-green sea of grass"
+    }
   }
 }
