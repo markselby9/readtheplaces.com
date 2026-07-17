@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "id": "cooling-churchyard-marshes",
+    "name": "The marsh churchyard, Cooling",
+    "progressLabel": "Ch. 1",
+    "character": "pip",
+    "coords": [0.5757, 51.4611],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Dickens leaves the marsh village unnamed, but drew the churchyard from St James's at Cooling, on the Hoo peninsula north of Rochester, where the row of small children's gravestones Pip describes still stands. The pin marks the real church.",
+    "quoteAnchor": "this bleak place overgrown with nettles was the",
+    "passage": "My first most vivid and broad impression of the identity of things seems to me to have been gained on a memorable raw afternoon towards evening. At such a time I found out for certain that this bleak place overgrown with nettles was the churchyard; and that the dark flat wilderness beyond the churchyard, intersected with dikes and mounds and gates, with scattered cattle feeding on it, was the marshes; and that the low leaden line beyond was the river.",
+    "note": "The novel opens here, on a raw evening among the graves, where the small bundle of shivers that is Pip is seized by the convict Magwitch risen out of the marsh. Dickens knew this ground: the flat estuary land of the Hoo peninsula, the dikes, and the churchyard at Cooling with its little stone lozenges for dead children.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "heritage",
+        "ref": "St James' Church, Cooling, Kent (Churches Conservation Trust); the churchyard behind the opening of Great Expectations",
+        "url": "https://en.wikipedia.org/wiki/St_James%27_Church,_Cooling"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hulks-estuary",
+    "name": "The Hulks, off the marshes",
+    "progressLabel": "Ch. 5",
+    "character": "magwitch",
+    "coords": [0.51, 51.474],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The prison hulks were real, decommissioned ships moored off the Kent shore of the Thames and Medway to hold convicts. Dickens does not fix an exact mooring; the pin marks the estuary off the Hoo marshes below Cooling, where the boy Pip watches the ships from the shore.",
+    "quoteAnchor": "down the river on a strong spring-tide, to the Hulks",
+    "passage": "If I slept at all that night, it was only to imagine myself drifting down the river on a strong spring-tide, to the Hulks; a ghostly pirate calling out to me through a speaking-trumpet, as I passed the gibbet-station, that I had better come ashore and be hanged there at once.",
+    "note": "Magwitch is an escaped convict from the hulks, the black prison-ships lying out on the water beyond the marshes. The soldiers hunt him across the mud and haul him back to one; the child Pip's guilty dread fixes on those ships, the estuary's floating jails, long before he learns what the man will mean to his life.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapters II and V",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Prison hulks moored on the Thames and Medway estuaries, Kent",
+        "url": "https://en.wikipedia.org/wiki/Prison_ship"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "satis-house-rochester",
+    "name": "Satis House, Rochester",
+    "progressLabel": "Ch. 8",
+    "character": "estella",
+    "coords": [0.5041, 51.3863],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Dickens sets Satis House in \"the town\", his lightly veiled Rochester, and modelled it on Restoration House on Crow Lane, the Elizabethan mansion that still stands. The pin marks Restoration House.",
+    "quoteAnchor": "Its other name was Satis",
+    "passage": "“One more. Its other name was Satis; which is Greek, or Latin, or Hebrew, or all three—or all one to me—for enough.” “Enough House,” said I; “that’s a curious name, miss.” “Yes,” she replied; “but it meant more than it said. It meant, when it was given, that whoever had this house could want nothing else.”",
+    "note": "Pip is summoned to play at the barred, brewery-shadowed house where Miss Havisham has stopped every clock, and the cold, proud girl Estella teaches him to be ashamed of his coarse hands. The town is Rochester in all but name; the house is Restoration House on Crow Lane, which Dickens walked past and renamed Satis, \"enough\".",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapter VIII",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Restoration House, Crow Lane, Rochester, Kent; Dickens's model for Satis House",
+        "url": "https://en.wikipedia.org/wiki/Restoration_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "little-britain-jaggers-office",
+    "name": "Jaggers's office, Little Britain",
+    "progressLabel": "Ch. 20",
+    "character": "pip",
+    "coords": [-0.0978, 51.517],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "just out of Smithfield, and close",
+    "passage": "Mr. Jaggers had duly sent me his address; it was, Little Britain, and he had written after it on his card, “just out of Smithfield, and close by the coach-office.”",
+    "note": "Pip comes into his London expectations at the office of the lawyer Jaggers, in Little Britain by the meat-market at Smithfield, \"all asmear with filth and fat and blood and foam\", with the black dome of St Paul's and the grim wall of Newgate close by. The street is named outright and still runs from Smithfield toward St Martin's Le Grand.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapter XX",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Little Britain, City of London, running from West Smithfield toward St Martin's Le Grand",
+        "url": "https://en.wikipedia.org/wiki/Little_Britain,_London"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barnards-inn-lodging",
+    "name": "Barnard's Inn, Pip's lodging",
+    "progressLabel": "Ch. 21",
+    "character": "pip",
+    "coords": [-0.1098, 51.5176],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "here we were at Barnard’s Inn",
+    "passage": "My depression was not alleviated by the announcement, when he said here we were at Barnard’s Inn, for, I had supposed that establishment to be an hotel kept by Mr. Barnard, to which the Blue Boar in our town was a mere public-house. Whereas I now found Barnard to be a disembodied spirit, or a fiction, and his inn the dingiest collection of shabby buildings ever squeezed together in a rank corner as a club for Tom-cats.",
+    "note": "Pip's first London home, shared with Herbert Pocket, is a set of rooms in Barnard's Inn off Holborn, which the country boy had imagined as a grand hotel and finds to be a soot-blackened, rotting little square. One range of the old inn survives, now part of Gresham College.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapter XXI",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Barnard's Inn, Holborn, London; the surviving hall is now Gresham College",
+        "url": "https://en.wikipedia.org/wiki/Barnard%27s_Inn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "thames-below-gravesend-escape",
+    "name": "The reaches below Gravesend",
+    "progressLabel": "Ch. 54",
+    "character": "magwitch",
+    "coords": [0.437, 51.465],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dickens names the stretch, the broad reaches below Gravesend between Kent and Essex, without fixing a point; the pin marks the Lower Hope reach of the Thames downstream of Gravesend, where Pip and Herbert row to intercept the foreign steamer.",
+    "quoteAnchor": "long reaches below Gravesend, between Kent and Essex",
+    "passage": "We should then be well in those long reaches below Gravesend, between Kent and Essex, where the river is broad and solitary, where the water-side inhabitants are very few, and where lone public-houses are scattered here and there, of which we could choose one for a resting-place.",
+    "note": "In the climax Pip and his friends row the hunted Magwitch down the tidal Thames, meaning to put him aboard a Hamburg steamer and out of England. Below Gravesend, where the river runs broad between the Kent and Essex shores, the galley of the law overtakes them, the steamer bears down, and the escape ends in the water.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Great Expectations, Chapter LIV",
+        "url": "https://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Thames below Gravesend, the Lower Hope reach between Kent and Essex",
+        "url": "https://en.wikipedia.org/wiki/Gravesend,_Kent"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

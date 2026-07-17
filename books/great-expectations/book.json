@@ -4,20 +4,43 @@
   "author": "Charles Dickens",
   "published": 1861,
   "orderingKey": "chapter",
-  "center": [-0.1278, 51.5074],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [0.22, 51.46],
+  "zoom": 9,
   "setting": {
-    "city": "London",
+    "city": "Rochester",
     "country": "GB",
-    "note": "Pip’s London: Newgate and the Old Bailey, the Temple, Jaggers’s office in Little Britain, Wemmick’s wooden castle at Walworth. Dickens threads the Kent marshes to the city and back, and the money is always dirtier than it looks.",
-    "bbox": [-0.51, 51.287, 0.334, 51.692]
+    "note": "Pip's road runs from the Kent marshes to London and back. Dickens lightly fictionalises the marsh village and \"the town\", but draws them from real ground: the churchyard at Cooling on the Hoo peninsula, and Rochester, whose Restoration House became Satis House. In London the places are named outright, Little Britain and Smithfield, Newgate, Barnard's Inn. The bbox spans the whole run, from the estuary marshes east of Rochester to Holborn.",
+    "bbox": [-0.15, 51.37, 0.58, 51.53]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Charles Dickens published this in 1861.",
+    "originalWork": "Public domain. Charles Dickens, first published 1861; the author died in 1870.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Charles Dickens, Great Expectations (1861)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1400",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1870).",
+    "attribution": "Charles Dickens, Great Expectations (1861). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "the red-hot sparks",
+    "note": "The red of Joe's forge fire, the warm hearth Pip leaves behind for London, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "pip": {
+      "name": "Pip",
+      "color": "#2E5064",
+      "colorSourceQuote": "the low leaden line beyond was the river"
+    },
+    "estella": {
+      "name": "Estella",
+      "color": "#8A6A12",
+      "colorSourceQuote": "faded and yellow"
+    },
+    "magwitch": {
+      "name": "Abel Magwitch",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "his grey jacket"
+    }
   }
 }
