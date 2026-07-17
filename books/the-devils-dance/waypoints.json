@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tashkent-old-city",
+    "name": "The old city of Tashkent",
+    "progressLabel": "Tashkent, 1938",
+    "character": "abdulla",
+    "coords": [69.235, 41.32667],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old city of Tashkent, where Qodiriy lived and was arrested, is real and named; sited at Chorsu, the historic heart of the eski shahar, as a representative point for the labyrinth of mahalla lanes.",
+    "reference": "The 1938 strand",
+    "order": 1,
+    "note": "The frame of the novel opens in the old town of Tashkent, the warren of mud-brick mahallas and bazaars around Chorsu where the writer at its centre had his life before the terror. From here he is taken away, and the whole nineteenth-century story he carries in his head belongs to a man who began in this city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Chorsu Bazaar, Wikipedia, on the traditional bazaar in the centre of the old town of Tashkent",
+        "url": "https://en.wikipedia.org/wiki/Chorsu_Bazaar"
+      },
+      {
+        "kind": "external",
+        "ref": "Abdulla Qodiriy, Wikipedia, on the Uzbek writer arrested in Tashkent in 1938",
+        "url": "https://en.wikipedia.org/wiki/Abdulla_Qodiriy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tashkent-nkvd-prison",
+    "name": "The NKVD prison, Tashkent",
+    "progressLabel": "Tashkent, 1938",
+    "character": "abdulla",
+    "coords": [69.2295, 41.314],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The prison is real but the specific cell is not documented for the map; sited representatively in the old city of Tashkent, close to Tashtyurma, the tsarist-era jail the Soviet security services used during the terror.",
+    "reference": "The 1938 strand",
+    "order": 2,
+    "note": "Most of the frame narrative unfolds inside a crowded prison cell in Tashkent, where the writer is held during the purges of 1938. Unable to set anything on paper, he composes his last novel in his head, cellmate by cellmate, while interrogations grind on around him. The terror was real: he was shot that October.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "RFE/RL, on Tashtyurma, the old Tashkent prison built in 1891 and used through the Soviet period",
+        "url": "https://www.rferl.org/a/uzbekistan-prison-turned-into-park/29124138.html"
+      },
+      {
+        "kind": "external",
+        "ref": "Great Purge, Wikipedia, on the NKVD arrests and executions of 1937-1938",
+        "url": "https://en.wikipedia.org/wiki/Great_Purge"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kokand-khudayar-khan-palace",
+    "name": "Khudayar Khan's palace, Kokand",
+    "progressLabel": "Kokand, 19th century",
+    "character": "abdulla",
+    "coords": [70.9377, 40.5388],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The palace of Khudayar Khan in Kokand is real and standing; its coordinates are well documented.",
+    "reference": "The Kokand strand",
+    "order": 3,
+    "note": "The novel inside the novel is the court of the last khans of Kokand, the seat of the khanate that ruled the Ferghana Valley until Russia annexed it in the 1870s. The surviving palace of Khudayar Khan, the ruler who lost the khanate, anchors this world of poets, intrigue and the poet-queen Nodira, played out as the Great Game closes in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palace of Khudayar Khan, Wikipedia, on the royal palace in Kokand",
+        "url": "https://en.wikipedia.org/wiki/Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n"
+      },
+      {
+        "kind": "external",
+        "ref": "Kokand Khanate, Wikipedia, on the nineteenth-century khanate of the Ferghana Valley",
+        "url": "https://en.wikipedia.org/wiki/Khanate_of_Kokand"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "margilan-silk-city",
+    "name": "Margilan",
+    "progressLabel": "Ferghana Valley, 19th century",
+    "character": "abdulla",
+    "coords": [71.7195, 40.4695],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Margilan is a real city of the Ferghana Valley; sited at the city centre.",
+    "reference": "The Kokand strand",
+    "order": 4,
+    "note": "The Ferghana strand moves among the old silk towns of the valley, and Margilan is the most famous of them, a caravan and weaving centre for a thousand years. Places like it give the nineteenth-century story its texture: bazaars, silk, and the settled towns that the khanate lived on and that Russia set out to swallow.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Margilan, Wikipedia, on the silk-weaving city of the Ferghana Valley",
+        "url": "https://en.wikipedia.org/wiki/Margilan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ferghana-valley",
+    "name": "Ferghana",
+    "progressLabel": "Ferghana Valley, 19th century",
+    "character": "abdulla",
+    "coords": [71.7843, 40.3842],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city and valley of Ferghana are real; sited at the centre of the modern city, which stands for the wider valley the historical strand ranges across.",
+    "reference": "The Kokand strand",
+    "order": 5,
+    "note": "The whole nineteenth-century story sits in the Ferghana Valley, the fertile bowl ringed by mountains where the Kokand khanate rose and fell. The point marks the valley that ties the historical strand together, the ground the khans fought over and that Russian and British agents watched as the Great Game reached Central Asia.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fergana, Wikipedia, on the city and its region in eastern Uzbekistan",
+        "url": "https://en.wikipedia.org/wiki/Fergana"
+      },
+      {
+        "kind": "external",
+        "ref": "Fergana Valley, Wikipedia, on the valley shared by Uzbekistan, Kyrgyzstan and Tajikistan",
+        "url": "https://en.wikipedia.org/wiki/Fergana_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
