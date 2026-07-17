@@ -1,0 +1,138 @@
+[
+  {
+    "id": "buganda-countryside-mpigi",
+    "name": "The village in the Buganda countryside",
+    "progressLabel": "Childhood",
+    "character": "mugezi",
+    "coords": [32.3199, 0.2283],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The narrator's childhood village is fictional and unnamed on any map. It reads as rural Buganda in the hills southwest of Kampala, so this marks Mpigi, a Central Region town in that countryside, as a representative point.",
+    "reference": "Opening chapters, the village childhood",
+    "order": 1,
+    "note": "The narrator's early life plays out in a Catholic peasant household in the banana-growing country south of the capital, under a harsh mother and the wider upheaval of Idi Amin's Uganda. The setting is invented, but it belongs to rural Buganda, the green district country around towns like Mpigi.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mpigi, Central Uganda, Wikipedia, for the town coordinates in rural Buganda",
+        "url": "https://en.wikipedia.org/wiki/Mpigi"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Moses Isegawa, on the Buganda setting of the novel and its Amin-era backdrop",
+        "url": "https://en.wikipedia.org/wiki/Moses_Isegawa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "katigondo-national-major-seminary",
+    "name": "The seminary, Katigondo",
+    "progressLabel": "Seminary",
+    "character": "mugezi",
+    "coords": [31.73528, -0.22722],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The boarding seminary the narrator is sent to is not tied to a named institution. This marks Katigondo National Major Seminary, near Villa Maria in the Masaka country south of Kampala, as a representative real Catholic seminary of the region.",
+    "reference": "The seminary chapters",
+    "order": 2,
+    "note": "Sent away to a Catholic boarding seminary, the narrator trades the village for cassocks, discipline and the small tyrannies of institutional life, a world he observes with a cold eye. Uganda's seminaries of that kind sat in the Buganda countryside; Katigondo, above Villa Maria, is the region's long-established national seminary.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Katigondo National Major Seminary, Wikipedia, for the seminary's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Katigondo_National_Major_Seminary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "namirembe-hill-kampala",
+    "name": "Namirembe Hill, Kampala",
+    "progressLabel": "Kampala",
+    "character": "mugezi",
+    "coords": [32.55971, 0.315],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel evokes Kampala's hills without pinning the narrator to one address. Namirembe, the cathedral hill west of the centre, stands here as a representative point among the capital's seven hills.",
+    "reference": "The Kampala chapters",
+    "order": 3,
+    "note": "In the city the narrator climbs into the sprawl of Kampala built across its hills, a landscape of churches, mansions and slums rising and falling with the streets. Namirembe, crowned by its old Anglican cathedral, is one of the historic hills that give the capital its shape.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Namirembe Hill, Kampala, Wikipedia, for the hill's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Namirembe_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mengo-lubiri-kampala",
+    "name": "Mengo and the Lubiri",
+    "progressLabel": "Kampala",
+    "character": "mugezi",
+    "coords": [32.566111, 0.301667],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's Buganda politics have no single mapped scene, so this marks Mengo Hill and the Lubiri, the Kabaka's palace just south of the city centre, as the heart of the kingdom the book keeps in view.",
+    "reference": "The Kampala chapters",
+    "order": 4,
+    "note": "Buganda's monarchy and its uneasy place in independent Uganda run underneath the narrator's story. Mengo Hill holds the Lubiri, the walled palace of the Kabaka, whose grounds also served as a barracks and prison during the years of military rule the novel records.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lubiri, Wikipedia, on the Kabaka's palace at Mengo and its use under military rule",
+        "url": "https://en.wikipedia.org/wiki/Lubiri"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mengo, Uganda, Wikipedia, for the hill's location and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mengo,_Uganda"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-balikuddembe-owino-market",
+    "name": "St Balikuddembe (Owino) Market",
+    "progressLabel": "Kampala",
+    "character": "mugezi",
+    "coords": [32.572772, 0.310157],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The teeming downtown markets of the narrator's Kampala are not fixed to one stall. This marks St Balikuddembe, better known as Owino, the largest of the central-city markets, as a representative point.",
+    "reference": "The Kampala chapters",
+    "order": 5,
+    "note": "Downtown Kampala is where the narrator hustles, trades and survives amid crowds, scarcity and the ever-present danger of the Amin and Obote years. Owino Market, the huge open bazaar beside the old taxi park, is the kind of packed commercial ground that anchors that side of the city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St Balikuddembe (Owino) Market, Central Division, Kampala, OpenStreetMap, for the market coordinates",
+        "url": "https://www.openstreetmap.org/way/161834654"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "amsterdam-emigration",
+    "name": "Amsterdam",
+    "progressLabel": "Emigration",
+    "character": "mugezi",
+    "coords": [4.9041, 52.3676],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel closes with the narrator's emigration to the Netherlands. Amsterdam lies far outside the Ugandan setting and is marked here only as the book's endpoint.",
+    "reference": "Closing chapters, the Netherlands",
+    "order": 6,
+    "note": "The chronicle ends with departure: the narrator leaves Uganda for the Netherlands, exchanging the heat and violence of home for the cold canals and strangeness of a new country. Amsterdam is where the book sets him down, a world away from the Buganda hills where it began.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Moses Isegawa, on the narrator's emigration to the Netherlands at the novel's close",
+        "url": "https://en.wikipedia.org/wiki/Moses_Isegawa"
+      },
+      {
+        "kind": "guide",
+        "ref": "Amsterdam, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Amsterdam"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
