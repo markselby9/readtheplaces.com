@@ -87,12 +87,32 @@
     "certaintyNote": "The great country palace of Donnafugata is drawn from the real Filangeri di Cutò palace at Santa Margherita di Belice, where the author spent childhood summers (damaged in the 1968 Belice earthquake). The pin marks the town.",
     "reference": "Parts Two to Four",
     "order": 5,
-    "note": "The vast, half-shuttered country palace at Donnafugata, with its faded frescoes and endless rooms, is the setting for the great ball and for the prince's long reckoning with his own obsolescence. It comes from the real palace at Santa Margherita di Belice that Lampedusa knew as a boy. The house is the aristocracy made stone: magnificent, and already a museum.",
+    "note": "The vast, half-shuttered country palace at Donnafugata, with its faded frescoes and endless rooms, is the heart of the family's provincial summers and of the prince's slow reckoning with his own obsolescence. It comes from the real palace at Santa Margherita di Belice that Lampedusa knew as a boy. The house is the aristocracy made stone: magnificent, and already a museum.",
     "sources": [
       {
         "kind": "scholarly",
         "ref": "Santa Margherita di Belice and the Filangeri di Cutò palace behind the novel's Donnafugata",
         "url": "https://en.wikipedia.org/wiki/Santa_Margherita_di_Belice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-grand-ball-palermo",
+    "name": "The grand ball, Palermo",
+    "progressLabel": "Palermo, 1862",
+    "character": "fabrizio",
+    "coords": [13.36577, 38.11475],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sets its great ball in a Palermo palazzo without naming a real one. The pin marks Palazzo Valguarnera-Gangi, the palace long identified with the scene and used for it in Visconti's 1963 film.",
+    "reference": "Part Six",
+    "order": 6,
+    "note": "Late in the book the aristocracy gathers for a lavish night-long ball in a Palermo palazzo, and the ageing prince, moving among the mirrors and candlelight, feels his class and his own life drawing to a close. The set-piece is tied to Palazzo Valguarnera-Gangi, whose ballroom Visconti later filmed for the celebrated dance sequence.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palazzo Valguarnera-Gangi, the ballroom associated with The Leopard, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Palazzo_Valguarnera-Gangi"
       }
     ],
     "editorialStatus": "reviewed"
