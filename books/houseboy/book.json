@@ -1,0 +1,34 @@
+{
+  "id": "houseboy",
+  "title": "Houseboy",
+  "author": "Ferdinand Oyono",
+  "published": 1956,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [11.1544, 2.9155],
+  "zoom": 7.5,
+  "setting": {
+    "city": "Ebolowa",
+    "country": "CM",
+    "note": "Oyono's colonial station of Dangan is invented, but he built it from the southern Cameroon he knew: the forest country around Ebolowa and the administrative reach of Yaoundé under French rule. A houseboy's diary maps that world by its divisions, the Residence and the European quarter set apart from the African quarter, the Catholic mission, the prison, and the border with Spanish Guinea where the story ends.",
+    "bbox": [10.8, 2.05, 11.85, 4.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ferdinand Oyono, Une vie de boy, first published 1956. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/houseboy/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Houseboy, Ferdinand Oyono (1956). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red laterite of southern Cameroon's roads and the brick of the colonial station. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "toundi": {
+      "name": "Toundi",
+      "color": "#2E5064"
+    }
+  }
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "ebolowa-southern-cameroon",
+    "name": "Ebolowa, the country behind Dangan",
+    "progressLabel": "First exercise book",
+    "character": "toundi",
+    "coords": [11.1544, 2.9155],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Dangan is a fictionalised southern-Cameroon colonial town, not a real place. Ebolowa, the forest town in the South where Oyono grew up, is the real ground he drew it from, and it anchors the map here.",
+    "reference": "Toundi's diary, first exercise book",
+    "order": 1,
+    "note": "The narrator, a young man from a village in the southern forest, leaves his own people to serve the Europeans and keeps a diary of what he sees. His Dangan is invented, but the region is real: Ebolowa and the surrounding South, the world of the French administration and the Catholic missions that Oyono knew first-hand.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ebolowa, Wikipedia, on the town and its position in Cameroon's South Region",
+        "url": "https://en.wikipedia.org/wiki/Ebolowa"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Houseboy, Encyclopedia.com, on the novel's colonial southern-Cameroon setting",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/houseboy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dangan-catholic-mission",
+    "name": "The Catholic mission",
+    "progressLabel": "First exercise book",
+    "character": "toundi",
+    "coords": [11.1585, 2.9118],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The mission belongs to the fictional Dangan, so it has no fixed location; it is sited here as a representative point in the Ebolowa region, the kind of Catholic mission station Oyono drew on.",
+    "reference": "Toundi's diary, first exercise book",
+    "order": 2,
+    "note": "The boy's first place among the Europeans is the mission, where he serves the French priest who baptises and half-adopts him. When the priest dies, the protection ends, and the diary begins to show how thin the mission's promise of a shared faith really was.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Houseboy, SuperSummary study guide, on the mission and Father Gilbert",
+        "url": "https://www.supersummary.com/houseboy/summary/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ebolowa, Wikipedia, for the town used to site the mission",
+        "url": "https://en.wikipedia.org/wiki/Ebolowa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dangan-residence-european-quarter",
+    "name": "The Residence and the European quarter",
+    "progressLabel": "First exercise book",
+    "character": "toundi",
+    "coords": [11.1508, 2.9182],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The commandant's Residence and the European quarter are part of the invented Dangan; sited here as a representative point in Ebolowa, they stand for the segregated colonial-officer district of a southern-Cameroon station.",
+    "reference": "Toundi's diary, first exercise book",
+    "order": 3,
+    "note": "After the priest's death the narrator becomes houseboy to the district commandant, and the diary moves into the European quarter: the Residence, the officials' houses, the club. From the inside of these households he records the affairs, snobberies and casual contempt of the settlers, a world built to keep Africans as servants and out of sight.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Houseboy, Encyclopedia.com, on the European quarter and the commandant's household",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/houseboy"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ebolowa, Wikipedia, for the town used to site the Residence",
+        "url": "https://en.wikipedia.org/wiki/Ebolowa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dangan-prison",
+    "name": "The prison of Dangan",
+    "progressLabel": "Second exercise book",
+    "character": "toundi",
+    "coords": [11.1497, 2.9131],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The prison is a fictional feature of Dangan; sited here as a representative point in Ebolowa, it stands for the colonial lock-up attached to such a station.",
+    "reference": "Toundi's diary, second exercise book",
+    "order": 4,
+    "note": "When a theft at the Residence gives the Europeans a pretext, the narrator is arrested and taken to the station prison. There he is interrogated and beaten by colonial agents, the point at which the diary's quiet observation turns into a record of direct violence against him. The injuries he suffers there set his final flight in motion.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Houseboy, SuperSummary study guide, on Toundi's arrest, interrogation and beating",
+        "url": "https://www.supersummary.com/houseboy/summary/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ebolowa, Wikipedia, for the town used to site the prison",
+        "url": "https://en.wikipedia.org/wiki/Ebolowa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yaounde-french-administration",
+    "name": "Yaoundé, seat of the administration",
+    "progressLabel": "Second exercise book",
+    "character": "toundi",
+    "coords": [11.5021, 3.848],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Yaoundé is a real city and was the administrative centre of French Cameroun; Dangan is fictional, but its officials answer to the wider colonial machinery this town represents.",
+    "reference": "Toundi's diary, second exercise book",
+    "order": 5,
+    "note": "Beyond the station lies the larger colonial order that gives Dangan its power: the courts, the police and the officials of French Cameroun, whose regional capital was Yaoundé. Placing it on the map shows how far the authority that decides the narrator's fate reaches past the single town where he serves.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yaoundé, Wikipedia, on the city as the capital of French Cameroun",
+        "url": "https://en.wikipedia.org/wiki/Yaound%C3%A9"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Houseboy, Encyclopedia.com, on the colonial administration in the novel",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/houseboy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "border-death-spanish-guinea",
+    "name": "Across the border, Spanish Guinea",
+    "progressLabel": "Second exercise book",
+    "character": "toundi",
+    "coords": [11.317, 2.151],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Dangan is fictional, but the flight into Spanish Guinea is real geography: the narrator crosses south into Río Muni, today Equatorial Guinea. This marks Ebebiyín, the nearest border town to the southern Cameroon frontier, as a representative point; it lies outside the book's Cameroon setting.",
+    "reference": "Toundi's diary, second exercise book",
+    "order": 6,
+    "note": "Badly hurt and afraid of what the Europeans will do next, the narrator flees south across the colonial border into Spanish Guinea, the Spanish-ruled territory that is now Equatorial Guinea. He dies there of his injuries, far from home, and it is in exile that another man comes to hold the diary he left behind.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Río Muni, Wikipedia, on the former Spanish Guinea bordering southern Cameroon",
+        "url": "https://en.wikipedia.org/wiki/R%C3%ADo_Muni"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ebebiyín, Wikipedia, the Equatorial Guinea border town used as a representative point",
+        "url": "https://en.wikipedia.org/wiki/Ebebiy%C3%ADn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
