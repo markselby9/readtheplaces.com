@@ -1,0 +1,127 @@
+[
+  {
+    "id": "kilwa-swahili-coast",
+    "name": "The Swahili coast at Kilwa",
+    "progressLabel": "The coast",
+    "character": "yusuf",
+    "coords": [39.4126, -8.7488],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gurnah does not name the coastal district, but the old coral-stone trading towns of the southern Swahili coast are its clear model; this marks Kilwa Kivinje, a historic caravan terminus, as a representative point.",
+    "reference": "Opening chapters, the coastal world",
+    "order": 1,
+    "note": "The story begins in the ordinary coastal life of a small boy: a shopkeeper father, a railway halt, and the arrival of the wealthy trader to whom the boy is handed over as security for an unpaid debt. That world of dhows, verandahs and Indian and Arab merchants belongs to the old Swahili coast, of which Kilwa was one of the great historic ports.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "The Central Slave and Ivory Trade Route, UNESCO tentative list, on the coastal termini of the caravan trade",
+        "url": "https://whc.unesco.org/en/tentativelists/2095/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kilwa Kivinje, Wikipedia, for the town's coordinates and trading history",
+        "url": "https://en.wikipedia.org/wiki/Kilwa_Kivinje"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bagamoyo-merchants-town",
+    "name": "The merchant's coastal town, Bagamoyo",
+    "progressLabel": "The coast",
+    "character": "yusuf",
+    "coords": [38.9, -6.4333],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The merchant Aziz's town is never named in the novel; Bagamoyo, the mainland port where caravans formed up for the interior, is used here as the representative coastal type.",
+    "reference": "The merchant's household and garden",
+    "order": 2,
+    "note": "The boy grows up in the household of the merchant, working in the shop and tending the walled garden with its pool and fruit trees that gives the book its title. The trader's town is a coastal caravan port of exactly the kind Bagamoyo was, the place where goods and people gathered before the long march inland.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bagamoyo, Wikipedia, on the town as a coastal caravan terminus and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bagamoyo"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Nobel Prize in Literature 2021, biobibliography for Abdulrazak Gurnah, on the East African coastal settings of his fiction",
+        "url": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tabora-caravan-road",
+    "name": "Tabora on the caravan road",
+    "progressLabel": "The caravan",
+    "character": "yusuf",
+    "coords": [32.8194, -5.0305],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel follows a trading caravan inland without naming the towns; Tabora, historically Kazeh, was the central hub where the routes from the coast met, so it stands for the plateau stage of the journey.",
+    "reference": "The journey inland with the caravan",
+    "order": 3,
+    "note": "The boy joins one of the trading expeditions that carry goods deep into the interior, a slow and dangerous march across the dry plateau under an anxious caravan leader. The real spine of that trade ran through Tabora, the great inland market where Arab, Nyamwezi and coastal traders converged on the way to the lakes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tabora, Wikipedia, on the town's role as the main hub of the central caravan route, and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tabora"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Central Slave and Ivory Trade Route, UNESCO tentative list, on the route linking the coast to Lake Tanganyika through Tabora",
+        "url": "https://whc.unesco.org/en/tentativelists/2095/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ujiji-lake-tanganyika",
+    "name": "Lake Tanganyika at Ujiji",
+    "progressLabel": "The interior",
+    "character": "yusuf",
+    "coords": [29.6833, -4.9167],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The caravan's far destination among the interior peoples is not named; Ujiji, the western terminus of the caravan road on Lake Tanganyika, marks the deepest inland reach of that trade.",
+    "reference": "The furthest point of the trading journey",
+    "order": 4,
+    "note": "Deep in the interior the expedition reaches lands ruled by wary chiefs, where the traders are held, robbed and nearly broken before they can turn for home. The historic caravan road ran all the way to Ujiji on the shore of Lake Tanganyika, the western limit of the coastal traders' world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ujiji, Wikipedia, on the town as the caravan route's terminus on Lake Tanganyika",
+        "url": "https://en.wikipedia.org/wiki/Ujiji"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Central Slave and Ivory Trade Route, UNESCO tentative list, on the western end of the route at Lake Tanganyika",
+        "url": "https://whc.unesco.org/en/tentativelists/2095/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kilimanjaro-mountains",
+    "name": "The mountains at Kilimanjaro",
+    "progressLabel": "The mountains",
+    "character": "yusuf",
+    "coords": [37.3556, -3.0674],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The snow-topped mountain the characters marvel at is unnamed in the text; Kilimanjaro, the region's only permanently snow-capped peak, is the clear referent, marked here at its summit.",
+    "reference": "The wonder at the snow-capped mountain",
+    "order": 5,
+    "note": "Among the strangest sights of the interior is a mountain crowned with snow under the equatorial sun, a marvel the travellers struggle to believe. In this landscape only Kilimanjaro carries permanent snow, and it stands for the far northern edge of the country the caravans crossed as German rule closed in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mount Kilimanjaro, Wikipedia, on Uhuru Peak and its summit coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Nobel Prize in Literature 2021, biobibliography for Abdulrazak Gurnah, on the colonial-era East African setting of Paradise",
+        "url": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
