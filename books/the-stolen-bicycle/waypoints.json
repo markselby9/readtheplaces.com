@@ -1,0 +1,118 @@
+[
+  {
+    "id": "zhonghua-road-shopping-bazaar",
+    "name": "Zhonghua Road and the old Zhonghua Shopping Bazaar",
+    "progressLabel": "The lost bicycle",
+    "character": "cheng",
+    "coords": [121.509, 25.0448],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Zhonghua Shopping Bazaar (Chunghwa Market) on Zhonghua Road, a row of eight linked concrete blocks the family lived and tailored in. The whole complex was demolished in October 1992, so this marks the site of the vanished market, near today's Ximen station.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The narrator's family kept a suit-tailoring stall in the huge Zhonghua Shopping Bazaar, a warren of shops strung along Zhonghua Road in central Taipei, and it is here that his father and the family bicycle both disappear. The search for the missing machine sets the whole book in motion. The bazaar itself is gone: its eight blocks were pulled down in 1992 and replaced by an underground mall.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Taipei City Mall, Wikipedia, on the Zhonghua/Chunghwa Market bazaar demolished in 1992 and its site",
+        "url": "https://en.wikipedia.org/wiki/Taipei_Underground_Market"
+      },
+      {
+        "kind": "guide",
+        "ref": "Taiwan in Time: The brightly glowing wall of Taipei City, Taipei Times, on the market's history and 1992 demolition",
+        "url": "https://www.taipeitimes.com/News/feat/archives/2017/10/15/2003680361"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wanhua-bangka-old-town",
+    "name": "Wanhua (Bangka) old town",
+    "progressLabel": "Into the old quarter",
+    "character": "cheng",
+    "coords": [121.4999, 25.0369],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel moves through the old Wanhua district, historically Bangka (Monga), the oldest part of Taipei; this marks Longshan Temple, the district's landmark.",
+    "reference": "Central chapters",
+    "order": 2,
+    "note": "Much of the earthbound search runs through Wanhua, known by its old name Bangka, the first-settled and most weathered quarter of Taipei. Around Longshan Temple lie the lanes of small workshops, second-hand dealers and long-running bicycle trades that thread the narrator's inquiries into the city's older layers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Longshan Temple (Taipei), Wikipedia, for the Wanhua/Bangka district and temple coordinates",
+        "url": "https://en.wikipedia.org/wiki/Longshan_Temple_(Taipei)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bangka-bicycle-shop",
+    "name": "The family bicycle shop",
+    "progressLabel": "Following the machine",
+    "character": "cheng",
+    "coords": [121.5013, 25.0388],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not fix a street address for the bicycle trades it follows; this sites a representative point among the old bicycle and repair shops of the Wanhua-Bangka quarter, north of Longshan Temple.",
+    "reference": "Central chapters",
+    "order": 3,
+    "note": "The trail of the lost bicycle leads through the workshops of Taiwan's early cycle trade, where a well-made machine once carried the status a luxury car carries now. No single shopfront is pinned in the text, so this stands for the cluster of old bicycle and repair trades in the Bangka streets that the narrator's search keeps returning to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Books From Taiwan: The Stolen Bicycle, on the novel's use of Taiwan's bicycle-manufacturing history",
+        "url": "https://booksfromtaiwan.moc.gov.tw/books_info.php?id=60"
+      },
+      {
+        "kind": "guide",
+        "ref": "Longshan Temple (Taipei), Wikipedia, for the Wanhua/Bangka district location",
+        "url": "https://en.wikipedia.org/wiki/Longshan_Temple_(Taipei)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-town-antique-markets",
+    "name": "The old-town antique and flea markets",
+    "progressLabel": "Among the collectors",
+    "character": "cheng",
+    "coords": [121.5038, 25.0405],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's antique stalls and collectors' haunts are not tied to one named market; this marks a representative point among the second-hand and antique stalls of the old Wanhua-Ximen quarter.",
+    "reference": "Middle chapters",
+    "order": 4,
+    "note": "The narrator falls in with a hidden world of antique-bicycle collectors, met through flea-market stalls, scavengers' hoards and online message boards. The junk and antique trades of Taipei's old town are where these threads gather, each rusted frame opening onto another buried piece of the island's past.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Stolen Bicycle, Text Publishing, on the antique-bicycle collectors and Taiwan's history in the novel",
+        "url": "https://www.textpublishing.com.au/books/the-stolen-bicycle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "forests-of-northern-burma",
+    "name": "The forests of northern Burma",
+    "progressLabel": "The Burma campaign",
+    "character": "cheng",
+    "coords": [97.396, 25.386],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "A deliberate excursion far beyond the Taipei setting. The novel's wartime chapters range across the jungles of the Burma campaign without fixing one spot; this marks a representative point in the forests of northern Burma, near Myitkyina.",
+    "reference": "Wartime chapters",
+    "order": 5,
+    "note": "The history the bicycle carries reaches into the Second World War, when Taiwanese men were conscripted into the Japanese forces and the war logs of Burma. The book follows the working elephants of those jungles and Japan's bicycle-mounted units through the Southeast Asian campaign, binding the machine's story to a conflict fought a continent away from Taipei.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Stolen Bicycle by Wu Ming-Yi, Asian Review of Books, on the novel's Burma campaign, elephants and bicycle troops",
+        "url": "https://asianreviewofbooks.com/content/the-stolen-bicycle-by-wu-ming-yi/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Myitkyina, Wikipedia, for a coordinate in the forests of northern Burma",
+        "url": "https://en.wikipedia.org/wiki/Myitkyina"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
