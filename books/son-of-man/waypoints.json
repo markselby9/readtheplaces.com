@@ -1,0 +1,117 @@
+[
+  {
+    "id": "itape-village",
+    "name": "Itapé, in the Guairá",
+    "progressLabel": "Chapter 1",
+    "character": "miguel",
+    "coords": [-56.62, -25.85],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Roa Bastos names Itapé, a real town in the Guairá department; the specific hilltop where the wood-carver's Christ is set is not identified, so this marks the town centre.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The novel opens in this heartland village, seen through a boy who grows up to be Miguel Vera. Its memory turns on a self-taught wood-carver who withdraws to the hills with leprosy and carves a figure of Christ that the villagers come to venerate, against the wishes of the priest. Itapé is a real mission town founded in the seventeenth century by the Tebicuary-mí river.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Itapé, Wikipedia, on the town's location in the Guairá department and its river",
+        "url": "https://en.wikipedia.org/wiki/Itap%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sapukai-railway",
+    "name": "The railway town of Sapukai",
+    "progressLabel": "Chapter 3",
+    "character": "miguel",
+    "coords": [-56.9556, -25.6678],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The town of Sapukai (Sapucaí) is named; the sugar estate, the workshops and the exact stretch of track where the troop train is destroyed are drawn from its real railway history but not pinned to a single spot, so this marks the station complex.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "Sapukai holds the great locomotive workshops of the Asunción-Encarnación line, and around it the sugar country where labourers live close to bondage. The book's most terrible set piece is a troop train that never reaches the front: loaded with rebels and soldiers, it is blown apart on the line, an echo of the real dynamiting of a train here during the failed revolution of 1911-12. A twisted wreck is left rusting by the rails for years afterward.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Railway Complex and English Village of Sapucai, UNESCO tentative list, on the workshops and their history",
+        "url": "https://whc.unesco.org/en/tentativelists/6282/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sapucaí, Wikipedia, for the town's coordinates and railway role",
+        "url": "https://en.wikipedia.org/wiki/Sapuca%C3%AD"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "asuncion-capital",
+    "name": "Asunción, the capital",
+    "progressLabel": "Chapter 4",
+    "character": "miguel",
+    "coords": [-57.6359, -25.3007],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Asunción is named as the capital; the barracks, prison and police cells of the repression are composite rather than a single identified building, so this marks the historic city centre.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "The threads of the book pass through the capital on the Paraguay river, a city of power, courts and prisons. Here Miguel Vera trains as an officer and here the machinery of a repressive state grinds against the country people of the earlier chapters, jailing and exiling those who resist. Asunción is the seat from which the coming war will be commanded.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Asunción, Wikipedia, on the capital's history and river setting",
+        "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "puerto-casado-railhead",
+    "name": "The Chaco railhead, Puerto Casado",
+    "progressLabel": "Chapter 8",
+    "character": "miguel",
+    "coords": [-57.94, -22.29],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The river port and narrow-gauge railhead by which men were carried into the Chaco are not named in a single passage; Puerto Casado was the real gateway for Paraguayan troops and stands here as that point of entry.",
+    "reference": "Chapter 8",
+    "order": 4,
+    "note": "When the Chaco War comes, soldiers are moved by steamer up the Paraguay river to a northern port and then by a private narrow-gauge railway deep into the scrub. Puerto Casado, built around a tannin company's estate, was the real railhead that fed the front. From here the conscripts of the heartland villages march west into a country almost without water.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Puerto Casado, Wikipedia, on the river port and its Chaco War railhead role",
+        "url": "https://en.wikipedia.org/wiki/Puerto_Casado"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Chaco War, Wikipedia, on Paraguayan supply from Asunción via Puerto Casado into the Chaco",
+        "url": "https://en.wikipedia.org/wiki/Chaco_War"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chaco-front-boqueron",
+    "name": "The Chaco front, near Boquerón",
+    "progressLabel": "Chapter 9",
+    "character": "miguel",
+    "coords": [-59.9409, -22.7736],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sets its war chapters in the waterless Chaco without fixing a single fortín; Boquerón, the first great battle of 1932, marks that theatre here as a representative point.",
+    "reference": "Chapter 9",
+    "order": 5,
+    "note": "The final movement is the war itself, fought across a flat thorn desert where thirst kills as surely as bullets. Men die around dry water holes and stalled convoys, and Miguel Vera is drawn into the horror. The siege of the Bolivian strongpoint at Boquerón in September 1932 was the first major Paraguayan victory of the Chaco War, and stands for the whole terrible campaign the book records.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Battle of Boquerón (1932), Wikipedia, for the battle site coordinates and the September 1932 siege",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Boquer%C3%B3n_(1932)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Chaco War, Wikipedia, on the waterless conditions of the front",
+        "url": "https://en.wikipedia.org/wiki/Chaco_War"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
