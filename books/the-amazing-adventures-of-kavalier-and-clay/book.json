@@ -1,0 +1,35 @@
+{
+  "id": "the-amazing-adventures-of-kavalier-and-clay",
+  "title": "The Amazing Adventures of Kavalier & Clay",
+  "author": "Michael Chabon",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.97, 40.71],
+  "zoom": 11.2,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "date": "1939-1954",
+    "note": "The golden-age comic-book New York of two young cousins who invent a superhero to fight a war America has not yet joined. The map runs from a publisher's office high in the Empire State Building out to the tenement streets of Brooklyn, the bohemian rooms of Greenwich Village and the fairgrounds of Flushing Meadows, with Josef's Prague and a wartime Antarctic base held as far frames.",
+    "bbox": [-74.05, 40.6, -73.8, 40.8]
+  },
+  "rights": {
+    "originalWork": "In copyright. Michael Chabon, first published 2000. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://us.macmillan.com/books/9780312282998/theamazingadventuresofkavalierclay",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Amazing Adventures of Kavalier & Clay, Michael Chabon (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The inked red of a golden-age comic-book cover, the colour of the Escapist's suit and of the pulp printed cheap and sold at a dime. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sammy": {
+      "name": "Sammy Clay",
+      "color": "#2E5064"
+    }
+  }
+}

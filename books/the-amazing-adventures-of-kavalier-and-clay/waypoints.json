@@ -1,0 +1,154 @@
+[
+  {
+    "id": "flatbush-tenement",
+    "name": "Sammy's Flatbush",
+    "progressLabel": "Part I",
+    "character": "sammy",
+    "coords": [-73.9597, 40.6501],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names Flatbush as the Brooklyn neighbourhood where Sammy lives with his mother and where his cousin Josef arrives, but gives no street address; this marks a representative point in central Flatbush.",
+    "reference": "Part I",
+    "order": 1,
+    "note": "The book opens with Josef Kavalier turning up in the middle of the night at the cramped Brooklyn apartment Sammy shares with his mother, freshly escaped from occupied Prague. In these Flatbush rooms and on the surrounding streets the two teenage cousins first hatch the idea of drawing a comic book together.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Flatbush, Brooklyn, Wikipedia, for the neighbourhood and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Flatbush,_Brooklyn"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Amazing Adventures of Kavalier & Clay, study guide on setting, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/kavalier-and-clay/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "empire-state-building",
+    "name": "The Empire State Building",
+    "progressLabel": "Part II",
+    "character": "sammy",
+    "coords": [-73.9857, 40.7484],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Chabon places the cousins' publisher, Empire Novelty, in offices in the Empire State Building; the tower is real and named, while the specific floor and office are invented, so the pin marks the building itself.",
+    "reference": "Part II",
+    "order": 2,
+    "note": "The cousins take their superhero to a novelty-goods boss whose company keeps offices high in the Empire State Building, and there the Escapist is bought, packaged and turned into a business. The tower becomes the hub of their working lives as the comic makes them, for a while, rich and famous.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Empire State Building, Wikipedia, for the building and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Empire_State_Building"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Amazing Adventures of Kavalier & Clay, study guide on setting, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/kavalier-and-clay/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "worlds-fair-flushing-meadows",
+    "name": "The 1939 World's Fair, Flushing Meadows",
+    "progressLabel": "Part III",
+    "character": "sammy",
+    "coords": [-73.8447, 40.7466],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel stages scenes at the 1939 New York World's Fair, held on the reclaimed marsh of Flushing Meadows in Queens; this marks the fairgrounds, now Flushing Meadows Corona Park.",
+    "reference": "Part III",
+    "order": 3,
+    "note": "The 1939 World's Fair, with its gleaming vision of the World of Tomorrow, gives the novel one of its set pieces, a night out among the pavilions in Queens that mixes romance, publicity and unease as war closes in on Europe. It is a fitting stage for a story about American optimism and the entertainment machine.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "1939 New York World's Fair, Wikipedia, for the site and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair"
+      },
+      {
+        "kind": "guide",
+        "ref": "Flushing Meadows Corona Park, Wikipedia, for the present-day park on the fairgrounds",
+        "url": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "greenwich-village",
+    "name": "Greenwich Village",
+    "progressLabel": "Part IV",
+    "character": "sammy",
+    "coords": [-74.0027, 40.7336],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Chabon names Greenwich Village as the bohemian downtown world of artists and writers the cousins move through; no single address is fixed, so this marks the heart of the Village.",
+    "reference": "Part IV",
+    "order": 4,
+    "note": "Greenwich Village is the novel's downtown of artists, radicals and lovers, where Josef falls in with Rosa Saks and her circle and where Sammy edges toward a private truth about himself. Against the uptown business of the Empire State Building, the Village stands for art, desire and the life the cousins imagine outside the comics trade.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Greenwich Village, Wikipedia, for the neighbourhood and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Greenwich_Village"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Amazing Adventures of Kavalier & Clay, study guide on setting, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/kavalier-and-clay/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "prague-old-town",
+    "name": "Josef's Prague",
+    "progressLabel": "Prologue frame",
+    "character": "sammy",
+    "coords": [14.4177, 50.09],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "A deliberate excursion beyond the New York setting. The novel's Prague scenes turn on the Jewish quarter, Josefov, and its legend of the Golem; this marks the Old-New Synagogue at its heart. Set outsideSetting because it lies far from the New York bounding box.",
+    "reference": "Part I",
+    "order": 0,
+    "note": "Before New York there is Prague, the city Josef Kavalier must flee as the Nazis close in. In the novel his escape is bound up with the old Jewish quarter and its legend of the clay Golem, smuggled out of the city in a hidden coffin. Prague is the wound the whole American story tries to answer.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old New Synagogue, Prague, Wikipedia, for the Josefov landmark and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Old_New_Synagogue"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Amazing Adventures of Kavalier & Clay, study guide on the Prague sections, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/kavalier-and-clay/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "antarctica-kelvinator-station",
+    "name": "Josef's Antarctic base",
+    "progressLabel": "Wartime frame",
+    "character": "sammy",
+    "coords": [-68.13, -67.57],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "A deliberate excursion beyond the New York setting. Josef's wartime posting to a naval base in Antarctica is fictional; this marks a representative point on the Antarctic Peninsula near Marguerite Bay. Set outsideSetting because it lies far from the New York bounding box.",
+    "reference": "Part V",
+    "order": 5,
+    "note": "Grief and guilt drive Josef to enlist, and the navy sends him to an isolated station in Antarctica, a frozen chapter far from Brooklyn where the war reaches him in its strangest form. The white silence is the book's furthest point from the crowded New York where the Escapist was born.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Antarctic Peninsula, Wikipedia, for the region and representative coordinates",
+        "url": "https://en.wikipedia.org/wiki/Antarctic_Peninsula"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Amazing Adventures of Kavalier & Clay, study guide on the Antarctica section, SparkNotes",
+        "url": "https://www.sparknotes.com/lit/kavalier-and-clay/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
