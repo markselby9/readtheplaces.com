@@ -1,0 +1,34 @@
+{
+  "id": "the-grapes-of-wrath",
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "published": 1939,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-107.0, 35.15],
+  "zoom": 5,
+  "setting": {
+    "city": "Sallisaw",
+    "country": "US",
+    "note": "Steinbeck follows one Dust Bowl family the whole length of Route 66. Driven off their land near Sallisaw in eastern Oklahoma, the Joads load a truck and drive west through Oklahoma City, the panhandle and the desert, across the Colorado River at Needles, over the mountains and down into the California Central Valley, where the promised work turns out to be hunger and hostility. The map is that migration, a real highway from Oklahoma to a government camp near Bakersfield.",
+    "bbox": [-119.15, 34.6, -94.6, 35.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. John Steinbeck, first published 1939. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Grapes of Wrath, John Steinbeck (1939). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red dust of the ruined Oklahoma farms that opens the book and blows through all of it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "tom": {
+      "name": "Tom Joad",
+      "color": "#2E5064"
+    }
+  }
+}
