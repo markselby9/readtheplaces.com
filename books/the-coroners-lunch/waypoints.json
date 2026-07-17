@@ -1,0 +1,123 @@
+[
+  {
+    "id": "mahosot-hospital-morgue",
+    "name": "The morgue at Mahosot Hospital",
+    "progressLabel": "Chapter 1",
+    "character": "siri",
+    "coords": [102.6121, 17.9599],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mahosot Hospital is a real hospital on Quai Fa Ngum by the Mekong in Vientiane; this marks the hospital grounds, where the novel's fictional national morgue is housed.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book runs out of a run-down morgue at Mahosot Hospital, where the reluctant coroner and his two assistants make do with failing equipment and no proper training. The bodies that start the plot, a Party official's wife and three drowned men, all pass across these tables. The hospital is real and still stands by the river; the state morgue of the story is Cotterill's invention set inside it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mahosot Hospital, Wikipedia, on the riverside hospital in Vientiane",
+        "url": "https://en.wikipedia.org/wiki/Mahosot_Hospital"
+      },
+      {
+        "kind": "external",
+        "ref": "Lao-Oxford-Mahosot Hospital Wellcome Trust Research Unit, listing the hospital on Quai Fa Ngum at about 17.96N 102.61E",
+        "url": "https://www.tropmedres.ac/units/lomwru-laos"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mekong-waterfront-quai-fa-ngum",
+    "name": "The Mekong waterfront, Quai Fa Ngum",
+    "progressLabel": "Chapter 2",
+    "character": "siri",
+    "coords": [102.6046, 17.962],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Mekong riverfront and its Fa Ngum quay in Vientiane are real; this marks a representative point on the embankment that the hospital and central city look onto.",
+    "reference": "Chapters 1-2",
+    "order": 2,
+    "note": "The Mekong is the edge of Siri's world: the far bank is Thailand, and the river carries both bodies and the constant fear of who might slip across it. Much of the early investigation plays out along the Vientiane embankment, where drowned men are pulled ashore and the coroner walks home past the water in the evenings.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Vientiane, Wikipedia, on the capital's position on the Mekong facing Thailand",
+        "url": "https://en.wikipedia.org/wiki/Vientiane"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mekong, Wikipedia, on the river forming the Laos-Thailand border at Vientiane",
+        "url": "https://en.wikipedia.org/wiki/Mekong"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "government-ministries-lane-xang",
+    "name": "The government ministries, Lane Xang Avenue",
+    "progressLabel": "Chapter 3",
+    "character": "siri",
+    "coords": [102.6169, 17.9686],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lane Xang Avenue and its Patuxai monument are the real ceremonial and government spine of Vientiane; this marks that quarter, where the novel's ministries and Party offices sit rather than a single named building.",
+    "reference": "Chapters 3-5",
+    "order": 3,
+    "note": "Siri is summoned repeatedly to the offices of the new republic, where senior Party men lean on him to sign the findings they want and to leave the awkward ones alone. The ministries of the story cluster along the grand avenue that runs inland from the river to the Patuxai arch, the administrative heart of the young People's Democratic Republic.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Patuxai, Wikipedia, on the monument at the head of Lane Xang Avenue in the government quarter",
+        "url": "https://en.wikipedia.org/wiki/Patuxai"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lane Xang Avenue, Vientiane, on the ceremonial boulevard lined with ministries",
+        "url": "https://en.wikipedia.org/wiki/Vientiane"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pha-that-luang",
+    "name": "That Luang stupa",
+    "progressLabel": "Chapter 6",
+    "character": "siri",
+    "coords": [102.6331, 17.9757],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pha That Luang is the real golden stupa and national symbol of Laos, on the northeastern edge of Vientiane; the coordinates mark the monument itself.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "The great gilded stupa, the country's chief religious monument, stands over Vientiane as a reminder of the old faith the new government would rather forget. Siri, a lifelong Communist who keeps finding himself pulled toward the spirit world, moves through its grounds as the case turns from politics toward something harder to explain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pha That Luang, Wikipedia, on the national stupa in Vientiane",
+        "url": "https://en.wikipedia.org/wiki/Pha_That_Luang"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plain-of-jars-xieng-khouang",
+    "name": "The Plain of Jars, Xieng Khouang",
+    "progressLabel": "Chapters 10-13",
+    "character": "siri",
+    "coords": [103.1533, 19.4306],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Plain of Jars in Xieng Khouang province is a real megalithic landscape near Phonsavan, about 250 km northeast of Vientiane; this marks Jar Site 1, Thong Hai Hin. It sits well outside the Vientiane setting.",
+    "reference": "Chapters 10-13",
+    "order": 5,
+    "note": "The investigation takes Siri north to the Hmong highlands around the Plain of Jars, a country of stone jars, war craters and villages still uneasy with the new regime. Here the case opens onto old scores, buried secrets and the shamanism that shadows the whole book, far from the ministries of the capital.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plain of Jars, Wikipedia, on the megalithic sites in Xieng Khouang and Jar Site 1 near Phonsavan",
+        "url": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+      },
+      {
+        "kind": "guide",
+        "ref": "Xiangkhouang province, Wikipedia, on the highland province northeast of Vientiane",
+        "url": "https://en.wikipedia.org/wiki/Xiangkhouang_province"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

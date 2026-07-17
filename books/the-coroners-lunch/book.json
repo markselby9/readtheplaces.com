@@ -1,0 +1,35 @@
+{
+  "id": "the-coroners-lunch",
+  "title": "The Coroner's Lunch",
+  "author": "Colin Cotterill",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [102.6118, 17.966],
+  "zoom": 12.5,
+  "setting": {
+    "city": "Vientiane",
+    "country": "LA",
+    "date": "1976",
+    "note": "Cotterill's Vientiane belongs to the first year of the Lao People's Democratic Republic, a shabby, watchful riverside capital where the new order runs on rumour and shortage. Dr Siri Paiboun, drafted at seventy-two into the job of national coroner, works out of a broken-down morgue at Mahosot Hospital and carries his cases from the ministries and the Mekong quay to the That Luang stupa, and once far north to the Hmong highlands of the Plain of Jars.",
+    "bbox": [102.55, 17.9, 102.7, 18.02]
+  },
+  "rights": {
+    "originalWork": "In copyright. Colin Cotterill, first published 2004. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://sohopress.com/books/the-coroners-lunch/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Coroner's Lunch, Colin Cotterill (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The rust-red of laterite roads and the robes of the highland temples that shadow Siri's cases. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "siri": {
+      "name": "Dr Siri Paiboun",
+      "color": "#2E5064"
+    }
+  }
+}
