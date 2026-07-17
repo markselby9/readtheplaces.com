@@ -1,0 +1,34 @@
+{
+  "id": "the-leopard",
+  "title": "The Leopard",
+  "author": "Giuseppe Tomasi di Lampedusa",
+  "published": 1958,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [13.1, 37.7],
+  "zoom": 8,
+  "setting": {
+    "city": "Palermo",
+    "country": "IT",
+    "note": "Lampedusa maps the end of aristocratic Sicily onto the real island his own family ruled. As Garibaldi lands at Marsala in 1860 and the old order falls, Don Fabrizio, Prince of Salina, moves between his Palermo palace and the family's dusty inland estate of Donnafugata, drawn from the Tomasi towns of Palma di Montechiaro and Santa Margherita di Belice. The map is western Sicily, from the capital to the sun-struck interior.",
+    "bbox": [12.35, 37.1, 13.85, 38.25]
+  },
+  "rights": {
+    "originalWork": "In copyright. Giuseppe Tomasi di Lampedusa, first published 1958. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Leopard",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Leopard, Giuseppe Tomasi di Lampedusa (1958). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A5A12",
+    "note": "The faded gold of the Salina leopard and the sun-baked Sicilian interior. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "fabrizio": {
+      "name": "Don Fabrizio",
+      "color": "#2E5064"
+    }
+  }
+}
