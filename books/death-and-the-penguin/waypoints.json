@@ -1,0 +1,127 @@
+[
+  {
+    "id": "viktors-flat",
+    "name": "Viktor's flat",
+    "progressLabel": "Opening",
+    "character": "viktor",
+    "coords": [30.509, 50.446],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel never gives Viktor an address; it reads as an ordinary flat in the central districts of Kyiv, so this marks a representative point in the residential centre.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The story begins in the small apartment a struggling writer shares with a king penguin he took in when the zoo could no longer feed its animals. The bird pads across the parquet, the writer works at short pieces for money, and both of them keep a companionable, melancholy silence. The book fixes no street for the flat, but everything about it belongs to the lived-in centre of the city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Death and the Penguin, Wikipedia, on the Kyiv setting and Viktor's apartment life with the penguin",
+        "url": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+      },
+      {
+        "kind": "inference",
+        "ref": "Sited at a representative point in central Kyiv, since the novel gives the flat no address",
+        "url": "https://en.wikipedia.org/wiki/Kyiv"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kyiv-zoo",
+    "name": "Kyiv Zoo",
+    "progressLabel": "Opening",
+    "character": "viktor",
+    "coords": [30.4628, 50.4542],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Kyiv Zoo as the penguin's origin; this marks the real zoo on Prospekt Peremohy.",
+    "reference": "Opening chapters",
+    "order": 2,
+    "note": "The penguin comes from the city zoo, which in the hungry years after independence gave animals away to anyone who could keep them. The real Kyiv Zoo sits on Prospekt Peremohy in the west of the centre; its collapse into poverty is the small civic disaster that puts a flightless Antarctic bird in a Kyiv apartment.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kyiv Zoo, Wikipedia, for the zoo's location on Prospekt Peremohy and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Kyiv_Zoo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Death and the Penguin, Wikipedia, on the penguin adopted from the bankrupt Kyiv Zoo",
+        "url": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "newspaper-office",
+    "name": "The newspaper office",
+    "progressLabel": "Early chapters",
+    "character": "viktor",
+    "coords": [30.523, 50.447],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The paper that hires Viktor is not tied to a named building; this marks a representative point in the central press and business quarter around Khreshchatyk.",
+    "reference": "Early chapters",
+    "order": 3,
+    "note": "A newspaper editor gives the writer a strange commission: advance obituaries of the notable and the powerful, filed and held until the subjects die. The office is never pinned to a real address, but a mid-1990s Kyiv daily belongs to the central quarter near Khreshchatyk. The job is the door through which the city's quiet violence enters his life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Death and the Penguin, Wikipedia, on Viktor's job writing obituaries for a Kyiv newspaper",
+        "url": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+      },
+      {
+        "kind": "inference",
+        "ref": "Sited near Khreshchatyk, the central avenue of Kyiv, where the city's newspapers were based",
+        "url": "https://en.wikipedia.org/wiki/Khreshchatyk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-kyiv",
+    "name": "Central Kyiv",
+    "progressLabel": "Middle chapters",
+    "character": "viktor",
+    "coords": [30.5212, 50.45],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is set explicitly in Kyiv; this marks Maidan Nezalezhnosti at the heart of the centre where the funerals and meetings play out.",
+    "reference": "Middle chapters",
+    "order": 4,
+    "note": "As the obituaries start to come due with unnerving speed, the writer is drawn through the public heart of the city: the well-attended funerals, the handovers, the men who pay for his silence. Independence Square and the streets around it stand for the central Kyiv where this post-Soviet economy of favours does its business in plain sight.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Maidan Nezalezhnosti, Wikipedia, for the central square of Kyiv and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti"
+      },
+      {
+        "kind": "guide",
+        "ref": "Death and the Penguin, Wikipedia, on the Kyiv underworld and the funerals Viktor attends",
+        "url": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frozen-dnieper",
+    "name": "The frozen Dnieper",
+    "progressLabel": "Closing chapters",
+    "character": "viktor",
+    "coords": [30.5555, 50.438],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Dnieper is the real river of Kyiv; this marks the central embankment by the Dnipro metro where its ice edges the city.",
+    "reference": "Closing chapters",
+    "order": 5,
+    "note": "The great river that splits the city runs through the book's cold, closing stretch, its winter ice a fitting stage for a story about a penguin far from any pole. The Dnieper is real and central to Kyiv; the embankment here, below the Dnipro metro, stands for the frozen water where the novel's chill deepens toward its end.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dnieper, Wikipedia, on the river running through Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Dnieper"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dnipro (Kyiv Metro), Wikipedia, for the central embankment coordinates on the Dnieper",
+        "url": "https://en.wikipedia.org/wiki/Dnipro_(Kyiv_Metro)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
