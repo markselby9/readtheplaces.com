@@ -1,0 +1,154 @@
+[
+  {
+    "id": "koves-family-flat",
+    "name": "The Köves family flat, Pest",
+    "progressLabel": "Chapter 1",
+    "character": "gyorgy",
+    "coords": [19.0664, 47.5024],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the family an address; it places them in a Jewish household in wartime Budapest, so this marks Erzsébetváros, the historic Jewish quarter of Pest and the heart of the district later sealed as a ghetto.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens on an ordinary domestic evening: the boy's father is being sent to a forced-labour service, and the family gathers for a last meal before he goes. The scene belongs to Jewish Budapest in 1944, a life of yellow stars, curfews and permits that still looks, from the inside, like normal life.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness, Wikipedia, plot summary for the opening chapters in Budapest",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      },
+      {
+        "kind": "guide",
+        "ref": "Erzsébetváros, Wikipedia, on the District VII Jewish quarter of Pest and the coordinates used here",
+        "url": "https://en.wikipedia.org/wiki/Erzs%C3%A9betv%C3%A1ros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shell-refinery-csepel",
+    "name": "The Shell refinery, Csepel",
+    "progressLabel": "Chapter 4",
+    "character": "gyorgy",
+    "coords": [19.0699, 47.4317],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the boy's assigned workplace as the Shell petroleum works at Csepel; the exact building is not identified, so this marks Csepel, the industrial island district on the southern edge of Budapest.",
+    "reference": "Chapter 4",
+    "order": 2,
+    "note": "With his father gone, the boy is given a work permit and a place as an apprentice at an oil refinery on Csepel, the factory island south of the city. The daily commute by suburban train, treated as a small adult adventure, is the routine that a single morning will break.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness Summary, SuperSummary, on the Shell refinery work assignment at Csepel",
+        "url": "https://www.supersummary.com/fatelessness/summary/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Csepel, Wikipedia, on the industrial District XXI of Budapest and the coordinates used here",
+        "url": "https://en.wikipedia.org/wiki/Csepel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "budakalasz-brickyard",
+    "name": "The brick factory, Budakalász",
+    "progressLabel": "Chapter 4",
+    "character": "gyorgy",
+    "coords": [19.048, 47.615],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel takes the boy off a halted bus to a brickyard used to hold those being deported. On the northern route out of Budapest the documented collection site was the brickworks at Budakalász, which this marks; the novel describes the scene rather than naming the town.",
+    "reference": "Chapters 4-5",
+    "order": 3,
+    "note": "On the way to work the boy's bus is stopped by gendarmes and the Jewish passengers are held, then marched to a brickyard on the city's northern edge where deportees were gathered before the trains. Budakalász was a real assembly point of the 1944 deportations; here the ordinary journey becomes the start of the transport east.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness, Wikipedia, on the boy's removal from the bus and detention before deportation",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      },
+      {
+        "kind": "guide",
+        "ref": "Budakalász, Wikipedia, for the town on the northern edge of the Budapest area and the coordinates used here",
+        "url": "https://en.wikipedia.org/wiki/Budakal%C3%A1sz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "auschwitz-birkenau",
+    "name": "Auschwitz-Birkenau",
+    "progressLabel": "Chapter 5",
+    "character": "gyorgy",
+    "coords": [19.1737, 50.0343],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Auschwitz as the first destination. This marks the Birkenau (Auschwitz II) site in Oświęcim, Poland, far outside the Budapest setting; it is included because the deportation is the hinge of the book.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "The train from the brickyard carries the boy to Auschwitz-Birkenau, where an SS selection on the ramp decides in a moment who is sent to work and who is not. The place lies far outside the Budapest map, but the novel's whole arc runs through it, so it is marked as an excursion beyond the frame.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness, Wikipedia, on the deportation to Auschwitz and the selection",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      },
+      {
+        "kind": "guide",
+        "ref": "Auschwitz-Birkenau State Museum GPS coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/pl/poland/16113/auschwitz-birkenau-state-museum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "buchenwald",
+    "name": "Buchenwald",
+    "progressLabel": "Chapters 6-8",
+    "character": "gyorgy",
+    "coords": [11.2481, 51.0222],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Buchenwald and its satellite camp Zeitz. This marks the main Buchenwald site on the Ettersberg near Weimar, Germany, far outside the Budapest setting and included as an excursion beyond the frame.",
+    "reference": "Chapters 6-8",
+    "order": 5,
+    "note": "Moved on from Auschwitz, the boy is registered at Buchenwald and sent to labour at its satellite camp near Zeitz, then back to Buchenwald as illness and starvation nearly finish him. Most of the book's second half unfolds here, on German soil far from home, until liberation in the spring of 1945.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness, Wikipedia, on Buchenwald, Zeitz and the boy's survival to liberation",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      },
+      {
+        "kind": "guide",
+        "ref": "Buchenwald concentration camp GPS coordinates, latitude.to",
+        "url": "https://latitude.to/articles-by-country/de/germany/1543/buchenwald-concentration-camp"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "return-to-budapest",
+    "name": "Return to Budapest",
+    "progressLabel": "Chapter 9",
+    "character": "gyorgy",
+    "coords": [19.0699, 47.4966],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The final chapter returns the boy to Budapest without fixing a single address; this marks the Grand Boulevard of Pest, near Blaha Lujza tér, as a representative point in the changed city he walks back into.",
+    "reference": "Chapter 9",
+    "order": 6,
+    "note": "The boy comes back to a Budapest that has moved on without him: strangers in old rooms, well-meaning adults who want him to forget, and his own refusal to call what happened either fate or a nightmare. The closing chapter belongs to the streets of Pest, the ordinary city that has quietly rearranged itself in his absence.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Fatelessness, Wikipedia, on the return to Budapest and the closing chapter",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      },
+      {
+        "kind": "guide",
+        "ref": "Blaha Lujza tér, Wikipedia, for the Grand Boulevard location in Pest and the coordinates used here",
+        "url": "https://en.wikipedia.org/wiki/Blaha_Lujza_t%C3%A9r"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

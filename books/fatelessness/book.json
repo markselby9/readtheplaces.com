@@ -1,0 +1,35 @@
+{
+  "id": "fatelessness",
+  "title": "Fatelessness",
+  "author": "Imre Kertész",
+  "published": 1975,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [19.0402, 47.4979],
+  "zoom": 10.8,
+  "setting": {
+    "city": "Budapest",
+    "country": "HU",
+    "date": "1944",
+    "note": "The wartime Budapest of a fifteen-year-old boy who is marked, taken and deported in the summer of 1944. The map holds the ordinary points of his last free weeks, a Pest flat, an apprentice job across the river at Csepel, and the brickyard on the northern edge where a stopped bus ends the ordinary. From there the novel travels out of the frame to the camps and, at the last, returns to a city that has changed while he was gone.",
+    "bbox": [18.95, 47.38, 19.2, 47.66]
+  },
+  "rights": {
+    "originalWork": "In copyright. Imre Kertész, first published in Hungarian as Sorstalanság, 1975. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/92010/fatelessness-by-imre-kertesz/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Fatelessness, Imre Kertész (1975). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "A plain, sober grey, chosen to sit quietly against the subject rather than to decorate it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gyorgy": {
+      "name": "György Köves",
+      "color": "#8A3B1E"
+    }
+  }
+}
