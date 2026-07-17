@@ -1,0 +1,117 @@
+[
+  {
+    "id": "source-of-the-nile-rukarara",
+    "name": "The source of the Nile, Rukarara",
+    "progressLabel": "The spring",
+    "character": "virginia",
+    "coords": [29.33124, -2.28221],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel takes its name from the spring near the school, held to be a source of the Nile; this marks the Rukarara headwater in the Nyungwe highlands that a 2005-2006 expedition traced as the river's most distant source.",
+    "reference": "The Nile spring above the lycee",
+    "order": 1,
+    "note": "The school is named for a statue of the Virgin that stands by a trickle of water in the mountains, revered as a source of the Nile. The real headwater lies in the Nyungwe forest of southern Rwanda, a muddy pool that modern surveys identified as the river's furthest origin from the sea.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rukarara River, Wikipedia, on the Nyungwe headwater confirmed as the Nile's most distant source",
+        "url": "https://en.wikipedia.org/wiki/Rukarara_River"
+      },
+      {
+        "kind": "external",
+        "ref": "Source of the Nile in Nyungwe, on the 2005-2006 expedition to the Rukarara pool",
+        "url": "https://www.nyungweforestnationalpark.org/nyungwe-furthest-source-nile/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lycee-our-lady-of-the-nile",
+    "name": "The lycee of Our Lady of the Nile",
+    "progressLabel": "The lycee",
+    "character": "virginia",
+    "coords": [29.365, -2.34],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The lycee is a fictional school; it is sited here in the real Rwandan highlands near the Nile source, close to the setting Mukasonga drew from a Catholic girls' boarding school she attended in southern Rwanda.",
+    "reference": "The boarding school on the mountain",
+    "order": 2,
+    "note": "Almost the whole story unfolds inside an elite Catholic boarding school for girls, set so high and so remote that the pupils are kept apart from the country below. The school is invented, but the author, who was a Tutsi schoolgirl in Rwanda in these years, built it from the real lycees of the southern highlands.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Our Lady of the Nile, publisher page, on the mountaintop lycee setting",
+        "url": "https://www.archipelagobooks.org/book/our-lady-of-the-nile/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Scholastique Mukasonga, Wikipedia, on her Rwandan schooling and the novel's setting",
+        "url": "https://en.wikipedia.org/wiki/Scholastique_Mukasonga"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nyungwe-forest-highlands",
+    "name": "The Nyungwe forest highlands",
+    "progressLabel": "The mountains",
+    "character": "virginia",
+    "coords": [29.29, -2.49],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places the school amid mist, tea slopes and mountain forest without a survey point; this marks the Nyungwe montane forest and its Kamiranzovu swamp, the highland that feeds the Nile source.",
+    "reference": "The forested highlands around the school",
+    "order": 3,
+    "note": "The landscape around the school is one of high forest, rain and cloud, with local shrines and a hillside pilgrimage that sit uneasily beside the convent's Catholicism. The surviving montane forest of Nyungwe, wet enough to cradle the Nile's first waters, stands in for that world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nyungwe National Park, Wikipedia, on the montane forest and Kamiranzovu swamp of southern Rwanda",
+        "url": "https://en.wikipedia.org/wiki/Nyungwe_National_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "butare-huye-town",
+    "name": "Butare (Huye)",
+    "progressLabel": "The town",
+    "character": "virginia",
+    "coords": [29.7394, -2.5967],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book gestures at the ordered towns of the south below the mountain without pinning a scene here; Butare, now Huye, the southern seat of church and university, stands as that nearest real town.",
+    "reference": "The southern town below the highlands",
+    "order": 4,
+    "note": "Below the school lies the settled country the girls travel through on their way to and from term, a place of missions, colonial-era institutions and the everyday order the mountain keeps at bay. Butare, renamed Huye, was the ecclesiastical and academic centre of the southern province.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Huye (Butare), Wikipedia, on the southern town's church and university history",
+        "url": "https://en.wikipedia.org/wiki/Huye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kigali-capital",
+    "name": "Kigali",
+    "progressLabel": "The capital",
+    "character": "virginia",
+    "coords": [30.0606, -1.9536],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The capital is named in the novel as the seat of power and of the girls' well-connected families; this marks central Kigali.",
+    "reference": "The capital that frames the school",
+    "order": 5,
+    "note": "Kigali is the far-off capital whose politics reach the school: ministers' and generals' daughters carry its quota system and its hatreds up the mountain, and the persecution that will grow into the 1994 genocide is scripted here first. The city frames a story that is really about the whole country.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kigali, Wikipedia, for the capital's location and role as seat of government",
+        "url": "https://en.wikipedia.org/wiki/Kigali"
+      },
+      {
+        "kind": "external",
+        "ref": "Our Lady of the Nile, publisher page, on the novel as a foreshadowing of the genocide",
+        "url": "https://www.archipelagobooks.org/book/our-lady-of-the-nile/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
