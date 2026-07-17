@@ -1,0 +1,34 @@
+{
+  "id": "ali-and-nino",
+  "title": "Ali and Nino",
+  "author": "Kurban Said",
+  "published": 1937,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [49.84, 40.37],
+  "zoom": 11.5,
+  "setting": {
+    "city": "Baku",
+    "country": "AZ",
+    "note": "Kurban Said's Baku sits on the line between Europe and Asia, an oil city on the Caspian where a Muslim boy and a Christian girl try to build a life across faiths. The map holds the walled Old City and its Maiden Tower, the boom-era mansions and the seaside boulevard, then reaches inland to the mountain town of Shusha and closes at Ganja, as a short-lived Azerbaijani republic rises and falls.",
+    "bbox": [46.0, 39.5, 50.2, 41.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kurban Said, first published 1937. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/60649/ali-and-nino-by-kurban-said/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Ali and Nino, Kurban Said (1937). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The deep blue-grey of the Caspian off the Baku waterfront. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ali": {
+      "name": "Ali Khan Shirvanshir",
+      "color": "#8A3B1E"
+    }
+  }
+}

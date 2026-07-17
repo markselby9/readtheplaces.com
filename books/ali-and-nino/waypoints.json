@@ -1,0 +1,128 @@
+[
+  {
+    "id": "icherisheher-old-city",
+    "name": "The Old City, Icherisheher",
+    "progressLabel": "Baku",
+    "character": "ali",
+    "coords": [49.8347, 40.3667],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is set squarely in Baku's walled Old City; this marks the centre of Icherisheher, the historic core inside the fortress walls.",
+    "reference": "Opening chapters, Baku",
+    "order": 1,
+    "note": "The story begins inside the walled quarter of Baku, a maze of narrow lanes and flat roofs where the young narrator, son of an old Muslim family, grows up looking east toward Asia. This is the ground on which his world sits before oil money and a European war begin to pull it apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower, UNESCO World Heritage listing",
+        "url": "https://whc.unesco.org/en/list/958/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Icherisheher (Old City), Baku, Wikipedia, for location and history of the walled quarter",
+        "url": "https://en.wikipedia.org/wiki/Icherisheher"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "maiden-tower",
+    "name": "The Maiden Tower",
+    "progressLabel": "Baku",
+    "character": "ali",
+    "coords": [49.8357, 40.3597],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Maiden Tower is a named landmark of the Old City in the novel; coordinates are the tower itself in south-east Icherisheher.",
+    "reference": "Baku, the Old City",
+    "order": 2,
+    "note": "The stone cylinder of the Maiden Tower stands at the seaward edge of the Old City, the emblem of Ali's Baku and of the legends that cling to it. From here the fortress looks out over the Caspian, the meeting point of the two cultures the book keeps trying to reconcile.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Maiden Tower (Baku), Wikipedia, for coordinates and description of the monument",
+        "url": "https://en.wikipedia.org/wiki/Maiden_Tower_(Baku)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baku-seaside-boulevard",
+    "name": "The seaside boulevard",
+    "progressLabel": "Baku",
+    "character": "ali",
+    "coords": [49.8425, 40.3625],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The waterfront promenade on the Caspian recurs in the novel; this marks the historic Baku Boulevard along the bay below the Old City.",
+    "reference": "Baku, the waterfront",
+    "order": 3,
+    "note": "Along the Caspian shore runs the boulevard laid out in the oil-boom years, where the city walks, courts and shows itself off. It is here, between the mansions of the new rich and the open sea, that Ali's romance with the Georgian Nino plays out against a Baku poised between old and new.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Baku Boulevard, Wikipedia, on the Caspian seafront promenade and its history",
+        "url": "https://en.wikipedia.org/wiki/Baku_Boulevard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shusha-karabakh",
+    "name": "Shusha, Karabakh",
+    "progressLabel": "Karabakh",
+    "character": "ali",
+    "coords": [46.7483, 39.7583],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mountain town of Shusha in Karabakh is named in the novel; it lies far inland, so it sits inside the wide Azerbaijan bounding box rather than the Baku frame.",
+    "reference": "Karabakh, the mountain journey",
+    "order": 4,
+    "note": "The couple travel up into the Karabakh highlands to Shusha, a town of springs, orchards and cool air far above the oil plains. The mountain retreat gives them a breathing space away from Baku, and a first taste of how differently their two peoples read the same land.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shusha, Wikipedia, for coordinates and description of the Karabakh mountain town",
+        "url": "https://en.wikipedia.org/wiki/Shusha"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ganja-fall",
+    "name": "Ganja",
+    "progressLabel": "The end",
+    "character": "ali",
+    "coords": [46.3606, 40.6828],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel ends at Ganja in western Azerbaijan; it lies far from Baku, so it sits inside the wide Azerbaijan bounding box rather than the Baku frame.",
+    "reference": "Closing chapters, Ganja",
+    "order": 5,
+    "note": "The book closes at Ganja, the western city where the young Azerbaijani republic makes its last stand as invading forces close in. Ali's private story and the fate of a barely-born nation come together at the same wall, and the map ends where the independence does.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ganja, Azerbaijan, Wikipedia, for coordinates and the city's role in the 1918-1920 republic",
+        "url": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tbilisi-georgia",
+    "name": "Tbilisi, Georgia",
+    "progressLabel": "Excursion",
+    "character": "ali",
+    "coords": [44.8271, 41.7151],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tbilisi is named in the novel but lies in Georgia, outside the Azerbaijan setting, so it is marked as an excursion beyond the map's frame.",
+    "reference": "Georgia, the journey to Tbilisi",
+    "order": 6,
+    "note": "Ali follows Nino to her own city, Tbilisi in Georgia, a green Christian capital that feels like the mirror image of Muslim Baku. The trip across the Caucasus watershed shows how far apart the two homelands stand, even as the couple keep trying to belong to both.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tbilisi, Wikipedia, for coordinates and the Georgian capital's setting",
+        "url": "https://en.wikipedia.org/wiki/Tbilisi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
