@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import BrowseList from '../../components/BrowseList.astro';
+import { allBooks, isStub } from '../../lib/books';
+import { byCountry } from '../../lib/facets';
+import { breadcrumbSchema, collectionSchema } from '../../lib/structured-data';
+
+export async function getStaticPaths() {
+  const books = await allBooks();
+  return byCountry(books).map((f) => ({
+    params: { country: f.slug },
+    props: { label: f.label, books: f.books },
+  }));
+}
+
+const { label, books } = Astro.props as {
+  label: string;
+  books: Awaited<ReturnType<typeof allBooks>>;
+};
+
+const mapped = books.filter((b) => !isStub(b));
+const places = mapped.reduce((n, b) => n + b.waypoints.length, 0);
+const cities = new Set(books.map((b) => b.book.setting.city)).size;
+
+const title = `Books set in ${label}: a literary atlas`;
+const description =
+  mapped.length > 0
+    ? `${books.length} book${books.length === 1 ? '' : 's'} set in ${label}, across ${cities} ${cities === 1 ? 'city' : 'cities'}, their real places mapped in narrative order.`
+    : `Books set in ${label}, listed and waiting for someone to map their places.`;
+
+const schema = [
+  collectionSchema(`Books set in ${label}`, description, books),
+  breadcrumbSchema([
+    { name: 'Read the Places', url: '/' },
+    { name: 'Browse', url: '/browse/' },
+    { name: label, url: `/countries/${Astro.params.country}/` },
+  ]),
+];
+---
+
+<Base title={title} description={description} schema={schema}>
+  <BrowseList
+    kicker={`${books.length} book${books.length === 1 ? '' : 's'}`}
+    lead="Books set in"
+    emphasis={label}
+    standfirst={mapped.length > 0
+      ? `${places} real places from ${label}, taken from the books that put them there and mapped in the order each story visits them.`
+      : `These books are set in ${label}. Nobody has mapped their places yet.`}
+    crumbs={[
+      { name: 'Read the Places', href: '/' },
+      { name: 'Browse', href: '/browse/' },
+      { name: label },
+    ]}
+    books={books}
+  />
+</Base>

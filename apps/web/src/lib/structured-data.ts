@@ -164,6 +164,25 @@ export function bookSchema(loaded: LoadedBook): Json {
   };
 }
 
+/**
+ * A generic browse collection (a country, an author, an era). Like citySchema,
+ * but without asserting the group is a City.
+ */
+export function collectionSchema(name: string, description: string, books: LoadedBook[]): Json {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name,
+    description,
+    hasPart: books.map(({ slug, book }) => ({
+      '@type': 'Book',
+      name: book.title,
+      author: { '@type': 'Person', name: book.author },
+      url: `${SITE}/${slug}/`,
+    })),
+  };
+}
+
 export function citySchema(city: string, country: string, books: LoadedBook[]): Json {
   return {
     '@context': 'https://schema.org',

@@ -92,6 +92,9 @@ const schema = [websiteSchema(books.length, cities.length)];
             ))
           }
         </ul>
+        <p class="browse-more">
+          Or <a href="/browse/">browse by country, author or era →</a>
+        </p>
       </nav>
 
       <section class="pitch" aria-labelledby="why">
@@ -293,6 +296,12 @@ const schema = [websiteSchema(books.length, cities.length)];
   .cities a:hover {
     border-bottom-color: var(--accent);
     color: var(--ink);
+  }
+  .browse-more {
+    margin-top: var(--s4);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-2);
   }
 
   .pitch {

@@ -1,0 +1,147 @@
+---
+import Base from '../layouts/Base.astro';
+import { allBooks } from '../lib/books';
+import { byAuthor, byCountry, byEra } from '../lib/facets';
+import { slugifyCity } from './places/[city].astro';
+import { breadcrumbSchema } from '../lib/structured-data';
+
+const books = await allBooks();
+
+const countries = byCountry(books);
+const authors = byAuthor(books);
+const eras = byEra(books);
+const cities = [...new Set(books.map((b) => b.book.setting.city))].sort((a, b) =>
+  a.localeCompare(b),
+);
+
+const title = 'Browse the atlas — by country, author, era or city';
+const description = `Browse ${books.length} books across ${countries.length} countries, ${authors.length} authors and ${cities.length} cities. Every place is anchored to a line from the text.`;
+
+const schema = [
+  breadcrumbSchema([
+    { name: 'Read the Places', url: '/' },
+    { name: 'Browse', url: '/browse/' },
+  ]),
+];
+
+const groups = [
+  { id: 'country', heading: 'By country', base: '/countries', facets: countries },
+  { id: 'author', heading: 'By author', base: '/authors', facets: authors },
+  { id: 'era', heading: 'By era', base: '/eras', facets: eras },
+];
+---
+
+<Base title={title} description={description} schema={schema}>
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Read the Places</a>
+      <span aria-hidden="true">/</span>
+      <span>Browse</span>
+    </nav>
+
+    <header class="mast">
+      <h1>Browse <em>the atlas</em></h1>
+      <p class="standfirst">
+        The same books, four ways in: where they are set, who wrote them, when they were written,
+        and the cities they share.
+      </p>
+    </header>
+
+    <main id="main">
+      {
+        groups.map((g) => (
+          <section aria-labelledby={g.id}>
+            <h2 id={g.id} class="section">
+              {g.heading} <span class="n">{g.facets.length}</span>
+            </h2>
+            <ul class="chips">
+              {g.facets.map((f) => (
+                <li>
+                  <a href={`${g.base}/${f.slug}/`}>
+                    {f.label} <span class="count">{f.books.length}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+
+      <section aria-labelledby="city">
+        <h2 id="city" class="section">By city <span class="n">{cities.length}</span></h2>
+        <ul class="chips">
+          {
+            cities.map((c) => (
+              <li>
+                <a href={`/places/${slugifyCity(c)}/`}>{c}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </main>
+  </div>
+</Base>
+
+<style>
+  .crumbs {
+    padding-top: var(--s6);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .crumbs a {
+    color: var(--ink-2);
+  }
+  .crumbs span[aria-hidden] {
+    margin-inline: 0.4rem;
+  }
+
+  .mast {
+    padding-block: var(--s6) var(--s7);
+  }
+  .standfirst {
+    max-width: 40rem;
+  }
+
+  .section {
+    margin-block: var(--s7) var(--s4);
+    font-size: var(--step-2);
+    font-weight: 400;
+  }
+  .section .n {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+    vertical-align: middle;
+  }
+
+  .chips {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--s2) var(--s3);
+    padding: 0;
+  }
+  .chips a {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-2);
+    text-decoration: none;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0.25rem 0.6rem;
+    transition: border-color 0.2s var(--ease);
+  }
+  .chips a:hover {
+    border-color: var(--accent, var(--ink));
+    color: var(--ink);
+  }
+  .chips .count {
+    font-size: 0.68rem;
+    color: var(--ink-3);
+  }
+</style>

@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import BrowseList from '../../components/BrowseList.astro';
+import { allBooks, isStub } from '../../lib/books';
+import { byAuthor } from '../../lib/facets';
+import { breadcrumbSchema, collectionSchema } from '../../lib/structured-data';
+
+export async function getStaticPaths() {
+  const books = await allBooks();
+  return byAuthor(books).map((f) => ({
+    params: { author: f.slug },
+    props: { label: f.label, books: f.books },
+  }));
+}
+
+const { label, books } = Astro.props as {
+  label: string;
+  books: Awaited<ReturnType<typeof allBooks>>;
+};
+
+const mapped = books.filter((b) => !isStub(b));
+const places = mapped.reduce((n, b) => n + b.waypoints.length, 0);
+
+const title = `Books by ${label}, mapped to their real places`;
+const description =
+  mapped.length > 0
+    ? `${books.length} book${books.length === 1 ? '' : 's'} by ${label}, their real places mapped in the order each story visits them.`
+    : `Books by ${label}, listed and waiting for someone to map their places.`;
+
+const schema = [
+  collectionSchema(`Books by ${label}`, description, books),
+  breadcrumbSchema([
+    { name: 'Read the Places', url: '/' },
+    { name: 'Browse', url: '/browse/' },
+    { name: label, url: `/authors/${Astro.params.author}/` },
+  ]),
+];
+---
+
+<Base title={title} description={description} schema={schema}>
+  <BrowseList
+    kicker={`${books.length} book${books.length === 1 ? '' : 's'}`}
+    lead="Books by"
+    emphasis={label}
+    standfirst={mapped.length > 0
+      ? `${places} real places from ${label}, each anchored to a line from the text and mapped in the order the story visits it.`
+      : `Books by ${label}, listed and open for adoption. Nobody has mapped their places yet.`}
+    crumbs={[
+      { name: 'Read the Places', href: '/' },
+      { name: 'Browse', href: '/browse/' },
+      { name: label },
+    ]}
+    books={books}
+  />
+</Base>

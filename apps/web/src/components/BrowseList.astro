@@ -1,0 +1,200 @@
+---
+import { accentOf, isStub, type LoadedBook } from '../lib/books';
+
+/**
+ * Shared presentation for a browse landing page (country, author, era).
+ *
+ * The per-city hub predates this and keeps its own copy; everything else that
+ * lists a set of books the same way renders through here, so the mapped/open
+ * split and the card look stay in one place.
+ */
+
+interface Crumb {
+  name: string;
+  href?: string;
+}
+
+interface Props {
+  kicker: string;
+  lead: string;
+  emphasis: string;
+  standfirst: string;
+  crumbs: Crumb[];
+  books: LoadedBook[];
+}
+
+const { kicker, lead, emphasis, standfirst, crumbs, books } = Astro.props as Props;
+
+const mapped = books.filter((b) => !isStub(b));
+const open = books.filter(isStub);
+---
+
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    {
+      crumbs.map((c, i) => (
+        <>
+          {i > 0 && <span aria-hidden="true">/</span>}
+          {c.href ? <a href={c.href}>{c.name}</a> : <span>{c.name}</span>}
+        </>
+      ))
+    }
+  </nav>
+
+  <header class="mast">
+    <p class="kicker">{kicker}</p>
+    <h1>{lead} <em>{emphasis}</em></h1>
+    <p class="standfirst">{standfirst}</p>
+  </header>
+
+  <main id="main">
+    {
+      mapped.length > 0 && (
+        <section aria-labelledby="mapped">
+          <h2 id="mapped" class="section">
+            Mapped
+          </h2>
+          <ul class="books">
+            {mapped.map(({ slug, book, waypoints }) => (
+              <li style={`--accent: ${accentOf(book)}`}>
+                <a href={`/${slug}/`}>
+                  <span class="meta">
+                    {book.setting.city} · {book.published}
+                  </span>
+                  <h3>{book.title}</h3>
+                  <p class="by">{book.author}</p>
+                  <p class="note">{book.setting.note}</p>
+                  <p class="count">{waypoints.length} places →</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      open.length > 0 && (
+        <section aria-labelledby="open">
+          <h2 id="open" class="section">
+            Open for adoption
+          </h2>
+          <ul class="books stubs">
+            {open.map(({ slug, book }) => (
+              <li>
+                <a href={`/${slug}/`}>
+                  <span class="meta">
+                    {book.setting.city} · {book.published}
+                  </span>
+                  <h3>{book.title}</h3>
+                  <p class="by">{book.author}</p>
+                  <p class="count claim">Adopt this book →</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </main>
+</div>
+
+<style>
+  .crumbs {
+    padding-top: var(--s6);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .crumbs a {
+    color: var(--ink-2);
+  }
+  .crumbs span[aria-hidden] {
+    margin-inline: 0.4rem;
+  }
+
+  .mast {
+    padding-block: var(--s6) var(--s7);
+  }
+  .kicker {
+    font-family: var(--sans);
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .standfirst {
+    max-width: 40rem;
+  }
+
+  .section {
+    margin-block: var(--s7) var(--s4);
+    font-size: var(--step-2);
+    font-weight: 400;
+  }
+
+  .books {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: var(--s4);
+    padding: 0;
+    margin-bottom: var(--s8);
+  }
+  .books a {
+    display: block;
+    height: 100%;
+    padding: var(--s5);
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    color: inherit;
+    text-decoration: none;
+    transition: border-color 0.2s var(--ease);
+  }
+  .books a:hover {
+    border-color: var(--accent);
+  }
+  .books .meta,
+  .books .by,
+  .books .count {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .books .meta {
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .books h3 {
+    margin-block: var(--s2) var(--s1);
+    font-size: var(--step-1);
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1.2;
+  }
+  .books .note {
+    margin-block: var(--s3);
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.55;
+  }
+  .books .count {
+    margin-top: var(--s3);
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .stubs a {
+    border-style: dashed;
+    border-left-color: var(--ink-3);
+    background: transparent;
+  }
+  .stubs a:hover {
+    border-color: var(--ink);
+  }
+  .stubs .claim {
+    color: var(--ink-2);
+  }
+</style>
