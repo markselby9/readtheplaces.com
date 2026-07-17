@@ -1,0 +1,122 @@
+[
+  {
+    "id": "nacogdoches-texas",
+    "name": "Nacogdoches, Texas",
+    "progressLabel": "Opening",
+    "character": "kid",
+    "coords": [-94.6555, 31.6035],
+    "placeCertainty": "explicit",
+    "certaintyNote": "McCarthy names Nacogdoches directly; the coordinates mark the centre of the old East Texas town, since the novel gives no single address within it.",
+    "reference": "Early chapters",
+    "order": 1,
+    "note": "The narrative begins with a boy fleeing his family and drifting west across the South, and Nacogdoches is his first named stop in Texas. In this old town near the Louisiana line he first crosses paths with the giant, hairless Judge Holden and sees the frontier's casual violence up close before turning further west.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nacogdoches, Texas, Wikipedia, on the historic East Texas town",
+        "url": "https://en.wikipedia.org/wiki/Nacogdoches,_Texas"
+      },
+      {
+        "kind": "external",
+        "ref": "Nacogdoches GPS coordinates, latitude.to",
+        "url": "https://latitude.to/map/us/united-states/cities/nacogdoches"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chihuahua-city",
+    "name": "Chihuahua City",
+    "progressLabel": "The scalp contract",
+    "character": "kid",
+    "coords": [-106.0889, 28.6353],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city is named explicitly; the coordinates mark the historic centre around the Plaza de Armas, where the governor's palace and cathedral stand.",
+    "reference": "Middle chapters",
+    "order": 2,
+    "note": "In the capital of Chihuahua the gang led by John Joel Glanton takes a contract from the state authorities, who pay a bounty for the scalps of Apache raiders. The arrangement is drawn from the historical scalp bounties of the late 1840s. What begins as a paid campaign against one enemy soon widens into indiscriminate killing, and the gang is driven out of the same city that hired it.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "John Joel Glanton, Wikipedia, on the historical scalp-hunting contract in Chihuahua",
+        "url": "https://en.wikipedia.org/wiki/John_Joel_Glanton"
+      },
+      {
+        "kind": "external",
+        "ref": "Chihuahua City GPS coordinates, latitude.to",
+        "url": "https://latitude.to/map/mx/mexico/cities/chihuahua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santa-rita-del-cobre",
+    "name": "Santa Rita del Cobre",
+    "progressLabel": "The copper mines",
+    "character": "kid",
+    "coords": [-108.0608, 32.8036],
+    "placeCertainty": "explicit",
+    "certaintyNote": "McCarthy names the copper mines of Santa Rita del Cobre; the coordinates mark the historical Santa Rita site in Grant County, New Mexico, later swallowed by the Chino open-pit mine.",
+    "reference": "Middle chapters",
+    "order": 3,
+    "note": "Riding through the mountains of what is now southwestern New Mexico, the gang reaches the abandoned copper mining settlement of Santa Rita del Cobre. The town's real history matches the book: opened early in the nineteenth century, its Spanish and Mexican workings were cut off by Apache raids in the 1830s and its people fled south, most killed on the road. Here the gang encounters stranded California-bound emigrants.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Santa Rita, New Mexico, Wikipedia, on the copper town's founding and its abandonment after Apache raids",
+        "url": "https://en.wikipedia.org/wiki/Santa_Rita,_New_Mexico"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yuma-crossing-colorado",
+    "name": "The Yuma crossing of the Colorado",
+    "progressLabel": "The Colorado",
+    "character": "kid",
+    "coords": [-114.6151, 32.728],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The ferry crossing at the Colorado is explicit; the coordinates mark the historic ferry landing at Yuma Crossing, where the gold-rush route forded the river below the site of Fort Yuma.",
+    "reference": "Late chapters",
+    "order": 4,
+    "note": "Where the gold-rush road crossed the Colorado River at Yuma, the gang seizes control of the ferry that carried emigrants over the water and turns it to robbery and murder. This mirrors the real Glanton party's takeover of the crossing in 1850. The episode ends in a dawn attack by the Quechan people whose ferry the gang had usurped, and the killing of Glanton, a massacre the historical record also records.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yuma Crossing, Wikipedia, on the historic Colorado River ferry and the 1850 Glanton episode",
+        "url": "https://en.wikipedia.org/wiki/Yuma_Crossing"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Site of Old Ferry Landing historical marker, Yuma, hmdb.org, for the crossing coordinates",
+        "url": "https://www.hmdb.org/m.asp?m=158300"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fort-griffin-texas",
+    "name": "Fort Griffin, Texas",
+    "progressLabel": "The last chapter",
+    "character": "kid",
+    "coords": [-99.2292, 32.9196],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The closing scenes are set at Fort Griffin; the coordinates mark the Fort Griffin site in Shackelford County, Texas, and the lawless town of the same name that grew below it.",
+    "reference": "Final chapter",
+    "order": 5,
+    "note": "The book closes years later at Fort Griffin on the Texas plains, a rough buffalo-hunting settlement that grew up beside a frontier army post. Here, in a saloon, the grown survivor of the gang meets Judge Holden a final time. McCarthy leaves the ending deliberately unresolved; the setting is a real place whose brief, violent heyday came in the 1870s.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fort Griffin, Wikipedia, on the fort and the frontier town below it",
+        "url": "https://en.wikipedia.org/wiki/Fort_Griffin"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Fort Griffin State Historic Site, Texas Historical Commission",
+        "url": "https://thc.texas.gov/historic-sites/fort-griffin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "blood-meridian",
+  "title": "Blood Meridian",
+  "author": "Cormac McCarthy",
+  "published": 1985,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-104.0, 31.0],
+  "zoom": 5,
+  "setting": {
+    "city": "Chihuahua",
+    "country": "MX",
+    "note": "The novel follows a nameless runaway, the Kid, out of the East Texas pine country and into the desert borderlands of 1849 and 1850, where he falls in with the Glanton gang, a company of scalp-hunters paid by Mexican authorities to bring in Apache dead. Their route runs across the real Chihuahuan and Sonoran deserts, from Chihuahua City through the abandoned mines of New Mexico to the Colorado River ferry at Yuma, and closes years later on the Texas plains. The map traces that route soberly; the book's violence is historical and extreme.",
+    "bbox": [-115.5, 27.5, -93.5, 34.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Cormac McCarthy, first published 1985. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/157247/blood-meridian-by-cormac-mccarthy/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Blood Meridian, Cormac McCarthy (1985). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The dried blood-red of the book's title and its desert. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "kid": {
+      "name": "The Kid",
+      "color": "#2E5064"
+    }
+  }
+}
