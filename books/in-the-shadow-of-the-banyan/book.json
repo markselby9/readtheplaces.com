@@ -1,0 +1,35 @@
+{
+  "id": "in-the-shadow-of-the-banyan",
+  "title": "In the Shadow of the Banyan",
+  "author": "Vaddey Ratner",
+  "published": 2012,
+  "orderingKey": "position",
+  "sourcing": "cited",
+  "center": [104.2, 12.3],
+  "zoom": 7.5,
+  "setting": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "date": "1975",
+    "note": "The novel opens in Phnom Penh, where a seven-year-old girl of the royal family lives in comfort until, on 17 April 1975, the Khmer Rouge take the city and drive its whole population into the countryside at gunpoint. From there the map runs northwest, along the roads and rivers of the exodus into the rice provinces of Pursat and Battambang, where the family is broken apart by forced labour, hunger and killing. Ratner deliberately leaves her villages unnamed, so the rural points here mark the real region the deportations emptied into, not addresses the book supplies.",
+    "bbox": [102.9, 11.3, 105.2, 13.4]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vaddey Ratner, first published 2012. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.simonandschuster.com/books/In-the-Shadow-of-the-Banyan/Vaddey-Ratner/9781451657715",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "In the Shadow of the Banyan, Vaddey Ratner (2012). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the banyan and the rice country the child is driven into. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "raami": {
+      "name": "Raami",
+      "color": "#8A3B1E"
+    }
+  }
+}

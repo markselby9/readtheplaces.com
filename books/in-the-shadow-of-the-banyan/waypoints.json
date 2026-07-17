@@ -1,0 +1,127 @@
+[
+  {
+    "id": "phnom-penh-the-fall-of-the-city",
+    "name": "Phnom Penh",
+    "progressLabel": "Part One",
+    "character": "raami",
+    "coords": [104.9282, 11.5564],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is set explicitly in Phnom Penh, where the family lives when the city falls; this marks the capital, sited on its historic centre by the river.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story begins in the capital, where a young girl of the royal family lives a sheltered life of gardens and relatives. On 17 April 1975 the Khmer Rouge march into Phnom Penh and, within hours, order everyone out, emptying the city and beginning the four years that will scatter and destroy the family.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Phnom Penh, Wikipedia, for the city coordinates and its role as the 1975 capital",
+        "url": "https://en.wikipedia.org/wiki/Phnom_Penh"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Fall of Phnom Penh, Wikipedia, on the Khmer Rouge capture of the city and the forced evacuation of 17 April 1975",
+        "url": "https://en.wikipedia.org/wiki/Fall_of_Phnom_Penh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-road-west-kampong-chhnang",
+    "name": "The road west, Kampong Chhnang",
+    "progressLabel": "Part One",
+    "character": "raami",
+    "coords": [104.6667, 12.25],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book describes the forced journey out of the city but does not name the towns passed through; this marks Kampong Chhnang, the first province on National Road 5 and the Tonle Sap route northwest, as a representative point on the exodus.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The evacuation becomes a slow march and river crossing away from the capital, the roads packed with families carrying what they could. The way northwest toward the rice provinces runs through Kampong Chhnang, on the great lake and the main road out of Phnom Penh, a real waypoint on the corridor the deportations followed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kampong Chhnang, Wikipedia, for the town coordinates on the Tonle Sap and National Road 5",
+        "url": "https://en.wikipedia.org/wiki/Kampong_Chhnang"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Khmer Rouge, Wikipedia, on the mass deportation of city dwellers to the rural provinces",
+        "url": "https://en.wikipedia.org/wiki/Khmer_Rouge"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pursat-rice-country",
+    "name": "Pursat",
+    "progressLabel": "Part Two",
+    "character": "raami",
+    "coords": [103.9192, 12.5388],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ratner deliberately leaves her villages unnamed; this marks Pursat, the northwestern rice province where deportees from Phnom Penh were concentrated, as the real region standing in for the book's labour settlements.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The family is set down among strangers in the rice country and put to work in the paddies, the old city life stripped away for labour, rations and roll calls. The novel keeps its places unnamed, but the landscape of flooded fields and distant forest matches Pursat, one of the provinces the regime filled with the people it drove from the capital.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pursat, Wikipedia, for the town coordinates in the northwestern rice provinces",
+        "url": "https://en.wikipedia.org/wiki/Pursat"
+      },
+      {
+        "kind": "author",
+        "ref": "In the Shadow of the Banyan Q&A, Vaddey Ratner, on fictionalising the names of the places her family was sent",
+        "url": "https://vaddeyratner.com/banyan/q-a"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-labour-village-bakan",
+    "name": "A labour village, rural Pursat",
+    "progressLabel": "Part Two",
+    "character": "raami",
+    "coords": [103.79, 12.62],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The specific village is invented and unnamed in the novel; this marks Bakan district, a rural stretch of Pursat province between the paddies and the Cardamom forest, as a representative site for the cooperatives that broke up families like Raami's.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "As the regime tightens, the family is moved again into deeper countryside, where children are separated from parents, food shrinks to a spoon of rice, and neighbours vanish under the euphemisms of the cadres. The book gives its village no map, so this stands for the real cooperatives of rural Pursat, where forced labour and starvation did the work of the killing.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bakan District, Cambodia, for the rural Pursat coordinates north of Pursat town",
+        "url": "https://www.mapnall.com/en/Map-Bakan-District_1150315.html"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Cambodian genocide, Wikipedia, on the rural cooperatives, forced labour and family separations of the Khmer Rouge years",
+        "url": "https://en.wikipedia.org/wiki/Cambodian_genocide"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "battambang-the-rice-provinces",
+    "name": "Battambang",
+    "progressLabel": "Part Three",
+    "character": "raami",
+    "coords": [103.1982, 13.1027],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the province of its later relocations; this marks Battambang, the rice bowl adjoining Pursat, as the western region the family's repeated uprootings carried them across.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "The last stretch of the ordeal drags on through more relocations across the western rice bowl, closer to the Thai border, before the regime falls in 1979 and the survivors begin the walk toward the camps. Battambang, the great rice province beside Pursat, anchors this northwestern country the book crosses without ever naming it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Battambang, Wikipedia, for the city coordinates in Cambodia's northwestern rice bowl",
+        "url": "https://en.wikipedia.org/wiki/Battambang"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Cambodian genocide, Wikipedia, on the 1979 fall of the Khmer Rouge and the flight of survivors toward the Thai border",
+        "url": "https://en.wikipedia.org/wiki/Cambodian_genocide"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
