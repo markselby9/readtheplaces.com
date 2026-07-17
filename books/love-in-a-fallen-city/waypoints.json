@@ -1,0 +1,118 @@
+[
+  {
+    "id": "bai-family-house-shanghai",
+    "name": "The Bai family house, Shanghai",
+    "progressLabel": "Opening frame",
+    "character": "liusu",
+    "coords": [121.4894, 31.2222],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Bai house is a fictional home of a declining gentry family; Chang gives no address, so this marks the old walled-city quarter of Shanghai as a representative point for such a household. It sits outside the Hong Kong setting on purpose, as the frame the story opens and closes with.",
+    "reference": "Opening section",
+    "order": 1,
+    "note": "The story opens in the crowded, fading house of the Bai family, where a divorced daughter is treated as a burden and a reproach. The pressure of that household is what sends her chasing a match in Hong Kong. The old town of Shanghai stands in for the kind of traditional gentry home the family occupies.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old City of Shanghai (Nanshi), Wikipedia, on the historic walled quarter used here as a representative location",
+        "url": "https://en.wikipedia.org/wiki/Old_City_of_Shanghai"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Eileen Chang, Wikipedia, on the Shanghai setting of her 1940s fiction",
+        "url": "https://en.wikipedia.org/wiki/Eileen_Chang"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tsim-sha-tsui-kowloon",
+    "name": "Tsim Sha Tsui, Kowloon",
+    "progressLabel": "Arrival",
+    "character": "liusu",
+    "coords": [114.1742, 22.2972],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tsim Sha Tsui is named as a real district; with no single building pinned, this marks the waterfront quarter of southern Kowloon where the harbour crossings and hotels of the story cluster.",
+    "reference": "Hong Kong section",
+    "order": 2,
+    "note": "Arriving by ship from Shanghai, the heroine enters a colonial port world of harbour crossings, hotels and evenings out. The Tsim Sha Tsui waterfront, the tip of Kowloon facing the island, anchors this side of the couple's back-and-forth across the water.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsim Sha Tsui, Wikipedia, for the district and its waterfront coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tsim_Sha_Tsui"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-hong-kong-island",
+    "name": "Central, Hong Kong Island",
+    "progressLabel": "Hong Kong",
+    "character": "liusu",
+    "coords": [114.1585, 22.283],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Central Hong Kong is a named, real district; this marks the heart of the colonial business and hotel quarter on the north shore of the island where the story's city scenes play out.",
+    "reference": "Hong Kong section",
+    "order": 3,
+    "note": "Between beach outings the courtship moves through the colonial city itself, its hotels, restaurants and streets, where the pair perform their game of manners for an audience. Central, the commercial core of Hong Kong Island, stands for that urban stage.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Central, Hong Kong, Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Central,_Hong_Kong"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "repulse-bay-hotel",
+    "name": "The Repulse Bay Hotel",
+    "progressLabel": "The courtship",
+    "character": "liusu",
+    "coords": [114.1958, 22.2378],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Repulse Bay Hotel is named in the story and was a real place; this marks its historic site at 109 Repulse Bay Road, where the colonial hotel stood from 1920 until its demolition in 1982.",
+    "reference": "Hong Kong section",
+    "order": 4,
+    "note": "The famous seaside hotel is the true centre of the book, the terrace and grounds where the two of them spar, retreat and advance, each trying to make the other commit first. It was a real colonial landmark on the south side of the island, and it gives the courtship its stage and its glamour.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Repulse Bay, Wikipedia, on the history and site of the original Repulse Bay Hotel",
+        "url": "https://en.wikipedia.org/wiki/The_Repulse_Bay"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Repulse Bay Hotel History, The Hongkong and Shanghai Hotels",
+        "url": "https://www.therepulsebay.com/en/about/repulse-bay-hotel-history"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "repulse-bay-beach",
+    "name": "Repulse Bay and the fall of the city",
+    "progressLabel": "The fall of the city",
+    "character": "liusu",
+    "coords": [114.1972, 22.235],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Repulse Bay is a named, real beach on the south of Hong Kong Island; it saw actual fighting during the December 1941 invasion, which the story folds into its ending.",
+    "reference": "Hong Kong section, the invasion",
+    "order": 5,
+    "note": "When the Japanese attack in December 1941 the game stops being a game: the shelling, the shortages and the fear strip away the manners and leave the two of them clinging together. The south-side beach and its seawall, a real battleground in the fall of Hong Kong, is where the private drama and the historical catastrophe meet.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Repulse Bay, Wikipedia, for the beach coordinates on the south of Hong Kong Island",
+        "url": "https://en.wikipedia.org/wiki/Repulse_Bay"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Battle of Hong Kong, Wikipedia, on the December 1941 fighting on the island's south side",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Hong_Kong"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

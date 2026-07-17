@@ -1,0 +1,34 @@
+{
+  "id": "love-in-a-fallen-city",
+  "title": "Love in a Fallen City",
+  "author": "Eileen Chang",
+  "published": 1943,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [114.17, 22.27],
+  "zoom": 11.8,
+  "setting": {
+    "city": "Hong Kong",
+    "country": "HK",
+    "note": "Chang's Hong Kong is a colonial stage set for a courtship: the terrace and lawns of the Repulse Bay Hotel, the beaches of the south side, the ferries and hotels between Central and Kowloon. A divorced Shanghai woman and a Shanghai-born playboy circle each other through it until the Japanese invasion of December 1941 brings the whole set crashing down and, in the ruins, makes their bargain real. The old Bai house in Shanghai frames the story at either end.",
+    "bbox": [113.8, 22.15, 114.45, 22.55]
+  },
+  "rights": {
+    "originalWork": "In copyright. Eileen Chang, first published in Chinese in 1943 as 'Qing cheng zhi lian'. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "The standard English translation is by Karen S. Kingsbury (2007) and is also in copyright. We reproduce none of it; the notes here are our own writing.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.nyrb.com/products/love-in-a-fallen-city",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text or its translation, in any territory.",
+    "attribution": "Love in a Fallen City, Eileen Chang (1943). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "A lacquered oxblood red, the colour of old Shanghai wedding silk and of the ruined city that finally throws the couple together. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "liusu": {
+      "name": "Bai Liusu",
+      "color": "#2E5064"
+    }
+  }
+}
