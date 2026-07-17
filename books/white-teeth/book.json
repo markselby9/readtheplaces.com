@@ -1,0 +1,34 @@
+{
+  "id": "white-teeth",
+  "title": "White Teeth",
+  "author": "Zadie Smith",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.215, 51.552],
+  "zoom": 12.4,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Smith's North West London is a working, multicultural map: the terraced streets of Willesden and Cricklewood where the Iqbal and Jones families make their tangled lives from 1975 to the millennium, the high roads and cafés where the men gather, the local school, and a final swerve to a genetics institute in the centre of town. The map runs from Willesden Green east across Cricklewood and Kilburn to the West End.",
+    "bbox": [-0.26, 51.49, -0.1, 51.58]
+  },
+  "rights": {
+    "originalWork": "In copyright. Zadie Smith, first published 2000. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/56287/white-teeth-by-smith-zadie/9780141036939",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "White Teeth, Zadie Smith (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "A brick-and-terracotta red for the terraced high roads of north-west London. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "irie": {
+      "name": "Irie Jones",
+      "color": "#2E5064"
+    }
+  }
+}

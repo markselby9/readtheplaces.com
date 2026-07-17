@@ -1,0 +1,152 @@
+[
+  {
+    "id": "willesden-green-homes",
+    "name": "The Iqbal and Jones homes, Willesden Green",
+    "progressLabel": "1975",
+    "character": "irie",
+    "coords": [-0.2215, 51.5492],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Smith sets the two families a few streets apart in Willesden Green but gives no exact address; this marks the centre of Willesden Green as a representative point.",
+    "reference": "Willesden Green, throughout",
+    "order": 1,
+    "note": "The whole book radiates out from a handful of terraced streets in Willesden Green, where the Joneses and the Iqbals settle within walking distance of each other and their children grow up entangled. It is the neighbourhood Smith herself grew up in, and the ordinary domestic ground the novel keeps returning to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on Willesden Green as the families' home ground",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Willesden, Wikipedia, for the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Willesden"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cricklewood-broadway",
+    "name": "Cricklewood Broadway",
+    "progressLabel": "1975",
+    "character": "irie",
+    "coords": [-0.2143, 51.5566],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cricklewood Broadway is named in the novel; this marks the high road itself.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The book opens on the Broadway on New Year's morning 1975, where Archie Jones sits in his car above a halal butcher's, having decided to end his life, and is interrupted back into living. The real high road running north from Cricklewood sets the tone: shopfronts, traffic and the everyday multicultural street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on the Cricklewood Broadway opening",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Transport for London journey planner, for the Cricklewood Broadway coordinates",
+        "url": "https://tfl.gov.uk/maps?Input=Cricklewood+Broadway&InputGeolocation=51.55757,-0.2143"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "oconnells-pool-house",
+    "name": "O'Connell's Pool House, Finchley Road",
+    "progressLabel": "1984",
+    "character": "irie",
+    "coords": [-0.193, 51.5555],
+    "placeCertainty": "inferred",
+    "certaintyNote": "O'Connell's is a fictional café that the novel places on the Finchley Road; there is no matching real establishment, so this marks a representative point along that road.",
+    "reference": "Finchley Road, recurring",
+    "order": 3,
+    "note": "O'Connell's, neither Irish nor a pool house, is the caff and card den where Archie and Samad spend years of evenings, the book's most fixed and reliable spot. Smith sites it on the Finchley Road; the place itself is invented, a composite of the greasy-spoon cafés of the area.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on O'Connell's Pool House on the Finchley Road",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "White Teeth, Wikipedia, on O'Connell's as the men's regular haunt",
+        "url": "https://en.wikipedia.org/wiki/White_Teeth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kilburn-high-road",
+    "name": "Kilburn High Road",
+    "progressLabel": "1984",
+    "character": "irie",
+    "coords": [-0.1949, 51.5391],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kilburn is named in the novel; this marks Kilburn High Road, the long shopping street at the heart of the district.",
+    "reference": "Kilburn, recurring",
+    "order": 4,
+    "note": "Kilburn is one of the neighbouring districts the families move through, its long high road standing for the wider stretch of north-west London the novel maps. The street carries the same mix of shops, pubs and passing life that fills the book's version of the area.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on Kilburn among the novel's districts",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Transport for London journey planner, for the Kilburn High Road coordinates",
+        "url": "https://tfl.gov.uk/maps?Input=Kilburn+High+Road&InputGeolocation=51.539124,-0.194904"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "glenard-oak-school",
+    "name": "Glenard Oak School, Cricklewood",
+    "progressLabel": "1990",
+    "character": "irie",
+    "coords": [-0.2079, 51.5547],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's Glenard Oak is a fictional comprehensive; commentators tie it to the Cricklewood school Smith attended, Hampstead School on Westbere Road, which this marks.",
+    "reference": "Glenard Oak School, second half",
+    "order": 5,
+    "note": "The teenagers, Irie Jones and the Iqbal twins among them, are thrown together at Glenard Oak, the local comprehensive where a chaotic Harvest Festival and a science-club subplot play out. The invented school reads as the Cricklewood comprehensive Smith herself went to, Hampstead School on Westbere Road.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on the Cricklewood school setting",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hampstead School, Wikipedia, for the Westbere Road location in Cricklewood",
+        "url": "https://en.wikipedia.org/wiki/Hampstead_School"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "perret-institute-central-london",
+    "name": "The genetics institute, central London",
+    "progressLabel": "1992",
+    "character": "irie",
+    "coords": [-0.128, 51.509],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Perret Institute is a fictional research body; the novel places its launch in central London without a fixed address, so this marks a representative point in the West End.",
+    "reference": "final chapters",
+    "order": 6,
+    "note": "The strands converge at the unveiling of a genetically engineered mouse in a central London research institute, where the families' histories collide in a single room. The institute is invented, but the finale pulls the story out of Willesden and into the centre of town, closing the book far from where it began.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "White Teeth, Wikipedia, on the FutureMouse launch that ends the novel",
+        "url": "https://en.wikipedia.org/wiki/White_Teeth"
+      },
+      {
+        "kind": "guide",
+        "ref": "Zadie Smith: White Teeth, London Fictions, on the novel's central-London conclusion",
+        "url": "https://www.londonfictions.com/zadie-smith-white-teeth.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
