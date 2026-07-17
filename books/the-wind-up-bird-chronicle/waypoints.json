@@ -1,0 +1,153 @@
+[
+  {
+    "id": "okada-house-setagaya",
+    "name": "Toru's house at the end of the alley",
+    "progressLabel": "Book One",
+    "character": "toru",
+    "coords": [139.6533, 35.6466],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel keeps the house and its neighbourhood unnamed, but the quiet western suburb it describes is Setagaya, where Murakami himself lived; this marks a representative point at the ward centre.",
+    "reference": "Book One",
+    "order": 1,
+    "note": "The story begins in a rented house in a still residential suburb, where a man who has just quit his job is boiling spaghetti when the telephone rings. The house sits at the end of a closed-off lane, the kind of dead-end alley common in the older streets of Setagaya, the western Tokyo ward where the author was living when he wrote the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Setagaya, Wikipedia, on the western Tokyo ward and its residential character",
+        "url": "https://en.wikipedia.org/wiki/Setagaya"
+      },
+      {
+        "kind": "guide",
+        "ref": "Setagaya, Tokyo, coordinates",
+        "url": "https://latitude.to/map/jp/japan/regions/tokyo-prefecture/setagaya"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-back-alley",
+    "name": "The alley behind the houses",
+    "progressLabel": "Book One",
+    "character": "toru",
+    "coords": [139.6548, 35.6474],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The passage is a fictional feature of the neighbourhood and is not a named street; this marks a nearby point within Setagaya as a stand-in.",
+    "reference": "Book One",
+    "order": 2,
+    "note": "A narrow passage runs behind the row of houses, walled at both ends so it leads nowhere, and it becomes the route the narrator walks in search of the missing cat. It is where he first meets the teenage girl from up the street who watches the empty lot with him.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Wind-Up Bird Chronicle, Wikipedia, on the alley and the search for the cat",
+        "url": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+      },
+      {
+        "kind": "guide",
+        "ref": "Setagaya, Wikipedia, on the ward's older residential streets",
+        "url": "https://en.wikipedia.org/wiki/Setagaya"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "abandoned-house-dry-well",
+    "name": "The abandoned house and the dry well",
+    "progressLabel": "Book One",
+    "character": "toru",
+    "coords": [139.6512, 35.6455],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The vacant house with its dry well is invented for the novel; there is no fixed real site, so this marks a representative point within the same Setagaya neighbourhood.",
+    "reference": "Book One, chapter on the empty house",
+    "order": 3,
+    "note": "Along the alley stands a boarded-up house with an unlucky history and, in its overgrown yard, a well gone dry. The narrator climbs down into it to sit alone in the dark, and the shaft becomes the book's central passage between the ordinary world and something stranger.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Wind-Up Bird Chronicle, Wikipedia, on the dry well and its role in the narrative",
+        "url": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The well as a recurring device in Murakami's fiction, Britannica on Haruki Murakami",
+        "url": "https://www.britannica.com/biography/Murakami-Haruki"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "local-shopping-street",
+    "name": "The neighbourhood shopping street",
+    "progressLabel": "Book One",
+    "character": "toru",
+    "coords": [139.65, 35.648],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The local shotengai is not named in the text; this marks a representative point on the Setagaya shopping streets the narrator would use.",
+    "reference": "Book One",
+    "order": 4,
+    "note": "The narrator's errands take him to the small covered shopping street near the house, where he does the daily marketing and where the cleaner's and the record shop stand in for the ordinary life he is slowly losing hold of. It reads as one of the neighbourhood shotengai that thread through Setagaya.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Setagaya, Wikipedia, on the ward's local shopping streets",
+        "url": "https://en.wikipedia.org/wiki/Setagaya"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Wind-Up Bird Chronicle, Wikipedia, on the narrator's daily life in the suburb",
+        "url": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shinjuku-west-plaza",
+    "name": "The west-side plaza at Shinjuku",
+    "progressLabel": "Book Two",
+    "character": "toru",
+    "coords": [139.6979, 35.6905],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Shinjuku is named in the novel; this marks the broad plaza outside the west exit of Shinjuku Station where the narrator sits and watches the crowds.",
+    "reference": "Book Two",
+    "order": 5,
+    "note": "Drawn out of the suburb, the narrator takes to sitting on a bench in the wide plaza on the west side of Shinjuku Station, doing nothing but watching the faces of the people who pass. The scene sets the emptied stillness of his home life against the churn of central Tokyo.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Wind-Up Bird Chronicle, Wikipedia, on the Shinjuku people-watching passages",
+        "url": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+      },
+      {
+        "kind": "guide",
+        "ref": "Shinjuku Station west exit, coordinates",
+        "url": "https://latitude.to/articles-by-country/jp/japan/5586/shinjuku-station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nomonhan-khalkhin-gol",
+    "name": "The Nomonhan battlefield, Manchuria border",
+    "progressLabel": "Book One flashback",
+    "character": "toru",
+    "coords": [118.5873, 47.7248],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Nomonhan and the wider Manchurian campaign; this marks the Khalkhin Gol battlefield on the Mongolia-Manchuria frontier, far outside the Tokyo setting.",
+    "reference": "Book One, Lieutenant Mamiya's account",
+    "order": 6,
+    "note": "In a long flashback an old soldier tells of the undeclared 1939 border war between Japan and the Soviet Union on the plains of Nomonhan, and of a man skinned alive and another left to die at the bottom of a Mongolian well. This wartime layer, set on the Manchurian frontier and in the puppet capital of Hsin-king, runs beneath the suburban present of the book.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Battles of Khalkhin Gol, Wikipedia, on the 1939 Nomonhan border conflict",
+        "url": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
+      },
+      {
+        "kind": "guide",
+        "ref": "Battles of Khalkhin Gol, battlefield coordinates",
+        "url": "https://latitude.to/articles-by-country/mn/mongolia/3065/battles-of-khalkhin-gol"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
