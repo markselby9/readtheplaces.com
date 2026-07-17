@@ -4,20 +4,38 @@
   "author": "Charles Dickens",
   "published": 1843,
   "orderingKey": "chapter",
-  "center": [-0.1278, 51.5074],
+  "sourcing": "sourced",
+  "center": [-0.0866, 51.5138],
   "zoom": 12.5,
   "setting": {
     "city": "London",
     "country": "GB",
-    "note": "Short, famous, and a single night’s journey through the City. The Royal Exchange, Cornhill and Bob Cratchit’s Camden Town are named outright; the exact houses, Scrooge’s counting house and the Cratchits’ door, are reconstructions, which makes it an honest test of the certainty labels.",
+    "note": "One night's haunting, walked across the City of London. Cornhill, the Royal Exchange and Bob Cratchit's Camden Town are named outright and still on the map; Scrooge's counting-house and Fezziwig's warehouse are unlocated interiors, pinned to the courts off Cornhill that tradition and Dickens's own clues point to. That split is exactly what the certainty labels are for.",
     "bbox": [-0.51, 51.287, 0.334, 51.692]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Charles Dickens published this in 1843.",
+    "originalWork": "Public domain. Charles Dickens, first published 1843; the author died in 1870.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Charles Dickens, A Christmas Carol (1843)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/46",
+    "territoryNotes": "Public domain in the United States and the United Kingdom, where the author died more than 70 years ago (1870).",
+    "attribution": "Charles Dickens, A Christmas Carol (1843). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "a scrap of gold",
+    "note": "The gold of the counting-house and of Scrooge's coins, the metal the whole fable is measured against. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "scrooge": {
+      "name": "Ebenezer Scrooge",
+      "color": "#2E5064",
+      "colorSourceQuote": "his thin lips blue"
+    },
+    "cratchit": {
+      "name": "Bob Cratchit",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "fresh green holly"
+    }
   }
 }

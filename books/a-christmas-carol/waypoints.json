@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "scrooges-counting-house",
+    "name": "Scrooge's counting-house, off Cornhill",
+    "progressLabel": "Stave I",
+    "character": "scrooge",
+    "coords": [-0.0863, 51.5133],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dickens never gives the address. The counting-house is an unlocated City interior, but the book's own clues (Cratchit sliding on Cornhill, a Gothic-windowed church tower opposite) point to one of the courts off Cornhill; Newman's Court, directly across from St Michael's, is the traditional pin.",
+    "quoteAnchor": "old Scrooge sat busy in his counting-house",
+    "passage": "Once upon a time--of all the good days in the year, on Christmas Eve--old Scrooge sat busy in his counting-house. It was cold, bleak, biting weather: foggy withal.",
+    "note": "The whole story starts here, in a cramped, coal-starved office in the City where Scrooge keeps the box of coals in his own room and his clerk shivers in a cell beyond. Dickens leaves the door unlocated, so we pin it to Newman's Court off Cornhill, the court walkers have pointed to since.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave I: Marley's Ghost",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "guide",
+        "ref": "Newman's Court, Cornhill, City of London, the traditional site of Scrooge's counting-house",
+        "url": "https://www.ianvisits.co.uk/articles/londons-alleys-newmans-court-ec3-32908/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-michael-cornhill",
+    "name": "The church tower on Cornhill",
+    "progressLabel": "Stave I",
+    "character": "scrooge",
+    "coords": [-0.0855, 51.5132],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dickens names no church, but the Gothic window in the tower and the position across the road from the counting-house match St Michael's, Cornhill, the church that walkers and Dickensians identify with the passage.",
+    "quoteAnchor": "The ancient tower of a church, whose gruff old bell",
+    "passage": "The ancient tower of a church, whose gruff old bell was always peeping slily down at Scrooge out of a Gothic window in the wall, became invisible, and struck the hours and quarters in the clouds.",
+    "note": "As the fog thickens on Christmas Eve, the bell of the neighbouring church tolls the hours down at Scrooge from its Gothic window. St Michael's, Cornhill, opposite Newman's Court, has exactly that tower, which is why it is read as the church Dickens had in his eye.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave I: Marley's Ghost",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "heritage",
+        "ref": "St Michael, Cornhill, City of London",
+        "url": "https://www.cityoflondon.gov.uk/things-to-do/architecture/city-churches-and-religious-buildings/st-michael-cornhill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cornhill-slide",
+    "name": "Cornhill, the boys' ice-slide",
+    "progressLabel": "Stave I",
+    "character": "cratchit",
+    "coords": [-0.0852, 51.5132],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "went down a slide on Cornhill",
+    "passage": "The clerk, with the long ends of his white comforter dangling below his waist (for he boasted no great-coat), went down a slide on Cornhill, at the end of a lane of boys, twenty times, in honour of its being Christmas Eve, and then ran home to Camden Town as hard as he could pelt.",
+    "note": "Released at last, Bob Cratchit joins the boys sliding on the iced-over Cornhill, twenty times, before running the two miles home to Camden Town. It is the one moment of the counting-house day that is pure Christmas, and the one street Dickens names outright.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave I: Marley's Ghost",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cornhill, City of London",
+        "url": "https://en.wikipedia.org/wiki/Cornhill,_London"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fezziwigs-warehouse",
+    "name": "Fezziwig's warehouse",
+    "progressLabel": "Stave II",
+    "character": "scrooge",
+    "coords": [-0.0884, 51.5126],
+    "placeCertainty": "inferred",
+    "certaintyNote": "An unlocated City interior. The warehouse where the young Scrooge was apprenticed is never sited; the pin sits in the City of London, near the counting-house quarter, to mark the scene rather than a surviving address.",
+    "quoteAnchor": "The Ghost stopped at a certain warehouse door",
+    "passage": "The Ghost stopped at a certain warehouse door, and asked Scrooge if he knew it. \"Know it!\" said Scrooge. \"Was I apprenticed here!\"",
+    "note": "The Ghost of Christmas Past carries Scrooge back to the warehouse where old Fezziwig cleared the floor for a Christmas ball, shutters up before you could say Jack Robinson. Dickens gives it no address, so it stays an inferred City interior, pinned only to the quarter it belongs to.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave II: The First of the Three Spirits",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Christmas Carol London locations, City of London",
+        "url": "https://www.london-walking-tours.co.uk/dickens-london/a-christmas-carol-locations.htm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-royal-exchange",
+    "name": "The Royal Exchange ('Change)",
+    "progressLabel": "Stave IV",
+    "character": "scrooge",
+    "coords": [-0.0866, 51.5138],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dickens names 'Change, the trading floor where the City's merchants met; in Scrooge's London that was the Royal Exchange at Bank, rebuilt and reopened in 1844. The pin marks the Exchange the word denotes.",
+    "quoteAnchor": "on 'Change, amongst the merchants",
+    "passage": "But there they were, in the heart of it; on 'Change, amongst the merchants; who hurried up and down, and chinked the money in their pockets, and conversed in groups, and looked at their watches, and trifled thoughtfully with their great gold seals.",
+    "note": "The Ghost of Christmas Yet To Come sets Scrooge down among the merchants on 'Change, where his own death is discussed as idle gossip between deals. This is the floor of the Royal Exchange, the trading heart of the City where Scrooge's name was once good for anything he chose.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave IV: The Last of the Spirits",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Royal Exchange, City of London",
+        "url": "https://en.wikipedia.org/wiki/Royal_Exchange,_London"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "camden-town-cratchit-home",
+    "name": "Bob Cratchit's home, Camden Town",
+    "progressLabel": "Stave V",
+    "character": "cratchit",
+    "coords": [-0.1398, 51.537],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dickens names Camden Town but not a door. The Cratchit home is placed at Bayham Street, where Dickens himself lodged as a boy and which readers have long identified with the family; the pin marks that street.",
+    "quoteAnchor": "impossible to carry that to Camden Town",
+    "passage": "\"Why, it's impossible to carry that to Camden Town,\" said Scrooge. \"You must have a cab.\"",
+    "note": "The prize turkey Scrooge buys on Christmas morning is too big to carry, so it must go by cab out to the Cratchits in Camden Town. Dickens knew the district from the inside, having lived at Bayham Street as a boy, and readers place Bob's crowded, cheerful house on that same street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "A Christmas Carol, Stave V: The End of It",
+        "url": "https://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Bayham Street, Camden Town, and its Dickens associations",
+        "url": "https://exploring-london.com/tag/16-bayham-street/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
