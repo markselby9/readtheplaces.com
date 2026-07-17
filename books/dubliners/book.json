@@ -4,20 +4,38 @@
   "author": "James Joyce",
   "published": 1914,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-6.2606, 53.3494],
   "zoom": 12.5,
   "setting": {
     "city": "Dublin",
     "country": "IE",
-    "note": "Fifteen stories, fifteen corners of one city, each with a real address. A gentler way into Joyce’s Dublin than Ulysses, and a natural first book for a new contributor.",
+    "note": "Fifteen stories, fifteen corners of one city, each with a real address. From a boy's blind street in the north inner city to the aunts' house on the Liffey quays, Joyce mapped Dublin so exactly you can still walk it.",
     "bbox": [-6.387, 53.299, -6.115, 53.411]
   },
   "rights": {
-    "originalWork": "TODO: confirm. James Joyce published this in 1914.",
+    "originalWork": "Public domain. James Joyce, first published 1914; the author died in 1941.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/james-joyce/dubliners",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "James Joyce, Dubliners (1914)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2814",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1941).",
+    "attribution": "James Joyce, Dubliners (1914). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "because its leaves were yellow",
+    "note": "The amber-yellow of the yellowed leaves the boy prizes in the dead priest's books, a colour drawn from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "boy": {
+      "name": "The boy",
+      "color": "#8A3B1E",
+      "colorSourceQuote": "brown imperturbable faces"
+    },
+    "gabriel": {
+      "name": "Gabriel Conroy",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "His glossy black hair"
+    }
   }
 }

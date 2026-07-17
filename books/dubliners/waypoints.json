@@ -1,1 +1,148 @@
-[]
+[
+  {
+    "id": "the-pigeon-house",
+    "name": "The Pigeon House, on the South Wall",
+    "progressLabel": "An Encounter",
+    "character": "boy",
+    "coords": [-6.1932, 53.3405],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "cross in the ferryboat and walk out to see the Pigeon House",
+    "passage": "We arranged to go along the Wharf Road until we came to the ships, then to cross in the ferryboat and walk out to see the Pigeon House.",
+    "note": "Two boys mitch off school and set out down the quays for the Pigeon House at the end of the South Wall, the fort and harbour reaching into Dublin Bay. They never get there; the day drifts, and a strange old man in a field turns the adventure sour. The Pigeon House is real and still stands at the foot of the great sea wall.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"An Encounter\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Pigeon House and the Great South Wall, Poolbeg, Dublin",
+        "url": "https://en.wikipedia.org/wiki/Great_South_Wall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "north-richmond-street",
+    "name": "North Richmond Street",
+    "progressLabel": "Araby",
+    "character": "boy",
+    "coords": [-6.2505, 53.3582],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "North Richmond Street, being blind, was a quiet street",
+    "passage": "North Richmond Street, being blind, was a quiet street except at the hour when the Christian Brothers' School set the boys free. An uninhabited house of two storeys stood at the blind end, detached from its neighbours in a square ground.",
+    "note": "The boy's home and the whole enclosed world of \"Araby\": a dead-end street in the north inner city, the dead priest's back room, and the window from which he watches Mangan's sister. Joyce grew up at number 17, and the blind street with its Christian Brothers' school at the corner is exactly as he left it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"Araby\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "heritage",
+        "ref": "North Richmond Street, Dublin 1; Joyce lived at no. 17 (James Joyce Centre)",
+        "url": "https://jamesjoyce.ie/araby-house-and-james-joyce/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-araby-bazaar",
+    "name": "The Araby bazaar, Ballsbridge",
+    "progressLabel": "Araby",
+    "character": "boy",
+    "coords": [-6.2289, 53.3267],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The story names only the bazaar, \"Araby,\" reached by a late special train from Westland Row. The real Araby: A Grand Oriental Fete ran in May 1894 at the Royal Dublin Society showground in Ballsbridge, the site the pin marks.",
+    "quoteAnchor": "In front of me was a large building which displayed the magical",
+    "passage": "I passed out on to the road and saw by the lighted dial of a clock that it was ten minutes to ten. In front of me was a large building which displayed the magical name.",
+    "note": "The boy arrives late and alone at the bazaar he has crossed the city to reach, the stalls closing and the hall going dark, and his romantic errand collapses into shame. The historical Araby fete was a vast oriental spectacle at the RDS grounds in 1894, which the twelve-year-old Joyce is said to have attended.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"Araby\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Stephanie Rains, \"Joyce's 'Araby' and the Historical Araby Bazaar, 1894\" (RDS showground, Ballsbridge)",
+        "url": "https://mural.maynoothuniversity.ie/id/eprint/11882/1/SR_Joyce_2008.pdf"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ushers-island",
+    "name": "15 Usher's Island, the aunts' house",
+    "progressLabel": "The Dead",
+    "character": "gabriel",
+    "coords": [-6.2828, 53.3463],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "in the dark gaunt house on Usher’s Island",
+    "passage": "ever since Kate and Julia, after the death of their brother Pat, had left the house in Stoney Batter and taken Mary Jane, their only niece, to live with them in the dark gaunt house on Usher's Island, the upper part of which they had rented from Mr Fulham, the corn-factor on the ground floor.",
+    "note": "The Misses Morkan's annual dance fills the upstairs of this house on the south quays of the Liffey, the setting for nearly all of \"The Dead.\" It is a real house: number 15, where Joyce's own great-aunts held their Christmas parties, and it stands today as a museum to the story.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"The Dead\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "heritage",
+        "ref": "James Joyce House of the Dead, 15 Usher's Island, Dublin (Buildings of Ireland)",
+        "url": "https://www.buildingsofireland.ie/buildings-search/building/50080346/james-joyce-house-of-the-dead-dublin-city"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wellington-monument",
+    "name": "The Wellington Monument, Phoenix Park",
+    "progressLabel": "The Dead",
+    "character": "gabriel",
+    "coords": [-6.3031, 53.349],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The Wellington Monument wore a gleaming cap of snow",
+    "passage": "In the distance lay the park where the trees were weighted with snow. The Wellington Monument wore a gleaming cap of snow that flashed westward over the white field of Fifteen Acres.",
+    "note": "Standing to give his supper speech, Gabriel longs to be out in the cold instead, and his mind goes west to the snow on the great obelisk in Phoenix Park. The image returns at the story's close as the snow falls general over Ireland. The Wellington Testimonial is the tallest obelisk in Europe and still caps the park's edge.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"The Dead\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Wellington Monument (Wellington Testimonial), Phoenix Park, Dublin",
+        "url": "https://en.wikipedia.org/wiki/Wellington_Monument,_Dublin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-gresham-hotel",
+    "name": "The Gresham Hotel, Sackville Street",
+    "progressLabel": "The Dead",
+    "character": "gabriel",
+    "coords": [-6.2606, 53.3515],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The hotel is not named at this line, but the story states plainly that Gabriel has taken a room in the Gresham (\"I've taken one in the Gresham\"), so the closing scene is there.",
+    "quoteAnchor": "When the cab drew up before the hotel",
+    "passage": "When the cab drew up before the hotel, Gabriel jumped out and, in spite of Mr Bartell D'Arcy's protest, paid the driver.",
+    "note": "After the dance, Gabriel and Gretta take a cab across the snow-lit city to the Gresham on Sackville Street, where the story ends: her memory of a dead boy in Galway, and Gabriel's slow reckoning as the snow falls. The Gresham still stands on what is now O'Connell Street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dubliners, \"The Dead\"",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Gresham Hotel, 23 O'Connell Street Upper, Dublin",
+        "url": "https://en.wikipedia.org/wiki/The_Gresham_Hotel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
