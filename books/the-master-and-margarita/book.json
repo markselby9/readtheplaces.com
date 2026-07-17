@@ -5,20 +5,30 @@
   "published": 1967,
   "orderingKey": "chapter",
   "sourcing": "cited",
-  "center": [37.592, 55.7636],
-  "zoom": 12.5,
+  "center": [37.6, 55.765],
+  "zoom": 12.8,
   "setting": {
     "city": "Moscow",
     "country": "RU",
-    "note": "Patriarch’s Ponds, where the devil sits down on a bench in chapter one. Moscow readers still go there. The Russian text is public domain, but every English translation is still in copyright, so this is mapped as a cited book: locations only, no passages stored.",
-    "bbox": [36.803, 55.142, 37.967, 56.021]
+    "note": "The Devil comes to atheist Soviet Moscow and turns it inside out. The map runs through the real city Bulgakov wrote from: a bench by Patriarch's Ponds, the writers' club drawn from Herzen House on Tverskoy Boulevard, and the haunted flat modelled on his own rooms on Bolshaya Sadovaya. A second thread, Pontius Pilate's Jerusalem, runs outside the city as a story within the story.",
+    "bbox": [37.5, 55.72, 37.68, 55.8]
   },
   "rights": {
-    "originalWork": "Bulgakov died in 1940, so the Russian text is public domain. The novel was first published in the 1960s, and it is mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
-    "translation": "Every English translation is still in copyright. Michael Glenny's (1967) does not enter the US public domain until 2063, and no free English translation exists yet, which is why this cannot be a sourced book.",
+    "originalWork": "In copyright. Mikhail Bulgakov, written 1928-1940 and first published 1966-1967. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
     "textSource": "None stored. A cited book reproduces no text.",
-    "textSourceUrl": "https://standardebooks.org/ebooks/mikhail-bulgakov/the-master-and-margarita/michael-glenny",
-    "territoryNotes": "Locations and original commentary only. No reproduction of any copyrighted translation, in any territory.",
-    "attribution": "The Master and Margarita, Mikhail Bulgakov (first published 1966–67). Locations mapped by Read the Places."
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/117439/the-master-and-margarita-by-mikhail-bulgakov/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Master and Margarita, Mikhail Bulgakov (1967). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The deep red of the Devil's Moscow: the tram at Patriarch's Ponds and the fires that close the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "margarita": {
+      "name": "Margarita",
+      "color": "#2E5064"
+    }
   }
 }

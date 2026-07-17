@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "patriarchs-ponds",
+    "name": "Patriarch's Ponds",
+    "progressLabel": "Chapter 1",
+    "character": "margarita",
+    "coords": [37.5919, 55.7641],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bulgakov names Patriarch's Ponds outright; sited at the small park and pond off the Garden Ring that still carries the name.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "On a hot spring evening a magazine editor and a young poet argue about whether God exists, and a courtly foreign stranger joins them to insist the Devil does. He foretells the editor's death in exact detail, and minutes later a tram makes it come true. This quiet park off the Garden Ring is where the novel's Moscow begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Patriarch's Ponds, The Master and Margarita location guide, masterandmargarita.eu",
+        "url": "https://www.masterandmargarita.eu/en/04mappen/patriarch.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Patriarch Ponds, Wikipedia, on the site and its role in the novel",
+        "url": "https://en.wikipedia.org/wiki/Patriarch_Ponds"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "herods-palace-jerusalem",
+    "name": "Herod's Palace, Jerusalem",
+    "progressLabel": "Chapter 2",
+    "character": "margarita",
+    "coords": [35.2276, 31.7767],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Pilate chapters are a story within the story, set in Jerusalem rather than Moscow, so this point sits outside the book's setting. Bulgakov places the trial at Herod's palace; the procurator's Jerusalem residence stood at the citadel by the western wall, marked today by the Tower of David.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "A parallel thread carries the reader to Roman Judaea, where Pontius Pilate questions a wandering preacher named Yeshua and, against his own judgement, sends him to die. These chapters surface throughout the novel as the manuscript the Master has written. The scene belongs to Herod's former palace, the Roman governor's seat in Jerusalem.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Master and Margarita, Pilate and Jerusalem thread, masterandmargarita.eu",
+        "url": "https://www.masterandmargarita.eu/en/02themas/pilatus.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tower of David, Wikipedia, on the citadel at the site of Herod's palace",
+        "url": "https://en.wikipedia.org/wiki/Tower_of_David"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "griboyedov-house-herzen-house",
+    "name": "Griboyedov House (Herzen House)",
+    "progressLabel": "Chapter 5",
+    "character": "margarita",
+    "coords": [37.6022, 55.7625],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Griboyedov House, headquarters of the writers' union MASSOLIT, is invented, but it is widely and explicitly modelled on the real Herzen House at 25 Tverskoy Boulevard, home to literary organisations in the 1920s and now the Gorky Literature Institute. Sited there.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "note": "The literary bureaucracy gathers at a grand mansion housing the writers' union, its cheap restaurant more coveted than any manuscript. News of the editor's death interrupts the dancing. Bulgakov built this satire on the real Herzen House on Tverskoy Boulevard, where Soviet writers' groups kept their offices.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Griboedov, The Master and Margarita location guide, masterandmargarita.eu",
+        "url": "https://www.masterandmargarita.eu/en/04mappen/gribojedov.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Maxim Gorky Literature Institute, Wikipedia, on Herzen House at 25 Tverskoy Boulevard",
+        "url": "https://en.wikipedia.org/wiki/Moscow_Literature_Institute"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bad-apartment-sadovaya",
+    "name": "The bad apartment, No. 50, Bolshaya Sadovaya",
+    "progressLabel": "Chapter 7",
+    "character": "margarita",
+    "coords": [37.5929, 55.7669],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel gives the address as flat No. 50, 302-bis Sadovaya. That number is fictional, but it is openly drawn from Bulgakov's own flat No. 50 at 10 Bolshaya Sadovaya, now the Bulgakov Museum. Sited at the museum.",
+    "reference": "Chapter 7",
+    "order": 4,
+    "note": "The stranger and his retinue take over a flat whose tenants keep vanishing, and it becomes the base for their haunting of Moscow. Bulgakov set it at an invented address on Sadovaya but built it from the rooms he actually lived in at 10 Bolshaya Sadovaya, flat 50, which is now a museum to him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bulgakov House (Moscow), Wikipedia, on flat No. 50 at 10 Bolshaya Sadovaya",
+        "url": "https://en.wikipedia.org/wiki/Bulgakov_House_(Moscow)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The House in Bolshaya Sadovaya, Mikhail Bulgakov Museum",
+        "url": "https://bulgakovmuseum.ru/en/dom10/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "variety-theatre",
+    "name": "The Variety Theatre",
+    "progressLabel": "Chapter 12",
+    "character": "margarita",
+    "coords": [37.5936, 55.7697],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Variety Theatre is fictional. Commentators point to the Moscow Music Hall of the 1920s and 30s, in the former Nikitin circus at 18 Bolshaya Sadovaya, now the Moscow Satire Theatre by Triumfalnaya Square. Sited there.",
+    "reference": "Chapter 12",
+    "order": 5,
+    "note": "The stranger stages a black-magic show for a packed Moscow house: money rains from the ceiling, a fashion boutique appears on stage, and a heckler's head is briefly removed. The audience's greed is the real trick. The theatre is invented, but its model was the Music Hall in the round former circus building on Bolshaya Sadovaya, a short walk from the haunted flat.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Variety Theatre, The Master and Margarita location guide, masterandmargarita.eu",
+        "url": "https://www.masterandmargarita.eu/en/04mappen/variete.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Moscow music hall, Wikipedia, on the venue at 18 Bolshaya Sadovaya",
+        "url": "https://en.wikipedia.org/wiki/Moscow_music_hall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "margaritas-flight-over-moscow",
+    "name": "Margarita's flight over Moscow",
+    "progressLabel": "Chapter 21",
+    "character": "margarita",
+    "coords": [37.593, 55.7494],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel never fixes Margarita's mansion to a single address, and her flight sweeps across the whole city. This point marks the old lanes of the Arbat, the central district her escape passes through, as a representative anchor.",
+    "reference": "Chapter 21",
+    "order": 6,
+    "note": "To be reunited with the Master, Margarita accepts the stranger's bargain, rubs herself with a magic cream and rises invisible over the rooftops. She soars above the streets and canals of central Moscow, settling a private score along the way. Her flight ties the Devil's Moscow together from the air.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Margarita and her flight, The Master and Margarita, masterandmargarita.eu",
+        "url": "https://www.masterandmargarita.eu/en/03karakters/margarita.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Arbat, Wikipedia, for the central district the flight crosses",
+        "url": "https://en.wikipedia.org/wiki/Arbat_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
