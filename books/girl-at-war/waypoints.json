@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ban-jelacic-square",
+    "name": "Ban Jelačić Square, Zagreb",
+    "progressLabel": "Part One",
+    "character": "ana",
+    "coords": [15.9771, 45.8131],
+    "placeCertainty": "explicit",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The central square of Zagreb, where the narrator runs errands in an ordinary summer that is about to end. In 1991 the wider war reaches the capital as air-raid sirens and rationing, and the crowded main square becomes a place to read the mood of a city bracing for the fighting to the south and east. The square is real and remains the heart of the city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ban Jelačić Square, Zagreb, Wikipedia, for the square and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Ban_Jela%C4%8Di%C4%87_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "juric-family-flat",
+    "name": "The Jurić family's flat, Zagreb",
+    "progressLabel": "Part One",
+    "character": "ana",
+    "coords": [15.985, 45.803],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not give the flat a street address; it sits in a residential part of central Zagreb. Sited at a representative point in the lower town, near the centre the book describes.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The apartment where the narrator lives with her parents and infant sister. As the war closes in, family life narrows to blackout windows, trips to a basement shelter when the sirens sound, and the strain of a baby who is seriously ill. The flat is the fixed point the rest of the book keeps returning to in memory.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Zagreb city geography, Wikipedia, for the central residential districts",
+        "url": "https://en.wikipedia.org/wiki/Zagreb"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "childrens-hospital-zagreb",
+    "name": "The children's hospital, Zagreb",
+    "progressLabel": "Part One",
+    "character": "ana",
+    "coords": [15.96501, 45.80926],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The hospital where the sick baby is treated is not named. Sited at Zagreb's children's hospital on Klaićeva, the central paediatric hospital for the country and the plausible real setting for the scenes.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The narrator's baby sister is gravely ill, and the search for care she cannot get in a country at war drives much of the first part. Zagreb's children's hospital stands in for the medical world the family moves through before a humanitarian scheme sends the baby abroad for treatment, the arrangement that puts the parents on the road south.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Klinika za dječje bolesti Zagreb (Klaićeva children's hospital), for the hospital and its location",
+        "url": "https://www.kdb.hr/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "countryside-near-bosnian-border",
+    "name": "The countryside near the Bosnian border",
+    "progressLabel": "Part One",
+    "character": "ana",
+    "coords": [16.5392, 45.2317],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The site of the atrocity is not mapped to a named village. Sited in the war-front countryside along the Una, the Croatia–Bosnia border region around Hrvatska Kostajnica that saw such killings, as a representative point.",
+    "reference": "Part One",
+    "order": 4,
+    "note": "On the drive home the family is stopped at a paramilitary roadblock in the countryside near the border and taken to a field, where the parents and other captured civilians are shot into a mass grave. The child survives by falling among the bodies and playing dead, then escaping into the woods. The scene is the book's centre of gravity, and it renders the documented pattern of wartime executions in the border zone factually rather than sensationally.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hrvatska Kostajnica and the Una border region, Wikipedia, for the border geography and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Hrvatska_Kostajnica"
+      },
+      {
+        "kind": "external",
+        "ref": "Croatian War of Independence, Wikipedia, on civilian killings in the 1991 border fighting",
+        "url": "https://en.wikipedia.org/wiki/Croatian_War_of_Independence"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "new-york-greenwich-village",
+    "name": "New York",
+    "progressLabel": "Part Two",
+    "character": "ana",
+    "coords": [-73.9965, 40.7291],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "A deliberate excursion outside the Croatian setting. The novel places the grown narrator as a university student in New York, around Greenwich Village and the university near Washington Square, before she travels back.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "A decade later the narrator is a student in New York, living an American life that has buried the war under silence. New York is where the past goes unspoken, and the pressure of that silence is what finally sends her back to Croatia. It sits off the book's Croatian map on purpose, the outside place the story has to leave to resolve.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Greenwich Village and Washington Square, Manhattan, Wikipedia, for the New York setting and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Greenwich_Village"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dalmatian-coast-tiskany",
+    "name": "The Dalmatian coast",
+    "progressLabel": "Part Three",
+    "character": "ana",
+    "coords": [16.5508, 43.3842],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Adriatic coast the family holidayed on is real and explicit in the book; the island the narrator returns to, Tiskany, is a fictional name. Sited at a representative central-Dalmatian island, Brač, off Split.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "Back in Croatia, the narrator travels to the Dalmatian coast and the island where the family spent summers before the war, called Tiskany in the book. Returning to the Adriatic, to a childhood friend and to the sea, is where she begins to reckon with what she survived. The coast is real; the island's name is the author's invention, placed here among the central Dalmatian islands.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Brač, Wikipedia, for a representative central-Dalmatian island and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Bra%C4%8D"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

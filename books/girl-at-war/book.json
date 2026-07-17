@@ -1,0 +1,35 @@
+{
+  "id": "girl-at-war",
+  "title": "Girl at War",
+  "author": "Sara Nović",
+  "published": 2015,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [15.9771, 45.8131],
+  "zoom": 7,
+  "setting": {
+    "city": "Zagreb",
+    "country": "HR",
+    "date": "1991",
+    "note": "The Croatia of the war for independence and of the peace that follows it. The map opens in Zagreb in 1991, a ten-year-old's city of air-raid sirens, shelters and a family flat, then runs south to the killing grounds near the Bosnian border and, a decade on, back to the Dalmatian coast where the narrator returns to face what happened.",
+    "bbox": [15.5, 43.2, 16.7, 45.95]
+  },
+  "rights": {
+    "originalWork": "In copyright. Sara Nović, first published 2015. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/238176/girl-at-war-by-sara-novic/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Girl at War, Sara Nović (2015). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The deep red of the Croatian checkerboard and of the war that runs through the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ana": {
+      "name": "Ana Jurić",
+      "color": "#2E5064"
+    }
+  }
+}
