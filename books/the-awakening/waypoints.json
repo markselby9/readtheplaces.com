@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "grand-isle-the-lebrun-cottages",
+    "name": "Grand Isle, the Lebrun cottages",
+    "progressLabel": "Ch. 1",
+    "character": "robert",
+    "coords": [-89.9873, 29.2366],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "with his mother at Grand Isle",
+    "passage": "He was spending his summer vacation, as he always did, with his mother at Grand Isle. In former times, before Robert could remember, “the house” had been a summer luxury of the Lebruns.",
+    "note": "The novel opens where the Creole families of the Quartier Français summer: Madame Lebrun's cottages on Grand Isle, the barrier island at the mouth of Barataria Bay. Robert spends every vacation here, and here he begins the long, idle attention to Edna that starts her awakening.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "guide",
+        "ref": "Grand Isle, Jefferson Parish, Louisiana",
+        "url": "https://en.wikipedia.org/wiki/Grand_Isle,_Louisiana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-gulf-beach-edna-swims",
+    "name": "The Gulf beach, where Edna learns to swim",
+    "progressLabel": "Ch. 10",
+    "character": "edna",
+    "coords": [-89.9528, 29.2553],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The exact spot is not fixed in the text; the pin marks the Gulf-of-Mexico beach on the seaward side of Grand Isle, along the present-day Grand Isle State Park shore, where the bathers gather.",
+    "quoteAnchor": "where no woman had swum before",
+    "passage": "She grew daring and reckless, overestimating her strength. She wanted to swim far out, where no woman had swum before.",
+    "note": "On a moonlit night Edna swims unaided for the first time, and the small physical triumph turns into something larger: she strikes out alone for open water, intoxicated by a power she has never been allowed. The Gulf that teaches her to swim is the same water she walks into at the end.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter X",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "guide",
+        "ref": "Grand Isle State Park, Gulf of Mexico beach, Louisiana",
+        "url": "https://en.wikipedia.org/wiki/Grand_Isle_State_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "our-lady-of-lourdes-cheniere-caminada",
+    "name": "Our Lady of Lourdes, Chênière Caminada",
+    "progressLabel": "Ch. 12",
+    "character": "robert",
+    "coords": [-90.0504, 29.2108],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Chênière Caminada village and its church were swept away in the great hurricane of 1893, six years before the novel; the pin marks the site of the drowned fishing community west of Grand Isle.",
+    "quoteAnchor": "the quaint little Gothic church of Our Lady of Lourdes",
+    "passage": "They all went together up to the quaint little Gothic church of Our Lady of Lourdes, gleaming all brown and yellow with paint in the sun’s glare.",
+    "note": "Edna slips away with Robert on Beaudelet's lugger to hear mass at the Chênière Caminada, then flees the stifling little church for Madame Antoine's cottage. The village Chopin names was real and recent history to her readers: the 1893 storm had already erased it and its people.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter XII",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cheniere Caminada, Louisiana, and the 1893 hurricane",
+        "url": "https://en.wikipedia.org/wiki/Cheniere_Caminada,_Louisiana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "carondelet-street-the-business-district",
+    "name": "Carondelet Street, the business district",
+    "progressLabel": "Ch. 16",
+    "character": "robert",
+    "coords": [-90.0705, 29.948],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Carondelet Street is named but no address is given; the pin sits on the street in the New Orleans central business district, the mercantile heart where Léonce works and where Robert is seen before leaving for Mexico.",
+    "quoteAnchor": "On Carondelet Street, in the morning",
+    "passage": "Where had they met? On Carondelet Street, in the morning. They had gone “in” and had a drink and a cigar together.",
+    "note": "Carondelet Street is the men's New Orleans: cotton offices, banks, and Léonce Pontellier's business. When Edna presses her husband for news of the departed Robert, it is here that the two men crossed paths, in the commercial district she herself is never quite part of.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter XVI",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "guide",
+        "ref": "Central Business District, New Orleans (Carondelet Street)",
+        "url": "https://en.wikipedia.org/wiki/Central_Business_District,_New_Orleans"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-pontellier-house-esplanade-street",
+    "name": "The Pontellier house on Esplanade Street",
+    "progressLabel": "Ch. 17",
+    "character": "edna",
+    "coords": [-90.0587, 29.9622],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Pontellier cottage is fictional; the pin sits on Esplanade Avenue at its lower, French Quarter end, the Creole address Chopin gives the family.",
+    "quoteAnchor": "The Pontelliers possessed a very charming home on Esplanade Street",
+    "passage": "The Pontelliers possessed a very charming home on Esplanade Street in New Orleans. It was a large, double cottage, with a broad front veranda, whose round, fluted columns supported the sloping roof.",
+    "note": "Back in the city, the Pontelliers' dazzling white cottage on Esplanade is the house Edna slowly refuses: Léonce's reception days, his household gods, the perfect appointments she stops maintaining. Her rebellion is measured out against these rooms until she leaves them for good.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter XVII",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Esplanade Avenue, New Orleans",
+        "url": "https://en.wikipedia.org/wiki/Esplanade_Avenue,_New_Orleans"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-pigeon-house",
+    "name": "The pigeon house",
+    "progressLabel": "Ch. 31",
+    "character": "edna",
+    "coords": [-90.0596, 29.9628],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The pigeon house is fictional and, in the text, stands just around the corner from the Esplanade Street house; the pin is set a few doors away, beside it.",
+    "quoteAnchor": "The \"pigeon house\" stood behind a locked gate",
+    "passage": "The “pigeon house” stood behind a locked gate, and a shallow parterre that had been somewhat neglected. There was a small front porch, upon which a long window and the front door opened.",
+    "note": "Edna moves out of her husband's house into a tiny rented cottage a few steps away, small enough to be nicknamed the pigeon house. It is her declaration of independence in brick and mortar, a place that is hers, bought with her own money and won on her own terms.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Awakening, Chapter XXXI",
+        "url": "https://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Esplanade Avenue, New Orleans (the Faubourg Marigny end)",
+        "url": "https://en.wikipedia.org/wiki/Esplanade_Avenue,_New_Orleans"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

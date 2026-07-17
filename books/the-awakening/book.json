@@ -4,20 +4,38 @@
   "author": "Kate Chopin",
   "published": 1899,
   "orderingKey": "chapter",
-  "center": [-90.062, 29.9625],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-90.05, 29.7],
+  "zoom": 8,
   "setting": {
     "city": "New Orleans",
     "country": "US",
-    "note": "The French Quarter and Grand Isle, and a woman walking out of one life into the sea. Short, precise, and set in a city that has since been remade twice by water.",
-    "bbox": [-90.14, 29.865, -89.625, 30.199]
+    "note": "Two Louisianas, an hour and a century apart: the Creole summer colony on Grand Isle in the Gulf, and the Pontellier house on Esplanade back in New Orleans. Chopin named the real islands, streets, and church; the bbox spans the whole run from the barrier island north to the city.",
+    "bbox": [-90.15, 29.19, -89.6, 30.0]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Kate Chopin published this in 1899.",
+    "originalWork": "Public domain. Kate Chopin, first published 1899; the author died in 1904.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Kate Chopin, The Awakening (1899)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/160",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1904).",
+    "attribution": "Kate Chopin, The Awakening (1899). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "accentSourceQuote": "into the blue of the horizon",
+    "note": "The sea-blue of the Gulf horizon that draws Edna out and finally takes her, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "edna": {
+      "name": "Edna Pontellier",
+      "color": "#8A6A12",
+      "colorSourceQuote": "yellowish brown, about the color of her hair"
+    },
+    "robert": {
+      "name": "Robert Lebrun",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "His face flushed"
+    }
   }
 }
