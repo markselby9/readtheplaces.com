@@ -1,0 +1,133 @@
+[
+  {
+    "id": "villa-cove-esterel",
+    "name": "The rented villa above a pine-covered cove",
+    "progressLabel": "Part One",
+    "character": "cecile",
+    "coords": [6.85584, 43.43131],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The white villa is a fictional summer rental. Sagan never names its town, placing it on an isolated pine-covered cove of the Riviera between Cannes and Saint-Tropez; this marks the bay of Agay on the Estérel coast as a representative cove of that kind.",
+    "reference": "Part One, chapter 1",
+    "order": 1,
+    "note": "The whole summer is staged at an isolated villa the narrator's father has taken for the season, a white house set apart on a wooded point above a small cove where the family swims and lazes through the heat. No real address exists; the setting is a stretch of the Mediterranean coast between Cannes and Saint-Tropez, all red rock, umbrella pines and calm water.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Agay, Wikipedia, on the circular bay and calanques on the Estérel coast",
+        "url": "https://en.wikipedia.org/wiki/Agay"
+      },
+      {
+        "kind": "guide",
+        "ref": "Inlets and coves in Estérel Côte d'Azur, official tourism site",
+        "url": "https://www.esterel-cotedazur.com/en/discover/beaches/inlets-and-coves/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cannes-resort",
+    "name": "Cannes",
+    "progressLabel": "Part One",
+    "character": "cecile",
+    "coords": [7.0174, 43.5528],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cannes is named in the novel as the resort the family drives to for its evenings out; the coordinates mark the seafront around the old port and the Croisette.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The idle days are broken by nights along the coast, and Cannes is where the father takes his daughter and his companions to dance, drink and gamble. The glittering seafront resort is the counterpoint to the quiet of the villa, and the stage for the flirtations that set the plot moving.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannes, Wikipedia, for the seafront and Croisette coordinates",
+        "url": "https://en.wikipedia.org/wiki/Cannes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saint-raphael-coast",
+    "name": "Saint-Raphaël",
+    "progressLabel": "Part One",
+    "character": "cecile",
+    "coords": [6.7683, 43.4249],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sagan keeps the villa's nearest town unnamed. Saint-Raphaël is the real resort and port at the western foot of the Estérel corniche, the natural market and bathing town for a household set on this stretch of coast; it stands here as a representative point.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "Between swims and errands the summer draws on the small ports and beaches of the coast. Saint-Raphaël, at the western end of the Estérel and a short drive from the coves, is the kind of working resort town that would anchor a season spent on this shore.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Saint-Raphaël, Var, Wikipedia, for the town and harbour coordinates",
+        "url": "https://en.wikipedia.org/wiki/Saint-Rapha%C3%ABl,_Var"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saint-tropez-excursion",
+    "name": "Saint-Tropez",
+    "progressLabel": "Part Two",
+    "character": "cecile",
+    "coords": [6.6407, 43.2727],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sends the family west along the coast for its outings without always naming the town. Saint-Tropez, the fashionable resort south-west of the villa, marks that world of Riviera nightlife; it is inferred rather than fixed in the text.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The pleasures of the coast reach their height in the fashionable resorts to the south-west, where the young and the moneyed gather on the quay and in the clubs. Saint-Tropez stands for these excursions, the bright, careless nightlife against which the family's tensions sharpen.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Saint-Tropez, Wikipedia, for the resort and port coordinates",
+        "url": "https://en.wikipedia.org/wiki/Saint-Tropez"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "corniche-esterel",
+    "name": "The Corniche de l'Estérel cliff road",
+    "progressLabel": "Part Two",
+    "character": "cecile",
+    "coords": [6.8994, 43.4783],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The fatal drop happens on a coastal cliff road that Sagan does not name. The Corniche de l'Estérel, the red-rock cliff road inaugurated in 1903 between Saint-Raphaël and Cannes, is the coast's iconic corniche of this kind; this marks its sheer section near Le Trayas.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The summer's scheming ends in catastrophe on a corniche where the road runs high above the sea and a car leaves it on a bend. The Estérel corniche, cut into red porphyry cliffs along the water, is the coast's most dramatic cliff drive and the type of road the closing tragedy demands.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Discover The Trayas, Estérel Côte d'Azur official tourism site, on the corniche's cliff section",
+        "url": "https://www.esterel-cotedazur.com/en/discover/cities-and-villages/saint-raphael/le-trayas/"
+      },
+      {
+        "kind": "guide",
+        "ref": "La Corniche d'Or, Saint-Raphaël tourism, on the 1903 red-rock cliff road",
+        "url": "https://www.saint-raphael.com/en/discover/the-sea/scenic-areas/la-corniche-d-or"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paris-frame",
+    "name": "Paris",
+    "progressLabel": "Frame",
+    "character": "cecile",
+    "coords": [2.3522, 48.8566],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Paris is the family's home city and the vantage from which the narrator looks back on the summer; it frames the coastal story and sits well north of the Riviera setting.",
+    "reference": "Frame narrative",
+    "order": 6,
+    "note": "The Riviera summer is remembered from Paris, where the narrator and her father return to their old life of parties and passing affairs. The city is the everyday world the holiday interrupts, and the place from which the whole story is told in retrospect, shadowed now by a grief that will not lift.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Paris, Wikipedia, for the city coordinates",
+        "url": "https://en.wikipedia.org/wiki/Paris"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
