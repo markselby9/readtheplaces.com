@@ -4,20 +4,38 @@
   "author": "Edith Wharton",
   "published": 1920,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-73.978, 40.756],
   "zoom": 12.5,
   "setting": {
     "city": "New York",
     "country": "US",
-    "note": "Gilded Age Manhattan, where an address is a verdict. Wharton is exact about which streets are respectable and which are not, and half of the buildings are gone.",
+    "note": "Gilded Age Manhattan, where an address is a verdict. Wharton is exact about which streets are respectable and which are not: the shabby old opera house on Fourteenth Street, the chocolate-coloured brownstones, and the bold new houses creeping up towards the Park. Half of these buildings are gone.",
     "bbox": [-74.259, 40.477, -73.7, 40.918]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Edith Wharton published this in 1920.",
+    "originalWork": "Public domain. Edith Wharton, first published 1920; the author died in 1937.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Edith Wharton, The Age of Innocence (1920)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/541",
+    "territoryNotes": "Public domain in the United States (published 1920), and in the United Kingdom and the European Union, where the author died more than 70 years ago (1937).",
+    "attribution": "Edith Wharton, The Age of Innocence (1920). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "the shabby red and gold boxes",
+    "note": "The red of the shabby red-and-gold boxes at the old Academy of Music, where the novel opens. A colour drawn straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "archer": {
+      "name": "Newland Archer",
+      "color": "#8A6A12",
+      "colorSourceQuote": "a cluster of yellow roses"
+    },
+    "ellen": {
+      "name": "Countess Ellen Olenska",
+      "color": "#2E5064",
+      "colorSourceQuote": "the dark blue velvet gown"
+    }
   }
 }

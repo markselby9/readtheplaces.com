@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "academy-of-music",
+    "name": "The Academy of Music, Fourteenth Street",
+    "progressLabel": "Book 1, ch. 1",
+    "character": "archer",
+    "coords": [-73.9872, 40.7345],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "singing in Faust at the Academy of Music in New York",
+    "passage": "On a January evening of the early seventies, Christine Nilsson was singing in Faust at the Academy of Music in New York.",
+    "note": "The novel opens at the opera, and old New York is content with its \"shabby red and gold boxes\" rather than the costly new house being talked of \"above the Forties.\" It is here, in the Mingott box, that Newland Archer first sees the Countess Olenska. The real Academy stood on the northeast corner of East Fourteenth Street and Irving Place from 1854 until it was demolished in 1926.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book I, ch. 1",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Academy of Music (New York City), 126 East 14th Street at Irving Place",
+        "url": "https://en.wikipedia.org/wiki/Academy_of_Music_(New_York_City)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mrs-manson-mingotts-house",
+    "name": "Mrs Manson Mingott's house, near the Park",
+    "progressLabel": "Book 1, ch. 1",
+    "character": "ellen",
+    "coords": [-73.973, 40.7643],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Mingott house is Wharton's invention, but she sites it precisely: a pale cream-coloured house built \"above Thirty-fourth Street\" in a still-empty district hard by Central Park, years before fashion followed. The pin marks that bold move uptown, near the southern edge of the Park off Fifth Avenue.",
+    "quoteAnchor": "in an inaccessible wilderness near the Central Park",
+    "passage": "old Mrs. Manson Mingott ... put the crowning touch to her audacities by building a large house of pale cream-coloured stone (when brown sandstone seemed as much the only wear as a frock-coat in the afternoon) in an inaccessible wilderness near the Central Park.",
+    "note": "The Matriarch of the clan, and the one place in old New York where Ellen Olenska is taken in. Mrs Mingott built uptown before anyone else dared, in cream stone when the city wore brown, and \"throned\" there among her pre-Revolutionary furniture. The house is fiction; the audacity of building near the Park in the 1870s was real.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book I, ch. 1",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "guide",
+        "ref": "Central Park and the northward march of fashionable New York in the 1870s",
+        "url": "https://en.wikipedia.org/wiki/Central_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wellands-house-east-thirty-ninth",
+    "name": "The Wellands' new house, East Thirty-ninth Street",
+    "progressLabel": "Book 1, ch. 9",
+    "character": "archer",
+    "coords": [-73.9785, 40.7492],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Wharton names the street but not the number: Mr Welland has his eye on \"a newly built house in East Thirty-ninth Street,\" thought remote. The pin marks the block, east of Fifth Avenue between Madison and Park, where the married Archers are expected to settle.",
+    "quoteAnchor": "coated New York like a cold chocolate sauce",
+    "passage": "the house was built in a ghastly greenish-yellow stone that the younger architects were beginning to employ as a protest against the brownstone of which the uniform hue coated New York like a cold chocolate sauce; but the plumbing was perfect.",
+    "note": "Archer's fate as a married man, pictured before it happens: the greenish-yellow house on a street thought too far uptown, in protest against the brownstone that \"coated New York like a cold chocolate sauce.\" Wharton's single sentence is the best portrait we have of the look of respectable Gilded Age Manhattan.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book I, ch. 9",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "guide",
+        "ref": "The brownstone rowhouse and the building of Gilded Age New York",
+        "url": "https://en.wikipedia.org/wiki/Brownstone"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "boston-common",
+    "name": "Boston Common",
+    "progressLabel": "Book 2, ch. 23",
+    "character": "archer",
+    "coords": [-71.0659, 42.3551],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "A deliberate excursion out of New York. Archer follows Ellen to Boston and, failing to find her at the Parker House, crosses the Common and finds her on a bench under a tree. Some 300 km northeast of the book's Manhattan setting, so it is flagged as an excursion.",
+    "quoteAnchor": "and on the first bench, under a tree, he saw her sitting",
+    "passage": "He started to walk across the Common; and on the first bench, under a tree, he saw her sitting. She had a grey silk sunshade over her head--how could he ever have imagined her with a pink one?",
+    "note": "The one time the lovers are alone and free of New York's watching eyes. Archer travels to Boston on a pretext, misses Ellen at the Parker House, and comes upon her sitting on the Common. The city's public green, laid out in 1634, still runs down to the streets by the hotel where she is staying.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book II, ch. 23",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Boston Common, Boston, Massachusetts (established 1634)",
+        "url": "https://en.wikipedia.org/wiki/Boston_Common"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "metropolitan-museum-of-art",
+    "name": "The Metropolitan Museum, in the Park",
+    "progressLabel": "Book 2, ch. 31",
+    "character": "ellen",
+    "coords": [-73.9634, 40.7794],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Archer names it plainly, \"the Art Museum--in the Park,\" and the passage describes the Museum's new red-brick building in Central Park, opened in 1880. The pin marks that building, the core of today's Metropolitan Museum on Fifth Avenue at Eighty-second Street.",
+    "quoteAnchor": "the queer wilderness of cast-iron and encaustic tiles known as the Metropolitan Museum",
+    "passage": "Avoiding the popular \"Wolfe collection,\" whose anecdotic canvases filled one of the main galleries of the queer wilderness of cast-iron and encaustic tiles known as the Metropolitan Museum, they had wandered down a passage to the room where the \"Cesnola antiquities\" mouldered in unvisited loneliness.",
+    "note": "Archer and Ellen keep a stolen appointment among the Cesnola antiquities, in a museum still so new he can say \"some day, I suppose, it will be a great Museum.\" It was: the red-brick pavilion of 1880 grew into the Fifth Avenue institution, but Wharton pins the scene to the raw beginning.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book II, ch. 31",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Metropolitan Museum of Art, Central Park building opened 1880",
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "les-invalides-paris",
+    "name": "A square near the Invalides, Paris",
+    "progressLabel": "Book 2, ch. 34",
+    "character": "archer",
+    "coords": [2.3128, 48.8561],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The final chapter jumps nearly thirty years and crosses the Atlantic to Paris. Wharton places Ellen's flat in \"a square near one of the avenues radiating from the Invalides\" but names no exact street; the pin marks the Invalides itself, the landmark she orients everything by. Flagged as an excursion beyond the New York setting.",
+    "quoteAnchor": "lived in a square near one of the avenues radiating from the Invalides",
+    "passage": "Archer knew that Madame Olenska lived in a square near one of the avenues radiating from the Invalides; and he had pictured the quarter as quiet and almost obscure, forgetting the central splendour that lit it up.",
+    "note": "The end of the book. An older Archer, a widower, comes to Paris with his son and sits on a bench below Ellen's window under the golden light off the dome of the Invalides, then chooses not to go up. Half a lifetime after the opera box, the two are a few storeys apart and never meet again.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Age of Innocence, Book II, ch. 34",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hôtel des Invalides, 7th arrondissement, Paris",
+        "url": "https://en.wikipedia.org/wiki/Les_Invalides"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
