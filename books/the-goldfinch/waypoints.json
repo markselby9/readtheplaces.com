@@ -1,0 +1,129 @@
+[
+  {
+    "id": "metropolitan-museum-of-art",
+    "name": "The Metropolitan Museum of Art",
+    "progressLabel": "Part One",
+    "character": "theo",
+    "coords": [-73.9632, 40.7794],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Metropolitan Museum of Art on Fifth Avenue as the site of the bombing; coordinates mark the real museum.",
+    "reference": "Part One, chapters 1-2",
+    "order": 1,
+    "note": "The story turns on a single morning here: the thirteen-year-old narrator and his mother shelter from the rain among the old master paintings, an explosion tears through the galleries and kills her, and in the wreckage the boy carries out a small seventeenth-century Dutch picture of a chained finch. Everything that follows grows from that theft and that loss. The Met is real, on Fifth Avenue at the edge of Central Park.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Metropolitan Museum of Art, Wikipedia, for the museum and its location",
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+      },
+      {
+        "kind": "external",
+        "ref": "The Goldfinch, Wikipedia, plot summary confirming the museum bombing scene",
+        "url": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "park-avenue-barbour-apartment",
+    "name": "The Barbours' apartment, Park Avenue",
+    "progressLabel": "Part One",
+    "character": "theo",
+    "coords": [-73.9634, 40.7699],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places the Barbours' home on Park Avenue, a real street; the exact building is not given, so this marks a representative point on the Upper East Side stretch of the avenue.",
+    "reference": "Part One, chapters 3-4",
+    "order": 2,
+    "note": "Newly orphaned, the narrator is taken in by the family of a school friend in their formal, well-appointed home on Park Avenue. It is a first refuge among the wealthy of the Upper East Side, cool and orderly, where he is looked after but never quite at ease. Park Avenue is a real Manhattan address; the apartment itself is invented.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Goldfinch, Wikipedia, plot summary on the Park Avenue household",
+        "url": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Park Avenue, Wikipedia, for the Upper East Side avenue",
+        "url": "https://en.wikipedia.org/wiki/Park_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hobies-shop-greenwich-village",
+    "name": "Hobie's workshop, Greenwich Village",
+    "progressLabel": "Part One",
+    "character": "theo",
+    "coords": [-74.002, 40.7345],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The narrator is directed to an antiques restorer's shop in Greenwich Village, a real district, but the shop itself is fictional; sited on a representative Village street.",
+    "reference": "Part One, chapters 3-5",
+    "order": 3,
+    "note": "Following a ring left to him by a dying man in the museum, the narrator finds his way to a furniture restorer's basement workshop in Greenwich Village. The smell of beeswax and old wood, and the patient older craftsman who works there, become the closest thing to a home he has. The Village is a real Manhattan neighbourhood; the shop is Tartt's invention.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Goldfinch, Wikipedia, plot summary on the Greenwich Village restorer",
+        "url": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Greenwich Village, Wikipedia, for the neighbourhood",
+        "url": "https://en.wikipedia.org/wiki/Greenwich_Village"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "las-vegas-desert-suburb",
+    "name": "The desert suburb, Las Vegas",
+    "progressLabel": "Part Two",
+    "character": "theo",
+    "coords": [-115.1398, 36.1699],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Las Vegas; the half-empty foreclosure development where the narrator lives is fictional, so this marks the real city as the anchor for that far setting.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The narrator's absent father reappears and takes him out to Las Vegas, to a raw, half-abandoned housing tract on the desert edge of the city. Left mostly to himself, he falls in with a Ukrainian boy named Boris, and the long, unsupervised days here mark the wildest and loneliest stretch of the book. Las Vegas is real; the specific development is invented.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Goldfinch, Wikipedia, plot summary on the Las Vegas section",
+        "url": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Las Vegas, Wikipedia, for the city",
+        "url": "https://en.wikipedia.org/wiki/Las_Vegas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "amsterdam-canals",
+    "name": "Amsterdam",
+    "progressLabel": "Part Five",
+    "character": "theo",
+    "coords": [4.9041, 52.3676],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's climax is set explicitly in Amsterdam; coordinates mark the city centre, the far anchor of the closing chapters.",
+    "reference": "Part Five",
+    "order": 5,
+    "note": "The book ends far from New York, in wintry Amsterdam, where the tangle around the stolen painting comes to a violent head in a hotel near the canals. The choice of city closes a circle back to the Dutch masters of the opening: the small bird the narrator has carried for years belongs to the same tradition. Amsterdam is real; the note draws only on where the scenes are set.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The Goldfinch, Wikipedia, plot summary on the Amsterdam climax",
+        "url": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Amsterdam, Wikipedia, for the city",
+        "url": "https://en.wikipedia.org/wiki/Amsterdam"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

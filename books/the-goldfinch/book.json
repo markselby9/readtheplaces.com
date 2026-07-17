@@ -1,0 +1,34 @@
+{
+  "id": "the-goldfinch",
+  "title": "The Goldfinch",
+  "author": "Donna Tartt",
+  "published": 2013,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.975, 40.758],
+  "zoom": 12,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "The novel is anchored in Manhattan, where a bombing at the Metropolitan Museum kills the narrator's mother and leaves him holding a small stolen Dutch painting. From the museum on Fifth Avenue the map runs down to the Park Avenue apartment that takes him in and to the antiques workshop in Greenwich Village that becomes his real home, before the story travels far out to Las Vegas and then to Amsterdam.",
+    "bbox": [-74.05, 40.7, -73.9, 40.82]
+  },
+  "rights": {
+    "originalWork": "In copyright. Donna Tartt, first published 2013. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.littlebrown.com/titles/donna-tartt/the-goldfinch/9780316055437/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Goldfinch, Donna Tartt (2013). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The warm gold of the little Dutch bird at the heart of the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "theo": {
+      "name": "Theo Decker",
+      "color": "#2E5064"
+    }
+  }
+}
