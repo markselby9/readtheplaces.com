@@ -1,0 +1,128 @@
+[
+  {
+    "id": "monte-carlo-hotel",
+    "name": "Monte Carlo",
+    "progressLabel": "Prologue",
+    "character": "narrator",
+    "coords": [7.4273, 43.7397],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Monte Carlo is a real place and is named in the novel, but it sits far from the Cornish setting; marked outsideSetting and sited at the centre of the resort, as the hotel where the narrator meets Maxim is not a real address.",
+    "reference": "Chapters 2-6",
+    "order": 1,
+    "note": "Before Cornwall, the book opens on the Riviera. A shy young woman, companion to a rich and tiresome American, meets the widowed Maxim de Winter at a Monte Carlo hotel. He proposes within weeks, and she leaves as his wife, bound for his house in England.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Monte Carlo, Wikipedia, for the resort coordinates",
+        "url": "https://en.wikipedia.org/wiki/Monte_Carlo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rebecca, Wikipedia, on the Monte Carlo opening and the plot",
+        "url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "manderley-menabilly",
+    "name": "Manderley (Menabilly)",
+    "progressLabel": "Chapter 7",
+    "character": "narrator",
+    "coords": [-4.6705, 50.3298],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Manderley is an invented house, but du Maurier modelled it on Menabilly, the real estate near Fowey that she loved and later leased for many years. Sited at Menabilly House.",
+    "reference": "Chapter 7 onward",
+    "order": 2,
+    "note": "The new Mrs de Winter arrives at her husband's great house on the Cornish cliffs and finds it haunted by the memory of Rebecca, the first wife, kept alive by the housekeeper. Manderley exists only in the book, but its rhododendrons, drive and setting come straight from Menabilly, the house du Maurier knew and would one day live in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Menabilly, Wikipedia, on the house as the model for Manderley",
+        "url": "https://en.wikipedia.org/wiki/Menabilly"
+      },
+      {
+        "kind": "guide",
+        "ref": "Menabilly House, Historic England listing, for the location",
+        "url": "https://historicengland.org.uk/listing/the-list/list-entry/1210574"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "polridmouth-cove-boathouse",
+    "name": "Polridmouth Cove and the boathouse",
+    "progressLabel": "Chapter 10",
+    "character": "narrator",
+    "coords": [-4.6659, 50.3227],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Polridmouth is a real cove just below Menabilly, with the remains of an old boathouse; du Maurier put the novel's cove and boat here, though she gave them no place name in the text.",
+    "reference": "Chapters 10-11",
+    "order": 3,
+    "note": "Below the house, a small shingle cove holds a shuttered cottage and a boathouse the narrator is warned away from. It was here that Rebecca kept her boat, and here that the truth of her death begins to surface. The real cove is Polridmouth, a short walk down from Menabilly, its ruined boathouse still there.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Visit Cornwall, Polridmouth Cove and its link to Rebecca",
+        "url": "https://www.visitcornwall.com/things-to-do/beaches/polridmouth-cove-beach"
+      },
+      {
+        "kind": "guide",
+        "ref": "Polridmouth Cove guide, on the boathouse and the Rebecca connection",
+        "url": "https://www.cornwall-beaches.co.uk/south-east/polridmouth-cove.htm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fowey-town",
+    "name": "Fowey",
+    "progressLabel": "Chapters 20-24",
+    "character": "narrator",
+    "coords": [-4.6383, 50.3361],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fowey is a real harbour town and du Maurier's home ground; it is the town the novel's unnamed Kerrith is drawn from, sited at the town centre.",
+    "reference": "Chapters 20-24",
+    "order": 4,
+    "note": "The nearest town to Manderley, where the inquest is held and where Maxim faces questions about how Rebecca really died. The book calls it Kerrith, but the harbour, the estuary and the streets belong to Fowey, the Cornish town where du Maurier lived and set much of her work.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fowey, Wikipedia, on the town and its du Maurier associations",
+        "url": "https://en.wikipedia.org/wiki/Fowey"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fowey coordinates, itraveluk map of Fowey, Cornwall",
+        "url": "https://www.itraveluk.co.uk/maps/england/789/cornwall/fowey.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gribbin-head-coast",
+    "name": "The coast below Manderley",
+    "progressLabel": "Chapter 11",
+    "character": "narrator",
+    "coords": [-4.6741, 50.3178],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the headland; this marks Gribbin Head, the point of the Menabilly coast beside Polridmouth, as a representative stretch of the shore and sea the book keeps returning to.",
+    "reference": "Chapter 11",
+    "order": 5,
+    "note": "The sea is everywhere in the book: a rising fog, a ship run aground on the rocks, divers sent down to the wreck who find something else instead. The coast around Gribbin Head, the headland beside the cove, stands for the shore that hides and then gives up Rebecca's secret.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gribbin Head, Wikipedia, on the headland by Menabilly and Polridmouth",
+        "url": "https://en.wikipedia.org/wiki/Gribbin_Head"
+      },
+      {
+        "kind": "guide",
+        "ref": "Polridmouth Cove guide, on the cove and headland setting",
+        "url": "https://www.cornwall-beaches.co.uk/south-east/polridmouth-cove.htm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

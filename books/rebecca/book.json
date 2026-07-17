@@ -1,0 +1,34 @@
+{
+  "id": "rebecca",
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "published": 1938,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-4.662, 50.331],
+  "zoom": 13,
+  "setting": {
+    "city": "Fowey",
+    "country": "GB",
+    "note": "The Cornish coast near Fowey, where du Maurier set Manderley, the great house on the cliffs above the sea. She modelled it on Menabilly, the real estate she later leased and lived in, with its cove and ruined boathouse below at Polridmouth. The map runs from the house down to the drowning cove and along to the harbour town, with a distant opening at Monte Carlo.",
+    "bbox": [-4.72, 50.3, -4.6, 50.36]
+  },
+  "rights": {
+    "originalWork": "In copyright. Daphne du Maurier, first published 1938. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguin.co.uk/books/24924/rebecca-by-du-maurier-daphne/9781844080380",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Rebecca, Daphne du Maurier (1938). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold grey-blue of the Cornish sea below Manderley, where the story turns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The second Mrs de Winter",
+      "color": "#8A3B1E"
+    }
+  }
+}
