@@ -1,0 +1,147 @@
+[
+  {
+    "id": "rupununi-savannah",
+    "name": "The Rupununi savannah",
+    "progressLabel": "Prologue",
+    "character": "chofy",
+    "coords": [-59.75, 2.75],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Rupununi repeatedly as the family's country; this point marks the open savannah plain of the region's south.",
+    "reference": "Prologue and throughout",
+    "order": 1,
+    "note": "The grass plain of southern Guyana is the ground the whole book stands on. Across a hundred years the family's story keeps returning to this expanse of savannah, its cattle trails, its scattered settlements and its seasons of flood and burning drought.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rupununi savannah, Wikipedia, on the grass plain of southern Guyana",
+        "url": "https://en.wikipedia.org/wiki/Rupununi_savannah"
+      },
+      {
+        "kind": "external",
+        "ref": "Rupununi savannah geolocation, latitude.to",
+        "url": "https://latitude.to/articles-by-country/gy/guyana/56401/rupununi-savannah"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-ignatius-mission",
+    "name": "St Ignatius Mission",
+    "progressLabel": "The past",
+    "character": "chofy",
+    "coords": [-59.8, 3.3333],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book's Jesuit mission to the savannah is not named; St Ignatius, the real Rupununi mission founded in 1909 near Lethem, is the place it draws on, so this marks that village.",
+    "reference": "The historical strand",
+    "order": 2,
+    "note": "A Jesuit priest arrives to convert the savannah people and presses hard against their own beliefs, a collision that shapes the family for a generation. The real mission behind the scene is St Ignatius, set up by a Catholic priest among the Wapishana and Macushi in the early twentieth century, just south of present-day Lethem.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St. Ignatius, Guyana, Wikipedia, on the Jesuit mission founded in 1909 in the Rupununi",
+        "url": "https://en.wikipedia.org/wiki/St._Ignatius,_Guyana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kanuku-mountains",
+    "name": "The Kanuku Mountains",
+    "progressLabel": "The past",
+    "character": "chofy",
+    "coords": [-59.5833, 3.2],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Kanukus are named in the novel as the range rising from the family's savannah; this marks the mountains east of Lethem.",
+    "reference": "The historical strand",
+    "order": 3,
+    "note": "The forested range that lifts out of the flat grassland frames the older story, the one of a brother and sister who withdraw to live apart from the settlements around them. The Kanuku Mountains run across the Rupununi and hold some of the richest wildlife in Guyana.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kanuku Mountains, Wikipedia, on the range in the Upper Takutu-Upper Essequibo region",
+        "url": "https://en.wikipedia.org/wiki/Kanuku_Mountains"
+      },
+      {
+        "kind": "external",
+        "ref": "Kanuku Mountains geolocation, latitude.to",
+        "url": "https://latitude.to/satellite-map/gy/guyana/111739/kanuku-mountains"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "family-ranch-dadanawa",
+    "name": "The family ranch",
+    "progressLabel": "The past",
+    "character": "chofy",
+    "coords": [-59.525, 2.8232],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The family's savannah ranch is not tied to a named property; Dadanawa, the great isolated cattle ranch of the southern Rupununi, stands in as the representative point for that kind of homestead.",
+    "reference": "The historical strand",
+    "order": 4,
+    "note": "The founding marriage of a Scottish settler into a savannah family, and the sprawling household of children that follows, belongs to a remote ranch on the open plain. The southern Rupununi's best-known ranch, Dadanawa on the Rupununi River, gives a sense of the scale and isolation of such a place.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dadanawa Ranch, Wikipedia, on the large isolated cattle ranch of the southern Rupununi",
+        "url": "https://en.wikipedia.org/wiki/Dadanawa_Ranch"
+      },
+      {
+        "kind": "external",
+        "ref": "Dadanawa geolocation, PeakVisor",
+        "url": "https://peakvisor.com/poi/dadanawa.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lethem",
+    "name": "Lethem",
+    "progressLabel": "The present",
+    "character": "chofy",
+    "coords": [-59.7978, 3.3663],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lethem, the border town and regional capital of the Rupununi, is named as the savannah's link to the wider country.",
+    "reference": "The modern strand",
+    "order": 5,
+    "note": "The frontier town on the Brazilian border is the hinge between the savannah and everywhere else, the place a traveller passes through leaving the Rupununi behind. Lethem is the administrative centre of southern Guyana, set on the Takutu River across from Brazil.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lethem, Guyana, Wikipedia, on the border town and regional capital",
+        "url": "https://en.wikipedia.org/wiki/Lethem,_Guyana"
+      },
+      {
+        "kind": "external",
+        "ref": "Lethem geolocation, latitude.to",
+        "url": "https://latitude.to/articles-by-country/gy/guyana/57060/lethem-guyana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown",
+    "progressLabel": "The present",
+    "character": "chofy",
+    "coords": [-58.1551, 6.8013],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Georgetown, the coastal capital, is named as the city the modern strand reaches, roughly four hundred kilometres north of the savannah.",
+    "reference": "The modern strand",
+    "order": 6,
+    "note": "The present-day thread carries a young man of the family off the savannah and up to the coast, where a job, a love affair and the noise of the capital pull against the quiet of home. Georgetown is Guyana's seat of government on the Atlantic shore, a world away from the Rupununi.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Georgetown, Guyana, Wikipedia, on the capital on the Atlantic coast",
+        "url": "https://en.wikipedia.org/wiki/Georgetown,_Guyana"
+      },
+      {
+        "kind": "external",
+        "ref": "Guyana city geolocations, latitudelongitude.org",
+        "url": "https://latitudelongitude.org/gy/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
