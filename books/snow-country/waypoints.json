@@ -1,0 +1,113 @@
+[
+  {
+    "id": "shimizu-tunnel",
+    "name": "The Shimizu Tunnel",
+    "progressLabel": "Chapter 1",
+    "character": "shimamura",
+    "coords": [138.93139, 36.845972],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The long border tunnel the train passes through is the real Shimizu Tunnel, opened in 1931 on the Joetsu Line beneath the mountains between Gunma and Niigata; this marks its published location on the prefecture border, south of the onsen town.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The novel opens on the night train from Tokyo as it runs through a long tunnel under the ridge and emerges into the snow country beyond. The passage is the Shimizu Tunnel, the single-track bore that in the 1930s carried the line north into deep-snow Niigata; the prefecture boundary sits inside it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shimizu Tunnel, Wikipedia, on the 1931 Joetsu Line tunnel and its place in the novel's opening",
+        "url": "https://en.wikipedia.org/wiki/Shimizu_Tunnel"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Scenery Depicted in Kawabata Yasunari's Masterpiece, Snow Country, Highlighting Japan",
+        "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202401/202401_06_en.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "echigo-yuzawa-station",
+    "name": "Echigo-Yuzawa Station",
+    "progressLabel": "Chapter 1",
+    "character": "shimamura",
+    "coords": [138.8099, 36.9361],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The signal stop where the train halts at the start of the book is the real Echigo-Yuzawa Station in Yuzawa, Niigata; coordinates from the station record.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The train slows and stops at the snow-country station where Shimamura arrives for his stay. In the town this is Echigo-Yuzawa, the gateway to the onsen, its platform lit against the drifts and the cold pouring in when the doors open.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Echigo-Yuzawa Station, Wikipedia, for the station and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Echigo-Yuzawa_Station"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yuzawa-onsen-town",
+    "name": "Yuzawa hot-spring town",
+    "progressLabel": "Chapter 1",
+    "character": "shimamura",
+    "coords": [138.817444, 36.934],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The onsen town of the novel is drawn from the real Yuzawa hot springs; this marks the town centre rather than one bathhouse, since the book moves across several inns and baths.",
+    "reference": "Chapters 1-3",
+    "order": 3,
+    "note": "The affair with the geisha Komako plays out across a hot-spring town of steaming baths, wooden inns and snow-heaped streets. Kawabata built it from Yuzawa, the Niigata onsen where he stayed; its springs and lodging houses are the everyday setting for Shimamura's visits from Tokyo.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Yuzawa, Niigata, Wikipedia, on the onsen town and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Yuzawa,_Niigata"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Scenery Depicted in Kawabata Yasunari's Masterpiece, Snow Country, Highlighting Japan",
+        "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202401/202401_06_en.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "takahan-inn",
+    "name": "Takahan, the inn on the slope",
+    "progressLabel": "Chapters 1-3",
+    "character": "shimamura",
+    "coords": [138.7998, 36.9471],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel does not name Shimamura's inn, but Kawabata wrote the book while staying at Takahan in Yuzawa, whose old wing is preserved as the room where he worked; the inn's own hillside stands behind the fictional lodging.",
+    "reference": "Chapters 1-3",
+    "order": 4,
+    "note": "Shimamura's room at the inn, with its view down over the town and its long corridors, is where much of his time with Komako passes. The lodging is unnamed, but the writing was done at Takahan, the historic ryokan on the slope above Yuzawa where Kawabata's room survives.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Takahan Ryokan, Wikipedia, on Kawabata's stay and the preserved room, with coordinates",
+        "url": "https://en.wikipedia.org/wiki/Takahan_Ryokan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "suwa-shrine-cedars",
+    "name": "The cedars of Suwa Shrine",
+    "progressLabel": "Chapter 2",
+    "character": "shimamura",
+    "coords": [138.7999638, 36.9457136],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The tall cedars where the pair rest appear in the book and are identified with the grove at Suwa Shrine, a short walk downhill from Takahan; coordinates from the shrine's listing.",
+    "reference": "Chapter 2",
+    "order": 5,
+    "note": "One afternoon the two climb to a stand of great cedars behind the town and sit in the cool under the trees. The grove is read as Suwa Shrine below the inn, whose old cedars are a local landmark and are pointed out as the trees of the novel.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Suwa Shrine in Yuzawa, Japan Travel, on the shrine's cedars in the novel, with coordinates",
+        "url": "https://en.japantravel.com/niigata/suwa-shrine-in-yuzawa/7270"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

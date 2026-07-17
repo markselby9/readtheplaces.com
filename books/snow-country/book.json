@@ -1,0 +1,34 @@
+{
+  "id": "snow-country",
+  "title": "Snow Country",
+  "author": "Yasunari Kawabata",
+  "published": 1948,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [138.808, 36.94],
+  "zoom": 13,
+  "setting": {
+    "city": "Yuzawa",
+    "country": "JP",
+    "note": "Kawabata's snow country is a hot-spring town on the west side of Honshu, reached from Tokyo by a train that runs south to north through a long mountain tunnel and comes out into deep Niigata snow. The map draws on the real onsen town of Yuzawa: the station, the bathhouses and inns on the slope, the cedars of the shrine, and the border tunnel that opens the book.",
+    "bbox": [138.78, 36.8, 138.95, 36.96]
+  },
+  "rights": {
+    "originalWork": "In copyright. Yasunari Kawabata, serialised from 1935 and completed as a novel in 1948; the standard English text is Edward Seidensticker's translation. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Snow_Country",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Snow Country, Yasunari Kawabata (1948). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue of dusk on snow, the light the train carries into the border country. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "shimamura": {
+      "name": "Shimamura",
+      "color": "#8A3B1E"
+    }
+  }
+}
