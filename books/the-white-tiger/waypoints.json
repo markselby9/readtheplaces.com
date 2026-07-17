@@ -1,26 +1,50 @@
 [
   {
-    "id": "laxmangarh-the-darkness",
-    "name": "Laxmangarh, the Darkness",
+    "id": "laxmangarh-village",
+    "name": "Laxmangarh, the home village",
     "progressLabel": "The Darkness",
     "character": "balram",
     "coords": [85.0039, 24.7969],
-    "outsideSetting": true,
-    "placeCertainty": "inspired_by",
-    "certaintyNote": "Laxmangarh is an invented village. The novel places it in Gaya district, Bihar, within the impoverished Ganges belt the narrator calls the Darkness, a short distance from Bodh Gaya. Sited at the city of Gaya as a representative point for that region.",
+    "placeCertainty": "inferred",
+    "certaintyNote": "Laxmangarh is an invented village, but the narrator places it in the real Gaya district of Bihar, in the impoverished Ganges belt he calls the Darkness. Sited at the city of Gaya as a representative anchor for that countryside.",
     "reference": "The First Night",
     "order": 1,
-    "note": "The narrator is born into a landless family in a village he calls Laxmangarh, in the poorest stretch of rural Bihar. His father pulls a rickshaw; the boy is taken out of school to work and never given a proper name beyond Balram. Everything that follows is his escape from this place, which he treats less as a dot on the map than as a whole condition of life.",
+    "note": "The narrator is born into a landless family in a village he calls Laxmangarh, in the poorest stretch of rural Bihar. His father pulls a rickshaw; the boy is taken out of school to work and left with no name of his own beyond Balram. Everything that follows is his escape from this place, which he treats less as a dot on the map than as a whole condition of life.",
     "sources": [
       {
         "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on the village setting in Gaya district and the theme of the Darkness",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the Gaya-district village setting and the theme of the Darkness",
         "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
       },
       {
         "kind": "guide",
-        "ref": "Gaya, Bihar, Wikipedia, for the district coordinates",
+        "ref": "Gaya, India, Wikipedia, for the district coordinates on the Ganges plain",
         "url": "https://en.wikipedia.org/wiki/Gaya,_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ganges-varanasi",
+    "name": "The Ganges at Varanasi",
+    "progressLabel": "The Darkness",
+    "character": "balram",
+    "coords": [82.9739, 25.3176],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The narrator names the Ganges and the holy city on its banks. Sited at the Varanasi riverfront, the classic place of cremation on the river.",
+    "reference": "The First Night",
+    "order": 2,
+    "note": "A funeral takes the narrator to the sacred river, where the dead are burned at the water's edge. He treats the holy Ganges with open scorn, reading its black mud and half-burnt bodies as a fitting emblem of the Darkness he means to escape rather than a source of grace.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the Ganges and the narrator's view of it",
+        "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Varanasi, Wikipedia, for the riverfront coordinates on the Ganges",
+        "url": "https://en.wikipedia.org/wiki/Varanasi"
       }
     ],
     "editorialStatus": "reviewed"
@@ -28,127 +52,99 @@
   {
     "id": "dhanbad-coal-town",
     "name": "The coal town of Dhanbad",
-    "progressLabel": "Dhanbad",
+    "progressLabel": "The Darkness",
     "character": "balram",
     "coords": [86.4304, 23.7957],
-    "outsideSetting": true,
     "placeCertainty": "explicit",
-    "certaintyNote": "Dhanbad is named in the novel. Sited at the city centre as a representative point.",
+    "certaintyNote": "Dhanbad is named in the novel. Sited at the city centre of the coal-mining hub, historically part of the wider Bihar region.",
     "reference": "The Second Night",
-    "order": 2,
-    "note": "Sent to earn money, the young narrator works in a teashop in Dhanbad, the coal-mining town in what is now Jharkhand. Wiping tables and eavesdropping, he studies the drivers and businessmen around him and decides that learning to drive a car is his way out of the servant class.",
+    "order": 3,
+    "note": "Sent to earn money, the young narrator works in a teashop in Dhanbad, the coal-mining town in what is now Jharkhand. Wiping tables and eavesdropping, he studies the drivers and businessmen around him and decides that learning to handle a car is his one way out of the servant class.",
     "sources": [
       {
         "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on Balram's move to work in Dhanbad",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the narrator's move to work in Dhanbad",
         "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
       },
       {
         "kind": "guide",
-        "ref": "Dhanbad, Wikipedia, for the city coordinates",
+        "ref": "Dhanbad, Wikipedia, for the coordinates of the coal-mining city",
         "url": "https://en.wikipedia.org/wiki/Dhanbad"
       }
     ],
     "editorialStatus": "reviewed"
   },
   {
-    "id": "gurgaon-masters-apartment",
-    "name": "The master's household, Gurgaon",
-    "progressLabel": "Gurgaon",
+    "id": "gurgaon-masters-household",
+    "name": "The master's world, Gurgaon",
+    "progressLabel": "Delhi",
     "character": "balram",
     "coords": [77.0266, 28.4595],
-    "outsideSetting": true,
     "placeCertainty": "explicit",
     "certaintyNote": "Gurgaon, the satellite city southwest of Delhi, is named in the novel; the specific apartment tower is invented. Sited at the Gurgaon city centre as a representative point.",
     "reference": "The Fourth Night",
-    "order": 3,
-    "note": "Hired as a driver, the narrator follows his employer to a gleaming apartment block in Gurgaon, the mall-and-tower boomtown outside Delhi. He lives below stairs, ferries the family between shopping centres, and watches a world of money he serves but cannot enter, a resentment that slowly hardens.",
+    "order": 4,
+    "note": "Hired as a driver, the narrator follows his employers to a gleaming apartment block in Gurgaon, the mall-and-tower boomtown outside Delhi. He lives below stairs, ferries the family between shopping centres and shady errands, and watches a world of money he serves but cannot enter, a resentment that slowly hardens.",
     "sources": [
       {
         "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on Balram's service in Delhi and Gurgaon",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the narrator's service in Delhi and Gurgaon",
         "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
       },
       {
         "kind": "guide",
-        "ref": "Gurgaon, Wikipedia, for the city coordinates",
+        "ref": "Gurgaon, Wikipedia, for the coordinates of the Delhi satellite city",
         "url": "https://en.wikipedia.org/wiki/Gurgaon"
       }
     ],
     "editorialStatus": "reviewed"
   },
   {
-    "id": "delhi-night-roads",
-    "name": "The night roads of Delhi",
+    "id": "connaught-place-delhi",
+    "name": "Connaught Place, New Delhi",
     "progressLabel": "Delhi",
     "character": "balram",
     "coords": [77.2185, 28.6263],
-    "outsideSetting": true,
     "placeCertainty": "explicit",
-    "certaintyNote": "Delhi is named in the novel; the crime happens on an unnamed city road at night. Sited near central Delhi as a representative point.",
+    "certaintyNote": "Connaught Place is named among the Delhi landmarks the narrator drives through. Sited at the colonnaded central circle of New Delhi.",
     "reference": "The Fifth Night",
-    "order": 4,
-    "note": "The turning point comes on a Delhi road in the dark. After being made to sign away his own guilt for an accident his employers caused, the narrator resolves to break out of servitude for good, and does so with a single violent act that costs his master his life and frees the driver to run.",
+    "order": 5,
+    "note": "Waiting on his employers, the narrator idles among the traffic and beggars of the capital's grand central circle, watching the gulf between the people in the back seat and the men who drive them. Delhi is where his resentment hardens into a plan, and where the single violent act that frees him takes shape.",
     "sources": [
       {
         "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on the murder in Delhi that turns the plot",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the Delhi setting where the plot turns",
         "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
       },
       {
         "kind": "guide",
-        "ref": "New Delhi, Wikipedia, for the city coordinates",
-        "url": "https://en.wikipedia.org/wiki/New_Delhi"
+        "ref": "Connaught Place, New Delhi, Wikipedia, for the coordinates of the central circle",
+        "url": "https://en.wikipedia.org/wiki/Connaught_Place,_New_Delhi"
       }
     ],
     "editorialStatus": "reviewed"
   },
   {
-    "id": "bangalore-the-entrepreneur",
-    "name": "Bangalore, the entrepreneur",
+    "id": "bangalore-entrepreneur",
+    "name": "Bangalore, the new master",
     "progressLabel": "Bangalore",
     "character": "balram",
-    "coords": [77.5937, 12.9719],
+    "coords": [77.5946, 12.9716],
     "placeCertainty": "explicit",
-    "certaintyNote": "Bangalore is named as the narrator's endpoint. Sited at the city centre.",
-    "reference": "The Sixth Morning",
-    "order": 5,
-    "note": "With stolen money the narrator vanishes into Bangalore, the southern boom city, and remakes himself under a new name. He builds the whole confession as a set of night letters written from here, the place he chose because it was the future and no one there knew who he had been.",
-    "sources": [
-      {
-        "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on Bangalore as the narrator's endpoint and vantage",
-        "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
-      },
-      {
-        "kind": "guide",
-        "ref": "Bangalore, Wikipedia, for the city coordinates",
-        "url": "https://en.wikipedia.org/wiki/Bangalore"
-      }
-    ],
-    "editorialStatus": "reviewed"
-  },
-  {
-    "id": "electronic-city-white-tiger-drivers",
-    "name": "Electronic City, the taxi startup",
-    "progressLabel": "The Light",
-    "character": "balram",
-    "coords": [77.6764, 12.8407],
-    "placeCertainty": "explicit",
-    "certaintyNote": "Balram's taxi firm serves Bangalore's call-centre and outsourcing district; the specific office is invented. Sited at Electronic City, the city's tech hub, as a representative point.",
+    "certaintyNote": "Bangalore is named as the narrator's endpoint. Sited at the city centre of the southern technology capital.",
     "reference": "The Seventh Night",
     "order": 6,
-    "note": "The narrator ends as the owner of a fleet of taxis ferrying call-centre workers through the night in Bangalore's technology belt. He has crossed from the Darkness into the Light and become the kind of man he once drove, though he knows exactly what the crossing cost and never pretends otherwise.",
+    "note": "Blood money and a stolen identity carry the narrator south to the technology capital, where he sets up a taxi firm ferrying call-centre workers through the night. He ends the book as one of the entrepreneurs he once served, telling his whole story as a set of night letters written from an office in the city of the future.",
     "sources": [
       {
         "kind": "guide",
-        "ref": "The White Tiger (Adiga novel), Wikipedia, on Balram's taxi business serving Bangalore's outsourcing sector",
+        "ref": "The White Tiger (Adiga novel), Wikipedia, on the Bangalore ending and the narrator's taxi business",
         "url": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
       },
       {
         "kind": "guide",
-        "ref": "Electronic City, Wikipedia, for the coordinates of Bangalore's IT hub",
-        "url": "https://en.wikipedia.org/wiki/Electronic_City"
+        "ref": "Bangalore, Wikipedia, for the coordinates of the technology capital",
+        "url": "https://en.wikipedia.org/wiki/Bangalore"
       }
     ],
     "editorialStatus": "reviewed"

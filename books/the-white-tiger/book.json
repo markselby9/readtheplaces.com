@@ -5,13 +5,13 @@
   "published": 2008,
   "orderingKey": "chapter",
   "sourcing": "cited",
-  "center": [77.5937, 12.9719],
-  "zoom": 11,
+  "center": [81.5, 25.5],
+  "zoom": 5,
   "setting": {
-    "city": "Bangalore",
+    "city": "New Delhi",
     "country": "IN",
-    "note": "Balram Halwai tells his story backwards from Bangalore, the city of light and call centres where he has reinvented himself as an entrepreneur. The map anchors there, then reaches back across India to the places that made him: a poor village in Bihar he calls the Darkness, the coal town of Dhanbad, and the servants' quarters and night roads of Delhi and Gurgaon.",
-    "bbox": [77.4, 12.75, 77.8, 13.15]
+    "note": "Adiga splits India in two: the Darkness of the rural Ganges plain, where a servant is born and stays a servant, and the Light of the boomtowns, where money and violence remake a man. The map follows a driver out of a poor Bihar village, past the coal roads of Dhanbad, into the malls and gated colonies of Delhi and Gurgaon, and on to Bangalore, where he becomes his own master.",
+    "bbox": [76.8, 12.6, 87.0, 29.0]
   },
   "rights": {
     "originalWork": "In copyright. Aravind Adiga, first published 2008. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
@@ -22,13 +22,13 @@
     "attribution": "The White Tiger, Aravind Adiga (2008). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
   },
   "palette": {
-    "accent": "#A8531B",
-    "note": "A burnt saffron, the colour of the Indian earth Balram climbs out of and the caged tiger he names himself after. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+    "accent": "#8A6A12",
+    "note": "The ochre and lamp-gold of a country the narrator keeps calling half-lit. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
   },
   "characters": {
     "balram": {
       "name": "Balram Halwai",
-      "color": "#8C3A12"
+      "color": "#2E5064"
     }
   }
 }
