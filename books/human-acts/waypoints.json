@@ -1,0 +1,107 @@
+[
+  {
+    "id": "geumnamno-avenue",
+    "name": "Geumnamno",
+    "progressLabel": "Part One",
+    "character": "dongho",
+    "coords": [126.91882, 35.14834],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Geumnamno is the real avenue running to the old Provincial Hall; the novel's crowds and confrontations belong to it. Sited at a representative mid-avenue point.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The broad avenue that runs down to the Provincial Hall, where crowds gathered in the days of the uprising and where soldiers fired on them. In the novel it is the boy's city turned strange, a familiar street now counted by the dead. Geumnamno is a real street in central Gwangju and remains the ground of the May commemorations.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Geumnam-ro, Gwangju Culture and Arts Humanities Story Platform (Academy of Korean Studies), for the street and its coordinates",
+        "url": "https://dh.aks.ac.kr/~gwangju/wiki/index.php/%EA%B8%88%EB%82%A8%EB%A1%9C"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tracing Han Kang's literary journey through Gwangju's darkest days, The Korea Times",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20250516/tracing-han-kangs-literary-journey-through-gwangjus-darkest-days"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "may-18-democracy-square-fountain",
+    "name": "5.18 Democracy Square and fountain",
+    "progressLabel": "Part One",
+    "character": "dongho",
+    "coords": [126.91464, 35.14556],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The plaza and its fountain in front of the old Provincial Hall are real and named for the uprising. Sited at the square's registered point.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The open plaza and central fountain in front of the Provincial Hall, where citizens rallied during the uprising. The novel returns to this rotary as the heart of the crowd, the place people came together before the soldiers returned. The fountain, installed in 1971, still stands, and the square now carries the name of the movement.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "5.18 Democracy Square, Gwangju Culture and Arts Humanities Story Platform (Academy of Korean Studies), for the plaza and its coordinates",
+        "url": "https://dh.aks.ac.kr/~gwangju/wiki/index.php/5.18%EB%AF%BC%EC%A3%BC%EA%B4%91%EC%9E%A5"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sangmugwan-gymnasium",
+    "name": "Sangmu-gwan gymnasium",
+    "progressLabel": "Part One",
+    "character": "dongho",
+    "coords": [126.91948, 35.14464],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sangmu-gwan, the gymnasium beside the Provincial Hall, is a real building that held the bodies of the killed in May 1980. Sited at its registered point.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "A gymnasium beside the Provincial Hall that was turned into a place to lay out the dead, so families could come to look for their own. The novel opens here, with a boy helping tend the bodies and searching among them for a friend. The building is real and stands within the old Provincial Hall grounds, now part of a memorial site.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sangmu-gwan, Gwangju Culture and Arts Humanities Story Platform (Academy of Korean Studies), for the building's history and coordinates",
+        "url": "https://dh.aks.ac.kr/~gwangju/wiki/index.php/%EC%83%81%EB%AC%B4%EA%B4%80"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-provincial-hall",
+    "name": "The old South Jeolla Provincial Office",
+    "progressLabel": "Part One",
+    "character": "dongho",
+    "coords": [126.92028, 35.14667],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old Jeonnam Provincial Office main building is a real, registered heritage structure, the militia's final position in May 1980. Sited at the main building.",
+    "reference": "Part One",
+    "order": 4,
+    "note": "The seat of provincial government that the citizen militia held after the army withdrew, and where the army broke the uprising in the early hours of 27 May 1980. The novel places the boy here at the end, among those who chose to stay. The building survives as registered heritage and is being restored as a site of the May 18 movement.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Old Main Building of the South Jeolla Provincial Office, Korean Wikipedia, for the registered heritage building and its coordinates",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC_%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%EC%B2%AD_%EA%B5%AC_%EB%B3%B8%EA%B4%80"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "may-18-national-cemetery",
+    "name": "The May 18th National Cemetery",
+    "progressLabel": "Later chapters",
+    "character": "dongho",
+    "coords": [126.93778, 35.23472],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The May 18th National Cemetery in Buk-gu, Gwangju, beside the old Mangwol-dong burial ground, is a real national cemetery. Sited at its mapped point.",
+    "reference": "Later chapters",
+    "order": 5,
+    "note": "Where the killed of May 1980 were buried, first at Mangwol-dong and later at the national cemetery built alongside it. The novel's later chapters follow the survivors across the decades, and the cemetery stands for the long grief the book records. It is a real national cemetery north of the city, opened in 1997.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "May 18th National Cemetery, Wikipedia, for the cemetery and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/May_18th_National_Cemetery"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
