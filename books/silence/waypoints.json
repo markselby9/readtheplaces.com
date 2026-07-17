@@ -1,0 +1,152 @@
+[
+  {
+    "id": "tomogi-sotome-coast",
+    "name": "The village of Tomogi, on the Sotome coast",
+    "progressLabel": "Chapters 1-2",
+    "character": "rodrigues",
+    "coords": [129.7027, 32.8359],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tomogi is a fictional name, but Endo drew it directly from the real hidden-Christian fishing villages of the Sotome coast north of Nagasaki; this marks Shitsu, one of those villages and the site today of the museum that overlooks the sea he described.",
+    "reference": "Chapters 1-2",
+    "order": 1,
+    "note": "After landing in secret, the two priests are hidden by a poor fishing community that has kept its faith alive for decades without any clergy. The village stands in for the real Christian settlements strung along the Sotome shore, a stretch of steep coast and hidden coves that made it easier to worship out of sight of the authorities.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Silence by Shusaku Endo, EBSCO Research Starters, on Tomogi as a village based on the real Sotome area",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Endo Shusaku Literary Museum, Wikipedia, on the Sotome districts of Shitsu and Ono and their hidden-Christian history",
+        "url": "https://en.wikipedia.org/wiki/Endo_Shusaku_Literary_Museum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "charcoal-hut-above-tomogi",
+    "name": "The hut in the hills above Tomogi",
+    "progressLabel": "Chapters 1-2",
+    "character": "rodrigues",
+    "coords": [129.7123, 32.8241],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel puts the priests' hiding place in a charcoal hut on the mountainside above the village, but names no spot; this marks a representative point on the wooded slope behind the Sotome villages.",
+    "reference": "Chapters 1-2",
+    "order": 2,
+    "note": "To keep the priests from being seen, the villagers move them to a crude charcoal-burner's hut up in the hills, where they watch the coast for patrols and come down only under cover of dark to hear confessions. The setting reflects the terraced, forested slopes that rise steeply behind the Sotome coast.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Silence by Shusaku Endo, EBSCO Research Starters, on the priests hiding above the village",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Silence: A Literary Tour of Hidden Christian Sites in Sotome, Discover Nagasaki, on the terrain of the Sotome villages",
+        "url": "https://www.discover-nagasaki.com/en/itinerary/detail16"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "goto-islands",
+    "name": "The Goto Islands",
+    "progressLabel": "Chapter 4",
+    "character": "rodrigues",
+    "coords": [128.75, 32.683],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Endo names the Goto Islands; this marks Fukue, the largest and southernmost of the group, whose remote coves sheltered hidden Christians through the persecution.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "Word reaches the priests of more hidden believers on the islands offshore, and Rodrigues crosses to the Goto group to minister to them before the two Jesuits separate. The islands were a real refuge for persecuted Christians, so isolated that a distinct underground faith survived there into the nineteenth century.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fukue Island, Wikipedia, for the coordinates and hidden-Christian history of the Goto Islands",
+        "url": "https://en.wikipedia.org/wiki/Fukue_Island"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Silence by Shusaku Endo, EBSCO Research Starters, on the Goto Islands in the novel",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nagasaki-harbour",
+    "name": "Nagasaki, the Christian port",
+    "progressLabel": "Chapters 5-8",
+    "character": "rodrigues",
+    "coords": [129.8667, 32.7333],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nagasaki is named throughout; this marks the historic harbour city, the centre of Japanese Christianity and of the shogunate's effort to root it out.",
+    "reference": "Chapters 5-8",
+    "order": 4,
+    "note": "Betrayed and captured, Rodrigues is brought to Nagasaki, the port that had once been the heart of Christian Japan and was now the base for suppressing it. Here the story turns from hiding to interrogation, as the authorities work not to kill the priest but to break his faith.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nagasaki, latitude.to, for the harbour city coordinates",
+        "url": "https://latitude.to/articles-by-country/jp/japan/1008/nagasaki"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Silence by Shusaku Endo, EBSCO Research Starters, on the Nagasaki setting and the persecution",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nagasaki-magistrates-office",
+    "name": "The Nagasaki magistrate's office",
+    "progressLabel": "Chapters 7-9",
+    "character": "rodrigues",
+    "coords": [129.8796, 32.7528],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The magistrate Inoue and his office are named in the novel; this marks Tateyama, site of the Nagasaki magistrate's office (bugyosho), now reconstructed within the Nagasaki Museum of History and Culture.",
+    "reference": "Chapters 7-9",
+    "order": 5,
+    "note": "The magistrate Inoue directs the campaign against the priests from his office in the city, favouring patient pressure over open execution. It is here that Rodrigues is confronted with the fumie, a bronze image of Christ, and told that a single step on it will end the suffering of the peasants held with him. The magistrate's office at Tateyama was the real seat of Tokugawa authority in Nagasaki.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Nagasaki Museum of History and Culture, Wikipedia, on the reconstructed magistrate's office at Tateyama and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Nagasaki_Museum_of_History_and_Culture"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Nagasaki bugyo, Wikipedia, on the shogunate magistrate's role in governing Nagasaki",
+        "url": "https://en.wikipedia.org/wiki/Nagasaki_bugy%C5%8D"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nishizaka-execution-hill",
+    "name": "Nishizaka, the execution hill",
+    "progressLabel": "Chapters 8-9",
+    "character": "rodrigues",
+    "coords": [129.87167, 32.75472],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nishizaka is the historic execution ground of Nagasaki, where Christians were put to death; the twenty-six martyrs of 1597 died here, and it stands as the real site behind the novel's scenes of martyrdom.",
+    "reference": "Chapters 8-9",
+    "order": 6,
+    "note": "The city's hill of execution is where the persecution reached its end for many believers, and it grounds the novel's hardest fact: that ordinary peasants were tortured and killed for a faith the priests had brought them. Nishizaka is a real place, the ground where twenty-six Christians were crucified in 1597 and where later executions followed through the century of persecution.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Twenty-Six Martyrs Museum and Monument, Wikipedia, for the Nishizaka Hill site and coordinates",
+        "url": "https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Silence by Shusaku Endo, EBSCO Research Starters, on the martyrdom of the peasants in the novel",
+        "url": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
