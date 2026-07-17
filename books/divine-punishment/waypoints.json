@@ -1,0 +1,132 @@
+[
+  {
+    "id": "leon-cathedral",
+    "name": "León Cathedral",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.8781, 12.435],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The cathedral, the Real e Insigne Basílica de la Asunción, is a named, still-standing landmark; sited at the building itself.",
+    "reference": "The city of León",
+    "order": 1,
+    "note": "The largest cathedral in Central America presides over the town the novel dissects. Its bulk and its bells set the rhythm of León's public life, and the funerals that drive the case pass through its shadow. Ramírez roots his invented court record in a city anyone can still walk.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "León Cathedral, Nicaragua, Wikipedia, on the UNESCO-listed basilica",
+        "url": "https://en.wikipedia.org/wiki/Le%C3%B3n_Cathedral,_Nicaragua"
+      },
+      {
+        "kind": "external",
+        "ref": "León Cathedral, Wikidata, for the building coordinates",
+        "url": "https://www.wikidata.org/wiki/Q48605"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leon-central-plaza",
+    "name": "The central plaza",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.8785, 12.4357],
+    "placeCertainty": "explicit",
+    "certaintyNote": "León's central park, the Parque Central beside the cathedral, is a real and unmoved public square; sited at the plaza.",
+    "reference": "The city of León",
+    "order": 2,
+    "note": "The open square on the cathedral's north flank is where a provincial town does its watching and its gossiping. In a story built from rumour, testimony and reputation, the plaza is the stage on which the accused is judged long before any verdict, and where the town gathers to follow the scandal.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "León, Nicaragua, Wikipedia, on the historic centre and its central park",
+        "url": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leon-courthouse",
+    "name": "The courthouse",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.8792, 12.4356],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is a courtroom book set in León's real court; sited at the Palacio de Justicia on the northwest side of the central plaza. The judicial building the 1933 case used is not preserved as a distinct museum, so the plaza-side courthouse stands for it.",
+    "reference": "The trial",
+    "order": 3,
+    "note": "The novel is assembled like a case file: depositions, expert reports, judge's rulings. The court of León is its spine, the room where the charismatic defendant is tried for a chain of poisonings and where Ramírez lets legal procedure expose a whole society. The judicial seat sits on the central plaza, at the town's civic heart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palacio de Justicia, León, Lonely Planet, on the historic building on the plaza's northwest side",
+        "url": "https://www.lonelyplanet.com/points-of-interest/palacio-de-justicia/1086244"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leon-railway-station",
+    "name": "The railway station",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.8757, 12.4396],
+    "placeCertainty": "explicit",
+    "certaintyNote": "León's old station, the Antigua Estación del Ferrocarril, is a documented real building near the San Juan church and market; sited by that descriptive location, two blocks north of the church's northeast corner.",
+    "reference": "The city of León",
+    "order": 4,
+    "note": "The station opened in 1882 and for a century tied León to the Pacific coast and the capital. It is the town's door to the wider world, the point through which people, news and the machinery of a national scandal arrive and leave. It stands near the San Juan market on the northern edge of the old town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Antigua Estación del Ferrocarril de León, Visit León, on the station's history and location near Iglesia San Juan",
+        "url": "https://www.visitleon.info/antigua-estacion-del-ferrocarril-de-leon-nicaragua.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "History of rail transport in Nicaragua, Wikipedia, on the León line",
+        "url": "https://en.wikipedia.org/wiki/History_of_rail_transport_in_Nicaragua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leon-elite-house",
+    "name": "A grand house of the León elite",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.877, 12.4344],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The specific mansion of the case's leading family is not identified as a marked landmark, so this sites a representative point on Calle Real, the old main street a block south of the cathedral, where León's grand houses stand.",
+    "reference": "The city of León",
+    "order": 5,
+    "note": "Much of the poisoning drama unfolds inside the tall-ceilinged home of a prominent local family, the kind of colonnaded house that lines León's central streets. These private interiors of the provincial elite are where the deaths occur and where the novel's suspicion gathers. The house stands for the whole social world the trial pulls apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "León, Nicaragua, Wikipedia, on the colonial houses of the historic centre",
+        "url": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "leon-pharmacy",
+    "name": "A pharmacy on the town centre",
+    "progressLabel": "León, 1933",
+    "character": "castaneda",
+    "coords": [-86.8795, 12.4351],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The particular botica where the poison is traced is not preserved as a named site, so this sites a representative point among the old commercial streets just west of the central plaza, where León's pharmacies stood.",
+    "reference": "The city of León",
+    "order": 6,
+    "note": "A pharmacy anchors the medical thread of the case: where a lethal compound could be bought or dispensed, and where druggists and doctors give the testimony that turns a run of deaths into a criminal charge. León's boticas clustered near the plaza, part of the same tight commercial grid as the court and the cathedral.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "León, Nicaragua, Wikipedia, on the commercial historic centre",
+        "url": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

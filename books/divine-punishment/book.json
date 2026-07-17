@@ -1,0 +1,35 @@
+{
+  "id": "divine-punishment",
+  "title": "Divine Punishment",
+  "author": "Sergio Ramírez",
+  "published": 1988,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-86.878, 12.436],
+  "zoom": 14,
+  "setting": {
+    "city": "León",
+    "country": "NI",
+    "date": "1933",
+    "note": "The provincial León of the early Somoza years, mapped through a sensational poisoning trial: a compact colonial grid of cathedral and plaza, courthouse and pharmacy, the grand houses of the local elite and the railway station that ties the town to the coast. Ramírez maps a real city, and the map keeps to its streets.",
+    "bbox": [-86.9, 12.42, -86.85, 12.45]
+  },
+  "rights": {
+    "originalWork": "In copyright. Sergio Ramírez, Castigo divino, first published 1988. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/643262/divine-punishment-by-sergio-ramirez/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Divine Punishment, Sergio Ramírez (1988). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The oxblood red of León's tiled roofs and the case's blood-and-poison undertow. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "castaneda": {
+      "name": "Oliverio Castañeda",
+      "color": "#2E5064"
+    }
+  }
+}
