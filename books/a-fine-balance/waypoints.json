@@ -1,0 +1,148 @@
+[
+  {
+    "id": "victoria-terminus",
+    "name": "The railway terminus",
+    "progressLabel": "Prologue",
+    "character": "dina",
+    "coords": [72.8354, 18.9398],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city is never named in the novel, but its great Gothic railway terminus is plainly Bombay's Victoria Terminus, since 1996 Chhatrapati Shivaji Maharaj Terminus, and the marker sits on the station building.",
+    "reference": "Prologue and Chapter 1",
+    "order": 1,
+    "note": "The book opens on a crowded morning train, where the student Maneck and the two tailors, Ishvar and Omprakash, are thrown together on their way into the city. The huge station where the lines from upcountry meet the sea reads as Bombay's Victoria Terminus, the gateway through which migrants poured into the city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Chhatrapati Shivaji Terminus, Wikipedia, for the station coordinates and its former name Victoria Terminus",
+        "url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "A Fine Balance, Wikipedia, on the unnamed city by the sea widely read as Bombay",
+        "url": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dina-dalal-flat",
+    "name": "Dina Dalal's flat",
+    "progressLabel": "Chapter 2",
+    "character": "dina",
+    "coords": [72.8265, 18.933],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel gives Dina no street address; her small rent-controlled flat, within reach of the tailors' work and the sea, matches the older residential blocks of the Churchgate and Marine Lines area, so the marker sits there as a representative point.",
+    "reference": "Chapter 2 onward",
+    "order": 2,
+    "note": "The widow Dina Dalal guards her independence in a cramped, rent-controlled flat, taking in the two tailors as piece workers and the student Maneck as a paying boarder. The four uneasy strangers make their fragile shared life inside these few rooms, the still centre the whole story turns around.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A Fine Balance, Wikipedia, on Dina Dalal's flat and the four principal characters",
+        "url": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+      },
+      {
+        "kind": "guide",
+        "ref": "Churchgate, latlong.net, for the coordinates of the central residential district",
+        "url": "https://www.latlong.net/place/churchgate-maharashtra-india-876.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sea-face-promenade",
+    "name": "The Sea Face promenade",
+    "progressLabel": "Chapter 6",
+    "character": "dina",
+    "coords": [72.8238, 18.9415],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city stays unnamed, but the long curved seafront drive and its promenade are unmistakably Bombay's Marine Drive along Back Bay; the marker sits on the promenade.",
+    "reference": "Chapter 6",
+    "order": 3,
+    "note": "Away from the workroom, the characters walk the breezy seafront where the city comes to take the air. Bombay's Marine Drive, the arc of pavement and parapet along Back Bay, gives them a rare open horizon against the crowding of the streets behind.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Marine Drive, Mumbai, Wikipedia, on the seafront promenade along Back Bay",
+        "url": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "slum-colony",
+    "name": "The tailors' slum colony",
+    "progressLabel": "Chapter 8",
+    "character": "dina",
+    "coords": [72.858, 19.02],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The jhopadpatti is not tied to a named district; the marker sits at a representative point in the northern working-class belt of the city, the kind of shanty settlement cleared during the Emergency's beautification drives.",
+    "reference": "Chapters 8 to 12",
+    "order": 4,
+    "note": "Turned out of their pavement sleeping place, the tailors rent a shack in a sprawling slum colony until the Emergency's slum-clearance drive sends bulldozers through it, part of the real campaign that razed settlements and displaced hundreds of thousands of the city's poor in 1975-77.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Emergency (India), Wikipedia, on the 1975-77 slum demolitions and forced displacement",
+        "url": "https://en.wikipedia.org/wiki/The_Emergency_(India)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "A Fine Balance, Wikipedia, on the Emergency setting and the tailors' loss of home",
+        "url": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pavement-dwelling",
+    "name": "The pavement dwelling",
+    "progressLabel": "Chapter 10",
+    "character": "dina",
+    "coords": [72.8322, 18.955],
+    "placeCertainty": "inferred",
+    "certaintyNote": "No street is named for the stretch of pavement where the tailors are made to sleep rough; the marker sits at a representative point on the older streets between the terminus and the northern districts.",
+    "reference": "Chapters 10 to 14",
+    "order": 5,
+    "note": "For a stretch of the book the tailors have no roof at all, laying out bedding on a city footpath among other pavement dwellers, at the mercy of police, weather and the Emergency's roundups. It is Mistry's picture of how thin the margin was for the working poor of Bombay in these years.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A Fine Balance, Wikipedia, on the tailors' spells of homelessness during the Emergency",
+        "url": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mumbai, Wikipedia, for the geography of the central and northern city districts",
+        "url": "https://en.wikipedia.org/wiki/Mumbai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "home-village",
+    "name": "The tailors' home village",
+    "progressLabel": "Chapters 3 to 5",
+    "character": "dina",
+    "coords": [74.2, 19.15],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village is fictional and unnamed, placed only somewhere inland from the coastal city; the marker sits at a representative point in the rural interior east of Bombay to show the direction the tailors came from.",
+    "reference": "Chapters 3 to 5",
+    "order": 6,
+    "note": "Ishvar and Omprakash come from a small inland village, born into the Chamaar leather-working caste but trained as tailors in defiance of caste rules. A landlord's reprisal murders much of their family, the atrocity that drives the survivors to the anonymity of the city. Mistry keeps the village unnamed, a stand-in for countless places where caste violence went unpunished.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A Fine Balance, Wikipedia, on the tailors' caste, their village origins and the killings that force them to the city",
+        "url": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+      },
+      {
+        "kind": "external",
+        "ref": "Caste-related violence in India, Wikipedia, for background on reprisals of the kind depicted",
+        "url": "https://en.wikipedia.org/wiki/Caste-related_violence_in_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
