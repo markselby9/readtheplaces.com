@@ -1,0 +1,34 @@
+{
+  "id": "the-no-1-ladies-detective-agency",
+  "title": "The No. 1 Ladies' Detective Agency",
+  "author": "Alexander McCall Smith",
+  "published": 1998,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [25.9086, -24.6545],
+  "zoom": 11.2,
+  "setting": {
+    "city": "Gaborone",
+    "country": "BW",
+    "note": "A gentle Botswana of red earth and acacia thorn, where a kind, shrewd woman opens the country's only female-run detective agency in a small building below Kgale Hill on the edge of the capital. The map runs from that hill and the office through the city centre and the mall, out along the Tlokweng Road, and north to the cattle country and her home village of Mochudi.",
+    "bbox": [25.78, -24.75, 26.05, -24.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Alexander McCall Smith, first published 1998. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/165415/the-no-1-ladies-detective-agency-by-alexander-mccall-smith/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The No. 1 Ladies' Detective Agency, Alexander McCall Smith (1998). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red Kalahari earth of the roadsides and the cattle country. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "precious": {
+      "name": "Precious Ramotswe",
+      "color": "#2E5064"
+    }
+  }
+}

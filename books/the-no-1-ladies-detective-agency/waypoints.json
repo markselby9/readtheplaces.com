@@ -1,0 +1,113 @@
+[
+  {
+    "id": "kgale-hill",
+    "name": "Kgale Hill",
+    "progressLabel": "Chapter 1",
+    "character": "precious",
+    "coords": [25.8743, -24.6897],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kgale Hill is a real landmark on the southwestern edge of Gaborone, named in the novel; this marks the hill itself.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The rocky rise on the edge of the capital gives the whole book its horizon. The detective's little office sits in its shadow, and the hill stands over the opening pages as she takes stock of her life and decides to become a private investigator.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kgale Hill, Wikidata, for the landmark coordinates southwest of Gaborone",
+        "url": "https://www.wikidata.org/wiki/Q4352520"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kgale Hill, PeakVisor, on the hill overlooking Gaborone",
+        "url": "https://peakvisor.com/peak/kgale-hill.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-agency-office",
+    "name": "The No. 1 Ladies' Detective Agency",
+    "progressLabel": "Chapter 1",
+    "character": "precious",
+    "coords": [25.888, -24.682],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The office is fictional. The novel places it in a small building below Kgale Hill on the edge of Gaborone, so this marks a representative point at the northeastern foot of the hill toward the city, not a real address.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The heroine sets up Botswana's first agency run by a woman in a modest building near the foot of the hill, with a view of the acacia trees and the road into town. From here she interviews clients over bush tea and takes on the small, human cases that make up the book.",
+    "sources": [
+      {
+        "kind": "inference",
+        "ref": "Placed below Kgale Hill on the city's edge as the novel describes; the building is fictional and has no real-world address",
+        "url": "https://www.wikidata.org/wiki/Q4352520"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mall-city-centre",
+    "name": "The Mall and the President Hotel",
+    "progressLabel": "Chapter 3",
+    "character": "precious",
+    "coords": [25.9118, -24.6566],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Mall is the real pedestrian centre of Gaborone and the President Hotel stands on it; both are named in the series, and this marks the Main Mall in the city centre.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "The pedestrian heart of Gaborone, where the detective runs her errands, watches the crowds and meets people on the veranda of the President Hotel above the square. The mall is where the city gathers, and much of her quiet investigating happens by simply sitting and paying attention here.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gaborone city centre coordinates, latitude.to, for the Main Mall area",
+        "url": "https://latitude.to/map/bw/botswana/cities/gaborone"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tlokweng-road",
+    "name": "Tlokweng and the Tlokweng Road",
+    "progressLabel": "Chapter 6",
+    "character": "precious",
+    "coords": [25.9711, -24.6686],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tlokweng is a real village directly east of Gaborone and the Tlokweng Road is named through the series; this marks Tlokweng village at the road's end.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "East out of the capital runs the Tlokweng Road, the route the detective drives in her little white van on errands and cases, and the way to the garage of the good, dependable mechanic who matters to her. The road and the village anchor the everyday journeys that thread the book together.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tlokweng, geodatos, for the village coordinates east of Gaborone",
+        "url": "https://www.geodatos.net/en/coordinates/botswana/tlokweng"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mochudi",
+    "name": "Mochudi",
+    "progressLabel": "Chapter 2",
+    "character": "precious",
+    "coords": [26.15, -24.4167],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mochudi is a real village about forty kilometres north of Gaborone, named as the heroine's home; it sits outside the city bounding box, so it is marked as a deliberate excursion.",
+    "reference": "Chapter 2",
+    "order": 5,
+    "note": "North of the capital lies the village where the detective grew up, in the cattle country of her childhood. Memories of her father and his herd of good Botswana cattle run through the book, and the money he leaves her buys the house and the office that let her open the agency.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mochudi, latitude.to, for the village coordinates north of Gaborone",
+        "url": "https://latitude.to/map/bw/botswana/cities/mochudi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mochudi, geodatos, on the village in Kgatleng District",
+        "url": "https://www.geodatos.net/en/coordinates/botswana/mochudi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
