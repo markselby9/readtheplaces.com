@@ -1,0 +1,152 @@
+[
+  {
+    "id": "boranly-burannyi-junction",
+    "name": "The Boranly-Burannyi junction",
+    "progressLabel": "The steppe",
+    "character": "yedigei",
+    "coords": [62.6, 45.85],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Boranly-Burannyi is a fictional signal-stop invented by Aitmatov, but it sits on a real line: the single-track railway across the Sarozek. This point marks a representative stretch of that real line, roughly midway between the Aral town and the cosmodrome, where such a junction would have stood.",
+    "reference": "Opening frame, the junction where Yedigei works",
+    "order": 1,
+    "note": "The story is anchored at a tiny, wind-battered railway halt lost in the steppe, home to a handful of families who keep the trains running. The junction is Aitmatov's invention, but the book insists it belongs to the real world of the trans-steppe line: a place of two ever-present directions, east and west, with nothing but grass and sky between the passing trains.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Day Lasts More than a Hundred Years, Wikipedia, on the novel's setting at the fictional Boranly-Burannyi junction",
+        "url": "https://en.wikipedia.org/wiki/The_Day_Lasts_More_than_a_Hundred_Years"
+      },
+      {
+        "kind": "guide",
+        "ref": "Trans-Aral Railway, Wikipedia, on the real steppe line the junction sits astride",
+        "url": "https://en.wikipedia.org/wiki/Trans-Aral_Railway"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sarozek-steppe",
+    "name": "The Sarozek steppe",
+    "progressLabel": "The steppe",
+    "character": "yedigei",
+    "coords": [63.0, 46.4],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sarozek is the name Aitmatov gives the desert steppe of the novel; it maps onto the real semi-arid plains of the Kyzylorda region north of the Syr Darya. This point marks a representative stretch of that open steppe, not a named settlement.",
+    "reference": "Throughout, the desert plain the story crosses",
+    "order": 2,
+    "note": "The vast, dry steppe is a character in its own right: heat, saltpans and horizon in every direction, threaded by camel tracks and the memory of old caravan roads. Its emptiness carries the book's legends and frames the burial journey, a landscape drawn from the real plains of south-central Kazakhstan.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Day Lasts More than a Hundred Years, Wikipedia, on the Sarozek steppe setting",
+        "url": "https://en.wikipedia.org/wiki/The_Day_Lasts_More_than_a_Hundred_Years"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kyzylorda Region, Wikipedia, for the steppe geography north of the Syr Darya",
+        "url": "https://en.wikipedia.org/wiki/Kyzylorda_Region"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "trans-aral-railway-kazaly",
+    "name": "The steppe railway at Kazaly",
+    "progressLabel": "The line",
+    "character": "yedigei",
+    "coords": [62.1, 45.7667],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The railway itself is real and central to the book; Kazaly (formerly Kazalinsk) is an actual station on the Trans-Aral line and is marked here as a concrete point on the route Yedigei serves.",
+    "reference": "Throughout, the line Yedigei keeps",
+    "order": 3,
+    "note": "The line runs the length of the novel, carrying troop trains, freight and the daily rhythm of the signalmen who tend it. Kazaly, an old station on the Trans-Aral railway between the Aral Sea and the cosmodrome, stands for the real working railway that gives the junction its purpose and the steppe its single thread of connection.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Trans-Aral Railway, Wikipedia, on the line across the Kazakh steppe",
+        "url": "https://en.wikipedia.org/wiki/Trans-Aral_Railway"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kazaly, Wikipedia, for the station's location on the line",
+        "url": "https://en.wikipedia.org/wiki/Kazaly"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ana-beiit-cemetery",
+    "name": "The Ana-Beiit cemetery",
+    "progressLabel": "The burial",
+    "character": "yedigei",
+    "coords": [63.35, 45.9],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ana-Beiit is a fictional ancient cemetery bound to one of the book's central legends. Aitmatov places it on ground the space range has fenced off, so this point marks a representative spot at the edge of the real cosmodrome closure zone where the burial party is turned back.",
+    "reference": "The burial journey and its refusal at the fence",
+    "order": 4,
+    "note": "The dead man's wish is to be laid in an old clan burial ground steeped in legend. When the party reaches it after a long trek, they find the site enclosed within the guarded perimeter of the launch ranges and are barred from the graves. The cemetery is invented, but the collision it stages, ancestral ground against the closed space complex, sits on the real geography of the cosmodrome.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Day Lasts More than a Hundred Years, Wikipedia, on the Ana-Beiit cemetery and the closed cosmodrome",
+        "url": "https://en.wikipedia.org/wiki/The_Day_Lasts_More_than_a_Hundred_Years"
+      },
+      {
+        "kind": "guide",
+        "ref": "Baikonur Cosmodrome, Wikipedia, on the guarded launch-range zone in the steppe",
+        "url": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baikonur-cosmodrome-tyuratam",
+    "name": "The cosmodrome at Tyuratam",
+    "progressLabel": "The rockets",
+    "character": "yedigei",
+    "coords": [63.3051, 45.9648],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The space complex that fences off the burial ground is the real cosmodrome by the Tyuratam (Toretam) railway station; this point marks its launch area. Aitmatov calls his ranges by an invented name, but they stand on this ground.",
+    "reference": "The launch ranges that close the steppe",
+    "order": 5,
+    "note": "Above the old steppe rises the machinery of the space age: a secret launch complex whose rockets and cordons intrude on the ancient land and drive the book's second, cosmic storyline. It is the real cosmodrome by the Tyuratam railway siding, the world's busiest launch site, dropped into the same desert as the camel tracks and the graves.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Baikonur Cosmodrome, Wikipedia, on the launch complex near the Tyuratam/Toretam station",
+        "url": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome"
+      },
+      {
+        "kind": "guide",
+        "ref": "Toretam, Wikipedia, for the railway station that served the cosmodrome",
+        "url": "https://en.wikipedia.org/wiki/T%C3%B6retam"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "aral-sea-region",
+    "name": "The Aral Sea region",
+    "progressLabel": "The horizon",
+    "character": "yedigei",
+    "coords": [61.6667, 46.7833],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Aral region lies at the western edge of the book's steppe world and its shrinking sea shadows the narrative; the town of Aral (Aralsk) marks the real region here.",
+    "reference": "The wider steppe world the book inhabits",
+    "order": 6,
+    "note": "West of the junction the steppe runs toward the Aral basin, an old fishing coast already retreating in the era the book evokes. The dying sea belongs to the same wounded landscape as the fenced graves and the launch ranges, a real place standing in for the environmental loss that haunts the novel's edges.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Aral, Kazakhstan, Wikipedia, for the former port town in the Aral basin",
+        "url": "https://en.wikipedia.org/wiki/Aral,_Kazakhstan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Aral Sea, Wikipedia, on the region west of the steppe railway",
+        "url": "https://en.wikipedia.org/wiki/Aral_Sea"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
