@@ -1,0 +1,138 @@
+[
+  {
+    "id": "plaine-du-nord-plantations",
+    "name": "The plantations of the Plaine du Nord",
+    "progressLabel": "Part One",
+    "character": "tinoel",
+    "coords": [-72.19, 19.6833],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel sets its opening among the sugar estates of the northern plain without fixing one property, so this marks Plaine-du-Nord, the plantation district inland from Cap-Français.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story begins in slavery, on the sugar estates of the plain behind the port, where an enslaved man works for a French planter and listens to an older captive tell of African kings and of a coming reckoning. The Plaine du Nord was the richest sugar country of the colony, worked by tens of thousands of enslaved people, and it is where the mind of revolt first takes shape in the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plaine-du-Nord, Wikipedia, on the plantation district of the northern plain",
+        "url": "https://en.wikipedia.org/wiki/Plaine-du-Nord"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Haitian Revolution, Wikipedia, on the sugar plantations of the Plaine du Nord and their enslaved workforce",
+        "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cap-francais-cap-haitien",
+    "name": "Cap-Français, now Cap-Haïtien",
+    "progressLabel": "Part One",
+    "character": "tinoel",
+    "coords": [-72.1984, 19.7594],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carpentier names the colonial capital of the north, Cap-Français; the city is today's Cap-Haïtien, and the coordinates mark its historic centre.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The great port of the north is where the enslaved come to market and where colonial power stages its spectacles, including the public burning of a rebel leader in the square before a crowd of masters and slaves. Called Cap-Français under France and later Cap-Haïtien, it was the wealthiest city of the colony and the stage on which the book's early terror and defiance play out.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cap-Haïtien, Wikipedia, on the former Cap-Français and its role as colonial capital of the north",
+        "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bois-caiman-ceremony",
+    "name": "The ceremony at Bois Caïman",
+    "progressLabel": "Part Two",
+    "character": "tinoel",
+    "coords": [-72.2756, 19.7235],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Tradition places the Vodou ceremony that launched the 1791 rising at Bois Caïman near Morne-Rouge; the exact site is disputed, so this marks the location commonly identified southwest of Cap-Haïtien.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "On a night of storm the enslaved gather in the woods for a secret rite, swear themselves to rebellion and pour out across the plain, burning the estates that had held them. The gathering at Bois Caïman in August 1791 is remembered as the spark of the Haitian Revolution, and the novel turns it into the pivot between bondage and the war for freedom.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Bois Caïman, Wikipedia, on the ceremony that opened the 1791 uprising and its location near Morne-Rouge",
+        "url": "https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santiago-de-cuba-exile",
+    "name": "Santiago de Cuba",
+    "progressLabel": "Part Two",
+    "character": "tinoel",
+    "coords": [-75.8219, 20.0247],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carpentier names Santiago de Cuba, where the fleeing French planter takes his slave; the coordinates mark the Cuban city's centre.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "When the uprising drives the planters out, one of them crosses to Cuba and takes his slave with him, and the story steps briefly off Haitian soil into the gambling houses and churches of Santiago. It is an exile, not the book's setting, but it is where the enslaved man glimpses another world before the pull of home draws him back to the north.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Santiago de Cuba, Wikipedia, for the city's coordinates and its role as a refuge for planters fleeing Saint-Domingue",
+        "url": "https://en.wikipedia.org/wiki/Santiago_de_Cuba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sans-souci-palace-milot",
+    "name": "The palace of Sans-Souci at Milot",
+    "progressLabel": "Part Three",
+    "character": "tinoel",
+    "coords": [-72.2186, 19.6047],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carpentier names Henri Christophe's palace of Sans-Souci at Milot; the coordinates mark the ruined palace, a UNESCO World Heritage site.",
+    "reference": "Part Three",
+    "order": 5,
+    "note": "Years later the freed man returns to find one of his own, the former slave Henri Christophe, crowned king of the north and ruling from a European-style palace built by forced labour at the foot of the mountains. Sans-Souci at Milot, now a ruin under national protection, is where the novel weighs the bitter irony of a black king who rebuilds the servitude he had escaped.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "National History Park - Citadel, Sans-Souci, Ramiers, UNESCO World Heritage List",
+        "url": "https://whc.unesco.org/en/list/180/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sans-Souci Palace, Wikipedia, for the palace at Milot and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Sans-Souci_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "citadelle-laferriere",
+    "name": "The Citadelle Laferrière",
+    "progressLabel": "Part Three",
+    "character": "tinoel",
+    "coords": [-72.2397, 19.5708],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carpentier names Christophe's mountaintop fortress; the coordinates mark the Citadelle Laferrière above Milot, a UNESCO World Heritage site.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "Above the palace, the king drives his people to haul stone and cannon up the mountain to raise a vast fortress against an invasion that never comes, and the labour becomes the emblem of his tyranny and his fall. The Citadelle Laferrière still stands on its peak south of Milot, the largest fortress in the Americas, where the book closes its meditation on power that only remakes suffering.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "National History Park - Citadel, Sans-Souci, Ramiers, UNESCO World Heritage List",
+        "url": "https://whc.unesco.org/en/list/180/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Citadelle Laferrière, Wikipedia, for the fortress above Milot and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
