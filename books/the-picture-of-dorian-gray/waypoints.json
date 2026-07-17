@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "id": "basil-hallwards-studio",
+    "name": "Basil Hallward's studio, Mayfair",
+    "progressLabel": "Chapter 1",
+    "character": "henry",
+    "coords": [-0.1458, 51.5097],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Wilde never gives the studio a street. He sets it in the West End world of Lord Henry and the sitters who drift through it, so the pin marks Mayfair, near Berkeley Square, where such a painter's garden studio would have stood.",
+    "quoteAnchor": "The studio was filled with the rich odour of roses",
+    "passage": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.",
+    "note": "The novel opens here, in the rose-heavy studio where Basil Hallward has just finished the portrait and Lord Henry lounges on the divan. It is the last innocent room in the book: everything Dorian becomes is set in motion between these walls.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapter 1",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Berkeley Square, Mayfair, City of Westminster",
+        "url": "https://en.wikipedia.org/wiki/Berkeley_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lord-henrys-house-mayfair",
+    "name": "Lord Henry's house, Curzon Street",
+    "progressLabel": "Chapter 4",
+    "character": "henry",
+    "coords": [-0.148, 51.5065],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The text places the house \"in Mayfair\" and elsewhere has Lord Henry receive callers and stroll out from Curzon Street. The pin sits on Curzon Street; the exact house is Wilde's, not a real address.",
+    "quoteAnchor": "the little library of Lord Henry's house in Mayfair",
+    "passage": "One afternoon, a month later, Dorian Gray was reclining in a luxurious arm-chair, in the little library of Lord Henry's house in Mayfair.",
+    "note": "Lord Henry's library, all olive-oak panelling and long-fringed Persian rugs, is where his poisonous talk does its slow work on Dorian. Wilde keeps returning the two men here, to the room where influence is dressed up as conversation.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapter 4",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Curzon Street, Mayfair, City of Westminster",
+        "url": "https://en.wikipedia.org/wiki/Curzon_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-theatre-holborn",
+    "name": "Sibyl Vane's theatre, Holborn",
+    "progressLabel": "Chapter 4",
+    "character": "dorian",
+    "coords": [-0.1188, 51.5176],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dorian stumbles on the \"absurd little theatre\" while wandering eastward. The later inquest names Sibyl as \"a young actress recently engaged at the Royal Theatre, Holborn,\" so the pin marks High Holborn, home of the real Holborn theatres of the day.",
+    "quoteAnchor": "an absurd little theatre, with great flaring gas-jets and gaudy play-bills",
+    "passage": "About half-past eight I passed by an absurd little theatre, with great flaring gas-jets and gaudy play-bills.",
+    "note": "The shabby playhouse where Dorian first sees Sibyl Vane act, and falls for the girl through her Juliet and her Rosalind. When she loses her art to real love, he abandons her here, and the cruelty is the first mark on the portrait.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapters 4 and 11",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Holborn Theatre, High Holborn, London",
+        "url": "https://en.wikipedia.org/wiki/Holborn_Theatre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "covent-garden-flower-market",
+    "name": "Covent Garden flower market at dawn",
+    "progressLabel": "Chapter 7",
+    "character": "dorian",
+    "coords": [-0.1251, 51.5124],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "As the dawn was just breaking, he found himself close to Covent Garden",
+    "passage": "As the dawn was just breaking, he found himself close to Covent Garden. The darkness lifted, and, flushed with faint fires, the sky hollowed itself into a perfect pearl. Huge carts filled with nodding lilies rumbled slowly down the polished empty street.",
+    "note": "After the night he breaks with Sibyl, Dorian walks the city until dawn and comes out at the old flower market as the waggons of lilies roll in. A rare clean morning in the book, and the last one before he learns Sibyl is dead.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapter 7",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Covent Garden Piazza and the old flower market, City of Westminster",
+        "url": "https://en.wikipedia.org/wiki/Covent_Garden"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dorians-house-grosvenor-square",
+    "name": "Dorian's house, Grosvenor Square",
+    "progressLabel": "Chapter 12",
+    "character": "dorian",
+    "coords": [-0.1523, 51.5108],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "At the corner of Grosvenor Square and South Audley Street",
+    "passage": "At the corner of Grosvenor Square and South Audley Street, a man passed him in the mist, walking very fast and with the collar of his grey ulster turned up.",
+    "note": "Walking home through the fog, Dorian meets Basil Hallward at this corner near his own house. He takes the painter upstairs to show him the ruined portrait, and the night ends in murder. Wilde pins the respectable address exactly, one street from where the body will lie.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapters 12 and 13",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Grosvenor Square and South Audley Street, Mayfair, City of Westminster",
+        "url": "https://en.wikipedia.org/wiki/Grosvenor_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "opium-den-by-the-docks",
+    "name": "The opium den by the docks",
+    "progressLabel": "Chapter 16",
+    "character": "dorian",
+    "coords": [-0.0585, 51.5105],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dorian rides east and walks \"in the direction of the quay\" to a den among the wharves; Basil earlier names the district as the \"dreadful places near Blue Gate Fields.\" The pin marks Blue Gate Fields by St George in the East, Shadwell, the notorious dockside slum Wilde is drawing on.",
+    "quoteAnchor": "he walked quickly in the direction of the quay",
+    "passage": "Dorian started and peered round. \"This will do,\" he answered, and having got out hastily and given the driver the extra fare he had promised him, he walked quickly in the direction of the quay. Here and there a lantern gleamed at the stern of some huge merchantman.",
+    "note": "To blot out the murder, Dorian goes east to an opium den by the docks, a long low room that had once been a third-rate dancing-saloon. Here James Vane, Sibyl's brother, finally recognises the man who ruined her, and the reckoning begins.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Picture of Dorian Gray, Chapter 16",
+        "url": "https://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bluegate Fields, St George in the East, Shadwell; a Victorian dockside slum known for opium dens",
+        "url": "https://en.wikipedia.org/wiki/Bluegate_Fields"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
