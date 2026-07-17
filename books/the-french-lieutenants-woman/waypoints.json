@@ -1,0 +1,124 @@
+[
+  {
+    "id": "the-cobb-lyme-regis",
+    "name": "The Cobb, Lyme Regis",
+    "progressLabel": "Chapter 1",
+    "character": "charles",
+    "coords": [-2.9378, 50.7186],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fowles names the Cobb outright and opens the novel on it. Sited on the great curved breakwater that shelters the harbour.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens on the Cobb, the long curving stone arm that reaches out from the town into the bay. Charles and his fiancee are walking it when he first sees a still, dark figure at the seaward end, staring out to sea, and cannot look away. The breakwater is real and still stands, the same weathered stone underfoot.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Cobb, Lyme Regis, Wikipedia, on the historic harbour wall",
+        "url": "https://en.wikipedia.org/wiki/The_Cobb,_Lyme_Regis"
+      },
+      {
+        "kind": "author",
+        "ref": "Chapter 1"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lyme-regis-broad-street",
+    "name": "The town, Broad Street",
+    "progressLabel": "Chapter 5",
+    "character": "charles",
+    "coords": [-2.936, 50.7252],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lyme Regis is named throughout, but the aunt's house where the fiancee stays is not given an exact address; sited on Broad Street, the town's steep main thoroughfare running up from the sea.",
+    "reference": "Chapter 5",
+    "order": 2,
+    "note": "Away from the shore the story turns on the small proprieties of the town: the drawing room where Charles courts his respectable fiancee, the gossip of a place where everyone is watched. Broad Street climbs from the seafront through the heart of Victorian Lyme, and the town's tight social world sits along it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lyme Regis, Wikipedia, on the town and its role in the novel",
+        "url": "https://en.wikipedia.org/wiki/Lyme_Regis"
+      },
+      {
+        "kind": "author",
+        "ref": "Chapter 5"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-undercliff",
+    "name": "The Undercliff",
+    "progressLabel": "Chapter 10",
+    "character": "charles",
+    "coords": [-2.96, 50.7135],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fowles names the Undercliff, the wild slipped landscape west of the town; sited within the Axmouth to Lyme Regis Undercliffs reserve near its Lyme end.",
+    "reference": "Chapter 10",
+    "order": 3,
+    "note": "West of the town the coast collapses into the Undercliff, a dense, overgrown tangle of landslip, thicket and hidden hollows. Charles goes there hunting fossils and keeps meeting the woman from the Cobb; it becomes the private wilderness where the two of them talk, apart from the town's eyes. The reserve is real and still nearly impassable.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Axmouth to Lyme Regis Undercliffs, Wikipedia, on the National Nature Reserve",
+        "url": "https://en.wikipedia.org/wiki/Axmouth_to_Lyme_Regis_Undercliffs"
+      },
+      {
+        "kind": "author",
+        "ref": "Chapter 10"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "exeter-endicotts-hotel",
+    "name": "Exeter",
+    "progressLabel": "Chapter 46",
+    "character": "charles",
+    "coords": [-3.5312, 50.7227],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Exeter is named, but Endicott's Family Hotel, where the woman lodges, is Fowles's invention; sited in the cathedral quarter of the old city as a representative point.",
+    "reference": "Chapter 46",
+    "order": 4,
+    "note": "The story leaves the coast for Exeter, the cathedral city inland, where the woman has taken a room in a modest hotel. Charles travels up and the reunion there is the novel's turning point, the moment his safe engagement gives way. The hotel is fictional, but Exeter and its old streets are real, about forty kilometres from Lyme.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Exeter, Wikipedia, on the Devon cathedral city",
+        "url": "https://en.wikipedia.org/wiki/Exeter"
+      },
+      {
+        "kind": "author",
+        "ref": "Chapter 46"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "london-charles-club",
+    "name": "London",
+    "progressLabel": "Chapter 60",
+    "character": "charles",
+    "coords": [-0.144, 51.5085],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "London is named as the setting of the closing chapters; the specific club, lodgings and the Chelsea house are not pinned to fixed addresses, so this marks the West End as a representative point.",
+    "reference": "Chapter 60",
+    "order": 5,
+    "note": "The book ends in London, where Charles's ruined engagement and long search play out among gentlemen's clubs, lawyers' offices and a house by the Thames. Fowles closes the novel here, in the capital where the century's certainties and its doubts sit side by side. The city is real; the exact addresses are left open.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "London, Wikipedia, on the city",
+        "url": "https://en.wikipedia.org/wiki/London"
+      },
+      {
+        "kind": "author",
+        "ref": "Chapter 60"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
