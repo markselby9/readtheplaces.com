@@ -1,0 +1,108 @@
+[
+  {
+    "id": "kolkhoz-village",
+    "name": "The kolkhoz village",
+    "progressLabel": "The village",
+    "character": "seit",
+    "coords": [71.1597, 42.5475],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The collective-farm village is fictional, but it is drawn from Aitmatov's own Talas homeland; this marks Sheker, the village in the Kara-Buura district of Talas region where he was born and which shaped the story's setting.",
+    "reference": "Opening",
+    "order": 1,
+    "note": "The story is told by Seit, a teenage boy who paints, looking back on a wartime summer in his home village. With the men away at the front, the households are run by the women, among them his brother's young wife Jamilia. The village stands for no real place on the map, but Aitmatov built it from the district he grew up in, near Sheker in the Talas valley.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sheker, Wikipedia, on Aitmatov's birthplace in the Talas region",
+        "url": "https://en.wikipedia.org/wiki/Sheker"
+      },
+      {
+        "kind": "external",
+        "ref": "Sheker, Wikidata, for the village coordinates",
+        "url": "https://www.wikidata.org/wiki/Q2600970"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talas-town",
+    "name": "Talas",
+    "progressLabel": "The Talas valley",
+    "character": "seit",
+    "coords": [72.2427, 42.5228],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The regional town of Talas is a real place; it anchors the valley the story is set in, at the eastern end of the same river plain as the fictional village.",
+    "reference": "Setting",
+    "order": 2,
+    "note": "The valley takes its name from the town of Talas, the district centre in northwestern Kyrgyzstan, hemmed in by mountain ranges to the north and south. The village of the story lies out west along the same river plain, and the town stands as the real anchor for a landscape Aitmatov knew from childhood.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Talas, Kyrgyzstan, GPS coordinates listing",
+        "url": "https://latitude.to/map/kg/kyrgyzstan/cities/talas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talas-river",
+    "name": "The Talas river",
+    "progressLabel": "The river",
+    "character": "seit",
+    "coords": [71.7, 42.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Talas river is real and runs the length of the valley; this point marks a representative stretch between the village and the town, not a single named spot in the book.",
+    "reference": "The harvest",
+    "order": 3,
+    "note": "Water runs through the story: the river and the irrigated fields set the rhythm of the harvest summer. The Talas flows west down the valley and eventually crosses into Kazakhstan, the same course the grain carts follow toward the railway.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Talas (river), Wikipedia, on the river's course through the valley into Kazakhstan",
+        "url": "https://en.wikipedia.org/wiki/Talas_(river)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-grain-road",
+    "name": "The steppe road",
+    "progressLabel": "Carting the grain",
+    "character": "seit",
+    "coords": [71.55, 42.6],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The road is not a single mapped route; this marks a representative point on the steppe track across the valley, the way the carts would run from the village down toward the railway.",
+    "reference": "The grain road",
+    "order": 4,
+    "note": "The heart of the story is the daily haul of grain by cart from the village threshing floor across the open steppe to the station. On these journeys Seit watches Jamilia and the wounded, limping soldier Daniyar draw close, their feeling growing over the long road, the horses and the songs sung against the dark. The route is the valley itself rather than any marked road.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Jamilia, Wikipedia, on the wartime grain-carting plot and the valley setting",
+        "url": "https://en.wikipedia.org/wiki/Jamilia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dzhambul-railway",
+    "name": "The railway at Dzhambul",
+    "progressLabel": "The station",
+    "character": "seit",
+    "coords": [71.3984, 42.8961],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The grain is carted to the railway at Dzhambul, today's Taraz, which is a real town but lies over the border in Kazakhstan, outside the Kyrgyz valley that is the book's setting.",
+    "reference": "The station",
+    "order": 5,
+    "note": "The carts deliver the collective farm's grain to the wartime railhead, the end of each long day's journey and the turning point of the love story. The line runs through Dzhambul, the Soviet-era name for the old Silk Road town of Taraz, which sits on the Talas river across what is now the Kazakh border.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Taraz, Wikipedia, on the town formerly named Dzhambul and its railway on the Talas river",
+        "url": "https://en.wikipedia.org/wiki/Dzhambul"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
