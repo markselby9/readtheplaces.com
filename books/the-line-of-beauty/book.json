@@ -1,0 +1,35 @@
+{
+  "id": "the-line-of-beauty",
+  "title": "The Line of Beauty",
+  "author": "Alan Hollinghurst",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.203, 51.51],
+  "zoom": 12.6,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "date": "1983",
+    "note": "Moneyed London under Thatcher, seen by a young aesthete who lodges with a Tory MP's family. The map runs from the tall white houses and locked communal garden of a Notting Hill square out to the clubland of Westminster, the villas of Holland Park, and the night paths of Hampstead Heath.",
+    "bbox": [-0.24, 51.48, -0.1, 51.58]
+  },
+  "rights": {
+    "originalWork": "In copyright. Alan Hollinghurst, first published 2004. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.panmacmillan.com/authors/alan-hollinghurst/the-line-of-beauty/9781447208228",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Line of Beauty, Alan Hollinghurst (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The deep red of a Tory rosette and old claret, the colours of the world Nick moves through without belonging to it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "nick": {
+      "name": "Nick Guest",
+      "color": "#2E5064"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "feddens-house-kensington-park-gardens",
+    "name": "The Feddens' house, Kensington Park Gardens",
+    "progressLabel": "Part 1 (1983)",
+    "character": "nick",
+    "coords": [-0.2041, 51.5112],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hollinghurst places the Feddens on a real Notting Hill street he named as his model, but the specific house is a composite, so this marks the centre of Kensington Park Gardens rather than one address.",
+    "reference": "Part 1 (1983)",
+    "order": 1,
+    "note": "Nick Guest, a young gay aesthete just down from Oxford, takes an attic room in the tall white house of the wealthy Fedden family. Hollinghurst has said the street of imposing stucco terraces that inspired the setting was Kensington Park Gardens in Notting Hill, which he passed on the way to swim in the early 1980s.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "The Booker Prizes, reading guide to The Line of Beauty, on Kensington Park Gardens as the inspiration for the setting",
+        "url": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-line-of-beauty-by-alan-hollinghurst"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kensington Park Gardens, Wikidata, for the street coordinates in Notting Hill",
+        "url": "https://www.wikidata.org/wiki/Q66375852"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "communal-garden-notting-hill-square",
+    "name": "The communal garden of the square",
+    "progressLabel": "Part 1 (1983)",
+    "character": "nick",
+    "coords": [-0.2045, 51.5104],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The private communal garden is a real feature of the Ladbroke estate squares behind Kensington Park Gardens; this marks the large gated garden immediately south of the terrace.",
+    "reference": "Part 1 (1983)",
+    "order": 2,
+    "note": "Behind the terrace lies the locked communal garden that only key-holding residents may enter, a walled green shared by the grand houses of the square. It becomes a stage for the family's parties and for Nick's watchful place at the edge of a world that is not quite his.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Notting Hill, Wikipedia, on the private communal garden squares of the Ladbroke estate",
+        "url": "https://en.wikipedia.org/wiki/Notting_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palace-of-westminster-clubland",
+    "name": "Westminster and the world of Parliament",
+    "progressLabel": "Part 2 (1986)",
+    "character": "nick",
+    "coords": [-0.1246, 51.4995],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel sets Gerald Fedden's political life in the real Westminster of the Commons and the Tory clubs; this marks the Palace of Westminster as the anchor of that world.",
+    "reference": "Part 2 (1986)",
+    "order": 3,
+    "note": "Gerald Fedden's rise as a Conservative backbencher pulls the story into Westminster, the Commons, and the panelled Tory clubs where power and money mix. Nick moves through these rooms as a guest, dazzled by their surfaces while the decade's ambition curdles around him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Palace of Westminster, coordinate reference for the seat of Parliament",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/522/palace-of-westminster"
+      },
+      {
+        "kind": "author",
+        "ref": "The Booker Prizes, reading guide to The Line of Beauty, on Gerald Fedden's Thatcher-era politics",
+        "url": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-line-of-beauty-by-alan-hollinghurst"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "holland-park",
+    "name": "Holland Park",
+    "progressLabel": "Part 2 (1986)",
+    "character": "nick",
+    "coords": [-0.2038, 51.5028],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holland Park is a real park and district just south of Notting Hill, named in the novel's map of moneyed west London.",
+    "reference": "Part 2 (1986)",
+    "order": 4,
+    "note": "A short walk south lies Holland Park, its wooded acres and white villas part of the same rich seam of Kensington that the Feddens inhabit. The neighbourhood stands for the elegant, moneyed London whose beauty Nick loves and whose ease he can never wholly own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Holland Park, London, coordinate reference for the park and district",
+        "url": "https://www.latlong.net/place/holland-park-london-uk-32865.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hampstead-heath",
+    "name": "Hampstead Heath",
+    "progressLabel": "Part 3 (1987)",
+    "character": "nick",
+    "coords": [-0.1636, 51.5609],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Heath is named as the setting for the novel's nighttime gay cruising; this marks the large open expanse whose wooded paths were long known for that.",
+    "reference": "Part 3 (1987)",
+    "order": 5,
+    "note": "Away from the drawing rooms, the wild wooded slopes of Hampstead Heath give Nick a franker world of anonymous encounters after dark. The Heath's long-standing role as a place for gay cruising sets his private life against the guarded respectability of the house he goes home to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Hampstead Heath, coordinate reference for the north London open space",
+        "url": "https://latitude.to/articles-by-country/gb/united-kingdom/4946/hampstead-heath"
+      },
+      {
+        "kind": "author",
+        "ref": "The Booker Prizes, reading guide to The Line of Beauty, on Nick's life across the city",
+        "url": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-line-of-beauty-by-alan-hollinghurst"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
