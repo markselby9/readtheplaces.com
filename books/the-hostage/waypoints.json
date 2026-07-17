@@ -1,0 +1,127 @@
+[
+  {
+    "id": "highland-village",
+    "name": "The boy's highland village",
+    "progressLabel": "Chapter 1",
+    "character": "duwaydar",
+    "coords": [44.181, 13.9667],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the narrator's home village, only that his family are highland tribespeople held to their loyalty by the hostage system. This marks a representative point in the fertile highlands around Ibb, north of Taiz, the kind of country such a family would have come from.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The narrator is a boy taken from a tribal family in the Yemeni highlands and handed over as a hostage, a child whose safety guarantees his relatives' obedience to the state. His home is left behind at the start; the book locates it only as highland tribal country, so we place it in the green mountains around Ibb.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ibb, Yemen, Wikipedia, for the highland town's coordinates and setting",
+        "url": "https://en.wikipedia.org/wiki/Ibb"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Hostage and the hostage system of the Yemeni Imamate, Banipal review of Dammaj's novel",
+        "url": "https://www.banipal.co.uk/book_reviews/54/the-hostage-by-zayd-mutee-dammaj/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sanaa-imamic-capital",
+    "name": "Sana'a, the imamic capital",
+    "progressLabel": "Chapter 2",
+    "character": "duwaydar",
+    "coords": [44.191, 15.3694],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sana'a is named in the novel as the seat of the Imam, where the narrator is first held before his transfer south. This marks the historic old city.",
+    "reference": "Chapters 2-3",
+    "order": 2,
+    "note": "Before Taiz, the young hostage passes through Sana'a, the walled capital where the Imam ruled and where hostage children were gathered close to the centre of power. The old city, about 250 kilometres north of Taiz, sets the scale of the state that holds him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old City of Sana'a, UNESCO World Heritage Centre, on the walled imamic capital",
+        "url": "https://whc.unesco.org/en/list/385/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sanaa, Wikipedia, for the city's coordinates",
+        "url": "https://en.wikipedia.org/wiki/Sanaa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "taiz-city",
+    "name": "The city of Taiz",
+    "progressLabel": "Chapter 3",
+    "character": "duwaydar",
+    "coords": [44.0219, 13.5789],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Taiz is named in the novel as the city of the governor's palace where the narrator serves. This marks the historic city centre below Jabal Sabir.",
+    "reference": "Chapters 3 onward",
+    "order": 3,
+    "note": "The boy is brought to Taiz, the southern highland city that served as a second capital of the Imamate. Most of the story unfolds here, in a city pressed between mountain and fortress where the ruling family kept its household and its power.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ta'izz, Wikipedia, on the highland city and its role under the Imamate",
+        "url": "https://en.wikipedia.org/wiki/Ta'izz"
+      },
+      {
+        "kind": "guide",
+        "ref": "GPS coordinates of Ta'izz, latitude.to, for the city centre",
+        "url": "https://latitude.to/map/ye/yemen/cities/taizz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-qahira-fortress",
+    "name": "Al-Qahira fortress, the governor's palace",
+    "progressLabel": "Chapters 3-10",
+    "character": "duwaydar",
+    "coords": [44.015, 13.5658],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The governor's fortress-palace of Taiz, where the narrator serves as a page, is the historic Cairo Citadel, al-Qahira Castle, on the lower slope of Jabal Sabir above the city. The novel's palace is set in this fortress.",
+    "reference": "Chapters 3-10",
+    "order": 4,
+    "note": "The heart of the book is the governor's fortress above Taiz, where the narrator works as a page-servant among the women's quarters. He watches the idleness, cruelty and sexual servitude of the ruling household from the inside, a child made a servant of the very power that holds his family hostage. The fortress is al-Qahira Castle, the citadel that commands the city.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Al-Qahira Castle, Wikipedia, on the fortress above Taiz and its use as a seat of power",
+        "url": "https://en.wikipedia.org/wiki/Al-Qahira_Castle"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Hostage, Banipal review, on the palace setting and the duwaydar page-servants",
+        "url": "https://www.banipal.co.uk/book_reviews/54/the-hostage-by-zayd-mutee-dammaj/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jabal-sabir",
+    "name": "Jabal Sabir above the city",
+    "progressLabel": "Chapters 3-10",
+    "character": "duwaydar",
+    "coords": [44.05, 13.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Jabal Sabir, the mountain that rises directly over Taiz and the fortress, is a real and named feature of the setting. This marks the upper mountain south of the city.",
+    "reference": "Chapters 3 onward",
+    "order": 5,
+    "note": "The great mountain of Jabal Sabir looms over Taiz and its fortress, its villages and terraces visible from the palace. For the highland boy it is a reminder of the free tribal country he came from, held always just beyond the walls where he is kept.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jabal Sabir, Wikipedia, on the mountain overlooking Taiz",
+        "url": "https://en.wikipedia.org/wiki/Jabal_Sabir"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jabal Sabr, getamap.net, for the mountain coordinates",
+        "url": "https://www.getamap.net/maps/yemen/yemen_(general)/_sabr_jabal/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
