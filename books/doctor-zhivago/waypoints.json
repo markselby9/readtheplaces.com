@@ -1,0 +1,127 @@
+[
+  {
+    "id": "moscow-gromeko-house-arbat",
+    "name": "The family's Moscow, the Arbat",
+    "progressLabel": "Part 1",
+    "character": "yuri",
+    "coords": [37.5936, 55.748],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Moscow is explicitly the novel's city, but the Gromeko house that raises Yuri is fictional and given no fixed address; sited here on Sivtsev Vrazhek, a real lane in the old Arbat district where such a professional household would have lived.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Orphaned young, Yuri grows up in the cultured Moscow household of the Gromeko family, and the city's streets carry him through his studies, his first marriage and the shocks of war and revolution. Moscow is the fixed point he keeps leaving and trying to return to. The Arbat is the quarter of the intelligentsia the novel evokes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Key places from Pasternak's Doctor Zhivago, Russia Beyond, on the novel's Moscow settings",
+        "url": "https://www.rbth.com/multimedia/infographics/multimedia/2015/09/25/key-places-from-pasternaks-doctor-zhivago_427835"
+      },
+      {
+        "kind": "guide",
+        "ref": "Arbat, Wikipedia, for the historic Moscow district and lane",
+        "url": "https://en.wikipedia.org/wiki/Arbat_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ural-railway-crossing-kungur",
+    "name": "The journey east, across the Urals",
+    "progressLabel": "Part 7",
+    "character": "yuri",
+    "coords": [56.9842, 57.3908],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The flight east by train and the crossing of the Urals are real and central to the book, but the stations it names are invented. Sited at Kungur, a real historic town on the Moscow-to-Perm line where the railway enters the Ural country, as a representative point on the route.",
+    "reference": "Part 7",
+    "order": 2,
+    "note": "To escape a starving, dangerous Moscow, the family travels for weeks in a crowded goods train across a country torn by civil war, east toward the Urals and a place to sit out the chaos. The long rail passage into the mountains is one of the novel's great set pieces. Kungur sits on that real line, at the gateway to the Urals.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Doctor Zhivago, plot summary, on the family's rail journey east to the Urals",
+        "url": "https://www.litcharts.com/lit/doctor-zhivago/summary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kungur, Wikipedia, for the town on the Perm railway and its Ural setting",
+        "url": "https://en.wikipedia.org/wiki/Kungur"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yuriatin-perm",
+    "name": "Yuriatin, drawn from Perm",
+    "progressLabel": "Part 8",
+    "character": "yuri",
+    "coords": [56.2294, 58.0105],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Yuriatin is a fictional Ural town, but Pasternak based it on Perm, where he had lived for months in 1916; its public reading room was modelled on Perm's Pushkin Library. Sited at Perm.",
+    "reference": "Part 8",
+    "order": 3,
+    "note": "Yuriatin is the Ural town where Yuri and Lara's lives keep crossing, in the library, on its streets, through the years of upheaval. It is the emotional centre of the second half of the book. Pasternak built it from Perm, on the Kama river in the western Urals, down to the reading room where the lovers meet.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Doctor Zhivago (novel), Wikipedia, on Yuriatin as a fictionalisation of Perm",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Perm: Lord of the Northern Urals, Russia Beyond, on the city behind Yuriatin",
+        "url": "https://www.rbth.com/travel/332287-perm-northern-urals"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "varykino-vsevolodo-vilva",
+    "name": "Varykino, near Vsevolodo-Vilva",
+    "progressLabel": "Part 9",
+    "character": "yuri",
+    "coords": [57.4405, 59.2184],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Varykino is an invented country estate with no mapped location. It is generally traced to the area of Vsevolodo-Vilva in northern Perm Krai, where Pasternak stayed in 1916; local tradition puts the prototype at nearby Ivaka. Sited at Vsevolodo-Vilva as the nearest real settlement.",
+    "reference": "Part 9",
+    "order": 4,
+    "note": "Varykino is the remote former estate near Yuriatin where the family tries to live off the land, and where, later, Yuri and Lara steal a few frozen weeks together. It stands for retreat from history, and for how briefly that retreat can hold. The setting draws on the wooded country around Vsevolodo-Vilva that Pasternak knew.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Vsevolodo-Vilva, Wikipedia, on Pasternak's stay and the Varykino connection",
+        "url": "https://en.wikipedia.org/wiki/Vsevolodo-Vilva"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Literary Heritage of Boris Pasternak, Atlantis Press, on Vsevolodo-Vilva and Ivaka as prototypes for Varykino",
+        "url": "https://www.atlantis-press.com/proceedings/icistis-19/125922455"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "forest-brotherhood-taiga",
+    "name": "The Forest Brotherhood, the taiga",
+    "progressLabel": "Part 11",
+    "character": "yuri",
+    "coords": [58.2, 58.7],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The partisan territory is invented and unmapped; the novel places the Forest Brotherhood in the woods of the Yuriatin region, crisscrossing Siberia during the civil war. Sited at a representative point in the real trans-Ural taiga northeast of Perm.",
+    "reference": "Part 11",
+    "order": 5,
+    "note": "Seized on the road and pressed into service as their doctor, Yuri spends two years with a Red partisan band, the Forest Brotherhood, moving through the forests east of the Urals as the civil war swings back and forth. The taiga is both prison and refuge, and it keeps him from Lara. The band's country is fictional, set in the real forests beyond Yuriatin.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Doctor Zhivago, Part 11 summary, on the Forest Brotherhood and the taiga captivity",
+        "url": "https://www.sparknotes.com/lit/zhivago/section10/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Doctor Zhivago (novel), Wikipedia, on the partisan sections set in the Urals and Siberia",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
