@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "the-golden-krone-hotel-bistritz",
+    "name": "The Golden Krone Hotel, Bistritz",
+    "progressLabel": "Bistritz, 3 May",
+    "character": "harker",
+    "coords": [24.4914, 47.1333],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bistrița is a real town in Transylvania, some 2,000 km east of Whitby, so it is flagged as an excursion beyond the book's setting.",
+    "quoteAnchor": "the Golden Krone Hotel",
+    "passage": "Count Dracula had directed me to go to the Golden Krone Hotel, which I found, to my great delight, to be thoroughly old-fashioned, for of course I wanted to see all I could of the ways of the country.",
+    "note": "Harker breaks his journey east at Bistritz, lodging at the Golden Krone before the last stage to the Count. Stoker took the real Transylvanian town from a guidebook, down to the hotel Harker names, though no such hotel stood there.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Jonathan Harker's Journal, 3 May",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bistrița, Bistrița-Năsăud County, Romania; coordinates from gazetteer sources",
+        "url": "https://en.wikipedia.org/wiki/Bistri%C8%9Ba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-carpathians-castle-dracula",
+    "name": "The Carpathians, above the Borgo Pass",
+    "progressLabel": "The Borgo Pass, 5 May",
+    "character": "harker",
+    "coords": [24.7969, 47.2861],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Castle Dracula is Stoker's invention. He sited it beyond the Borgo (Tihuța) Pass in the Carpathians, a real mountain road he mapped without ever visiting. The pin marks the pass.",
+    "quoteAnchor": "in the midst of the Carpathian mountains",
+    "passage": "The district he named is in the extreme east of the country, just on the borders of three states, Transylvania, Moldavia and Bukovina, in the midst of the Carpathian mountains; one of the wildest and least known portions of Europe.",
+    "note": "The Count's castle stands somewhere above the Borgo Pass, in the mountains Harker cannot find on any map. The pass is real and still crossed; the castle is not, which is why it is drawn from the place rather than pinned to it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Jonathan Harker's Journal, 3-5 May",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tihuța Pass (the Borgo Pass), Bârgău Mountains, Romania",
+        "url": "https://en.wikipedia.org/wiki/Tihu%C8%9Ba_Pass"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "whitby-harbour",
+    "name": "Whitby harbour",
+    "progressLabel": "Whitby, 24 July",
+    "character": "mina",
+    "coords": [-0.6133, 54.4894],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The harbour lies below me",
+    "passage": "The harbour lies below me, with, on the far side, one long granite wall stretching out into the sea, with a curve outwards at the end of it, in the middle of which is a lighthouse.",
+    "note": "Mina writes from the East Cliff looking down on the working harbour, the granite piers and the lighthouse, weeks before the storm drives the Demeter and its dead crew onto the sand below. The view is precise and still there.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Mina Murray's Journal, 24 July",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Whitby harbour and its piers, North Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Whitby"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "whitby-abbey",
+    "name": "The ruin of Whitby Abbey",
+    "progressLabel": "Whitby, 24 July",
+    "character": "mina",
+    "coords": [-0.6079, 54.4879],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "It is a most noble ruin",
+    "passage": "Right over the town is the ruin of Whitby Abbey, which was sacked by the Danes. It is a most noble ruin, of immense size, and full of beautiful and romantic bits; there is a legend that a white lady is seen in one of the windows.",
+    "note": "The gaunt abbey on the East Cliff presides over every Whitby scene in the book, the fixed landmark above the churchyard and the steps. Stoker walked here on holiday, and the ruin he describes is exactly the one that still stands.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Mina Murray's Journal, 24 July",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Whitby Abbey, English Heritage, North Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Whitby_Abbey"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-east-cliff-churchyard",
+    "name": "The East Cliff churchyard",
+    "progressLabel": "Whitby, 8 August",
+    "character": "mina",
+    "coords": [-0.6083, 54.4887],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the East Cliff churchyard",
+    "passage": "The gossips who frequent the East Cliff churchyard, and from that commanding eminence watch the wide sweep of sea visible to the north and east, called attention to a sudden show of cloud far off to the north-west.",
+    "note": "The churchyard of St Mary's, at the top of the 199 steps, is Mina and Lucy's favourite seat and the spot where the sleepwalking begins. It is also where the watchers gather as the storm that carries the Count ashore builds over the sea.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Mina Murray's Journal, 8 August",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "heritage",
+        "ref": "St Mary's Church and the 199 steps, East Cliff, Whitby",
+        "url": "https://en.wikipedia.org/wiki/Church_of_St_Mary,_Whitby"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "carfax-purfleet",
+    "name": "Carfax, at Purfleet",
+    "progressLabel": "Purfleet, London",
+    "character": "harker",
+    "coords": [0.2361, 51.4817],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Carfax is Stoker's invention, but he places it at Purfleet, a real town on the Thames in Essex east of London. The pin marks Purfleet; the estate itself never existed.",
+    "quoteAnchor": "The estate is called Carfax",
+    "passage": "The estate is called Carfax, no doubt a corruption of the old Quatre Face, as the house is four-sided, agreeing with the cardinal points of the compass.",
+    "note": "The Count buys his English refuge sight unseen, an old four-sided house with its own chapel at Purfleet on the Thames. From here he means to spread through London, which is why the hunters later go to Purfleet to sterilise his boxes of earth.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Dracula, Jonathan Harker's Journal, the Count's description of the estate",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "kind": "guide",
+        "ref": "Purfleet, Thurrock, Essex, on the north bank of the Thames",
+        "url": "https://en.wikipedia.org/wiki/Purfleet"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
