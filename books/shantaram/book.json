@@ -1,0 +1,34 @@
+{
+  "id": "shantaram",
+  "title": "Shantaram",
+  "author": "Gregory David Roberts",
+  "published": 2003,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [72.832, 18.918],
+  "zoom": 13,
+  "setting": {
+    "city": "Mumbai",
+    "country": "IN",
+    "note": "The 1980s Bombay of an escaped Australian convict who remakes himself as 'Lin': a city of Colaba tourist cafes and Gateway crowds, of a sprawling seaside slum, the red-light lanes of Kamathipura and the underworld that runs beneath them. The map anchors in South Bombay around Colaba and reaches north to the prison on Arthur Road.",
+    "bbox": [72.79, 18.88, 72.86, 19.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Gregory David Roberts, first published 2003. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.hachette.com.au/gregory-david-roberts/shantaram",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Shantaram, Gregory David Roberts (2003). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "A burnt-sienna red for Bombay heat and clay. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lin": {
+      "name": "Lin",
+      "color": "#2E5064"
+    }
+  }
+}

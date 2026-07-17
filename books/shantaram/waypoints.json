@@ -1,0 +1,127 @@
+[
+  {
+    "id": "leopold-cafe",
+    "name": "Leopold Café, Colaba Causeway",
+    "progressLabel": "Part One",
+    "character": "lin",
+    "coords": [72.83158, 18.92279],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Leopold's by name; this marks the real cafe and bar on Colaba Causeway that Roberts drew on.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "Soon after landing in Bombay the narrator falls in with the drifters, dealers and expatriates who hold court at a busy Colaba cafe. It becomes his social hub and listening post, the place where deals and friendships are struck. The real Leopold Café has stood on Colaba Causeway since the late nineteenth century.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Leopold Cafe, Wikipedia, on the Colaba Causeway cafe and its role in the novel",
+        "url": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mappls map listing for Leopold Cafe, Colaba Causeway, for the coordinates",
+        "url": "https://www.mappls.com/direction-from--to-leopold+cafe+colaba+causeway,+bhagat+singh+road,+next+to+regal+cinema,+colaba+mumbai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "colaba-lodgings",
+    "name": "Lin's lodgings, Colaba",
+    "progressLabel": "Part One",
+    "character": "lin",
+    "coords": [72.832, 18.9163],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book keeps to cheap traveller hotels off Colaba Causeway without pinning one address; this marks the guest-house strip along Arthur Bunder Road as a representative point.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "Before the slum, the narrator lodges in the run of cheap tourist hotels behind the Causeway, the standard first berth for a foreigner arriving with a false passport and little money. The neighbourhood of small guest houses near Arthur Bunder Road fits the world he describes.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Colaba, Mumbai, Wikipedia, on the district's tourist guest houses and the Causeway",
+        "url": "https://en.wikipedia.org/wiki/Colaba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gateway-of-india",
+    "name": "The Gateway of India",
+    "progressLabel": "Part One",
+    "character": "lin",
+    "coords": [72.8347, 18.922],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Gateway of India is named in the novel; coordinates mark the monument on the Colaba waterfront.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The great basalt arch on the harbour edge recurs as the narrator's window on Bombay, a meeting spot and a threshold between the sea and the city. Built to mark a royal visit in 1911, it stands at Apollo Bunder a short walk from Colaba's hotels.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gateway of India, Wikipedia, on the monument at Apollo Bunder and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marine-drive",
+    "name": "Marine Drive",
+    "progressLabel": "Part Two",
+    "character": "lin",
+    "coords": [72.8228, 18.943],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Marine Drive is named in the novel; this marks a central point on the seafront boulevard that curves along Back Bay.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The long seafront sweep along Back Bay, with its evening crowds and lamp-lit curve, is one of the narrator's favourite stretches of the city and a stage for several turns in the story. Its arc of lights has long been nicknamed the Queen's Necklace.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Marine Drive, Mumbai, Wikipedia, on the Back Bay boulevard and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cuffe-parade-slum",
+    "name": "The zopadpatti, near Cuffe Parade",
+    "progressLabel": "Part Two",
+    "character": "lin",
+    "coords": [72.8163, 18.909],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's slum is a composite and is not given a fixed map name; this marks the reclaimed seaside ground near Cuffe Parade in South Bombay that fits its position by the water and near the tourist district.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The heart of the story is a vast shanty settlement where the narrator lives among its people and runs an unlicensed free clinic, learning the city from the inside. Roberts's slum reads as one of the seaside zopadpattis of South Bombay, near the reclaimed land at Cuffe Parade, rather than a single documented address.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cuffe Parade, Wikipedia, on the reclaimed South Bombay area and its informal settlements",
+        "url": "https://en.wikipedia.org/wiki/Cuffe_Parade"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "arthur-road-prison",
+    "name": "Arthur Road Prison",
+    "progressLabel": "Part Three",
+    "character": "lin",
+    "coords": [72.82976, 18.98519],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Arthur Road jail is named in the novel; coordinates mark Mumbai Central Prison on Sane Guruji Marg.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "Held without charge, the narrator endures a stretch in Bombay's oldest and most crowded jail, a brutal passage that hardens the book's middle. The prison on Arthur Road, officially Mumbai Central Prison, was built in 1926 and stands near Chinchpokli, north of the old city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mumbai Central Jail, Wikipedia, on the Arthur Road prison and its coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mumbai_Central_Jail"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
