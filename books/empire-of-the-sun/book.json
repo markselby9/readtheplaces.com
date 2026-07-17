@@ -1,0 +1,35 @@
+{
+  "id": "empire-of-the-sun",
+  "title": "Empire of the Sun",
+  "author": "J. G. Ballard",
+  "published": 1984,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [121.46, 31.2],
+  "zoom": 11.2,
+  "setting": {
+    "city": "Shanghai",
+    "country": "CN",
+    "date": "1941",
+    "note": "Ballard's wartime Shanghai, drawn from his own childhood: a boy is cut loose from his parents when the Japanese seize the city after Pearl Harbour. The map runs from the family villa in the western suburbs, through the International Settlement of the Bund and Nanking Road, out to the internment camp beside the Lunghua pagoda and airfield where he waits out the war.",
+    "bbox": [121.38, 31.1, 121.53, 31.28]
+  },
+  "rights": {
+    "originalWork": "In copyright. J. G. Ballard, first published 1984. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.com/products/empire-of-the-sun-jg-ballard",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Empire of the Sun, J.G. Ballard (1984). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the rising-sun flag and the burning city, held to a legible depth. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jim": {
+      "name": "Jim",
+      "color": "#2E5064"
+    }
+  }
+}

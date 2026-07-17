@@ -1,0 +1,137 @@
+[
+  {
+    "id": "amherst-avenue-house",
+    "name": "The family house, western suburbs",
+    "progressLabel": "Part One",
+    "character": "jim",
+    "coords": [121.4218, 31.2068],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel places Jim's family in a comfortable villa in Shanghai's western suburbs but gives no address; this marks Amherst Avenue, now off Xinhua Road, where Ballard's own childhood home stood and which the fiction closely follows.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The story opens in the sheltered world of an English business family in the western suburbs: a large house, servants, a chauffeured car, and a boy who cycles the leafy avenues. When the Japanese move in after Pearl Harbour, this settled life collapses and the boy loses his parents in the panic. Ballard drew the household straight from his own upbringing on Amherst Avenue.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Farewell to JG Ballard's home, Shanghailander, on the Amherst Avenue house behind Xinhua Road",
+        "url": "https://shanghailander.net/2010/03/farewell-to-jg-ballards-home/"
+      },
+      {
+        "kind": "guide",
+        "ref": "This is What J.G. Ballard's Boyhood Shanghai Home Looks Like Now, That's Shanghai",
+        "url": "https://www.thatsmags.com/shanghai/post/17820/jg-ballard-shanghai-childhood-home"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-bund",
+    "name": "The Bund",
+    "progressLabel": "Part One",
+    "character": "jim",
+    "coords": [121.4903, 31.2371],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Bund is named in the book; this marks the historic waterfront promenade along the Huangpu River in the former International Settlement.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The riverfront boulevard of banks and hotels is where the foreign city meets the Huangpu. In the days around the attack the boy watches Japanese warships take the harbour and sees the flooded, corpse-strewn river that the war leaves behind, the grand facades now backed by an occupied city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bund, Wikipedia, on the Shanghai waterfront in the International Settlement",
+        "url": "https://en.wikipedia.org/wiki/The_Bund"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nanking-road",
+    "name": "Nanking Road",
+    "progressLabel": "Part One",
+    "character": "jim",
+    "coords": [121.478, 31.2354],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nanking Road is named in the book; this marks the eastern commercial stretch, today's East Nanjing Road, running inland from the Bund.",
+    "reference": "Part One",
+    "order": 3,
+    "note": "The great shopping street of the Settlement, lined with department stores and neon, runs west from the river into the heart of the foreign city. In the empty, looted Shanghai that follows the takeover the boy roams these streets alone, scavenging in abandoned flats while the ordinary world he knew disappears.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nanjing Road, Wikipedia, on the Settlement's main commercial street",
+        "url": "https://en.wikipedia.org/wiki/Nanjing_Road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanghai-racecourse",
+    "name": "The Shanghai Racecourse",
+    "progressLabel": "Part Two",
+    "character": "jim",
+    "coords": [121.474, 31.2312],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The racecourse is named in the book; this marks the old Shanghai Race Club oval, cleared after the war to become today's People's Square and People's Park.",
+    "reference": "Part Two",
+    "order": 4,
+    "note": "The colonial racecourse, a vast green oval in the middle of the city, is turned by the war into a grim holding ground. Captured civilians are herded and sorted here, its grandstand and open turf repurposed by the occupiers before prisoners are moved out to the camps. The site is now People's Square.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Shanghai Race Club, Wikipedia, on the racecourse later cleared for People's Square and People's Park",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Race_Club"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lunghua-pagoda-airfield",
+    "name": "Lunghua pagoda and airfield",
+    "progressLabel": "Part Two",
+    "character": "jim",
+    "coords": [121.4498, 31.171],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lunghua's pagoda and airfield are named in the book; this point sits between the Longhua (Lunghua) Pagoda and the former Longhua airfield, about three kilometres apart, that frame the boy's view from the camp.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "The ancient brick pagoda and the military airfield beside it dominate the boy's horizon for the rest of the war. He is drawn to the aircraft dispersed across the field, and the pagoda stands as a fixed landmark over the flat, contested ground. Both are real: the Longhua pagoda still stands, and the airfield operated for decades before it was built over.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Longhua Pagoda, Wikipedia, for the pagoda location in Xuhui District",
+        "url": "https://en.wikipedia.org/wiki/Longhua_Pagoda"
+      },
+      {
+        "kind": "guide",
+        "ref": "Shanghai Longhua Airport, Wikipedia, on the wartime airfield beside Longhua",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Longhua_Airport"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lunghua-assembly-centre",
+    "name": "Lunghua Civilian Assembly Centre",
+    "progressLabel": "Part Two",
+    "character": "jim",
+    "coords": [121.4334, 31.1427],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names Lunghua as the camp but does not fix a precise perimeter; this marks the former Kiangsu Middle School campus, now Shanghai High School, that historians identify as the real Lunghua Civilian Assembly Centre where Ballard was interned.",
+    "reference": "Part Two",
+    "order": 6,
+    "note": "The internment camp on a former school campus is where the boy spends the long middle years of the war, scraping by on thin rations, trading and scheming, and attaching himself to the adults around him. As the war ends he sees a white flash on the horizon, the distant Nagasaki bomb, and the camp begins to dissolve. The site drew directly on the real centre where Ballard was held.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lunghua Civilian Assembly Centre, Wikipedia, on the camp site at the former Kiangsu Middle School, now Shanghai High School",
+        "url": "https://en.wikipedia.org/wiki/Lunghua_Civilian_Assembly_Centre"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Assembled children, Lunghua Civilian Assembly Centre, Historical Photographs of China, University of Bristol",
+        "url": "https://hpcbristol.net/visual/to-s17"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
