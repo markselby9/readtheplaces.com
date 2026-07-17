@@ -1,0 +1,127 @@
+[
+  {
+    "id": "riga-the-capital",
+    "name": "Riga, the capital",
+    "progressLabel": "Riga, 1969",
+    "character": "daughter",
+    "coords": [24.1051, 56.9463],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is anchored in Riga, the author's own city and the family's home before the mother's exile; this marks the centre of the Latvian capital.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The daughter is born into a Riga family at the start of the 1970s, under Soviet rule. The capital is where the grandmother keeps a household and where the mother trained as a doctor, and it is the pole the daughter keeps returning to across the years the book covers.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Nora Ikstena, Wikipedia, on the Riga-born author and the setting of Soviet Milk",
+        "url": "https://en.wikipedia.org/wiki/Nora_Ikstena"
+      },
+      {
+        "kind": "guide",
+        "ref": "Riga, GPS coordinates, latitude.to",
+        "url": "https://latitude.to/map/lv/latvia/cities/riga"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vecriga-old-town",
+    "name": "Vecrīga, the Old Town",
+    "progressLabel": "The Old Town",
+    "character": "daughter",
+    "coords": [24.10677, 56.94714],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Riga's historic core is a real, named part of the capital that frames the book; this marks Town Hall Square in Vecrīga, beside the House of the Blackheads.",
+    "reference": "Riga chapters",
+    "order": 2,
+    "note": "The medieval streets of Riga's Old Town stand for the city the daughter knows: cramped Soviet-era life going on among older stone, church spires and squares, a settled European past held under a foreign regime.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "House of the Black Heads, Riga, coordinates in Town Hall Square, latlong.net",
+        "url": "https://www.latlong.net/place/house-of-the-black-heads-riga-latvia-4637.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "Town Hall Square, LiveRiga visitor guide",
+        "url": "https://www.liveriga.com/en/3232-town-hall-square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rural-ambulatory-clinic",
+    "name": "The rural clinic",
+    "progressLabel": "Exile",
+    "character": "daughter",
+    "coords": [24.614, 56.8162],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel does not name the village; the mother is banished to run a country ambulatory clinic, so this sites it at a representative point in the Ogre district countryside east of Riga.",
+    "reference": "Rural clinic chapters",
+    "order": 3,
+    "note": "Punished for defying the regime, the mother is sent from Riga to run a small ambulatory clinic in a Latvian village. The daughter spends much of her childhood here, watching a doctor of real gift wear down in provincial isolation, far from the city she was made for.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Modern Novel, on Soviet Milk and the mother's banishment to a rural clinic",
+        "url": "https://www.themodernnovel.org/europe/europe/latvia/nora-ikstena/soviet-milk/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ogre, Latvia, GPS coordinates east of Riga, latitude.to",
+        "url": "https://latitude.to/map/lv/latvia/cities/ogre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zemgale-dairy-country",
+    "name": "The dairy country",
+    "progressLabel": "The countryside",
+    "character": "daughter",
+    "coords": [23.7128, 56.6511],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The exact village is unnamed and could lie in the Ogre or Jelgava direction; this marks the flat Jelgava dairy plain southwest of Riga as a representative point in the farmland the book describes.",
+    "reference": "Countryside chapters",
+    "order": 4,
+    "note": "Around the clinic lies the ordinary rural Latvia of the era: collective farms, cattle and the low farmland of the Zemgale plain around Jelgava. Milk runs through the whole book, mother's and cow's, and this dairy country is where that thread is most at home.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Soviet Milk review, World Literature Today, on the milk motif and rural Latvian setting",
+        "url": "https://worldliteraturetoday.org/2018/may/soviet-milk-nora-ikstena"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jelgava, Latvia, GPS coordinates southwest of Riga, latitudelongitude.org",
+        "url": "https://latitudelongitude.org/lv/jelgava/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "freedom-monument-riga",
+    "name": "The Freedom Monument, Riga",
+    "progressLabel": "Toward independence",
+    "character": "daughter",
+    "coords": [24.11361, 56.95139],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The monument is not the scene of a named episode; it marks the real Riga landmark that stood for lost Latvian independence throughout the Soviet years the book spans, up to 1989.",
+    "reference": "Closing years, toward 1989",
+    "order": 5,
+    "note": "By the map's final years the occupation is fading and independence is near. Riga's Freedom Monument, raised in the brief interwar republic and pointedly ignored by the regime, marks the nation the daughter's generation would live to see restored.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Freedom Monument, Riga, landmark and coordinates, LiveRiga",
+        "url": "https://www.liveriga.com/en/3232-town-hall-square"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Modern Novel, on Soviet Milk spanning 1969-1989 under Soviet rule",
+        "url": "https://www.themodernnovel.org/europe/europe/latvia/nora-ikstena/soviet-milk/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
