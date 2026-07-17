@@ -1,0 +1,152 @@
+[
+  {
+    "id": "olgii-provincial-centre",
+    "name": "Ölgii, the provincial centre",
+    "progressLabel": "The Altai world",
+    "character": "dshurukuwaa",
+    "coords": [89.9625, 48.9683],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ölgii is a real, named town, the administrative seat of Bayan-Ölgii province; this marks the town centre.",
+    "reference": "Setting: Bayan-Ölgii province",
+    "order": 1,
+    "note": "The reach of the distant state runs through the provincial capital of Bayan-Ölgii in Mongolia's far west. It is from centres like this that the schooling, collectivisation and new rules of the socialist era press outward onto the herding families of the surrounding Altai, the change that shadows the boy's childhood.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Ölgii, GPS coordinates and city information",
+        "url": "https://latitude.to/map/mn/mongolia/cities/olgii"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bayan-Ölgii Province, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bayan-%C3%96lgii_Province"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tsengel-tuvan-district",
+    "name": "Tsengel, the Tuvan district",
+    "progressLabel": "The Altai world",
+    "character": "dshurukuwaa",
+    "coords": [89.1363, 48.9378],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tsengel is a real sum (district) of Bayan-Ölgii and the home of the Tsengel Tuvans; the author comes from this Tuvan community. This marks the district centre, not a specific camp.",
+    "reference": "Setting: the author's Tuvan homeland",
+    "order": 2,
+    "note": "The book grows out of the world of the Tsengel Tuvans, a small Tuvan-speaking herding people in a province that is mostly Kazakh. Galsan Tschinag belongs to this community, and the boy's family, faith and animals are drawn from it. The district anchors the real homeland behind the story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsengel, Bayan-Ölgii, Wikipedia, on the Tsengel Tuvans and the district coordinates",
+        "url": "https://en.wikipedia.org/wiki/Tsengel,_Bayan-%C3%96lgii"
+      },
+      {
+        "kind": "author",
+        "ref": "Galsan Tschinag, Wikipedia, on his Tuvan background in the upper Altai of Bayan-Ölgii",
+        "url": "https://en.wikipedia.org/wiki/Galsan_Tschinag"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "summer-pasture-tsengel-khairkhan",
+    "name": "Summer pasture below Tsengel Khairkhan",
+    "progressLabel": "The herding year",
+    "character": "dshurukuwaa",
+    "coords": [89.2, 48.6833],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The family's high summer grazing is not a pinned location. This is a representative point on the flanks of Tsengel Khairkhan, a real sacred glaciated peak in the Tuvan homeland, standing in for the high pastures of the author's own country.",
+    "reference": "The summer camp in the high mountains",
+    "order": 3,
+    "note": "In the warm months the herds climb to the cool grass high in the mountains, and much of the boy's life unfolds there among the flocks, the yurt and his grandmother. The exact camps move with the seasons and are the author's real homeland rather than a fixed dot, so this sits on the slopes of the sacred peak Tsengel Khairkhan as a representative point in that terrain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsengel Khairkhan, Wikipedia, a glaciated Altai peak of about 3,943 m in Bayan-Ölgii",
+        "url": "https://en.wikipedia.org/wiki/Tsengel_Khairkhan"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative high-summer pasture point in the author's Tuvan Altai homeland; not a surveyed camp location",
+        "url": "https://en.wikipedia.org/wiki/Galsan_Tschinag"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "winter-camp-altai-valley",
+    "name": "Winter camp in a sheltered Altai valley",
+    "progressLabel": "The herding year",
+    "character": "dshurukuwaa",
+    "coords": [89.15, 48.8],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The winter camp is not a pinned location. This is an approximate, representative point in a sheltered valley between the Tsengel district and the sacred peak, standing in for the family's cold-season pastures in the real Altai; it is not a surveyed site.",
+    "reference": "The winter camp in the valleys",
+    "order": 4,
+    "note": "When the cold comes the family drops to lower, sheltered ground for the winter, where the animals must be kept alive through hard weather and loss. These seasonal camps shift year to year across the author's home valleys, so this marks a representative point in that lower Altai country rather than a fixed place.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsengel, Bayan-Ölgii, Wikipedia, for the surrounding Altai district and valleys",
+        "url": "https://en.wikipedia.org/wiki/Tsengel,_Bayan-%C3%96lgii"
+      },
+      {
+        "kind": "inference",
+        "ref": "Representative winter-pasture point in the author's Tuvan Altai homeland; approximate, not a surveyed camp",
+        "url": "https://en.wikipedia.org/wiki/Galsan_Tschinag"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tavan-bogd-khuiten-peak",
+    "name": "Tavan Bogd and Khüiten Peak",
+    "progressLabel": "The high Altai",
+    "character": "dshurukuwaa",
+    "coords": [87.8189, 49.1462],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Khüiten Peak in the Tavan Bogd massif is a real, named summit, the highest point in Mongolia at about 4,374 m, on the Russia-China frontier. This marks the peak itself.",
+    "reference": "Setting: the high peaks of the Altai",
+    "order": 5,
+    "note": "The western wall of the Altai rises to the glaciers of the Tavan Bogd massif and its highest summit, Khüiten Peak, where Mongolia meets Russia and China. These are the great mountains that stand over the whole of the boy's world and give the book its sense of an immense, unmoving country beneath the sky.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Khüiten Peak, Wikipedia, on the highest summit of Mongolia in the Tavan Bogd massif",
+        "url": "https://en.wikipedia.org/wiki/Kh%C3%BCiten_Peak"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tavan Bogd, GPS coordinates and location",
+        "url": "https://latitude.to/articles-by-country/mn/mongolia/64551/tavan-bogd"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tsagaannuur-altai-lake",
+    "name": "Tsagaannuur, on the way to the peaks",
+    "progressLabel": "The high Altai",
+    "character": "dshurukuwaa",
+    "coords": [89.7328, 49.5092],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tsagaannuur is a real, named sum of Bayan-Ölgii in the northern Altai at about 2,115 m; this marks the district centre, used as a representative waypoint in the high country, not a scene pinned in the text.",
+    "reference": "Setting: the northern Altai of Bayan-Ölgii",
+    "order": 6,
+    "note": "North of Ölgii the Altai opens into the high lake basin around Tsagaannuur, closer to the frontier peaks and the herding grounds of the far range. It stands here for the wider real geography of the province the family moves through, the country of grass, water and mountain that frames the boy's early life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tsagaannuur, Bayan-Ölgii, Wikipedia, a northern Altai district at about 2,115 m",
+        "url": "https://en.wikipedia.org/wiki/Tsagaannuur,_Bayan-%C3%96lgii"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tsagaannuur, Bayan-Ölgii, city and coordinate information",
+        "url": "https://en.db-city.com/Mongolia--Bayan-%C3%96lgii--Tsagaannuur"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
