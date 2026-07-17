@@ -1,0 +1,118 @@
+[
+  {
+    "id": "family-farm-wimbe",
+    "name": "The family farm, Wimbe",
+    "progressLabel": "The famine",
+    "character": "william",
+    "coords": [33.6833, -12.9833],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Kamkwamba's account places his family's maize farm at Masitala, a hamlet within the Wimbe area east of Kasungu town. Masitala is not a separately mapped point, so this pins the farm at the verified village of Wimbe.",
+    "reference": "Opening chapters",
+    "order": 1,
+    "note": "The story begins on a smallholding where the family grows maize and tobacco on the Kasungu plateau. When the rains fail and the 2001-02 famine takes hold, the teenage narrator has to leave school because his parents can no longer pay the fees. Hunger on this farm is what sets everything that follows in motion.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wimbe, Kasungu District, on getamap, for the village coordinates",
+        "url": "https://www.getamap.net/maps/malawi/malawi_(general)/_wimbe/"
+      },
+      {
+        "kind": "external",
+        "ref": "Masitala, Wikipedia, on Kamkwamba's home village within Wimbe near Kasungu",
+        "url": "https://en.wikipedia.org/wiki/Masitala"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wimbe-primary-school-library",
+    "name": "Wimbe Primary School library",
+    "progressLabel": "Self-teaching",
+    "character": "william",
+    "coords": [33.6845, -12.9822],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book names the small library attached to the primary school at Wimbe, but no separate coordinate exists for the building; this marks a point within the verified village of Wimbe.",
+    "reference": "Middle chapters",
+    "order": 2,
+    "note": "Out of school and short of food, the narrator keeps studying on his own at the modest community library by the local primary school. A worn textbook on energy, with a picture of a windmill on the cover, gives him the idea that would change his family's life. This little room of donated books is where the plan is born.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "A Young Tinkerer Builds a Windmill, YaleGlobal, on the Wimbe library and the textbook that inspired him",
+        "url": "https://archive-yaleglobal.yale.edu/content/young-tinkerer-builds-windmill-electrifying-nation"
+      },
+      {
+        "kind": "guide",
+        "ref": "Wimbe, Kasungu District, on getamap, for the village coordinates",
+        "url": "https://www.getamap.net/maps/malawi/malawi_(general)/_wimbe/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wimbe-trading-centre",
+    "name": "Wimbe trading centre",
+    "progressLabel": "Scavenging scrap",
+    "character": "william",
+    "coords": [33.6822, -12.9847],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wimbe and its trading centre are named in the book; this marks the commercial heart of the village where the market and scrapyard sit.",
+    "reference": "Building chapters",
+    "order": 3,
+    "note": "The trading centre is the cluster of shops, market stalls and a scrapyard that serves the farming villages around Wimbe. The narrator combs it for a dynamo, tractor parts, bicycle bits and PVC pipe, hauling junk back to the farm to turn into a windmill. It is the hardware store of a place with almost no money.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "The story of the Malawian teen who built a windmill from junk, Face2Face Africa, on Wimbe and the scrap he gathered",
+        "url": "https://face2faceafrica.com/article/the-incredible-story-of-malawian-teen-who-built-a-windmill-from-junk-to-power-his-village"
+      },
+      {
+        "kind": "guide",
+        "ref": "Wimbe, Kasungu District, on getamap, for the village coordinates",
+        "url": "https://www.getamap.net/maps/malawi/malawi_(general)/_wimbe/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kasungu-district-town",
+    "name": "Kasungu, the district town",
+    "progressLabel": "The wider world",
+    "character": "william",
+    "coords": [33.4833, -13.0333],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kasungu is named in the book as the district town; this marks the town centre.",
+    "reference": "Later chapters",
+    "order": 4,
+    "note": "Kasungu is the district town about twenty kilometres west of Wimbe, the nearest place with a proper market, secondary schools and offices. It stands for the larger Malawi beyond the family farm, the town you reach for anything the village cannot supply, and a step on the narrator's path once word of his windmill spreads.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "GPS coordinates of Kasungu, Malawi, latitude.to, for the town centre",
+        "url": "https://latitude.to/map/mw/malawi/cities/kasungu"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lilongwe-capital",
+    "name": "Lilongwe, the capital",
+    "progressLabel": "Recognition",
+    "character": "william",
+    "coords": [33.7873, -13.9669],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lilongwe is named in the book and lies about two hours south of Kasungu, well beyond the farming country the story is set in, so it is marked as an excursion outside the setting.",
+    "reference": "Closing chapters",
+    "order": 5,
+    "note": "Malawi's capital sits roughly two hours' drive south of Kasungu. Once bloggers and reporters pick up the story of the boy and his windmill, the capital becomes the gateway to the world beyond: flights, conferences and a return to formal schooling. It closes the arc that began with a hungry teenager reading in a village library.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "GPS coordinates of Lilongwe, Malawi, latitude.to, for the capital",
+        "url": "https://latitude.to/map/mw/malawi/cities/lilongwe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
