@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cathedral-porch",
+    "name": "The cathedral porch, the Portal del Señor",
+    "progressLabel": "Part One",
+    "character": "cara-de-angel",
+    "coords": [-90.5117, 14.6423],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The capital is never named, but its cathedral is real and unmistakable; this marks the Metropolitan Cathedral on the east side of the central plaza, whose arcaded porch stands in for the novel's Portal del Señor.",
+    "reference": "Part One, chapters 1-2",
+    "order": 1,
+    "note": "The novel opens at night in the arcade beside the cathedral, where the city's beggars bed down. A colonel who torments them is killed there, and the regime seizes on the death to frame two innocent men. The Metropolitan Cathedral on the central plaza anchors the porch Asturias calls the Portal del Señor.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cathedral of Guatemala City, Wikipedia, on the cathedral facing the central plaza",
+        "url": "https://en.wikipedia.org/wiki/Cathedral_of_Guatemala_City"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "El Señor Presidente, Wikipedia, on the setting modelled on Estrada Cabrera's Guatemala City",
+        "url": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plaza-mayor",
+    "name": "The central plaza, Plaza de la Constitución",
+    "progressLabel": "Part One",
+    "character": "cara-de-angel",
+    "coords": [-90.5133, 14.6431],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city is unnamed, but the great plaza ringed by cathedral, palace and arcades is Guatemala City's Plaza Mayor, today the Plaza de la Constitución or Parque Central.",
+    "reference": "Part One",
+    "order": 2,
+    "note": "The plaza is the stage on which the regime performs itself: patrols, informers and the fear that binds the city together. Everything in the book radiates from this square, the historic Plaza Mayor at the heart of Guatemala City.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Plaza de la Constitución, Wikidata, for the central plaza coordinates",
+        "url": "https://www.wikidata.org/wiki/Q6080177"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "El Señor Presidente, Wikipedia, on the unnamed capital drawn from Guatemala City",
+        "url": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "presidential-palace",
+    "name": "The seat of the President",
+    "progressLabel": "Part Two",
+    "character": "cara-de-angel",
+    "coords": [-90.5131, 14.6428],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's palace is a composite of Estrada Cabrera's seats of government rather than one named building; this marks the north side of the plaza, where the Palacio Nacional was later raised in 1939-1943 on the site of earlier government houses.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The unnamed dictator rules by whim from his palace, and his favourite, Miguel Cara de Ángel, carries out errands that shade from charm into cruelty. The seat of power sat on the plaza's north side, where the present National Palace now stands.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "National Palace (Guatemala), Wikipedia, on the palace on the north side of the central plaza",
+        "url": "https://en.wikipedia.org/wiki/National_Palace_(Guatemala)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Manuel Estrada Cabrera, Wikipedia, on the dictatorship the novel draws from",
+        "url": "https://en.wikipedia.org/wiki/Manuel_Estrada_Cabrera"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "penitenciaria-central",
+    "name": "The prison, the Penitenciaría Central",
+    "progressLabel": "Part Two",
+    "character": "cara-de-angel",
+    "coords": [-90.5135, 14.6274],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel's cells and dungeons are unnamed; this marks the Penitenciaría Central, the capital's most feared prison in that era, demolished in the late 1960s and now the Torre de Tribunales site in zona 1.",
+    "reference": "Part Two-Three",
+    "order": 4,
+    "note": "Prisoners disappear into cells where beatings and secret executions are routine, the regime's terror made concrete. The city's real Penitenciaría Central held and shot political prisoners under Estrada Cabrera, and stands behind the novel's dungeons.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Penitenciaría Central de Guatemala, Wikipedia (Spanish), on the zona 1 prison and its political executions",
+        "url": "https://es.wikipedia.org/wiki/Penitenciar%C3%ADa_Central_de_Guatemala"
+      },
+      {
+        "kind": "guide",
+        "ref": "Torre de Tribunales, Mapcarta, for the coordinates of the former penitentiary site",
+        "url": "https://mapcarta.com/W620763490"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-gallito-slums",
+    "name": "The cantinas and slums, El Gallito",
+    "progressLabel": "Part Two",
+    "character": "cara-de-angel",
+    "coords": [-90.5261, 14.6361],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Asturias names no district for the taverns and shanties his poor characters inhabit; this marks Barrio El Gallito in zona 3, by the cemetery and the ravines, as a representative poor quarter of the old capital.",
+    "reference": "Part Two",
+    "order": 5,
+    "note": "Away from the plaza the book moves through cantinas, brothels and shanties where the powerless survive under constant watch. The poor quarters west of the centre, such as El Gallito by the cemetery ravines, stand for this underside of the capital.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Barrio El Gallito, Mapcarta, for the zona 3 neighbourhood coordinates",
+        "url": "https://mapcarta.com/N13203995608"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "El Señor Presidente, Wikipedia, on the city's poor as the novel's chief victims",
+        "url": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cerro-del-carmen-flight",
+    "name": "The edge of the city, Cerro del Carmen",
+    "progressLabel": "Part Three",
+    "character": "cara-de-angel",
+    "coords": [-90.5056, 14.6467],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The flight toward the frontier crosses unnamed mountains; the capital sits in a highland valley ringed by ravines, and this marks Cerro del Carmen at the old city's northeastern edge, where the land breaks toward the mountains, as a representative point for the escape.",
+    "reference": "Part Three",
+    "order": 6,
+    "note": "Late in the book a character tries to slip out of the capital toward the border, a journey over mountain roads that the regime's reach still shadows. Cerro del Carmen marks the edge of the old city, where the streets give way to the ravines and the climb out of the valley begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cerro del Carmen, Mapcarta, for the hill at the northeastern edge of the historic centre",
+        "url": "https://mapcarta.com/36427168"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "El Señor Presidente, Wikipedia, on the flight from the capital in the novel's final part",
+        "url": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

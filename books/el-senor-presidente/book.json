@@ -1,0 +1,34 @@
+{
+  "id": "el-senor-presidente",
+  "title": "El Señor Presidente",
+  "author": "Miguel Ángel Asturias",
+  "published": 1946,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-90.513, 14.641],
+  "zoom": 13,
+  "setting": {
+    "city": "Guatemala City",
+    "country": "GT",
+    "note": "Asturias never names the capital, but its cathedral, its central plaza and the presidential palace on the plaza's edge make it unmistakably Guatemala City, drawn from the dictatorship of Manuel Estrada Cabrera in the early 1900s. The map runs from the cathedral porch where beggars shelter, across the plaza to the seat of power, down to the prison and the poor quarters, and out to the hill where the land breaks toward the mountains and the border.",
+    "bbox": [-90.56, 14.58, -90.47, 14.68]
+  },
+  "rights": {
+    "originalWork": "In copyright in many territories. Miguel Ángel Asturias, first published 1946. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/El_Se%C3%B1or_Presidente",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "El Señor Presidente, Miguel Ángel Asturias (1946). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The dried blood-red of a police state's terror. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "cara-de-angel": {
+      "name": "Miguel Cara de Ángel",
+      "color": "#2E5064"
+    }
+  }
+}
