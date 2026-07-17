@@ -1,0 +1,128 @@
+[
+  {
+    "id": "lispenard-street-apartment",
+    "name": "The Lispenard Street apartment",
+    "progressLabel": "Part One",
+    "character": "jude",
+    "coords": [-74.0049, 40.7206],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel names Lispenard Street in TriBeCa as the site of the first shared apartment, but not a verifiable building; this marks a mid-block point on the real street.",
+    "reference": "Part One",
+    "order": 1,
+    "note": "The four friends start out broke in a cramped, badly kept walk-up on Lispenard Street, the young men's first real home in the city and the setting for the early friendship between Jude and Willem. Yanagihara pins it to this short TriBeCa street between Church Street and Broadway.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, A Little Life, mapping the novel's New York locations including Lispenard Street",
+        "url": "https://www.thebooktrail.com/book-trails/a-little-life/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lispenard Street, Wikipedia, for the TriBeCa street's location and extent",
+        "url": "https://en.wikipedia.org/wiki/Lispenard_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "greene-street-loft",
+    "name": "The Greene Street loft",
+    "progressLabel": "Part Three",
+    "character": "jude",
+    "coords": [-74.0016, 40.724],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book fixes the grand loft on Greene Street in SoHo but gives no verifiable address; this marks a representative point on the real, cast-iron stretch of the street.",
+    "reference": "Part Three",
+    "order": 2,
+    "note": "As Jude's law career takes off, he buys and slowly makes over a large loft on Greene Street in SoHo, the apartment that becomes the emotional centre of the later book and the home he and Willem eventually share. It is designed, in part, around the difficulty of his own body.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, A Little Life, on the Greene Street loft in SoHo",
+        "url": "https://www.thebooktrail.com/book-trails/a-little-life/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Greene Street and the SoHo Cast Iron Historic District, Wikipedia, for the street's location",
+        "url": "https://en.wikipedia.org/wiki/SoHo,_Manhattan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "washington-square-nyu",
+    "name": "Washington Square and NYU",
+    "progressLabel": "Part Two",
+    "character": "jude",
+    "coords": [-73.9973, 40.7308],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Washington Square and the surrounding NYU area are named in the novel; this marks the park at the heart of the district.",
+    "reference": "Part Two",
+    "order": 3,
+    "note": "The friends' Greenwich Village years turn on Washington Square and the NYU blocks around it, where Jude studies and the group's student life plays out before careers pull them apart. The park anchors the map's northern, university end.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, A Little Life, on the Washington Square and NYU settings",
+        "url": "https://www.thebooktrail.com/book-trails/a-little-life/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Washington Square Park, Wikipedia, for the park's coordinates",
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-courts",
+    "name": "The downtown courts",
+    "progressLabel": "Part Three",
+    "character": "jude",
+    "coords": [-74.0021, 40.7141],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Jude's firm and his court appearances are placed in downtown Manhattan without a named building; this marks Foley Square, the cluster of civil and federal courthouses where such litigation is heard.",
+    "reference": "Part Three",
+    "order": 4,
+    "note": "Jude rises to become a formidable litigator at a corporate law firm, and much of his adult identity is bound up in the courtrooms and offices of Lower Manhattan. The courthouses around Foley Square stand in for the downtown legal world he moves through.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, A Little Life, on Jude's downtown legal career",
+        "url": "https://www.thebooktrail.com/book-trails/a-little-life/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Foley Square, Wikipedia, for the location of Manhattan's courthouse district",
+        "url": "https://en.wikipedia.org/wiki/Foley_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "upstate-country-house",
+    "name": "The house upstate",
+    "progressLabel": "Part Four",
+    "character": "jude",
+    "coords": [-73.9476, 41.3812],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The weekend house sits upstate along the Hudson without a verifiable town, so this marks a representative point in the valley near Garrison; it lies outside the book's New York City setting on purpose.",
+    "reference": "Part Four",
+    "order": 5,
+    "note": "Away from the city, Willem's weekend house upstate gives the friends a place of quiet and rare safety, a retreat where some of the book's gentler scenes unfold. The novel keeps it in the Hudson Valley without naming a town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Book Trail, A Little Life, on the upstate weekend house",
+        "url": "https://www.thebooktrail.com/book-trails/a-little-life/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Garrison, New York, Wikipedia, for a representative Hudson Valley location",
+        "url": "https://en.wikipedia.org/wiki/Garrison,_New_York"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
