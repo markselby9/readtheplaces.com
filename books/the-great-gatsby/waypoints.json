@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "id": "west-egg-great-neck",
+    "name": "West Egg (Great Neck)",
+    "progressLabel": "Chapter 1",
+    "character": "gatsby",
+    "coords": [-73.7351, 40.8198],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "West Egg is Fitzgerald's invented name for the real Great Neck peninsula, and specifically Kings Point at its tip, the new-money enclave where Nick rents a cottage beside Gatsby's mansion. The pin marks Kings Point, on the western side of Manhasset Bay. The Eggs and the mansion are fiction; the peninsula is real, and Fitzgerald lived there in 1922-23.",
+    "quoteAnchor": "I lived at West Egg, the",
+    "passage": "I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season.",
+    "note": "The less fashionable of the two peninsulas, where the newly rich build their mansions. Nick's rented cottage is wedged against Gatsby's, at the very tip fifty yards from the Sound. Fitzgerald drew West Egg from Great Neck, the Kings Point end where he was living when he began the novel.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 1",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kings Point and Great Neck, Nassau County, Long Island, the model for West Egg",
+        "url": "https://en.wikipedia.org/wiki/Kings_Point,_New_York"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "east-egg-sands-point",
+    "name": "East Egg (Sands Point)",
+    "progressLabel": "Chapter 1",
+    "character": "nick",
+    "coords": [-73.7187, 40.8518],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "East Egg is Fitzgerald's name for the real Sands Point peninsula, the old-money shore across Manhasset Bay from Great Neck, where the Buchanans keep their Georgian Colonial mansion. The pin marks Sands Point. The name and the house are fiction; the peninsula and its Gold Coast estates are real.",
+    "quoteAnchor": "the white palaces of fashionable East Egg",
+    "passage": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.",
+    "note": "The fashionable peninsula, the old money, glittering across the water from Nick's window. Daisy and Tom Buchanan live here, and the whole story turns on the short drive over for dinner. Fitzgerald modelled East Egg on Sands Point, the Gold Coast shore facing Great Neck.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 1",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sands Point, Nassau County, Long Island, the model for East Egg",
+        "url": "https://en.wikipedia.org/wiki/Sands_Point,_New_York"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "valley-of-ashes-corona",
+    "name": "The valley of ashes (Corona, Queens)",
+    "progressLabel": "Chapter 2",
+    "character": "nick",
+    "coords": [-73.848, 40.747],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The valley of ashes is drawn from the real Corona ash dumps in Queens, the vast refuse and ash heaps that lay along the Flushing River between Long Island and Manhattan, passed on the road and railway into the city. The pin marks that ground, now Flushing Meadows-Corona Park. The dumps were real; Doctor Eckleburg's billboard is Fitzgerald's invention.",
+    "quoteAnchor": "The valley of ashes is bounded on one side by a small foul river",
+    "passage": "The valley of ashes is bounded on one side by a small foul river, and, when the drawbridge is up to let barges through, the passengers on waiting trains can stare at the dismal scene for as long as half an hour.",
+    "note": "The grey wasteland every traveller crosses between the Eggs and the city, overlooked by the faded eyes of Doctor T. J. Eckleburg on their billboard. Fitzgerald took it straight from the Corona ash dumps, the mountains of cinders piled beside the railway in Queens, since levelled and buried under the park that holds Citi Field and the tennis center.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 2",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Corona ash dumps, now Flushing Meadows-Corona Park, Queens",
+        "url": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "myrtles-flat-158th-street",
+    "name": "Myrtle's flat, 158th Street",
+    "progressLabel": "Chapter 2",
+    "character": "nick",
+    "coords": [-73.946, 40.834],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Fitzgerald names the street but no number: the cab stops at 158th Street in the West Hundreds of upper Manhattan, where Tom keeps a flat for his mistress. The pin marks 158th Street near Broadway; the particular apartment-house is fiction.",
+    "quoteAnchor": "At 158th Street the cab stopped",
+    "passage": "At 158th Street the cab stopped at one slice in a long white cake of apartment-houses. Throwing a regal homecoming glance around the neighbourhood, Mrs. Wilson gathered up her dog and her other purchases, and went haughtily in.",
+    "note": "The love nest Tom keeps for Myrtle Wilson, one slice in a long white cake of apartment-houses far up in the West Hundreds. Nick is dragged along to the drunken party in the crowded little top-floor rooms, the one afternoon he sees Tom's double life close up.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 2",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "guide",
+        "ref": "West 158th Street, Washington Heights, Manhattan",
+        "url": "https://en.wikipedia.org/wiki/Washington_Heights,_Manhattan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "queensboro-bridge",
+    "name": "The Queensboro Bridge",
+    "progressLabel": "Chapter 4",
+    "character": "gatsby",
+    "coords": [-73.9527, 40.7542],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The city seen from the Queensboro Bridge is always",
+    "passage": "Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money. The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.",
+    "note": "Gatsby drives Nick over the bridge into Manhattan, past Blackwell's Island, the city rising in white heaps and sugar lumps across the river. Fitzgerald names the real Queensboro Bridge, opened in 1909, the crossing from Queens into midtown that made anything seem possible.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 4",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Queensboro Bridge (Ed Koch Queensboro Bridge), opened 1909, Queens to Manhattan",
+        "url": "https://en.wikipedia.org/wiki/Queensboro_Bridge"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-plaza-hotel",
+    "name": "The Plaza Hotel",
+    "progressLabel": "Chapter 7",
+    "character": "gatsby",
+    "coords": [-73.9744, 40.7645],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the parlour of a suite in the Plaza Hotel",
+    "passage": "But they didn't. And we all took the less explicable step of engaging the parlour of a suite in the Plaza Hotel.",
+    "note": "The climax. On the hottest day of the summer the party takes a suite at the Plaza, and in that stifling room Gatsby and Tom force the quarrel that breaks Daisy. Fitzgerald names the real hotel, opened in 1907 at Fifth Avenue and Central Park South, still standing on Grand Army Plaza.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Great Gatsby, ch. 7",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Plaza Hotel, 768 Fifth Avenue at Central Park South, Manhattan (opened 1907)",
+        "url": "https://en.wikipedia.org/wiki/Plaza_Hotel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

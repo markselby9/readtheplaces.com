@@ -4,20 +4,38 @@
   "author": "F. Scott Fitzgerald",
   "published": 1925,
   "orderingKey": "chapter",
-  "center": [-73.978, 40.756],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-73.855, 40.8],
+  "zoom": 11.2,
   "setting": {
-    "city": "New York",
+    "city": "Long Island",
     "country": "US",
-    "note": "West Egg and East Egg are invented, the Valley of Ashes is Corona, and the Plaza is the Plaza. A book that will exercise inspired_by harder than any other on this list.",
+    "note": "The summer of 1922 on the North Shore of Long Island and in Manhattan. West Egg and East Egg are Fitzgerald's names for the real Great Neck (Kings Point) and Sands Point peninsulas, facing each other across Manhasset Bay. The valley of ashes is the Corona ash dumps in Queens, passed on the road and railway into the city under the eyes of Doctor T. J. Eckleburg. The Plaza is the Plaza. A book that exercises inspired_by harder than any other on this list.",
     "bbox": [-74.259, 40.477, -73.7, 40.918]
   },
   "rights": {
-    "originalWork": "TODO: confirm. F. Scott Fitzgerald published this in 1925.",
+    "originalWork": "Public domain. F. Scott Fitzgerald, first published 1925; the author died in 1940.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "F. Scott Fitzgerald, The Great Gatsby (1925)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/64317",
+    "territoryNotes": "Public domain in the United States (published 1925, entered the US public domain in 2021), and in the United Kingdom and the European Union, where the author died more than 70 years ago (1940).",
+    "attribution": "F. Scott Fitzgerald, The Great Gatsby (1925). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "a single green light",
+    "note": "The green light at the end of Daisy's dock, the one thing Gatsby watches across the bay. A colour drawn straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "gatsby": {
+      "name": "Jay Gatsby",
+      "color": "#8A6A12",
+      "colorSourceQuote": "the gold hat"
+    },
+    "nick": {
+      "name": "Nick Carraway",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "the grey land"
+    }
   }
 }
