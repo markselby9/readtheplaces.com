@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "zam-zammah-lahore-museum",
+    "name": "Zam-Zammah, outside the Lahore Museum",
+    "progressLabel": "Chapter 1: Lahore",
+    "character": "kim",
+    "coords": [74.308, 31.5679],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great bronze gun stands on its platform on the Mall opposite the Lahore Museum, both named in the first sentence and both still there. Kipling's own father, John Lockwood Kipling, curated the museum, the Wonder House of the novel.",
+    "quoteAnchor": "astride the gun Zam Zammah on",
+    "passage": "He sat, in defiance of municipal orders, astride the gun Zam Zammah on her brick platform opposite the old Ajaib-Gher—the Wonder House, as the natives call the Lahore Museum.",
+    "note": "The book opens here, with an orphan boy perched on the conqueror's cannon outside the museum his creator's father ran. Inside, Kim meets the lama and becomes his disciple. The gun and the museum are the fixed real points from which everything else fans out along the road.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 1, opening",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Lahore Museum and the Zamzama gun, The Mall, Lahore, Pakistan",
+        "url": "https://en.wikipedia.org/wiki/Lahore_Museum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "umballa-mahbub-ali-message",
+    "name": "Umballa: the spy's message delivered",
+    "progressLabel": "Chapter 3: Umballa",
+    "character": "kim",
+    "coords": [76.7767, 30.3782],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Umballa is the real cantonment town of Ambala in Haryana, a hub of British India. Kim reaches Umballa City Station by rail and finds the officer's bungalow there; the house is unnamed but the town is explicit.",
+    "quoteAnchor": "Kim flipped the wad of folded paper into the air",
+    "passage": "“Mahbub Ali has given me this proof.” Kim flipped the wad of folded paper into the air, and it fell in the path beside the man, who put his foot on it as a gardener came round the corner.",
+    "note": "Carrying Mahbub Ali's coded note about the five kings of the north, Kim slips into an officer's garden at Umballa and drops the paper at his feet. Lying in the grass, he hears it turn into a war order. His first move in the Great Game, and the reason the Secret Service later takes him up.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 3, at Umballa",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ambala (Umballa), Haryana, India",
+        "url": "https://en.wikipedia.org/wiki/Ambala"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grand-trunk-road-river-of-life",
+    "name": "The Grand Trunk Road, the river of life",
+    "progressLabel": "Chapter 4: the Great Road",
+    "character": "lama",
+    "coords": [76.9905, 29.6857],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Grand Trunk Road is real and named in the book, but this scene fixes no town along it. The pin marks a representative stretch of the historic road near Karnal, south of Umballa on the way Kim and the lama travel.",
+    "quoteAnchor": "such a river of life as nowhere else exists in the world",
+    "passage": "And truly the Grand Trunk Road is a wonderful spectacle. It runs straight, bearing without crowding India’s traffic for fifteen hundred miles—such a river of life as nowhere else exists in the world.",
+    "note": "Off the Grand Trunk Road Kim and the lama join the great procession of all India, priests and soldiers and bankers and thieves moving between the plains and the hills. Kipling makes the road itself a character, the green-arched artery down which the whole book flows.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 4, on the Grand Trunk Road",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "guide",
+        "ref": "Grand Trunk Road, one of Asia's oldest and longest major roads",
+        "url": "https://en.wikipedia.org/wiki/Grand_Trunk_Road"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lower-simla-bazar",
+    "name": "The lower Simla bazar",
+    "progressLabel": "Chapter 8: Simla",
+    "character": "kim",
+    "coords": [77.1734, 31.1046],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Simla is the real hill station of Shimla, India's summer capital under the Raj and the hub of the Great Game in the book. The lower bazar climbing to the Town Hall is a real quarter of the town.",
+    "quoteAnchor": "the lower Simla bazar",
+    "passage": "He led the horses below the main road into the lower Simla bazar—the crowded rabbit-warren that climbs up from the valley to the Town Hall at an angle of forty-five.",
+    "note": "Mahbub Ali brings Kim up to Simla to be trained for the Secret Service under Lurgan Sahib. The tangled bazar climbing the hillside, where a man who knows his way can lose all the police of India, is the book's school for spies.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 8, at Simla",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "guide",
+        "ref": "Shimla (Simla), Himachal Pradesh, the summer capital of British India",
+        "url": "https://en.wikipedia.org/wiki/Shimla"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tirthankars-temple-benares",
+    "name": "The Temple of the Tirthankars, Benares",
+    "progressLabel": "Chapter 9: Benares",
+    "character": "lama",
+    "coords": [83.022, 25.383],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book places the Jain temple about a mile outside Benares (Varanasi) near Sarnath. There is a real Digambar Jain temple at Singhpuri in Sarnath, marking the birthplace of the eleventh Tirthankara; the pin is there.",
+    "quoteAnchor": "Temple of the Tirthankars, about a mile outside the city, near Sarnath",
+    "passage": "Kim was guided to the Temple of the Tirthankars, about a mile outside the city, near Sarnath, by a chance-met Punjabi farmer—a Kamboh from Jullundur-way who had appealed in vain to every God of his homestead to cure his small son.",
+    "note": "The lama's refuge in the holy city, where the Jain priests keep him and where he pores over his Wheel of Life. It is the fixed address at the far, eastern end of the book's world, a mile out toward Sarnath where the Buddha first preached.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 9, at Benares",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Shri Digambar Jain (Shreyansnath) Temple, Singhpuri, Sarnath, Varanasi",
+        "url": "https://en.wikipedia.org/wiki/Sarnath_Jain_Tirth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "siwaliks-foothills-the-search",
+    "name": "The Siwalik foothills, below the snows",
+    "progressLabel": "Chapter 14: the foothills",
+    "character": "lama",
+    "coords": [77.95, 30.2],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Siwalik range is real, the outermost Himalayan foothills. The book names only invented villages here, with the Siwaliks to the north and the snows behind; the pin marks the range near the Doon, the country the passage describes.",
+    "quoteAnchor": "the line of the Siwaliks always to the north",
+    "passage": "So they travelled very easily across and among the broad bloomful fruit-gardens—by way of Aminabad, Sahaigunge, Akrola of the Ford, and little Phulesa—the line of the Siwaliks always to the north, and behind them again the snows.",
+    "note": "Back down from the high hills, the lama wanders the foothill country under the Siwaliks still seeking his River of the Arrow. Here the book turns from the Great Game to his search for release, the mountains at his shoulder and the snows beyond.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kim, Chapter 14, in the foothills",
+        "url": "https://www.gutenberg.org/ebooks/2226"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sivalik Hills, the outermost foothills of the Himalayas",
+        "url": "https://en.wikipedia.org/wiki/Sivalik_Hills"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

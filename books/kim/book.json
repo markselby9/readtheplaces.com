@@ -4,20 +4,38 @@
   "author": "Rudyard Kipling",
   "published": 1901,
   "orderingKey": "chapter",
-  "center": [74.3142, 31.5657],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [78.5, 29.0],
+  "zoom": 5,
   "setting": {
     "city": "Lahore",
     "country": "PK",
-    "note": "It opens on the gun Zam-Zammah outside the Lahore Museum, both of which are still there, and then walks the length of the Grand Trunk Road. A test of whether this works outside Europe, where Street View is thin and historical layers are thinner.",
-    "bbox": [74.154, 31.406, 74.474, 31.726]
+    "note": "It opens on the gun Zam-Zammah outside the Lahore Museum, both still there, then walks the Grand Trunk Road the length of northern India. The anchor city is Lahore, now in Pakistan; the road and the Great Game carry the book east to Benares and north into the Himalayan foothills, so the bounding box spans the whole run from the Punjab to the Ganges.",
+    "bbox": [73.9, 25.0, 83.4, 32.0]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Rudyard Kipling published this in 1901.",
+    "originalWork": "Public domain. Rudyard Kipling, first published 1901; the author died in 1936.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/rudyard-kipling/kim",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Rudyard Kipling, Kim (1901)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2226",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1936).",
+    "attribution": "Rudyard Kipling, Kim (1901). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "green-arched",
+    "note": "The green-arched length of the Grand Trunk Road, the river of life that carries the whole book, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "kim": {
+      "name": "Kim (Kimball O'Hara)",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "Red Bull on a green field"
+    },
+    "lama": {
+      "name": "The Teshoo Lama",
+      "color": "#8A6A12",
+      "colorSourceQuote": "yellow robe"
+    }
   }
 }
