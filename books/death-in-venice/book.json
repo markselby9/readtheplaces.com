@@ -1,23 +1,39 @@
 {
   "id": "death-in-venice",
   "title": "Death in Venice",
+  "titleOriginal": "Der Tod in Venedig",
   "author": "Thomas Mann",
   "published": 1912,
   "orderingKey": "chapter",
-  "center": [12.3105, 45.4046],
+  "sourcing": "cited",
+  "center": [12.355, 45.423],
   "zoom": 12.5,
   "setting": {
     "city": "Venice",
     "country": "IT",
-    "note": "The Lido, the lagoon, and an Asiatic cholera the city hushes up to protect the season. Short enough to do properly, and the geography is a single hotel and the water in front of it.",
+    "note": "An ageing German writer travels south for rest and is caught by the beauty of a boy he never speaks to, staying on as a cholera the city hushes up spreads through the summer. The map crosses the lagoon from the San Marco waterfront to the Lido, the barrier island of grand hotels and sea baths, and back into the sultry, sirocco-laden alleys of the old city.",
     "bbox": [12.167, 45.231, 12.597, 45.578]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Thomas Mann published this in 1912.",
-    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/death-in-venice/h-t-lowe-porter",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Thomas Mann, Death in Venice (1912)."
+    "originalWork": "In copyright. Thomas Mann, first published 1912. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Death_in_Venice",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Death in Venice, Thomas Mann (1912). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The grey-green of the lagoon under a sirocco sky, the water Aschenbach crosses and never leaves. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "aschenbach": {
+      "name": "Gustav von Aschenbach",
+      "color": "#4A4A4A"
+    },
+    "tadzio": {
+      "name": "Tadzio",
+      "color": "#8A2B1E"
+    }
   }
 }

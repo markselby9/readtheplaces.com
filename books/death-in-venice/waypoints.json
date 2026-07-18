@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "san-marco-basin-arrival",
+    "name": "The San Marco waterfront",
+    "progressLabel": "Chapter 3",
+    "character": "aschenbach",
+    "coords": [12.34, 45.4325],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The steamer from Pola puts the traveller ashore at the San Marco basin; the novel does not fix a berth, so this marks the Molo and Piazzetta waterfront where passengers landed before transferring to a gondola.",
+    "reference": "Chapter 3",
+    "order": 1,
+    "note": "Aschenbach reaches the city by sea, the steamer sliding in past the campanile and the domes to the crowded quay before San Marco. It is his first sight of Venice from the water, already tinged with the unease that will follow him ashore.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Piazza San Marco, Wikipedia, on the Molo and the San Marco waterfront",
+        "url": "https://en.wikipedia.org/wiki/Piazza_San_Marco"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, plot and setting on the Lido and the lagoon crossing",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gondola-crossing-lagoon",
+    "name": "The gondola across the lagoon",
+    "progressLabel": "Chapter 3",
+    "character": "aschenbach",
+    "coords": [12.355, 45.422],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The crossing from San Marco to the Lido runs across open lagoon; no exact line is given, so this marks a representative point on the water between the two shores.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "A silent, unlicensed boatman rows Aschenbach over the lagoon to the Lido in a black gondola he compares to a coffin, refusing to be turned back. The short passage over the water reads as an omen, ferrying the traveller toward the island where he will stay.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, on the gondola crossing to the Lido",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lido di Venezia, Wikipedia, on the barrier island and its relation to the lagoon",
+        "url": "https://en.wikipedia.org/wiki/Lido"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hotel-des-bains-lido",
+    "name": "The Hotel des Bains, Lido",
+    "progressLabel": "Chapter 3",
+    "character": "aschenbach",
+    "coords": [12.37472, 45.41333],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mann sets the story at the Grand Hotel des Bains on the Lido, where he had stayed; the coordinates mark the real building on the Lungomare Marconi, now closed.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "Aschenbach takes a room at the grand seafront hotel on the Lido, its terraces and dining room the stage for his first sightings of the Polish family. The Hotel des Bains was a real palace of the belle-epoque resort; Mann lodged there himself, and it has stood empty since the hotel closed.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Grand Hotel des Bains, Wikipedia, on the hotel and its coordinates on the Lido",
+        "url": "https://en.wikipedia.org/wiki/Grand_Hotel_des_Bains"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, on the Hotel des Bains as the novel's setting",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lido-beach",
+    "name": "The Lido beach",
+    "progressLabel": "Chapter 4",
+    "character": "tadzio",
+    "coords": [12.3762, 45.4123],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places the beach scenes on the Lido sands in front of the hotel; this marks the Adriatic shore immediately seaward of the Hotel des Bains bathing establishment.",
+    "reference": "Chapter 4",
+    "order": 4,
+    "note": "From a hooded beach chair on the Lido sands Aschenbach spends his days watching Tadzio play at the water's edge, the boy's beauty becoming the fixed centre of his summer. The same stretch of shore holds the novel's end, when the writer collapses in his chair while the boy wades out toward the sea.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, on the Lido beach scenes and the closing chapter",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lido di Venezia, Wikipedia, on the Adriatic beaches of the island",
+        "url": "https://en.wikipedia.org/wiki/Lido"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "piazza-san-marco",
+    "name": "Piazza San Marco",
+    "progressLabel": "Chapter 5",
+    "character": "tadzio",
+    "coords": [12.338, 45.434],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mann names the Piazza San Marco, where Aschenbach trails the family among the crowds; the coordinates mark the square before the basilica.",
+    "reference": "Chapter 5",
+    "order": 5,
+    "note": "Crossing from the Lido to the old city, Aschenbach shadows Tadzio and his family through the great square before San Marco, past the cafe orchestras and the pigeons. The sweetish smell of disinfectant hangs over the crowds as the authorities keep silent about the spreading sickness.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, on the pursuit through Venice and the cholera",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      },
+      {
+        "kind": "guide",
+        "ref": "St Mark's Basilica, Wikipedia, on the basilica and the Piazza San Marco",
+        "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "venice-alleys-cholera",
+    "name": "The alleys of the old city",
+    "progressLabel": "Chapter 5",
+    "character": "aschenbach",
+    "coords": [12.3365, 45.4355],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The pursuit winds through unnamed calli between San Marco and the Rialto; no single street is fixed, so this marks a representative point on the Mercerie, the narrow shopping alleys that thread the sestiere.",
+    "reference": "Chapter 5",
+    "order": 6,
+    "note": "Aschenbach follows the family deeper into the maze of bridges and narrow calli, the sirocco pressing down and the canals breathing their heavy air. Here the hushed-up epidemic and his own fever run together; a clerk finally confirms the cholera, but he will not warn the family and leave.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Death in Venice, Wikipedia, on the wanderings through the city and the concealed epidemic",
+        "url": "https://en.wikipedia.org/wiki/Death_in_Venice"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mercerie, Venice, Wikipedia, on the alleys linking San Marco and the Rialto",
+        "url": "https://en.wikipedia.org/wiki/Mercerie,_Venice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
