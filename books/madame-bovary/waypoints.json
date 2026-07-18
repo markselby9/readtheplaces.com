@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "tostes-charles-first-practice",
+    "name": "Tostes (Tôtes)",
+    "progressLabel": "Part One, Tostes",
+    "character": "charles",
+    "coords": [1.0478, 49.6794],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Tostes\" is Flaubert's older spelling of the real village of Tôtes, on the high road between Rouen and Dieppe, where he settles Charles's first medical practice. The commune still exists under the modern spelling.",
+    "quoteAnchor": "To Tostes, where there was only one old",
+    "passage": "Where should he go to practice? To Tostes, where there was only one old doctor. For a long time Madame Bovary had been on the look-out for his death, and the old fellow had barely been packed off when Charles was installed, opposite his place, as his successor.",
+    "note": "Charles takes over the dead doctor's practice at Tostes and brings Emma here after their wedding. Her boredom in this small Norman town, and the ball at Vaubyessard that shows her a grander life, is what drives the couple to leave for Yonville.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part One, Chapter One",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tôtes, Seine-Maritime, Normandy; commune on the Rouen–Dieppe road",
+        "url": "https://en.wikipedia.org/wiki/T%C3%B4tes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "yonville-labbaye-ry",
+    "name": "Yonville-l'Abbaye (Ry)",
+    "progressLabel": "Part Two, Yonville",
+    "character": "emma",
+    "coords": [1.3444, 49.4719],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Yonville-l'Abbaye is Flaubert's invention, but readers have long identified it with the real village of Ry, east of Rouen, whose single long street, church, and inn match his description. The pin marks Ry.",
+    "quoteAnchor": "is a market-town twenty-four miles from Rouen",
+    "passage": "Yonville-l’Abbaye (so called from an old Capuchin abbey of which not even the ruins remain) is a market-town twenty-four miles from Rouen, between the Abbeville and Beauvais roads, at the foot of a valley watered by the Rieule, a little river that runs into the Andelle after turning three water-mills near its mouth.",
+    "note": "The Bovarys move to Yonville hoping the change will settle Emma. It is here that she meets Léon at the inn, takes Rodolphe as a lover, and runs up the debts that will ruin her. Flaubert drew the dull one-street town from Ry, a few miles east of Rouen.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part Two, Chapter One",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ry, Seine-Maritime, Normandy; the village widely identified as Flaubert's Yonville",
+        "url": "https://en.wikipedia.org/wiki/Ry,_Seine-Maritime"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "les-comices-agricultural-show",
+    "name": "The agricultural show, Yonville (Ry)",
+    "progressLabel": "Part Two, the show",
+    "character": "emma",
+    "coords": [1.3455, 49.4713],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Comices agricole is staged in the square before the church and town hall of Yonville, Flaubert's Ry. The pin marks Ry's church square. The event and its speeches are invented; the setting is the real village.",
+    "quoteAnchor": "At last it came, the famous agricultural show.",
+    "passage": "At last it came, the famous agricultural show. On the morning of the solemnity all the inhabitants at their doors were chatting over the preparations. The pediment of the town hall had been hung with garlands of ivy; a tent had been erected in a meadow for the banquet.",
+    "note": "At the agricultural show Rodolphe murmurs seductions to Emma while, below the window, officials bawl out prizes for manure and livestock. Flaubert cuts between the two, the bathos of the counter-jumping and the swelling romance, in the novel's most famous set-piece.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part Two, Chapter Eight",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ry, Seine-Maritime, Normandy; the square and mairie of Flaubert's Yonville",
+        "url": "https://en.wikipedia.org/wiki/Ry,_Seine-Maritime"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rouen-cathedral",
+    "name": "Rouen Cathedral",
+    "progressLabel": "Part Three, Rouen",
+    "character": "emma",
+    "coords": [1.095, 49.4402],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great cathedral of Rouen is named in the text (the porch of Notre Dame) and still stands exactly as described.",
+    "quoteAnchor": "went slowly towards the porch of Notre Dame",
+    "passage": "He read an old fashion journal, went out, smoked a cigar, walked up three streets, thought it was time, and went slowly towards the porch of Notre Dame.",
+    "note": "Léon waits for Emma at the cathedral, meaning to hand her a letter breaking things off. A zealous verger insists on showing them the tombs and the spire until Léon, exasperated, drags her out to a waiting cab, and the affair begins in earnest.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part Three, Chapter One",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Rouen Cathedral (Cathédrale Notre-Dame de Rouen), Seine-Maritime",
+        "url": "https://en.wikipedia.org/wiki/Rouen_Cathedral"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-closed-cab-rouen",
+    "name": "The closed cab, before the statue of Pierre Corneille",
+    "progressLabel": "Part Three, the cab",
+    "character": "emma",
+    "coords": [1.0968, 49.4392],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The route is traced through named, real Rouen streets and bridges; the pin marks the statue of Pierre Corneille on the quay by the Seine, where the cab first halts.",
+    "quoteAnchor": "stopped short before the statue of Pierre Corneille",
+    "passage": "And the lumbering machine set out. It went down the Rue Grand-Pont, crossed the Place des Arts, the Quai Napoleon, the Pont Neuf, and stopped short before the statue of Pierre Corneille.",
+    "note": "Emma and Léon consummate the affair inside a hired cab with the blinds down, ordering the bewildered coachman to drive on and on through Rouen. The scene, its meaning left to the reader, was among the passages cited when Flaubert was tried for offending public morals.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part Three, Chapter One",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Statue of Pierre Corneille, Rouen, on the Seine quays near the Pont Boieldieu",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Corneille"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cote-sainte-catherine-road-to-rouen",
+    "name": "The Côte Sainte-Catherine, above Rouen",
+    "progressLabel": "Part Three, the road to Rouen",
+    "character": "emma",
+    "coords": [1.1101, 49.4338],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Hirondelle descends into Rouen from the east along the Saint-Catherine hills, named in the same passage. The pin marks the Côte Sainte-Catherine panorama, the classic viewpoint over the city that matches Flaubert's description.",
+    "quoteAnchor": "Sloping down like an amphitheatre, and drowned in the fog",
+    "passage": "Then on a sudden the town appeared. Sloping down like an amphitheatre, and drowned in the fog, it widened out beyond the bridges confusedly.",
+    "note": "Every Thursday Emma rides the Hirondelle to Rouen and to Léon. As the coach crests the Saint-Catherine hills the whole city opens below her like an amphitheatre, and the sight swells her passion. This is the road along which her affair, and her ruin, travels.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Madame Bovary, Part Three, Chapter Five",
+        "url": "https://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Côte Sainte-Catherine, Rouen; the panorama over the city and the Seine",
+        "url": "https://en.visiterouen.com/heritages/nature/the-sainte-catherine-hill-in-rouen/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

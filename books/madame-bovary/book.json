@@ -2,22 +2,40 @@
   "id": "madame-bovary",
   "title": "Madame Bovary",
   "author": "Gustave Flaubert",
-  "published": 1857,
+  "published": 1856,
   "orderingKey": "chapter",
-  "center": [1.094, 49.4405],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [1.15, 49.53],
+  "zoom": 9,
   "setting": {
     "city": "Rouen",
     "country": "FR",
-    "note": "Emma’s world is the fictional village of Yonville, but her escapes are to a real Rouen: the cathedral, the theatre, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.",
-    "bbox": [1.03, 49.417, 1.152, 49.465]
+    "note": "Emma's world is the invented village of Yonville-l'Abbaye, drawn from the real Ry east of Rouen, and Tostes (now Tôtes) to the north, where Charles first practises. Her escapes are to a real Rouen: the cathedral, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.",
+    "bbox": [1.03, 49.42, 1.36, 49.7]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Gustave Flaubert published this in 1857.",
-    "translation": "Translated by eleanor marx aveling. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Gustave Flaubert, Madame Bovary (1857)."
+    "originalWork": "Public domain. Gustave Flaubert, first published 1856; the author died in 1880.",
+    "translation": "English translation by Eleanor Marx-Aveling (1886); she died in 1898, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2413",
+    "territoryNotes": "Public domain in the US and UK/EU: Flaubert died 1880, Marx-Aveling 1898.",
+    "attribution": "Gustave Flaubert, Madame Bovary (1856), trans. Eleanor Marx-Aveling. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "A great red glow passed over her",
+    "note": "The red firelight that plays over Emma at the Lion d'Or the evening she first meets Léon. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "emma": {
+      "name": "Emma Bovary",
+      "color": "#2E5064",
+      "colorSourceQuote": "dark blue in broad daylight"
+    },
+    "charles": {
+      "name": "Charles Bovary",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "his short school jacket of green cloth"
+    }
   }
 }
