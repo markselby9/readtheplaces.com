@@ -1,0 +1,114 @@
+[
+  {
+    "id": "saint-urbain-main",
+    "name": "Saint-Urbain Street and the Main",
+    "progressLabel": "Part 1",
+    "character": "duddy",
+    "coords": [-73.582, 45.515],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Duddy grows up in the Jewish working-class streets around Saint-Urbain and the Main (Boulevard Saint-Laurent) in Montreal, the real immigrant neighbourhood Richler drew from his own childhood.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "On Saint-Urbain Street, among the tailors, hustlers and dreamers of immigrant Montreal, Duddy soaks up his grandfather's creed that a man without land is nobody. The crowded, striving neighbourhood, its schoolyards and back lanes, forms the fierce, unscrupulous energy that drives him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Saint-Laurent Boulevard (the Main), Montreal",
+        "url": "https://en.wikipedia.org/wiki/Saint-Laurent_Boulevard"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Apprenticeship of Duddy Kravitz, Wikipedia, on the Montreal setting",
+        "url": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-montreal-clubs",
+    "name": "Downtown Montreal (the clubs)",
+    "progressLabel": "Part 2",
+    "character": "dingleman",
+    "coords": [-73.57, 45.502],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Duddy's hustles take him into the nightclubs and businesses of downtown Montreal, the real city centre where the crippled racketeer Jerry Dingleman, the Boy Wonder, holds court.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "In the smoky downtown clubs Duddy studies and idolises Jerry Dingleman, the Boy Wonder, a local boy who rose from the Main to money and menace. Dingleman is both model and rival, and Duddy's tangled dealings with him show how far the boy will go, and what it costs him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Apprenticeship of Duddy Kravitz, Wikipedia, on Jerry Dingleman",
+        "url": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ste-agathe-resort",
+    "name": "Ste-Agathe-des-Monts (the resort)",
+    "progressLabel": "Part 2",
+    "character": "yvette",
+    "coords": [-74.28, 46.05],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Duddy works a summer as a waiter at a resort in Ste-Agathe-des-Monts, the real Laurentian holiday town north of Montreal, where he meets Yvette and first glimpses the lake he covets.",
+    "reference": "Part 2",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "At the Laurentian resort Duddy waits tables on rich Montreal families, falls for the French-Canadian Yvette, and discovers a hidden lake he becomes obsessed with owning. Yvette's steady love, and Duddy's willingness to use even her in his schemes, measure the human price of his ambition.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sainte-Agathe-des-Monts, Quebec",
+        "url": "https://en.wikipedia.org/wiki/Sainte-Agathe-des-Monts"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Apprenticeship of Duddy Kravitz, Wikipedia, on Ste-Agathe and Yvette",
+        "url": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-laurentian-lake",
+    "name": "The lake in the Laurentians",
+    "progressLabel": "Part 3",
+    "character": "virgil",
+    "coords": [-74.35, 46.1],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The lake Duddy schemes to buy up parcel by parcel lies in the Laurentian mountains north of Ste-Agathe; the specific lake is invented and sited in that real resort country.",
+    "reference": "Part 3",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "To buy the land around the lake, Duddy borrows, cheats and exploits, including the gentle epileptic Virgil, whose accident driving Duddy's truck leaves him paralysed. The lake, meant to make Duddy a man of property and worth, becomes the ground on which he loses everyone who loved him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Apprenticeship of Duddy Kravitz, Wikipedia, on the land scheme and Virgil",
+        "url": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-main-ending",
+    "name": "The Main (the ending)",
+    "progressLabel": "Part 4",
+    "character": "duddy",
+    "coords": [-73.58, 45.518],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book ends back on the Main, where Duddy finally holds the land he wanted; the real Boulevard Saint-Laurent frames both his triumph and its emptiness.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "Duddy gets his land at last, celebrated by a father who never respected him before, but only by ruining Virgil and driving Yvette away. Richler ends on the hollow victory, the boy from the Main a landowner and a somebody, and something in him lost for good.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Apprenticeship of Duddy Kravitz, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

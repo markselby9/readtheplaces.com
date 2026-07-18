@@ -1,0 +1,46 @@
+{
+  "id": "the-egyptian",
+  "title": "The Egyptian",
+  "author": "Mika Waltari",
+  "published": 1945,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [31.7, 27.7],
+  "zoom": 6,
+  "setting": {
+    "city": "Thebes",
+    "country": "EG",
+    "note": "The physician Sinuhe tells the story of his life across the turbulent reign of the heretic pharaoh Akhenaten in fourteenth-century-BC Egypt. Waltari anchors it in the real ancient geography of the Nile: Thebes with its great temple of Amun, the House of Death across the river where Sinuhe learns his craft, Akhenaten's new sun-city of Akhetaten raised in the desert, the old capital of Memphis, and the far cities of the east to which Sinuhe's wanderings carry him.",
+    "bbox": [30.7, 25.5, 32.7, 30.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mika Waltari, first published 1945 (Sinuhe egyptiläinen). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Egyptian",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Egyptian, Mika Waltari (1945). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the pharaohs and of the sun-disc Aten whose worship convulses the kingdom. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sinuhe": {
+      "name": "Sinuhe",
+      "color": "#2E5064"
+    },
+    "akhenaten": {
+      "name": "Akhenaten",
+      "color": "#8A2B1E"
+    },
+    "horemheb": {
+      "name": "Horemheb",
+      "color": "#4A4A4A"
+    },
+    "merit": {
+      "name": "Merit",
+      "color": "#6B3B5A"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-apprenticeship-of-duddy-kravitz",
+  "title": "The Apprenticeship of Duddy Kravitz",
+  "author": "Mordecai Richler",
+  "published": 1959,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.578, 45.512],
+  "zoom": 13,
+  "setting": {
+    "city": "Montreal",
+    "country": "CA",
+    "note": "The sharp, driven poor boy Duddy Kravitz claws his way up in 1940s Montreal, convinced by his grandfather that a man without land is nobody, and schemes to buy a Laurentian lake by any means. Richler maps his own city: the Jewish immigrant streets around Saint-Urbain and the Main, the downtown clubs where the gangster Duddy idolises holds court, and the Laurentian resort of Ste-Agathe and the hidden lake to the north on which the whole book turns.",
+    "bbox": [-73.6, 45.49, -73.55, 45.53]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mordecai Richler, first published 1959. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Apprenticeship of Duddy Kravitz, Mordecai Richler (1959). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold that Duddy chases without pause, the money and land he thinks will make him a somebody. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "duddy": {
+      "name": "Duddy Kravitz",
+      "color": "#8A2B1E"
+    },
+    "dingleman": {
+      "name": "Jerry Dingleman",
+      "color": "#4A4A4A"
+    },
+    "yvette": {
+      "name": "Yvette",
+      "color": "#2E6B4A"
+    },
+    "virgil": {
+      "name": "Virgil",
+      "color": "#2E5064"
+    }
+  }
+}
