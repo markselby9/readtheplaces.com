@@ -1,0 +1,46 @@
+{
+  "id": "the-spiders-house",
+  "title": "The Spider's House",
+  "author": "Paul Bowles",
+  "published": 1955,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-4.985, 34.06],
+  "zoom": 13,
+  "setting": {
+    "city": "Fez",
+    "country": "MA",
+    "note": "In the ancient Moroccan city of Fez in 1954, as the nationalist rising against French rule reaches the medina, an illiterate boy, Amar, and a disillusioned American writer, Stenham, are thrown together amid the violence. Bowles maps the real city precisely: the labyrinth of Fez el-Bali, the shrine of Moulay Idriss and the Qarawiyyin at its heart, the French Ville Nouvelle where the settlers live, the Palais Jamaï on the medina's edge, and the Merinid tombs on the hills above from which the whole city is seen.",
+    "bbox": [-5.03, 34.02, -4.96, 34.08]
+  },
+  "rights": {
+    "originalWork": "In copyright. Paul Bowles, first published 1955. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Spider%27s_House",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Spider's House, Paul Bowles (1955). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The terracotta of the walls of Fez, the colour of the old city whose frailty the title, from the Qur'an's image of the spider's house, quietly names. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "amar": {
+      "name": "Amar",
+      "color": "#2E6B4A"
+    },
+    "stenham": {
+      "name": "Stenham",
+      "color": "#2E5064"
+    },
+    "lee": {
+      "name": "Lee",
+      "color": "#8A6A12"
+    },
+    "moulay-ali": {
+      "name": "Moulay Ali",
+      "color": "#6B3B5A"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "fez-el-bali-medina",
+    "name": "The Fez medina (Fez el-Bali)",
+    "progressLabel": "Part 1",
+    "character": "amar",
+    "coords": [-4.977, 34.064],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Amar's world is Fez el-Bali, the real walled old city of Fez, one of the largest living medieval medinas in the world; its alleys and souks are the novel's principal setting.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Amar, the pious, illiterate son of a poor craftsman, knows the medina's thousands of alleys by instinct and lives by its old certainties. As the nationalist struggle turns the city violent and the French crack down, the boy's whole inherited world begins to come apart around him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fez el-Bali, the old medina of Fez",
+        "url": "https://en.wikipedia.org/wiki/Fes_el_Bali"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Spider's House, Wikipedia, on Amar and the Fez setting",
+        "url": "https://en.wikipedia.org/wiki/The_Spider%27s_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "moulay-idriss-qarawiyyin",
+    "name": "Moulay Idriss and the Qarawiyyin",
+    "progressLabel": "Part 2",
+    "character": "moulay-ali",
+    "coords": [-4.9738, 34.065],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The shrine of Moulay Idriss II and the ancient Qarawiyyin mosque and university stand at the sacred heart of the medina; both are real, and the religious and political currents of the rising run through this quarter.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "Around the shrine and the great mosque, the piety of old Fez meets the new politics of independence, and figures like the nationalist Moulay Ali move between faith and resistance. Bowles sets the tension between traditional Islam and modern revolt at this sacred centre of the city.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "University of al-Qarawiyyin, Fez",
+        "url": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Spider's House, Wikipedia, on the nationalist rising",
+        "url": "https://en.wikipedia.org/wiki/The_Spider%27s_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ville-nouvelle-fez",
+    "name": "The Ville Nouvelle",
+    "progressLabel": "Part 2",
+    "character": "stenham",
+    "coords": [-5.01, 34.033],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The French-built Ville Nouvelle, laid out south-west of the medina under the Protectorate, is the modern quarter of settlers, cafés and administration; it is a real district and the seat of colonial power in the book.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "In the wide boulevards of the Ville Nouvelle, the American writer Stenham and the European community watch the crisis from the far side of a gulf they cannot cross. Bowles uses the physical distance between the medieval medina and the colonial new town to measure the distance between the book's two worlds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fez and the French Protectorate Ville Nouvelle",
+        "url": "https://en.wikipedia.org/wiki/Fez,_Morocco"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Spider's House, Wikipedia, on Stenham and the colonial city",
+        "url": "https://en.wikipedia.org/wiki/The_Spider%27s_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palais-jamai",
+    "name": "The Palais Jamaï",
+    "progressLabel": "Part 3",
+    "character": "lee",
+    "coords": [-4.976, 34.07],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The European visitors gather at a grand hotel on the edge of the medina, drawn from the real Palais Jamaï by Bab Guissa, a nineteenth-century palace turned hotel overlooking the old city.",
+    "reference": "Part 3",
+    "order": 4,
+    "note": "At the hotel on the medina's edge, the American woman Lee and other outsiders take in the picturesque city while its people rise and die below them. The gap between their tourism and Amar's danger is the moral ground the novel works, sympathy and incomprehension tangled together.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Palais Jamaï, Fez",
+        "url": "https://en.wikipedia.org/wiki/Fez,_Morocco"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Spider's House, Wikipedia, on the European characters",
+        "url": "https://en.wikipedia.org/wiki/The_Spider%27s_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "merinid-tombs",
+    "name": "The Merinid tombs",
+    "progressLabel": "Part 4",
+    "character": "amar",
+    "coords": [-4.98, 34.072],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The ruined Merinid tombs on the hills to the north of Fez, a real site, offer the classic view over the whole medina; the high ground figures in the novel as the vantage above the burning city.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "From the hills of the Merinid tombs the whole medina lies spread out below, its thousands of roofs and minarets, as trouble smoulders through it. It is from such heights that the outsiders can see Amar's endangered world whole, even as the boy himself is caught up in its unravelling.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Marinid Tombs, Fez",
+        "url": "https://en.wikipedia.org/wiki/Marinid_Tombs"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Spider's House, Wikipedia, on the setting",
+        "url": "https://en.wikipedia.org/wiki/The_Spider%27s_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

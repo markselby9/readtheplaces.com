@@ -1,0 +1,117 @@
+[
+  {
+    "id": "alexandria-corniche",
+    "name": "Alexandria (the Corniche)",
+    "progressLabel": "Part 1",
+    "character": "darley",
+    "coords": [29.89, 31.2001],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The narrator's Alexandria is the real city and above all its great seafront curve, the Corniche along the eastern harbour, which frames the whole book's remembered life.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "From an island years later, the schoolteacher Darley reassembles Alexandria out of memory, and the long sweep of the Corniche, the sea light and the crowds, is where the reconstruction begins. The city itself, many-tongued and corrupt and beautiful, is the book's true subject, more than any of its lovers.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Alexandria, Egypt",
+        "url": "https://en.wikipedia.org/wiki/Alexandria"
+      },
+      {
+        "kind": "guide",
+        "ref": "Justine (Durrell novel), Wikipedia, on the Alexandria setting",
+        "url": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cecil-hotel",
+    "name": "The Cecil Hotel",
+    "progressLabel": "Part 1",
+    "character": "justine",
+    "coords": [29.896, 31.1975],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Cecil Hotel on the seafront at Saad Zaghloul Square is a real Alexandria landmark of the period; Durrell used it and it recurs through the Quartet as a meeting place.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "It is in the lobbies and rooms of hotels like the Cecil that Darley first circles Justine, the married woman whose restless hunger draws in everyone around her. Her love affair with Darley, conducted through the cafés and rooms of the seafront, is the flame the first book follows.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cecil Hotel, Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Cecil_Hotel_(Alexandria)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Justine (Durrell novel), Wikipedia, on Justine",
+        "url": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cosmopolitan-quarter",
+    "name": "The cosmopolitan quarter",
+    "progressLabel": "Part 2",
+    "character": "nessim",
+    "coords": [29.905, 31.197],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Nessim and Justine belong to the wealthy cosmopolitan Alexandria of Greeks, Jews, Copts and Europeans in the downtown quarter around the rue Nebi Daniel; sited in that real district of the interwar city.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "The rich Coptic banker Nessim, Justine's husband, presides over the mixed high society of interwar Alexandria, its salons, intrigues and hidden politics. Behind the love affairs, Durrell hints at the conspiracies that the later books will reveal, all of them rooted in this cosmopolitan quarter.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Justine (Durrell novel), Wikipedia, on Nessim and Alexandrian society",
+        "url": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lake-mareotis",
+    "name": "Lake Mareotis (the duck shoot)",
+    "progressLabel": "Part 4",
+    "character": "nessim",
+    "coords": [29.9, 31.12],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lake Mareotis (Mariout), the real lagoon south of Alexandria, is the setting of the great duck-shooting party at which a death occurs; the lake is a fixed feature of the city's geography.",
+    "reference": "Part 4",
+    "order": 4,
+    "note": "The book builds to a dawn duck shoot on Lake Mareotis, where guns, jealousy and conspiracy converge and Capodistria is found shot dead in the reeds. The lagoon at the city's edge, misted and treacherous, is where the affairs of the seafront turn suddenly to violence.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lake Mariout (Mareotis)",
+        "url": "https://en.wikipedia.org/wiki/Lake_Mariout"
+      },
+      {
+        "kind": "guide",
+        "ref": "Justine (Durrell novel), Wikipedia, on the duck shoot",
+        "url": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "arab-quarter-melissa",
+    "name": "The Arab quarter (Melissa's world)",
+    "progressLabel": "Part 2",
+    "character": "melissa",
+    "coords": [29.88, 31.205],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The poor Arab and Greek quarters of the old western city, with their cafés, dancers and back streets, are the world of Melissa, the consumptive dancer the narrator also loves; sited in those real districts of Alexandria.",
+    "reference": "Part 2",
+    "order": 5,
+    "note": "Against Justine's wealth stands Melissa, the gentle, dying nightclub dancer whom Darley loves in the poorer quarters of the city. Durrell sets her tenderness in the back streets and cabarets of old Alexandria, the other Alexandria beneath the cosmopolitan glitter, and her fate shadows the whole affair.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Justine (Durrell novel), Wikipedia, on Melissa",
+        "url": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

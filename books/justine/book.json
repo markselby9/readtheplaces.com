@@ -1,0 +1,46 @@
+{
+  "id": "justine",
+  "title": "Justine",
+  "author": "Lawrence Durrell",
+  "published": 1957,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [29.89, 31.19],
+  "zoom": 12,
+  "setting": {
+    "city": "Alexandria",
+    "country": "EG",
+    "note": "The first book of the Alexandria Quartet, in which a schoolteacher looks back on his love for the restless, magnetic Justine, wife of the wealthy Copt Nessim, in the cosmopolitan Alexandria of the years before the Second World War. The city is the true protagonist, Durrell's 'capital of memory': the sweep of the Corniche, the Cecil Hotel on the seafront, the crowded cosmopolitan and Arab quarters, and Lake Mareotis south of the town where a duck shoot ends in death.",
+    "bbox": [29.86, 31.1, 29.93, 31.22]
+  },
+  "rights": {
+    "originalWork": "In copyright. Lawrence Durrell, first published 1957. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Justine_(Durrell_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Justine, Lawrence Durrell (1957). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The mauve of an Alexandrian dusk, the decadent, many-layered light of Durrell's capital of memory. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "darley": {
+      "name": "Darley",
+      "color": "#2E5064"
+    },
+    "justine": {
+      "name": "Justine",
+      "color": "#8A2B1E"
+    },
+    "nessim": {
+      "name": "Nessim",
+      "color": "#8A6A12"
+    },
+    "melissa": {
+      "name": "Melissa",
+      "color": "#2E6B4A"
+    }
+  }
+}
