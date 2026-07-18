@@ -1,0 +1,46 @@
+{
+  "id": "the-dark-side-of-love",
+  "title": "The Dark Side of Love",
+  "author": "Rafik Schami",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [36.31, 33.512],
+  "zoom": 14,
+  "setting": {
+    "city": "Damascus",
+    "country": "SY",
+    "note": "Schami's vast Damascene saga braids a forbidden love across a blood feud between two clans with a murder mystery and a century of Syrian history. Old Damascus is its heart: the Christian quarter of Bab Touma where the clans live, the ancient Straight Street running through the walled city, the Umayyad Mosque at its centre, and the shadow of the secret police; the feud reaches back to the mountain village of Mala from which both families came.",
+    "bbox": [36.29, 33.5, 36.33, 33.52]
+  },
+  "rights": {
+    "originalWork": "In copyright. Rafik Schami, first published 2004 (Die dunkle Seite der Liebe). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Dark Side of Love, Rafik Schami (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of love and of the blood feud the lovers try to cross, the two forces the whole saga turns on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "farid": {
+      "name": "Farid",
+      "color": "#2E5064"
+    },
+    "rana": {
+      "name": "Rana",
+      "color": "#8A6A12"
+    },
+    "barudi": {
+      "name": "Inspector Barudi",
+      "color": "#4A4A4A"
+    },
+    "elias": {
+      "name": "Elias Mushtak",
+      "color": "#6B3B5A"
+    }
+  }
+}

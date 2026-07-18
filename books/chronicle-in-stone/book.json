@@ -1,0 +1,46 @@
+{
+  "id": "chronicle-in-stone",
+  "title": "Chronicle in Stone",
+  "author": "Ismail Kadare",
+  "published": 1971,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [20.14, 40.076],
+  "zoom": 14,
+  "setting": {
+    "city": "Gjirokastër",
+    "country": "AL",
+    "note": "A boy watches his ancient stone city on its mountainside change hands again and again, Italians, Greeks, Italians, Greeks, Germans, in the chaos of the Second World War. Kadare's own Gjirokastër is the whole book: the steep grey stone houses with their cisterns and slate roofs, the castle brooding over the town, the aerodrome the Italians cut into the plain below, and the old bazaar where the city's life and rumour churn.",
+    "bbox": [20.12, 40.065, 20.17, 40.09]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ismail Kadare, first published 1971 (Kronikë në gur). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Chronicle_in_Stone",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Chronicle in Stone, Ismail Kadare (1971). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of the stone that the whole city is built from, houses, streets and roofs alike, the material Kadare makes into a character. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-boy": {
+      "name": "The boy",
+      "color": "#2E5064"
+    },
+    "grandmother": {
+      "name": "The grandmother",
+      "color": "#8A6A12"
+    },
+    "xhexho": {
+      "name": "Xhexho",
+      "color": "#6B3B5A"
+    },
+    "isa": {
+      "name": "Isa",
+      "color": "#8A2B1E"
+    }
+  }
+}

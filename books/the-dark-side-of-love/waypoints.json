@@ -1,0 +1,123 @@
+[
+  {
+    "id": "bab-touma-quarter",
+    "name": "Bab Touma (the Christian quarter)",
+    "progressLabel": "The clans",
+    "character": "farid",
+    "coords": [36.316, 33.513],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The rival Christian clans of the novel live in and around Bab Touma, the real Christian quarter in the old walled city of Damascus; the district anchors the family saga.",
+    "reference": "The clan chapters",
+    "order": 1,
+    "note": "In the courtyards and lanes of Bab Touma, the Mushtak and Shahin clans nurse an ancient feud, and into it are born Farid and Rana, who will love each other across the poisoned line. Schami fills the quarter with a whole world of relatives, priests, tradesmen and gossips, the dense social fabric the lovers must defy.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bab Touma, Damascus",
+        "url": "https://en.wikipedia.org/wiki/Bab_Touma"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Dark Side of Love, Wikipedia, on the clans and the lovers",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "straight-street",
+    "name": "The Straight Street",
+    "progressLabel": "The lovers",
+    "character": "rana",
+    "coords": [36.315, 33.51],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Straight Street, the Via Recta running through the old city from Bab Sharqi, is a real ancient thoroughfare of Damascus along which the lovers and the city's life move.",
+    "reference": "The love story",
+    "order": 2,
+    "note": "Along the covered length of the Straight Street, past its shops and churches and courtyard houses, Farid and Rana snatch their forbidden meetings in a city where every relative is a spy. The old street, walked for two thousand years, carries their fragile, dangerous love through the heart of Damascus.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Street Called Straight (Via Recta), Damascus",
+        "url": "https://en.wikipedia.org/wiki/Street_Called_Straight"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Dark Side of Love, Wikipedia, on Farid and Rana",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-city-murder",
+    "name": "The old city (the murder)",
+    "progressLabel": "The investigation",
+    "character": "barudi",
+    "coords": [36.31, 33.511],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The murder mystery that frames the saga is investigated through the streets of the old city; sited in the real walled Damascus where the body is found and the inspector begins his work.",
+    "reference": "The frame narrative",
+    "order": 3,
+    "note": "A dead man is found in the old city, and the patient Inspector Barudi, working against the interference of the secret police, unravels a killing rooted in the clans' long feud. Through his investigation Schami threads a whole century of Syrian politics, coups and repression into the private drama of love and revenge.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ancient City of Damascus",
+        "url": "https://en.wikipedia.org/wiki/Ancient_City_of_Damascus"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Dark Side of Love, Wikipedia, on the murder frame and Barudi",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mala-village",
+    "name": "The village of Mala",
+    "progressLabel": "The feud's roots",
+    "character": "elias",
+    "coords": [36.1, 33.85],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The clans trace their feud to the mountain village of Mala north of Damascus; the village is drawn from the real Christian hill villages of the Damascus mountains and sited there, outside the city.",
+    "reference": "The village chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the ancestral village of Mala in the mountains, the origins of the blood feud and of the patriarch Elias Mushtak's harsh pride are laid bare. The hard, honour-bound world of the hill village, carried down into Damascus, is the deep root of the enmity the lovers inherit and try to break.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Dark Side of Love, Wikipedia, on the village and the feud",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "umayyad-mosque",
+    "name": "The Umayyad Mosque",
+    "progressLabel": "The city",
+    "character": "farid",
+    "coords": [36.306, 33.512],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great Umayyad Mosque at the centre of old Damascus is the ancient heart of the city the whole book inhabits; the real monument anchors its sense of a place layered with millennia.",
+    "reference": "The Damascus chapters",
+    "order": 5,
+    "note": "Around the vast courtyard of the Umayyad Mosque and the old city that rings it, Schami sets the sweep of twentieth-century Damascus, its faiths, its politics and its cruelties. The mosque stands over the whole saga as the emblem of a city that absorbs empires and feuds alike into its endless, layered life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Umayyad Mosque, Damascus",
+        "url": "https://en.wikipedia.org/wiki/Umayyad_Mosque"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Dark Side of Love, Wikipedia, on Damascus",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
