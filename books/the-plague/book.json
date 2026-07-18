@@ -1,0 +1,46 @@
+{
+  "id": "the-plague",
+  "title": "The Plague",
+  "author": "Albert Camus",
+  "published": 1947,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.64, 35.7],
+  "zoom": 13,
+  "setting": {
+    "city": "Oran",
+    "country": "DZ",
+    "note": "When plague breaks out in the Algerian port of Oran, the town is sealed off and its people must reckon, each in their own way, with an absurd and impersonal death. Camus keeps the city real and specific: Dr Rieux's surgery in the ordinary streets, the closed town gates that turn Oran into a prison, the harbour and the sea that are suddenly forbidden, the cathedral where Father Paneloux preaches, and the municipal stadium turned into an isolation camp.",
+    "bbox": [-0.66, 35.685, -0.61, 35.715]
+  },
+  "rights": {
+    "originalWork": "In copyright. Albert Camus, first published 1947 (La Peste). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Plague_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Plague, Albert Camus (1947). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The fever red of the plague that grips the sealed town, the impersonal death against which a few ordinary people quietly stand. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rieux": {
+      "name": "Dr Rieux",
+      "color": "#2E5064"
+    },
+    "tarrou": {
+      "name": "Tarrou",
+      "color": "#4A4A4A"
+    },
+    "rambert": {
+      "name": "Rambert",
+      "color": "#8A6A12"
+    },
+    "paneloux": {
+      "name": "Father Paneloux",
+      "color": "#5A3B8A"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "voss",
+  "title": "Voss",
+  "author": "Patrick White",
+  "published": 1957,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [151.21, -33.865],
+  "zoom": 12,
+  "setting": {
+    "city": "Sydney",
+    "country": "AU",
+    "note": "In the 1840s the obsessive German explorer Voss sets out to cross the Australian continent, sustained by a strange, wordless spiritual bond with Laura Trevelyan, a young woman he leaves behind in Sydney. White's novel holds together two worlds: colonial Sydney, with the Bonner household and the harbour from which the expedition departs, and the vast unmapped interior, drawn from the real inland journeys of explorers like Leichhardt, where the party is broken and Voss meets his death.",
+    "bbox": [151.18, -33.89, 151.26, -33.84]
+  },
+  "rights": {
+    "originalWork": "In copyright. Patrick White, first published 1957. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Voss_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Voss, Patrick White (1957). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red earth of the Australian interior that swallows the expedition, the desert Voss means to conquer by sheer will. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "voss": {
+      "name": "Voss",
+      "color": "#4A4A4A"
+    },
+    "laura": {
+      "name": "Laura Trevelyan",
+      "color": "#6B3B5A"
+    },
+    "le-mesurier": {
+      "name": "Le Mesurier",
+      "color": "#2E6B4A"
+    },
+    "jackie": {
+      "name": "Jackie",
+      "color": "#8A6A12"
+    }
+  }
+}
