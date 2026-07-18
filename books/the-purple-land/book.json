@@ -4,20 +4,38 @@
   "author": "W. H. Hudson",
   "published": 1885,
   "orderingKey": "chapter",
-  "center": [-56.1913, -34.9059],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-55.9, -33.5],
+  "zoom": 6,
   "setting": {
     "city": "Montevideo",
     "country": "UY",
-    "note": "Richard Lamb loose in the Banda Oriental, the purple land east of the river: Montevideo, the estancias of the pampas, and the little towns of a country just out of civil war. Hudson rode this ground himself, and it brings Uruguay, and South America, into the atlas.",
-    "bbox": [-56.431, -34.938, -56.017, -34.702]
+    "note": "Richard Lamb loose in the Banda Oriental, the purple land east of the river: he lands at Montevideo, rides north through Canelones and Florida toward an estancia on the Paysandú border, and is swept into Santa Coloma's doomed revolt across the Cuchilla Grande and the coast of Rocha. Hudson rode this ground himself, and it brings Uruguay, and South America, into the atlas.",
+    "bbox": [-58.5, -35.1, -53.3, -32.0]
   },
   "rights": {
-    "originalWork": "TODO: confirm. W. H. Hudson published this in 1885.",
+    "originalWork": "Public domain. W. H. Hudson, first published 1885; the author died in 1922.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/w-h-hudson/the-purple-land",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "W. H. Hudson, The Purple Land (1885)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/7132",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1922).",
+    "attribution": "W. H. Hudson, The Purple Land (1885). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "accentSourceQuote": "A purple land may be found in almost",
+    "note": "The purple of Hudson's own title for the Banda Oriental, taken straight from his preface. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "lamb": {
+      "name": "Richard Lamb",
+      "color": "#2E5064",
+      "colorSourceQuote": "ranges of blue hills"
+    },
+    "santacoloma": {
+      "name": "General Santa Coloma",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "greener and the flowers brighter for that crimson shower"
+    }
   }
 }

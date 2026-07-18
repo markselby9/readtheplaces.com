@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "montevideo-the-landing",
+    "name": "Montevideo, the landing",
+    "progressLabel": "Ch. I",
+    "character": "lamb",
+    "coords": [-56.1913, -34.9059],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "Montevideo, the city of refuge",
+    "passage": "and in the evening we disembarked in Montevideo, the city of refuge. We proceeded to an hotel, where for several days we lived very happily, enchanted with each other's society;",
+    "note": "Richard Lamb and his young wife Paquíta come ashore at Montevideo, the capital on the north bank of the Río de la Plata, having fled Buenos Ayres across the water. The great hill, the Cerro, that gives the city its name stands over the harbour. From this refuge Lamb sets out alone into the Banda Oriental, and the wandering that fills the book begins.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Montevideo, capital of Uruguay on the Río de la Plata",
+        "url": "https://en.wikipedia.org/wiki/Montevideo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-road-north-canelones-florida",
+    "name": "The road north, into the Florida department",
+    "progressLabel": "Ch. II",
+    "character": "lamb",
+    "coords": [-56.21, -34.35],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hudson names the route but not the ranch: Lamb rides north out of Montevideo through Canelones (his \"Camelones\") and is \"well on into the Florida department\" when he stops for the night. The pin marks the open cattle country of southern Florida department, on the road north, where the herdsman's mud rancho stands.",
+    "quoteAnchor": "the road northwards through Camelones department",
+    "passage": "I took the road northwards through Camelones department, and was well on into the Florida department when I put up for the night at the solitary mud _rancho_ of an old herdsman, who lived with his wife and children in a very primitive fashion.",
+    "note": "Leaving the capital, Lamb rides north across the open range toward the distant estancia. His first night in the interior is spent at a herdsman's mud rancho among fireflies and half-wild dogs, his first real taste of the gaucho country and the Orientáles who live in it. The department of Florida is real and still cattle country today.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapter II",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Florida Department, Uruguay",
+        "url": "https://en.wikipedia.org/wiki/Florida_Department"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "estancia-paysandu-border",
+    "name": "The estancia on the Paysandú border",
+    "progressLabel": "Ch. II",
+    "character": "lamb",
+    "coords": [-57.3, -32.6],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Estancia de la Virgin de los Desamparados is Hudson's invention, but he fixes it in a real place: \"on the borders of the Paysandù department, and not less than two hundred miles from Montevideo.\" The pin sits in southern Paysandú department, on the río Uruguay side of the country, roughly that distance north of the capital.",
+    "quoteAnchor": "on the borders of the Paysandù department",
+    "passage": "The _estancia_ was on the borders of the Paysandù department, and not less than two hundred miles from Montevideo. It was a long journey, and I was advised not to attempt it without a _tropilla_, or troop of horses.",
+    "note": "The letter Lamb carries is meant to win him work on a cattle estancia far in the interior, near the Paysandú department that fronts the río Uruguay. He never really settles: a chance knife-fight makes his name as a fighter in that warlike department, and rather than kill again for the sake of peace he rides on. Paysandú is a real city and department on Uruguay's western river frontier.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapters II-IV",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Paysandú Department, on the Uruguay River",
+        "url": "https://en.wikipedia.org/wiki/Paysand%C3%BA_Department"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-molino-del-yi-the-revolt",
+    "name": "El Molino del Yí, the rising",
+    "progressLabel": "Ch. XIII",
+    "character": "santacoloma",
+    "coords": [-55.75, -33.35],
+    "placeCertainty": "inferred",
+    "certaintyNote": "El Molino del Yí is a mill on the real río Yí, which runs through the Durazno district where Lamb is riding when the news breaks. The exact mill is not mapped; the pin marks a point on the Yí in central Uruguay, where Santa Coloma seizes the mill and raises his standard.",
+    "quoteAnchor": "he has seized on El Molino del Yí",
+    "passage": "Santa Coloma has come! He is here in our midst; he has seized on El Molino del Yí, and has raised the standard of revolt against the infamous government of Montevideo!",
+    "note": "Word runs through the country that General Santa Coloma, \"the hope of Uruguay,\" has raised the Blanco standard of revolt against the Colorado government by seizing the mill on the río Yí. Lamb, half by accident, is drawn into the rising that will carry him across the eastern range. The Yí is a real river of the Uruguayan interior.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapter XIII",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Yí River, central Uruguay",
+        "url": "https://en.wikipedia.org/wiki/Y%C3%AD_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cuchilla-grande-the-march",
+    "name": "The Cuchilla Grande, the march to battle",
+    "progressLabel": "Ch. XXII",
+    "character": "santacoloma",
+    "coords": [-55.0, -34.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Cuchilla Grande is the real range of low hills running north-east across eastern Uruguay. Hudson gives the direction of the march (eastward, nearer the range) but not the camp; the pin marks the central Cuchilla Grande, in the Lavalleja country, where Santa Coloma's column encamps before its defeat.",
+    "quoteAnchor": "the immense range of the Cuchilla Grande, we encamped",
+    "passage": "No expeditions were sent out that day; after we had marched about twelve or thirteen miles eastward and nearer to the immense range of the Cuchilla Grande, we encamped, and after the midday meal spent the afternoon in cavalry exercises.",
+    "note": "Riding with Santa Coloma's ragged army, Lamb crosses the broken country toward the Cuchilla Grande, the long spine of hills that divides the eastern departments. The next day's battle at the Cañada de San Paulo ends in disaster for the rebels. The Cuchilla Grande is a real range still crossed by the roads into eastern Uruguay.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapter XXII",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cuchilla Grande, Uruguay",
+        "url": "https://en.wikipedia.org/wiki/Cuchilla_Grande"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lomas-de-rocha-cuchilla-de-las-animas",
+    "name": "The lake of Rocha and the Cuchilla de las Ánimas",
+    "progressLabel": "Ch. XXVII",
+    "character": "lamb",
+    "coords": [-54.45, -34.6],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hudson names the landmarks but not the exact vantage: Lamb, making for the Lomas de Rocha \"three leagues west of the lake,\" sees the lake of Rocha south-east and the sierras on the western horizon. The pin sits west of the real Laguna de Rocha, on the coastal plain of Rocha department in south-eastern Uruguay.",
+    "quoteAnchor": "I took to be the lake of Rocha",
+    "passage": "A blue gleam of water, south-east of where I stood and many leagues distant, I took to be the lake of Rocha; on the western horizon were faint blue cloud-like masses with pearly peaks. They were not clouds, however, but the sierras of the range weirdly named _Cuchilla de las Animas_--Ghost-haunted Mountains.",
+    "note": "A fugitive again after the failed revolt, Lamb crosses the last stretch of open country toward the Lomas de Rocha near the south-eastern coast, the blue gleam of the Laguna de Rocha to the sea-side and the ghost-named sierras on the far horizon. Both the lake and the Sierra de las Ánimas are real features of the Rocha and Maldonado country.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Purple Land, Chapter XXVII",
+        "url": "https://www.gutenberg.org/ebooks/7132"
+      },
+      {
+        "kind": "guide",
+        "ref": "Laguna de Rocha, Rocha Department, Uruguay",
+        "url": "https://en.wikipedia.org/wiki/Laguna_de_Rocha_(Uruguay)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
