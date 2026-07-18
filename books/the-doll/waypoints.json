@@ -1,0 +1,127 @@
+[
+  {
+    "id": "wokulski-shop",
+    "name": "Wokulski's shop, Krakowskie Przedmieście",
+    "progressLabel": "Chapter 1",
+    "character": "wokulski",
+    "coords": [21.015, 52.24],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Wokulski's fashionable store stands on Krakowskie Przedmieście, the real grand boulevard of central Warsaw; the specific premises are invented and sited on that street of shops and palaces.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "From his expanding haberdashery on Warsaw's most elegant street, Wokulski builds a fortune out of trade and a risky war-supply venture, all of it secretly bent toward one end: to make himself worthy of Izabela. The shop is the base of the rational, energetic self he is steadily sacrificing to an impossible love.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Krakowskie Przedmieście, Warsaw",
+        "url": "https://en.wikipedia.org/wiki/Krakowskie_Przedmie%C5%9Bcie"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Doll (novel), Wikipedia, on Wokulski and Warsaw",
+        "url": "https://en.wikipedia.org/wiki/The_Doll_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lazienki-park",
+    "name": "Łazienki Park",
+    "progressLabel": "Chapter 4",
+    "character": "izabela",
+    "coords": [21.035, 52.215],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wokulski watches Izabela among the fashionable crowds of Łazienki, the real royal park of Warsaw, where the city's society takes its walks.",
+    "reference": "The park chapters",
+    "order": 2,
+    "note": "In the elegant walks of Łazienki, Wokulski trails Izabela at a distance, worshipping a woman who regards him, when she notices him at all, as a tradesman beneath her class. The beautiful park, playground of the aristocracy, measures the social gulf his money cannot quite close.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Łazienki Park, Warsaw",
+        "url": "https://en.wikipedia.org/wiki/%C5%81azienki_Park"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Doll (novel), Wikipedia, on Izabela Łęcka",
+        "url": "https://en.wikipedia.org/wiki/The_Doll_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-town-promenade",
+    "name": "The Old Town and the promenade",
+    "progressLabel": "Rzecki's diary",
+    "character": "rzecki",
+    "coords": [21.0122, 52.2497],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old streets and squares of central Warsaw, from the Old Town Market down the promenade, are the world of Wokulski's faithful old clerk Ignacy Rzecki, whose diary forms a second narrative; sited in the real historic core.",
+    "reference": "Rzecki's diary",
+    "order": 3,
+    "note": "Rzecki, the loyal old shopkeeper and unrepentant admirer of Napoleon, walks these streets carrying the memory of an older, more idealistic age. His diary gives Prus a second lens on the same city, tender and disillusioned, as he watches his beloved Wokulski destroy himself for love.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Old Town, Warsaw",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_Old_Town"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Doll (novel), Wikipedia, on Ignacy Rzecki",
+        "url": "https://en.wikipedia.org/wiki/The_Doll_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "aleje-ujazdowskie-salons",
+    "name": "The salons of Aleje Ujazdowskie",
+    "progressLabel": "The society chapters",
+    "character": "ochocki",
+    "coords": [21.025, 52.22],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The aristocratic and moneyed society of Warsaw keeps its mansions and salons along the Aleje Ujazdowskie and neighbouring streets; the specific houses are invented and sited in that real elite quarter.",
+    "reference": "The society chapters",
+    "order": 4,
+    "note": "In the drawing rooms of the great avenue, Prus lays out the whole social panorama, from decaying aristocrats to new financiers, and here the young idealist inventor Ochocki dreams of flying machines and a rational future. Against the salons' snobbery and stagnation, science and honest work stand as the book's fragile hope.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Aleje Ujazdowskie, Warsaw",
+        "url": "https://en.wikipedia.org/wiki/Ujazd%C3%B3w_Avenue"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Doll (novel), Wikipedia, on the social panorama and Ochocki",
+        "url": "https://en.wikipedia.org/wiki/The_Doll_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "powisle-slums",
+    "name": "Powiśle (the riverside slums)",
+    "progressLabel": "The city panorama",
+    "character": "wokulski",
+    "coords": [21.025, 52.238],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Powiśle, the poor district below the escarpment along the Vistula, is where Wokulski came from and where he does his charity; the real riverside quarter grounds the novel's picture of Warsaw's underclass.",
+    "reference": "The city panorama",
+    "order": 5,
+    "note": "Down in the riverside poverty of Powiśle, among the destitute and the cheated whom Wokulski quietly helps, Prus shows the misery on which the glittering city rests. Wokulski's own rise from these streets makes his humiliation by the aristocracy sharper, and his social conscience the counterweight to his ruinous love.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Powiśle, Warsaw",
+        "url": "https://en.wikipedia.org/wiki/Powi%C5%9Ble,_Warsaw"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Doll (novel), Wikipedia, on the social panorama",
+        "url": "https://en.wikipedia.org/wiki/The_Doll_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

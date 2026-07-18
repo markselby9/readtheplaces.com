@@ -1,0 +1,46 @@
+{
+  "id": "the-doll",
+  "title": "The Doll",
+  "author": "Bolesław Prus",
+  "published": 1890,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [21.02, 52.235],
+  "zoom": 13,
+  "setting": {
+    "city": "Warsaw",
+    "country": "PL",
+    "note": "Prus's panorama of Warsaw at the end of the 1870s follows the self-made merchant Stanisław Wokulski, torn between a rational, ambitious life and a consuming, hopeless love for the cold aristocrat Izabela Łęcka. The city is mapped in detail: Wokulski's shop on the grand boulevard of Krakowskie Przedmieście, the royal park of Łazienki where he watches Izabela, the salons of the Aleje Ujazdowskie, and the riverside poverty of Powiśle from which he rose.",
+    "bbox": [20.995, 52.205, 21.05, 52.26]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Polish (Bolesław Prus, 1890) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Doll_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The Doll, Bolesław Prus (1890). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of Wokulski's consuming passion, the romantic obsession the Positivist Prus sets against a whole rational life. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "wokulski": {
+      "name": "Stanisław Wokulski",
+      "color": "#2E5064"
+    },
+    "izabela": {
+      "name": "Izabela Łęcka",
+      "color": "#8A6A12"
+    },
+    "rzecki": {
+      "name": "Ignacy Rzecki",
+      "color": "#4A4A4A"
+    },
+    "ochocki": {
+      "name": "Julian Ochocki",
+      "color": "#2E6B4A"
+    }
+  }
+}

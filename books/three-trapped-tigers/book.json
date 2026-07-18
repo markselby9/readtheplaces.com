@@ -1,0 +1,46 @@
+{
+  "id": "three-trapped-tigers",
+  "title": "Three Trapped Tigers",
+  "author": "Guillermo Cabrera Infante",
+  "published": 1967,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-82.39, 23.135],
+  "zoom": 12,
+  "setting": {
+    "city": "Havana",
+    "country": "CU",
+    "note": "A pun-drunk, nocturnal portrait of Havana in 1958, the last months before the revolution, following a handful of night owls, a photographer, a writer, an actor, a bongo player, through the cabarets and bars until dawn. Cabrera Infante maps the real nightlife: the open-air Tropicana cabaret, the neon strip of La Rampa in Vedado, the seawall of the Malecón where the friends drive and talk, and the older boulevard of the Prado. Over it all towers the doomed, magnificent singer La Estrella.",
+    "bbox": [-82.45, 23.09, -82.35, 23.16]
+  },
+  "rights": {
+    "originalWork": "In copyright. Guillermo Cabrera Infante, first published 1967 (Tres tristes tigres). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Three_Trapped_Tigers",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Three Trapped Tigers, Guillermo Cabrera Infante (1967). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The plum and neon mauve of the tropical Havana night the whole book lives inside. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "codac": {
+      "name": "Códac",
+      "color": "#8A6A12"
+    },
+    "silvestre": {
+      "name": "Silvestre",
+      "color": "#2E5064"
+    },
+    "cue": {
+      "name": "Cué",
+      "color": "#2E6B4A"
+    },
+    "estrella": {
+      "name": "La Estrella",
+      "color": "#8A2B1E"
+    }
+  }
+}
