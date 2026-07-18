@@ -4,20 +4,38 @@
   "author": "Charlotte Brontë",
   "published": 1853,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [4.3525, 50.8467],
   "zoom": 12.5,
   "setting": {
     "city": "Brussels",
     "country": "BE",
-    "note": "Brussels, thinly disguised as Villette: the boarding school on the Rue d’Isabelle where Brontë herself taught, the park, the old Flemish streets. She mapped her own two years into it, and it brings Belgium into the atlas.",
+    "note": "Brussels, thinly disguised as Villette in the kingdom of Labassecour. Brontë mapped her own two years teaching at the Pensionnat Heger on the Rue d'Isabelle into it: the boarding school, the old Flemish streets, the park across the way, the cathedral where she once made confession. It brings Belgium into the atlas.",
     "bbox": [4.314, 50.796, 4.437, 50.914]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Charlotte Brontë published this in 1853.",
+    "originalWork": "Public domain. Charlotte Brontë, first published 1853; the author died in 1855.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Charlotte Brontë, Villette (1853)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/9182",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1855).",
+    "attribution": "Charlotte Brontë, Villette (1853). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "accentSourceQuote": "purpled by light",
+    "note": "The stained-glass violet of the old church where Lucy makes her confession, its gloom 'not gilded but purpled by light'. Taken straight from the text; clears WCAG AA on paper."
+  },
+  "characters": {
+    "lucy": {
+      "name": "Lucy Snowe",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "of hodden grey"
+    },
+    "paul": {
+      "name": "M. Paul Emanuel",
+      "color": "#2E5064",
+      "colorSourceQuote": "violet-azure eyes"
+    }
   }
 }
