@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "lower-downtown-city-hall",
+    "name": "Lower Broadway / City Hall (the old downtown)",
+    "progressLabel": "Ch. III",
+    "character": "catherine",
+    "coords": [-74.0061, 40.7128],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dr Sloper's first house is fiction, but James fixes it precisely: a red-brick edifice with granite copings and a fanlight, \"within five minutes' walk of the City Hall\", in the downtown quarter that was fashionable about 1820 before trade drove the doctors out. The pin marks City Hall, the real landmark James measures the house against.",
+    "quoteAnchor": "within five minutes' walk of the City Hall",
+    "passage": "He had been living ever since his marriage in an edifice of red brick, with granite copings and an enormous fanlight over the door, standing in a street within five minutes' walk of the City Hall, which saw its best days (from the social point of view) about 1820.",
+    "note": "The world the Slopers left. When trade turned the old brick houses near the City Hall into \"offices, warehouses, and shipping agencies\", the doctor followed fashion north to Washington Square. James uses the shift downtown-to-uptown as social chronology: an address is a date.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. III",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "heritage",
+        "ref": "New York City Hall, City Hall Park, Manhattan",
+        "url": "https://en.wikipedia.org/wiki/New_York_City_Hall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dr-slopers-house-washington-square-north",
+    "name": "Dr Sloper's house, Washington Square North",
+    "progressLabel": "Ch. III",
+    "character": "catherine",
+    "coords": [-73.9962, 40.7318],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Sloper house is invented, but James sites it exactly on \"the Row\", the terrace of Greek Revival houses built along Washington Square North in 1829-33, which he calls \"very solid and honourable dwellings\" that \"remain to this day\". Nos. 1-13 still stand, east of Fifth Avenue. The pin marks the Row.",
+    "quoteAnchor": "a handsome, modern, wide-fronted house",
+    "passage": "The ideal of quiet and of genteel retirement, in 1835, was found in Washington Square, where the Doctor built himself a handsome, modern, wide-fronted house, with a big balcony before the drawing-room windows, and a flight of marble steps ascending to a portal which was also faced with white marble.",
+    "note": "The novel's fixed address: the doctor's marble-stepped house on the north side of the Square, the setting for nearly every interior scene. James pins his fiction to the real Row of houses he knew, \"the ideal of quiet and of genteel retirement\", and half the drama is about who is allowed through that white-marble door.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. III",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "heritage",
+        "ref": "\"The Row\", Washington Square North (nos. 1-13), Greenwich Village",
+        "url": "https://www.villagepreservation.org/2011/12/09/my-favorite-things-washington-square-north/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fifth-avenue-origin",
+    "name": "Fifth Avenue, at its origin on the Square",
+    "progressLabel": "Ch. III",
+    "character": "townsend",
+    "coords": [-73.9958, 40.7332],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the more august precinct of the Fifth Avenue",
+    "passage": "and round the corner was the more august precinct of the Fifth Avenue, taking its origin at this point with a spacious and confident air which already marked it for high destinies.",
+    "note": "Fifth Avenue begins at the north-west corner of Washington Square and runs uptown into the money. Its \"spacious and confident air\" is the marriage-market world Morris Townsend wants into: charming, penniless, and calculating what Catherine will inherit. James makes the avenue's ambition and the suitor's the same thing.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. III",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Fifth Avenue, Manhattan, which originates at Washington Square North",
+        "url": "https://en.wikipedia.org/wiki/Fifth_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "washington-square-park-fountain",
+    "name": "Washington Square park",
+    "progressLabel": "Ch. X",
+    "character": "townsend",
+    "coords": [-73.9973, 40.7308],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "it had not taken place beside the fountain in Washington Square",
+    "passage": "This is all that need be recorded of their conversation; but Mrs. Penniman, if she had been present, would probably have admitted that it was as well it had not taken place beside the fountain in Washington Square.",
+    "note": "The public square outside the door, with its wooden paling, ailantus-trees and fountain, is where the courtship spills into the open. Here Morris presses Catherine to swear she will hold to him against her father. The park is real and still the heart of Greenwich Village; the fountain still runs.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. X",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Washington Square Park, Greenwich Village, Manhattan",
+        "url": "https://en.wikipedia.org/wiki/Washington_Square_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "a-lonely-pass-in-the-alps",
+    "name": "A lonely pass in the Alps",
+    "progressLabel": "Ch. XXIV",
+    "character": "catherine",
+    "coords": [7.6082, 46.392],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "James names no pass, only \"a lonely valley of the Alps\" reached on foot while crossing between Switzerland and Italy. The pin marks the Gemmi Pass in the Bernese Alps, a real, much-walked Victorian tourist crossing that fits the scene. It is flagged as an excursion far beyond the New York setting.",
+    "quoteAnchor": "found themselves in a lonely valley of the Alps",
+    "passage": "One day at the end of the summer, the two travellers found themselves in a lonely valley of the Alps. They were crossing one of the passes, and on the long ascent they had got out of the carriage and had wandered much in advance.",
+    "note": "Sloper takes Catherine abroad to break the engagement. In this desolate valley, alone at dusk in \"a great suffusion of cold, red light\", he turns on her and asks if she has given Morris up, letting her feel how far she is from home and how completely in his power. The one scene the book stages outside New York.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. XXIV",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gemmi Pass, Bernese Alps, Valais, Switzerland",
+        "url": "https://en.wikipedia.org/wiki/Gemmi_Pass"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-house-on-the-square-later-years",
+    "name": "The house on the Square, in later years",
+    "progressLabel": "Ch. XXXIV",
+    "character": "catherine",
+    "coords": [-73.996, 40.7319],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Still the invented Sloper house on the real Row of Washington Square North, years on. The pin marks the same terrace of Greek Revival houses; the certainty is the same as for the doctor's house earlier in the book.",
+    "quoteAnchor": "she preferred the house in Washington Square to any other habitation whatever",
+    "passage": "IT was her habit to remain in town very late in the summer; she preferred the house in Washington Square to any other habitation whatever, and it was under protest that she used to go to the seaside for the month of August.",
+    "note": "Catherine grows old on the Square she was born to. Jilted, then outlived by her father, she stays in the marble-stepped house among the ailantus-trees, refusing to leave it. When Morris finally comes back, thickened and fair-bearded, she turns him from the door. The Square is where she began and where she ends.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Washington Square, ch. XXXIV",
+        "url": "https://www.gutenberg.org/ebooks/2870"
+      },
+      {
+        "kind": "heritage",
+        "ref": "\"The Row\", Washington Square North, Greenwich Village",
+        "url": "https://www.villagepreservation.org/2011/12/09/my-favorite-things-washington-square-north/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

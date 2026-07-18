@@ -4,20 +4,38 @@
   "author": "Henry James",
   "published": 1880,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-73.9973, 40.7308],
   "zoom": 12.5,
   "setting": {
     "city": "New York",
     "country": "US",
-    "note": "A single square, mapped to the door: Dr Sloper’s house on Washington Square North, the Row still standing, the Bowery a world away. James fixes the whole novel to a few blocks of Greenwich Village, which is exactly what this project is for.",
+    "note": "A single square, mapped to the door. James fixes the whole novel to a few blocks of Greenwich Village: Dr Sloper's wide-fronted house on Washington Square North, the real Row of Greek Revival houses that still stands; the Square itself, with its wooden paling and ailantus-trees; and the confident new Fifth Avenue taking its origin at the corner. Downtown, near the City Hall, is the old world the doctor left; uptown is the raw frontier fashion was chasing. A tour of Switzerland is the one excursion beyond the setting.",
     "bbox": [-74.259, 40.477, -73.7, 40.918]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Henry James published this in 1880.",
+    "originalWork": "Public domain. Henry James, first published 1880; the author died in 1916.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/henry-james/washington-square",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Henry James, Washington Square (1880)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2870",
+    "territoryNotes": "Public domain in the United States (published 1880), and in the United Kingdom and the European Union, where the author died more than 70 years ago (1916).",
+    "attribution": "Henry James, Washington Square (1880). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "accentSourceQuote": "cold grey eye",
+    "note": "The cold grey of Dr Sloper's eye, the ironic intelligence that presides over the whole book. A colour drawn straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "catherine": {
+      "name": "Catherine Sloper",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "a red satin gown trimmed with gold fringe"
+    },
+    "townsend": {
+      "name": "Morris Townsend",
+      "color": "#8A6A12",
+      "colorSourceQuote": "a fair and lustrous beard"
+    }
   }
 }
