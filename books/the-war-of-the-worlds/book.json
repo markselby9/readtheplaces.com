@@ -4,20 +4,38 @@
   "author": "H. G. Wells",
   "published": 1898,
   "orderingKey": "chapter",
-  "center": [-0.5565, 51.3202],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-0.554, 51.335],
+  "zoom": 10.5,
   "setting": {
     "city": "Woking",
     "country": "GB",
-    "note": "The Martian invasion mapped across real Surrey and London in strict order: the first cylinder lands on Horsell Common at Woking, the tripods burn Weybridge and Shepperton, and the last of them dies on Primrose Hill. Woking marks the spot with a tripod of its own, and it brings H. G. Wells into the atlas.",
-    "bbox": [-0.596, 51.28, -0.516, 51.36]
+    "note": "The Martian invasion mapped across real Surrey and London in strict order. The first cylinder lands in the sand-pits of Horsell Common at Woking; the tripods burn through Byfleet and are broken at the Thames by Shepperton and Weybridge; they push through Kew and Richmond into a London emptied by the exodus; and the last of them are found dead on Primrose Hill. Wells names the roads, stations, and church towers exactly. Horsell Common marks the landing with a tripod sculpture of its own.",
+    "bbox": [-0.6, 51.28, -0.14, 51.55]
   },
   "rights": {
-    "originalWork": "TODO: confirm. H. G. Wells published this in 1898.",
+    "originalWork": "Public domain. H. G. Wells, first published 1898; the author died in 1946.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "H. G. Wells, The War of the Worlds (1898)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/36",
+    "territoryNotes": "Public domain in the United States (published 1898) and in the United Kingdom and the EU, where the author died more than 70 years ago (1946).",
+    "attribution": "H. G. Wells, The War of the Worlds (1898). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "a vivid blood-red tint",
+    "note": "The red weed the Martians carry from Mars, which swarms the Thames valley and turns the country crimson. Taken from the text and legible on paper at WCAG AA."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The narrator",
+      "color": "#2E5064",
+      "colorSourceQuote": "circle of deep blue"
+    },
+    "artilleryman": {
+      "name": "The artilleryman",
+      "color": "#8A6A12",
+      "colorSourceQuote": "laid a brown hand upon my arm"
+    }
   }
 }

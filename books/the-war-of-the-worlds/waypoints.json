@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "horsell-common-woking-the-first-cylinder",
+    "name": "Horsell Common, Woking: the first cylinder",
+    "progressLabel": "Bk. 1, Ch. 3",
+    "character": "narrator",
+    "coords": [-0.5512, 51.3366],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells names Horsell Common and its sand-pits directly. The pin marks the sandpit on the common near Woking, the traditional landing site, where the town today stands a tripod sculpture.",
+    "quoteAnchor": "surrounding the huge hole in which the cylinder lay",
+    "passage": "I found a little crowd of perhaps twenty people surrounding the huge hole in which the cylinder lay. I have already described the appearance of that colossal bulk, embedded in the ground. The turf and gravel about it seemed charred as if by a sudden explosion.",
+    "note": "The first Martian cylinder comes down on Horsell Common in the night. By morning it is a local curiosity, a heap of grey metal in a charred pit with boys throwing stones at it. Before the day is out the lid unscrews, the first Martian hauls itself into the open, and the Heat-Ray turns the sightseers to ash.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 1, Chapter III",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Horsell Common and its sandpit, Woking, Surrey; the traditional Martian landing site",
+        "url": "https://en.wikipedia.org/wiki/Horsell_Common"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "byfleet-the-advance-and-the-artilleryman",
+    "name": "Byfleet: the advance and the artilleryman",
+    "progressLabel": "Bk. 1, Ch. 11",
+    "character": "artilleryman",
+    "coords": [-0.479, 51.3375],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells names Byfleet, its station, and the railway bridge over the line to Woking. The pin marks Byfleet village, still out of the Heat-Ray's range as the guns are dug in against the advance.",
+    "quoteAnchor": "By Byfleet station we emerged from the pine trees",
+    "passage": "By Byfleet station we emerged from the pine trees, and found the country calm and peaceful under the morning sunlight. We were far beyond the range of the Heat-Ray there, and had it not been for the silent desertion of some of the houses, the stirring movement of packing in others, and the knot of soldiers standing on the bridge over the railway and staring down the line towards Woking, the day would have seemed very like any other Sunday.",
+    "note": "Fleeing the burning common, the narrator falls in with a survivor of the wrecked artillery, the man who reappears later in London. Together they cross a Byfleet still going about a nervous Sunday, its meadows filling with twelve-pounders pointed uselessly towards Woking. The artilleryman's verdict: bows and arrows against the lightning.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 1, Chapter XI",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "guide",
+        "ref": "Byfleet, Surrey, on the railway between Woking and Weybridge",
+        "url": "https://en.wikipedia.org/wiki/Byfleet"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-thames-at-shepperton-and-weybridge",
+    "name": "The Thames at Shepperton and Weybridge",
+    "progressLabel": "Bk. 1, Ch. 12",
+    "character": "narrator",
+    "coords": [-0.4586, 51.3821],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells sets the scene at Shepperton Lock, where the Wey joins the Thames, with Shepperton Church across the water. The pin marks Shepperton Lock at the Wey-Thames junction.",
+    "quoteAnchor": "It struck the tower of Shepperton Church",
+    "passage": "It drove along in a straight line, incapable of guidance. It struck the tower of Shepperton Church, smashing it down as the impact of a battering ram might have done, swerved aside, blundered on and collapsed with tremendous force into the river out of my sight.",
+    "note": "At the crossing where the Wey meets the Thames, hidden guns near Shepperton land a direct hit and decapitate a tripod as it wades the river, the first Martian machine humans manage to kill. The headless colossus reels on, brings down Shepperton Church tower, and crashes into the water, while the Heat-Ray boils the Thames around the fugitives.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 1, Chapter XII",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Shepperton Lock, on the Thames at the mouth of the River Wey",
+        "url": "https://www.riverthames.co.uk/thames-locks/shepperton-lock/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "richmond-and-kew-toward-london",
+    "name": "Richmond and Kew: toward London",
+    "progressLabel": "Bk. 1, Ch. 17",
+    "character": "narrator",
+    "coords": [-0.2872, 51.4855],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells names Kew, Kew Lodge, and the burning of Richmond town. The pin marks Kew, on the road the narrator takes as the tripods close on London.",
+    "quoteAnchor": "as we approached Kew, came a number of people running",
+    "passage": "Then suddenly, as we approached Kew, came a number of people running, and the upperworks of a Martian fighting-machine loomed in sight over the housetops, not a hundred yards away from us. We stood aghast at our danger, and had the Martian looked down we must immediately have perished.",
+    "note": "The Martians push down the Thames valley through Richmond and Kew, spreading the suffocating Black Smoke ahead of them. Here the narrator and the curate nearly walk under a fighting-machine's feet, and watch another out across the meadows towards Kew Lodge, hunting down the last knots of people fleeing before it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 1, Chapter XVII",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kew, London Borough of Richmond upon Thames",
+        "url": "https://en.wikipedia.org/wiki/Kew"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-man-on-putney-hill",
+    "name": "The man on Putney Hill",
+    "progressLabel": "Bk. 2, Ch. 7",
+    "character": "artilleryman",
+    "coords": [-0.2214, 51.454],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells names Putney Hill and the inn that stands at its top. The pin marks the top of Putney Hill by Putney Heath; the inn is traditionally identified with the Green Man there.",
+    "quoteAnchor": "the inn that stands at the top of Putney Hill",
+    "passage": "I spent that night in the inn that stands at the top of Putney Hill, sleeping in a made bed for the first time since my flight to Leatherhead.",
+    "note": "Back across the river in a silent, half-ruined London, the narrator meets the artilleryman again, dug into a house on Putney Hill. The soldier lays out a grand scheme to live in the drains and build a new humanity underground, then spends the day eating, drinking, and playing cards. The narrator walks on alone into the dead city.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 2, Chapter VII",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Green Man, at the top of Putney Hill on Putney Heath, Wandsworth, London",
+        "url": "https://en.wikipedia.org/wiki/Green_Man,_Putney"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "primrose-hill-the-martians-dead",
+    "name": "Primrose Hill: the Martians dead",
+    "progressLabel": "Bk. 2, Ch. 8",
+    "character": "narrator",
+    "coords": [-0.1614, 51.5399],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Wells names Primrose Hill as the Martians' final redoubt. The pin marks the summit of Primrose Hill, where the novel closes and a Martian machine is imagined still standing.",
+    "quoteAnchor": "a dozen of them stark and silent and laid in a row, were the Martians",
+    "passage": "And scattered about it, some in their overturned war-machines, some in the now rigid handling-machines, and a dozen of them stark and silent and laid in a row, were the Martians—dead!—slain by the putrefactive and disease bacteria against which their systems were unprepared.",
+    "note": "The narrator climbs a delirious, deserted London to Primrose Hill, the Martians' last stronghold, expecting to die. Instead he finds them dead in their redoubt, killed not by any human weapon but by earthly bacteria their bodies could not resist. The birds are already at the fallen machines. The war is over.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The War of the Worlds, Book 2, Chapter VIII",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Primrose Hill, Regent's Park, London Borough of Camden",
+        "url": "https://en.wikipedia.org/wiki/Primrose_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
