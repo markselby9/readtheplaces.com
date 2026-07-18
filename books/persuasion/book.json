@@ -4,20 +4,38 @@
   "author": "Jane Austen",
   "published": 1817,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-2.3597, 51.3814],
-  "zoom": 12.5,
+  "zoom": 8.5,
   "setting": {
     "city": "Bath",
     "country": "GB",
-    "note": "Austen’s Bath, named street by street: Camden Place, the Pump Room, Milsom Street, the White Hart. The novel also carries Anne Elliot to the Cobb at Lyme Regis, where Louisa falls. It brings both Bath and Jane Austen into the atlas.",
-    "bbox": [-2.414, 51.351, -2.316, 51.411]
+    "note": "Austen's last completed novel runs on a line from the Somerset countryside to Georgian Bath and out to the Dorset coast. Kellynch Hall and Uppercross are invented estates, but she plants them firmly in Somersetshire, near the real market country around Crewkerne and Taunton. Bath is the real spa city, named street by street: the Elliots take a house in Camden Place, the real Camden Crescent up on Lansdown, and Anne walks Milsom Street, the Pump Room and the White Hart inn. And at Lyme Regis on the Dorset coast the party walks out on the Cobb, the real stone harbour wall, where Louisa Musgrove falls. The map draws Anne Elliot's England, from a Somerset drawing-room to the sea wall at Lyme and back to Bath.",
+    "bbox": [-2.97, 50.7, -2.34, 51.4]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Jane Austen published this in 1817.",
+    "originalWork": "Public domain. Jane Austen, first published 1817; the author died in 1817.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Jane Austen, Persuasion (1817)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/105",
+    "territoryNotes": "Public domain in the United States (published 1817) and in the United Kingdom and the EU, where the author died more than 70 years ago (1817).",
+    "attribution": "Jane Austen, Persuasion (1817). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "accentSourceQuote": "dark blue seas",
+    "note": "The dark blue of the sea and the navy that fills the book: the sailors home from the war, the walk to the Cobb at Lyme, the view Captain Benwick and Anne share of Lord Byron's \"dark blue seas.\" Clears WCAG AA on paper."
+  },
+  "characters": {
+    "anne": {
+      "name": "Anne Elliot",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "Anne, smiling and blushing"
+    },
+    "wentworth": {
+      "name": "Captain Wentworth",
+      "color": "#8A6A12",
+      "colorSourceQuote": "a more glowing, manly, open look"
+    }
   }
 }
