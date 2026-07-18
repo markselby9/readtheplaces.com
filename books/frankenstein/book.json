@@ -1,23 +1,42 @@
 {
   "id": "frankenstein",
   "title": "Frankenstein",
+  "titleOriginal": "Frankenstein; or, The Modern Prometheus",
   "author": "Mary Shelley",
   "published": 1818,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [6.1466, 46.2018],
-  "zoom": 12.5,
+  "zoom": 8,
   "setting": {
     "city": "Geneva",
     "country": "CH",
-    "note": "Geneva, the Mer de Glace above Chamonix, and a laboratory in Ingolstadt. Shelley wanders from the Alps to the Arctic, but the lake at the centre is precise, and it brings Switzerland into the atlas.",
-    "bbox": [6.11, 46.178, 6.176, 46.232]
+    "note": "Victor Frankenstein is a Genevese, and the lake is the fixed centre of the book: his family's house in the city, the campagne at Belrive, and Plainpalais across the water, where the creature kills his brother William. From there the story climbs to the Mer de Glace above Chamonix, the real glacier where Victor meets the creature face to face. The making of the creature at Ingolstadt, the destroyed mate in the Orkneys, and the final chase across the Arctic ice all lie far outside this frame, and are flagged as excursions.",
+    "bbox": [6.05, 45.88, 6.95, 46.25]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Mary Shelley published this in 1818.",
+    "originalWork": "Public domain. Mary Shelley, first published 1818; the author died in 1851.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Mary Shelley, Frankenstein (1818)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/84",
+    "territoryNotes": "Public domain in the United States and in the United Kingdom and EU, where the author died more than 70 years ago (1851).",
+    "attribution": "Mary Shelley, Frankenstein (1818). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "the dull yellow eye of the creature",
+    "note": "The dull yellow of the creature's opening eye on the night of its making, taken straight from the text. A dark gold that clears WCAG AA on paper."
+  },
+  "characters": {
+    "victor": {
+      "name": "Victor Frankenstein",
+      "color": "#2E5064",
+      "colorSourceQuote": "the blue lake and rapid Rhone"
+    },
+    "creature": {
+      "name": "The creature",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "straight black lips"
+    }
   }
 }

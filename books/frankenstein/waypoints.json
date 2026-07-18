@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "id": "geneva-plainpalais",
+    "name": "Geneva and Plainpalais",
+    "progressLabel": "Geneva, the night of the storm",
+    "character": "creature",
+    "coords": [6.1418, 46.1961],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "I was obliged to cross the lake in a boat to arrive at Plainpalais",
+    "passage": "As I could not pass through the town, I was obliged to cross the lake in a boat to arrive at Plainpalais. During this short voyage I saw the lightning playing on the summit of Mont Blanc in the most beautiful figures.",
+    "note": "Home to a murder. Victor lands at Plainpalais, the open ground across the lake from the old city, to visit the spot where his young brother William was killed. In the storm's glare he sees the creature among the rocks of Mont Salêve and knows at once who the murderer is. Plainpalais and the Salêve still bound Geneva to the south, exactly as Shelley places them.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Frankenstein, Volume I, Chapter 7",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Plaine de Plainpalais, Geneva, Switzerland",
+        "url": "https://en.wikipedia.org/wiki/Plaine_de_Plainpalais"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ingolstadt-the-making",
+    "name": "Ingolstadt: the making",
+    "progressLabel": "Ingolstadt, a night in November",
+    "character": "victor",
+    "coords": [11.4257, 48.7665],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ingolstadt, the Bavarian university town where Victor studies, is real and named repeatedly, but Shelley never fixes the house or garret in which he assembles the creature. The pin marks the town, some 400 km northeast of Geneva, and is flagged as an excursion beyond the book's setting.",
+    "quoteAnchor": "I saw the dull yellow eye of the creature open",
+    "passage": "It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.",
+    "note": "In his lodgings at the university of Ingolstadt, on a dreary night of November, Victor infuses the spark of life and recoils from what he has made. Everything that follows across Europe and the Arctic begins in this room. The town is a real one on the Danube; the laboratory is Shelley's invention.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Frankenstein, Volume I, Chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ingolstadt, Bavaria, Germany; the historic university town on the Danube",
+        "url": "https://en.wikipedia.org/wiki/Ingolstadt"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mer-de-glace-montanvert",
+    "name": "The Mer de Glace, above Chamonix",
+    "progressLabel": "The Mer de Glace, near noon",
+    "character": "creature",
+    "coords": [6.9205, 45.9042],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "From the side where I now stood Montanvert was exactly opposite",
+    "passage": "From the side where I now stood Montanvert was exactly opposite, at the distance of a league; and above it rose Mont Blanc, in awful majesty. I remained in a recess of the rock, gazing on this wonderful and stupendous scene.",
+    "note": "On the sea of ice below Montanvert, with Mont Blanc above, the creature comes bounding over the crevices to meet its maker and demand a hearing. Here it tells its whole story and asks for a mate. The Mer de Glace and the Montenvers viewpoint above Chamonix are real and still visited; Shelley crossed this ground herself in 1816.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Frankenstein, Volume II, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mer de Glace glacier and Montenvers, above Chamonix, Haute-Savoie, France",
+        "url": "https://en.wikipedia.org/wiki/Mer_de_Glace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-orkney-islands",
+    "name": "The Orkney Islands",
+    "progressLabel": "The Orkneys, at his second labour",
+    "character": "victor",
+    "coords": [-3.0, 59.02],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Shelley names the Orkneys but sets the work on an unnamed island, 'one of the remotest', with three huts and five inhabitants. The pin marks the Orkney archipelago off the north coast of Scotland; the exact islet is not identifiable. Flagged as an excursion beyond the book's setting.",
+    "quoteAnchor": "the remotest of the Orkneys as the scene of my labours",
+    "passage": "With this resolution I traversed the northern highlands and fixed on one of the remotest of the Orkneys as the scene of my labours. It was a place fitted for such a work, being hardly more than a rock whose high sides were continually beaten upon by the waves.",
+    "note": "On a barren rock in the Orkneys, Victor begins to build the female mate the creature has extracted from him, then tears her to pieces as the creature watches at the window. It is the promise broken here that dooms Elizabeth. The Orkneys are real; the island of three huts is a composite.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Frankenstein, Volume III, Chapter 3",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "kind": "guide",
+        "ref": "Orkney Islands, off the north coast of Scotland",
+        "url": "https://en.wikipedia.org/wiki/Orkney"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-arctic-ice",
+    "name": "The Arctic ice",
+    "progressLabel": "The frozen ocean, the last of the tale",
+    "character": "creature",
+    "coords": [40.0, 80.0],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Walton's ship is beset in the high Arctic north of Archangel, in open pack ice that Shelley never fixes to a coordinate. The pin marks a plausible point in the frozen ocean above the Russian Arctic; it is an approximation, not a named place. Flagged as an excursion beyond the book's setting.",
+    "quoteAnchor": "He sprang from the cabin-window as he said this, upon the ice raft",
+    "passage": "He sprang from the cabin-window as he said this, upon the ice raft which lay close to the vessel. He was soon borne away by the waves and lost in darkness and distance.",
+    "note": "The frame closes here. Walton's expedition, trapped in the ice, takes the dying Victor aboard and hears the whole history; when Victor is dead the creature appears over the body, then leaps to an ice raft and is carried off into the dark. The Arctic is the one horizon the chase never crosses back from.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Frankenstein, Walton, in continuation (final letter)",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Arctic Ocean pack ice, north of the Russian Arctic coast",
+        "url": "https://en.wikipedia.org/wiki/Arctic_Ocean"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
