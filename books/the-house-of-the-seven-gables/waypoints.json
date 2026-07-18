@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "house-of-the-seven-gables",
+    "name": "The House of the Seven Gables (Turner-Ingersoll Mansion)",
+    "progressLabel": "I. The Old Pyncheon Family",
+    "character": "hepzibah",
+    "coords": [-70.888, 42.5216],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The rusty, seven-gabled house is the real Turner-Ingersoll Mansion (1668) at 115 Derby Street on the Turner Street corner, by Salem harbour. Hawthorne knew it through his cousin Susanna Ingersoll, and it is preserved today as the House of the Seven Gables museum. The pin marks the mansion itself.",
+    "quoteAnchor": "Halfway down a by-street of one of our New England towns stands a rusty wooden house, with seven acutely peaked gables",
+    "passage": "Halfway down a by-street of one of our New England towns stands a rusty wooden house, with seven acutely peaked gables, facing towards various points of the compass, and a huge, clustered chimney in the midst. The street is Pyncheon Street; the house is the old Pyncheon House; and an elm-tree, of wide circumference, rooted before the door, is familiar to every town-born child by the title of the Pyncheon Elm.",
+    "note": "The novel opens on the house itself, black in the east wind, its seven peaks pointing every way. Hawthorne makes the mansion a character before any person appears in it, carrying two centuries of Pyncheon guilt in its weather-stained timbers. The real house still stands on Turner Street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The House of the Seven Gables, ch. I, The Old Pyncheon Family",
+        "url": "https://www.gutenberg.org/ebooks/77"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The House of the Seven Gables (Turner-Ingersoll Mansion), National Historic Landmark, Salem, Massachusetts",
+        "url": "https://7gables.org/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hepzibah-cent-shop",
+    "name": "Hepzibah's cent-shop",
+    "progressLabel": "II. The Little Shop-Window",
+    "character": "hepzibah",
+    "coords": [-70.8882, 42.5215],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The little shop is cut into the front gable of the house, facing the street; an ancestor added the shop-door a century before. The pin sits at the Turner Street frontage of the real mansion, where such a gable shop-window would have opened.",
+    "quoteAnchor": "she began to busy herself in arranging some children's playthings",
+    "passage": "After a moment's pause on the threshold, peering towards the window with her near-sighted scowl, as if frowning down some bitter enemy, she suddenly projected herself into the shop. The haste, and, as it were, the galvanic impulse of the movement, were really quite startling. Nervously—in a sort of frenzy, we might almost say—she began to busy herself in arranging some children's playthings, and other little wares, on the shelves and at the shop-window.",
+    "note": "Ruined and proud, the old gentlewoman Hepzibah must at last open a penny shop in the gable to keep from starving. She sets out gingerbread animals and marbles with a trembling hand, the final throe of what called itself old gentility. The shop is a real feature of the house, its little window still shown to visitors.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The House of the Seven Gables, ch. II, The Little Shop-Window",
+        "url": "https://www.gutenberg.org/ebooks/77"
+      },
+      {
+        "kind": "guide",
+        "ref": "The cent-shop and the seven gables, House of the Seven Gables museum, Salem",
+        "url": "https://7gables.org/visit/the-house-of-the-seven-gables/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "maules-well-garden",
+    "name": "The garden and Maule's Well",
+    "progressLabel": "VI. Maule's Well",
+    "character": "phoebe",
+    "coords": [-70.8876, 42.5218],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The garden and its spring lie behind the house, toward the harbour. Maule's Well is the natural spring that drew the first settler to the spot and that turned brackish after Colonel Pyncheon seized the land; the museum keeps a garden and well on the seaward side. The pin marks that ground behind the real mansion.",
+    "quoteAnchor": "This was a fountain, set round with a rim of old mossy stones",
+    "passage": "There was one other object in the garden which Nature might fairly claim as her inalienable property, in spite of whatever man could do to render it his own. This was a fountain, set round with a rim of old mossy stones, and paved, in its bed, with what appeared to be a sort of mosaic-work of variously colored pebbles.",
+    "note": "Phoebe finds the neglected garden behind the house, and at its centre the old spring, Maule's Well, its bewitched water shifting quaint figures over the coloured pebbles. The well carries the wizard Maule's curse into the Pyncheons' own ground; the garden and well are kept behind the real house today.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The House of the Seven Gables, ch. VI, Maule's Well",
+        "url": "https://www.gutenberg.org/ebooks/77"
+      },
+      {
+        "kind": "guide",
+        "ref": "The garden and Maule's Well, House of the Seven Gables museum, Salem",
+        "url": "https://7gables.org/visit/the-house-of-the-seven-gables/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "arched-window-pyncheon-street",
+    "name": "The arched window over Pyncheon Street",
+    "progressLabel": "XI. The Arched Window",
+    "character": "clifford",
+    "coords": [-70.8884, 42.5213],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pyncheon Street is Hawthorne's name for the real by-street the house stands on, today's Turner Street in Salem. The arched window is the great second-storey window from which Clifford watches the street; the pin marks the Turner Street frontage of the house.",
+    "quoteAnchor": "If once he were fairly seated at the window, even Pyncheon Street would hardly be so dull and lonely",
+    "passage": "If once he were fairly seated at the window, even Pyncheon Street would hardly be so dull and lonely but that, somewhere or other along its extent, Clifford might discover matter to occupy his eye, and titillate, if not engross, his observation.",
+    "note": "Broken by thirty years' unjust imprisonment, Clifford sits at the arched window and watches the life of the street go by, a scissor-grinder, a water-cart, an organ-grinder's monkey, a passing train. The window looks out on the by-street Hawthorne renames Pyncheon Street, the real Turner Street in Salem.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The House of the Seven Gables, ch. XI, The Arched Window",
+        "url": "https://www.gutenberg.org/ebooks/77"
+      },
+      {
+        "kind": "guide",
+        "ref": "Turner Street, Salem, the by-street of the real house (Hawthorne's Pyncheon Street)",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables_(house)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "flight-by-railroad",
+    "name": "The flight by railroad from Salem",
+    "progressLabel": "XVII. The Flight of Two Owls",
+    "character": "clifford",
+    "coords": [-70.8967, 42.5243],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Fleeing Judge Pyncheon's dead body in the house, Hepzibah and Clifford board a train at the town's railway station, a large structure of gray stone. Salem's depot stood off Washington Street, roughly a kilometre from the house; the pin marks that historic station area, within the book's Salem setting.",
+    "quoteAnchor": "A train of cars was just ready for a start; the locomotive was fretting and fuming",
+    "passage": "A train of cars was just ready for a start; the locomotive was fretting and fuming, like a steed impatient for a headlong rush; and the bell rang out its hasty peal, so well expressing the brief summons which life vouchsafes to us in its hurried career.",
+    "note": "For once seized by reckless energy, Clifford pulls Hepzibah out of the house and onto a departing train, and the two shut-in Pyncheons are swept into the great current of human life. The novel's one journey beyond the house begins at Salem's railway station.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The House of the Seven Gables, ch. XVII, The Flight of Two Owls",
+        "url": "https://www.gutenberg.org/ebooks/77"
+      },
+      {
+        "kind": "guide",
+        "ref": "Salem Depot and the Eastern Railroad through Salem, Massachusetts",
+        "url": "https://en.wikipedia.org/wiki/Salem_station_(Massachusetts)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

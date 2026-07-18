@@ -4,20 +4,43 @@
   "author": "Nathaniel Hawthorne",
   "published": 1851,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-70.8912, 42.5205],
   "zoom": 12.5,
   "setting": {
     "city": "Salem",
     "country": "US",
-    "note": "The gabled house is real, still standing on Turner Street in Salem and now a museum. Hawthorne built the novel around a house he could see, in the town he grew up in and later fled.",
+    "note": "The gabled house is real. It still stands on Turner Street by Salem harbour, the Turner-Ingersoll Mansion that Hawthorne knew and that is preserved today as the House of the Seven Gables museum. Around it the novel keeps its bearings in Salem: the little shop cut into the front gable, the garden and Maule's Well behind, the arched window over the by-street Hawthorne renames Pyncheon Street, and the railway on which Hepzibah and Clifford flee the town. The interiors are inferred to the real house, and Pyncheon Street is Hawthorne's name for a real Salem street, which is what the certainty labels are for.",
     "bbox": [-70.94, 42.49, -70.85, 42.55]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Nathaniel Hawthorne published this in 1851.",
+    "originalWork": "Public domain. Nathaniel Hawthorne, first published 1851; the author died in 1864.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-house-of-the-seven-gables",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Nathaniel Hawthorne, The House of the Seven Gables (1851)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/77",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1864).",
+    "attribution": "Nathaniel Hawthorne, The House of the Seven Gables (1851). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "verdant mossiness",
+    "note": "The weathered green of the old house, the \"verdant mossiness\" Hawthorne points out on its roof and walls, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "hepzibah": {
+      "name": "Hepzibah Pyncheon",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "black silk"
+    },
+    "clifford": {
+      "name": "Clifford Pyncheon",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "faded crimson"
+    },
+    "phoebe": {
+      "name": "Phoebe Pyncheon",
+      "color": "#8A6A12",
+      "colorSourceQuote": "brown ringlets"
+    }
   }
 }
