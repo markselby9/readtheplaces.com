@@ -1,0 +1,117 @@
+[
+  {
+    "id": "belhaven-leefolt-house",
+    "name": "Belhaven (the Leefolt house)",
+    "progressLabel": "Aibileen",
+    "character": "aibileen",
+    "coords": [-90.172, 32.308],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Belhaven is the real historic neighbourhood of large houses just north-east of downtown Jackson where the book's white families live; the individual homes, like Elizabeth Leefolt's, are invented and sited within it.",
+    "reference": "Aibileen's chapters",
+    "order": 1,
+    "note": "Aibileen keeps house and raises the neglected toddler Mae Mobley for the young Leefolt family in Belhaven, the seventeenth white child she has brought up. The comfortable street, with its bridge parties and its separate bathroom built for the maid, is where the whole quiet rebellion of the book begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Help (novel), Wikipedia, on the Jackson setting and characters",
+        "url": "https://en.wikipedia.org/wiki/The_Help_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Belhaven, the historic Jackson neighbourhood",
+        "url": "https://en.wikipedia.org/wiki/Belhaven,_Jackson,_Mississippi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-jackson-league",
+    "name": "Downtown Jackson (the Junior League)",
+    "progressLabel": "Hilly",
+    "character": "hilly",
+    "coords": [-90.1848, 32.2988],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The society life of the book, the Junior League and its charity ball, is run from downtown Jackson around Capitol Street; the specific League premises are not named, so this is sited in the real business district.",
+    "reference": "Hilly and the League",
+    "order": 2,
+    "note": "Hilly Holbrook rules Jackson society from the Junior League, pushing her Home Health Sanitation Initiative to require separate bathrooms for Black domestic workers. Downtown is the stage for her fundraisers and her power, and for the newsletter Skeeter edits that becomes a weapon against her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Help (novel), Wikipedia, on Hilly Holbrook and the League",
+        "url": "https://en.wikipedia.org/wiki/The_Help_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jitney-jungle-grocery",
+    "name": "The Jitney Jungle grocery",
+    "progressLabel": "Minny",
+    "character": "minny",
+    "coords": [-90.179, 32.305],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Jitney Jungle was a real Jackson-founded grocery chain of the period, the kind of store where the maids shop for their employers; sited at its Belhaven-area location on Fortification Street.",
+    "reference": "Minny's chapters",
+    "order": 3,
+    "note": "Minny, the best cook in town and the sharpest tongue, moves between the white kitchens she works in and the errands that fill her days, the grocery among them. Her firing by Hilly, and the notorious pie she serves in revenge, drive one of the book's running threads.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Help (novel), Wikipedia, on Minny Jackson",
+        "url": "https://en.wikipedia.org/wiki/The_Help_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Jitney Jungle, the Jackson-founded grocery chain",
+        "url": "https://en.wikipedia.org/wiki/Jitney_Jungle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "farish-street-neighbourhood",
+    "name": "Aibileen's neighbourhood, near Farish Street",
+    "progressLabel": "Aibileen",
+    "character": "aibileen",
+    "coords": [-90.187, 32.303],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Aibileen and Minny live across town from their employers, in Jackson's historically Black neighbourhood around the Farish Street district; the specific houses are invented and sited there.",
+    "reference": "Aibileen's chapters",
+    "order": 4,
+    "note": "In the evenings the maids return to their own community, centred on the once-thriving Black business district of Farish Street. It is here, in Aibileen's kitchen and at church, that the women meet in secret to tell their stories for Skeeter's book, at real risk to their livelihoods and safety.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Farish Street Historic District, the heart of Black Jackson",
+        "url": "https://en.wikipedia.org/wiki/Farish_Street_Historic_District"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Help (novel), Wikipedia, on the maids' community",
+        "url": "https://en.wikipedia.org/wiki/The_Help_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "longleaf-phelan-farm",
+    "name": "Longleaf, the Phelan cotton farm",
+    "progressLabel": "Skeeter",
+    "character": "skeeter",
+    "coords": [-90.13, 32.44],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Skeeter's family cotton plantation, Longleaf, is invented; the novel places it on the rural edge of the Jackson area. Sited in the farmland north of the city.",
+    "reference": "Skeeter's chapters",
+    "order": 5,
+    "note": "Skeeter grows up at Longleaf, the family cotton farm, raised largely by the maid Constantine whose sudden disappearance she cannot explain. Home from Ole Miss and unmarried, she sits at her mother's typewriter here and starts the project that will quietly turn Jackson upside down.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Help (novel), Wikipedia, on Skeeter Phelan and Longleaf",
+        "url": "https://en.wikipedia.org/wiki/The_Help_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

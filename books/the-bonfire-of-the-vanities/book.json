@@ -1,0 +1,46 @@
+{
+  "id": "the-bonfire-of-the-vanities",
+  "title": "The Bonfire of the Vanities",
+  "author": "Tom Wolfe",
+  "published": 1987,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.96, 40.79],
+  "zoom": 11,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "Wolfe's panorama of 1980s New York runs on the distance between its worlds. Sherman McCoy, a Wall Street bond trader who thinks of himself as a Master of the Universe, lives in a Park Avenue duplex and takes a wrong turn off the expressway into the South Bronx, where his mistress hits a young Black man with his car. The fallout pulls in the Bronx County Courthouse, a Harlem preacher, and the tabloids, and the map is the city's fault lines laid end to end.",
+    "bbox": [-74.03, 40.7, -73.89, 40.85]
+  },
+  "rights": {
+    "originalWork": "In copyright. Tom Wolfe, first published 1987. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Bonfire of the Vanities, Tom Wolfe (1987). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The burnt orange of the bonfire in the title, the vanities of money and status going up in flames. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sherman": {
+      "name": "Sherman McCoy",
+      "color": "#2E5064"
+    },
+    "maria": {
+      "name": "Maria Ruskin",
+      "color": "#6B3B5A"
+    },
+    "kramer": {
+      "name": "Larry Kramer",
+      "color": "#8A6A12"
+    },
+    "bacon": {
+      "name": "Reverend Bacon",
+      "color": "#5A3B8A"
+    }
+  }
+}

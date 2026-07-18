@@ -1,0 +1,107 @@
+[
+  {
+    "id": "park-avenue-duplex",
+    "name": "Sherman McCoy's Park Avenue duplex",
+    "progressLabel": "Chapter 1",
+    "character": "sherman",
+    "coords": [-73.9645, 40.7685],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Sherman's ten-room apartment is invented but sited squarely on upper Park Avenue in the East 60s–70s, the address that stands for everything he believes about himself; placed on that stretch of the avenue.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens in the duplex that certifies Sherman as a Master of the Universe: the two-storey marble entrance, the decorator wife, the mortgage that quietly devours his million-dollar income. It is the height from which the rest of the novel drops him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bonfire of the Vanities, Wikipedia, on Sherman McCoy and his world",
+        "url": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wall-street-pierce-and-pierce",
+    "name": "Wall Street (Pierce & Pierce)",
+    "progressLabel": "Chapter 3",
+    "character": "sherman",
+    "coords": [-74.009, 40.706],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sherman trades bonds at the fictional firm Pierce & Pierce, set on Wall Street in the real Financial District where the 1980s bond market minted the fortunes the book satirises.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "On the bond-trading floor Sherman is a god of the golden crumbs, moving hundreds of millions and skimming his fraction. Wolfe uses the roar of the room to show the money that props up the Park Avenue life, and the single failing trade that starts to pull it apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bonfire of the Vanities, Wikipedia, on Pierce & Pierce and the bond market",
+        "url": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "south-bronx-wrong-turn",
+    "name": "The wrong turn in the South Bronx",
+    "progressLabel": "Chapter 4",
+    "character": "maria",
+    "coords": [-73.916, 40.812],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Returning from the airport, Sherman misses the ramp and drops off the expressway into the South Bronx; the borough and its expressways are real, the exact ramp unnamed. Sited in the South Bronx the book describes.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "Lost off the Bruckner in the dark, Sherman and his mistress Maria are confronted by two young men on a ramp. Panicking, Maria takes the wheel and the car strikes one of them, Henry Lamb. The couple flee, and that hit-and-run is the hinge the entire novel turns on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bonfire of the Vanities, Wikipedia, on the South Bronx incident",
+        "url": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bronx-county-courthouse",
+    "name": "The Bronx County Courthouse",
+    "progressLabel": "Chapter 6",
+    "character": "kramer",
+    "coords": [-73.923, 40.8265],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The prosecution of Sherman plays out at the real Bronx County Courthouse on the Grand Concourse, the monumental building that houses the district attorney's office in the novel.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "The assistant DA Larry Kramer, underpaid and hungry for a case that will matter, seizes on the Lamb affair as his chance. The courthouse on the Grand Concourse, and the machinery of a Bronx justice system starved of white defendants, turn Sherman into a political trophy.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bronx County Courthouse, Grand Concourse",
+        "url": "https://en.wikipedia.org/wiki/Bronx_County_Courthouse"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Bonfire of the Vanities, Wikipedia, on Kramer and the prosecution",
+        "url": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harlem-reverend-bacon",
+    "name": "Harlem (Reverend Bacon)",
+    "progressLabel": "Chapter 8",
+    "character": "bacon",
+    "coords": [-73.945, 40.81],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Reverend Bacon operates out of Harlem, from which he organises the protests and press campaign around Henry Lamb; the church and office are invented and sited in the real Harlem.",
+    "reference": "Chapter 8",
+    "order": 5,
+    "note": "The Reverend Bacon, a canny Harlem power broker, turns the injured Henry Lamb into a cause, staging demonstrations and working the newspapers. Wolfe uses him to show how outrage, real and manufactured, becomes leverage in a city run on publicity.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bonfire of the Vanities, Wikipedia, on Reverend Bacon",
+        "url": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
