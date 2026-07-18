@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "digne-candlesticks",
+    "name": "Digne: the Bishop's candlesticks",
+    "progressLabel": "Fantine, Book 2",
+    "character": "valjean",
+    "coords": [6.2364, 44.0933],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hugo veils the town as “D——” throughout, but the see of the good Bishop Myriel is Digne, in the Alps of Provence; Hugo modelled Myriel on the real Bishop of Digne, Bienvenu de Miollis. The pin marks Digne-les-Bains, far south of the Paris setting.",
+    "quoteAnchor": "It is your soul that I buy from you; I withdraw it from black thoughts",
+    "passage": "“Jean Valjean, my brother, you no longer belong to evil, but to good. It is your soul that I buy from you; I withdraw it from black thoughts and the spirit of perdition, and I give it to God.”",
+    "note": "Arrested with the silver he stole, the paroled convict Jean Valjean is dragged back to the bishop who fed him. Instead of accusing him, Monseigneur Bienvenu gives him the candlesticks too and buys his soul for God. The gift breaks Valjean open and sets the whole novel in motion; he carries the candlesticks for the rest of his life.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume I (Fantine), Book Second, Chapter XII (The Bishop Works)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Digne-les-Bains, Provence-Alpes-Côte d'Azur, the see of the historical Bishop Bienvenu de Miollis",
+        "url": "https://en.wikipedia.org/wiki/Digne-les-Bains"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "montreuil-sur-mer-mayor",
+    "name": "Montreuil-sur-Mer: Monsieur Madeleine, the mayor",
+    "progressLabel": "Fantine, Book 5",
+    "character": "valjean",
+    "coords": [1.763, 50.4648],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hugo abbreviates the town as “M. sur M.” in these chapters but names it in full, Montreuil-sur-Mer, later in the book. The pin marks the walled town in the Pas-de-Calais, in northern France, well outside the Paris setting.",
+    "quoteAnchor": "Father Madeleine had become Monsieur Madeleine. Monsieur Madeleine became Monsieur le Maire.",
+    "passage": "This was the third phase of his ascent. Father Madeleine had become Monsieur Madeleine. Monsieur Madeleine became Monsieur le Maire.",
+    "note": "Valjean has vanished into a new life here as “Father Madeleine,” whose glass-bead factory has made the whole town prosper, and the grateful people push him into the mayor's chair. It is in his Montreuil that Fantine is driven from his own workshop into ruin, and that Inspector Javert first begins to circle the mayor he cannot place.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume I (Fantine), Book Fifth, Chapter II (Madeleine)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Montreuil-sur-Mer (Montreuil, Pas-de-Calais), the fortified town of the novel",
+        "url": "https://en.wikipedia.org/wiki/Montreuil,_Pas-de-Calais"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waterloo-battlefield",
+    "name": "Waterloo",
+    "progressLabel": "Cosette, Book 1",
+    "character": "marius",
+    "coords": [4.40472, 50.67833],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The battlefield south of Waterloo is real and named throughout Hugo's long digression; he sets the robbery in the hollow road of Ohain, on the field itself. The pin marks the Lion's Mound, the monument raised over the battlefield in Belgium, far from the Paris setting.",
+    "quoteAnchor": "I have been robbed,” said the officer; “I am sorry for that. You should have had them.",
+    "passage": "“I have been robbed,” said the officer; “I am sorry for that. You should have had them.” The steps of the patrol became more and more distinct. “Some one is coming,” said the prowler, with the movement of a man who is taking his departure. The officer raised his arm feebly, and detained him. “You have saved my life. Who are you?”",
+    "note": "Night has fallen on the lost battle, and the innkeeper Thénardier is out stripping the corpses. Robbing a half-buried officer, he accidentally drags the man free, and the officer, Colonel Pontmercy, believes himself rescued and swears to remember the name. Pontmercy is Marius's father; this squalid theft is the debt that later binds Marius to the Thénardiers.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume II (Cosette), Book First, Chapter XIX (The Battle-Field at Night)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Lion's Mound and the battlefield of Waterloo, Braine-l'Alleud, Belgium",
+        "url": "https://en.wikipedia.org/wiki/Lion%27s_Mound"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "luxembourg-gardens",
+    "name": "The Luxembourg Gardens",
+    "progressLabel": "Marius, Book 6",
+    "character": "marius",
+    "coords": [2.33722, 48.84694],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the young girl raised her eyes to him, the two glances met",
+    "passage": "One day, the air was warm, the Luxembourg was inundated with light and shade, the sky was as pure as though the angels had washed it that morning, the sparrows were giving vent to little twitters in the depths of the chestnut-trees. Marius had thrown open his whole soul to nature, he was not thinking of anything, he simply lived and breathed, he passed near the bench, the young girl raised her eyes to him, the two glances met.",
+    "note": "Marius, poor and adrift, has been watching the same white-haired old man and his daughter on a bench in the Luxembourg for months. On this warm morning she finally looks up, their eyes meet, and he is lost. The garden where they fall in love is real and unchanged, still spread below the Palais du Luxembourg on the Left Bank.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume III (Marius), Book Sixth (The Conjunction of Two Stars)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Jardin du Luxembourg, 6th arrondissement, Paris",
+        "url": "https://en.wikipedia.org/wiki/Jardin_du_Luxembourg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barricade-chanvrerie",
+    "name": "The barricade, Rue de la Chanvrerie",
+    "progressLabel": "St-Denis, Book 12",
+    "character": "marius",
+    "coords": [2.34805, 48.86309],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Rue de la Chanvrerie, where Hugo builds his barricade around the Corinthe wine-shop by Les Halles, was swept away when the Rue Rambuteau was cut through the quarter. The pin marks the neighbouring Rue Mondétour, named in the novel and still surviving, at the heart of the June 1832 rising near Saint-Merri.",
+    "quoteAnchor": "a red flag, fastened to this pole, floated over the barricade",
+    "passage": "The pole of the omnibus was placed upright and held up with ropes, and a red flag, fastened to this pole, floated over the barricade.",
+    "note": "This is the barricade the whole book has been climbing toward: a heap of overturned carts and torn-up paving in a dead-end street, the red flag raised over it, and a knot of doomed students under Enjolras waiting for an army. Marius comes here to die for love and country; Valjean comes to save him, and the sewers wait below.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume IV (Saint-Denis), Book Twelfth (Corinthe)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "guide",
+        "ref": "The June Rebellion of 1832, the Paris insurrection Hugo dramatises around the Rue de la Chanvrerie and Saint-Merri",
+        "url": "https://en.wikipedia.org/wiki/June_Rebellion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paris-sewers",
+    "name": "The Paris sewers",
+    "progressLabel": "Jean Valjean, Book 3",
+    "character": "valjean",
+    "coords": [2.3026, 48.8626],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hugo traces Valjean's underground march through named real sewers, but has him lose his way in the dark, so the exact route cannot be fixed. The pin marks the Musée des Égouts de Paris at the Pont de l'Alma, the working sewer where the city's underground is shown today.",
+    "quoteAnchor": "Marius’ two arms were passed round his neck, and the former’s feet dragged behind him",
+    "passage": "Nevertheless, he advanced as rapidly as possible. Marius’ two arms were passed round his neck, and the former’s feet dragged behind him. He held both these arms with one hand, and groped along the wall with the other. Marius’ cheek touched his, and clung there, bleeding.",
+    "note": "Carrying the unconscious Marius on his back, Valjean has dropped through a grating into the sewers to escape the soldiers hunting the barricade. Blind in the dark, wading the filth, feeling his way along the wall, he crosses Paris underground to bring his rival's body out alive. Hugo pauses the escape for a whole essay on the sewer as the city's conscience.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Les Misérables, Volume V (Jean Valjean), Book Third (Mud but the Soul)",
+        "url": "https://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Musée des Égouts de Paris (Paris Sewer Museum), Pont de l'Alma, 7th arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Paris_Sewer_Museum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

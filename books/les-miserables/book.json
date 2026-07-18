@@ -4,20 +4,38 @@
   "author": "Victor Hugo",
   "published": 1862,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [2.3444, 48.8615],
   "zoom": 12.5,
   "setting": {
     "city": "Paris",
     "country": "FR",
-    "note": "The barricade of the Rue de la Chanvrerie, the sewers, the convent. Hugo stops the novel for fifty pages to describe Paris, which is either a flaw or the point.",
+    "note": "Hugo's Paris is the heart of the book, and he maps it street by street: the Gorbeau tenement on the Boulevard de l'Hôpital, the Luxembourg where Marius and Cosette fall in love, the convent of Petit-Picpus, the barricade of the Rue de la Chanvrerie by Les Halles, and the sewers Valjean carries the wounded Marius through. The story reaches it from far off, though: from Digne in the Alps, from Montreuil-sur-Mer in the north, from the battlefield of Waterloo.",
     "bbox": [2.224, 48.816, 2.47, 48.902]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Victor Hugo published this in 1862.",
-    "translation": "Translated by isabel f hapgood. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Victor Hugo, Les Misérables (1862)."
+    "originalWork": "Public domain. Victor Hugo, first published 1862; the author died in 1885.",
+    "translation": "English translation by Isabel F. Hapgood (1887); she died in 1928, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/135",
+    "territoryNotes": "Public domain in the US and UK/EU: Hugo died 1885, Hapgood 1928.",
+    "attribution": "Victor Hugo, Les Misérables (1862), trans. Isabel F. Hapgood. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "nothing was to be seen except the red flag",
+    "note": "The red flag of the June 1832 barricade, the one image the whole novel drives toward. A deep signal red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "valjean": {
+      "name": "Jean Valjean",
+      "color": "#8A6A12",
+      "colorSourceQuote": "yellow passport"
+    },
+    "marius": {
+      "name": "Marius Pontmercy",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "he had not put off his black garments"
+    }
   }
 }
