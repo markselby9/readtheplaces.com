@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "id": "the-thames-at-gravesend",
+    "name": "The Thames at Gravesend (the frame)",
+    "progressLabel": "The Nellie, at anchor",
+    "character": "marlow",
+    "coords": [0.3685, 51.4415],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Gravesend is named in the text. The whole novella is told aboard the yawl Nellie, anchored in the sea-reach of the Thames waiting for the tide; the pin marks the town on the darkening shore. It sits in England, far outside the Congo setting, so it is flagged as the frame.",
+    "quoteAnchor": "The air was dark above Gravesend",
+    "passage": "The air was dark above Gravesend, and farther back still seemed condensed into a mournful gloom, brooding motionless over the biggest, and the greatest, town on earth.",
+    "note": "Marlow tells his story to four listeners on a cruising yawl becalmed on the Thames estuary below London. Conrad opens the book here, on the imperial river at dusk, so that the darkness Marlow found in Africa can be laid back over the heart of the empire that sent him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Heart of Darkness, Part I (the frame on the Thames)",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gravesend, Kent, on the south bank of the Thames estuary",
+        "url": "https://en.wikipedia.org/wiki/Gravesend"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-sepulchral-city-brussels",
+    "name": "Brussels, the sepulchral city (the Company)",
+    "progressLabel": "The sepulchral city",
+    "character": "marlow",
+    "coords": [4.3517, 50.8503],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The city is never named. It is Brussels, headquarters of the Belgian trading company that ran King Leopold II's Congo Free State, where Conrad signed his own contract in 1890. The pin marks central Brussels; it lies in Belgium, outside the Congo setting.",
+    "quoteAnchor": "a city that always makes me think of a whited sepulchre",
+    "passage": "In a very few hours I arrived in a city that always makes me think of a whited sepulchre. Prejudice no doubt. I had no difficulty in finding the Company's offices.",
+    "note": "Marlow crosses the Channel to sign on with the Company at its European headquarters. Conrad's phrase, a whited sepulchre, is scripture for a thing fair outside and full of death within, an exact verdict on the respectable Brussels boardroom that administered the atrocities of the Congo Free State.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Heart of Darkness, Part I (signing the contract)",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brussels, Belgium; seat of King Leopold II's Congo Free State administration",
+        "url": "https://en.wikipedia.org/wiki/Congo_Free_State"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "matadi-the-outer-station",
+    "name": "Matadi, the Outer Station",
+    "progressLabel": "The Outer Station",
+    "character": "marlow",
+    "coords": [13.4548, -5.8167],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Outer Station is not named. It stands at the head of ocean navigation on the lower Congo, where a railway is being blasted out to bypass the cataracts, which places it at Matadi, the river port Conrad reached in 1890 as the Matadi to Leopoldville line was under construction. The pin marks Matadi.",
+    "quoteAnchor": "each had an iron collar on his neck",
+    "passage": "I could see every rib, the joints of their limbs were like knots in a rope; each had an iron collar on his neck, and all were connected together with a chain whose bights swung between them, rhythmically clinking.",
+    "note": "At the Company's first station Marlow watches a chained file of Congolese labourers hauling earth for the railway, and finds nearby a shaded grove where the sick and worked-out are left to die. Conrad reports the forced labour of Leopold's regime plainly, as a thing he saw, not a thing he imagined.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Heart of Darkness, Part I (the Outer Station and the grove)",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "kind": "guide",
+        "ref": "Matadi, Kongo Central, Democratic Republic of the Congo; port at the head of navigation on the lower Congo",
+        "url": "https://en.wikipedia.org/wiki/Matadi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kinshasa-the-central-station",
+    "name": "Kinshasa, the Central Station",
+    "progressLabel": "The Central Station",
+    "character": "marlow",
+    "coords": [15.322, -4.325],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Central Station is not named. It lies about two hundred miles up-country, reached by an overland trek above the cataracts, on the navigable river where the steamers are based, which places it at Leopoldville, the station Conrad walked to in 1890 and the city now called Kinshasa. The pin marks Kinshasa.",
+    "quoteAnchor": "hobbled into the Central Station",
+    "passage": "On the fifteenth day I came in sight of the big river again, and hobbled into the Central Station. It was on a back water surrounded by scrub and forest, with a pretty border of smelly mud on one side, and on the three others enclosed by a crazy fence of rushes.",
+    "note": "After the long march around the falls Marlow reaches the Company's river depot, finds his steamer sunk, and spends months among the idle, envious agents Conrad calls pilgrims while he waits to go up-river to Kurtz. The real station grew into Kinshasa, today the capital of the Democratic Republic of the Congo.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Heart of Darkness, Part I (arrival at the Central Station)",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kinshasa (formerly Leopoldville), Democratic Republic of the Congo",
+        "url": "https://en.wikipedia.org/wiki/Kinshasa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kisangani-the-inner-station",
+    "name": "Kisangani, the Inner Station (Kurtz)",
+    "progressLabel": "The Inner Station",
+    "character": "kurtz",
+    "coords": [25.1908, 0.5153],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Inner Station is not named. It sits at the far limit of the river, in the ivory country at the very end of the navigable water, which places it near Stanley Falls, the up-river post Conrad's own voyage reached and the town now called Kisangani. The pin marks Kisangani, at the Boyoma (Stanley) Falls.",
+    "quoteAnchor": "those heads on the stakes",
+    "passage": "They would have been even more impressive, those heads on the stakes, if their faces had not been turned to the house. Only one, the first I had made out, was facing my way.",
+    "note": "Kurtz's station is the deepest point of the journey, where the Company's most productive ivory agent has set himself up as a god and ringed his house with the severed heads of the people he rules. Conrad puts it at the head of navigation near Stanley Falls, now Kisangani, the terminus of the real river route he travelled.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Heart of Darkness, Parts II-III (the Inner Station)",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kisangani (formerly Stanleyville), at the Boyoma Falls, Democratic Republic of the Congo",
+        "url": "https://en.wikipedia.org/wiki/Kisangani"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

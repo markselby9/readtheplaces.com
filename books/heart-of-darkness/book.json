@@ -2,22 +2,40 @@
   "id": "heart-of-darkness",
   "title": "Heart of Darkness",
   "author": "Joseph Conrad",
-  "published": 1899,
+  "published": 1902,
   "orderingKey": "chapter",
-  "center": [15.3424, -4.3197],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [19.0, -2.0],
+  "zoom": 5,
   "setting": {
-    "city": "Kinshasa",
+    "city": "Congo River",
     "country": "CD",
-    "note": "Conrad went up the Congo himself in 1890 and the novella follows his own journey. It will have almost no Street View, no historical layer, and the places are named obliquely. If the design survives this book it survives anything.",
-    "bbox": [15.127, -5.033, 16.534, -3.928]
+    "note": "Conrad steamed up the Congo himself in 1890 and Marlow's journey retraces his own. The places are never named in the book, but they map onto a real route: from the Company's Outer Station at Matadi on the lower river, overland past the cataracts to the Central Station at Leopoldville (now Kinshasa), and on up the great bend to the Inner Station near Stanley Falls (now Kisangani). The bbox spans that whole run.",
+    "bbox": [13.0, -5.95, 25.6, 0.75]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Joseph Conrad published this in 1899.",
+    "originalWork": "Public domain. Joseph Conrad, first published 1899; the author died in 1924.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Joseph Conrad, Heart of Darkness (1899)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/219",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1924).",
+    "attribution": "Joseph Conrad, Heart of Darkness (1902). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "accentSourceQuote": "the heart of an immense darkness",
+    "note": "The grey-black of the gloom the whole book is drawn toward, taken from its closing words. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "marlow": {
+      "name": "Charlie Marlow",
+      "color": "#8A6A12",
+      "colorSourceQuote": "a yellow complexion"
+    },
+    "kurtz": {
+      "name": "Mr. Kurtz",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "carrying a lighted torch"
+    }
   }
 }
