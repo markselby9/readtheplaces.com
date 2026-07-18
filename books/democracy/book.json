@@ -4,20 +4,38 @@
   "author": "Henry Adams",
   "published": 1880,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-77.0364, 38.8951],
   "zoom": 12.5,
   "setting": {
-    "city": "Washington",
+    "city": "Washington, D.C.",
     "country": "US",
-    "note": "Gilded-Age Washington seen from a house on Lafayette Square, across from the White House: the Capitol, the drawing rooms, the corridors of a young capital. Adams knew the real city from the inside, and it brings Washington into the atlas.",
-    "bbox": [-77.12, 38.792, -76.909, 38.996]
+    "note": "Gilded-Age Washington seen from a hired house on Lafayette Square, across from the White House. Adams maps the real capital from the inside: the Senate gallery, the presidential reception, and the steamer excursion down the Potomac to Mount Vernon. He published anonymously and knew every one of these rooms.",
+    "bbox": [-77.14, 38.69, -76.9, 38.92]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Henry Adams published this in 1880.",
+    "originalWork": "Public domain. Henry Adams, first published anonymously in 1880; the author died in 1918.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/henry-adams/democracy",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Henry Adams, Democracy (1880)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2815",
+    "territoryNotes": "Public domain in the United States (published 1880), and in the United Kingdom and the European Union, where the author died more than 70 years ago (1918).",
+    "attribution": "Henry Adams, Democracy: An American Novel (1880). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "accentSourceQuote": "blue and gold",
+    "note": "The blue-and-gold of a clear Washington day, drawn straight from the text. A deep slate blue that clears WCAG AA on paper."
+  },
+  "characters": {
+    "madeleine": {
+      "name": "Madeleine Lee",
+      "color": "#8A6A12",
+      "colorSourceQuote": "golden-brown hair"
+    },
+    "ratcliffe": {
+      "name": "Senator Silas P. Ratcliffe",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "steel grey"
+    }
   }
 }

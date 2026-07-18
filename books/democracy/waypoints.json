@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "id": "lafayette-square-mrs-lees-house",
+    "name": "Lafayette Square: Mrs Lee's house",
+    "progressLabel": "Washington, 1 December",
+    "character": "madeleine",
+    "coords": [-77.0365, 38.9004],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lafayette Square, facing the White House across the park, is a real place, named in the text. Adams never gives the house number, so the pin sits on the square where Mrs Lee takes her hired house.",
+    "quoteAnchor": "house on Lafayette Square",
+    "passage": "On the first of December, Mrs. Lee took the train for Washington, and before five o'clock that evening she was entering her newly hired house on Lafayette Square.",
+    "note": "The widow Madeleine Lee comes to Washington to see power at close range, and takes a house on Lafayette Square, across the park from the White House. From this drawing room she will study the capital and the men who run it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter II",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Lafayette Square, Washington, D.C., the park north of the White House",
+        "url": "https://en.wikipedia.org/wiki/Lafayette_Square,_Washington,_D.C."
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-capitol-and-the-senate",
+    "name": "The Capitol and the Senate",
+    "progressLabel": "The Capitol",
+    "character": "madeleine",
+    "coords": [-77.0091, 38.8903],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "went to the Capitol nearly every day for at least two weeks",
+    "passage": "Her sister was more patient and bolder. She went to the Capitol nearly every day for at least two weeks. At the end of that time her interest began to flag, and she thought it better to read the debates every morning in the Congressional Record.",
+    "note": "Madeleine sits in the Senate gallery to watch the machinery of government at work, testing the orators one by one. The Capitol and its chambers are exactly the real building on the hill, where Adams's own family had walked for three generations.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter III",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "United States Capitol, Capitol Hill, Washington, D.C.",
+        "url": "https://en.wikipedia.org/wiki/United_States_Capitol"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-salon-on-lafayette-square",
+    "name": "The salon: Ratcliffe's Sunday call",
+    "progressLabel": "Lafayette Square, Sunday",
+    "character": "ratcliffe",
+    "coords": [-77.0362, 38.9007],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The scene is set in Mrs Lee's parlour on Lafayette Square, a real place named earlier in the text. The exact house is never numbered, so the pin sits on the square, a few steps from the arrival pin.",
+    "quoteAnchor": "his Sunday evening call",
+    "passage": "Senator Ratcliffe had not failed to make his Sunday evening call upon Mrs. Lee. Perhaps it was not strictly correct to say that they had talked books all the evening, but whatever the conversation was, it had only confirmed Mr. Ratcliffe's admiration for Mrs. Lee.",
+    "note": "Mrs Lee's parlour becomes the political salon at the heart of the book. Senator Ratcliffe, the Prairie Giant of Illinois, makes his weekly call, and the repose of the room draws the weary politician back Sunday after Sunday.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter IV",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Lafayette Square, Washington, D.C., the residential square of the Gilded-Age capital",
+        "url": "https://en.wikipedia.org/wiki/Lafayette_Square,_Washington,_D.C."
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-white-house-reception",
+    "name": "The White House reception",
+    "progressLabel": "The White House",
+    "character": "madeleine",
+    "coords": [-77.0365, 38.8977],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "into the doors of the White House",
+    "passage": "Mrs. Lee accepted Mr. French for an escort, and walked across the Square with him to join the throng that was pouring into the doors of the White House. They took their places in the line of citizens and were at last able to enter the reception-room.",
+    "note": "At the President's first evening reception Madeleine files past the President and his wife, standing stiff as automata shaking every hand in the line. The nightmare of the spectacle burns a warning to ambition into her mind. The house is the real Executive Mansion, a short walk across the square.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter VI",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The White House, 1600 Pennsylvania Avenue, Washington, D.C.",
+        "url": "https://en.wikipedia.org/wiki/White_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-potomac-steamer",
+    "name": "Down the Potomac by steamer",
+    "progressLabel": "On the Potomac",
+    "character": "ratcliffe",
+    "coords": [-77.021, 38.877],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Potomac is named in the text, and the excursion boat left from the city wharves on the Washington waterfront. Adams does not name the exact pier, so the pin sits on the river at the Southwest waterfront where the steamers docked.",
+    "quoteAnchor": "pounding the muddy waters of the Potomac",
+    "passage": "And in another moment the little steamer had begun her journey, pounding the muddy waters of the Potomac and sending up its small column of smoke as though it were a newly invented incense-burner approaching the temple of the national deity.",
+    "note": "Ratcliffe leaps aboard at the last moment for the Saturday excursion downriver. The little steamer casts off past the arsenal and the navy-yard and works its way down the Potomac, carrying the whole party toward Washington's home.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter VII",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Potomac River, the tidal river running past Washington, D.C.",
+        "url": "https://en.wikipedia.org/wiki/Potomac_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mount-vernon",
+    "name": "Mount Vernon, Washington's home",
+    "progressLabel": "Mount Vernon",
+    "character": "madeleine",
+    "coords": [-77.0861, 38.7076],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The boat arrived at Mount Vernon",
+    "passage": "The boat arrived at Mount Vernon while she was still engaged in a description of the society and manners of America.",
+    "note": "The excursion ends at Mount Vernon, George Washington's estate above the Potomac. Among the relics of the first President, Madeleine measures the plain founding virtue of the place against the grubby capital she has been watching, and feels unclean. The house and grounds are the real, preserved Mount Vernon.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Democracy, Chapter VII",
+        "url": "https://www.gutenberg.org/ebooks/2815"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mount Vernon, George Washington's estate, Fairfax County, Virginia",
+        "url": "https://en.wikipedia.org/wiki/Mount_Vernon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
