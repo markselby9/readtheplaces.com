@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "house-of-aulus-plautius",
+    "name": "The house of Aulus Plautius",
+    "progressLabel": "Ch. II, The house of Aulus",
+    "character": "vinicius",
+    "coords": [12.494, 41.8967],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sienkiewicz sets the house of Aulus Plautius on the Vicus Patricius, a real ancient street that ran through the Subura and survives as the modern Via Urbana. The exact house is invented; the pin marks a point on that street.",
+    "quoteAnchor": "to the Vicus Patricius, to the house of Aulus",
+    "passage": "The litter was waiting long since; hence they took their places, and Petronius gave command to bear them to the Vicus Patricius, to the house of Aulus.",
+    "note": "The old general Aulus Plautius and his wife Pomponia keep the Lygian hostage Lygia in their quiet, half-Christian household. Vinicius lodges here as a guest and falls for her at the garden fountain, and it is from this house that Nero, at Petronius's prompting, has her taken to the Palatine.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter II",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vicus Patricius (modern Via Urbana), Subura, Rome",
+        "url": "https://en.wikipedia.org/wiki/Vicus_Patricius"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-palatine-neros-palace",
+    "name": "The Palatine, Nero's palace",
+    "progressLabel": "Ch. VII, Nero's palace",
+    "character": "lygia",
+    "coords": [12.4869, 41.8883],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Palatine is the real hill of the imperial palaces, named repeatedly in the text. The pin marks the hill above the Forum.",
+    "quoteAnchor": "he would not have brought thee to the Palatine",
+    "passage": "If Nero had given command to take thee away for himself, he would not have brought thee to the Palatine. Here Poppæa rules; and Nero, since she bore him a daughter, is more than ever under her influence.",
+    "note": "Lygia is carried off to Nero's palace on the Palatine to sit at the emperor's feast. The freedwoman Acte, Nero's discarded mistress, shelters her through the drunken banquet where Vinicius first presses his love on her, before Ursus tears her out of the palace and into hiding.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter VII",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Palatine Hill, Rome, site of the imperial palaces",
+        "url": "https://en.wikipedia.org/wiki/Palatine_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-circus-maximus-the-fire",
+    "name": "The Circus Maximus quarter: the fire begins",
+    "progressLabel": "Ch. XLII, Rome burns",
+    "character": "vinicius",
+    "coords": [12.4851, 41.8861],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Circus Maximus is the real chariot-racing valley between the Palatine and the Aventine, named in the text as the place the fire starts. The pin marks the arena.",
+    "quoteAnchor": "The fire broke out in the shops near the Circus Maximus",
+    "passage": "The fire broke out in the shops near the Circus Maximus. When we were despatched, the centre of the city was on fire.",
+    "note": "The great fire of 64 AD starts among the wooden booths crowded against the Circus Maximus and sweeps outward until Rome is one sea of flame. Vinicius, away at Antium, hears the city is burning and gallops back along the Appian Way to search the wreckage for Lygia.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter XLII",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Circus Maximus, Rome, where the Great Fire of 64 AD began",
+        "url": "https://en.wikipedia.org/wiki/Circus_Maximus"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-circus-of-nero-vatican",
+    "name": "The Circus of Nero, the Vatican Field",
+    "progressLabel": "Ch. LXI, Cæsar's gardens",
+    "character": "vinicius",
+    "coords": [12.4553, 41.9017],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Circus of Nero on the Vatican Field is real and named in the text; Old St Peter's Basilica was later built over the site. The pin marks the circus, beneath the present basilica.",
+    "quoteAnchor": "around the Circus of Nero, and off towards",
+    "passage": "Shouts of “Semaxii! Sarmentitii!” were heard on the Via Tecta, on the bridge of Æmilius, and from the other side of the Tiber, on the Triumphal Way, around the Circus of Nero, and off towards the Vatican Hill.",
+    "note": "Blamed for the fire, the Christians are massacred in Nero's gardens beside his circus on the Vatican Field, burned alive on pitch-smeared pillars to light the emperor's spectacle. Peter's flock dies here on the ground where St Peter's would one day stand, and Vinicius searches the crowd in terror of finding Lygia among the torches.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter LXI",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Circus of Nero (Vatican Circus), Vatican City, beneath St Peter's Basilica",
+        "url": "https://en.wikipedia.org/wiki/Vatican_Circus"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mamertine-prison",
+    "name": "The Mamertine Prison",
+    "progressLabel": "Ch. L, The Mamertine",
+    "character": "lygia",
+    "coords": [12.484, 41.8893],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Mamertine prison (the Tullianum) is the real dungeon at the foot of the Capitoline beside the Forum, named repeatedly in the text. The pin marks the prison.",
+    "quoteAnchor": "She was not thrust down to the Tullianum",
+    "passage": "“No,” said he. “She was not thrust down to the Tullianum nor even to the middle prison. I paid the guard to give her his own room. Ursus took his place at the threshold and is guarding her.”",
+    "note": "After the fire, Lygia is thrown with the other Christians into the Mamertine prison to await the arena. Vinicius bribes a guard to spare her the flooded lower cell, the Tullianum, and comes daily to its walls; a fever, and the giant Ursus at the threshold, keep her alive for the games.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter L",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mamertine Prison (Carcere Mamertino), Capitoline Hill, Rome",
+        "url": "https://en.wikipedia.org/wiki/Mamertine_Prison"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-appian-way-quo-vadis",
+    "name": "The Appian Way: Quo vadis, Domine?",
+    "progressLabel": "Ch. LXIX, The Appian Way",
+    "character": "peter",
+    "coords": [12.5037, 41.8665],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Appian Way is the real Roman road southeast out of the city, named in the text. Tradition fixes Peter's vision at the spot now marked by the church of Domine Quo Vadis; the pin marks that church.",
+    "quoteAnchor": "I am going to Rome to be crucified a second time",
+    "passage": "“Quo vadis, Domine?” Nazarius did not hear the answer; but to Peter’s ears came a sad and sweet voice, which said,—“If thou desert my people, I am going to Rome to be crucified a second time.”",
+    "note": "Persuaded to flee the persecution, the aged Peter walks out of Rome along the Appian Way and meets the risen Christ coming in. “Whither goest thou, Lord?” he asks; Christ answers that if Peter deserts his people, he goes to be crucified again. Shamed, Peter turns back to the city to die. The church of Domine Quo Vadis marks the spot.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Quo Vadis, Chapter LXIX",
+        "url": "https://www.gutenberg.org/ebooks/2853"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Church of Domine Quo Vadis (Santa Maria in Palmis), Via Appia Antica, Rome",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_in_Palmis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

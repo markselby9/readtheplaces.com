@@ -1,23 +1,47 @@
 {
   "id": "quo-vadis",
   "title": "Quo Vadis",
+  "titleOriginal": "Quo vadis",
   "author": "Henryk Sienkiewicz",
   "published": 1896,
   "orderingKey": "chapter",
-  "center": [12.4829, 41.8933],
+  "sourcing": "sourced",
+  "center": [12.4869, 41.8886],
   "zoom": 12.5,
   "setting": {
     "city": "Rome",
     "country": "IT",
-    "note": "Nero’s Rome, and the fire: the Palatine, the Circus, the Mamertine prison, the catacombs where the first Christians hide. Sienkiewicz builds the ancient city from the monuments that still stand, and it brings Rome into the atlas at last.",
-    "bbox": [12.234, 41.656, 12.856, 42.141]
+    "note": "Nero's Rome in 64 AD, and the fire that destroys it. The Palatine palace, the Circus Maximus quarter where the flames begin, the Circus of Nero on the Vatican Field where the Christians are burned, the Mamertine prison, and the Appian Way, where the risen Christ meets Peter fleeing the city. Sienkiewicz built the ancient city from the monuments that still stand, and it brings Rome into the atlas.",
+    "bbox": [12.4, 41.83, 12.56, 41.95]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Henryk Sienkiewicz published this in 1896.",
-    "translation": "Translated by jeremiah curtin. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Henryk Sienkiewicz, Quo Vadis (1896)."
+    "originalWork": "Public domain. Henryk Sienkiewicz, first published 1896; the author died in 1916.",
+    "translation": "English translation by Jeremiah Curtin (1897); he died in 1906, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2853",
+    "territoryNotes": "Public domain in the US and UK/EU: Sienkiewicz died 1916, Curtin 1906.",
+    "attribution": "Henryk Sienkiewicz, Quo Vadis (1896), trans. Jeremiah Curtin. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "one sea of flame",
+    "note": "The red of the burning city, the great fire that turns Rome into one sea of flame. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "vinicius": {
+      "name": "Marcus Vinicius",
+      "color": "#8A6A12",
+      "colorSourceQuote": "two broad golden bands"
+    },
+    "lygia": {
+      "name": "Lygia",
+      "color": "#2E5064",
+      "colorSourceQuote": "her blue eyes"
+    },
+    "peter": {
+      "name": "The Apostle Peter",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "his white hair"
+    }
   }
 }
