@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "buddenbrook-house-mengstrasse",
+    "name": "The Buddenbrook house, Mengstrasse (the Buddenbrookhaus)",
+    "progressLabel": "Part 1",
+    "character": "thomas",
+    "coords": [10.6853, 53.8683],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mann based the family's grand house on his own grandparents' home at Mengstraße 4, the real building that now houses the Buddenbrookhaus museum. The coordinates mark that house.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "The novel opens with the family newly installed in their large house on Mengstraße, its gabled front and long rooms the stage for four generations of dinners, betrothals and funerals. The real house at Mengstraße 4 was the Mann family home; it survives as the Buddenbrookhaus, a museum to the writer and his book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Buddenbrookhaus, Wikipedia, on the house at Mengstraße 4 and its role in the novel",
+        "url": "https://en.wikipedia.org/wiki/Buddenbrookhaus"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Buddenbrooks, Wikipedia, on the Lübeck setting and the family house",
+        "url": "https://en.wikipedia.org/wiki/Buddenbrooks"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marienkirche",
+    "name": "The Marienkirche",
+    "progressLabel": "Part 1",
+    "character": "thomas",
+    "coords": [10.6849, 53.8686],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The family worships at the great Gothic church that dominates the old town; in Mann's unnamed Lübeck this is the Marienkirche, whose brick towers stand a step from Mengstraße. The coordinates mark that church.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "The Buddenbrooks mark their births, marriages and deaths at the towering brick church at the heart of the old town, its bells sounding over the merchant houses. Lübeck's Marienkirche, the tallest of the Hanseatic churches, is the unmistakable model, standing just north of the family house.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "St. Mary's Church, Lübeck, Wikipedia, on the Marienkirche in the old town",
+        "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_L%C3%BCbeck"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Buddenbrooks, Wikipedia, on the Lübeck church setting",
+        "url": "https://en.wikipedia.org/wiki/Buddenbrooks"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "holstentor",
+    "name": "The Holstentor, gateway to the old town",
+    "progressLabel": "Part 4",
+    "character": "thomas",
+    "coords": [10.6797, 53.8663],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Holstentor is the surviving western gate of Lübeck's old-town island, the emblem of the merchant city Mann portrays. The coordinates mark the gate itself.",
+    "reference": "Part 4",
+    "order": 3,
+    "note": "The twin-towered brick gate guards the western approach to the island city, the threshold between the merchants' quarter and the world beyond its walls. The Holstentor is Lübeck's most famous landmark, a monument to the Hanseatic wealth on which the Buddenbrooks' fortune, and their pride, is built.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Holstentor, Wikipedia, on the medieval city gate of Lübeck",
+        "url": "https://en.wikipedia.org/wiki/Holsten_Gate"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lübeck, Wikipedia, on the old-town island and its gates",
+        "url": "https://en.wikipedia.org/wiki/L%C3%BCbeck"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "trave-harbour-quays",
+    "name": "The harbour and grain quays on the Trave",
+    "progressLabel": "Part 4",
+    "character": "thomas",
+    "coords": [10.687, 53.8697],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The firm's business runs on the grain quays along the Trave that ring the old-town island; the novel fixes no single wharf, so this marks a representative point on the harbour front (An der Untertrave) below the merchant houses.",
+    "reference": "Part 4",
+    "order": 4,
+    "note": "The family's grain business lives on the river, where barges and coasters load at the quays that edge the old-town island. The Trave carries Lübeck's trade down to the Baltic, and the fortunes made and lost along these wharves are the ground the whole story stands on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Trave, Wikipedia, on the river through Lübeck to the Baltic",
+        "url": "https://en.wikipedia.org/wiki/Trave"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Buddenbrooks, Wikipedia, on the family grain firm and the Hanseatic setting",
+        "url": "https://en.wikipedia.org/wiki/Buddenbrooks"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "travemunde-baltic",
+    "name": "Travemünde on the Baltic",
+    "progressLabel": "Part 3",
+    "character": "tony",
+    "coords": [10.871, 53.9575],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Travemünde, the real Baltic bathing resort at the mouth of the Trave, is named as the place where Tony holidays; the coordinates mark the seafront resort north-east of the old town.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "Sent to the seaside resort at the river mouth to escape an unwanted suitor, Tony spends a summer among the dunes and bathing huts and falls in love with a young medical student. Travemünde, where the Trave meets the Baltic, is a real resort at Lübeck's edge; the idyll here is the brightest and freest stretch of her life, and she gives it up for the family's sake.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Travemünde, Wikipedia, on the Baltic seaside resort at the mouth of the Trave",
+        "url": "https://en.wikipedia.org/wiki/Travem%C3%BCnde"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Buddenbrooks, Wikipedia, on Tony's Travemünde holiday and romance",
+        "url": "https://en.wikipedia.org/wiki/Buddenbrooks"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

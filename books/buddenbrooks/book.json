@@ -1,23 +1,39 @@
 {
   "id": "buddenbrooks",
   "title": "Buddenbrooks",
+  "titleOriginal": "Buddenbrooks: Verfall einer Familie",
   "author": "Thomas Mann",
   "published": 1901,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [10.6847, 53.8664],
   "zoom": 12.5,
   "setting": {
     "city": "Lübeck",
     "country": "DE",
-    "note": "A Hanseatic merchant family declines over four generations in a Lübeck Mann rebuilds house by house. The Buddenbrookhaus on Mengstraße is real and now a museum, and it brings Germany into the atlas.",
+    "note": "A Hanseatic grain-merchant family declines over four generations in a Baltic city Mann never names but rebuilds street by street. It is unmistakably his native Lübeck: the family's grand house on Mengstraße, the Marienkirche where they worship, the Holstentor and the quays along the Trave, and Travemünde at the river mouth where Tony holidays. The map runs from the old-town islands north-east to the Baltic resort, and brings Germany into the atlas.",
     "bbox": [10.554, 53.768, 10.969, 53.994]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Thomas Mann published this in 1901.",
-    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Thomas Mann, Buddenbrooks (1901)."
+    "originalWork": "In copyright. Thomas Mann, first published 1901. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Buddenbrooks",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Buddenbrooks, Thomas Mann (1901). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The old gold of Hanseatic wealth, the grain money that raises the family and then runs out. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "thomas": {
+      "name": "Thomas Buddenbrook",
+      "color": "#2E5064"
+    },
+    "tony": {
+      "name": "Tony Buddenbrook",
+      "color": "#8A2B1E"
+    }
   }
 }
