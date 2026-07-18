@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "id": "martello-tower",
+    "name": "The Martello Tower, Sandycove",
+    "progressLabel": "Telemachus",
+    "character": "stephen",
+    "coords": [-6.1129, 53.2891],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "Stately, plump Buck Mulligan came from the stairhead",
+    "passage": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air.",
+    "note": "The book opens on the gunrest atop this squat granite tower at Sandycove, where Stephen Dedalus is lodging with Buck Mulligan and the Englishman Haines. By breakfast Stephen has resolved not to return, and hands over the key. It is a real Martello tower, one of a chain built against a French invasion; Joyce himself stayed here in 1904, and it is now the James Joyce Tower and Museum.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Telemachus\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "James Joyce Tower & Museum, Sandycove, Co. Dublin",
+        "url": "https://joycetower.ie/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sandymount-strand",
+    "name": "Sandymount Strand",
+    "progressLabel": "Proteus",
+    "character": "stephen",
+    "coords": [-6.211, 53.334],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The episode names Sandymount strand explicitly. The pin marks a representative point on the open sands below Leahy's Terrace, where Stephen walks; the strand itself runs for more than a kilometre.",
+    "quoteAnchor": "Am I walking into eternity along Sandymount strand?",
+    "passage": "Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy kens them a'.",
+    "note": "Alone on the ebb-tide sands, Stephen thinks his way through the whole visible and invisible world, the episode Joyce built as a single unbroken interior monologue. The same flat strand returns in the evening for Gerty MacDowell's chapter. It is a real beach on Dublin Bay, still walked at low water below the Sandymount seafront.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Proteus\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Sandymount Strand, Dublin Bay",
+        "url": "https://en.wikipedia.org/wiki/Sandymount_Strand"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "eccles-street",
+    "name": "7 Eccles Street",
+    "progressLabel": "Calypso",
+    "character": "bloom",
+    "coords": [-6.2687, 53.3596],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bloom's home is 7 Eccles Street, named in the book. The Georgian house was demolished in the 1960s; the pin marks its site on the street, now beside the Mater hospital, where a plaque records it.",
+    "quoteAnchor": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.",
+    "passage": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods' roes.",
+    "note": "We meet Leopold Bloom in his own kitchen, frying a kidney and carrying up his wife Molly's breakfast, before he steps out into the morning. Number 7 Eccles Street was a real address, empty when Joyce chose it; the house is gone now, but its door survives in the James Joyce Centre and a plaque marks the spot.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Calypso\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "7 Eccles Street and the James Joyce Centre, Dublin",
+        "url": "https://jamesjoyce.ie/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "glasnevin-cemetery",
+    "name": "Glasnevin Cemetery",
+    "progressLabel": "Hades",
+    "character": "bloom",
+    "coords": [-6.2797, 53.3728],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The funeral carriage crosses the city to \"Prospect,\" the formal name of Prospect Cemetery at Glasnevin, named elsewhere in the book. The pin marks the cemetery grounds.",
+    "quoteAnchor": "The high railings of Prospect rippled past their gaze.",
+    "passage": "The high railings of Prospect rippled past their gaze. Dark poplars, rare white forms. Forms more frequent, white shapes thronged amid the trees, white forms and fragments streaming by mutely.",
+    "note": "Bloom rides in the funeral carriage out to the burial of Paddy Dignam, and the whole episode turns on death: graves, the gravediggers, his own dead father and son. Prospect Cemetery at Glasnevin is real and is Ireland's largest, the resting place of Parnell, O'Connell and, in time, of many Joyces.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Hades\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Glasnevin Cemetery (Prospect Cemetery), Dublin",
+        "url": "https://www.dctrust.ie/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "davy-byrnes",
+    "name": "Davy Byrne's, Duke Street",
+    "progressLabel": "Lestrygonians",
+    "character": "bloom",
+    "coords": [-6.2592, 53.3419],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "He entered Davy Byrne’s. Moral pub.",
+    "passage": "He entered Davy Byrne's. Moral pub. He doesn't chat. Stands a drink now and then. But in leapyear once in four. Cashed a cheque for me once.",
+    "note": "Sick of the trough-like eating houses along the way, Bloom ducks into Davy Byrne's off Grafton Street for a gorgonzola sandwich and a glass of burgundy, the quiet centre of the food-obsessed \"Lestrygonians\" episode. Davy Byrne's still trades at 21 Duke Street and leans hard on the association every Bloomsday.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Lestrygonians\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Davy Byrne's, 21 Duke Street, Dublin",
+        "url": "https://davybyrnes.com/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "national-library",
+    "name": "The National Library, Kildare Street",
+    "progressLabel": "Scylla and Charybdis",
+    "character": "stephen",
+    "coords": [-6.2549, 53.3409],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The episode is set in the librarian's office of the National Library on Kildare Street; the line marks Bloom passing its door. The pin is the library building itself.",
+    "quoteAnchor": "Mr Bloom came to Kildare street. First I must. Library.",
+    "passage": "Mr Bloom came to Kildare street. First I must. Library. Straw hat in sunlight. Tan shoes. Turnedup trousers. It is. It is.",
+    "note": "Inside the National Library, Stephen spins his elaborate theory that Shakespeare is the ghost of Hamlet's father, sparring with the Dublin literary men while Bloom slips past outside. The library still stands on Kildare Street, its domed reading room the room Joyce knew as a student.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Ulysses, \"Scylla and Charybdis\"",
+        "url": "https://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "kind": "heritage",
+        "ref": "National Library of Ireland, Kildare Street, Dublin",
+        "url": "https://www.nli.ie/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

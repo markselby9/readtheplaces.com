@@ -4,20 +4,38 @@
   "author": "James Joyce",
   "published": 1922,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-6.2606, 53.3494],
   "zoom": 12.5,
   "setting": {
     "city": "Dublin",
     "country": "IE",
-    "note": "One day, 16 June 1904, mapped street by street. Joyce said he wanted Dublin rebuildable from the book, and people have been walking it every Bloomsday since. The most obvious book in the world for this project, and the hardest to do well.",
-    "bbox": [-6.387, 53.299, -6.115, 53.411]
+    "note": "One day, 16 June 1904, mapped street by street. Joyce said he wanted Dublin so exactly rendered it could be rebuilt from the book, and people have been walking it every Bloomsday since. From the Martello tower at Sandycove in the south to the graves at Glasnevin in the north, every place here is real and still findable.",
+    "bbox": [-6.3, 53.285, -6.105, 53.38]
   },
   "rights": {
-    "originalWork": "TODO: confirm. James Joyce published this in 1922.",
+    "originalWork": "Public domain. James Joyce, first published 1922; the author died in 1941.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/james-joyce/ulysses",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "James Joyce, Ulysses (1922)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/4300",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1941).",
+    "attribution": "James Joyce, Ulysses (1922). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "snotgreen sea",
+    "note": "The green of Mulligan's \"snotgreen sea\" over Dublin Bay, the book's first colour, taken from the opening page. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "bloom": {
+      "name": "Leopold Bloom",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "these black clothes"
+    },
+    "stephen": {
+      "name": "Stephen Dedalus",
+      "color": "#2E5064",
+      "colorSourceQuote": "bluesilver"
+    }
   }
 }
