@@ -4,20 +4,38 @@
   "author": "Mark Twain",
   "published": 1876,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-91.3587, 39.7082],
   "zoom": 12.5,
   "setting": {
     "city": "Hannibal",
     "country": "US",
-    "note": "Twain renamed his boyhood Hannibal “St. Petersburg”, but built it exactly: the Mississippi bank, the cave, the graveyard, the whitewashed fence. The town has marked those spots for tourists ever since, which makes it a rare novel a reader can already walk. It brings Mark Twain into the atlas.",
+    "note": "Twain renamed his boyhood Hannibal “St. Petersburg”, but built it exactly: the Mississippi bank, the cave, the graveyard on the hill, Cardiff Hill above the town. Hannibal has marked those spots for tourists ever since, which makes it a rare novel a reader can already walk. It brings Mark Twain and the Mississippi into the atlas.",
     "bbox": [-91.461, 39.675, -91.322, 39.751]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Mark Twain published this in 1876.",
+    "originalWork": "Public domain. Mark Twain, first published 1876; the author died in 1910.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Mark Twain, The Adventures of Tom Sawyer (1876)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/74",
+    "territoryNotes": "Public domain in the United States (published 1876, well before 1929) and in the United Kingdom and EU, where the author died more than 70 years ago (1910).",
+    "attribution": "Mark Twain, The Adventures of Tom Sawyer (1876). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "the green valley shining in the sun",
+    "note": "The summer green of the river valley the boys look out on from the cave mouth, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "tom": {
+      "name": "Tom Sawyer",
+      "color": "#2E5064",
+      "colorSourceQuote": "a thin blue breath of smoke"
+    },
+    "huck": {
+      "name": "Huckleberry Finn",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "gray dawn"
+    }
   }
 }

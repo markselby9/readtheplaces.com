@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "st-petersburg-hannibal",
+    "name": "St. Petersburg (Hannibal), Missouri",
+    "progressLabel": "Ch. 1",
+    "character": "tom",
+    "coords": [-91.3585, 39.7084],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"St. Petersburg\" is Twain's fictional name for Hannibal, Missouri, the Mississippi river town where Samuel Clemens grew up in the 1840s. The village he describes is Hannibal on the ground; the pin marks the downtown by the river.",
+    "quoteAnchor": "the poor little shabby village of St. Petersburg",
+    "passage": "A new-comer of any age or either sex was an impressive curiosity in the poor little shabby village of St. Petersburg.",
+    "note": "The whole book is set in this drowsy river town, where a strange boy in a necktie on a week-day is front-page news. Twain renamed his own Hannibal \"St. Petersburg\" but kept every street of it, and the town has traded on Tom Sawyer ever since.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Adventures of Tom Sawyer, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hannibal, Missouri, boyhood home of Mark Twain on the Mississippi",
+        "url": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cardiff-hill-hollidays-hill",
+    "name": "Cardiff Hill (Holliday's Hill)",
+    "progressLabel": "Ch. 2",
+    "character": "tom",
+    "coords": [-91.35895, 39.71447],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Cardiff Hill\" is the novel's name for Holliday's Hill, the wooded rise at the north end of Hannibal above Main Street. The pin marks the Mark Twain Memorial Lighthouse that now stands on its crown.",
+    "quoteAnchor": "Cardiff Hill, beyond the village and above it",
+    "passage": "Cardiff Hill, beyond the village and above it, was green with vegetation and it lay just far enough away to seem a Delectable Land, dreamy, reposeful, and inviting.",
+    "note": "The green hill on the edge of town, the boys' playground for Robin Hood and pirate games, looming over the morning Tom is set to whitewash the fence. Twain drew it straight from Holliday's Hill, whose summit is now crowned by a lighthouse reached by 244 steps.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Adventures of Tom Sawyer, Chapter II",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mark Twain Memorial Lighthouse on Cardiff Hill (Holliday's Hill), Hannibal Parks and Recreation",
+        "url": "https://www.hannibalparks.org/parks/mark-twain-memorial-lighthouse/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-graveyard",
+    "name": "The village graveyard (Old Baptist Cemetery)",
+    "progressLabel": "Ch. 9",
+    "character": "huck",
+    "coords": [-91.3689, 39.7142],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The book's hilltop graveyard is unnamed. Hannibal tradition identifies it with the Old Baptist Cemetery, established 1837 on a hill at Section and Sumner Streets; the pin marks that hilltop. Twain's own recollection may have been a cemetery a little further out.",
+    "quoteAnchor": "It was a graveyard of the old-fashioned Western kind",
+    "passage": "It was a graveyard of the old-fashioned Western kind. It was on a hill, about a mile and a half from the village. It had a crazy board fence around it, which leaned inward in places, and outward the rest of the time, but stood upright nowhere.",
+    "note": "The crooked hilltop burying-ground where Tom and Huck, out at midnight with a dead cat to cure warts, watch Injun Joe murder Doctor Robinson and pin it on drunken Muff Potter. The Old Baptist Cemetery on its hill above Hannibal is the place tradition remembers.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Adventures of Tom Sawyer, Chapter IX",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Old Baptist Cemetery, Hannibal, Missouri, traditional model for the Tom Sawyer graveyard",
+        "url": "http://www.twainquotes.com/TSCemetery.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jacksons-island",
+    "name": "Jackson's Island",
+    "progressLabel": "Ch. 13",
+    "character": "huck",
+    "coords": [-91.3345, 39.70647],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The fictional Jackson's Island is drawn from a real wooded island in the Mississippi opposite Hannibal, the Glasscock's Island of Twain's boyhood, today divided and called Pearl Island. The pin marks that island; the novel places its version three miles downstream.",
+    "quoteAnchor": "Three miles below St. Petersburg, at a point where the Mississippi River",
+    "passage": "Three miles below St. Petersburg, at a point where the Mississippi River was a trifle over a mile wide, there was a long, narrow, wooded island, with a shallow bar at the head of it, and this offered well as a rendezvous.",
+    "note": "The uninhabited island in the river where Tom, Huck and Joe Harper run off to be pirates on a stolen raft, and where the town, thinking them drowned, hears them turn up alive at their own funeral. Twain based it on Glasscock's Island, which he and his friends paddled to as boys.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Adventures of Tom Sawyer, Chapter XIII",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pearl Island (formerly Glasscock's Island), Mississippi River opposite Hannibal, model for Jackson's Island",
+        "url": "https://en.wikipedia.org/wiki/Pearl_Island_(Illinois)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mcdougals-cave-mark-twain-cave",
+    "name": "McDougal's Cave (Mark Twain Cave)",
+    "progressLabel": "Ch. 29",
+    "character": "tom",
+    "coords": [-91.33188, 39.68857],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"McDougal's cave\" is Twain's name for the real limestone cave south of Hannibal that he knew as McDowell's Cave and that is now the Mark Twain Cave. The pin marks the Mark Twain Cave Complex entrance on Cave Hollow Road.",
+    "quoteAnchor": "The mouth of the cave was up the hillside—an opening shaped like a letter A",
+    "passage": "The mouth of the cave was up the hillside—an opening shaped like a letter A. Its massive oaken door stood unbarred. Within was a small chamber, chilly as an icehouse, and walled by Nature with solid limestone that was dewy with a cold sweat.",
+    "note": "The labyrinth of crooked limestone aisles where Tom and Becky lose themselves for three days on the picnic, and where Injun Joe, sealed in behind the great door, starves to death. It is a real cave, McDowell's Cave in Twain's day, that has taken his name and drawn visitors for over a century.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Adventures of Tom Sawyer, Chapter XXIX",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mark Twain Cave (formerly McDowell's Cave), Hannibal, Missouri",
+        "url": "https://en.wikipedia.org/wiki/Mark_Twain_Cave"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
