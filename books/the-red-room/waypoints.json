@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "mosebacke-terrace",
+    "name": "Mosebacke terrace, Södermalm",
+    "progressLabel": "Chapter 1",
+    "character": "falk",
+    "coords": [18.0713, 59.3175],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens on the Mosebacke heights on the northern edge of Södermalm; the coordinates mark the terrace and square above the cliff, where the view north over the city and water is still open today.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book begins on a spring evening on the high ground of Södermalm, with the whole city spread out below to the north, spires and rooftops catching the last light across the water. It is a wide, hopeful opening view, set just before the story turns down into the offices and quarrels of the streets beneath it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mosebacke, satellite coordinates 59.3175, 18.0713, latitude.to",
+        "url": "https://latitude.to/satellite-map/se/sweden/120905/mosebacke"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on the Stockholm setting and opening",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "riddarholmen-offices",
+    "name": "Riddarholmen / the old town offices",
+    "progressLabel": "Chapter 1",
+    "character": "falk",
+    "coords": [18.0578, 59.3217],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Riddarholmen is the real old-town islet of state offices and archives; the salaried-officials bureau the hero walks out of is Strindberg's satirical invention, sited here on the government island of central Stockholm where such offices clustered.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The story sends its young hero out of a dozing government bureau in the old town, one of the slow salary offices on the state islands where clerks pass papers and little happens. His decision to leave it and live by his pen sets the whole novel in motion and gives Strindberg his first target for satire.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Riddarholmen, coordinates 59.3217, 18.0578, latitude.to",
+        "url": "https://latitude.to/articles-by-country/se/sweden/47939/riddarholmen"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on the bureaucratic satire",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gamla-stan-press",
+    "name": "Stortorget, Gamla Stan",
+    "progressLabel": "Chapter 4",
+    "character": "falk",
+    "coords": [18.0708, 59.325],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The newspaper and publishing world the hero falls in with is drawn from real Stockholm titles but the specific paper is fictional; sited at Stortorget, the oldest square of the old town, as a representative point for the cramped press quarter of the islands.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "Trying to live by writing, the hero drifts into the newspaper and publishing trade packed into the old town, a world of shabby editors, unpaid contributors and papers that trim their opinions to their advertisers. Strindberg, who had worked in journalism himself, turns the whole press into a subject of sharp, disillusioned comedy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Stortorget and Gamla stan, coordinates near 59.325, 18.0708, latitude.to",
+        "url": "https://latitude.to/articles-by-country/se/sweden/8740/gamla-stan"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on the newspaper and publishing satire",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kungstradgarden-promenade",
+    "name": "Kungsträdgården",
+    "progressLabel": "Chapter 9",
+    "character": "sellen",
+    "coords": [18.0695, 59.3254],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Kungsträdgården is the real central promenade and theatre district of the period; no single scene fixes it, so it stands here for the fashionable strolling ground where the book's artists and idlers are seen about town.",
+    "reference": "Chapter 9",
+    "order": 4,
+    "note": "Between the bureaus and the tavern, the novel moves through the fashionable centre of the city, the promenades and theatres where reputations are made and cut. The painter and his fellow bohemians pass through this world too, hungry and unpaid but still watching the well-dressed crowd that will not buy their work.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kungsträdgården, coordinates 59.3254, 18.0695, latitude.to",
+        "url": "https://latitude.to/articles-by-country/se/sweden/50334/kungstradgarden"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on the Stockholm milieu",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "berzelii-park",
+    "name": "Berzelii Park",
+    "progressLabel": "Chapter 10",
+    "character": "sellen",
+    "coords": [18.0715, 59.3262],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Berzelii Park is the real green square in front of Berns; the coordinates mark the park that the salon opens onto, the approach to the Red Room the bohemians frequent.",
+    "reference": "Chapter 10",
+    "order": 5,
+    "note": "The green square of Berzelii Park sits just outside the great salon of Berns, and the young men cross it on their way in to eat and drink on credit. It marks the threshold of the book's most famous setting, the fashionable pleasure-house whose inner room the artists have made their own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Berzelii Park, coordinates 59.3262, 18.0715, latitude.to",
+        "url": "https://latitude.to/articles-by-country/se/sweden/158635/berzelii-park"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on Berns and the Red Room",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "red-room-berns",
+    "name": "The Red Room at Berns Salonger",
+    "progressLabel": "Chapter 10",
+    "character": "sellen",
+    "coords": [18.0739, 59.3322],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Berns Salonger is a real restaurant and salon by Berzelii Park; its inner red room, the setting the novel is named for, is still called the Röda Rummet today. Coordinates from the Berns salonger building.",
+    "reference": "Chapter 10",
+    "order": 6,
+    "note": "The heart of the book is a small red-walled inner room at Berns, where the young painters, writers and would-be reformers gather to drink, argue and dream of the careers they cannot afford. Strindberg made this real corner of the city the emblem of a whole generation of bohemians, and the restaurant kept the name.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Berns salonger, Wikipedia, coordinates 59.332167, 18.07389 and the Röda Rummet",
+        "url": "https://en.wikipedia.org/wiki/Berns_salonger"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Red Room (Strindberg novel), Wikipedia, on the title setting",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,23 +1,39 @@
 {
   "id": "the-red-room",
   "title": "The Red Room",
+  "titleOriginal": "Röda rummet",
   "author": "August Strindberg",
   "published": 1879,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [18.0711, 59.3251],
   "zoom": 12.5,
   "setting": {
     "city": "Stockholm",
     "country": "SE",
-    "note": "Stockholm skewered: the newspaper offices, the government bureaus, and the Red Room of the Berns Salonger where the young cynics drink, a room that is still there. Strindberg walks a real city he despised, and it brings Sweden into the atlas.",
+    "note": "A young idealist quits a government sinecure to make his own way, and the novel follows him through the newspaper offices, publishers, theatres and bureaus of the capital, sharpening into satire as it goes. The map opens on the heights of Södermalm looking north over the water, crosses to the old-town islands where the officials sit, and comes to rest in the Red Room at Berns, the salon where the young bohemians drink and argue.",
     "bbox": [17.911, 59.165, 18.231, 59.485]
   },
   "rights": {
-    "originalWork": "TODO: confirm. August Strindberg published this in 1879.",
-    "translation": "Translated by ellie schleussner. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/august-strindberg/the-red-room/ellie-schleussner",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "August Strindberg, The Red Room (1879)."
+    "originalWork": "The original Swedish is public domain (August Strindberg, first published 1879; the author died in 1912). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Red_Room_(Strindberg_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "The Red Room, August Strindberg (1879). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The deep red of the inner room at Berns that gives the book its name and still carries it today. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "falk": {
+      "name": "Arvid Falk",
+      "color": "#2E5064"
+    },
+    "sellen": {
+      "name": "Sellén",
+      "color": "#8A6A12"
+    }
   }
 }
