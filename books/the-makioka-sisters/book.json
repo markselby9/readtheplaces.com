@@ -1,0 +1,46 @@
+{
+  "id": "the-makioka-sisters",
+  "title": "The Makioka Sisters",
+  "author": "Jun'ichirō Tanizaki",
+  "published": 1948,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [135.35, 34.71],
+  "zoom": 11,
+  "setting": {
+    "city": "Osaka",
+    "country": "JP",
+    "note": "The slow decline of a genteel Osaka merchant family in the years before the Second World War, told through four sisters and the long, failing effort to find a husband for the shy third sister, Yukiko. The Kansai world is exact: the comfortable house at Ashiya between Osaka and Kobe, the fading main family house in old Osaka, the modern port city of Kobe, and the annual pilgrimage to see the cherry blossoms in Kyoto, the still point of the family's year.",
+    "bbox": [135.15, 34.65, 135.55, 34.76]
+  },
+  "rights": {
+    "originalWork": "In copyright. Jun'ichirō Tanizaki, first published 1943–48 (Sasameyuki). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Makioka_Sisters",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Makioka Sisters, Jun'ichirō Tanizaki (1948). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The deep rose of the Kyoto cherry blossom the sisters return to each spring, and of a refined old world quietly fading. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sachiko": {
+      "name": "Sachiko",
+      "color": "#2E5064"
+    },
+    "tsuruko": {
+      "name": "Tsuruko",
+      "color": "#4A4A4A"
+    },
+    "yukiko": {
+      "name": "Yukiko",
+      "color": "#8A2B1E"
+    },
+    "taeko": {
+      "name": "Taeko",
+      "color": "#8A6A12"
+    }
+  }
+}

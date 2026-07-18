@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ashiya-house",
+    "name": "The Ashiya house",
+    "progressLabel": "Book 1",
+    "character": "sachiko",
+    "coords": [135.304, 34.728],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel centres on the branch household at Ashiya, the real residential town between Osaka and Kobe where the second sister Sachiko keeps the home that has become the family's true centre.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "Sachiko's comfortable house at Ashiya is where the two younger, unmarried sisters actually live, and where the endless deliberations over Yukiko's marriage prospects unfold. Tanizaki makes its rooms, its garden and its rituals of dress and season the measure of a whole vanishing way of life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ashiya, Hyōgo",
+        "url": "https://en.wikipedia.org/wiki/Ashiya,_Hy%C5%8Dgo"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Makioka Sisters, Wikipedia, on the Ashiya household",
+        "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "osaka-main-house",
+    "name": "The main house, old Osaka",
+    "progressLabel": "Book 1",
+    "character": "tsuruko",
+    "coords": [135.503, 34.68],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The eldest sister Tsuruko keeps the Makioka main house in Osaka, seat of a once-prominent merchant family; sited in the old central districts of the real city where such houses stood.",
+    "reference": "Book 1",
+    "order": 2,
+    "note": "The main house in Osaka, guardian of the family name and its dwindling prestige, is where propriety is enforced and marriage offers are judged. Its authority over the Ashiya branch, and its own quiet financial decline, trace the slow erosion of the old Osaka merchant class the sisters embody.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Makioka Sisters, Wikipedia, on the Osaka main house and the family",
+        "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kobe-flood",
+    "name": "Kobe and the 1938 flood",
+    "progressLabel": "Book 2",
+    "character": "taeko",
+    "coords": [135.1955, 34.691],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The modern port city of Kobe, where the sisters shop and take Western pleasures, and the great Hanshin flood of 1938 that devastated the Ashiya-Kobe area are both real; the flood forms one of the novel's set pieces.",
+    "reference": "Book 2",
+    "order": 3,
+    "note": "Kobe is the sisters' window on the modern, Westernised world, and it is here that the wilful youngest sister Taeko is nearly swept away when the 1938 flood tears through the district. Tanizaki turns the disaster into a portrait of the family under strain, and of Taeko's dangerous independence.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kobe, Japan",
+        "url": "https://en.wikipedia.org/wiki/Kobe"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Makioka Sisters, Wikipedia, on Taeko and the flood",
+        "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kyoto-cherry-blossoms",
+    "name": "Kyoto (the cherry blossoms)",
+    "progressLabel": "Book 2",
+    "character": "yukiko",
+    "coords": [135.7823, 35.016],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Each spring the sisters travel to Kyoto to view the cherry blossoms, above all at the Heian Shrine; the shrine and its famous weeping cherries are real, and the trip is a fixed ritual of the book. Sited at Kyoto, a day's excursion from the Osaka setting.",
+    "reference": "Book 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "The annual pilgrimage to the Kyoto blossoms, ending under the weeping cherries of the Heian Shrine, is the still centre of the sisters' year and the book's emotional heart. Against the transient flowers, the demure Yukiko's unmarried springs pass one after another, each viewing a little more elegiac than the last.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Heian Shrine, Kyoto",
+        "url": "https://en.wikipedia.org/wiki/Heian_Shrine"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Makioka Sisters, Wikipedia, on the cherry-blossom viewing",
+        "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tokyo-main-house",
+    "name": "Tokyo (the main house moves)",
+    "progressLabel": "Book 2",
+    "character": "tsuruko",
+    "coords": [139.6503, 35.6762],
+    "placeCertainty": "explicit",
+    "certaintyNote": "When Tsuruko's husband is transferred, the Makioka main house relocates to Tokyo, uprooting the family's Osaka centre; sited in the real capital, far from the Kansai setting.",
+    "reference": "Book 2",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "The move of the main house to Tokyo, following the bank transfer of Tsuruko's husband, breaks the family's long anchorage in Osaka and deepens its sense of decline. The cramped Tokyo house and its lost prestige stand for the passing of the refined Kansai world the whole novel mourns.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Makioka Sisters, Wikipedia, on the move to Tokyo",
+        "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

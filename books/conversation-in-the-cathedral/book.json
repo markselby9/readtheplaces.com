@@ -1,0 +1,46 @@
+{
+  "id": "conversation-in-the-cathedral",
+  "title": "Conversation in the Cathedral",
+  "author": "Mario Vargas Llosa",
+  "published": 1969,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-77.035, -12.07],
+  "zoom": 12,
+  "setting": {
+    "city": "Lima",
+    "country": "PE",
+    "note": "Over a single four-hour conversation in a grimy Lima bar called La Catedral, the disillusioned journalist Santiago Zavala and his father's old chauffeur Ambrosio reconstruct the corruption of Peru under the dictatorship of Manuel Odría. From that table the book fans out across the real city: the university of San Marcos where Santiago is radicalised, the government palace and secret police that run the regime, the wealthy district of Miraflores where the Zavalas live, and the newsroom where Santiago's own compromises are made. Its question hangs over everything: at what moment had Peru screwed itself up?",
+    "bbox": [-77.09, -12.14, -77.0, -12.03]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mario Vargas Llosa, first published 1969 (Conversación en La Catedral). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Conversation in the Cathedral, Mario Vargas Llosa (1969). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of Lima's permanent overcast and of a joyless dictatorship, the disillusion the whole book is steeped in. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "santiago": {
+      "name": "Santiago Zavala",
+      "color": "#2E5064"
+    },
+    "ambrosio": {
+      "name": "Ambrosio",
+      "color": "#8A3B1E"
+    },
+    "cayo": {
+      "name": "Cayo Bermúdez",
+      "color": "#8A2B1E"
+    },
+    "don-fermin": {
+      "name": "Don Fermín",
+      "color": "#8A6A12"
+    }
+  }
+}
