@@ -1,0 +1,46 @@
+{
+  "id": "the-maltese-falcon",
+  "title": "The Maltese Falcon",
+  "author": "Dashiell Hammett",
+  "published": 1930,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-122.408, 37.79],
+  "zoom": 14,
+  "setting": {
+    "city": "San Francisco",
+    "country": "US",
+    "note": "Hammett worked the case out on a real city grid. Sam Spade's office looks down Sutter Street; his partner is shot in Burritt Alley, a real dead-end off Bush Street that now carries a plaque; he eats chops at John's Grill on Ellis Street, which still keeps a Falcon room upstairs; and the black bird itself comes ashore off a burning ship at the waterfront. The pursuit of the jewelled statuette runs a tight circuit of downtown San Francisco.",
+    "bbox": [-122.43, 37.78, -122.39, 37.803]
+  },
+  "rights": {
+    "originalWork": "In copyright. Dashiell Hammett, first published 1930. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Maltese Falcon, Dashiell Hammett (1930). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The dull grey of lead, which is what the falcon turns out to be under its black enamel: the stuff that dreams are made of. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "spade": {
+      "name": "Sam Spade",
+      "color": "#2E5064"
+    },
+    "brigid": {
+      "name": "Brigid O'Shaughnessy",
+      "color": "#8A2B1E"
+    },
+    "gutman": {
+      "name": "Casper Gutman",
+      "color": "#8A6A12"
+    },
+    "cairo": {
+      "name": "Joel Cairo",
+      "color": "#5A3B8A"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-bell-jar",
+  "title": "The Bell Jar",
+  "author": "Sylvia Plath",
+  "published": 1963,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.972, 40.758],
+  "zoom": 12,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "Esther Greenwood spends a glittering, hollow month as a guest editor at a women's magazine in New York, staying at a women-only hotel and going through the motions of a life she cannot feel, before returning to her mother's house in the Boston suburbs and a breakdown. The New York half is closely mapped: the Amazon hotel is the real Barbizon, the magazine is Plath's own Mademoiselle, and the United Nations turns up on a date. The Massachusetts scenes of home and hospital run outside the setting.",
+    "bbox": [-74.02, 40.7, -73.93, 40.8]
+  },
+  "rights": {
+    "originalWork": "In copyright. Sylvia Plath, first published 1963. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Bell_Jar",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Bell Jar, Sylvia Plath (1963). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The airless violet of the glass jar Esther feels sealed inside, stewing in her own sour air. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "esther": {
+      "name": "Esther Greenwood",
+      "color": "#2E5064"
+    },
+    "jay-cee": {
+      "name": "Jay Cee",
+      "color": "#8A6A12"
+    },
+    "constantin": {
+      "name": "Constantin",
+      "color": "#2E6B4A"
+    },
+    "doctor-nolan": {
+      "name": "Dr. Nolan",
+      "color": "#6B3B5A"
+    }
+  }
+}

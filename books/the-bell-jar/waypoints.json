@@ -1,0 +1,119 @@
+[
+  {
+    "id": "amazon-hotel-barbizon",
+    "name": "The Amazon hotel (the Barbizon)",
+    "progressLabel": "Chapter 1",
+    "character": "esther",
+    "coords": [-73.966, 40.764],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The women-only Amazon hotel where Esther and the other guest editors stay is the real Barbizon Hotel for Women at 140 East 63rd Street, where Plath herself lodged during her Mademoiselle internship. Sited at the Barbizon.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Esther lives with the other prize-winning college girls at the Amazon, a hotel for young women whose careful respectability she watches with detachment. From her room high above the city she throws her expensive New York wardrobe out the window piece by piece, an early sign of the numbness closing over her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bell Jar, Wikipedia, on the Amazon hotel and the New York setting",
+        "url": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Barbizon Hotel for Women, 140 East 63rd Street, the model for the Amazon",
+        "url": "https://en.wikipedia.org/wiki/Barbizon_63"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ladies-day-offices",
+    "name": "The Ladies' Day magazine offices",
+    "progressLabel": "Chapter 3",
+    "character": "jay-cee",
+    "coords": [-73.977, 40.755],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The magazine Esther interns at, Ladies' Day, is drawn from Mademoiselle, whose midtown Manhattan offices Plath worked in as a 1953 guest editor; sited in the midtown magazine district around Madison Avenue.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "At the offices of Ladies' Day, the formidable editor Jay Cee tries to draw ambition out of Esther, who is losing her grip on the career everyone assumed she wanted. The photo shoots, the banquets and the fashion pages give the first half of the book its bright, unreal surface.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bell Jar, Wikipedia, on Ladies' Day and Mademoiselle",
+        "url": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "united-nations",
+    "name": "The United Nations",
+    "progressLabel": "Chapter 6",
+    "character": "constantin",
+    "coords": [-73.968, 40.7489],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Esther's date with the simultaneous interpreter Constantin takes them to the United Nations headquarters on the East River, a real building she watches him work in with something like longing.",
+    "reference": "Chapter 6",
+    "order": 3,
+    "note": "Constantin, a UN interpreter, takes Esther to the United Nations, where the sight of him translating fluently between languages sharpens her sense of her own paralysis. It is here she imagines the fig tree of her possible lives, every fig withering before she can choose one.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "United Nations Headquarters, New York",
+        "url": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Bell Jar, Wikipedia, on Constantin and the UN scene",
+        "url": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wellesley-home",
+    "name": "Esther's home, the Boston suburbs",
+    "progressLabel": "Chapter 10",
+    "character": "esther",
+    "coords": [-71.2925, 42.296],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Esther returns to her mother's house in the suburbs of Boston, drawn from Plath's own Wellesley upbringing; the specific house is invented and sited in that suburban world outside the New York setting.",
+    "reference": "Chapter 10",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Back home for the summer, rejected from a writing course and unable to read, sleep or write, Esther sinks. The ordinary suburban house, with its lawns and its expectations, becomes the airless place where the bell jar descends and she begins to plan her death.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Bell Jar, Wikipedia, on the Massachusetts scenes",
+        "url": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "private-asylum-mclean",
+    "name": "The private asylum (McLean Hospital)",
+    "progressLabel": "Chapter 15",
+    "character": "doctor-nolan",
+    "coords": [-71.187, 42.409],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The private hospital where Dr. Nolan treats Esther is drawn from McLean Hospital in Belmont, Massachusetts, where Plath was herself a patient; sited at McLean, outside the New York setting.",
+    "reference": "Chapter 15",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "After a suicide attempt Esther is moved to a private asylum, where the sympathetic Dr. Nolan oversees her care and a course of carefully administered electroshock that, this time, lifts the bell jar. The novel ends with her recovery uncertain, the jar suspended rather than lifted for good.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "McLean Hospital, Belmont, Massachusetts, the model for the private asylum",
+        "url": "https://en.wikipedia.org/wiki/McLean_Hospital"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Bell Jar, Wikipedia, on Dr. Nolan and the hospital",
+        "url": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

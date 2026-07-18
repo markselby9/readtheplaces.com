@@ -1,0 +1,112 @@
+[
+  {
+    "id": "spades-office-sutter-street",
+    "name": "Sam Spade's office, Sutter Street",
+    "progressLabel": "Chapter 1",
+    "character": "spade",
+    "coords": [-122.4028, 37.7903],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Spade's office is on Sutter Street near the Financial District; readers have long identified the Hunter-Dulin Building at 111 Sutter Street as the model. Sited on that block of Sutter.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The story opens in the office of Spade and Archer, where a woman calling herself Miss Wonderly hires the partners to follow a man. That night Miles Archer is dead and the woman, really Brigid O'Shaughnessy, is at the centre of everything. Spade runs the whole case out of these two rooms above Sutter Street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Maltese Falcon (novel), Wikipedia, on the San Francisco setting",
+        "url": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hunter-Dulin Building, 111 Sutter Street, the model for Spade's office",
+        "url": "https://en.wikipedia.org/wiki/Hunter-Dulin_Building"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "burritt-alley",
+    "name": "Burritt Alley",
+    "progressLabel": "Chapter 2",
+    "character": "brigid",
+    "coords": [-122.4092, 37.7906],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Miles Archer is shot in Burritt Street, a real dead-end alley off Bush Street by the Stockton Tunnel; a bronze plaque there still marks the spot where Hammett had him fall.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Archer is lured up the dark slope of Burritt Alley and shot at close range, and the killing that opens the mystery is later revealed to be Brigid's work. The real alley, with its plaque above the Stockton Tunnel, is the most precisely located death in American detective fiction.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Burritt Street plaque marking the Maltese Falcon murder site",
+        "url": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "johns-grill-ellis-street",
+    "name": "John's Grill, Ellis Street",
+    "progressLabel": "Chapter 7",
+    "character": "spade",
+    "coords": [-122.4092, 37.7855],
+    "placeCertainty": "explicit",
+    "certaintyNote": "John's Grill at 63 Ellis Street is a real restaurant, open since 1908 and named in the novel; Spade eats chops, baked potato and sliced tomatoes there, and the place keeps a Maltese Falcon dining room upstairs.",
+    "reference": "Chapter 7",
+    "order": 3,
+    "note": "Spade grabs a fast meal at John's Grill before heading out on the trail of the falcon, and Hammett names the dish so exactly that the restaurant still serves 'Sam Spade's chops' today. It is one of the rare fictional meals you can order at the real table.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "John's Grill, 63 Ellis Street, San Francisco, and its Maltese Falcon association",
+        "url": "https://en.wikipedia.org/wiki/John%27s_Grill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waterfront-la-paloma",
+    "name": "The waterfront (the La Paloma)",
+    "progressLabel": "Chapter 16",
+    "character": "cairo",
+    "coords": [-122.396, 37.7985],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The falcon is carried into San Francisco aboard the ship La Paloma, which docks and then catches fire at the waterfront piers along the Embarcadero; sited on the working waterfront the novel describes.",
+    "reference": "Chapter 16",
+    "order": 4,
+    "note": "The black bird everyone is chasing comes ashore off the La Paloma, a tramp steamer that goes up in flames at the pier. The dying captain, Jacobi, staggers all the way to Spade's office with the parcel before collapsing, dragging the waterfront into the case.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Maltese Falcon (novel), Wikipedia, on the La Paloma and the falcon's arrival",
+        "url": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "spades-apartment-post-street",
+    "name": "Spade's apartment, Post Street",
+    "progressLabel": "Chapter 18",
+    "character": "gutman",
+    "coords": [-122.4165, 37.7873],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Spade's apartment is on Post Street, matching Hammett's own address at 891 Post Street when he wrote the book; the final confrontation is sited on that stretch of Post.",
+    "reference": "Chapter 18",
+    "order": 5,
+    "note": "The night ends in Spade's apartment, where Gutman, Cairo and Brigid gather to unwrap the falcon at last and find it a lead fake. When the others scatter, Spade is left to decide what to do about the woman he loves and the partner she murdered, and he sends her over.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "891 Post Street, Hammett's apartment and the model for Spade's",
+        "url": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Maltese Falcon (novel), Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
