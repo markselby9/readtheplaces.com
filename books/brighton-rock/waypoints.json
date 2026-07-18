@@ -1,0 +1,143 @@
+[
+  {
+    "id": "palace-pier",
+    "name": "The Palace Pier",
+    "progressLabel": "Part 1",
+    "character": "ida",
+    "coords": [-0.1367, 50.8165],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens among the Whitsun crowds on Brighton's Palace Pier, the real pleasure pier on the seafront, where the journalist Hale is stalked in the hours before his death.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Hale, going under the name Fred, hands out cards for a newspaper competition along the packed Palace Pier, knowing Pinkie's gang means to kill him. It is here that the blowsy, good-natured Ida Arnold picks him up for an hour, and later, convinced his death was no accident, appoints herself his avenger.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Brighton Palace Pier",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Palace_Pier"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on the opening",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brighton-racecourse",
+    "name": "Brighton Racecourse",
+    "progressLabel": "Part 4",
+    "character": "pinkie",
+    "coords": [-0.1, 50.8235],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The gang warfare comes to a head at Brighton Racecourse on Race Hill above the town, the real course where 1930s race-gangs really did run protection and fight with razors.",
+    "reference": "Part 4",
+    "order": 2,
+    "note": "Pinkie goes up to the races expecting Colleoni's men to help him settle a score, and is instead set upon and slashed, his own men scattering. The betrayal on the Downs above Brighton shows the boy how far out of his depth he is against the older, richer gangster.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Brighton Racecourse",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Racecourse"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on the racecourse fight",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nelson-place",
+    "name": "Nelson Place",
+    "progressLabel": "Part 1",
+    "character": "rose",
+    "coords": [-0.133, 50.8265],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pinkie and Rose both come from Nelson Place, the poor streets off Albion Hill that were a real Brighton slum since cleared; sited in that district east of the Old Steine.",
+    "reference": "Part 1",
+    "order": 3,
+    "note": "The dead-end poverty of Nelson Place is the world that formed Pinkie's cold Catholic damnation and Rose's helpless devotion. Greene keeps returning to it to explain them both: two children of the same slum, one certain of hell, the other ready to be dragged there for love.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on Nelson Place and the characters' origins",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cosmopolitan-hotel",
+    "name": "The Cosmopolitan Hotel (the Grand)",
+    "progressLabel": "Part 2",
+    "character": "colleoni",
+    "coords": [-0.149, 50.821],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The plush Cosmopolitan where the gang boss Colleoni holds court is drawn from Brighton's grand seafront hotels, above all the Grand Hotel on King's Road; sited on that stretch of the front.",
+    "reference": "Part 2",
+    "order": 4,
+    "note": "Colleoni, smooth and wealthy, runs his rackets from a suite in the Cosmopolitan, all palm courts and deference, a world away from Pinkie's shabby lodgings. When he summons the boy and offers him money to bow out, the contrast between the two gangsters is the contrast between the seafront and the slum.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "The Grand Brighton, the seafront hotel behind the Cosmopolitan",
+        "url": "https://en.wikipedia.org/wiki/Grand_Hotel,_Brighton"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on Colleoni",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "snows-restaurant",
+    "name": "Snow's restaurant",
+    "progressLabel": "Part 2",
+    "character": "rose",
+    "coords": [-0.1385, 50.8195],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Snow's, the restaurant where Rose waits tables and Pinkie first comes to silence her, is invented; the novel places it in central Brighton near the front. Sited in the town centre by the Old Steine.",
+    "reference": "Part 2",
+    "order": 5,
+    "note": "Rose is a waitress at Snow's when she serves the card that could prove Hale was murdered, and Pinkie courts and marries her to keep her quiet. The ordinary little restaurant is where the book's central, doomed bond is formed, out of fear on his side and love on hers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on Rose and Snow's",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "peacehaven-cliffs",
+    "name": "The cliffs at Peacehaven",
+    "progressLabel": "Part 7",
+    "character": "pinkie",
+    "coords": [-0.001, 50.791],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The climax plays out on the cliffs at Peacehaven, the real clifftop town a few miles east of Brighton, where Pinkie drives Rose intending a fake suicide pact.",
+    "reference": "Part 7",
+    "order": 6,
+    "outsideSetting": true,
+    "note": "Cornered, Pinkie takes Rose out to the dark cliffs at Peacehaven, meaning to talk her into shooting herself. Ida and the police arrive at the last moment, and Pinkie, splashed by his own bottle of vitriol, goes over the edge, leaving Rose with a recording she believes is his love and does not yet know is his hate.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Peacehaven, East Sussex",
+        "url": "https://en.wikipedia.org/wiki/Peacehaven"
+      },
+      {
+        "kind": "guide",
+        "ref": "Brighton Rock (novel), Wikipedia, on the ending at Peacehaven",
+        "url": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

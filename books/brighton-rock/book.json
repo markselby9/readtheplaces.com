@@ -1,0 +1,46 @@
+{
+  "id": "brighton-rock",
+  "title": "Brighton Rock",
+  "author": "Graham Greene",
+  "published": 1938,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.138, 50.821],
+  "zoom": 13,
+  "setting": {
+    "city": "Brighton",
+    "country": "GB",
+    "note": "A razor-gang thriller set in the seaside Brighton of the 1930s, where the seventeen-year-old gangster Pinkie kills a man in the Whitsun crowds and marries a waitress, Rose, to keep her from testifying, while the cheerful Ida Arnold sets out to bring him down. Greene maps the town precisely: the Palace Pier where it starts, the racecourse where the gangs slash each other, the grand seafront hotels of the rival boss Colleoni, and the poor streets off Nelson Place that made Pinkie what he is. The chase ends on the cliffs at Peacehaven, east of town.",
+    "bbox": [-0.16, 50.808, -0.09, 50.832]
+  },
+  "rights": {
+    "originalWork": "In copyright. Graham Greene, first published 1938. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Brighton Rock, Graham Greene (1938). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red running through a stick of Brighton rock, Greene's own image for a nature fixed all the way through, and the colour of the violence under the holiday town. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "pinkie": {
+      "name": "Pinkie Brown",
+      "color": "#4A4A4A"
+    },
+    "rose": {
+      "name": "Rose",
+      "color": "#6B3B5A"
+    },
+    "ida": {
+      "name": "Ida Arnold",
+      "color": "#8A6A12"
+    },
+    "colleoni": {
+      "name": "Colleoni",
+      "color": "#2E5064"
+    }
+  }
+}

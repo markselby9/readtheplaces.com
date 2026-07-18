@@ -1,0 +1,142 @@
+[
+  {
+    "id": "grand-central-terminal",
+    "name": "Grand Central Terminal",
+    "progressLabel": "Chapter 20",
+    "character": "holden",
+    "coords": [-73.9772, 40.7527],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holden arrives in Manhattan by train and, later, out of money and nowhere to go, spends part of a night sleeping on a bench in the waiting room at Grand Central, the real terminal on 42nd Street.",
+    "reference": "Chapters 20-21",
+    "order": 1,
+    "note": "Grand Central is where the city takes Holden in and where it lets him down. He rides in from Pencey, and after his money and his nerve run out he sleeps here among the strangers, waking cold and low and more alone than at any point in the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Grand Central Terminal, New York",
+        "url": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the New York setting",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "edmont-hotel",
+    "name": "The Edmont Hotel",
+    "progressLabel": "Chapter 9",
+    "character": "holden",
+    "coords": [-73.984, 40.754],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The seedy Edmont Hotel where Holden takes a room is invented; the novel places it in midtown Manhattan among the hotels near Grand Central. Sited in that midtown hotel district.",
+    "reference": "Chapters 9-13",
+    "order": 2,
+    "note": "Holden checks into the Edmont alone, watches the strange guests across the airshaft, and gets talked into sending up a prostitute, Sunny, only to want to talk instead. The night ends with the elevator man Maurice beating him for the fare, one more of the city's small cruelties.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the Edmont Hotel",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "radio-city-skating",
+    "name": "Radio City (the skating date)",
+    "progressLabel": "Chapter 17",
+    "character": "sally",
+    "coords": [-73.9799, 40.7599],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holden's date with Sally Hayes takes them to a show and to ice-skating at Radio City in Rockefeller Center, the real music hall and rink in midtown.",
+    "reference": "Chapter 17",
+    "order": 3,
+    "note": "The disastrous date with Sally, all forced enthusiasm and skating on rented skates, tips over when Holden begs her to run away with him to the woods and she refuses. His inability to connect even here, in the bright heart of the city, deepens his drift toward breakdown.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Radio City Music Hall and Rockefeller Center, New York",
+        "url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the Sally Hayes date",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "museum-of-natural-history",
+    "name": "The American Museum of Natural History",
+    "progressLabel": "Chapter 16",
+    "character": "holden",
+    "coords": [-73.974, 40.7813],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holden walks to the American Museum of Natural History on Central Park West, the real museum whose glass dioramas he remembers from school trips.",
+    "reference": "Chapter 16",
+    "order": 4,
+    "note": "The museum gives Holden his clearest statement of what he wants: the dioramas never change, the Eskimo is always fishing, while you come back each year a little different. His longing to freeze childhood in place, to be the catcher who stops children falling, is the ache at the centre of the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "American Museum of Natural History, New York",
+        "url": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the museum passage",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-park-lagoon",
+    "name": "The Central Park lagoon (the ducks)",
+    "progressLabel": "Chapter 20",
+    "character": "holden",
+    "coords": [-73.9743, 40.7666],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holden goes looking for the pond in the south-east corner of Central Park to see whether the ducks are still there in the cold; the Pond is a real feature of the park.",
+    "reference": "Chapter 20",
+    "order": 5,
+    "note": "The question he keeps asking cab drivers, where the ducks go when the pond freezes over, is Holden's small, unanswered way of asking what happens to the vulnerable when their world closes in. He finds the half-frozen pond in the dark and stands there, half-hoping he might get pneumonia.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the Central Park pond",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-park-carousel",
+    "name": "The Central Park Carousel",
+    "progressLabel": "Chapter 25",
+    "character": "phoebe",
+    "coords": [-73.9776, 40.7698],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book closes at the carousel in Central Park, the real merry-go-round near the 65th Street transverse, where Holden watches Phoebe ride.",
+    "reference": "Chapter 25",
+    "order": 6,
+    "note": "In the rain, Holden sits on a bench and watches his little sister go round and round on the carousel, reaching for the gold ring, and is suddenly so happy he could cry. It is the one moment of peace in the book, the catcher letting the child ride and risk and be herself.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Central Park Carousel, New York",
+        "url": "https://en.wikipedia.org/wiki/Central_Park_Carousel"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Catcher in the Rye, Wikipedia, on the closing carousel scene",
+        "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "the-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "author": "J. D. Salinger",
+  "published": 1951,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.975, 40.766],
+  "zoom": 12,
+  "setting": {
+    "city": "New York",
+    "country": "US",
+    "note": "Having got himself thrown out of yet another prep school, Holden Caulfield spends two lost days drifting around Manhattan before he has to face his parents. The city is precisely his: Grand Central where he sleeps on a bench, the frozen pond in Central Park where he keeps wondering where the ducks go, the unchanging dioramas at the Museum of Natural History, and the carousel where his sister Phoebe rides in the rain at the end.",
+    "bbox": [-74.0, 40.745, -73.95, 40.79]
+  },
+  "rights": {
+    "originalWork": "In copyright. J. D. Salinger, first published 1951. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Catcher in the Rye, J. D. Salinger (1951). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the hunting hat Holden pulls on backwards, the one flag of his own he carries through the whole cold city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "holden": {
+      "name": "Holden Caulfield",
+      "color": "#2E5064"
+    },
+    "phoebe": {
+      "name": "Phoebe Caulfield",
+      "color": "#2E6B4A"
+    },
+    "sally": {
+      "name": "Sally Hayes",
+      "color": "#6B3B5A"
+    }
+  }
+}
