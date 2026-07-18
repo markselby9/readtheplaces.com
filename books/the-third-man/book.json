@@ -1,0 +1,46 @@
+{
+  "id": "the-third-man",
+  "title": "The Third Man",
+  "author": "Graham Greene",
+  "published": 1950,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [16.39, 48.19],
+  "zoom": 11,
+  "setting": {
+    "city": "Vienna",
+    "country": "AT",
+    "note": "Greene's story of the black market in occupied, four-power Vienna, where the pulp novelist Holly Martins comes to visit his old friend Harry Lime and arrives in time for Lime's funeral, then slowly learns that his friend is neither dead nor innocent. The ruined city is exact: the Central Cemetery where Lime is buried and reburied, the doorway in the old town where he is glimpsed alive, the Great Wheel at the Prater where the two friends have it out, and the sewers where the chase ends.",
+    "bbox": [16.33, 48.14, 16.46, 48.24]
+  },
+  "rights": {
+    "originalWork": "In copyright. Graham Greene, first published 1950. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Third_Man",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Third Man, Graham Greene (1950). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The amber of the lamplight that catches Harry Lime's face in the doorway, the one warm colour in a wet, shadowed city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "martins": {
+      "name": "Holly Martins",
+      "color": "#2E5064"
+    },
+    "lime": {
+      "name": "Harry Lime",
+      "color": "#8A2B1E"
+    },
+    "anna": {
+      "name": "Anna Schmidt",
+      "color": "#6B3B5A"
+    },
+    "calloway": {
+      "name": "Major Calloway",
+      "color": "#4A4A4A"
+    }
+  }
+}

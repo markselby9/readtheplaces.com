@@ -1,0 +1,46 @@
+{
+  "id": "captain-corellis-mandolin",
+  "title": "Captain Corelli's Mandolin",
+  "author": "Louis de Bernières",
+  "published": 1994,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [20.58, 38.22],
+  "zoom": 10,
+  "setting": {
+    "city": "Cephalonia",
+    "country": "GR",
+    "note": "On the Ionian island of Cephalonia during the Second World War, the doctor's daughter Pelagia falls in love with Captain Antonio Corelli, an Italian officer of the occupying garrison who leads his men in an opera club and plays the mandolin. The island is real and central: the capital at Argostoli where the Italians are based, the port of Sami, Mount Aenos above the villages, and the coast where the fisherman Mandras swims. History closes in with the German massacre of the Italians in 1943 and the great earthquake of 1953.",
+    "bbox": [20.4, 38.1, 20.75, 38.4]
+  },
+  "rights": {
+    "originalWork": "In copyright. Louis de Bernières, first published 1994. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Captain_Corelli%27s_Mandolin",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Captain Corelli's Mandolin, Louis de Bernières (1994). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The warm gold of the mandolin and the Ionian light, the music Corelli brings to a village at war. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "pelagia": {
+      "name": "Pelagia",
+      "color": "#8A2B1E"
+    },
+    "corelli": {
+      "name": "Captain Corelli",
+      "color": "#2E5064"
+    },
+    "iannis": {
+      "name": "Dr Iannis",
+      "color": "#2E6B4A"
+    },
+    "mandras": {
+      "name": "Mandras",
+      "color": "#6B3B5A"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "central-cemetery",
+    "name": "The Central Cemetery (Zentralfriedhof)",
+    "progressLabel": "Chapter 1",
+    "character": "martins",
+    "coords": [16.441, 48.149],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The story opens and closes at Vienna's vast Central Cemetery, the Zentralfriedhof on the Simmeringer Hauptstrasse, where Harry Lime is buried twice: first in the staged funeral, then for real.",
+    "reference": "Opening",
+    "order": 1,
+    "note": "Holly Martins arrives in Vienna at his friend's invitation and instead attends his funeral, watching the coffin lowered in the rain among the endless avenues of graves. The same cemetery gives the story its famous last image, Anna walking the long straight path past Martins without a glance.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Vienna Central Cemetery (Zentralfriedhof)",
+        "url": "https://en.wikipedia.org/wiki/Vienna_Central_Cemetery"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Man, Wikipedia, on the cemetery scenes",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cafe-mozart-central-vienna",
+    "name": "Café Mozart, central Vienna",
+    "progressLabel": "Chapter 4",
+    "character": "anna",
+    "coords": [16.3695, 48.2043],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Martins does much of his asking around in the cafés of the inner city; Greene worked from the real Café Mozart near the Albertina, renamed in the story. Sited at Café Mozart in the Innere Stadt.",
+    "reference": "Chapters 4-6",
+    "order": 2,
+    "note": "Through the cafés and theatres of central Vienna, Martins finds Anna Schmidt, Lime's lover, an actress with forged papers and a quiet loyalty to a man who did not deserve it. Their circling of the truth about Harry gives the middle of the book its melancholy, and its love story.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Third Man, Wikipedia, on the Vienna locations",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harry-limes-doorway",
+    "name": "Harry Lime's doorway, the old town",
+    "progressLabel": "Chapter 12",
+    "character": "lime",
+    "coords": [16.363, 48.213],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The scene in which Lime is revealed alive, lit for a moment in a shadowed doorway, is set on Schreyvogelgasse in the old town near the Mölker Bastei, a real lane still visited for it.",
+    "reference": "Chapter 12",
+    "order": 3,
+    "note": "Late at night in the old town, a neighbour's light falls on a figure in a doorway and Martins sees the impossible: Harry Lime, alive, watching him. The dead man's reappearance turns the whole story, and sends Martins to the authorities with what he now knows.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Third Man, Wikipedia, on the doorway reveal (Schreyvogelgasse)",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "great-wheel-prater",
+    "name": "The Great Wheel, the Prater",
+    "progressLabel": "Chapter 14",
+    "character": "lime",
+    "coords": [16.3958, 48.2166],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The confrontation between the two friends takes place in a cabin of the Wiener Riesenrad, the great Ferris wheel in the Prater amusement park, a real landmark of Vienna.",
+    "reference": "Chapter 14",
+    "order": 4,
+    "note": "High over the city in a swaying cabin of the Great Wheel, Lime lays out his philosophy without shame, looking down on the people below as dots he would not miss. It is the moral centre of the story, the moment Martins understands what his friend has become, selling diluted penicillin that kills children.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Wiener Riesenrad, the Great Wheel at the Prater",
+        "url": "https://en.wikipedia.org/wiki/Wiener_Riesenrad"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Man, Wikipedia, on the Ferris wheel scene",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vienna-sewers",
+    "name": "The Vienna sewers",
+    "progressLabel": "Chapter 16",
+    "character": "calloway",
+    "coords": [16.369, 48.2],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The final chase runs through Vienna's real sewer system, a vaulted underground network beneath the inner city that guided Third Man tours still descend into today.",
+    "reference": "Closing chapters",
+    "order": 5,
+    "note": "Cornered by Major Calloway's men, Lime flees into the sewers, and the hunt echoes through the great brick tunnels and rushing water beneath Vienna. It ends with the wounded Lime asking, with a look, for the bullet his old friend finally gives him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Third Man, Wikipedia, on the sewer chase and the real tour",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
