@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "wuthering-heights-top-withens",
+    "name": "Wuthering Heights (Top Withens)",
+    "progressLabel": "Ch. 1",
+    "character": "heathcliff",
+    "coords": [-2.03, 53.81472],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Heights is Brontë's invention, but the farmhouse has long been identified with Top Withens, a ruin on Haworth Moor she knew from the parsonage. The building never matched the novel's grand house; the bleak, wind-scoured site does. The pin marks the signposted ruin.",
+    "quoteAnchor": "Wuthering Heights is the name of Mr. Heathcliff's dwelling",
+    "passage": "Wuthering Heights is the name of Mr. Heathcliff's dwelling. “Wuthering” being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.",
+    "note": "Lockwood, the new tenant of the Grange, walks up to call on his landlord and gives the house its name and its weather in a sentence. “Wuthering” is the local word for the roar of wind over the edge, and Brontë sets the farm where the north wind bends the thorns one way. Top Withens, the ruin walkers still climb to, stands in exactly that exposure.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter I",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Top Withens, ruined farmhouse on Haworth Moor, West Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Top_Withens"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-moors-penistone-hill",
+    "name": "The open moor (Penistone Hill)",
+    "progressLabel": "Ch. 3",
+    "character": "catherine",
+    "coords": [-1.9633, 53.8317],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The moor the children escape onto is the open Pennine moorland between the two houses, drawn from Haworth Moor and Penistone Hill above Stanbury, where Emily Brontë walked. No single point is named in the text; the pin marks Penistone Hill Country Park, the walkable moor west of Haworth.",
+    "quoteAnchor": "have a scamper on the moors, under its shelter",
+    "passage": "I reached this book, and a pot of ink from a shelf, and pushed the house-door ajar to give me light, and I have got the time on with writing for twenty minutes; but my companion is impatient, and proposes that we should appropriate the dairywoman's cloak, and have a scamper on the moors, under its shelter.",
+    "note": "Lockwood, snowed in at the Heights, reads the child Catherine's diary scrawled in the margins of an old book, and finds her and Heathcliff bolting from Joseph's Sunday sermons out onto the moor. The moor is their refuge and their whole freedom, the ground Cathy later says she would be herself once more among.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter III",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Penistone Hill Country Park, open moorland above Haworth, West Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Penistone_Hill_Country_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "thrushcross-grange-ponden-hall",
+    "name": "Thrushcross Grange (Ponden Hall)",
+    "progressLabel": "Ch. 6",
+    "character": "heathcliff",
+    "coords": [-2.0155, 53.8301],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Grange, the Lintons' comfortable valley house, is fiction, but tradition and the Brontës' own use of it draw it from Ponden Hall near Stanbury, a real farmhouse the family visited for its library. The pin marks Ponden Hall; the novel's grander park is Brontë's enlargement.",
+    "quoteAnchor": "a splendid place carpeted with crimson",
+    "passage": "Both of us were able to look in by standing on the basement, and clinging to the ledge, and we saw—ah! it was beautiful—a splendid place carpeted with crimson, and crimson-covered chairs and tables, and a pure white ceiling bordered by gold, a shower of glass-drops hanging in silver chains from the centre, and shimmering with little soft tapers.",
+    "note": "Heathcliff tells Nelly how he and Cathy ran down off the Heights and pressed their faces to the Lintons' lit window, seeing for the first time the soft, crimson-carpeted world of the valley. Cathy is taken in by the dogs and kept five weeks; Heathcliff is turned away. The distance between the two houses becomes the distance between them.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter VI",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Ponden Hall, farmhouse near Stanbury, West Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Ponden_Hall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-valley-of-gimmerton-stanbury",
+    "name": "The valley of Gimmerton (Stanbury)",
+    "progressLabel": "Ch. 10",
+    "character": "catherine",
+    "coords": [-1.981636, 53.830346],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gimmerton, the novel's village with its chapel, doctor and band, is drawn from the villages below the moor, chiefly Stanbury near Haworth. The pin marks Stanbury; the name and the exact chapel are Brontë's.",
+    "quoteAnchor": "the valley of Gimmerton, with a long line of mist winding nearly to its top",
+    "passage": "They sat together in a window whose lattice lay back against the wall, and displayed, beyond the garden trees, and the wild green park, the valley of Gimmerton, with a long line of mist winding nearly to its top (for very soon after you pass the chapel, as you may have noticed, the sough that runs from the marshes joins a beck which follows the bend of the glen).",
+    "note": "Nelly looks out from the Grange over the valley of Gimmerton, its mist tracing the beck up the glen, on the evening Heathcliff comes back rich and changed to claim Catherine. Gimmerton is the ordinary human world the moor's two houses answer to: its chapel marries and buries them, its doctor is sent for down this road.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter X",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "guide",
+        "ref": "Stanbury, in the civil parish of Haworth, Cross Roads and Stanbury, West Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/Haworth,_Cross_Roads_and_Stanbury"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "penistone-crags-ponden-kirk",
+    "name": "Penistone Crags (Ponden Kirk)",
+    "progressLabel": "Ch. 18",
+    "character": "catherine",
+    "coords": [-2.032336, 53.824612],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Penistone Crags, the golden rocks young Cathy longs to reach, are drawn from Ponden Kirk, a gritstone outcrop on Stanbury Moor above Ponden. Its hole at the base answers to the novel's Fairy Cave. The pin marks Ponden Kirk.",
+    "quoteAnchor": "The abrupt descent of Penistone Crags particularly attracted her",
+    "passage": "The abrupt descent of Penistone Crags particularly attracted her notice; especially when the setting sun shone on it and the topmost heights, and the whole extent of landscape besides lay in shadow.",
+    "note": "Cathy Linton, the second Catherine, grows up hedged inside Thrushcross Park and fixes on the far crags catching the last light, forever asking Nelly if she is old enough to ride to them. The road there wound close by Wuthering Heights, so she is kept from it, until the pull of the moor draws her over to the Heights and the next turn of the story.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter XVIII",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ponden Kirk (Penistone Crags), gritstone outcrop on Stanbury Moor, West Yorkshire",
+        "url": "https://wuthering-heights.co.uk/locations/ponden-kirk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-three-headstones-haworth-kirkyard",
+    "name": "Gimmerton kirkyard (Haworth Church)",
+    "progressLabel": "Ch. 34",
+    "character": "heathcliff",
+    "coords": [-1.95617, 53.83122],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The moor-edge kirk where Catherine, Edgar and Heathcliff lie is fictional Gimmerton's, drawn from the parish church at Haworth, St Michael and All Angels, where the Brontës themselves are buried. The pin marks Haworth Church.",
+    "quoteAnchor": "the three headstones on the slope next the moor",
+    "passage": "I sought, and soon discovered, the three headstones on the slope next the moor: the middle one grey, and half buried in heath; Edgar Linton's only harmonized by the turf and moss creeping up its foot; Heathcliff's still bare.",
+    "note": "The book closes with Lockwood back on the moor, finding the three graves on the slope where the churchyard wall runs low enough for the heath to climb over it. Catherine's stone is half buried in heather, Heathcliff's still raw; he watches the moths and the soft wind and wonders how anyone could imagine unquiet slumbers for the sleepers there.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Wuthering Heights, Chapter XXXIV",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "kind": "heritage",
+        "ref": "St Michael and All Angels' Church, Haworth, West Yorkshire",
+        "url": "https://en.wikipedia.org/wiki/St_Michael_and_All_Angels%27_Church,_Haworth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

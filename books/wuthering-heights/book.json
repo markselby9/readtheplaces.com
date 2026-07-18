@@ -4,20 +4,38 @@
   "author": "Emily Brontë",
   "published": 1847,
   "orderingKey": "chapter",
-  "center": [-1.9486, 53.8312],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-1.99, 53.822],
+  "zoom": 12,
   "setting": {
     "city": "Haworth",
     "country": "GB",
-    "note": "The moors above Haworth, where Top Withens still stands in for the Heights and the wind never stops. Brontë invents the two houses but keeps the real Pennine ground between them, an hour’s walk that is the whole novel.",
-    "bbox": [-1.969, 53.811, -1.929, 53.851]
+    "note": "The West Yorkshire moors above Haworth, the country Emily Brontë walked from the parsonage. The two houses are invented but firmly rooted here: Wuthering Heights is traditionally the ruined farmhouse at Top Withens, Thrushcross Grange is drawn from Ponden Hall near Stanbury, Gimmerton from the local villages, and the open moorland of Penistone Hill lies the hour's walk between them that is the whole novel.",
+    "bbox": [-2.04, 53.808, -1.945, 53.838]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Emily Brontë published this in 1847.",
+    "originalWork": "Public domain. Emily Brontë, first published 1847; the author died in 1848.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Emily Brontë, Wuthering Heights (1847)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/768",
+    "territoryNotes": "Public domain in the United States (published 1847) and in the United Kingdom and the EU, where the author died more than 70 years ago (1848).",
+    "attribution": "Emily Brontë, Wuthering Heights (1847). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "carpeted with crimson",
+    "note": "The crimson drawing-room of Thrushcross Grange, glimpsed through the window by the two moor children, against the grey stone and dark heather of the Heights. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "heathcliff": {
+      "name": "Heathcliff",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "his black eyes"
+    },
+    "catherine": {
+      "name": "Catherine Earnshaw",
+      "color": "#8A6A12",
+      "colorSourceQuote": "golden ringlets"
+    }
   }
 }
