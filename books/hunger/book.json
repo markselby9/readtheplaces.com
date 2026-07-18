@@ -1,23 +1,37 @@
 {
   "id": "hunger",
   "title": "Hunger",
+  "titleOriginal": "Sult",
   "author": "Knut Hamsun",
   "published": 1890,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [10.739, 59.9133],
   "zoom": 12.5,
   "setting": {
     "city": "Oslo",
     "country": "NO",
-    "note": "Kristiania, now Oslo, paced in a fever of starvation down Karl Johan and along the harbour. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.",
+    "note": "The book calls the city Kristiania (Christiania in its own spelling); that is the old name for Oslo, which the capital carried until 1925. The unnamed narrator paces it in a fever of starvation, up and down Carl Johann Street, out to the fortress by the sea, and down to the wharves. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.",
     "bbox": [10.489, 59.809, 10.951, 60.135]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Knut Hamsun published this in 1890.",
-    "translation": "Translated by george egerton. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/knut-hamsun/hunger/george-egerton",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Knut Hamsun, Hunger (1890)."
+    "originalWork": "Public domain. Knut Hamsun, first published 1890; the author died in 1952.",
+    "translation": "English translation by George Egerton (1899); she died in 1945, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/8387",
+    "territoryNotes": "Public domain in the US and UK/EU: Hamsun died 1952, Egerton 1945.",
+    "attribution": "Knut Hamsun, Hunger (1890), trans. George Egerton. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "the green blanket",
+    "note": "The green blanket Hans Pauli lent him, the last thing he owns and can neither keep warm under nor bear to pawn. A dark green that clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The narrator",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "greyish square in the wall"
+    }
   }
 }

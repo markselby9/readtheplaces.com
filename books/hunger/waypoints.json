@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "stortorvet-our-saviours",
+    "name": "The market square and Our Saviour's church",
+    "progressLabel": "Part I",
+    "character": "narrator",
+    "coords": [10.747, 59.9123],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Our Saviour's church is Vor Frelsers kirke, today Oslo Cathedral, which still stands over the old market square (Stortorvet). The pin marks the cathedral; the clock in its tower is the one the narrator reads.",
+    "quoteAnchor": "the dial marked ten on Our Saviour's tower",
+    "passage": "When I reached the market-place I went to the fountain and drank a little. I looked up; the dial marked ten on Our Saviour's tower.",
+    "note": "The starving narrator crosses the market square where the country women sell their sausage and vegetables, and checks the hour on the cathedral clock. Vor Frelsers kirke and the market at its foot are the fixed centre he circles all day, too proud to beg and too weak to work.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part I",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Oslo Cathedral (Vor Frelsers kirke), Stortorvet, Oslo",
+        "url": "https://en.wikipedia.org/wiki/Oslo_Cathedral"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "carl-johann-street",
+    "name": "Carl Johann Street (Karl Johans gate)",
+    "progressLabel": "Part I",
+    "character": "narrator",
+    "coords": [10.736, 59.915],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Carl Johann Street is Karl Johans gate, Kristiania's grand promenade. The pin sits on its upper stretch by the old University, at the corner of University Street (Universitetsgata) where the narrator watches the acquaintances he dodges.",
+    "quoteAnchor": "walked up and down Carl Johann Street",
+    "passage": "The whole town began to get on its legs as it approached the fashionable hour for promenading. Bowing and laughing folk walked up and down Carl Johann Street.",
+    "note": "At noon the fashionable crowd fills Karl Johans gate, the city's main street, and the narrator slips past the well-dressed acquaintances he cannot let see how far he has fallen. The promenade of the healthy and fed is the stage he is being quietly written off from.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part I",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Karl Johans gate, the main street of Oslo",
+        "url": "https://en.wikipedia.org/wiki/Karl_Johans_gate"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "akershus-fortress",
+    "name": "Akershus fortress by the sea",
+    "progressLabel": "Part I",
+    "character": "narrator",
+    "coords": [10.7368, 59.9075],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The fortress on the fjord is Akershus, the medieval castle and citadel above Oslo's harbour. The pin marks it; the narrator comes down to the water beside it looking for somewhere to sleep.",
+    "quoteAnchor": "go towards the sea, near the fortress",
+    "passage": "I pass by Ingebret's and the theatre, turn round by the box-office, and go towards the sea, near the fortress. I find a seat once more, and begin to consider afresh.",
+    "note": "Turned out of his lodging and with nowhere to sleep, the narrator drifts down to the fjord under the walls of Akershus and sits trying to think of a hole to hide in for the night. The old fortress by the water is where his homelessness first becomes literal.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part I",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Akershus Fortress, on the Oslofjord, Oslo",
+        "url": "https://en.wikipedia.org/wiki/Akershus_Fortress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-railway-wharf",
+    "name": "The harbour and the wharves",
+    "progressLabel": "Part II",
+    "character": "narrator",
+    "coords": [10.7492, 59.9078],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The narrator names the railway wharf, the railway square and Harbour Street (Havnegata), which put him on the working quays of the inner harbour just south of the station. The exact berth is not fixed; the pin marks that waterfront.",
+    "quoteAnchor": "The ships lay there, and the sea rocked in the sunshine",
+    "passage": "The ships lay there, and the sea rocked in the sunshine. There was bustle and movement everywhere, shrieking steam-whistles, quay porters with cases on their shoulders, lively \"shanties\" coming from the prams.",
+    "note": "He goes down to the harbour where the ships are loading, drawn by the smell of cakes on the quay and the half-formed hope of working his passage out on a vessel like the Nun. The busy wharves are his imagined way out of the city, and out of hunger.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part II",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Port of Oslo, the harbour on the Oslofjord",
+        "url": "https://en.wikipedia.org/wiki/Port_of_Oslo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vaterland-lodging-house",
+    "name": "The Vaterland lodging-house",
+    "progressLabel": "Part IV",
+    "character": "narrator",
+    "coords": [10.7572, 59.9128],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Vaterland was the poor riverside district at the mouth of the Aker (Akerselva), north of the present central station; most of it was cleared in the 1950s. The narrator names the quarter but not his inn, so the pin marks Vaterland, by the river, not the exact house.",
+    "quoteAnchor": "And I stayed steadily down in Vaterland",
+    "passage": "And I stayed steadily down in Vaterland. I grew more and more closely bound to this inn, this lodging-house for travellers, where I had found shelter, in spite of my starving condition.",
+    "note": "In the last part the narrator holes up in a cheap travellers' lodging-house in Vaterland, the crowded slum by the Aker river, running up a bill he cannot pay and living on the landlady's charity bread. It is the lowest point of the descent, the place he keeps returning to and dreading.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part IV",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Vaterland, the former riverside district at the mouth of the Akerselva, Oslo",
+        "url": "https://en.wikipedia.org/wiki/Vaterland,_Norway"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-grand",
+    "name": "The Grand Café",
+    "progressLabel": "Part IV",
+    "character": "narrator",
+    "coords": [10.7394, 59.9136],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Grand is the Grand Café at the Grand Hotel on Karl Johans gate, the gathering place of Kristiania's writers and artists. The pin marks the hotel.",
+    "quoteAnchor": "they came out late from the Grand",
+    "passage": "It was late; they were three jovial souls together, they came out late from the Grand, and met this being going along alone past Cammermeyer's, and they addressed her.",
+    "note": "The Grand Café on Karl Johans gate, where the fed and the literary sit late over their drinks, marks the world the narrator is shut out of. He hears of it second-hand, in a stranger's story of an evening's amusement, while a servant girl taunts him for pretending he ever dined near such a place.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Hunger, Part IV",
+        "url": "https://www.gutenberg.org/ebooks/8387"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Grand Hotel and its Grand Café, Karl Johans gate, Oslo",
+        "url": "https://en.wikipedia.org/wiki/Grand_Hotel_(Oslo)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
