@@ -4,20 +4,48 @@
   "author": "Victor Hugo",
   "published": 1831,
   "orderingKey": "chapter",
-  "center": [2.3444, 48.8615],
+  "sourcing": "sourced",
+  "center": [2.3499, 48.853],
   "zoom": 12.5,
   "setting": {
     "city": "Paris",
     "country": "FR",
-    "note": "A novel written to save a building, and it worked. Hugo’s Paris of 1482 is reconstructed street by street, and the cathedral has burned and been rebuilt since he wrote it.",
+    "note": "A novel written to save a building, and it worked. Hugo's Paris of 1482 is rebuilt street by street around the cathedral on the Île de la Cité, and every place the story turns on is real: the Place de Grève where Esmeralda dances, the Palais de Justice, the thieves' Cour des Miracles, the Bastille, the gibbet at Montfaucon. The cathedral itself has burned and been rebuilt since he wrote it.",
     "bbox": [2.224, 48.816, 2.47, 48.902]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Victor Hugo published this in 1831.",
-    "translation": "Translated by isabel f hapgood. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/victor-hugo/notre-dame-de-paris/isabel-f-hapgood",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Victor Hugo, Notre-Dame de Paris (1831)."
+    "originalWork": "Public domain. Victor Hugo, first published 1831; the author died in 1885.",
+    "translation": "English translation by Isabel F. Hapgood (1888); she died in 1928, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2610",
+    "territoryNotes": "Public domain in the US and UK/EU: Hugo died 1885, Hapgood 1928.",
+    "attribution": "Victor Hugo, Notre-Dame de Paris (1831), trans. Isabel F. Hapgood. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "accentSourceQuote": "two black and massive towers",
+    "note": "The dark twin towers of Notre-Dame, the building Hugo wrote the book to save. A near-black slate grey that clears WCAG AA on paper."
+  },
+  "characters": {
+    "quasimodo": {
+      "name": "Quasimodo",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "bristling with red hair"
+    },
+    "esmeralda": {
+      "name": "La Esmeralda",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "covered with green silk"
+    },
+    "gringoire": {
+      "name": "Pierre Gringoire",
+      "color": "#8A6A12",
+      "colorSourceQuote": "parti-colored robes of yellow and white"
+    },
+    "louis": {
+      "name": "Louis XI",
+      "color": "#2E5064",
+      "colorSourceQuote": "fine indigo"
+    }
   }
 }

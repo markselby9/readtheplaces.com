@@ -1,1 +1,148 @@
-[]
+[
+  {
+    "id": "palais-de-justice",
+    "name": "The Palais de Justice",
+    "progressLabel": "Book 1, ch. 1",
+    "character": "gringoire",
+    "coords": [2.3452, 48.8556],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "presented in the grand hall of the Palais de Justice",
+    "passage": "The greater part of this crowd directed their steps towards the bonfire, which was quite in season, or towards the mystery play, which was to be presented in the grand hall of the Palais de Justice (the courts of law), which was well roofed and walled.",
+    "note": "The book opens here, in the great hall of the Palais on the Île de la Cité, where the crowd jeers Gringoire's mystery play and elects Quasimodo Pope of the Fools. The medieval hall burned in 1618, but the Palais de Justice still stands on the same ground, its river front and the Conciergerie towers among the oldest surviving fabric of royal Paris.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book First, Chapter I (The Grand Hall)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Palais de la Cité (Palais de Justice) and the Conciergerie, Île de la Cité, Paris",
+        "url": "https://en.wikipedia.org/wiki/Palais_de_la_Cit%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "place-de-greve",
+    "name": "The Place de Grève",
+    "progressLabel": "Book 2, ch. 3",
+    "character": "esmeralda",
+    "coords": [2.3522, 48.8564],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "In a vast space left free between the crowd and the fire, a young girl was dancing",
+    "passage": "In a vast space left free between the crowd and the fire, a young girl was dancing. Whether this young girl was a human being, a fairy, or an angel, is what Gringoire, sceptical philosopher and ironical poet that he was, could not decide at the first moment, so fascinated was he by this dazzling vision.",
+    "note": "On the square where the city's pillory and gallows stood, Esmeralda dances by the bonfire and Gringoire follows her into the story. The Place de Grève, medieval Paris's place of public execution, is today the Place de l'Hôtel de Ville; the name survives in the French for going on strike, en grève.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book Second, Chapter III (Kisses for Blows)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Place de l'Hôtel-de-Ville (the former Place de Grève), Paris",
+        "url": "https://en.wikipedia.org/wiki/Place_de_l%27H%C3%B4tel-de-Ville"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cour-des-miracles",
+    "name": "The Cour des Miracles",
+    "progressLabel": "Book 2, ch. 6",
+    "character": "gringoire",
+    "coords": [2.3503, 48.8669],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hugo names the Cour des Miracles but gives it a novelist's geography. The historic thieves' court, the Grande Cour des Miracles or Fief d'Alby he describes, lay between the Rue du Caire and the Rue Réaumur in what is now the 2nd arrondissement, with its entrance on the Rue Saint-Sauveur; the pin marks that quarter.",
+    "quoteAnchor": "that redoubtable Cour des Miracles, whither an honest man had never penetrated at such an hour",
+    "passage": "The poor poet cast his eyes about him. It was, in truth, that redoubtable Cour des Miracles, whither an honest man had never penetrated at such an hour; the magic circle where the officers of the Châtelet and the sergeants of the provostship, who ventured thither, disappeared in morsels; a city of thieves, a hideous wart on the face of Paris.",
+    "note": "Lost in the dark after the play, Gringoire stumbles into the thieves' kingdom, where beggars shed their false wounds at night and where he is nearly hanged until Esmeralda claims him for a husband. The real slum of the same name was cleared under Louis XIV; only the street pattern near the Rue du Caire remembers it.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book Second, Chapter VI (The Broken Jug)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cour des miracles, historic beggars' quarter between Rue du Caire and Rue Réaumur, 2nd arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Cour_des_miracles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "notre-dame-cathedral",
+    "name": "The Cathedral of Notre-Dame",
+    "progressLabel": "Book 4, ch. 3",
+    "character": "quasimodo",
+    "coords": [2.3499, 48.853],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "And the cathedral was not only society for him, but the universe, and all nature beside",
+    "passage": "And the cathedral was not only society for him, but the universe, and all nature beside. He dreamed of no other hedgerows than the painted windows, always in flower; no other shade than that of the foliage of stone which spread out, loaded with birds, in the tufts of the Saxon capitals; of no other mountains than the colossal towers of the church; of no other ocean than Paris, roaring at their bases.",
+    "note": "The deaf foundling Quasimodo is raised inside the cathedral and never truly leaves it; the building is his home, his mother, and his whole world, and its bells are the one voice he can still feel. Hugo makes the church the true protagonist, and his book helped force the restoration of the real Notre-Dame, damaged again by the fire of 2019 and since rebuilt.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book Fourth, Chapter III (Immanis Pecoris Custos, Immanior Ipse)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Notre-Dame de Paris cathedral, Île de la Cité, Paris",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-bastille",
+    "name": "The Bastille",
+    "progressLabel": "Book 10, ch. 5",
+    "character": "louis",
+    "coords": [2.3692, 48.8532],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "He had come, that day, to sleep at the Bastille",
+    "passage": "He had come, that day, to sleep at the Bastille. This good bourgeois king preferred the Bastille with a tiny chamber and couch. And then, the Bastille was stronger than the Louvre.",
+    "note": "While the vagabonds storm the cathedral to free Esmeralda, Louis XI keeps to a small turret room in the fortress he trusts more than the Louvre, doing his accounts until word of the riot reaches him and he orders it crushed. The Bastille was stormed and torn down in 1789; the Place de la Bastille and its July Column now mark the site.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book Tenth, Chapter V (The Retreat in which Monsieur Louis of France Says his Prayers)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Bastille and the Place de la Bastille, Paris",
+        "url": "https://en.wikipedia.org/wiki/Bastille"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gibet-de-montfaucon",
+    "name": "The Gibet de Montfaucon",
+    "progressLabel": "Book 11, ch. 4",
+    "character": "quasimodo",
+    "coords": [2.3676, 48.8757],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Montfaucon's great gibbet is long gone. Historians place it on the hillock beside the Rue de la Grange-aux-Belles, near the present Place Robert-Desnos in the 10th arrondissement, where a 1970s housing block now stands; the pin marks that documented site.",
+    "quoteAnchor": "they found among all those hideous carcasses two skeletons, one of which held the other in its embrace",
+    "passage": "When search was made in that cavern for the body of Olivier le Daim, they found among all those hideous carcasses two skeletons, one of which held the other in its embrace. One of these skeletons, which was that of a woman, still had a few strips of a garment which had once been white, and around her neck was to be seen a string of adrézarach beads with a little silk bag ornamented with green glass.",
+    "note": "Esmeralda's hanged body is thrown into the charnel cellar beneath the royal gibbet of Montfaucon, and Quasimodo vanishes from the cathedral. Two years later his crooked skeleton is found in the vault, unhanged, clasping hers; when they try to part them, he falls to dust. The book ends on the gallows hill outside the medieval city.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Notre-Dame de Paris, Book Eleventh, Chapter IV (The Marriage of Quasimodo)",
+        "url": "https://www.gutenberg.org/ebooks/2610"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gibet de Montfaucon, historic royal gallows near Rue de la Grange-aux-Belles, 10th arrondissement",
+        "url": "https://fr.wikipedia.org/wiki/Gibet_de_Montfaucon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
