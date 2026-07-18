@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "jefferson-courthouse-square",
+    "name": "Jefferson (Oxford), Mississippi: the courthouse square",
+    "progressLabel": "April 7, 1928",
+    "character": "benjy",
+    "coords": [-89.5188, 34.3664],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Jefferson is Faulkner's fictional county seat, but it is modelled closely on Oxford, and its square on the real one around the Lafayette County Courthouse; sited at that courthouse. The novel's closing ride circles the monument and the storefronts of the square.",
+    "reference": "Benjy's section (April 7, 1928)",
+    "order": 1,
+    "note": "The town at the heart of the county is a square built around a courthouse, with a Confederate monument on the corner and shops along each side. The book ends here, with Benjy driven around the square in a buggy and howling when the horse turns the wrong way past the monument, needing every familiar thing in its place. Faulkner built Jefferson out of the Oxford he walked every day.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Oxford, Mississippi, Wikipedia, on the town as the model for Jefferson and its courthouse square",
+        "url": "https://en.wikipedia.org/wiki/Oxford,_Mississippi"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Lafayette County, on the Lafayette County Courthouse at the centre of the Oxford square",
+        "url": "https://lafayettems.com/places/lafayette-county-courthouse/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "compson-place",
+    "name": "The Compson place",
+    "progressLabel": "April 7, 1928",
+    "character": "benjy",
+    "coords": [-89.5231, 34.3668],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Compson house is invented, an antebellum family seat on the edge of Jefferson. It is sited here on the wooded grounds of Rowan Oak, Faulkner's own home south-west of the Oxford square, the kind of old Oxford property he drew the Compson place from.",
+    "reference": "Benjy's section (April 7, 1928)",
+    "order": 2,
+    "note": "A big house going quietly to ruin on the town's edge, home to a family that has sold off its land and its dignity piece by piece. Benjy, who cannot speak, moves through its rooms and yard by smell and habit, and the reader learns the family's decline through what he half-understands. Faulkner drew the place from the old Oxford homes near his own, Rowan Oak.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rowan Oak, Wikipedia, on Faulkner's Oxford home and the antebellum houses of the district",
+        "url": "https://en.wikipedia.org/wiki/Rowan_Oak"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Sound and the Fury, Wikipedia, on the Compson household and its setting",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "compson-pasture-golf-course",
+    "name": "The pasture, sold to the golf club",
+    "progressLabel": "April 7, 1928",
+    "character": "benjy",
+    "coords": [-89.5325, 34.3902],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Compsons sell the pasture that adjoins their house to become a golf links, using the money to send Quentin to Harvard. The fictional field is sited here at the Ole Miss Golf Course north of the Oxford campus, the real golf ground of Faulkner's town that stands in for it.",
+    "reference": "Benjy's section (April 7, 1928)",
+    "order": 3,
+    "note": "The family's last good land, a pasture beside the house, is sold off to a golf club to pay for the eldest son's year at Harvard. Benjy watches the golfers from the fence and moans whenever one of them calls for his caddie, a word that sounds to him like the name of the sister he has lost. It is his ruined world in a single scene.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sound and the Fury, Wikipedia, on the pasture sold to fund Quentin's Harvard year",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+      },
+      {
+        "kind": "guide",
+        "ref": "Ole Miss Golf Course, Visit Oxford, for the golf ground north of the Oxford campus",
+        "url": "https://visitoxfordms.com/directory/ole-miss-golf-course-attraction/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harvard-cambridge",
+    "name": "Cambridge, Massachusetts: Harvard",
+    "progressLabel": "June 2, 1910",
+    "character": "quentin",
+    "coords": [-71.1163, 42.3744],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Quentin is a first-year student at Harvard, named in the novel; sited at Harvard Yard in Cambridge. Outside the Mississippi setting by design.",
+    "reference": "Quentin's section (June 2, 1910)",
+    "order": 4,
+    "note": "The eldest Compson son is sent north to Harvard on the money from the sold pasture, a thousand miles from the family he cannot stop thinking about. His section unfolds over a single day in Cambridge as he moves through the college town while his mind runs back to Mississippi and his sister. The distance changes nothing; the past follows him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sound and the Fury, Wikipedia, on Quentin as a Harvard student",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Harvard Yard, Wikipedia, for the location of the college campus in Cambridge",
+        "url": "https://en.wikipedia.org/wiki/Harvard_Yard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "charles-river-bridge",
+    "name": "The Charles River",
+    "progressLabel": "June 2, 1910",
+    "character": "quentin",
+    "coords": [-71.1232, 42.3689],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Charles River is named in Quentin's section; the exact bridge from which he drowns himself is not, but the Anderson Memorial Bridge by the Harvard boathouses is the site long identified with the scene and now carries a memorial plaque. Sited there. Outside the Mississippi setting by design.",
+    "reference": "Quentin's section (June 2, 1910)",
+    "order": 5,
+    "note": "Quentin spends his last day walking beside the Charles, weighting his pockets and planning the end with terrible calm, the smell of honeysuckle threading through his thoughts. He drowns himself in the river that evening. Readers have long placed the scene at the Anderson Memorial Bridge above the Harvard boathouses, where a small plaque now marks his fictional death.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Anderson Memorial Bridge, Wikipedia, on its identification with Quentin's drowning and the memorial plaque",
+        "url": "https://en.wikipedia.org/wiki/Anderson_Memorial_Bridge"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Sound and the Fury, Wikipedia, on Quentin's last day and death in the Charles",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dilsey-easter-church",
+    "name": "Jefferson: the Easter service",
+    "progressLabel": "April 8, 1928",
+    "character": "dilsey",
+    "coords": [-89.5238, 34.3678],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The church of Dilsey's Easter service is fictional, a Black congregation in Jefferson. It is sited here in Oxford's historic Freedmen Town neighbourhood, at Second Baptist Church, founded by freed people in 1869, the sort of Oxford congregation Faulkner drew the scene from.",
+    "reference": "Final section (April 8, 1928)",
+    "order": 6,
+    "note": "On Easter morning the family's long-serving cook takes the household's youngest and Benjy to her own church, where a visiting preacher builds a sermon that lifts the whole congregation. Against the Compsons' collapse, hers is the book's one act of endurance and grace. Faulkner set it in a Black church of the kind that stood in Oxford's Freedmen Town, founded by former slaves after the war.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sound and the Fury, Wikipedia, on Dilsey and the Easter church service",
+        "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Second Baptist Church, Oxford, on the church founded by freed people in 1869 in Freedmen Town",
+        "url": "https://secondbaptistoxford.org/about-us/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

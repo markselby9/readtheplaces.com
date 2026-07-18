@@ -4,20 +4,39 @@
   "author": "William Faulkner",
   "published": 1929,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [-89.5188, 34.3664],
   "zoom": 12.5,
   "setting": {
     "city": "Oxford",
     "country": "US",
-    "note": "Faulkner’s Yoknapatawpha is Lafayette County, Mississippi, and its Jefferson is Oxford, where he lived and is buried. The Compson place, the branch, the courthouse square, all drawn from ground he could see.",
+    "note": "The fall of the Compsons, an old Mississippi family, told four times over across three days in 1928 and one in 1910. Faulkner's Yoknapatawpha County is drawn from the real Lafayette County, and its town of Jefferson from Oxford, where he lived and is buried. The map grounds the invented county in that ground: the courthouse square, the Compson place, the pasture sold off to a golf course, the branch below it. Quentin's day belongs elsewhere, at Harvard and on the Charles River in Cambridge, Massachusetts, mapped as scenes outside the setting.",
     "bbox": [-89.597, 34.31, -89.475, 34.394]
   },
   "rights": {
-    "originalWork": "TODO: confirm. William Faulkner published this in 1929.",
+    "originalWork": "In copyright. William Faulkner, first published 1929. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "William Faulkner, The Sound and the Fury (1929)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Sound and the Fury, William Faulkner (1929). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The tarnished gold of a Southern family living off the memory of its own past, and of the honeysuckle that runs through Quentin's day. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "benjy": {
+      "name": "Benjy Compson",
+      "color": "#8A2B1E"
+    },
+    "quentin": {
+      "name": "Quentin Compson",
+      "color": "#2E5064"
+    },
+    "dilsey": {
+      "name": "Dilsey Gibson",
+      "color": "#2E6B4A"
+    }
   }
 }
