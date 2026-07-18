@@ -1,23 +1,42 @@
 {
   "id": "don-quixote",
   "title": "Don Quixote",
-  "author": "Miguel de Cervantes Saavedra",
-  "published": 1615,
+  "titleOriginal": "Don Quijote de la Mancha",
+  "author": "Miguel de Cervantes",
+  "published": 1605,
   "orderingKey": "chapter",
-  "center": [-3.1255, 39.4053],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-3.0, 39.7],
+  "zoom": 6.2,
   "setting": {
-    "city": "Campo de Criptana",
+    "city": "La Mancha",
     "country": "ES",
-    "note": "La Mancha, and the windmills at Campo de Criptana he charges as giants, still turning on their ridge. Cervantes sends the knight roaming a real, dusty plain of inns and villages, and it brings Spain into the atlas.",
-    "bbox": [-3.185, 39.171, -2.983, 39.496]
+    "note": "The dusty plain of La Mancha, its inns and windmills, and the long road east that finally reaches Barcelona. Cervantes maps his knight onto real ground: the Campo de Montiel he sets out across, the windmills traditionally those of Campo de Criptana, El Toboso where Dulcinea is supposed to live, the Sierra Morena where he does penance, and the Barcelona beach where he is beaten. The places are real; the giants are windmills.",
+    "bbox": [-4.0, 38.2, 2.4, 41.6]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Miguel de Cervantes Saavedra published this in 1615.",
-    "translation": "Translated by john ormsby. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra/don-quixote/john-ormsby",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Miguel de Cervantes Saavedra, Don Quixote (1615)."
+    "originalWork": "Public domain. Miguel de Cervantes, first published 1605-1615; the author died in 1616.",
+    "translation": "English translation by John Ormsby (1885); he died in 1895, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/996",
+    "territoryNotes": "Public domain in the US and UK/EU: Cervantes died 1616, Ormsby 1895.",
+    "attribution": "Miguel de Cervantes, Don Quixote (1605), trans. John Ormsby. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "golden age",
+    "note": "The gold of the imagined golden age of chivalry that Don Quixote is forever trying to restore. A deep gold that clears WCAG AA on paper."
+  },
+  "characters": {
+    "quixote": {
+      "name": "Don Quixote",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "mantle of the finest scarlet cloth"
+    },
+    "sancho": {
+      "name": "Sancho Panza",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "dapple-grey"
+    }
   }
 }

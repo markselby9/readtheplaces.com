@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "campo-de-montiel",
+    "name": "The plain of Montiel",
+    "progressLabel": "Part 1, ch. 2",
+    "character": "quixote",
+    "coords": [-2.867, 38.7],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cervantes names the Campo de Montiel by name, a real historic district in the south of Ciudad Real. It is a plain, not a point; the pin marks the town of Montiel that gives it its name.",
+    "quoteAnchor": "mounted his celebrated steed Rocinante and began to traverse the ancient and famous Campo de Montiel",
+    "passage": "the renowned knight Don Quixote of La Mancha, quitting the lazy down, mounted his celebrated steed Rocinante and began to traverse the ancient and famous Campo de Montiel;' which in fact he was actually traversing.",
+    "note": "On his first sally the old gentleman rides out across the real Campo de Montiel, narrating his own future glory as he goes. The chivalric romances have rewritten a bare Manchegan plain into the stage for a knight-errant, and the whole book proceeds from that one substitution.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 1, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Campo de Montiel, historic comarca of Ciudad Real named in the novel's opening sally",
+        "url": "https://en.wikipedia.org/wiki/Campo_de_Montiel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "puerto-lapice-inn",
+    "name": "The inn at Puerto Lapice",
+    "progressLabel": "Part 1, ch. 2",
+    "character": "quixote",
+    "coords": [-3.48111, 39.32444],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The knighting inn is unnamed, and Cervantes himself hedges: the narrator says some writers place the first adventure at Puerto Lapice and others at the windmills. Puerto Lapice, a real village on the old Andalusia road, has claimed the inn ever since and keeps a ventorro shown to visitors as Don Quixote's; the pin marks the village.",
+    "quoteAnchor": "Writers there are who say the first adventure he met with was that of Puerto Lapice",
+    "passage": "Writers there are who say the first adventure he met with was that of Puerto Lapice; others say it was that of the windmills; but what I have ascertained on this point, and what I have found written in the annals of La Mancha, is that he was on the road all day, and towards nightfall his hack and he found themselves dead tired and hungry, when, looking all around to see if he could discover any castle or shepherd's shanty where he might refresh himself and relieve his sore wants, he perceived not far out of his road an inn.",
+    "note": "At the first inn he reaches, which he takes for a castle, the innkeeper humours him and dubs him a knight in a mock ceremony over a ledger of straw and barley. Cervantes names Puerto Lapice in the same breath, and the village has kept the association for four centuries.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 1, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Puerto Lapice, Ciudad Real, traditionally identified with Don Quixote's inn",
+        "url": "https://en.wikipedia.org/wiki/Puerto_L%C3%A1pice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "campo-de-criptana-windmills",
+    "name": "The windmills of Campo de Criptana",
+    "progressLabel": "Part 1, ch. 8",
+    "character": "quixote",
+    "coords": [-3.1289, 39.4098],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The text says only that there were thirty or forty windmills on the plain and does not name the town. Tradition settles the scene on the ridge of windmills at Campo de Criptana, where ten of the old mills still stand and are shown as the giants; the pin marks that ridge.",
+    "quoteAnchor": "where thirty or more monstrous giants present themselves",
+    "passage": "for look there, friend Sancho Panza, where thirty or more monstrous giants present themselves, all of whom I mean to engage in battle and slay, and with whose spoils we shall begin to make our fortunes.",
+    "note": "The most famous scene in the book: Don Quixote charges the windmills as giants, and a turning sail shivers his lance and rolls him across the plain. Sancho, who could see they were mills the whole time, hauls his master up. The windmills of Campo de Criptana still turn on their ridge above the town.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 1, Chapter 8",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Windmills of Campo de Criptana, La Mancha, traditionally the giants of the novel",
+        "url": "https://en.wikipedia.org/wiki/Campo_de_Criptana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sierra-morena-penance",
+    "name": "Penance in the Sierra Morena",
+    "progressLabel": "Part 1, ch. 25",
+    "character": "quixote",
+    "coords": [-3.833, 38.367],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cervantes names the Sierra Morena, the real range that walls off La Mancha from Andalusia. The exact hollow where he does penance is left vague; the pin marks a representative point in the heart of the range, toward the Despenaperros pass.",
+    "quoteAnchor": "tearing a great strip off the tail of his shirt which hung down, and making eleven knots on it",
+    "passage": "And then it occurred to him how he might make one, and that was by tearing a great strip off the tail of his shirt which hung down, and making eleven knots on it, one bigger than the rest, and this served him for a rosary all the time he was there.",
+    "note": "Hidden in the Sierra Morena, Don Quixote strips down to do penance for a Dulcinea who has done nothing, in deliberate imitation of Amadis of Gaul. He tears a rosary from his shirt-tail, carves love-verses on the bark, and sends Sancho off to El Toboso with a letter. The madness is now entirely self-authored.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 1, Chapter 25",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Sierra Morena, mountain range dividing La Mancha from Andalusia",
+        "url": "https://en.wikipedia.org/wiki/Sierra_Morena"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "el-toboso-church",
+    "name": "The search for Dulcinea in El Toboso",
+    "progressLabel": "Part 2, ch. 9",
+    "character": "sancho",
+    "coords": [-2.99806, 39.51806],
+    "placeCertainty": "explicit",
+    "certaintyNote": "El Toboso is a real village in the province of Toledo, named throughout as the home of Dulcinea. The great tower they stumble on in the dark is its parish church; the pin marks the town, which now keeps a Dulcinea house-museum.",
+    "quoteAnchor": "found it was a great tower, and then he perceived that the building in question was no palace",
+    "passage": "Don Quixote took the lead, and having gone a matter of two hundred paces he came upon the mass that produced the shade, and found it was a great tower, and then he perceived that the building in question was no palace, but the chief church of the town.",
+    "note": "Sancho leads his master through El Toboso at midnight to find a palace for a Dulcinea who does not exist, and they blunder instead into the parish church and a graveyard. Cornered, Sancho later passes off the first peasant girl they meet as the enchanted lady, a lie that drives the rest of Part 2.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 2, Chapter 9",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "El Toboso, Toledo, the real village of Dulcinea",
+        "url": "https://en.wikipedia.org/wiki/El_Toboso"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barcelona-beach",
+    "name": "Defeat on the beach at Barcelona",
+    "progressLabel": "Part 2, ch. 64",
+    "character": "quixote",
+    "coords": [2.19, 41.38],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The duel is set explicitly on the beach at Barcelona, the one real city the knight ever reaches. The pin marks the shore at La Barceloneta, along the strand where the galleys lay.",
+    "quoteAnchor": "he hurled Don Quixote and Rocinante to the earth, a perilous fall",
+    "passage": "he encountered him with such violence that, without touching him with his lance (for he held it high, to all appearance purposely), he hurled Don Quixote and Rocinante to the earth, a perilous fall.",
+    "note": "On the Barcelona sand the Knight of the White Moon, the disguised Sanson Carrasco, overthrows Don Quixote at the first charge and exacts his promise to go home and give up knight-errantry for a year. It is the end of the adventures: he returns to his village, recovers his wits, and dies. Barcelona is the farthest he ever travels.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Don Quixote, Part 2, Chapter 64",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "kind": "heritage",
+        "ref": "La Barceloneta, the beach district of Barcelona on the Mediterranean shore",
+        "url": "https://en.wikipedia.org/wiki/Barceloneta,_Barcelona"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
