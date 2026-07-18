@@ -1,1 +1,148 @@
-[]
+[
+  {
+    "id": "the-house-of-shaws-cramond",
+    "name": "The House of Shaws, near Cramond",
+    "progressLabel": "The Shaws, June 1751",
+    "character": "david",
+    "coords": [-3.2985, 55.9789],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The House of Shaws is Stevenson's invention, but he plants it in the real parish of Cramond, west of Edinburgh, where David asks his way to it. No such house stood there; the pin marks Cramond village, the named neighbourhood.",
+    "quoteAnchor": "something strange about the Shaws itself",
+    "passage": "But after two, or maybe three, had given me the same look and the same answer, I began to take it in my head there was something strange about the Shaws itself.",
+    "note": "David walks out to claim the estate of his fathers and finds a countryside that flinches at its name. The ruinous tower and its miser laird, his uncle Ebenezer, are the trap that starts the book; Stevenson set the fiction down in the true farmland of Cramond parish.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter II, I Come to My Journey's End",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cramond, a village on the Firth of Forth within the City of Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/Cramond"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-covenant-at-queensferry",
+    "name": "The brig Covenant, at Queensferry",
+    "progressLabel": "Queensferry, June 1751",
+    "character": "david",
+    "coords": [-3.3844, 55.9903],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The town of Queensferry lies farther west",
+    "passage": "The town of Queensferry lies farther west, and the neighbourhood of the inn looked pretty lonely at that time of day, for the boat had just gone north with passengers. A skiff, however, lay beside the pier, with some seamen sleeping on the thwarts; this, as Ransome told me, was the brig's boat waiting for the captain; and about half a mile off, and all alone in the anchorage, he showed me the Covenant herself.",
+    "note": "At the Hawes Inn by the Queen's Ferry, Uncle Ebenezer and Captain Hoseason lure David aboard the Covenant, where he is knocked down and carried off to be sold into the plantations. The inn still stands under the Forth bridges; the anchorage is the narrows David looks out over here.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter VI, What Befell at the Queen's Ferry",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Hawes Inn and Hawes Pier, South Queensferry, Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/South_Queensferry"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-torran-rocks-off-erraid",
+    "name": "The Torran Rocks, off Erraid",
+    "progressLabel": "The wreck, off Mull",
+    "character": "david",
+    "coords": [-6.3667, 56.2931],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "off a little isle they call Earraid",
+    "passage": "The reef on which we had struck was close in under the southwest end of Mull, off a little isle they call Earraid, which lay low and black upon the larboard.",
+    "note": "The Covenant, trying to thread the reefs at the tail of Mull, strikes and breaks up on the Torran Rocks. David is thrown into the sea and washed onto Erraid, the tidal islet off the Ross of Mull where Stevenson's own family had built a shore station for the Dhu Heartach lighthouse.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter XIII, The Loss of the Brig",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Erraid, a tidal island off the Ross of Mull, and the Torran Rocks to its south",
+        "url": "https://en.wikipedia.org/wiki/Erraid"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-wood-of-lettermore-appin",
+    "name": "The wood of Lettermore, Appin",
+    "progressLabel": "Appin, the Appin Murder",
+    "character": "david",
+    "coords": [-5.2159, 56.6852],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "wood of Lettermore (or Lettervore, for I have heard it both ways)",
+    "passage": "I insisted, and was set on shore at last under the wood of Lettermore (or Lettervore, for I have heard it both ways) in Alan's country of Appin.",
+    "note": "In the birchwood above Loch Linnhe, David sees Colin Roy Campbell, the Red Fox, shot dead by a hidden marksman: the real Appin Murder of 1752, for which James Stewart of the Glens was hanged. A cairn on the old road through Lettermore still marks the spot.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter XVII, The Death of the Red Fox",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Appin Murder (1752) and the memorial cairn in the Wood of Lettermore, Argyll",
+        "url": "https://en.wikipedia.org/wiki/Appin_Murder"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-head-of-loch-rannoch",
+    "name": "The head of Loch Rannoch",
+    "progressLabel": "The flight in the heather",
+    "character": "alan",
+    "coords": [-4.446, 56.677],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "near the head of Loch\nRannoch",
+    "passage": "Alan and I were put across Loch Errocht under cloud of night, and went down its eastern shore to another hiding-place near the head of Loch Rannoch, whither we were led by one of the gillies from the Cage.",
+    "note": "Fleeing the redcoats after the murder, David and Alan travel by night through the great wastes of Rannoch, coming to the west head of Loch Rannoch where the loch gives out onto the open moor. The pin sits at Bridge of Gaur, the western foot of the loch below Rannoch Moor.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter XXIV, The Flight in the Heather: The Quarrel",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "guide",
+        "ref": "Loch Rannoch and Rannoch Moor, Perth and Kinross",
+        "url": "https://en.wikipedia.org/wiki/Loch_Rannoch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-british-linen-company-edinburgh",
+    "name": "The British Linen Company's bank, Edinburgh",
+    "progressLabel": "Edinburgh, journey's end",
+    "character": "david",
+    "coords": [-3.1955, 55.9478],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The British Linen Company was a real Edinburgh bank, founded in 1746, and David walks in by the West Kirk and the Grassmarket. Its exact 1751 premises are not recorded, so the pin sits in the Old Town on the route the text describes rather than on a known door.",
+    "quoteAnchor": "the British Linen Company’s bank",
+    "passage": "The hand of Providence brought me in my drifting to the very doors of the British Linen Company’s bank.",
+    "note": "David comes off the moor at last into the roar of Edinburgh, parts from Alan on the hill above the town, and drifts down through the Old Town to the bank that will make good his inheritance. The book ends on its threshold, his fortune and his story turned right way up.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Kidnapped, Chapter XXX, Good-bye",
+        "url": "https://www.gutenberg.org/ebooks/421"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The British Linen Company (later the British Linen Bank), founded 1746 in Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/British_Linen_Bank"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
