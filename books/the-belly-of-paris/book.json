@@ -1,23 +1,42 @@
 {
   "id": "the-belly-of-paris",
   "title": "The Belly of Paris",
+  "titleOriginal": "Le Ventre de Paris",
   "author": "Émile Zola",
   "published": 1873,
   "orderingKey": "chapter",
-  "center": [2.3444, 48.8615],
+  "sourcing": "sourced",
+  "center": [2.3453, 48.8626],
   "zoom": 12.5,
   "setting": {
     "city": "Paris",
     "country": "FR",
-    "note": "Set entirely inside Les Halles, the great iron market that fed Paris for eight hundred years and was demolished in 1971. There is nothing there now. That absence is exactly what the historical layer is for.",
-    "bbox": [2.224, 48.816, 2.47, 48.902]
+    "note": "The whole novel is packed into Les Halles, the great iron-and-glass food market that fed Paris for eight hundred years, and the tangle of old streets around it under the church of Saint-Eustache. Zola makes the market a character, \"some colossal belly, bolted and riveted, built up of wood and glass and iron\": the fish and vegetable and butter pavilions at dawn, the Quenu-Gradelle pork shop on the Rue Rambuteau, the crooked Rue Pirouette. The escaped political prisoner Florent, gaunt and half-starved, washes up in this world of plenty. The pavilions were demolished in 1971; that absence is what the historical layer is for.",
+    "bbox": [2.338, 48.857, 2.356, 48.868]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Émile Zola published this in 1873.",
-    "translation": "Translated by ernest alfred vizetelly. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/emile-zola/the-belly-of-paris/ernest-alfred-vizetelly",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Émile Zola, The Belly of Paris (1873)."
+    "originalWork": "Public domain. Emile Zola, first published 1873; the author died in 1902.",
+    "translation": "English translation by Ernest Alfred Vizetelly; he died in 1922, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/5744",
+    "territoryNotes": "Public domain in the US and UK/EU: Zola died 1902, Vizetelly 1922.",
+    "attribution": "Emile Zola, The Belly of Paris (1873), trans. E. A. Vizetelly. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "the deep-toned green of the foliage",
+    "note": "The sea of vegetables banked up against the pavilions at dawn, the book's central image of abundance. A deep market green that clears WCAG AA on paper."
+  },
+  "characters": {
+    "florent": {
+      "name": "Florent",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "ragged black coat"
+    },
+    "lisa": {
+      "name": "Lisa Quenu",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "her rosy face"
+    }
   }
 }

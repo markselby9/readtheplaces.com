@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "id": "rue-pirouette",
+    "name": "The Rue Pirouette, old Paris",
+    "progressLabel": "The Rue Pirouette",
+    "character": "florent",
+    "coords": [2.3462, 48.8628],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Rue Pirouette was a real, notoriously crooked medieval street at the Pointe Saint-Eustache, on the north-east edge of Les Halles. It was demolished with the market quarter; the pin marks its former line just south of the church, between Saint-Eustache and the Rue Rambuteau.",
+    "quoteAnchor": "It twists and turns like a dancing girl",
+    "passage": "“Oh, yes,” answered the artist. “A very curious corner of old Paris is the Rue Pirouette. It twists and turns like a dancing girl, and the houses bulge out like pot-bellied gluttons. I've made an etching of it that isn't half bad.”",
+    "note": "Florent, just escaped from the penal colony and half-starved, asks the painter Claude Lantier whether the Rue Pirouette still stands. It is the crooked old street where his half-brother Quenu once had the pork shop, and his one thread back to the city. Claude loves it as a bit of picturesque old Paris; for Florent it is the way home.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Belly of Paris, Chapter I: Claude on the Rue Pirouette",
+        "url": "https://www.gutenberg.org/ebooks/5744"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Rue Pirouette, the demolished medieval street at the Pointe Saint-Eustache in the old Les Halles quarter",
+        "url": "https://fr.wikipedia.org/wiki/Rue_Pirouette"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "les-halles-pavilions",
+    "name": "Les Halles, the central market",
+    "progressLabel": "Les Halles at dawn",
+    "character": "florent",
+    "coords": [2.3455, 48.862],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "some colossal belly, bolted and riveted, built up of wood and glass and iron",
+    "passage": "They rose up in geometrically shaped masses; and when all the inner lights had been extinguished and the square uniform buildings were steeped in the rising dawn, they seemed typical of some gigantic modern machine, some engine, some caldron for the supply of a whole people, some colossal belly, bolted and riveted, built up of wood and glass and iron, and endowed with all the elegance and power of some mechanical motive appliance.",
+    "note": "This is the market itself, Baltard's great iron-and-glass pavilions rising out of the gloom as the sun comes up, the image that gives the novel its title, the belly of Paris. Florent, who has known only hunger, stands amid this machine built to feed a whole city. The pavilions were pulled down in 1971 and the produce trade moved to Rungis; the modern Forum des Halles now stands here.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Belly of Paris, Chapter I: the markets emerging at dawn",
+        "url": "https://www.gutenberg.org/ebooks/5744"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Les Halles, the historic central market of Paris in the 1st arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Les_Halles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saint-eustache",
+    "name": "Saint-Eustache, over the market",
+    "progressLabel": "Saint-Eustache",
+    "character": "florent",
+    "coords": [2.3451, 48.8634],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the great pile of Saint Eustache glittered",
+    "passage": "The sun was obliquely enfilading the Rue Rambuteau, lighting up the fronts of the houses, in the midst of which the Rue Pirouette formed a dark gap. At the other end the great pile of Saint Eustache glittered brightly in the sunlight like some huge reliquary.",
+    "note": "The Flamboyant-Gothic church of Saint-Eustache stands over Les Halles, its luminous clock face a recurring landmark through the book. Zola keeps returning Florent's eye to it: at dawn it glitters \"like some huge reliquary\" above the pork shop and the crowded market streets. The church survives; it is the second largest in Paris after Notre-Dame.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Belly of Paris, Chapter I: Saint-Eustache above the Rue Rambuteau",
+        "url": "https://www.gutenberg.org/ebooks/5744"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Church of Saint-Eustache, Paris, beside the former Les Halles market",
+        "url": "https://en.wikipedia.org/wiki/Saint-Eustache,_Paris"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "quenu-gradelle-charcuterie",
+    "name": "The Quenu-Gradelle charcuterie, Rue Rambuteau",
+    "progressLabel": "The Quenu pork shop",
+    "character": "lisa",
+    "coords": [2.347, 48.8622],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Quenu-Gradelle pork shop is Zola's invention, but he sites it precisely: on the Rue Rambuteau facing the markets, near the corner of the Rue Pirouette. The pin marks the western end of the Rue Rambuteau by Les Halles, where the novel places the shop; the street is real, the shop is not.",
+    "quoteAnchor": "QUENU-GRADELLE glittered in fat gilt letters",
+    "passage": "The sign board, on which the name of QUENU-GRADELLE glittered in fat gilt letters encircled by leaves and branches painted on a soft-hued background, was protected by a sheet of glass.",
+    "note": "The bright pork-butcher's shop run by Florent's brother Quenu and his handsome, immovable wife Lisa, its window a glossy still life of hams, sausages and terrines against snowy marble. This warm, well-fed bourgeois world, the Fat, is set against the gaunt, hungry Florent, the Thin. Lisa's shop is the novel's other centre of gravity, and in the end its respectability turns on him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Belly of Paris, Chapter I: the Quenu-Gradelle shop front",
+        "url": "https://www.gutenberg.org/ebooks/5744"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Rue Rambuteau, fronting the former Les Halles market in the 1st arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Rue_Rambuteau"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fish-market-pavilion",
+    "name": "The fish market pavilion",
+    "progressLabel": "The fish market",
+    "character": "florent",
+    "coords": [2.3465, 48.8624],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The fish market was one of the named Les Halles pavilions; Zola places the freshwater-fish section \"beside the fruit market, the last one, indeed, in the direction of the Rue Rambuteau.\" The individual pavilions are gone, so the pin marks that eastern side of the old market footprint, by the Rue Rambuteau.",
+    "quoteAnchor": "This was in a pavilion beside the fruit market, the last one",
+    "passage": "This was in a pavilion beside the fruit market, the last one, indeed, in the direction of the Rue Rambuteau. On either side of the space reserved for the auctions were large circular stone basins, divided into separate compartments by iron gratings.",
+    "note": "Florent takes the salaried post of inspector of the fish market, and Zola pours out the whole teeming pavilion: the stone basins of crawfish and eels, the carp \"lustrous with ruddy metallic hues,\" the reek that clings to his clothes and marks him out among the fishwives. The job that was meant to settle him instead exposes him, and the market that fed him will hand him back to the police.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Belly of Paris, Chapter IV: the freshwater-fish pavilion",
+        "url": "https://www.gutenberg.org/ebooks/5744"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Les Halles pavilions, the iron-and-glass market halls (fish market) of central Paris",
+        "url": "https://en.wikipedia.org/wiki/Les_Halles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
