@@ -4,20 +4,38 @@
   "author": "L. M. Montgomery",
   "published": 1908,
   "orderingKey": "chapter",
-  "center": [-63.3792, 46.4942],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-63.35, 46.4],
+  "zoom": 9,
   "setting": {
     "city": "Cavendish",
     "country": "CA",
-    "note": "Avonlea is invented, but Montgomery built it from Cavendish on Prince Edward Island, where the farmhouse she had in mind is now the most visited place on the island. The first book here set in Canada.",
-    "bbox": [-63.45, 46.46, -63.3, 46.53]
+    "note": "Avonlea is invented, but Montgomery built it from Cavendish on Prince Edward Island, where the farmhouse she had in mind is now the preserved Green Gables Heritage Place, the most visited place on the island. The bbox runs from the north-shore Cavendish landscape south to Charlottetown, the real capital where Anne sits her Queen's exams. The first book here set in Canada.",
+    "bbox": [-63.45, 46.2, -63.1, 46.55]
   },
   "rights": {
-    "originalWork": "TODO: confirm. L. M. Montgomery published this in 1908.",
+    "originalWork": "Public domain. L. M. Montgomery, first published 1908; the author died in 1942.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-green-gables",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "L. M. Montgomery, Anne of Green Gables (1908)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/45",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1942).",
+    "attribution": "L. M. Montgomery, Anne of Green Gables (1908). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "Very green and neat and precise was that yard",
+    "note": "The green of the gables and the Cuthbert yard, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "anne": {
+      "name": "Anne Shirley",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "of very thick, decidedly red hair"
+    },
+    "matthew": {
+      "name": "Matthew Cuthbert",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "long iron-gray hair that touched his stooping shoulders"
+    }
   }
 }
