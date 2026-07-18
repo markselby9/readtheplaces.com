@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "terrible-hollow-the-ranges",
+    "name": "Terrible Hollow (the ranges)",
+    "progressLabel": "Ch. 5",
+    "character": "starlight",
+    "coords": [149.3594, -33.9114],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Terrible Hollow\", the gang's hidden valley reached by a secret track through a rock wall, is invented, but Boldrewood set it in the real rugged limestone-and-sandstone ranges of central-western NSW. The pin marks the Abercrombie Caves district near Tuena, the kind of hidden gorge country south of Bathurst that the fictional Hollow is drawn from.",
+    "quoteAnchor": "Welcome to Terrible Hollow, lads,",
+    "passage": "'Welcome to Terrible Hollow, lads,' says he. 'You're the youngest chaps it has ever been shown to, and if I didn't know you were the right stuff, you'd never have seen it, though you're my own flesh and blood.'",
+    "note": "Old Ben Marston brings his sons Dick and Jim over the range into the stolen-cattle stronghold where they will meet Captain Starlight. The Hollow is the dark heart of the book, a valley you can only enter through a crack in the cliff, and no such place exists, but the tangled ranges it hides in are entirely real.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Robbery Under Arms, Chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/1198"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Abercrombie Caves, the limestone gorge country south of Bathurst, NSW",
+        "url": "https://en.wikipedia.org/wiki/Abercrombie_Caves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "melbourne-st-kilda",
+    "name": "Melbourne (St Kilda)",
+    "progressLabel": "Ch. 13",
+    "character": "dick",
+    "coords": [144.982, -37.864],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Melbourne is named outright, and the brothers lodge \"near the sea--St. Kilda they call it, in front of the beach\". The pin marks St Kilda, the bayside Melbourne suburb the text names.",
+    "quoteAnchor": "We got to Melbourne all right",
+    "passage": "We got to Melbourne all right, and though it's a different sort of a place from Sydney, it's a jolly enough town for a couple of young chaps with money in their pockets.",
+    "note": "Dick and Jim take the steamer south to Victoria and lie low in Melbourne, lodging by the beach at St Kilda while they spend the proceeds of the last job. It is the book's long southern excursion, a real city 800 km from the Hollow, and the first sign of how far the Marstons' trouble will carry them.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Robbery Under Arms, Chapter 13",
+        "url": "https://www.gutenberg.org/ebooks/1198"
+      },
+      {
+        "kind": "guide",
+        "ref": "St Kilda, bayside Melbourne, Victoria",
+        "url": "https://en.wikipedia.org/wiki/St_Kilda,_Victoria"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "turon-goldfields",
+    "name": "The Turon goldfields",
+    "progressLabel": "Ch. 24",
+    "character": "dick",
+    "coords": [149.6931, -33.0806],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Turon is a real river and its 1851 diggings a real goldfield. The pin marks Sofala, the principal Turon River township, which grew straight out of the rush the chapter describes.",
+    "quoteAnchor": "change in a place like the Turon in the year 1850",
+    "passage": "No wonder people were not in a hurry to call out for change in a place like the Turon in the year 1850!",
+    "note": "The gold rush breaks out on the Turon, and the Marstons come down to the diggings to work a claim and hide in plain sight among thousands of strangers. Boldrewood wrote the fields from life: the tent rows, the log fires, the sly grog, the fortunes turned up in a day at Sofala and Hill End on the real Turon River.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Robbery Under Arms, Chapter 24",
+        "url": "https://www.gutenberg.org/ebooks/1198"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Sofala and the Turon River goldfields, NSW (gold found 1851)",
+        "url": "https://en.wikipedia.org/wiki/Sofala,_New_South_Wales"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "weddin-mountains",
+    "name": "The Weddin Mountains",
+    "progressLabel": "Ch. 35",
+    "character": "starlight",
+    "coords": [148.0231, -33.9722],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Weddin Mountains are named as the rival gang's hiding country. The pin marks the Weddin Mountains National Park near Grenfell, the real range that sheltered the bushranger Ben Hall.",
+    "quoteAnchor": "none like the Hollow, where they could lie quiet",
+    "passage": "There were some out-of-the-way places enough in the Weddin Mountains, but none like the Hollow, where they could lie quiet and untroubled for weeks together, if they wanted.",
+    "note": "Moran's gang is hunted from pillar to post through the Weddin Mountains, the broken range that in real life hid Ben Hall and his men. Boldrewood measures the fictional Terrible Hollow against this actual bushranger stronghold, the one place, he says, even wilder and safer than the real ones.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Robbery Under Arms, Chapter 35",
+        "url": "https://www.gutenberg.org/ebooks/1198"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Weddin Mountains National Park, Ben Hall bushranger country, NSW",
+        "url": "https://en.wikipedia.org/wiki/Weddin_Mountains_National_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bathurst",
+    "name": "Bathurst",
+    "progressLabel": "Ch. 44",
+    "character": "dick",
+    "coords": [149.5778, -33.42],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bathurst is named as the town the Knightley household turns to for safety. The pin marks the centre of Bathurst, the real inland town that was the district's principal settlement and police headquarters.",
+    "quoteAnchor": "Thank God, she's away at Bathurst,",
+    "passage": "'Thank God, she's away at Bathurst,' said Starlight. 'I hate seeing women put out.'",
+    "note": "Bathurst, the oldest inland town in Australia, is the fixed point of order in the Marstons' country: the seat of the police, the road that every escape must reckon with, the safe town where the ladies are sent. Even mid-robbery Starlight is relieved that Mrs Knightley is out of reach, away at Bathurst.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Robbery Under Arms, Chapter 44",
+        "url": "https://www.gutenberg.org/ebooks/1198"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Bathurst, the oldest inland settlement in Australia, central NSW",
+        "url": "https://en.wikipedia.org/wiki/Bathurst,_New_South_Wales"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

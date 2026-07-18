@@ -4,20 +4,38 @@
   "author": "Rolf Boldrewood",
   "published": 1888,
   "orderingKey": "chapter",
-  "center": [149.5804, -33.4166],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [148.6, -33.7],
+  "zoom": 6,
   "setting": {
     "city": "Bathurst",
     "country": "AU",
-    "note": "Colonial New South Wales: the Turon goldfields, the cattle runs, and the Terrible Hollow where the Marston boys hide out, on the real bushranging country around Bathurst. Boldrewood drew the diggings and the bush from life, and it brings Australia, a whole continent, into the atlas.",
-    "bbox": [149.42, -33.577, 149.74, -33.257]
+    "note": "The bushranging and gold-rush country of colonial New South Wales, and the long ride south to Melbourne. Boldrewood (Thomas Alexander Browne) drew the Turon diggings, the cattle runs, and the rugged ranges from a lifetime in the bush. The Marstons' hidden valley, \"Terrible Hollow\", is invented, but it is set in real country and the Turon, Bathurst, the Weddin Mountains, and Melbourne are all on the map. It brings a whole continent, Australia, into the atlas.",
+    "bbox": [144.8, -38.0, 149.9, -32.9]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Rolf Boldrewood published this in 1888.",
+    "originalWork": "Public domain. Rolf Boldrewood, first published 1888; the author died in 1915.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/rolf-boldrewood/robbery-under-arms",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Rolf Boldrewood, Robbery Under Arms (1888)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1198",
+    "territoryNotes": "Public domain in the United States (published 1888) and in the United Kingdom and the EU, where the author died more than 70 years ago (1915).",
+    "attribution": "Rolf Boldrewood, Robbery Under Arms (1888). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "plenty of gold",
+    "note": "The ochre-gold of the Turon diggings, where money lay at a man's foot for the digging. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "dick": {
+      "name": "Dick Marston",
+      "color": "#2E5064",
+      "colorSourceQuote": "a sort of dark blue"
+    },
+    "starlight": {
+      "name": "Captain Starlight",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "great dark ones they were"
+    }
   }
 }
