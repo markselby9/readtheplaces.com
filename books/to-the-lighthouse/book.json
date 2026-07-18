@@ -4,20 +4,35 @@
   "author": "Virginia Woolf",
   "published": 1927,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [-5.4795, 50.2149],
-  "zoom": 12.5,
+  "zoom": 12,
   "setting": {
     "city": "St Ives",
     "country": "GB",
-    "note": "Nominally the Isle of Skye, but built from the Woolfs’ summers at Talland House in St Ives, looking out to the Godrevy light. The bay, the house, and ten years passing inside a single bracket.",
-    "bbox": [-5.527, 50.173, -5.43, 50.22]
+    "note": "Woolf names the Isle of Skye, but the house, the bay and the lighthouse are drawn entirely from St Ives, Cornwall, where the Stephen family spent childhood summers. The map runs from Talland House, the Woolfs' real holiday home above the town, out across St Ives Bay to Godrevy Lighthouse, the light the children could see from the garden and the one the family in the novel longs to reach.",
+    "bbox": [-5.52, 50.18, -5.38, 50.26]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Virginia Woolf published this in 1927.",
+    "originalWork": "Public domain (Virginia Woolf died 1941). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Virginia Woolf, To the Lighthouse (1927)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/To_the_Lighthouse",
+    "territoryNotes": "Locations and original commentary only.",
+    "attribution": "To the Lighthouse, Virginia Woolf (1927). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The sea-blue of St Ives Bay, the water between the garden and the Godrevy light. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mrs-ramsay": {
+      "name": "Mrs Ramsay",
+      "color": "#8A2B1E"
+    },
+    "lily": {
+      "name": "Lily Briscoe",
+      "color": "#2E6B4A"
+    }
   }
 }

@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "talland-house-summer-home",
+    "name": "The Ramsays' house (Talland House), St Ives",
+    "progressLabel": "The Window",
+    "character": "mrs-ramsay",
+    "coords": [-5.4793, 50.2084],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel places the Ramsays' summer house on the Isle of Skye, but it is drawn from Talland House, the Stephen family's real holiday home in St Ives, where Woolf spent her childhood summers. Sited at the listed house on Talland Road; mapped as the model rather than the fictional island.",
+    "reference": "The Window",
+    "order": 1,
+    "note": "The first part of the novel unfolds almost entirely at a family's rented summer house by the sea, full of guests and children on a late-September evening. Woolf built it from Talland House, the hillside villa above St Ives that the Stephens took each summer until her mother died, its windows opening on the bay.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Historic England listing 1327767, Talland House, St Ives",
+        "url": "https://historicengland.org.uk/listing/the-list/list-entry/1327767"
+      },
+      {
+        "kind": "guide",
+        "ref": "To the Lighthouse, Wikipedia, on the St Ives and Talland House setting",
+        "url": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talland-garden-and-bay",
+    "name": "The garden and the bay",
+    "progressLabel": "The Window",
+    "character": "lily",
+    "coords": [-5.4788, 50.209],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's terraced garden looking over the water is drawn from the rambling garden of Talland House, which steps down toward St Ives Bay. Sited just above the house; mapped as the real garden behind the fiction.",
+    "reference": "The Window",
+    "order": 2,
+    "note": "Much of the evening plays out on the lawn and among the flower beds, where a painter sets up her easel and watches the family, and where the distant lighthouse blinks across the water at dusk. The garden is Talland House's own, sloping toward the bay the children knew.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Virginia Woolf Society of Great Britain, on Talland House and its garden above St Ives",
+        "url": "https://virginiawoolfsociety.org.uk/talland-house-plaque/"
+      },
+      {
+        "kind": "guide",
+        "ref": "To the Lighthouse, Wikipedia, on the setting and the view to the lighthouse",
+        "url": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-ives-town",
+    "name": "The town of St Ives",
+    "progressLabel": "The Window",
+    "character": "lily",
+    "coords": [-5.4802, 50.2115],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel keeps the town offstage as the fishing settlement below the house, drawn from St Ives, the harbour town beneath Talland House. Sited at the town centre and harbour; mapped as the real place behind the fiction.",
+    "reference": "The Window",
+    "order": 3,
+    "note": "Below the house lies a small fishing town whose harbour and boats supply the errands and small society around the family. Woolf drew it from St Ives itself, the Cornish port that spread beneath Talland House and its garden.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St Ives, Cornwall, Wikipedia, on the town and its harbour",
+        "url": "https://en.wikipedia.org/wiki/St_Ives,_Cornwall"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "To the Lighthouse, Wikipedia, on St Ives as the basis for the setting",
+        "url": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "crossing-st-ives-bay",
+    "name": "The crossing of the bay",
+    "progressLabel": "The Lighthouse",
+    "character": "mrs-ramsay",
+    "coords": [-5.44, 50.225],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The final sail out to the lighthouse crosses open water; the novel fixes no line, so this marks a representative point on St Ives Bay between the town and Godrevy Island, the crossing the fiction transposes to Skye.",
+    "reference": "The Lighthouse",
+    "order": 4,
+    "note": "Ten years after the opening evening, the surviving family finally makes the long-deferred boat trip out to the lighthouse, the father and two children crossing the water in near silence while the painter finishes her picture ashore. The passage runs across St Ives Bay toward Godrevy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St Ives Bay, Wikipedia, on the stretch of water between St Ives and Godrevy",
+        "url": "https://en.wikipedia.org/wiki/St_Ives_Bay"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "To the Lighthouse, Wikipedia, on the closing crossing to the lighthouse",
+        "url": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "godrevy-lighthouse",
+    "name": "Godrevy Lighthouse",
+    "progressLabel": "The Lighthouse",
+    "character": "mrs-ramsay",
+    "coords": [-5.4003, 50.2425],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The lighthouse the family longs to reach is drawn from Godrevy Lighthouse, the real light on Godrevy Island across St Ives Bay, visible from the Talland House garden. The novel moves it to the Isle of Skye; sited at the real tower.",
+    "reference": "The Lighthouse",
+    "order": 5,
+    "note": "The lighthouse gives the book its title and its longing, promised to a child in the first part and reached only in the last. It is Godrevy Lighthouse, standing on its island across St Ives Bay, the light Woolf could see flashing from the garden as a girl.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Godrevy Lighthouse, Wikipedia, for the tower and its coordinates (50.2425, -5.4003)",
+        "url": "https://en.wikipedia.org/wiki/Godrevy_Lighthouse"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "To the Lighthouse, Wikipedia, on Godrevy as the model for the lighthouse",
+        "url": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
