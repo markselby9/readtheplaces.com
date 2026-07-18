@@ -4,20 +4,38 @@
   "author": "George Eliot",
   "published": 1863,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [11.2556, 43.7698],
-  "zoom": 12.5,
+  "zoom": 13,
   "setting": {
     "city": "Florence",
     "country": "IT",
-    "note": "Eliot’s Florence of 1492, researched to the stone: the Piazza della Signoria where Savonarola burns the vanities, the Duomo, the Ponte Vecchio, San Marco. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.",
+    "note": "Eliot's Florence of the 1490s, researched to the stone. The Mercato Vecchio where the book opens, the Duomo and its Baptistery, the Ponte Vecchio over the Arno, San Marco where Savonarola is prior, the Piazza della Signoria of the Bonfire of the Vanities, and the Via de' Bardi in Oltrarno where the blind scholar Bardo lives with his daughter Romola. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.",
     "bbox": [11.15, 43.726, 11.339, 43.835]
   },
   "rights": {
-    "originalWork": "TODO: confirm. George Eliot published this in 1863.",
+    "originalWork": "Public domain. George Eliot, first published 1863; the author died in 1880.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/george-eliot/romola",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "George Eliot, Romola (1863)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/24020",
+    "territoryNotes": "Public domain in the United States and the United Kingdom/EU, where the author (Mary Ann Evans, \"George Eliot\") died more than 70 years ago (1880).",
+    "attribution": "George Eliot, Romola (1863). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "that red flame",
+    "note": "The red flame of Savonarola's preaching, which burns through the whole book. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "romola": {
+      "name": "Romola de' Bardi",
+      "color": "#8A6A12",
+      "colorSourceQuote": "her golden hair"
+    },
+    "tito": {
+      "name": "Tito Melema",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "that smooth olive cheek"
+    }
   }
 }

@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "the-ponte-vecchio",
+    "name": "The Ponte Vecchio",
+    "progressLabel": "Proem",
+    "character": "romola",
+    "coords": [11.2531, 43.768],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the Ponte Vecchio, least like other bridges in the world",
+    "passage": "And there flows Arno, with its bridges just where they used to be—the Ponte Vecchio, least like other bridges in the world, laden with the same quaint shops where our Spirit remembers lingering a little on his way perhaps to look at the progress of that great palace which Messer Luca Pitti had set a-building with huge stones got from the Hill of Bogoli (now Boboli) close behind.",
+    "note": "Eliot opens with a Spirit of the old Florentine dead looking down on the unchanged city. The Ponte Vecchio, still lined with its shops over the Arno, is the first landmark he names, and the reader's first fixed point in the map.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Proem",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Ponte Vecchio, Florence; the medieval shop-lined bridge over the Arno",
+        "url": "https://en.wikipedia.org/wiki/Ponte_Vecchio"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mercato-vecchio",
+    "name": "The Mercato Vecchio",
+    "progressLabel": "Chapter I: The Mercato",
+    "character": "tito",
+    "coords": [11.2539, 43.7714],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the Mercato Vecchio, or the Old Market",
+    "passage": "They had now emerged from the narrow streets into a broad piazza, known to the elder Florentine writers as the Mercato Vecchio, or the Old Market. This piazza, though it had been the scene of a provision-market from time immemorial, and may, perhaps, says fond imagination, be the very spot to which the Fesulean ancestors of the Florentines descended from their high fastness to traffic with the rustic population of the valley, had not been shunned as a place of residence by Florentine wealth.",
+    "note": "The old market square where the book opens, and where the shipwrecked Greek Tito Melema first surfaces among the pedlars and money-changers. The Mercato Vecchio was cleared in the 1880s; its ground is now Piazza della Repubblica.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Chapter I: The Shipwrecked Stranger",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Piazza della Repubblica, Florence, on the site of the demolished Mercato Vecchio",
+        "url": "https://en.wikipedia.org/wiki/Piazza_della_Repubblica,_Florence"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-piazza-del-duomo",
+    "name": "The Piazza del Duomo",
+    "progressLabel": "Chapter III: The Duomo",
+    "character": "tito",
+    "coords": [11.2562, 43.7734],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "our wonder of the world, our Duomo, our Santa Maria del Fiore",
+    "passage": "But you are pausing, I see: naturally, you want to look at our wonder of the world, our Duomo, our Santa Maria del Fiore. Well, well, a mere glance; but I beseech you to leave a closer survey till you have been shaved: I am quivering with the inspiration of my art even to the very edge of my razor.",
+    "note": "Nello the barber halts Tito in the Piazza San Giovanni to show off the cathedral, Giotto's campanile, and the octagon of the Baptistery with its bronze doors. Brunelleschi's dome and Santa Maria del Fiore still close the square exactly as Eliot sets them.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Chapter III: The Barber's Shop",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Florence Cathedral (Santa Maria del Fiore) and the Baptistery of San Giovanni, Piazza del Duomo",
+        "url": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "via-de-bardi-oltrarno",
+    "name": "Via de' Bardi (Oltrarno)",
+    "progressLabel": "Chapter V: Via de' Bardi",
+    "character": "romola",
+    "coords": [11.2545, 43.767],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Via de' Bardi is a real street named exactly in the text; the house of the blind scholar Bardo is fictional, so the pin sits on the street itself, between the Ponte Vecchio and the Ponte alle Grazie, rather than on a specific address.",
+    "quoteAnchor": "a street noted in the history of Florence, lies in Oltrarno",
+    "passage": "The Via de' Bardi, a street noted in the history of Florence, lies in Oltrarno, or that portion of the city which clothes the southern bank of the river. It extends from the Ponte Vecchio to the Piazza de' Mozzi at the head of the Ponte alle Grazie; its right-hand line of houses and walls being backed by the rather steep ascent which in the fifteenth century was known as the hill of Bogoli.",
+    "note": "Across the Arno in Oltrarno, the blind classical scholar Bardo de' Bardi lives with his daughter Romola among his books and antiquities. Eliot gives the street its real history, back to the great banking family the Bardi, ruined in the fourteenth century.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Chapter V: The Blind Scholar and his Daughter",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Via de' Bardi, Oltrarno, Florence, running from the Ponte Vecchio toward the Ponte alle Grazie",
+        "url": "https://en.wikipedia.org/wiki/Oltrarno"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "san-marco",
+    "name": "San Marco",
+    "progressLabel": "Chapter XV: San Marco",
+    "character": "romola",
+    "coords": [11.2588, 43.7783],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the features of Fra Girolamo Savonarola, the prior of San Marco",
+    "passage": "Romola felt certain they were the features of Fra Girolamo Savonarola, the prior of San Marco, whom she had chiefly thought of as more offensive than other monks, because he was more noisy. Her rebellion was rising against the first impression, which had almost forced her to bend her knees.",
+    "note": "In the chapter-house of the Dominican convent of San Marco, at the deathbed of her brother Dino, Romola first sees the friar who will come to rule the city. San Marco was Savonarola's base as prior, and the convent still stands on Piazza San Marco.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Chapter XV: The Dying Message",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Convent of San Marco, Florence (now Museo Nazionale di San Marco), Savonarola's priory",
+        "url": "https://en.wikipedia.org/wiki/San_Marco,_Florence"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "piazza-della-signoria-the-bonfire",
+    "name": "The Piazza della Signoria: the bonfire",
+    "progressLabel": "Chapter XLIX: The Pyramid of Vanities",
+    "character": "romola",
+    "coords": [11.2556, 43.7698],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "something monstrous and many-coloured in the shape of a pyramid",
+    "passage": "Entering it from the south, she saw something monstrous and many-coloured in the shape of a pyramid, or, rather, like a huge fir-tree, sixty feet high, with shelves on the branches, widening and widening towards the base till they reached a circumference of eighty yards.",
+    "note": "In the great square before the Palazzo Vecchio, Savonarola's followers raise the Bonfire of the Vanities: sixty feet of masks, mirrors, playing-cards, and lewd pictures, heaped for burning. The same Piazza della Signoria would see the friar himself burned in 1498.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Romola, Chapter XLIX: The Pyramid of Vanities",
+        "url": "https://www.gutenberg.org/ebooks/24020"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Piazza della Signoria, Florence, site of the Bonfire of the Vanities and Savonarola's execution",
+        "url": "https://en.wikipedia.org/wiki/Piazza_della_Signoria"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
