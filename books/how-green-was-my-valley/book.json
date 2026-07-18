@@ -1,0 +1,46 @@
+{
+  "id": "how-green-was-my-valley",
+  "title": "How Green Was My Valley",
+  "author": "Richard Llewellyn",
+  "published": 1939,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-3.435, 51.603],
+  "zoom": 13,
+  "setting": {
+    "city": "Rhondda Valley",
+    "country": "GB",
+    "note": "The narrator Huw Morgan remembers his childhood in a South Wales coal-mining valley, in a close chapel-going community that the growing slag heap and the souring of the pits slowly destroy. Llewellyn set his idealised valley in the Rhondda, around Gilfach Goch: the terraced village and the Morgan house, the colliery that pays and kills, the slag tip creeping down the mountain to bury the green, the chapel at the moral centre, and the mountain top that survives above it all.",
+    "bbox": [-3.46, 51.595, -3.42, 51.615]
+  },
+  "rights": {
+    "originalWork": "In copyright. Richard Llewellyn, first published 1939. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "How Green Was My Valley, Richard Llewellyn (1939). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the valley before the coal blackened it, the lost world the whole book grieves in its title. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "huw": {
+      "name": "Huw Morgan",
+      "color": "#2E5064"
+    },
+    "gwilym": {
+      "name": "Gwilym Morgan",
+      "color": "#4A4A4A"
+    },
+    "gruffydd": {
+      "name": "Mr Gruffydd",
+      "color": "#8A6A12"
+    },
+    "bronwen": {
+      "name": "Bronwen",
+      "color": "#8A2B1E"
+    }
+  }
+}

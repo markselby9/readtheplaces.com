@@ -1,0 +1,118 @@
+[
+  {
+    "id": "seoul-station",
+    "name": "Seoul Station",
+    "progressLabel": "Chapter 1",
+    "character": "mother",
+    "coords": [126.9707, 37.5556],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mother goes missing at Seoul Station, the real central railway station, when she cannot keep up with her husband boarding a crowded subway and the doors close between them.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "In the crush at Seoul Station, So-nyo's husband steps onto a subway train and turns to find she has not made it; the doors shut and she is gone into the city. That instant of a hand let go is the wound the whole book opens, and the family's frantic search begins from this platform.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Seoul Station",
+        "url": "https://en.wikipedia.org/wiki/Seoul_Station"
+      },
+      {
+        "kind": "guide",
+        "ref": "Please Look After Mom, Wikipedia, on the disappearance",
+        "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "seoul-subway-search",
+    "name": "The Seoul subway (the search)",
+    "progressLabel": "Chapter 2",
+    "character": "chihon",
+    "coords": [126.977, 37.564],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The children paper the Seoul subway and its central stations with their mother's photograph and chase reported sightings across the real metro system.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "The writer daughter Chi-hon leads the making of flyers and the tracing of sightings through the subway and streets, each false lead forcing her to admit how little she knows of her mother's habits, tastes or inner life. The search of the city becomes a search of her own conscience.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Seoul Metropolitan Subway",
+        "url": "https://en.wikipedia.org/wiki/Seoul_Metropolitan_Subway"
+      },
+      {
+        "kind": "guide",
+        "ref": "Please Look After Mom, Wikipedia, on Chi-hon and the search",
+        "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sons-home-seoul",
+    "name": "The son's home, Seoul",
+    "progressLabel": "Chapter 3",
+    "character": "hyongchol",
+    "coords": [126.94, 37.53],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The mother was travelling to visit her eldest son Hyong-chol's Seoul apartment; the specific home is invented and sited in the residential districts of the real city.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "Hyong-chol, the eldest son on whom all the family's hopes were placed, carries the heaviest guilt: the mother was coming to him. His memories of everything she sacrificed to lift him out of the village, and of how he repaid it with distance, are among the book's hardest reckonings.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Please Look After Mom, Wikipedia, on Hyong-chol",
+        "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rural-hometown-jeolla",
+    "name": "The rural hometown, North Jeolla",
+    "progressLabel": "Chapter 4",
+    "character": "mother",
+    "coords": [126.856, 35.57],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mother's whole life was spent in a farming village of the far southern province of North Jeolla, around Jeongeup; sited in that real rural region, far from the Seoul setting.",
+    "reference": "Chapter 4",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the southern village where she raised her children on farm work and endless self-denial, So-nyo's real life is finally seen: her illiteracy hidden, her headaches ignored, her own longings set aside for decades. The contrast between this hidden woman and the city that swallowed her is the heart of the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jeongeup, North Jeolla Province",
+        "url": "https://en.wikipedia.org/wiki/Jeongeup"
+      },
+      {
+        "kind": "guide",
+        "ref": "Please Look After Mom, Wikipedia, on the mother's life",
+        "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "seoul-streets-sightings",
+    "name": "The streets of Seoul (the sightings)",
+    "progressLabel": "Chapter 3",
+    "character": "husband",
+    "coords": [126.977, 37.559],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Reported sightings send the family through the markets and back streets around Seoul Station and central Seoul; the specific places are the ordinary streets of the real city.",
+    "reference": "Chapter 3",
+    "order": 5,
+    "note": "The husband, who walked ahead of his wife for fifty years and let go her hand at the last, retraces the central Seoul streets where strangers claim to have seen a dazed old woman. His late, useless attention to where she might have wandered measures a lifetime of not having looked.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Please Look After Mom, Wikipedia, on the husband",
+        "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

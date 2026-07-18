@@ -1,0 +1,46 @@
+{
+  "id": "please-look-after-mom",
+  "title": "Please Look After Mom",
+  "author": "Kyung-sook Shin",
+  "published": 2008,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [126.98, 37.55],
+  "zoom": 12,
+  "setting": {
+    "city": "Seoul",
+    "country": "KR",
+    "note": "An elderly mother, So-nyo, lets go of her husband's hand in the crowd at Seoul Station and vanishes, and her grown children search the city for her while confronting how little they ever really knew her. Seoul is the anxious present: the station where she disappeared, the subway and streets papered with her photograph, the children's apartments she was coming to visit. Behind it lies the rural hometown in the far south where she spent her whole hidden life.",
+    "bbox": [126.9, 37.5, 127.05, 37.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kyung-sook Shin, first published 2008 (Omma-reul butakhae). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Please_Look_After_Mom",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Please Look After Mom, Kyung-sook Shin (2008). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The muted rose of remembrance and grief, the colour of a mother seen clearly only once she is gone. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mother": {
+      "name": "So-nyo (Mom)",
+      "color": "#8A2B1E"
+    },
+    "chihon": {
+      "name": "Chi-hon",
+      "color": "#2E5064"
+    },
+    "hyongchol": {
+      "name": "Hyong-chol",
+      "color": "#8A6A12"
+    },
+    "husband": {
+      "name": "The husband",
+      "color": "#4A4A4A"
+    }
+  }
+}
