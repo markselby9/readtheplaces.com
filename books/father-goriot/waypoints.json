@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "id": "maison-vauquer",
+    "name": "The Maison Vauquer, Rue Neuve-Sainte-Genevieve",
+    "progressLabel": "The Maison Vauquer",
+    "character": "goriot",
+    "coords": [2.3488, 48.8413],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The boarding house is invented, but Balzac plants it on a real street: the Rue Neuve-Sainte-Genevieve, renamed the Rue Tournefort in 1864, in the 5th arrondissement behind the Panthéon. Balzac's topographers (Hillairet, Boisseau) place the pension at what is now 30 Rue Tournefort; the pin marks the street.",
+    "quoteAnchor": "just where the road slopes so sharply down to the Rue de l'Arbalete",
+    "passage": "It is still standing in the lower end of the Rue Nueve-Sainte-Genevieve, just where the road slopes so sharply down to the Rue de l'Arbalete, that wheeled traffic seldom passes that way, because it is so stony and steep.",
+    "note": "The whole novel starts in this cheap boarding house on a stony, steep back street, where the retired vermicelli-maker Goriot rents the meanest room and Rastignac the garret above him. Balzac opens by insisting the address is real, the poorest quarter of the city, framed between the domes of the Panthéon and the Val-de-Grace.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Father Goriot, opening description of the Maison Vauquer",
+        "url": "https://www.gutenberg.org/ebooks/1237"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Rue Tournefort (Paris), formerly the Rue Neuve-Sainte-Genevieve, sited by Balzac's topographers as the Maison Vauquer's street",
+        "url": "https://fr.wikipedia.org/wiki/Rue_Tournefort_(Paris)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "faubourg-saint-germain",
+    "name": "The Faubourg Saint-Germain: Mme de Beauseant's salon",
+    "progressLabel": "Entry into society",
+    "character": "rastignac",
+    "coords": [2.321, 48.857],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "To set foot in the Vicomtesse de Beauseant's house in the Faubourg Saint-Germain",
+    "passage": "To set foot in the Vicomtesse de Beauseant's house in the Faubourg Saint-Germain; to fall on your knees before a Comtesse de Restaud in the Chaussee d'Antin; to look at one glance across a vista of Paris drawing-rooms, conscious that, possessing sufficient good looks, you may hope to find aid and protection there in a feminine heart!",
+    "note": "Rastignac's aristocratic cousin, the Vicomtesse de Beauseant, keeps the pleasantest house in the Faubourg Saint-Germain, the old-nobility quarter on the Left Bank around the Rue de Grenelle. Her salon is his door into society, and it is here she teaches him the ruthless lesson that fixes his ambition. The pin marks the heart of the faubourg.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Father Goriot, Rastignac contemplates the two houses open to him",
+        "url": "https://www.gutenberg.org/ebooks/1237"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Faubourg Saint-Germain, the aristocratic quarter of the 7th arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Faubourg_Saint-Germain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chaussee-d-antin",
+    "name": "The Chaussee d'Antin: Delphine de Nucingen's house, Rue Saint-Lazare",
+    "progressLabel": "The Nucingens' Paris",
+    "character": "rastignac",
+    "coords": [2.3319, 48.8763],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "which are considered the thing in Paris, a typical banker's house",
+    "passage": "Rastignac reached the house in the Rue Saint-Lazare, one of those many-windowed houses with a mean-looking portico and slender columns, which are considered the thing in Paris, a typical banker's house, decorated in the most ostentatious fashion; the walls lined with stucco, the landings of marble mosaic.",
+    "note": "Across the river in the new-money Chaussee d'Antin, Goriot's younger daughter Delphine has married the banker Baron de Nucingen and lives in this ostentatious house on the Rue Saint-Lazare. Rastignac makes her his mistress and his ladder; her father, doting and ruined, helps set them up. The pin marks the Rue Saint-Lazare in the 9th arrondissement.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Father Goriot, Rastignac visits Mme de Nucingen in the Rue Saint-Lazare",
+        "url": "https://www.gutenberg.org/ebooks/1237"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Rue Saint-Lazare, in the Chaussee d'Antin district of the 9th arrondissement",
+        "url": "https://en.wikipedia.org/wiki/Rue_Saint-Lazare"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "latin-quarter-deathbed",
+    "name": "The Panthéon quarter: Goriot's deathbed",
+    "progressLabel": "Goriot's death",
+    "character": "goriot",
+    "coords": [2.3461, 48.8462],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The deathbed is the Maison Vauquer itself, which the novel calls a squalid den in the Latin Quarter. The pin marks the Panthéon, the landmark Balzac uses in the opening pages to frame this poor quarter, a few streets from the boarding house.",
+    "quoteAnchor": "lying at the point of death in a squalid den in the Latin Quarter",
+    "passage": "“Monsieur le Comte,” said Rastignac, “M. Goriot, your father-in-law, is lying at the point of death in a squalid den in the Latin Quarter. He has not a penny to pay for firewood; he is expected to die at any moment, and keeps calling for his daughter----”",
+    "note": "Goriot dies in his cold garret in the Latin Quarter, having sold everything, even his last silver plate, for daughters who will not come. Rastignac goes in vain to their grand houses to beg them to the bedside; both send excuses. The old man's ruin is the price of the two brilliant marriages, and Rastignac watches the whole account come due.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Father Goriot, Rastignac appeals to the Comte de Restaud as Goriot lies dying",
+        "url": "https://www.gutenberg.org/ebooks/1237"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Panthéon, Place du Panthéon, the landmark of the 5th-arrondissement quarter behind which the Maison Vauquer stands",
+        "url": "https://en.wikipedia.org/wiki/Panth%C3%A9on"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pere-lachaise",
+    "name": "Pere-Lachaise: the challenge to Paris",
+    "progressLabel": "The challenge to Paris",
+    "character": "rastignac",
+    "coords": [2.3928, 48.8608],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "He went a few paces further, to the highest point of the cemetery",
+    "passage": "He went a few paces further, to the highest point of the cemetery, and looked out over Paris and the windings of the Seine; the lamps were beginning to shine on either side of the river. His eyes turned almost eagerly to the space between the column of the Place Vendome and the cupola of the Invalides; there lay the shining world that he had wished to reach. He glanced over that humming hive, seeming to draw a foretaste of its honey, and said magniloquently: “Henceforth there is war between us.”",
+    "note": "After Goriot's near-pauper's funeral, Rastignac climbs to the top of Pere-Lachaise on the eastern heights, looks down on the Paris he means to conquer, and throws down his challenge, “A nous deux, maintenant!”, here rendered “Henceforth there is war between us.” Then he goes to dine with Mme de Nucingen. The finale of the novel, and the birth of one of literature's great social climbers.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Father Goriot, closing scene at Pere-Lachaise",
+        "url": "https://www.gutenberg.org/ebooks/1237"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pere Lachaise Cemetery, on the heights of the 20th arrondissement of eastern Paris",
+        "url": "https://en.wikipedia.org/wiki/P%C3%A8re_Lachaise_Cemetery"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

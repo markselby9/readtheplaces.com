@@ -1,23 +1,42 @@
 {
   "id": "father-goriot",
   "title": "Father Goriot",
+  "titleOriginal": "Le Père Goriot",
   "author": "Honoré de Balzac",
   "published": 1835,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [2.3484, 48.8535],
   "zoom": 12.5,
   "setting": {
     "city": "Paris",
     "country": "FR",
-    "note": "Balzac’s Paris of 1819, climbed one address at a time: the shabby Maison Vauquer boarding house on the Left Bank, and the faubourg Saint-Germain where Rastignac learns what he wants. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.",
+    "note": "Balzac's Paris of 1819, climbed one address at a time. The shabby Maison Vauquer stands in the poor Latin-Quarter streets behind the Panthéon; from there Rastignac reaches up to Mme de Beauseant's salon in the Faubourg Saint-Germain and the new money of the Chaussee d'Antin, and buries Goriot on the heights of Pere-Lachaise. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.",
     "bbox": [2.224, 48.816, 2.47, 48.902]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Honoré de Balzac published this in 1835.",
-    "translation": "Translated by ellen marriage. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/honore-de-balzac/father-goriot/ellen-marriage",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Honoré de Balzac, Father Goriot (1835)."
+    "originalWork": "Public domain. Honore de Balzac, first published 1835; the author died in 1850.",
+    "translation": "English translation by Ellen Marriage; the translation is in the public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1237",
+    "territoryNotes": "Public domain in the US and UK/EU.",
+    "attribution": "Honore de Balzac, Father Goriot (1835), trans. Ellen Marriage. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "gilded salons",
+    "note": "The gilded salons of the Faubourg Saint-Germain, the shining world Rastignac wants. A dark gold that clears WCAG AA on paper."
+  },
+  "characters": {
+    "rastignac": {
+      "name": "Eugene de Rastignac",
+      "color": "#2E5064",
+      "colorSourceQuote": "blue and cloudless sky"
+    },
+    "goriot": {
+      "name": "Father Goriot",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "silver plate"
+    }
   }
 }
