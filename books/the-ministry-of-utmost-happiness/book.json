@@ -1,0 +1,46 @@
+{
+  "id": "the-ministry-of-utmost-happiness",
+  "title": "The Ministry of Utmost Happiness",
+  "author": "Arundhati Roy",
+  "published": 2017,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [77.23, 28.645],
+  "zoom": 12,
+  "setting": {
+    "city": "Delhi",
+    "country": "IN",
+    "note": "Roy's sprawling novel gathers India's outcasts around Anjum, a hijra who leaves her communal household to make a home, and a guesthouse, in an Old Delhi graveyard, while the war in Kashmir sends its wounded into the story. Delhi is the heart: the House of Dreams in the old city, the graveyard where Anjum builds her Jannat Guest House, the protest ground of Jantar Mantar, and the great Jama Masjid; the Kashmir Valley runs alongside as the wound outside the setting.",
+    "bbox": [77.19, 28.6, 77.28, 28.68]
+  },
+  "rights": {
+    "originalWork": "In copyright. Arundhati Roy, first published 2017. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Ministry of Utmost Happiness, Arundhati Roy (2017). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the graveyard garden Anjum names Jannat, paradise, the refuge the discarded build among the dead. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "anjum": {
+      "name": "Anjum",
+      "color": "#8A6A12"
+    },
+    "tilo": {
+      "name": "Tilo",
+      "color": "#2E5064"
+    },
+    "musa": {
+      "name": "Musa",
+      "color": "#4A4A4A"
+    },
+    "saddam-hussain": {
+      "name": "Saddam Hussain",
+      "color": "#8A2B1E"
+    }
+  }
+}

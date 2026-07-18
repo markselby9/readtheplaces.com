@@ -1,0 +1,46 @@
+{
+  "id": "mine-boy",
+  "title": "Mine Boy",
+  "author": "Peter Abrahams",
+  "published": 1946,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [28.03, -26.2],
+  "zoom": 12,
+  "setting": {
+    "city": "Johannesburg",
+    "country": "ZA",
+    "note": "Xuma comes from the north to work in the gold mines of Johannesburg and lodges in the crowded slum of Malay Camp, where he slowly wakes to the injustice of the colour bar that rules every hour of his life. Abrahams maps the real segregated city: the multiracial shebeen world of Malay Camp and Vrededorp, the deep gold mines and their white dumps south of town, the white city centre where black men are only ever labour, and the streets where the police raid and the new consciousness stirs.",
+    "bbox": [28.0, -26.24, 28.06, -26.18]
+  },
+  "rights": {
+    "originalWork": "In copyright. Peter Abrahams, first published 1946. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Mine_Boy",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Mine Boy, Peter Abrahams (1946). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the mines that built Johannesburg on black labour, the wealth Xuma digs and never shares. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "xuma": {
+      "name": "Xuma",
+      "color": "#8A2B1E"
+    },
+    "leah": {
+      "name": "Leah",
+      "color": "#4A4A4A"
+    },
+    "eliza": {
+      "name": "Eliza",
+      "color": "#6B3B5A"
+    },
+    "maisy": {
+      "name": "Maisy",
+      "color": "#2E6B4A"
+    }
+  }
+}

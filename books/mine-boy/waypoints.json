@@ -1,0 +1,122 @@
+[
+  {
+    "id": "malay-camp-shebeen",
+    "name": "Malay Camp (Leah's shebeen)",
+    "progressLabel": "Chapter 1",
+    "character": "leah",
+    "coords": [28.03, -26.19],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Xuma lodges in Malay Camp, the real crowded, multiracial slum of old Johannesburg, at the illegal drinking house of Leah; the specific shebeen is invented and sited in that district near Vrededorp.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Newly arrived and knowing no one, Xuma is taken in by Leah, the shrewd, generous queen of an illicit shebeen selling home-brewed beer under the noses of the police. Her rowdy household in Malay Camp is his first family in the city, and his window on the whole vivid, precarious life of the black slum.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Johannesburg and its early multiracial slums",
+        "url": "https://en.wikipedia.org/wiki/Johannesburg"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mine Boy, Wikipedia, on Xuma and Leah",
+        "url": "https://en.wikipedia.org/wiki/Mine_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-gold-mines",
+    "name": "The gold mines",
+    "progressLabel": "Chapter 3",
+    "character": "xuma",
+    "coords": [28.01, -26.23],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Xuma works underground in the gold mines of the Witwatersrand, the reef of deep mines and white sand dumps south of Johannesburg on which the city was built; the mines are real and central to the book.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "In the heat and danger far below ground, Xuma becomes a boss boy driving a black gang for a white man who takes the credit and the pay. The mines, with their pale dumps rising over the city, are where the whole racial order is starkest, and where Xuma's slow, painful political awakening begins.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Witwatersrand Gold Rush and the Johannesburg mines",
+        "url": "https://en.wikipedia.org/wiki/Witwatersrand_Gold_Rush"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mine Boy, Wikipedia, on Xuma and the mines",
+        "url": "https://en.wikipedia.org/wiki/Mine_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vrededorp-streets",
+    "name": "Vrededorp (the streets and the raids)",
+    "progressLabel": "Chapter 6",
+    "character": "xuma",
+    "coords": [28.028, -26.192],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The streets of Vrededorp and Malay Camp, real districts of segregated Johannesburg, are where the pass laws, liquor raids and police harassment fall daily on black residents.",
+    "reference": "Chapter 6",
+    "order": 3,
+    "note": "In the streets outside, the pass laws and the beer raids make ordinary life a constant negotiation with fear, and Leah's arrest shows how thin the ground is beneath even the cleverest survivor. Xuma watches the machinery of the colour bar at work and slowly stops accepting it as simply the way things are.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Vrededorp, Johannesburg",
+        "url": "https://en.wikipedia.org/wiki/Vrededorp"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mine Boy, Wikipedia, on the colour bar",
+        "url": "https://en.wikipedia.org/wiki/Mine_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "city-centre-eliza",
+    "name": "The white city (Eliza's world)",
+    "progressLabel": "Chapter 8",
+    "character": "eliza",
+    "coords": [28.045, -26.205],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The white city centre of Johannesburg, where black people are admitted only as labour, is the world the schoolteacher Eliza yearns toward; sited in the real central business district.",
+    "reference": "Chapter 8",
+    "order": 4,
+    "note": "Xuma loves the educated Eliza, but she is tormented by a longing for the white world's things and refinements that she can never have, and cannot love him wholly. Her restlessness, set against the wholesome Maisy, dramatises how the colour bar warps even the heart, and finally she leaves him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Johannesburg Central Business District",
+        "url": "https://en.wikipedia.org/wiki/Johannesburg_CBD"
+      },
+      {
+        "kind": "guide",
+        "ref": "Mine Boy, Wikipedia, on Eliza",
+        "url": "https://en.wikipedia.org/wiki/Mine_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malay-camp-maisy",
+    "name": "Malay Camp (Maisy and the awakening)",
+    "progressLabel": "Chapter 11",
+    "character": "maisy",
+    "coords": [28.032, -26.188],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Back in the world of Malay Camp are the cheerful, loving Maisy and the community whose solidarity carries the book's final turn; sited in the real slum district Abrahams portrays.",
+    "reference": "Chapters 11-12",
+    "order": 5,
+    "note": "When a mine accident and a white doctor's stand push Xuma to lead his fellow workers out on strike, he acts at last as a man and not merely as labour, and is arrested for it. With the steadfast Maisy waiting, the book ends on the birth of a shared black consciousness, refusing to be treated as less than human.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Mine Boy, Wikipedia, on Maisy and the ending",
+        "url": "https://en.wikipedia.org/wiki/Mine_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "khwabgah-old-delhi",
+    "name": "The Khwabgah, Old Delhi",
+    "progressLabel": "Part 1",
+    "character": "anjum",
+    "coords": [77.233, 28.643],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Anjum grows up and lives for years in the Khwabgah, the House of Dreams, a hijra household in the lanes of Old Delhi near the Jama Masjid; the specific house is invented and sited in that real old-city quarter.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Born Aftab and becoming Anjum, she finds a place among the hijras of the Khwabgah in the old city, a fragile sanctuary of the in-between. When violence and grief drive her out, she carries the old city's layered, wounded history with her into a stranger refuge.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Old Delhi (Shahjahanabad)",
+        "url": "https://en.wikipedia.org/wiki/Old_Delhi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Ministry of Utmost Happiness, Wikipedia, on Anjum",
+        "url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "graveyard-guesthouse",
+    "name": "The graveyard (Jannat Guest House)",
+    "progressLabel": "Part 1",
+    "character": "anjum",
+    "coords": [77.24, 28.66],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Anjum leaves the Khwabgah to live in a Delhi graveyard, where she gradually builds rooms among the graves into the Jannat Guest House and Funeral Services; sited at a graveyard in the real city.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "Among the tombs Anjum raises a guesthouse and gathers a chosen family of the city's rejected, turning a place of death into a strange paradise. The graveyard community, open to all the discarded, is Roy's central image of a shelter built by those the nation has thrown away.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Ministry of Utmost Happiness, Wikipedia, on the Jannat Guest House",
+        "url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jantar-mantar",
+    "name": "Jantar Mantar",
+    "progressLabel": "Part 2",
+    "character": "tilo",
+    "coords": [77.216, 28.627],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's strands converge at Jantar Mantar, the real eighteenth-century observatory in New Delhi that has long been the city's gathering place for protests and hunger strikes, where an abandoned baby appears one night.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "At Jantar Mantar, amid a carnival of activists, cranks and the desperate, the enigmatic Tilo picks up an abandoned infant, an act that ties her thread to Anjum's. Roy uses the crowded protest ground to survey a whole restless India of grievances and lost causes.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jantar Mantar, New Delhi",
+        "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Ministry of Utmost Happiness, Wikipedia, on Tilo and Jantar Mantar",
+        "url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kashmir-valley",
+    "name": "The Kashmir Valley",
+    "progressLabel": "Part 2",
+    "character": "musa",
+    "coords": [74.8, 34.083],
+    "placeCertainty": "explicit",
+    "certaintyNote": "A whole strand of the novel is set in the Kashmir Valley around Srinagar, the real theatre of the long insurgency and its brutal suppression, where Tilo's love Musa becomes a militant; sited there, far outside the Delhi setting.",
+    "reference": "Part 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the beautiful, occupied valley of Kashmir, the graveyards fill and the disappeared multiply, and Musa moves through a world of checkpoints, torture and resistance. The Kashmir chapters give the book its rage and grief, the wound whose refugees and dead flow back into Anjum's Delhi.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kashmir conflict and Srinagar",
+        "url": "https://en.wikipedia.org/wiki/Kashmir_conflict"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Ministry of Utmost Happiness, Wikipedia, on the Kashmir strand and Musa",
+        "url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jama-masjid-old-city",
+    "name": "The Jama Masjid and the old city",
+    "progressLabel": "Part 3",
+    "character": "saddam-hussain",
+    "coords": [77.233, 28.65],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great Mughal mosque of the Jama Masjid and the surrounding streets of Shahjahanabad anchor the old-city world of the book; the mosque is a real landmark of Delhi.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "Around the steps of the Jama Masjid moves Saddam Hussain, a Dalit man who has taken a dictator's name and nurses a private revenge for his father's lynching, before finding a home in Anjum's graveyard. Through him and the old city, Roy ties caste violence into the book's map of a wounded India.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jama Masjid, Delhi",
+        "url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Ministry of Utmost Happiness, Wikipedia, on Saddam Hussain",
+        "url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
