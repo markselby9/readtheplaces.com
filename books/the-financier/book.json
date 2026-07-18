@@ -4,20 +4,38 @@
   "author": "Theodore Dreiser",
   "published": 1912,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-75.1635, 39.9527],
   "zoom": 12.5,
   "setting": {
     "city": "Philadelphia",
     "country": "US",
-    "note": "Philadelphia and the making of a financier: the banks and brokerages of Third Street, the Exchange, the penitentiary on Fairmount. Dreiser builds Frank Cowperwood’s rise from the real ledgers of the city, and it brings Philadelphia into the atlas.",
+    "note": "Philadelphia and the making of a financier. Dreiser builds Frank Cowperwood's rise and ruin out of the real ledgers of the city: the banks and brokerages of Third Street, the trading floor of the exchange, the municipal offices in Independence Hall he corrupts, and the great gray penitentiary on Fairmount where he is jailed. It brings Philadelphia into the atlas.",
     "bbox": [-75.28, 39.867, -74.956, 40.138]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Theodore Dreiser published this in 1912.",
+    "originalWork": "Public domain. Theodore Dreiser, first published 1912; the author died in 1945.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/theodore-dreiser/the-financier",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Theodore Dreiser, The Financier (1912)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1840",
+    "territoryNotes": "Public domain in the US (published 1912) and the UK/EU (author died 1945).",
+    "attribution": "Theodore Dreiser, The Financier (1912). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "a ten-dollar gold piece",
+    "note": "The gold of coin and balance, taken from the ten-dollar gold piece young Cowperwood is handed. It suits the finance theme and clears WCAG AA on paper."
+  },
+  "characters": {
+    "cowperwood": {
+      "name": "Frank Cowperwood",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "large, clear gray eyes"
+    },
+    "aileen": {
+      "name": "Aileen Butler",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "scarlet cape"
+    }
   }
 }

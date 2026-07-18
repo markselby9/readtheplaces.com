@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "id": "third-street-banking-district",
+    "name": "Third Street, the banking district",
+    "progressLabel": "Third Street, Philadelphia",
+    "character": "cowperwood",
+    "coords": [-75.1465, 39.9503],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "66 South Third Street, in what was then",
+    "passage": "In the first place, the firm of Tighe & Co., unlike that of Waterman & Co., was located in a handsome green-gray stone building at 66 South Third Street, in what was then, and for a number of years afterward, the heart of the financial district. Great institutions of national and international import and repute were near at hand—Drexel & Co., Edward Clark & Co., the Third National Bank, the First National Bank, the Stock Exchange, and similar institutions.",
+    "note": "Third Street is where Cowperwood learns his trade and later runs his own brokerage. Dreiser names the real banks that clustered along it—Drexel, the Third and First National—the block that was, as he says, the heart of the financial district and the ground on which the whole novel is built.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter IX (Tighe & Co. at 66 South Third Street)",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "guide",
+        "ref": "Third Street, Old City, Philadelphia's nineteenth-century banking row",
+        "url": "https://en.wikipedia.org/wiki/Old_City,_Philadelphia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-exchange-trading-floor",
+    "name": "The exchange, at Third and Walnut",
+    "progressLabel": "The exchange, Philadelphia",
+    "character": "cowperwood",
+    "coords": [-75.146, 39.9473],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dreiser writes of trading 'on 'change' without naming the building. In this period Philadelphia's brokers met at the Merchants' Exchange at Third and Walnut Streets, the historic exchange a block from the Third Street firms, and the pin marks it.",
+    "quoteAnchor": "gathered in the center of the room and compared or gathered the various trades",
+    "passage": "\"On 'change,\" when the gong struck announcing the close of the day's business, a company of young men, known as \"settlement clerks,\" after a system borrowed from London, gathered in the center of the room and compared or gathered the various trades of the day in a ring, thus eliminating all those sales and resales between certain firms which naturally canceled each other.",
+    "note": "The trading floor where Cowperwood buys a seat and makes his name. Seats sold for two thousand dollars each; the settlement clerks cried the day's transactions in a ring at the closing gong. It is the machine whose rhythm Cowperwood learns to play better than anyone.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter X (the trading floor 'on 'change')",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Merchants' Exchange Building, 143 South Third Street, Philadelphia",
+        "url": "https://en.wikipedia.org/wiki/Merchants%27_Exchange_Building_(Philadelphia)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "girard-avenue-butler-home",
+    "name": "Girard Avenue, the Butler house",
+    "progressLabel": "Girard Avenue, Philadelphia",
+    "character": "aileen",
+    "coords": [-75.1568, 39.9707],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Girard Avenue is real and named in the book; Dreiser places the Butlers 'near the twelve hundreds' without a house number, so the pin marks the 1200 block. Cowperwood builds his own mansion nearby, beyond the Butlers'.",
+    "quoteAnchor": "had moved away from South Philadelphia into Girard Avenue, near the",
+    "passage": "The Butler family had moved away from South Philadelphia into Girard Avenue, near the twelve hundreds, where a new and rather interesting social life was beginning. They were not of it, but Edward Butler, contractor, now fifty-five years of age, worth, say, five hundred thousand dollars, had many political and financial friends.",
+    "note": "The contractor Edward Butler has moved his family up to fashionable Girard Avenue, and his red-gold-haired daughter Aileen is the reason it matters to the plot. Cowperwood builds his own house on the same street, beyond the Butlers', and the affair that begins between the two homes is what finally ruins him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter XVII (the Butlers on Girard Avenue)",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "guide",
+        "ref": "Girard Avenue, Philadelphia",
+        "url": "https://en.wikipedia.org/wiki/Girard_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "independence-hall-quarter-sessions",
+    "name": "Independence Hall, the seat of the city",
+    "progressLabel": "Independence Hall, Philadelphia",
+    "character": "cowperwood",
+    "coords": [-75.15, 39.9489],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the center of local executive and judicial life",
+    "passage": "The Court of Quarter Sessions, Part I, where this trial was to take place, was held in famous Independence Hall, at Sixth and Chestnut Streets, which was at this time, as it had been for all of a century before, the center of local executive and judicial life. It was a low two-story building of red brick, with a white wooden central tower of old Dutch and English derivation.",
+    "note": "The old State House holds the offices of the mayor and the city treasurer as well as the Court of Quarter Sessions, so the municipal-finance world Cowperwood corrupts and the court that convicts him share one red-brick building. Dreiser notes the mammoth new city hall at Broad and Market was then still rising.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter XLII (the trial at Independence Hall)",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Independence Hall, Sixth and Chestnut Streets, Philadelphia",
+        "url": "https://en.wikipedia.org/wiki/Independence_Hall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chicago-fire-panic-third-street",
+    "name": "The Chicago-fire panic, Third Street",
+    "progressLabel": "The panic of 1871",
+    "character": "cowperwood",
+    "coords": [-75.1468, 39.9488],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The fire is a real event of October 1871; the panic it triggered is felt on the real Third Street, where the pin sits among the banks whose called loans ruin Cowperwood.",
+    "quoteAnchor": "the great Chicago fire, October 7th, 1871",
+    "passage": "It was nothing more than a fire, a distant one—the great Chicago fire, October 7th, 1871, which burned that city—its vast commercial section—to the ground, and instantly and incidentally produced a financial panic, vicious though of short duration in various other cities in America.",
+    "note": "The real Chicago fire reaches Cowperwood as a market. As the banks along Third Street call their loans to raise cash, the stampede catches him overextended in city loan, and the panic that ruins him is set going by a fire a thousand miles away.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter XXIII (the Chicago fire and the panic)",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Great Chicago Fire of October 1871",
+        "url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "eastern-state-penitentiary",
+    "name": "Eastern State Penitentiary",
+    "progressLabel": "The penitentiary, Fairmount",
+    "character": "cowperwood",
+    "coords": [-75.1727, 39.9684],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The Eastern District Penitentiary of Pennsylvania, standing at",
+    "passage": "The Eastern District Penitentiary of Pennsylvania, standing at Fairmount Avenue and Twenty-first Street in Philadelphia, where Cowperwood was now to serve his sentence of four years and three months, was a large, gray-stone structure, solemn and momentous in its mien, not at all unlike the palace of Sforzas at Milan, although not so distinguished.",
+    "note": "The real prison on Fairmount, now a museum, is where the financier's rise ends. Dreiser describes its thirty-five-foot walls and seven radiating corridors almost to the acre. He calls it the Eastern District Penitentiary; the place is the Eastern State Penitentiary, at Fairmount Avenue and Twenty-second Street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Financier, Chapter LIII (the Eastern Penitentiary)",
+        "url": "https://www.gutenberg.org/ebooks/1840"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Eastern State Penitentiary, 2027 Fairmount Avenue, Philadelphia",
+        "url": "https://en.wikipedia.org/wiki/Eastern_State_Penitentiary"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
