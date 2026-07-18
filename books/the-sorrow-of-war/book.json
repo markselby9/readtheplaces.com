@@ -1,0 +1,46 @@
+{
+  "id": "the-sorrow-of-war",
+  "title": "The Sorrow of War",
+  "author": "Bảo Ninh",
+  "published": 1990,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [105.845, 21.03],
+  "zoom": 12,
+  "setting": {
+    "city": "Hanoi",
+    "country": "VN",
+    "note": "A North Vietnamese veteran, Kien, comes home to Hanoi after the war and tries to write it down, his memory looping between the ruined city of his youth and the jungle where his battalion was destroyed. Hanoi is the fixed present: the apartment where he writes through the night, the lakes and streets he shared with his first love Phương, and the railway station from which the troop trains went south. The war itself is set far off, in the Central Highlands the soldiers called the Jungle of Screaming Souls.",
+    "bbox": [105.79, 21.0, 105.88, 21.07]
+  },
+  "rights": {
+    "originalWork": "In copyright. Bảo Ninh, first published 1990 (Thân phận của tình yêu). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Sorrow_of_War",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Sorrow of War, Bảo Ninh (1990). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the jungle that hid and swallowed a generation, the war's true landscape returning through every page of the Hanoi present. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "kien": {
+      "name": "Kiên",
+      "color": "#4A4A4A"
+    },
+    "phuong": {
+      "name": "Phương",
+      "color": "#8A2B1E"
+    },
+    "can": {
+      "name": "Can",
+      "color": "#8A6A12"
+    },
+    "hoa": {
+      "name": "Hòa",
+      "color": "#6B3B5A"
+    }
+  }
+}

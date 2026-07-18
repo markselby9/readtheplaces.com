@@ -1,0 +1,46 @@
+{
+  "id": "the-luminaries",
+  "title": "The Luminaries",
+  "author": "Eleanor Catton",
+  "published": 2013,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [170.968, -42.712],
+  "zoom": 12,
+  "setting": {
+    "city": "Hokitika",
+    "country": "NZ",
+    "note": "A gold-rush mystery set in Hokitika on the wild West Coast of New Zealand's South Island in 1866, where a newcomer, Walter Moody, stumbles into a secret council of twelve men trying to make sense of a fortune, a dead hermit, a vanished young prospector and a prostitute found half-dead. The boomtown is real and exact: the hotels and shipping offices of Revell Street, the deadly bar at the mouth of the Hokitika River, the gold claims out toward the Arahura, and the gaol above the town.",
+    "bbox": [170.94, -42.74, 171.02, -42.68]
+  },
+  "rights": {
+    "originalWork": "In copyright. Eleanor Catton, first published 2013. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Luminaries",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Luminaries, Eleanor Catton (2013). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the diggings and of the luminaries, sun and moon, whose movements the book's structure follows. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "moody": {
+      "name": "Walter Moody",
+      "color": "#2E5064"
+    },
+    "anna": {
+      "name": "Anna Wetherell",
+      "color": "#8A2B1E"
+    },
+    "staines": {
+      "name": "Emery Staines",
+      "color": "#2E6B4A"
+    },
+    "carver": {
+      "name": "Francis Carver",
+      "color": "#4A4A4A"
+    }
+  }
+}

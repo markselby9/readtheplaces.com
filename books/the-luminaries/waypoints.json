@@ -1,0 +1,117 @@
+[
+  {
+    "id": "hokitika-revell-street",
+    "name": "Hokitika (Revell Street)",
+    "progressLabel": "Part 1",
+    "character": "moody",
+    "coords": [170.9667, -42.7167],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is set in Hokitika, the real gold-rush port on the West Coast of the South Island; Revell Street, its main thoroughfare of hotels and offices, is where much of the action takes place.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Newly arrived to make his fortune, Walter Moody walks into the smoking room of a Hokitika hotel and interrupts a secret meeting of twelve men. Their tangled accounts of a night three weeks earlier draw him, and the reader, into the mystery that the elaborate, star-charted structure of the book slowly resolves.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Hokitika, New Zealand",
+        "url": "https://en.wikipedia.org/wiki/Hokitika"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Luminaries, Wikipedia, on the Hokitika setting",
+        "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gridiron-annas-rooms",
+    "name": "The Gridiron Hotel (Anna's rooms)",
+    "progressLabel": "Part 2",
+    "character": "anna",
+    "coords": [170.9675, -42.7155],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Anna, the town's most talked-of prostitute, lodges at one of Hokitika's hotels; the specific hotel is invented and sited among the real establishments of Revell Street.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "Anna Wetherell is found half-dead in the road the same night the hermit dies and the young prospector Staines vanishes, and a fortune in gold turns up sewn into her gowns. She sits at the centre of the mystery, bound by unexplained sympathies to the man everyone is looking for.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Luminaries, Wikipedia, on Anna Wetherell",
+        "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hokitika-river-bar",
+    "name": "The Hokitika River bar",
+    "progressLabel": "Part 3",
+    "character": "carver",
+    "coords": [170.962, -42.723],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mouth of the Hokitika River, with its shifting sandbar, was a real and notoriously dangerous harbour entrance where many ships were wrecked; the villain Carver's ship, the Godspeed, runs aground here.",
+    "reference": "Part 3",
+    "order": 3,
+    "note": "The treacherous river bar, lifeline and graveyard of the gold town, is where Francis Carver's ship the Godspeed is driven ashore and wrecked. Catton uses the real menace of the crossing, where fortunes and lives were routinely lost, as the stage for the plot's violent turns.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Hokitika and its river-mouth port",
+        "url": "https://en.wikipedia.org/wiki/Hokitika"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Luminaries, Wikipedia, on Carver and the Godspeed",
+        "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "arahura-crosbie-wells-cottage",
+    "name": "Crosbie Wells's cottage, the Arahura",
+    "progressLabel": "Part 4",
+    "character": "staines",
+    "coords": [171.0, -42.69],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The hermit Crosbie Wells's cottage stands out toward the Arahura River north of Hokitika, in the real goldfields country; a fortune is found hidden there after his death.",
+    "reference": "Part 4",
+    "order": 4,
+    "note": "In the dead hermit's lonely cottage by the Arahura, a small fortune in gold is discovered, gold that turns out to be linked to the missing prospector Emery Staines and his claim. The bush and diggings around it are where the wealth that drives every character is torn from the ground.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Arahura River, West Coast, New Zealand",
+        "url": "https://en.wikipedia.org/wiki/Arahura_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Luminaries, Wikipedia, on Crosbie Wells and Emery Staines",
+        "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hokitika-gaol-courthouse",
+    "name": "The Hokitika gaol and courthouse",
+    "progressLabel": "Part 5",
+    "character": "anna",
+    "coords": [170.975, -42.71],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hokitika had a real gaol and courthouse above the town serving the goldfields; the trials that resolve the mystery are sited there, the specific building not named.",
+    "reference": "Part 5",
+    "order": 5,
+    "note": "The mystery is finally argued out in the town's courtroom, where Anna and the others stand trial and the true story of the fortune, the wreck and the vanished Staines is teased apart. Justice on the raw edge of the goldfields is as improvised and self-interested as everything else in Hokitika.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Luminaries, Wikipedia, on the resolution",
+        "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
