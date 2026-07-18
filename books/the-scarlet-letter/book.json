@@ -4,20 +4,38 @@
   "author": "Nathaniel Hawthorne",
   "published": 1850,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-71.0578, 42.3588],
   "zoom": 12.5,
   "setting": {
     "city": "Boston",
     "country": "US",
-    "note": "Puritan Boston in the 1640s, most of it long gone: the scaffold in the market-place, the prison on its lane, the forest at the edge of town. Almost everything here will be inferred, which is exactly the test the certainty labels are for. It pairs with The Bostonians, the same city two centuries on.",
+    "note": "Puritan Boston in the 1640s, most of it long gone: the scaffold in the market-place, the jail on Prison Lane, Governor Bellingham's glittering hall, and the forest at the edge of the peninsula. Almost every pin here is inferred to its documented site, which is exactly what the certainty labels are for. The frame, The Custom-House, is a real excursion north to Salem, where Hawthorne worked and where the building still stands.",
     "bbox": [-71.191, 42.228, -70.804, 42.397]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Nathaniel Hawthorne published this in 1850.",
+    "originalWork": "Public domain. Nathaniel Hawthorne, first published 1850; the author died in 1864.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Nathaniel Hawthorne, The Scarlet Letter (1850)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/33",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1864).",
+    "attribution": "Nathaniel Hawthorne, The Scarlet Letter (1850). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "in fine red cloth",
+    "note": "The scarlet of the letter A, set on Hester's breast \"in fine red cloth\", taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "hester": {
+      "name": "Hester Prynne",
+      "color": "#8A6A12",
+      "colorSourceQuote": "gold thread"
+    },
+    "dimmesdale": {
+      "name": "Arthur Dimmesdale",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "black garments of the priesthood"
+    }
   }
 }

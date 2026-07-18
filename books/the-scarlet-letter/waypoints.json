@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "the-custom-house-salem",
+    "name": "The Custom-House, Salem",
+    "progressLabel": "The Custom-House",
+    "character": "hester",
+    "coords": [-70.887, 42.5214],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Salem Custom-House where Hawthorne worked as Surveyor is a real building, still standing at Derby Street on Salem's waterfront, some 25 km north of Boston, so it is flagged as an excursion beyond the book's setting.",
+    "quoteAnchor": "In my native town of Salem, at the head of",
+    "passage": "In my native town of Salem, at the head of what, half a century ago, in the days of old King Derby, was a bustling wharf—but which is now burdened with decayed wooden warehouses, and exhibits few or no symptoms of commercial life.",
+    "note": "Hawthorne frames the novel as a manuscript he claims to have found in the disused upper storey of the Salem Custom-House, wrapped around a faded scrap of gold-embroidered scarlet cloth. The wharf-side building is real and still stands; the found manuscript is the fiction that lets the tale begin.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, The Custom-House (introductory sketch)",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Custom House, Salem Maritime National Historic Site, U.S. National Park Service",
+        "url": "https://www.nps.gov/places/custom-house.htm"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-prison-prison-lane",
+    "name": "The prison on Prison Lane",
+    "progressLabel": "I. The Prison Door",
+    "character": "hester",
+    "coords": [-71.0588, 42.3593],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hawthorne places the town jail near Cornhill; Boston's first prison stood on Prison Lane, the street now called Court Street, by present-day Court Square. The pin marks that block.",
+    "quoteAnchor": "forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill",
+    "passage": "In accordance with this rule it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground.",
+    "note": "The story issues from the weather-stained oaken door of the town jail, where Hester has been held with her infant. Beside the threshold grows the wild rose-bush Hawthorne plucks a flower from for the reader. The real jail stood on Prison Lane, today's Court Street.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, ch. I, The Prison Door",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Court Street (formerly Prison Lane) and the site of Boston's first jail, Boston",
+        "url": "https://en.wikipedia.org/wiki/Court_Street_(Boston)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-market-place-and-scaffold",
+    "name": "The market-place and scaffold",
+    "progressLabel": "II. The Market-Place",
+    "character": "hester",
+    "coords": [-71.05747, 42.35867],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The scaffold of the pillory stood at the western end of the market-place, beneath the eaves of Boston's earliest meeting-house, on the old town square at what is now the corner of Washington and State Streets by the Old State House. The pin marks that square.",
+    "quoteAnchor": "a sort of scaffold, at the western extremity of the market-place",
+    "passage": "Hester Prynne passed through this portion of her ordeal, and came to a sort of scaffold, at the western extremity of the market-place. It stood nearly beneath the eaves of Boston's earliest church, and appeared to be a fixture there.",
+    "note": "Hester is led from the jail to the pillory in the market-place and made to stand three hours before the town, the scarlet letter on her breast and Pearl in her arms. The same scaffold bookends the novel, and it stood on the old town square by the first meeting-house.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, ch. II, The Market-Place",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Old State House and the site of Boston's first town-house and market-place, Boston",
+        "url": "https://en.wikipedia.org/wiki/Old_State_House_(Boston)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kings-chapel-burying-ground",
+    "name": "The King's Chapel burying ground",
+    "progressLabel": "I. The Prison Door",
+    "character": "hester",
+    "coords": [-71.06004, 42.35833],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hawthorne names the town's first burial-ground, on Isaac Johnson's lot, as the nucleus of the churchyard of King's Chapel. That ground survives as King's Chapel Burying Ground on Tremont Street, where the pin sits.",
+    "quoteAnchor": "the first burial-ground, on Isaac Johnson's lot, and round about his grave",
+    "passage": "They marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel.",
+    "note": "As he introduces the prison, Hawthorne fixes the young colony by its two earliest civic acts, a jail and a grave. The burial-ground he names on Isaac Johnson's lot is the real one that grew into King's Chapel Burying Ground, the oldest cemetery in Boston.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, ch. I, The Prison Door",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "heritage",
+        "ref": "King's Chapel Burying Ground, City of Boston Historic Burying Grounds",
+        "url": "https://www.boston.gov/cemeteries/kings-chapel-burying-ground"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "governor-bellinghams-hall",
+    "name": "Governor Bellingham's Hall",
+    "progressLabel": "VII. The Governor's Hall",
+    "character": "hester",
+    "coords": [-71.0565, 42.3575],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Governor Bellingham's mansion is described in the town but its exact site is not documented; Richard Bellingham was a real magistrate and deputy governor of the Massachusetts Bay Colony. The pin sits within the colonial town centre where his household would have stood.",
+    "quoteAnchor": "Hester Prynne went one day to the mansion of Governor Bellingham",
+    "passage": "Hester Prynne went one day to the mansion of Governor Bellingham, with a pair of gloves which she had fringed and embroidered to his order, and which were to be worn on some great occasion of state.",
+    "note": "Hester carries her embroidered gloves to the Governor's stucco-and-glass hall to plead for the right to keep Pearl, whom the magistrates mean to take from her. Bellingham was a real ruler of the colony; the diamond-glittering mansion is Hawthorne's, pinned to the old town.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, ch. VII, The Governor's Hall",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Richard Bellingham, Governor of the Massachusetts Bay Colony, Boston",
+        "url": "https://en.wikipedia.org/wiki/Richard_Bellingham"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-forest-walk",
+    "name": "The forest outside the town",
+    "progressLabel": "XVI. A Forest Walk",
+    "character": "dimmesdale",
+    "coords": [-71.0656, 42.355],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The primeval forest where Hester and Dimmesdale meet is generic wilderness beyond the settlement, not a named spot. The pin marks the western edge of the old Shawmut peninsula, at what is now Boston Common, where the town gave way to open land and woods.",
+    "quoteAnchor": "How dreary looked the forest-track that led",
+    "passage": "And yet they lingered. How dreary looked the forest-track that led backward to the settlement, where Hester Prynne must take up again the burden of her ignominy and the minister the hollow mockery of his good name!",
+    "note": "In the woods beyond the town, on a mossy trunk by the brook, Hester and Dimmesdale meet alone at last. He forgives her, she unpins the scarlet letter, and for one hour they plan to flee together. The forest is Hawthorne's untamed edge of the Puritan world, drawn rather than mapped.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Scarlet Letter, ch. XVI, A Forest Walk",
+        "url": "https://www.gutenberg.org/ebooks/33"
+      },
+      {
+        "kind": "guide",
+        "ref": "Boston Common and the Shawmut peninsula, the edge of the colonial settlement, Boston",
+        "url": "https://en.wikipedia.org/wiki/Boston_Common"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
