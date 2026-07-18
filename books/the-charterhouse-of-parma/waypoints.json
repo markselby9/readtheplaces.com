@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "milan-under-napoleon",
+    "name": "Milan under Napoleon",
+    "progressLabel": "Chapter 1",
+    "character": "fabrizio",
+    "coords": [9.19, 45.4642],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens in Milan, named directly; the coordinates mark the historic centre of the city.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens as the French army enters Milan and wakes the sleepy Lombard city to a new age. Fabrizio del Dongo is born into this excitement, a boy raised on the legend of Napoleon while his reactionary father sulks in the family palace. The Cisalpine enthusiasm of these years sets the whole restless course of his life.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on the Milanese opening and the Napoleonic setting",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "guide",
+        "ref": "Milan, Wikipedia, on the city and the Cisalpine Republic under the French",
+        "url": "https://en.wikipedia.org/wiki/Milan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grianta-lake-como",
+    "name": "Grianta on Lake Como",
+    "progressLabel": "Chapter 2",
+    "character": "fabrizio",
+    "coords": [9.25, 45.98],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The del Dongo castle at Grianta is invented, but Stendhal sets it on the real western shore of Lake Como; the coordinates mark the lakeside near Griante, the village that lends the fictional estate its name and view.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Fabrizio grows up at the family castle of Grianta on Lake Como, among the terraced gardens and the great water under the mountains. The lake is the idyll he keeps returning to in memory, a place of chestnut woods and astronomy on the tower with the abbe. Its calm is the opposite of the court that will later trap him.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on the del Dongo castle at Grianta on Lake Como",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "guide",
+        "ref": "Lake Como, Wikipedia, on the western shore and the village of Griante",
+        "url": "https://en.wikipedia.org/wiki/Lake_Como"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waterloo",
+    "name": "Waterloo",
+    "progressLabel": "Chapter 3",
+    "character": "fabrizio",
+    "coords": [4.4123, 50.6805],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Stendhal names the battlefield of Waterloo directly; the coordinates mark the field south of Brussels in Belgium. It lies far outside the Italian setting, so it is flagged as such.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Chasing his hero-worship, Fabrizio crosses into Belgium and blunders onto the field of Waterloo, where he wanders through smoke and mud without ever understanding the battle around him. He is robbed, briefly arrested, and swept along by soldiers, and only long afterward wonders whether he was really at a battle at all. It is one of literature's most famous accounts of war seen from the inside and grasped not at all.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on Fabrizio's bewildered passage through Waterloo",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Battle of Waterloo, Wikipedia, on the battlefield south of Brussels",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "parma-and-the-court",
+    "name": "Parma and the court",
+    "progressLabel": "Chapter 6",
+    "character": "sanseverina",
+    "coords": [10.3279, 44.8015],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The court intrigues unfold in Parma, named throughout; the coordinates mark the historic centre of the city, where the ducal palace stood.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "The story settles into Parma, a small despotic state where every favour and fear runs through the prince's court. Here the Duchess Sanseverina and the shrewd Count Mosca manoeuvre to advance and protect Fabrizio, trading on charm, patronage, and the ruler's vanity. Stendhal's Parma is a miniature of Restoration Italy, all whispered intrigue behind a polite facade.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on the court of Parma and the Sanseverina-Mosca intrigues",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "guide",
+        "ref": "Parma, Wikipedia, on the city and the Duchy of Parma",
+        "url": "https://en.wikipedia.org/wiki/Parma"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "farnese-tower-citadel",
+    "name": "The Farnese Tower, the citadel of Parma",
+    "progressLabel": "Chapter 15",
+    "character": "fabrizio",
+    "coords": [10.3311, 44.7933],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The towering Farnese prison is Stendhal's invention, but it stands within the citadel of Parma; the coordinates mark the real Cittadella di Parma, the pentagonal Farnese fortress on which the fictional tower is inferred.",
+    "reference": "Chapter 15",
+    "order": 5,
+    "note": "Fabrizio is imprisoned high in the Farnese Tower, a cell above the citadel of Parma with a wide view over the plain. Instead of despair he finds happiness there, falling in love with Clelia Conti, the governor's daughter, whom he glimpses and signals across the parapets and the aviary below. The prison that should end him becomes the strange centre of his life.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on Fabrizio's imprisonment in the Farnese Tower and his love for Clelia",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Citadel of Parma, Wikipedia, on the Cittadella, the Farnese pentagonal fortress",
+        "url": "https://en.wikipedia.org/wiki/Citadel_of_Parma"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-charterhouse",
+    "name": "The Charterhouse",
+    "progressLabel": "Chapter 28",
+    "character": "fabrizio",
+    "coords": [10.3667, 44.8025],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Charterhouse to which Fabrizio retires is named only at the close and never sited precisely; the coordinates mark the real Certosa di Parma on the outskirts of the city, the monastery that gives the novel its title.",
+    "reference": "Chapter 28",
+    "order": 6,
+    "note": "Worn down by loss after the deaths of Clelia and their child, Fabrizio withdraws from the world to the Charterhouse of Parma, the monastery that gives the book its name. He lives there only a short time before he dies, and the great cast of schemers is scattered soon after. The retreat closes a life that never found rest in the world's intrigues.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Charterhouse of Parma, Wikipedia, on Fabrizio's retirement to the Charterhouse and the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Certosa di Parma, Wikipedia, on the Carthusian monastery on the outskirts of Parma",
+        "url": "https://en.wikipedia.org/wiki/Certosa_di_Parma"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
