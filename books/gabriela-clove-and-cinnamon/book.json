@@ -1,0 +1,46 @@
+{
+  "id": "gabriela-clove-and-cinnamon",
+  "title": "Gabriela, Clove and Cinnamon",
+  "author": "Jorge Amado",
+  "published": 1958,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-39.06, -14.79],
+  "zoom": 12,
+  "setting": {
+    "city": "Ilhéus",
+    "country": "BR",
+    "note": "In the cocoa-boom port of Ilhéus on the Bahia coast around 1925, two stories run together: the Syrian bar-owner Nacib's love for his cinnamon-skinned cook Gabriela, and the town's struggle between the old cocoa colonels and the modernisers who want to open the harbour bar to ocean ships. Amado maps his own city: the bars and cathedral square of Ilhéus, the treacherous sandbar at the harbour mouth, and the cocoa plantations inland whose blood-soaked wealth built the whole coast.",
+    "bbox": [-39.25, -14.83, -39.02, -14.77]
+  },
+  "rights": {
+    "originalWork": "In copyright. Jorge Amado, first published 1958 (Gabriela, Cravo e Canela). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Gabriela, Clove and Cinnamon, Jorge Amado (1958). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The warm cinnamon of Gabriela's skin and of the spice and cocoa the whole coast lives by. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gabriela": {
+      "name": "Gabriela",
+      "color": "#8A6A12"
+    },
+    "nacib": {
+      "name": "Nacib",
+      "color": "#2E5064"
+    },
+    "mundinho": {
+      "name": "Mundinho Falcão",
+      "color": "#2E6B4A"
+    },
+    "ramiro": {
+      "name": "Colonel Ramiro Bastos",
+      "color": "#4A4A4A"
+    }
+  }
+}

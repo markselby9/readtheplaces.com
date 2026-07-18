@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ilheus-town",
+    "name": "Ilhéus (the town)",
+    "progressLabel": "Part 1",
+    "character": "nacib",
+    "coords": [-39.049, -14.788],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is set in Ilhéus, the real cocoa port on the southern coast of Bahia, Amado's own home town, whose streets, square and seafront frame the whole story.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Ilhéus in the 1920s is a raw boom town where cocoa money, backland violence and new ambitions all collide. Amado opens the book on its heat and gossip, the colonels swaggering through streets that are just learning to want cinemas, newspapers and progress.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ilhéus, Bahia",
+        "url": "https://en.wikipedia.org/wiki/Ilh%C3%A9us"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gabriela, Clove and Cinnamon, Wikipedia, on the Ilhéus setting",
+        "url": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vesuvio-bar",
+    "name": "Nacib's Vesúvio Bar",
+    "progressLabel": "Part 2",
+    "character": "gabriela",
+    "coords": [-39.038, -14.792],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nacib runs the Vesúvio Bar on the cathedral square of Ilhéus, a real bar that still stands and trades on its association with Amado's novel.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "When Nacib hires the migrant Gabriela to cook for his bar, her food and her beauty make the Vesúvio the centre of the town, and make Nacib fall helplessly in love. Their story, from kitchen to marriage and its unravelling, is the warm heart of the book against the political intrigue around it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bar Vesúvio, Ilhéus, associated with Jorge Amado",
+        "url": "https://en.wikipedia.org/wiki/Ilh%C3%A9us"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gabriela, Clove and Cinnamon, Wikipedia, on Nacib and Gabriela",
+        "url": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ilheus-harbour-bar",
+    "name": "The harbour and the sandbar",
+    "progressLabel": "Part 2",
+    "character": "mundinho",
+    "coords": [-39.03, -14.8],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The shallow sandbar at the mouth of Ilhéus harbour, which stopped ocean-going ships from loading cocoa directly, is a real feature of the coast and the central political issue of the novel.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "The exporter Mundinho Falcão stakes his campaign for progress on dredging the harbour bar so big ships can carry the cocoa straight to market, breaking the colonels' grip. The fight over the sandbar becomes the fight over the town's whole future, modern commerce against the old rule of the gun.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gabriela, Clove and Cinnamon, Wikipedia, on Mundinho and the harbour",
+        "url": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cocoa-plantations",
+    "name": "The cocoa plantations",
+    "progressLabel": "Part 1",
+    "character": "ramiro",
+    "coords": [-39.2, -14.82],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The cocoa plantations, the roças, inland from Ilhéus are the source of the region's wealth and violence; sited in the real cocoa zone west of the port town.",
+    "reference": "Part 1",
+    "order": 4,
+    "note": "The old colonels, above all Ramiro Bastos, drew their power and their fortunes from the cocoa plantations, land won and held by ambush and hired gun in living memory. The bloody frontier history of the roças is the dark ground beneath the town's new prosperity and its comedy of manners.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gabriela, Clove and Cinnamon, Wikipedia, on the cocoa colonels",
+        "url": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ilheus-nightlife-bataclan",
+    "name": "The Bataclan (the town's nightlife)",
+    "progressLabel": "Part 2",
+    "character": "gabriela",
+    "coords": [-39.04, -14.791],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The cabaret and the bars where the colonels drink and keep mistresses, the Bataclan among them, belong to the real Ilhéus nightlife of the period; the specific cabaret is sited in the town centre.",
+    "reference": "Part 2",
+    "order": 5,
+    "note": "The town's cabarets and the colonels' kept women are the flip side of its respectable marriages, a double standard the book gleefully exposes, not least when a colonel shoots his unfaithful wife and is acquitted as a matter of honour. Gabriela, refusing to be caged by marriage, cuts across the whole hypocrisy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gabriela, Clove and Cinnamon, Wikipedia, on the town's society",
+        "url": "https://en.wikipedia.org/wiki/Gabriela,_Clove_and_Cinnamon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

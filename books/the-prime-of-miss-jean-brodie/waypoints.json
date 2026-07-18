@@ -1,0 +1,122 @@
+[
+  {
+    "id": "marcia-blaine-school",
+    "name": "Marcia Blaine School",
+    "progressLabel": "Chapter 1",
+    "character": "brodie",
+    "coords": [-3.2, 55.9375],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The girls' school where Brodie teaches, Marcia Blaine, is invented but drawn from James Gillespie's High School for Girls, which Spark attended; sited in the Bruntsfield area of the south side where such schools stood.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At the Marcia Blaine School, Miss Brodie takes her chosen ten-year-olds out of the ordinary curriculum and into her own: her love affairs, her holidays in Italy, her admiration for the fascist leaders. The Brodie set is formed here, six girls marked out to be, she tells them, the crème de la crème.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Prime of Miss Jean Brodie, Wikipedia, on the school and setting",
+        "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+      },
+      {
+        "kind": "heritage",
+        "ref": "James Gillespie's High School, the model for Marcia Blaine",
+        "url": "https://en.wikipedia.org/wiki/James_Gillespie%27s_High_School"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-town-walk",
+    "name": "The Old Town (the walk)",
+    "progressLabel": "Chapter 2",
+    "character": "brodie",
+    "coords": [-3.193, 55.948],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Brodie leads the girls on a walk through the poor closes and streets of Edinburgh's Old Town, the real medieval quarter along the Royal Mile and down toward the Grassmarket.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "The crocodile of girls follows Brodie out of the genteel south side into the crowded poverty of the Old Town, an outing that shows Sandy a whole city her sheltered life has hidden. The contrast between Brodie's romantic self-image and the real Edinburgh around her begins, for Sandy, the slow work of seeing through her.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Old Town, Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/Old_Town,_Edinburgh"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Prime of Miss Jean Brodie, Wikipedia, on the Old Town walk",
+        "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bruntsfield-links-meadows",
+    "name": "Bruntsfield Links and the Meadows",
+    "progressLabel": "Chapter 3",
+    "character": "sandy",
+    "coords": [-3.197, 55.94],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The set walks and talks across Bruntsfield Links and the Meadows, the real open greens of Edinburgh's south side beside the school.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "On the Links and the Meadows the girls rehearse Brodie's romances and prophecies, and the watchful Sandy Stranger begins to measure her teacher against reality. Sandy's mix of devotion and suspicion, worked out on these ordinary greens, will end in the betrayal that brings Brodie down.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bruntsfield Links, Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/Bruntsfield_Links"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Prime of Miss Jean Brodie, Wikipedia, on Sandy Stranger",
+        "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "teddy-lloyd-studio",
+    "name": "Teddy Lloyd's studio",
+    "progressLabel": "Chapter 4",
+    "character": "teddy-lloyd",
+    "coords": [-3.205, 55.952],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The married art master Teddy Lloyd, whom Brodie loves and renounces, paints in a studio in the city; the studio is invented and sited in central Edinburgh.",
+    "reference": "Chapter 4",
+    "order": 4,
+    "note": "Brodie loves the one-armed painter Teddy Lloyd but gives him up, steering the girls toward him in her place, so that every portrait he paints of them comes out looking like her. When Sandy has an affair with Lloyd, she takes from him not love but the key to destroying Brodie.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Prime of Miss Jean Brodie, Wikipedia, on Teddy Lloyd",
+        "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cramond-lowther",
+    "name": "Cramond (Gordon Lowther's house)",
+    "progressLabel": "Chapter 5",
+    "character": "lowther",
+    "coords": [-3.299, 55.977],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The music master Gordon Lowther, whom Brodie takes up instead of Lloyd, has a house at Cramond, the real village on the Firth of Forth at the north-western edge of Edinburgh.",
+    "reference": "Chapter 5",
+    "order": 5,
+    "note": "Out at Cramond, by the shore of the Forth, Brodie half-settles into an affair with the mild bachelor music master Lowther, a substitute for the painter she truly wants. The seaside village is where her romantic myth of herself is quietly, comically deflated even as she keeps performing it for the girls.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cramond, Edinburgh",
+        "url": "https://en.wikipedia.org/wiki/Cramond"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Prime of Miss Jean Brodie, Wikipedia, on Gordon Lowther",
+        "url": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
