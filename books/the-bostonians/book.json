@@ -4,20 +4,38 @@
   "author": "Henry James",
   "published": 1886,
   "orderingKey": "chapter",
-  "center": [-71.0578, 42.3588],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-71.0709, 42.3554],
+  "zoom": 10,
   "setting": {
     "city": "Boston",
     "country": "US",
-    "note": "Beacon Hill, the Back Bay, and a decaying house out on Cape Cod. James fixes the exact social altitude of every address in a city that still keeps the same streets.",
-    "bbox": [-71.191, 42.228, -70.804, 42.397]
+    "note": "A novel of reform-era Boston, mapped to real ground. Olive Chancellor's house stands on the water side of Charles Street, on the flat of Beacon Hill, looking over the new-made Back Bay; the reformer Miss Birdseye holds her meeting out in the South End; Verena crosses to Cambridge and the great Memorial Hall at Harvard; and the climax comes at the Music Hall, the concert hall where she is to give her big address. Summer takes them to \"Marmion\" on the southern cape, James's name for the real village of Marion, Massachusetts. A run of scenes moves the fight to New York.",
+    "bbox": [-71.2, 41.65, -70.7, 42.42]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Henry James published this in 1886.",
+    "originalWork": "Public domain. Henry James, first published 1886; the author died in 1916.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/henry-james/the-bostonians",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Henry James, The Bostonians (1886)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/19717",
+    "territoryNotes": "Public domain in the United States (published 1886), and in the United Kingdom and the European Union, where the author died more than 70 years ago (1916).",
+    "attribution": "Henry James, The Bostonians (1886). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "a cold yellow streak in the west",
+    "note": "The cold yellow light lingering over the Back Bay at dusk, seen from Olive's window on Charles Street. A colour drawn straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "olive": {
+      "name": "Olive Chancellor",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "her light-green eyes"
+    },
+    "verena": {
+      "name": "Verena Tarrant",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "she had red hair"
+    }
   }
 }

@@ -1,1 +1,151 @@
-[]
+[
+  {
+    "id": "charles-street-beacon-hill-olives-house",
+    "name": "Charles Street, Beacon Hill: Olive's house",
+    "progressLabel": "Ch. III",
+    "character": "olive",
+    "coords": [-71.0706, 42.3583],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Olive Chancellor's house is invented, but James sites it exactly: on the water side of Charles Street, the flat street at the foot of Beacon Hill, so that her back windows look west over the newly filled Back Bay. Charles Street and that view are real; the pin marks the water side of Charles Street on the Hill.",
+    "quoteAnchor": "the good fortune to dwell on that side of Charles Street toward which",
+    "passage": "Miss Chancellor having the good fortune to dwell on that side of Charles Street toward which, in the rear, the afternoon sun slants redly, from an horizon indented at empty intervals with wooden spires, the masts of lonely boats, the chimneys of dirty \"works,\" over a brackish expanse of anomalous character, which is too big for a river and too small for a bay.",
+    "note": "The novel's fixed interior. Basil Ransom, the poor Mississippi cousin, comes to call and reads Olive's wealth off her Charles Street drawing-room, its books and watercolours and \"organised privacy,\" while the reddened light dies over the Back Bay embankment. An address on the water side of the Hill is a statement of exactly how rich and how cultivated a Bostonian is, and James makes it one.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. III",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Beacon Hill and Charles Street, Boston",
+        "url": "https://en.wikipedia.org/wiki/Beacon_Hill,_Boston"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "south-end-miss-birdseyes-meeting",
+    "name": "The South End: Miss Birdseye's meeting",
+    "progressLabel": "Ch. III",
+    "character": "verena",
+    "coords": [-71.0762, 42.3411],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Miss Birdseye's rooms are fiction, but the district is named and real: she lives out in the South End, the flat grid of bow-front row houses south of the old city, a considerable hackney-coach ride from Beacon Hill. The pin marks the South End.",
+    "quoteAnchor": "Miss Birdseye lived at the South End; the distance",
+    "passage": "Miss Birdseye lived at the South End; the distance was considerable, and Miss Chancellor had ordered a hackney-coach, it being one of the advantages of living in Charles Street that stables were near.",
+    "note": "The reformers' Boston, a coach-ride down from the Hill. In the old abolitionist Miss Birdseye's parlour Olive and Ransom first hear Verena Tarrant speak, and both are struck: Olive wants to capture the girl for the cause, Ransom to carry her off from it. The whole plot starts in the South End.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. III",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "heritage",
+        "ref": "South End, Boston (historic district)",
+        "url": "https://en.wikipedia.org/wiki/South_End,_Boston"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "harvard-memorial-hall",
+    "name": "Harvard: Memorial Hall",
+    "progressLabel": "Ch. XXV",
+    "character": "verena",
+    "coords": [-71.1146, 42.3766],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "heard of the great Memorial Hall; he knew what memories it enshrined",
+    "passage": "But Basil Ransom had heard of the great Memorial Hall; he knew what memories it enshrined, and the worst that he should have to suffer there; and the ornate, overtopping structure, which was the finest piece of architecture he had ever seen, had moreover solicited his enlarged curiosity for the last half-hour.",
+    "note": "Verena shows Ransom over Harvard and hesitates at the door of Memorial Hall, the buttressed pile raised to the university's Union dead, since he fought for the South. Inside, before the white ranked tablets naming the student-soldiers, the ex-Confederate feels only the old fighting-time and a plain respect. The real hall still stands in its grassy triangle at the north edge of Harvard Yard.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. XXV",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Memorial Hall, Harvard University, Cambridge",
+        "url": "https://en.wikipedia.org/wiki/Memorial_Hall_(Harvard_University)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-park-new-york",
+    "name": "Central Park, New York",
+    "progressLabel": "Ch. XXXIII",
+    "character": "verena",
+    "coords": [-73.9718, 40.7678],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "New York, not Boston: a deliberate excursion outside the book's Massachusetts setting. Verena is in the city on the cause's business when Ransom carries her off for an afternoon in the real Central Park; the pin marks its zoological garden, which the text names.",
+    "quoteAnchor": "They went up to the Central Park by the elevated railway",
+    "passage": "They went up to the Central Park by the elevated railway, and Verena reflected, as they proceeded, that anyway Olive was probably disposing of her somehow at Mrs. Burrage's, and that therefore there wasn't much harm in her just taking this little run on her own responsibility, especially as she should only be out an hour--which would be just the duration of Olive's absence.",
+    "note": "The fight moves to New York. While Olive thinks her safe at Mrs. Burrage's, Verena slips off on the elevated with Ransom for a stolen hour among the swans, the zoo, the Ramble and the Maze. The whole afternoon is a quiet defection: Ransom is winning her away from Olive and the platform, one walk at a time.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. XXXIII",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Central Park, Manhattan, New York",
+        "url": "https://en.wikipedia.org/wiki/Central_Park"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marmion-marion-cape-cod",
+    "name": "Marmion (Marion), Cape Cod",
+    "progressLabel": "Ch. XXXV",
+    "character": "olive",
+    "coords": [-70.7625, 41.7003],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "\"Marmion\" is James's invented name for a real place: the sleepy shore village he calls the Italy of Massachusetts is drawn from Marion, on Buzzards Bay near the base of Cape Cod, where James himself had summered. The pin marks Marion.",
+    "quoteAnchor": "train for Marmion left Boston at four o'clock in the afternoon",
+    "passage": "The train for Marmion left Boston at four o'clock in the afternoon, and rambled fitfully toward the southern cape, while the shadows grew long in the stony pastures and the slanting light gilded the straggling, shabby woods, and painted the ponds and marshes with yellow gleams.",
+    "note": "Olive rents a cottage down the coast for the summer and shuts Verena up in it, hoping distance will finish Ransom off. It does the opposite: he follows, takes rooms in the village, and turns the drowsy \"Marmion\" into the ground where he besieges her \"cottage fortress\" and wins. James's holiday village is the real Marion, softened and renamed.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. XXXV",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "guide",
+        "ref": "Marion, Massachusetts, on Buzzards Bay",
+        "url": "https://en.wikipedia.org/wiki/Marion,_Massachusetts"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "music-hall-the-climax",
+    "name": "The Music Hall: the climax",
+    "progressLabel": "Ch. XXXVIII",
+    "character": "verena",
+    "coords": [-71.0616, 42.3557],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "her great exhibition at the Music Hall",
+    "passage": "It was in the same jocose spirit with which he regarded Olive's view of the sort of standard a Mississippian should live up to that he talked to Verena about the lecture she was preparing for her great exhibition at the Music Hall.",
+    "note": "The book drives to a single evening at the Boston Music Hall, where Verena is to give her big address, \"A Woman's Reason,\" and launch her career. Ransom, who has sworn to \"squelch\" it, comes for her backstage as the packed house waits. She leaves on his arm in tears, the address never given. The real hall still stands off Tremont Street as the Orpheum Theatre.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Bostonians, ch. XXXVIII",
+        "url": "https://www.gutenberg.org/ebooks/19717"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Boston Music Hall, now the Orpheum Theatre, Hamilton Place",
+        "url": "https://en.wikipedia.org/wiki/Orpheum_Theatre_(Boston)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
