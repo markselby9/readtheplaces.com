@@ -4,7 +4,7 @@
     "name": "The Warsaw railway station",
     "progressLabel": "Part 1, ch. 1",
     "character": "myshkin",
-    "coords": [30.3082, 59.9146],
+    "coords": [30.3074, 59.9072],
     "placeCertainty": "inferred",
     "certaintyNote": "The novel opens on \"the Warsaw and Petersburg railway\" approaching the city; Dostoevsky does not name the terminus, but the Petersburg end of that line was the Warsaw Station (Varshavsky vokzal) on the Obvodny Canal, where the pin sits.",
     "quoteAnchor": "a train on the Warsaw and Petersburg railway was approaching",
@@ -19,7 +19,7 @@
       {
         "kind": "heritage",
         "ref": "Warsaw railway station (Varshavsky vokzal), Saint Petersburg, Petersburg terminus of the Warsaw line",
-        "url": "https://en.wikipedia.org/wiki/Warsaw_railway_station_(Saint_Petersburg)"
+        "url": "https://en.wikipedia.org/wiki/Varshavsky_railway_station"
       }
     ],
     "editorialStatus": "reviewed"
@@ -69,7 +69,7 @@
       {
         "kind": "heritage",
         "ref": "Theatre Square, Saint Petersburg, site of the former Bolshoi (Great) Stone Theatre",
-        "url": "https://en.wikipedia.org/wiki/Theatre_Square,_Saint_Petersburg"
+        "url": "https://en.wikipedia.org/wiki/Theatre_Square_(Saint_Petersburg)"
       }
     ],
     "editorialStatus": "reviewed"
@@ -104,7 +104,7 @@
     "name": "The Vauxhall at Pavlovsk",
     "progressLabel": "Part 3, ch. 2",
     "character": "nastasya",
-    "coords": [30.44, 59.689],
+    "coords": [30.4333, 59.6933],
     "placeCertainty": "explicit",
     "certaintyNote": "Pavlovsk and its Vauxhall are named in the text. The pin marks the Pavlovsk Vokzal, the concert pavilion beside the railway in the park; the original building no longer stands.",
     "quoteAnchor": "In order to pass from the Vauxhall to the band-stand",
