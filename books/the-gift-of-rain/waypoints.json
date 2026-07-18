@@ -1,0 +1,122 @@
+[
+  {
+    "id": "george-town-mansion",
+    "name": "George Town (the Hutton mansion)",
+    "progressLabel": "Book 1",
+    "character": "philip",
+    "coords": [100.34, 5.418],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Philip grows up at his family's mansion in George Town, the real colonial capital of Penang, a Straits trading port of great mixed wealth; the specific house is invented and sited in the real town.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "The lonely, in-between son of an English trading family and a Chinese mother, Philip belongs fully to neither world of George Town's layered society. The mansion and the port city, with their godowns, clubs and clan houses, are the home whose fate he will be forced to weigh against his loyalty to his Japanese teacher.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "George Town, Penang",
+        "url": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Gift of Rain, Wikipedia, on Philip Hutton and Penang",
+        "url": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "endo-san-island",
+    "name": "Endo-san's island",
+    "progressLabel": "Book 1",
+    "character": "endo",
+    "coords": [100.31, 5.4],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Japanese diplomat Endo-san rents a small island off the Penang coast, where he lives and teaches Philip the martial art of aiki-jutsu; the islet is drawn from the real islands in the strait off Penang.",
+    "reference": "Book 1",
+    "order": 2,
+    "note": "On his rented island Endo-san drills Philip in the discipline, balance and philosophy of aiki-jutsu, and a deep bond of teacher and pupil, almost of destiny, forms between them. The island, reached by boat across the water, is the still centre of the book and, it emerges, a listening post for the coming invasion.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Gift of Rain, Wikipedia, on Endo-san and the training",
+        "url": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "colonial-george-town",
+    "name": "Colonial George Town",
+    "progressLabel": "Book 1",
+    "character": "noel",
+    "coords": [100.335, 5.424],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colonial society of the port, its trading houses and grand hotels such as the Eastern & Oriental, is the world of Philip's father Noel Hutton; sited in the real George Town of the interwar years.",
+    "reference": "Book 1",
+    "order": 3,
+    "note": "Noel Hutton and the English merchant class carry on their trade and their clubs in a Penang they believe is theirs and safe, blind to how soon it will fall. The confident colonial town, seen just before the catastrophe, sharpens the tragedy of what the Japanese occupation will do to the Huttons and the island.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Eastern & Oriental Hotel and colonial George Town",
+        "url": "https://en.wikipedia.org/wiki/Eastern_%26_Oriental_Hotel"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Gift of Rain, Wikipedia, on the Hutton family",
+        "url": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "george-town-occupation",
+    "name": "George Town under occupation",
+    "progressLabel": "Book 2",
+    "character": "endo",
+    "coords": [100.338, 5.416],
+    "placeCertainty": "inferred",
+    "certaintyNote": "After the 1941 invasion, George Town falls under a brutal Japanese occupation with its secret police; the terror is sited in the real occupied town, the specific offices the novel's own.",
+    "reference": "Book 2",
+    "order": 4,
+    "note": "Under occupation Philip works for the Japanese, trying to shield his family and people even as his teacher Endo-san rises in the administration and the Kempeitai torture and kill. The impossible bind, loving the man whose army is destroying his home, is the tragedy the whole book has been moving toward.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Japanese occupation of Malaya",
+        "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Malaya"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Gift of Rain, Wikipedia, on the occupation",
+        "url": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "penang-hill",
+    "name": "Penang Hill",
+    "progressLabel": "Book 2",
+    "character": "kon",
+    "coords": [100.27, 5.425],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Penang Hill, the real forested height above George Town, and the temples and jungle of the island are the ground of the resistance and of Philip's friendship with the martial artist Kon.",
+    "reference": "Book 2",
+    "order": 5,
+    "note": "In the jungle and hill country above the town, Philip's friend Kon fights with the resistance, and the two young men trained in the same arts find themselves on opposing sides of the war. Penang Hill, cool and green above the suffering port, is where the book's questions of loyalty, honour and survival come to their hardest test.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Penang Hill",
+        "url": "https://en.wikipedia.org/wiki/Penang_Hill"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Gift of Rain, Wikipedia, on Kon and the resistance",
+        "url": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

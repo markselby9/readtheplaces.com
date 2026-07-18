@@ -1,0 +1,46 @@
+{
+  "id": "in-the-skin-of-a-lion",
+  "title": "In the Skin of a Lion",
+  "author": "Michael Ondaatje",
+  "published": 1987,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-79.35, 43.67],
+  "zoom": 12,
+  "setting": {
+    "city": "Toronto",
+    "country": "CA",
+    "note": "Ondaatje's luminous novel gives back the immigrant workers written out of the making of Toronto in the 1910s and 1920s, following Patrick Lewis among the men who built the city's bridges and waterworks. The real Toronto is its stage: the great Bloor Street Viaduct rising over the Don Valley, the immigrant tanning district, the perilous tunnel dug out under Lake Ontario, and the cathedral-like waterworks that R.C. Harris built to purify the city's water.",
+    "bbox": [-79.4, 43.63, -79.27, 43.7]
+  },
+  "rights": {
+    "originalWork": "In copyright. Michael Ondaatje, first published 1987. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "In the Skin of a Lion, Michael Ondaatje (1987). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue of Lake Ontario and of the waterworks tunnel, the element the whole book's labour bends toward purifying. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "patrick": {
+      "name": "Patrick Lewis",
+      "color": "#4A4A4A"
+    },
+    "temelcoff": {
+      "name": "Nicholas Temelcoff",
+      "color": "#8A2B1E"
+    },
+    "alice": {
+      "name": "Alice Gull",
+      "color": "#8A6A12"
+    },
+    "clara": {
+      "name": "Clara Dickens",
+      "color": "#6B3B5A"
+    }
+  }
+}
