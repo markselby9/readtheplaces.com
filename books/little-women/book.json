@@ -4,20 +4,43 @@
   "author": "Louisa May Alcott",
   "published": 1868,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [-71.343, 42.4581],
   "zoom": 12.5,
   "setting": {
     "city": "Concord",
     "country": "US",
-    "note": "The March sisters’ Concord, drawn from Alcott’s own Orchard House on Lexington Road, now a museum: the house, the neighbour’s mansion, the town where the Alcotts, Emerson and Thoreau were all near neighbours. It brings Louisa May Alcott into the atlas.",
+    "note": "The book never names the March sisters' town, but Alcott wrote it into her own: Concord, Massachusetts, and her family home on Lexington Road. The old brown March house is drawn from Orchard House, where Alcott lived and wrote and which is now a museum; the stately stone Laurence mansion next door is drawn from the real house over the hedge; and the country-like suburb, its groves and quiet streets, is the Concord of the Alcotts, Emerson and Thoreau. Amy's later tour of Nice and Switzerland is a real excursion abroad. It brings Louisa May Alcott into the atlas.",
     "bbox": [-71.4, 42.43, -71.3, 42.49]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Louisa May Alcott published this in 1868.",
+    "originalWork": "Public domain. Louisa May Alcott, first published 1868; the author died in 1888.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/louisa-may-alcott/little-women",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Louisa May Alcott, Little Women (1868)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/514",
+    "territoryNotes": "Public domain in the United States (published 1868) and in the United Kingdom and the EU, where the author died more than 70 years ago (1888).",
+    "attribution": "Louisa May Alcott, Little Women (1868). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "accentSourceQuote": "pleasant green meadow",
+    "note": "The green of the Delectable Mountains from the Pilgrim's Progress the sisters play at, and of the Concord fields and groves that surround the March house. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "jo": {
+      "name": "Jo March",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "scarlet"
+    },
+    "beth": {
+      "name": "Beth March",
+      "color": "#2E5064",
+      "colorSourceQuote": "big blue eyes"
+    },
+    "amy": {
+      "name": "Amy March",
+      "color": "#8A6A12",
+      "colorSourceQuote": "golden hair"
+    }
   }
 }

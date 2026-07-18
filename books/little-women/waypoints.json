@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "the-march-house-orchard-house",
+    "name": "The March house (Orchard House), Concord",
+    "progressLabel": "Chapter 1, Playing Pilgrims",
+    "character": "jo",
+    "coords": [-71.3312, 42.4639],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The book never names the town, and the March parlour is a fiction, but Alcott drew the poor, contented March household from her own family and set it on her real home. Orchard House on Lexington Road, where she wrote Little Women, is now a museum; the pin marks it.",
+    "quoteAnchor": "The four young faces on which the firelight shone",
+    "passage": "The four young faces on which the firelight shone brightened at the cheerful words, but darkened again as Jo said sadly, “We haven’t got Father, and shall not have him for a long time.”",
+    "note": "The novel opens on the four sisters round the hearth, poor but together, the winter their father is away at the war. The scene is invented, but Alcott built it on the house she knew best, the brown clapboard Orchard House in Concord where she lived and wrote the book.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 1, Playing Pilgrims",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Orchard House, 399 Lexington Road, Concord, Massachusetts, the Alcott family home and museum",
+        "url": "https://louisamayalcott.org/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-town-of-concord",
+    "name": "The town of Concord",
+    "progressLabel": "Chapter 5, Being Neighborly",
+    "character": "jo",
+    "coords": [-71.3489, 42.4604],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Alcott calls the setting only 'the city' and its suburb; she never writes 'Concord'. But the country-like town of groves and quiet streets is the Concord she lived in, home also to Emerson and Thoreau. The pin marks the town centre at Monument Square.",
+    "quoteAnchor": "Both stood in a suburb of the city, which was still country-like",
+    "passage": "Now, the garden separated the Marches’ house from that of Mr. Laurence. Both stood in a suburb of the city, which was still country-like, with groves and lawns, large gardens, and quiet streets.",
+    "note": "The March and Laurence houses sit side by side in a half-rural suburb, groves and lawns and quiet streets running out to open country. Alcott is describing Concord, the small Massachusetts town where she wrote the book and where her neighbours included Emerson and Thoreau.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 5, Being Neighborly",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Concord, Massachusetts, town centre and Monument Square",
+        "url": "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-laurence-house-next-door",
+    "name": "The Laurence house next door",
+    "progressLabel": "Chapter 5, Being Neighborly",
+    "character": "jo",
+    "coords": [-71.3306, 42.464],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Laurence mansion is Alcott's invention, but she placed it exactly where a real house stood, over the hedge from Orchard House. The pin marks the neighbouring lot; the coordinate is approximate, next to the verified Orchard House site.",
+    "quoteAnchor": "this fine house seemed a kind of enchanted palace",
+    "passage": "To Jo’s lively fancy, this fine house seemed a kind of enchanted palace, full of splendors and delights which no one enjoyed.",
+    "note": "Across a low hedge from the shabby March house stands the stately stone Laurence mansion, which Jo dreams of as an enchanted palace and where she will befriend the lonely boy Laurie. Alcott drew it from the real house next door to her own Concord home.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 5, Being Neighborly",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Orchard House and its Concord neighbourhood, Lexington Road",
+        "url": "https://louisamayalcott.org/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-laurence-drawing-room",
+    "name": "The Laurence drawing room (Beth and the piano)",
+    "progressLabel": "Chapter 6, Beth Finds the Palace Beautiful",
+    "character": "beth",
+    "coords": [-71.3305, 42.4641],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The great drawing room and its piano are fiction, set inside the invented Laurence mansion; the mansion in turn stands on the real house next door to Orchard House. The coordinate is approximate, at the neighbouring lot.",
+    "quoteAnchor": "made her way as noiselessly as any mouse to the drawing room where her idol stood",
+    "passage": "Next day, having seen both the old and young gentleman out of the house, Beth, after two or three retreats, fairly got in at the side door, and made her way as noiselessly as any mouse to the drawing room where her idol stood.",
+    "note": "Shy Beth slips into the Laurence mansion to touch the grand piano, and old Mr. Laurence, listening at his study door, quietly gives it to her. The scene of the timid sister and the lonely old man is the emotional heart of the neighbourly friendship between the two houses.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 6, Beth Finds the Palace Beautiful",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Orchard House and its Concord neighbourhood, Lexington Road",
+        "url": "https://louisamayalcott.org/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nice-promenade-des-anglais",
+    "name": "Nice, the Promenade des Anglais (Amy abroad)",
+    "progressLabel": "Chapter 37, New Impressions",
+    "character": "amy",
+    "coords": [7.262, 43.6947],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nice is named in the text and lies on the French Riviera, some 6,000 km from Concord, so it is flagged as an excursion beyond the book's New England setting. The pin marks the Promenade des Anglais Alcott names.",
+    "quoteAnchor": "all the fashionable world at Nice",
+    "passage": "At three o’clock in the afternoon, all the fashionable world at Nice may be seen on the Promenade des Anglais—a charming place, for the wide walk, bordered with palms, flowers, and tropical shrubs, is bounded on one side by the sea, on the other by the grand drive, lined with hotels and villas, while beyond lie orange orchards and the hills.",
+    "note": "Amy, touring Europe with Aunt Carrol, winters at Nice on the Riviera, promenading among the palms and the fashionable crowd where Laurie comes to court her. Alcott, who had travelled abroad as a companion, wrote the real Promenade des Anglais from life.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 37, New Impressions",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "guide",
+        "ref": "Promenade des Anglais, Nice, Alpes-Maritimes, France",
+        "url": "https://en.wikipedia.org/wiki/Promenade_des_Anglais"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "valrosa-above-nice",
+    "name": "Valrosa, above Nice (Amy abroad)",
+    "progressLabel": "Chapter 39, Lazy Laurence",
+    "character": "amy",
+    "coords": [7.251, 43.718],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Valrosa, the rose-covered villa Amy and Laurie drive out to, is Alcott's own naming, set in the hills of roses and olive groves above Nice. The pin marks the Nice hills, an excursion far beyond the book's New England setting; the coordinate is approximate.",
+    "quoteAnchor": "Valrosa well deserved its name",
+    "passage": "Valrosa well deserved its name, for in that climate of perpetual summer roses blossomed everywhere.",
+    "note": "Amy and Laurie drive out from Nice to Valrosa, a villa smothered in roses above the Mediterranean, where his idle courtship of her comes to a head. Alcott places the rose-valley in the real Riviera hills of olive groves and the white-walled city on its shore.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Little Women, Chapter 39, Lazy Laurence",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nice and its hills, Alpes-Maritimes, French Riviera",
+        "url": "https://en.wikipedia.org/wiki/Nice"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
