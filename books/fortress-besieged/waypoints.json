@@ -1,0 +1,108 @@
+[
+  {
+    "id": "shanghai-return",
+    "name": "Shanghai (the return)",
+    "progressLabel": "Chapter 1",
+    "character": "fang-hongjian",
+    "coords": [121.49, 31.24],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fang Hongjian sails home to Shanghai from Europe, and the real city, its harbour and its Westernised society, is where the novel's comedy of manners begins.",
+    "reference": "Chapters 1-2",
+    "order": 1,
+    "note": "Returning with a fraudulent doctorate bought by mail, the weak, clever, self-deceiving Fang steps back into a Shanghai of anxious families, matchmakers and Western airs. The city's mix of pretension and appetite is the arena in which his aimless drift toward the wrong marriage begins.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Shanghai in the 1930s",
+        "url": "https://en.wikipedia.org/wiki/History_of_Shanghai"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fortress Besieged, Wikipedia, on Fang Hongjian",
+        "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanghai-salon-su",
+    "name": "Shanghai society (Miss Su)",
+    "progressLabel": "Chapter 2",
+    "character": "su-wenwan",
+    "coords": [121.46, 31.215],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The elegant, calculating Miss Su holds court in the salons of the Shanghai foreign concessions, part of the returned-student society the novel skewers; sited in the real French Concession quarter.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "The polished Miss Su, a genuine doctorate to Fang's fake one, angles to marry him, and he lacks the nerve either to accept or to refuse cleanly. Qian uses the drawing-room manoeuvres of this cosmopolitan Shanghai to expose the vanity and cowardice under its Western polish.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fortress Besieged, Wikipedia, on Miss Su",
+        "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanghai-tang",
+    "name": "Shanghai (Miss Tang)",
+    "progressLabel": "Chapter 3",
+    "character": "tang-xiaofu",
+    "coords": [121.445, 31.225],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fang falls for Miss Su's fresh young cousin Miss Tang amid the parks and streets of Shanghai; sited in the real central city where the romance blooms and fails.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "In the one true feeling of the book, Fang loves the frank, unspoiled Miss Tang, only to lose her through his own weakness and Miss Su's spite. The failure sends him, humiliated, to take a teaching post far in the interior, the first fortress he flees rather than wins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fortress Besieged, Wikipedia, on Miss Tang",
+        "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sanlu-university",
+    "name": "The journey to Sanlü University",
+    "progressLabel": "Chapters 5-7",
+    "character": "sun-roujia",
+    "coords": [111.0, 27.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Fang and his colleagues make a long, farcical wartime journey inland to the shabby Sanlü University; the university is invented and sited in the real provincial interior of southern China, far from Shanghai.",
+    "reference": "Chapters 5-7",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "The miserable trek to the third-rate university in the interior, all bad roads, worse inns and petty academic intrigue, is the book's central comic set-piece. Thrown together on the way with Miss Sun, Fang slides, half against his will, toward the marriage that will become his tightest fortress.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fortress Besieged, Wikipedia, on the journey and Sanlü University",
+        "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanghai-besieged-marriage",
+    "name": "Shanghai (the besieged marriage)",
+    "progressLabel": "Chapters 8-9",
+    "character": "fang-hongjian",
+    "coords": [121.47, 31.23],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fang and Miss Sun return married to Shanghai, where the marriage sours into the besieged fortress of the title; sited back in the real city where the book began and ends.",
+    "reference": "Chapters 8-9",
+    "order": 5,
+    "note": "Back in Shanghai, the marriage curdles into bickering, jealousy and mutual disappointment, the perfect illustration of Qian's borrowed image: marriage as a besieged fortress, those outside longing to get in, those inside longing to get out. The book ends on Fang alone with a stopped clock, his every ambition quietly defeated.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fortress Besieged, Wikipedia, on the marriage and the ending",
+        "url": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

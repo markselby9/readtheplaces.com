@@ -1,0 +1,46 @@
+{
+  "id": "fortress-besieged",
+  "title": "Fortress Besieged",
+  "author": "Qian Zhongshu",
+  "published": 1947,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [121.47, 31.23],
+  "zoom": 12,
+  "setting": {
+    "city": "Shanghai",
+    "country": "CN",
+    "note": "Qian Zhongshu's great comic novel follows Fang Hongjian, home from Europe with a bought diploma, through the pretensions of 1930s Shanghai society, a farcical journey to a shabby university in the interior, and a marriage that proves the book's famous image: a besieged fortress, which those outside want to storm and those inside want to escape. The city anchors it, its returning ships, salons and matchmaking, before the long trek inland and the disillusioned return.",
+    "bbox": [121.42, 31.19, 121.52, 31.26]
+  },
+  "rights": {
+    "originalWork": "In copyright. Qian Zhongshu, first published 1947 (Weicheng). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Fortress_Besieged",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Fortress Besieged, Qian Zhongshu (1947). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey irony of the besieged fortress, the disillusion that settles over every ambition and marriage in the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "fang-hongjian": {
+      "name": "Fang Hongjian",
+      "color": "#8A6A12"
+    },
+    "su-wenwan": {
+      "name": "Miss Su",
+      "color": "#8A2B1E"
+    },
+    "tang-xiaofu": {
+      "name": "Miss Tang",
+      "color": "#2E6B4A"
+    },
+    "sun-roujia": {
+      "name": "Miss Sun",
+      "color": "#6B3B5A"
+    }
+  }
+}

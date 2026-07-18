@@ -1,0 +1,46 @@
+{
+  "id": "a-brief-history-of-seven-killings",
+  "title": "A Brief History of Seven Killings",
+  "author": "Marlon James",
+  "published": 2014,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-76.79, 17.99],
+  "zoom": 12,
+  "setting": {
+    "city": "Kingston",
+    "country": "JM",
+    "note": "Marlon James's many-voiced novel turns on the 1976 attempt on the life of the reggae singer Bob Marley, the Singer, two days before a peace concert, and the political gang warfare of Kingston that lies behind it. The real city is its ground: the Singer's house on Hope Road where the gunmen strike, the ghetto garrisons of West Kingston tied to the rival parties, and the concert in the park; the story later follows the dons and their trade north to New York.",
+    "bbox": [-76.83, 17.95, -76.75, 18.04]
+  },
+  "rights": {
+    "originalWork": "In copyright. Marlon James, first published 2014. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Brief History of Seven Killings, Marlon James (2014). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the gun violence and the tribal politics that run through Kingston in the book, the blood behind the music. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "josey-wales": {
+      "name": "Josey Wales",
+      "color": "#4A4A4A"
+    },
+    "papa-lo": {
+      "name": "Papa-Lo",
+      "color": "#8A6A12"
+    },
+    "nina": {
+      "name": "Nina Burgess",
+      "color": "#2E5064"
+    },
+    "bam-bam": {
+      "name": "Bam-Bam",
+      "color": "#2E6B4A"
+    }
+  }
+}

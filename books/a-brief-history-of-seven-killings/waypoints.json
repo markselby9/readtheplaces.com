@@ -1,0 +1,118 @@
+[
+  {
+    "id": "hope-road-attack",
+    "name": "Hope Road (the Singer's house)",
+    "progressLabel": "December 3, 1976",
+    "character": "bam-bam",
+    "coords": [-76.783, 18.021],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The central event is the gun attack on the Singer at his house on Hope Road, drawn from the real 1976 attempt on Bob Marley's life at 56 Hope Road in Kingston, now the Bob Marley Museum.",
+    "reference": "December 3, 1976",
+    "order": 1,
+    "note": "A carful of young gunmen, among them the doomed Bam-Bam, shoot up the Singer's house on Hope Road two nights before a peace concert, wounding him and others. James spins the whole novel out from this real, half-explained attack, using its many possible tellers to anatomise a whole society's violence.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "56 Hope Road and the 1976 attempt on Bob Marley",
+        "url": "https://en.wikipedia.org/wiki/Bob_Marley"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Brief History of Seven Killings, Wikipedia, on the attack",
+        "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "west-kingston-garrison",
+    "name": "West Kingston (the garrison)",
+    "progressLabel": "The ghetto",
+    "character": "papa-lo",
+    "coords": [-76.805, 17.98],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The gunmen come from the ghetto garrisons of West Kingston, drawn from real areas like Trench Town and the political strongholds tied to the two parties; the novel's Copenhagen City is sited in that world.",
+    "reference": "The ghetto chapters",
+    "order": 2,
+    "note": "In the shantytown fiefdom the aging don Papa-Lo rules by a code that the ruthless Josey Wales is outgrowing, and the parties arm the gangs that terrorise and turn out the vote. The garrison, its yards and zinc fences and allegiances, is the engine room of the violence the whole book maps.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Trench Town and West Kingston",
+        "url": "https://en.wikipedia.org/wiki/Trench_Town"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Brief History of Seven Killings, Wikipedia, on the Kingston gangs",
+        "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "smile-jamaica-concert",
+    "name": "The Smile Jamaica concert",
+    "progressLabel": "December 5, 1976",
+    "character": "nina",
+    "coords": [-76.785, 17.995],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Two days after being shot, the Singer performed at the free Smile Jamaica concert in a Kingston park, a real event; the novel sites its crowd and its fear at that concert.",
+    "reference": "December 5, 1976",
+    "order": 3,
+    "note": "Wounded and afraid, the Singer plays the peace concert anyway before a vast, uneasy crowd, and the civilian Nina Burgess, who once slept with him and now just wants out of Jamaica, watches from the edge of it. Through ordinary witnesses like her, James measures the cost of the gunmen's wars on people trying only to survive them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Smile Jamaica Concert, 1976",
+        "url": "https://en.wikipedia.org/wiki/Smile_Jamaica_Concert"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Brief History of Seven Killings, Wikipedia, on Nina Burgess",
+        "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-kingston-war",
+    "name": "Downtown Kingston (the gang war)",
+    "progressLabel": "The war",
+    "character": "josey-wales",
+    "coords": [-76.793, 17.97],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The tribal war between the parties' enforcers spreads through downtown Kingston and the ghettos; sited in the real central city where the political gang violence of the era was concentrated.",
+    "reference": "The war chapters",
+    "order": 4,
+    "note": "As Josey Wales seizes power and ties the gangs to the CIA-shadowed politics of the Cold War and the coming cocaine trade, the city turns into a battlefield. James follows the killings outward from Kingston into an international web of drugs, spies and revenge that will run for decades.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Brief History of Seven Killings, Wikipedia, on Josey Wales and the war",
+        "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "new-york-trade",
+    "name": "New York (the trade)",
+    "progressLabel": "The 1980s",
+    "character": "josey-wales",
+    "coords": [-73.95, 40.65],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The later sections follow the Jamaican dons and their crack-cocaine networks to New York; the real city is where the story's violence relocates, far outside the Kingston setting.",
+    "reference": "The New York chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "By the 1980s the war has moved north, into the crack trade of New York, where Kingston gunmen become American dons and the old scores are still being settled. The move to New York lets James turn a Jamaican story into a hemispheric one, the seven killings of the title multiplying across borders and years.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Brief History of Seven Killings, Wikipedia, on the New York sections",
+        "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
