@@ -1,0 +1,46 @@
+{
+  "id": "doctor-glas",
+  "title": "Doctor Glas",
+  "author": "Hjalmar Söderberg",
+  "published": 1905,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [18.08, 59.328],
+  "zoom": 13,
+  "setting": {
+    "city": "Stockholm",
+    "country": "SE",
+    "note": "A lonely Stockholm physician keeps a diary through one bright summer as he comes to contemplate murder: to free a young woman, Helga, from the repulsive husband, Pastor Gregorius, who forces himself on her. Söderberg's city is exact and atmospheric: the doctor's consulting rooms in the centre, the Old Town church where the pastor serves, the park island of Djurgården where Glas broods on his walks, and the palace waterfront under the endless northern light.",
+    "bbox": [18.04, 59.315, 18.13, 59.34]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Swedish (Hjalmar Söderberg, 1905) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Doctor_Glas",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Doctor Glas, Hjalmar Söderberg (1905). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cool northern blue of Stockholm's light summer nights, against which the doctor's detachment and his dark deliberation stand out. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "glas": {
+      "name": "Doctor Glas",
+      "color": "#4A4A4A"
+    },
+    "gregorius": {
+      "name": "Pastor Gregorius",
+      "color": "#8A3B1E"
+    },
+    "helga": {
+      "name": "Helga Gregorius",
+      "color": "#8A2B1E"
+    },
+    "recke": {
+      "name": "Klas Recke",
+      "color": "#8A6A12"
+    }
+  }
+}

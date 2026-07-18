@@ -1,0 +1,117 @@
+[
+  {
+    "id": "glas-consulting-rooms",
+    "name": "Doctor Glas's consulting rooms",
+    "progressLabel": "The diary",
+    "character": "glas",
+    "coords": [18.07, 59.329],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Glas keeps his diary and sees patients from consulting rooms in central Stockholm; the specific address is invented and sited in the city centre where such practices stood.",
+    "reference": "Framing diary",
+    "order": 1,
+    "note": "The whole novel is the diary Glas writes here through a Stockholm summer, a cultivated, isolated man turning over questions of love, death and his own emptiness. When Helga Gregorius comes to him for help against her husband, the abstract musings of a lonely doctor begin to harden into a plan.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Doctor Glas, Wikipedia, on the narrator and the diary form",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Glas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-town-church",
+    "name": "The Old Town church (Pastor Gregorius)",
+    "progressLabel": "Chapter 2",
+    "character": "gregorius",
+    "coords": [18.071, 59.3255],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pastor Gregorius serves at a church in Stockholm's Old Town, Gamla Stan, the real medieval island quarter dominated by the great church of Storkyrkan beside the palace.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "The pastor is a pillar of the Old Town's respectable religion and a monster in his own home, using scripture and his rights as a husband to torment the young wife who cannot bear his touch. Glas's disgust at him, physical and moral, is the engine that turns thought toward murder.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gamla Stan (Old Town) and Storkyrkan, Stockholm",
+        "url": "https://en.wikipedia.org/wiki/Gamla_stan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Doctor Glas, Wikipedia, on Pastor Gregorius",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Glas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "djurgarden-walks",
+    "name": "Djurgården (the walks)",
+    "progressLabel": "The summer",
+    "character": "glas",
+    "coords": [18.115, 59.326],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Glas takes long brooding walks on Djurgården, the real royal park island of Stockholm, where much of his summer reflection and moral deliberation unfolds.",
+    "reference": "The summer chapters",
+    "order": 3,
+    "note": "On the green paths of Djurgården, under the pale light of the northern summer, Glas circles his obsession, weighing whether a good act can be done by an evil means. Söderberg makes the beautiful, ordinary park the stage for one of literature's coldest interior arguments for murder.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Djurgården, Stockholm",
+        "url": "https://en.wikipedia.org/wiki/Djurg%C3%A5rden"
+      },
+      {
+        "kind": "guide",
+        "ref": "Doctor Glas, Wikipedia, on the Stockholm setting",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Glas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palace-waterfront",
+    "name": "The palace waterfront",
+    "progressLabel": "The summer",
+    "character": "helga",
+    "coords": [18.073, 59.327],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The waterfront by the Royal Palace and Strömparterren, at the edge of the Old Town, is part of the summer city through which the novel's meetings and longings move; sited at the real palace quay.",
+    "reference": "The summer chapters",
+    "order": 4,
+    "note": "It is for Helga, and for the lover Klas Recke she truly wants, that Glas tells himself he acts, though his own thwarted feeling for her shadows every page. The bright, watery centre of Stockholm, all bridges and quays, holds the ordinary happiness Glas watches others reach for and cannot grasp.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Doctor Glas, Wikipedia, on Helga and the plot",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Glas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grand-hotel-terrace",
+    "name": "The Grand Hotel terrace",
+    "progressLabel": "The decision",
+    "character": "recke",
+    "coords": [18.076, 59.33],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The cafés and hotel terraces of central Stockholm, such as the Grand Hotel on Blasieholmen, belong to the summer social world of the novel; sited at that real waterfront quarter.",
+    "reference": "The later chapters",
+    "order": 5,
+    "note": "In the café society of the summer city, Glas watches Helga's love for Klas Recke and measures his own decision to act against the shabby ordinariness of other people's lives. When he finally hands the pastor a fatal pill, the deed is done as coolly as it was imagined, and it brings him no peace at all.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Grand Hôtel, Stockholm",
+        "url": "https://en.wikipedia.org/wiki/Grand_H%C3%B4tel_(Stockholm)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Doctor Glas, Wikipedia, on the resolution",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Glas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

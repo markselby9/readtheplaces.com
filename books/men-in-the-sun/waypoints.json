@@ -1,0 +1,119 @@
+[
+  {
+    "id": "basra-smugglers-quarter",
+    "name": "Basra (the smugglers' quarter)",
+    "progressLabel": "Chapter 1",
+    "character": "abu-qais",
+    "coords": [47.7804, 30.5085],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The three men come to Basra, the real southern Iraqi port city, and haggle in its back streets for passage to Kuwait; the city is where the smuggling arrangements are made.",
+    "reference": "Chapters 1-3",
+    "order": 1,
+    "note": "In the heat and squalor of Basra, each man arrives from the Palestinian camps with the same hope of reaching wealthy Kuwait and sending money home. The old Abu Qais, remembering the olive trees he lost in 1948, is the first of the three the book follows to the fatal bargain with the driver.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Basra, Iraq",
+        "url": "https://en.wikipedia.org/wiki/Basra"
+      },
+      {
+        "kind": "guide",
+        "ref": "Men in the Sun, Wikipedia, on the Basra setting and the three men",
+        "url": "https://en.wikipedia.org/wiki/Men_in_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "desert-road-lorry",
+    "name": "The desert road (the water lorry)",
+    "progressLabel": "Chapter 4",
+    "character": "assad",
+    "coords": [47.75, 30.3],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The men are driven south from Basra toward the border in the empty water tank of a lorry across the open desert; sited on the real road running south out of Basra.",
+    "reference": "Chapter 4",
+    "order": 2,
+    "note": "The bitter young Assad, who has already been cheated once on this road, climbs with the others into the scorching steel tank each time they near a checkpoint. The desert crossing, the tank heating in the sun, sets the unbearable clock the rest of the story runs against.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Men in the Sun, Wikipedia, on the journey and Assad",
+        "url": "https://en.wikipedia.org/wiki/Men_in_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "safwan-border",
+    "name": "Safwan (the Iraq–Kuwait border)",
+    "progressLabel": "Chapter 5",
+    "character": "marwan",
+    "coords": [47.718, 30.112],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The lorry passes the frontier at Safwan, the real Iraqi border town on the road to Kuwait, where the men must hide in the tank while the driver clears the formalities.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "note": "At the first border post the boy Marwan, who has taken on the journey to support his family, hides sweating in the tank as the driver talks his way through. The system of documents and bribes that governs the frontier is the bureaucratic face of the trap closing on all three.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Safwan, Iraq",
+        "url": "https://en.wikipedia.org/wiki/Safwan,_Iraq"
+      },
+      {
+        "kind": "guide",
+        "ref": "Men in the Sun, Wikipedia, on the border and Marwan",
+        "url": "https://en.wikipedia.org/wiki/Men_in_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kuwait-checkpoint",
+    "name": "The Kuwait checkpoint (the delay)",
+    "progressLabel": "Chapter 6",
+    "character": "abul-khaizuran",
+    "coords": [47.7, 29.98],
+    "placeCertainty": "inferred",
+    "certaintyNote": "At the Kuwaiti border post the driver is held up in idle conversation while the men suffocate in the tank; sited at the real frontier crossing just inside Kuwait, the exact office unrecorded.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "At the last checkpoint the driver Abul Khaizuran, himself unmanned by a war wound, is detained by border guards joking about his supposed conquests, minutes that stretch fatally long. While he trades banter in the shade, the three men die in the sun-heated tank a few metres away.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Men in the Sun, Wikipedia, on the checkpoint delay",
+        "url": "https://en.wikipedia.org/wiki/Men_in_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kuwait-city",
+    "name": "Kuwait City",
+    "progressLabel": "Chapter 6",
+    "character": "abul-khaizuran",
+    "coords": [47.9774, 29.3759],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kuwait City, the oil-rich destination the men never reach alive, is the real capital where the driver finally discovers them dead and dumps their bodies; sited in the city beyond the border, outside the Basra setting.",
+    "reference": "Chapter 6",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Reaching Kuwait, Abul Khaizuran opens the tank to find all three dead, and, after stripping their bodies of valuables, leaves them on a rubbish heap. His anguished question, why they did not beat on the walls of the tank, is Kanafani's cry about a people dying in silence rather than fighting for their lives.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kuwait City",
+        "url": "https://en.wikipedia.org/wiki/Kuwait_City"
+      },
+      {
+        "kind": "guide",
+        "ref": "Men in the Sun, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Men_in_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

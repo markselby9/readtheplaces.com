@@ -1,0 +1,46 @@
+{
+  "id": "men-in-the-sun",
+  "title": "Men in the Sun",
+  "author": "Ghassan Kanafani",
+  "published": 1963,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [47.75, 30.35],
+  "zoom": 9,
+  "setting": {
+    "city": "Basra",
+    "country": "IQ",
+    "note": "Three Palestinian refugees of different generations, the old Abu Qais, the bitter young Assad and the boy Marwan, gather in Basra and pay a driver, Abul Khaizuran, to smuggle them into oil-rich Kuwait hidden in the empty water tank of his lorry. Kanafani's route is real and merciless: the smugglers' quarter of Basra, the desert road south, the border at Safwan, and Kuwait just beyond, where the men bake to death in the tank during a fatal delay at the checkpoint.",
+    "bbox": [47.68, 30.05, 47.82, 30.55]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ghassan Kanafani, first published 1963 (Rijal fi al-shams). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Men_in_the_Sun",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Men in the Sun, Ghassan Kanafani (1963). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The merciless gold of the sun that bakes the men to death in the steel tank, the title's killing light. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "abu-qais": {
+      "name": "Abu Qais",
+      "color": "#4A4A4A"
+    },
+    "assad": {
+      "name": "Assad",
+      "color": "#8A2B1E"
+    },
+    "marwan": {
+      "name": "Marwan",
+      "color": "#2E5064"
+    },
+    "abul-khaizuran": {
+      "name": "Abul Khaizuran",
+      "color": "#6B3B5A"
+    }
+  }
+}
