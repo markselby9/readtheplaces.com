@@ -1,0 +1,42 @@
+{
+  "id": "hamnet",
+  "title": "Hamnet",
+  "author": "Maggie O'Farrell",
+  "published": 2020,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.717, 52.19],
+  "zoom": 13,
+  "setting": {
+    "city": "Stratford-upon-Avon",
+    "country": "GB",
+    "note": "A retelling of the death of Shakespeare's son, told through his wife Agnes, the herbalist and healer at the centre of the family. The map stays in 1590s Warwickshire: the glover's house on Henley Street where the young family lives in a cramped apartment, the farm at Shottery where Agnes grew up among bees and woodland, the church by the Avon where the boy is buried, and the chapel and grammar school of the town. London, where the father disappears to work in the playhouses, runs alongside as a scene outside the setting.",
+    "bbox": [-1.75, 52.17, -1.68, 52.21]
+  },
+  "rights": {
+    "originalWork": "In copyright. Maggie O'Farrell, first published 2020. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Hamnet_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Hamnet, Maggie O'Farrell (2020). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of Agnes's world: the woodland at Shottery, her herbs and her beehives. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "agnes": {
+      "name": "Agnes (Anne Hathaway)",
+      "color": "#2E5064"
+    },
+    "hamnet": {
+      "name": "Hamnet",
+      "color": "#8A2B1E"
+    },
+    "will": {
+      "name": "The father (Will)",
+      "color": "#4A4A4A"
+    }
+  }
+}

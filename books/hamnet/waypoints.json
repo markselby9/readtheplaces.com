@@ -1,0 +1,148 @@
+[
+  {
+    "id": "henley-street-house",
+    "name": "The Henley Street house (Shakespeare's Birthplace)",
+    "progressLabel": "Part 1",
+    "character": "hamnet",
+    "coords": [-1.7073, 52.1942],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's family home is the glover John Shakespeare's house on Henley Street, the building preserved today as Shakespeare's Birthplace; sited at that house in the town centre.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "The book opens with a boy running through his grandfather's house on Henley Street looking for help, because his twin sister has fallen ill. The family lives in a narrow apartment attached to the glover's workshop and dwelling, and the house's rooms, yard and passages become the stage for the illness that drives the story.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Shakespeare's Birthplace, Shakespeare Birthplace Trust, on the Henley Street house",
+        "url": "https://www.shakespeare.org.uk/visit/shakespeares-birthplace/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hamnet (novel), Wikipedia, on the Stratford setting",
+        "url": "https://en.wikipedia.org/wiki/Hamnet_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hewlands-farm-shottery",
+    "name": "Hewlands farm, Shottery (Anne Hathaway's Cottage)",
+    "progressLabel": "Part 1",
+    "character": "agnes",
+    "coords": [-1.7305, 52.1878],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Agnes grows up at the Hathaway family farm at Shottery, the farmhouse now known as Anne Hathaway's Cottage; sited at that house on the western edge of town.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "Agnes is raised on a working farm in the hamlet of Shottery, just outside the town, where she keeps bees, gathers plants from the neighbouring woodland and earns a reputation as a healer. The farm and its forest are where she and the young Latin tutor first meet, and the emotional root of the novel is planted here.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Anne Hathaway's Cottage, Shakespeare Birthplace Trust, on the Hathaway farm at Shottery",
+        "url": "https://www.shakespeare.org.uk/visit/anne-hathaways-cottage/"
+      },
+      {
+        "kind": "guide",
+        "ref": "Anne Hathaway's Cottage, Wikipedia, for the farmhouse's location in Shottery",
+        "url": "https://en.wikipedia.org/wiki/Anne_Hathaway%27s_Cottage"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "holy-trinity-church",
+    "name": "Holy Trinity Church",
+    "progressLabel": "Part 2",
+    "character": "hamnet",
+    "coords": [-1.708, 52.1876],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Holy Trinity Church, on the bank of the Avon, is the parish church where Hamnet Shakespeare was buried in 1596 (and Shakespeare himself later); sited at the church.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "The riverside church of Holy Trinity holds the story's centre of gravity: the funeral and burial of the boy. O'Farrell imagines the family's grief around the real parish church by the Avon, the same ground where the playwright would be laid decades afterward, which gives the scene its weight of history.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Holy Trinity Church, Stratford-upon-Avon, Wikipedia, for the church's location and burials",
+        "url": "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Stratford-upon-Avon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "guild-chapel-grammar-school",
+    "name": "The Guild Chapel and grammar school",
+    "progressLabel": "Part 1",
+    "character": "hamnet",
+    "coords": [-1.7077, 52.1905],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Guild Chapel and the adjoining King Edward VI grammar school stand on Church Street; the school is where a glover's sons would have learned their Latin. Sited at the chapel and schoolhouse.",
+    "reference": "Part 1",
+    "order": 4,
+    "note": "On Church Street stand the Guild Chapel and the town's grammar school, where the boys of Stratford's tradesmen were drilled in Latin. The novel draws on this world of schoolrooms and tutoring to explain how a glover's son came by his learning, and how a young Latin tutor comes to be teaching at Hewlands farm at all.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Guild Chapel of the Holy Cross, British Listed Buildings, for the Church Street location",
+        "url": "https://britishlistedbuildings.co.uk/101204554-guild-chapel-of-the-holy-cross-stratford-upon-avon"
+      },
+      {
+        "kind": "guide",
+        "ref": "King Edward VI School, Stratford-upon-Avon, Wikipedia, on the grammar school by the Guild Chapel",
+        "url": "https://en.wikipedia.org/wiki/King_Edward_VI_School,_Stratford-upon-Avon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "market-square-stratford",
+    "name": "The market square, Stratford",
+    "progressLabel": "Part 1",
+    "character": "agnes",
+    "coords": [-1.7095, 52.1919],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Stratford has held a charter market since 1196, traded at the Market Place in Rother Street; sited at the market place by the American Fountain. The exact stall positions of a 1590s market are not recorded, so the pin marks the historic marketplace.",
+    "reference": "Part 1",
+    "order": 5,
+    "note": "The life of the town runs through its market, where a glover would sell his wares and a household would buy what it could not make. O'Farrell fills the streets and stalls with the ordinary commerce of Elizabethan Stratford, the everyday world against which the family's private catastrophe unfolds.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Site of Market Cross in Rother Street, Our Warwickshire, on the historic marketplace",
+        "url": "https://www.ourwarwickshire.org.uk/content/catalogue_her/site-of-market-cross-in-rother-street"
+      },
+      {
+        "kind": "guide",
+        "ref": "Stratford-upon-Avon, Wikipedia, on the town's chartered market",
+        "url": "https://en.wikipedia.org/wiki/Stratford-upon-Avon"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "london-playhouses",
+    "name": "The London playhouses",
+    "progressLabel": "Part 2",
+    "character": "will",
+    "coords": [-0.0972, 51.5081],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel never pins the father's London to a single named address; his working world is the city's playhouses. Sited on Bankside, the south-bank theatre district that came to stand for the Elizabethan stage. Outside the Stratford setting by design.",
+    "reference": "Part 2",
+    "order": 6,
+    "note": "While the family lives in Warwickshire, the father is away in London, absorbed in the world of the playhouses that his wife can only imagine. O'Farrell keeps this London deliberately distant and unnamed, the place that pulls him away and where, in the book's closing movement, grief is turned into a play. The pin marks the south-bank theatre district that later became the emblem of that stage.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bankside, Wikipedia, on the Elizabethan south-bank theatre district",
+        "url": "https://en.wikipedia.org/wiki/Bankside"
+      },
+      {
+        "kind": "guide",
+        "ref": "Hamnet (novel), Wikipedia, on the London thread and the play's ending",
+        "url": "https://en.wikipedia.org/wiki/Hamnet_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
