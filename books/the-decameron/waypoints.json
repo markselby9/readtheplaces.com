@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "id": "florence-the-black-death",
+    "name": "Florence: the Black Death",
+    "progressLabel": "Introduction: the plague",
+    "character": "pampinea",
+    "coords": [11.2556, 43.7698],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "into the notable city of Florence, fair over every other of Italy, there came the death-dealing pestilence",
+    "passage": "I say, then, that the years [of the era] of the fruitful Incarnation of the Son of God had attained to the number of one thousand three hundred and forty-eight, when into the notable city of Florence, fair over every other of Italy, there came the death-dealing pestilence, which, through the operation of the heavenly bodies or of our own iniquitous dealings, being sent down upon mankind for our correction by the just wrath of God, had some years before appeared in the parts of the East and after having bereft these latter of an innumerable number of inhabitants, extending without cease from one place to another, had now unhappily spread towards the West.",
+    "note": "Boccaccio opens the frame with the plague of 1348 loose in Florence, the fairest of Italian cities, and gives one of the great eyewitness accounts of the Black Death: the plague-boils, the abandoned dead, the collapse of law and kinship. It is the ground the whole book flees from.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Decameron, Introduction (First Day)",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Florence and the Black Death of 1348, which killed perhaps half the city",
+        "url": "https://en.wikipedia.org/wiki/Black_Death"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santa-maria-novella",
+    "name": "Santa Maria Novella",
+    "progressLabel": "Introduction: the seven ladies",
+    "character": "pampinea",
+    "coords": [11.2493, 43.7746],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "there foregathered in the venerable church of Santa Maria Novella, one Tuesday morning when there was well nigh none else there, seven young ladies",
+    "passage": "I say that,--our city being at this pass, well nigh void of inhabitants,--it chanced (as I afterward heard from a person worthy of credit) that there foregathered in the venerable church of Santa Maria Novella, one Tuesday morning when there was well nigh none else there, seven young ladies, all knit one to another by friendship or neighbourhood or kinship, who had heard divine service in mourning attire, as sorted with such a season.",
+    "note": "In the great Dominican church of Santa Maria Novella, all but empty in the plague, seven young noblewomen meet after Mass. The eldest, whom Boccaccio calls Pampinea, proposes that they leave the dying city for the country. The basilica still stands on its piazza near the western edge of the old city.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Decameron, Introduction (First Day)",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Basilica of Santa Maria Novella, Florence, the Dominican church on the Piazza Santa Maria Novella",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_Novella"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-villa-in-the-hills",
+    "name": "The villa in the hills (toward Fiesole)",
+    "progressLabel": "Day the First: the villa",
+    "character": "dioneo",
+    "coords": [11.3049, 43.7833],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The text fixes the villa only as a palace on a little hill two short miles from Florence, unnamed. The pin sits on Villa di Poggio Gherardo, the fourteenth-century house in the hills toward Fiesole that Janet Ross and Edward Hutton identified as the company's first refuge; Villa Palmieri at San Domenico is the rival candidate. Both are inferences from the two-mile distance and the surviving medieval fabric, not a named place.",
+    "quoteAnchor": "nor had they gone more than two short miles from the city, when they came to the place fore-appointed of them, which was situate on a little hill",
+    "passage": "The ladies, with certain of their waiting-women, and the three young men, with as many of their serving-men, departing Florence, set out upon their way; nor had they gone more than two short miles from the city, when they came to the place fore-appointed of them, which was situate on a little hill, somewhat withdrawn on every side from the high way and full of various shrubs and plants, all green of leafage and pleasant to behold.",
+    "note": "Two miles into the hills that climb toward Fiesole, the ten reach the villa where the first days of storytelling unfold, its courtyard and cold wells and wonder-goodly gardens set against the plague below. Here Dioneo, the merriest of the young men, sets the note of licensed pleasure for the whole retreat.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Decameron, Introduction (First Day)",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Villa di Poggio Gherardo, Fiesole, traditionally identified as the first refuge of Boccaccio's company",
+        "url": "https://it.wikipedia.org/wiki/Villa_di_Poggio_Gherardo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-valley-of-the-ladies",
+    "name": "The Valley of the Ladies",
+    "progressLabel": "Day the Sixth: the Valley",
+    "character": "elisa",
+    "coords": [11.3125, 43.7855],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Valle delle Donne is described minutely but never located: a round plain ringed by six low hills, a mile or so from the villa. Tradition places it in the wooded folds below Fiesole toward Settignano and Maiano, near the Mensola stream under Poggio Gherardo; the pin sits there. It is a real-feeling but idealised valley, inferred from the hills of the frame rather than a mapped site.",
+    "quoteAnchor": "which is called the Ladies' Valley, but have never yet found an occasion of bringing you thither",
+    "passage": "Elisa called the other ladies apart and said to them, \"Since we have been here, I have still wished to carry you to a place very near at hand, whither methinketh none of you hath ever been and which is called the Ladies' Valley, but have never yet found an occasion of bringing you thither unto to-day; wherefore, as the sun is yet high, I doubt not but, an it please you come thither, you will be exceeding well pleased to have been there.\"",
+    "note": "At the close of the Sixth Day, Elisa leads the seven women, without the men, to a secret round valley ringed by six hills, with a clear lakelet at its centre where they bathe. It is Boccaccio's most perfect garden of retreat, a walled Eden a mile from the villa in the Fiesole hills.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Decameron, Conclusion of the Sixth Day",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      {
+        "kind": "heritage",
+        "ref": "La Valle delle Donne, traditionally set in the hills between Florence and Fiesole",
+        "url": "http://www.latoscanadiboccaccio.it/?p=170"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-return-to-florence",
+    "name": "The return to Florence",
+    "progressLabel": "Day the Tenth: the return",
+    "character": "pampinea",
+    "coords": [11.2493, 43.7746],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "returned, under the guidance of their discreet king, to Florence, where the three young men took leave of the seven ladies and leaving them in Santa Maria Novella, whence they had set out",
+    "passage": "As the new day appeared, they arose and the seneschal having already despatched all their gear in advance, they returned, under the guidance of their discreet king, to Florence, where the three young men took leave of the seven ladies and leaving them in Santa Maria Novella, whence they had set out with them, went about their other pleasures, whilst the ladies, whenas it seemed to them time, returned to their houses.",
+    "note": "After ten days and a hundred tales the fortnight ends and the company rides back to Florence, taking leave in the same church of Santa Maria Novella where it first gathered. The frame closes exactly where it opened: the city survived, and the book is done.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Decameron, Conclusion of the Tenth Day",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Basilica of Santa Maria Novella, Florence, where the company gathers and disperses",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_Novella"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

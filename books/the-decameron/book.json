@@ -4,20 +4,43 @@
   "author": "Giovanni Boccaccio",
   "published": 1353,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [11.2556, 43.7698],
   "zoom": 12.5,
   "setting": {
     "city": "Florence",
     "country": "IT",
-    "note": "Ten young Florentines flee the Black Death of 1348 to a villa in the hills above the city and tell a hundred tales. The frame is real Florence and Fiesole, emptied by plague, which is exactly what the historical layer is for.",
+    "note": "The frame of the hundred tales, set in and just outside Florence in the plague year of 1348. The death-dealing pestilence empties the city; seven young ladies meet by chance in the church of Santa Maria Novella and resolve to flee; with three young men they retire two short miles into the hills toward Fiesole, to a villa traditionally identified with Poggio Gherardo; from there they wander to the secluded Valley of the Ladies; and at the end the company returns to Santa Maria Novella, whence it set out. The hundred tales roam all of Europe, but the setting the map fixes is this Florentine frame, the ground of the greatest book of the Italian Middle Ages.",
     "bbox": [11.15, 43.726, 11.339, 43.835]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Giovanni Boccaccio published this in 1353.",
-    "translation": "Translated by john payne. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Giovanni Boccaccio, The Decameron (1353)."
+    "originalWork": "Public domain. Giovanni Boccaccio, written c.1353; the author died in 1375.",
+    "translation": "English translation by John Payne (1886); he died in 1916, so the translation is public domain in the US and UK/EU.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/23700",
+    "territoryNotes": "Public domain in the US and UK/EU: Boccaccio died 1375, Payne 1916.",
+    "attribution": "Giovanni Boccaccio, The Decameron (1353), trans. John Payne. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "vermeil roses",
+    "note": "The vermeil roses of the gardens the ten flee into, set against the red of the pestilence they leave behind. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "pampinea": {
+      "name": "Pampinea",
+      "color": "#2E6B4A",
+      "colorSourceQuote": "laurel crown"
+    },
+    "dioneo": {
+      "name": "Dioneo",
+      "color": "#5A3B8A",
+      "colorSourceQuote": "flowers purpurine"
+    },
+    "elisa": {
+      "name": "Elisa",
+      "color": "#2E5064",
+      "colorSourceQuote": "azure to watchet-colour"
+    }
   }
 }
