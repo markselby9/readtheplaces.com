@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kars-arrival",
+    "name": "Kars (the snowbound city)",
+    "progressLabel": "Chapter 1",
+    "character": "ka",
+    "coords": [43.0975, 40.6013],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ka arrives by bus through a blizzard in Kars, a real provincial city in far north-east Turkey; the whole novel takes place in its snowbound streets over three days.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Ka comes to Kars ostensibly to investigate why so many headscarf-wearing girls have killed themselves, and secretly in hope of a new life with a woman he barely knows. The snow that begins as he arrives cuts the city off from the world, sealing him inside its politics of poverty, Islam and the state.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kars, Turkey",
+        "url": "https://en.wikipedia.org/wiki/Kars"
+      },
+      {
+        "kind": "guide",
+        "ref": "Snow (Pamuk novel), Wikipedia, on the Kars setting",
+        "url": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "snow-palace-hotel",
+    "name": "The Snow Palace Hotel",
+    "progressLabel": "Chapter 2",
+    "character": "ipek",
+    "coords": [43.096, 40.603],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ka lodges at the Snow Palace Hotel, run by the family of İpek, the woman he loves; the hotel is invented and sited in central Kars.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "The hotel where Ka stays is also home to the beautiful İpek and her father and sister, and it becomes the still centre of his three feverish days. His hope of carrying İpek back to a quiet life in Frankfurt is the private thread running under the public catastrophe of the coup.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Snow (Pamuk novel), Wikipedia, on Ka and İpek",
+        "url": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "new-life-pastry-shop",
+    "name": "The New Life Pastry Shop",
+    "progressLabel": "Chapter 5",
+    "character": "blue",
+    "coords": [43.095, 40.6045],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The murder of the director of the education institute, gunned down for enforcing the headscarf ban, takes place in a Kars pastry shop; the shop is invented and sited in the town centre.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "note": "In a small pastry shop an Islamist assassin shoots the education director dead over the banning of headscarves, and the killing, half-overheard by Ka, sets the town's tensions alight. Behind such acts moves the charismatic militant Blue, wanted and hidden somewhere in the snowbound city.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Snow (Pamuk novel), Wikipedia, on the political violence in Kars",
+        "url": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "national-theatre",
+    "name": "The National Theatre",
+    "progressLabel": "Chapter 15",
+    "character": "sunay",
+    "coords": [43.099, 40.602],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The staged coup is launched from the town's theatre during a live-broadcast performance; the theatre is drawn from Kars's real playhouse tradition and sited in the centre of the city.",
+    "reference": "Chapters 15-16",
+    "order": 4,
+    "note": "The ageing actor Sunay Zaim turns a play in the National Theatre into a real coup, soldiers firing live rounds into the audience while the whole snowed-in city watches on television. The night of the theatre coup is the novel's violent hinge, politics and performance fused until no one can tell them apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Snow (Pamuk novel), Wikipedia, on the theatre coup",
+        "url": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kars-armenian-churches",
+    "name": "The Armenian churches of Kars",
+    "progressLabel": "Chapter 10",
+    "character": "ka",
+    "coords": [43.093, 40.6085],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kars holds real medieval Armenian monuments, above all the Church of the Holy Apostles by the castle; they haunt the novel as reminders of the city's erased Armenian and Russian pasts.",
+    "reference": "Chapter 10",
+    "order": 5,
+    "note": "As Ka walks the frozen streets composing poems, the old Armenian churches and Russian mansions of Kars stand as ghosts of everyone who lived here before. The city's layered, half-buried history gives the book its melancholy sense of a place, and a country, arguing endlessly with its own past.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Church of the Holy Apostles, Kars",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Apostles,_Kars"
+      },
+      {
+        "kind": "guide",
+        "ref": "Snow (Pamuk novel), Wikipedia, on Kars and its history",
+        "url": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "snow",
+  "title": "Snow",
+  "author": "Orhan Pamuk",
+  "published": 2002,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [43.097, 40.604],
+  "zoom": 14,
+  "setting": {
+    "city": "Kars",
+    "country": "TR",
+    "note": "The poet Ka comes back from years of exile in Germany to Kars, a poor, half-forgotten city in the far north-east of Turkey near the Armenian border, to report on an epidemic of suicides among devout young women, and is snowed in for three days during which a small theatrical coup convulses the town. The real Kars gives the book its bones: the snowbound streets, the theatre where the coup is broadcast live, the tea houses of the unemployed, and the ruined Armenian churches that speak of a vanished past.",
+    "bbox": [43.084, 40.594, 43.109, 40.616]
+  },
+  "rights": {
+    "originalWork": "In copyright. Orhan Pamuk, first published 2002 (Kar). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Snow, Orhan Pamuk (2002). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue-grey of a city sealed under snow, the weather that gives the book its title and its shape, each of Ka's poems a point on a snowflake. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ka": {
+      "name": "Ka",
+      "color": "#4A4A4A"
+    },
+    "ipek": {
+      "name": "İpek",
+      "color": "#8A2B1E"
+    },
+    "blue": {
+      "name": "Blue",
+      "color": "#5A3B8A"
+    },
+    "sunay": {
+      "name": "Sunay Zaim",
+      "color": "#8A6A12"
+    }
+  }
+}

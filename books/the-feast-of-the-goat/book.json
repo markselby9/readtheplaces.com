@@ -1,0 +1,46 @@
+{
+  "id": "the-feast-of-the-goat",
+  "title": "The Feast of the Goat",
+  "author": "Mario Vargas Llosa",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-69.9, 18.47],
+  "zoom": 12,
+  "setting": {
+    "city": "Santo Domingo",
+    "country": "DO",
+    "note": "The last day of the dictator Rafael Trujillo, who ruled the Dominican Republic for thirty-one years, and the assassination that ends him, braided with the return of Urania Cabral to the city thirty-five years later to face what the regime did to her. The capital, then renamed Ciudad Trujillo, is mapped precisely: the National Palace, the seafront Malecón where the assassins wait, the torture cells of La Cuarenta, and the Mahogany House at San Cristóbal outside town where the Goat took the girls chosen for him.",
+    "bbox": [-69.96, 18.44, -69.86, 18.5]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mario Vargas Llosa, first published 2000 (La Fiesta del Chivo). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Feast of the Goat, Mario Vargas Llosa (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The blood red of a thirty-one-year dictatorship and the day it is cut down. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "trujillo": {
+      "name": "Rafael Trujillo",
+      "color": "#8A6A12"
+    },
+    "urania": {
+      "name": "Urania Cabral",
+      "color": "#2E5064"
+    },
+    "antonio": {
+      "name": "Antonio de la Maza",
+      "color": "#4A4A4A"
+    },
+    "cabral": {
+      "name": "Agustín Cabral",
+      "color": "#6B3B5A"
+    }
+  }
+}
