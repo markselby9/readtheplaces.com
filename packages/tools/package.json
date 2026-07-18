@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "plates": "bun run src/plates.ts",
+    "popularity": "bun run src/popularity.ts",
     "extract": "bun run src/extract.ts",
     "typecheck": "tsc --noEmit",
     "new-book": "bun run src/new-book.ts",

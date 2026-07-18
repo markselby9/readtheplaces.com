@@ -1,0 +1,44 @@
+name: Popularity snapshot
+
+# Refresh each book's Wikipedia-pageview popularity number once a day and commit
+# it. The push redeploys the site, so the "most popular" sort stays current
+# without anyone running the tool by hand. See packages/tools/src/popularity.ts.
+on:
+  schedule:
+    - cron: '17 4 * * *' # daily, 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never let two refreshes race to push.
+concurrency:
+  group: popularity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.2'
+
+      - run: bun install --frozen-lockfile
+
+      - name: Refresh the Wikipedia pageview snapshot
+        run: bun run popularity
+
+      - name: Commit if the numbers moved
+        run: |
+          if git diff --quiet -- apps/web/src/data/popularity.json; then
+            echo 'No change; nothing to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add apps/web/src/data/popularity.json
+          git commit --no-verify -m 'chore(data): refresh Wikipedia popularity snapshot'
+          git push

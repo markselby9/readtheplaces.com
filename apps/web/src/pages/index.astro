@@ -3,10 +3,16 @@ import Base from '../layouts/Base.astro';
 import { accentOf, allBooks, isStub } from '../lib/books';
 import { websiteSchema } from '../lib/structured-data';
 import { slugifyCity } from './places/[city].astro';
+import popularity from '../data/popularity.json';
 
 const books = await allBooks();
 
-const mapped = books.filter((b) => !isStub(b));
+const pop = popularity as Record<string, { article: string; views: number }>;
+const viewsOf = (slug: string) => pop[slug]?.views ?? 0;
+
+// Default order is "most read on Wikipedia", a stand-in for fame. The sort
+// control re-orders client-side; this is what someone without JS sees.
+const mapped = books.filter((b) => !isStub(b)).sort((a, b) => viewsOf(b.slug) - viewsOf(a.slug));
 const open = books.filter(isStub);
 
 const cities = [...new Set(books.map((b) => b.book.setting.city))];
@@ -58,13 +64,29 @@ const schema = [websiteSchema(books.length, cities.length)];
       </p>
 
       <section aria-labelledby="mapped" data-search-section>
-        <h2 id="mapped" class="section">Mapped</h2>
+        <div class="section-head">
+          <h2 id="mapped" class="section">Mapped</h2>
+          <div class="sortbar">
+            <label for="sort">Sort</label>
+            <select id="sort">
+              <option value="popularity">Most read on Wikipedia</option>
+              <option value="places">Most places mapped</option>
+              <option value="newest">Newest</option>
+              <option value="oldest">Oldest</option>
+              <option value="title">A–Z</option>
+            </select>
+          </div>
+        </div>
         <ul class="books">
           {
             mapped.map(({ slug, book, waypoints }) => (
               <li
                 style={`--accent: ${accentOf(book)}`}
                 data-search={`${book.title} ${book.author} ${book.setting.city} ${book.setting.country}`.toLowerCase()}
+                data-popularity={viewsOf(slug)}
+                data-places={waypoints.length}
+                data-year={book.published ?? 0}
+                data-title={book.title.toLowerCase()}
               >
                 <a href={`/${slug}/`}>
                   <span class="meta">
@@ -185,6 +207,27 @@ const schema = [websiteSchema(books.length, cities.length)];
     input.addEventListener('input', apply);
     if (input.value) apply();
   }
+
+  // Re-sort the mapped grid. Server-renders "most read"; this lets the reader
+  // pick another order without a request. Hidden (searched-out) cards move too,
+  // which is harmless.
+  const sortSel = document.getElementById('sort') as HTMLSelectElement | null;
+  const grid = document.querySelector<HTMLElement>('section[aria-labelledby="mapped"] .books');
+  if (sortSel && grid) {
+    const num = (li: HTMLElement, k: string) => Number(li.dataset[k] ?? 0);
+    sortSel.addEventListener('change', () => {
+      const cards = [...grid.children] as HTMLElement[];
+      const k = sortSel.value;
+      cards.sort((a, b) => {
+        if (k === 'title') return a.dataset.title!.localeCompare(b.dataset.title!);
+        if (k === 'oldest') return num(a, 'year') - num(b, 'year');
+        if (k === 'newest') return num(b, 'year') - num(a, 'year');
+        if (k === 'places') return num(b, 'places') - num(a, 'places');
+        return num(b, 'popularity') - num(a, 'popularity');
+      });
+      for (const li of cards) grid.appendChild(li);
+    });
+  }
 </script>
 
 <style>
@@ -203,6 +246,34 @@ const schema = [websiteSchema(books.length, cities.length)];
     margin-block: var(--s8) var(--s4);
     font-size: var(--step-2);
     font-weight: 400;
+  }
+  .section-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--s2) var(--s4);
+  }
+  .sortbar {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+  .sortbar select {
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink);
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0.25rem 0.5rem;
+  }
+  /* No point offering a sort while a search has narrowed the grid. */
+  :global(body.is-searching) .sortbar {
+    display: none;
   }
   .section-note {
     max-width: 40rem;

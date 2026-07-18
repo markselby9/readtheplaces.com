@@ -14,6 +14,7 @@
     "test": "vitest run",
     "e2e": "playwright test",
     "plates": "bun --filter @rtp/tools plates",
+    "popularity": "bun --filter @rtp/tools popularity",
     "extract": "bun --filter @rtp/tools extract",
     "lint": "biome lint .",
     "lint:fix": "biome lint --write .",
