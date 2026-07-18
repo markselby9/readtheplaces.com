@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "id": "saffron-hill-fagins-den",
+    "name": "Saffron Hill: Fagin's den",
+    "progressLabel": "Saffron Hill, Chapter 8",
+    "character": "oliver",
+    "coords": [-0.1048, 51.5178],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Saffron Hill and Field Lane are real streets in the Clerkenwell rookery, named outright in the text; Dickens brings Oliver down them by a route that still traces on the map. The exact house of Fagin's den is invented, so the pin marks the Field Lane end of Saffron Hill where the Dodger takes him in.",
+    "quoteAnchor": "pushed open the door of a house near Field Lane",
+    "passage": "Oliver was just considering whether he hadn’t better run away, when they reached the bottom of the hill. His conductor, catching him by the arm, pushed open the door of a house near Field Lane; and drawing him into the passage, closed it behind them.",
+    "note": "The Artful Dodger walks Oliver in from Islington, down Saffron Hill the Great to a filthy court near Field Lane, and through a low door into Fagin's den. It is Oliver's first sight of the thieves' world, drawn from the real slum Dickens knew crouched behind Holborn.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Oliver Twist, Chapter 8",
+        "url": "https://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Saffron Hill, Clerkenwell, and the vanished Field Lane rookery, London",
+        "url": "https://en.wikipedia.org/wiki/Saffron_Hill"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "clerkenwell-green-the-pocket-picked",
+    "name": "Clerkenwell Green: the pocket picked",
+    "progressLabel": "Clerkenwell Green, Chapter 10",
+    "character": "oliver",
+    "coords": [-0.1054, 51.5229],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "open square in Clerkenwell, which is yet called",
+    "passage": "They were just emerging from a narrow court not far from the open square in Clerkenwell, which is yet called, by some strange perversion of terms, “The Green”: when the Dodger made a sudden stop; and, laying his finger on his lip, drew his companions back again, with the greatest caution and circumspection.",
+    "note": "At the bookstall on Clerkenwell Green the Dodger lifts Mr Brownlow's handkerchief and bolts, leaving Oliver to be seized and cried through the streets as the thief. The Green is a real open square, named in the text, and still there behind the old Sessions House.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Oliver Twist, Chapter 10",
+        "url": "https://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Clerkenwell Green, London Borough of Islington",
+        "url": "https://en.wikipedia.org/wiki/Clerkenwell_Green"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pentonville-mr-brownlows-house",
+    "name": "Pentonville: Mr Brownlow's house",
+    "progressLabel": "Pentonville, Chapter 12",
+    "character": "oliver",
+    "coords": [-0.1149, 51.5321],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Pentonville is a real district north of the City, named in the text as where Mr Brownlow lives, and Oliver later gives it as his address. The particular neat house in a quiet shady street is invented, so the pin marks the Pentonville district rather than a numbered door.",
+    "quoteAnchor": "a neat house, in a quiet shady street near Pentonville",
+    "passage": "Turning a different way when it reached the Angel at Islington, the coach stopped at length before a neat house, in a quiet shady street near Pentonville. Here, a bed was prepared, in which Mr. Brownlow saw his young charge carefully and comfortably deposited.",
+    "note": "Cleared and taken in by the kindly Mr Brownlow, Oliver is carried to his house near Pentonville and nursed through a fever, the first safety he has known. It is the respectable London the thieves will drag him back out of, and the address he blurts to Nancy when she recaptures him.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Oliver Twist, Chapter 12",
+        "url": "https://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "kind": "guide",
+        "ref": "Pentonville, London Borough of Islington",
+        "url": "https://en.wikipedia.org/wiki/Pentonville"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jacobs-island-bermondsey",
+    "name": "Jacob's Island, Bermondsey",
+    "progressLabel": "Jacob's Island, Chapter 50",
+    "character": "sikes",
+    "coords": [-0.0668, 51.5015],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "stands Jacob’s Island, surrounded by a muddy ditch",
+    "passage": "In such a neighborhood, beyond Dockhead in the Borough of Southwark, stands Jacob’s Island, surrounded by a muddy ditch, six or eight feet deep and fifteen or twenty wide when the tide is in, once called Mill Pond, but known in the days of this story as Folly Ditch.",
+    "note": "Bill Sikes, hunted for Nancy's murder, runs to earth in the rotting riverside slum of Jacob's Island and hangs himself by accident from a roof above Folly Ditch as the mob closes in. Dickens named the real Bermondsey rookery so precisely that, when its existence was doubted, he defended it in a preface; it was cleared soon after.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Oliver Twist, Chapter 50",
+        "url": "https://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Jacob's Island, Bermondsey, by St Saviour's Dock, London",
+        "url": "https://en.wikipedia.org/wiki/Jacob%27s_Island"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "newgate-prison",
+    "name": "Newgate Prison",
+    "progressLabel": "Newgate, Chapter 52",
+    "character": "fagin",
+    "coords": [-0.1012, 51.5094],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "Those dreadful walls of Newgate",
+    "passage": "Those dreadful walls of Newgate, which have hidden so much misery and such unspeakable anguish, not only from the eyes, but, too often, and too long, from the thoughts, of men, never held so dread a spectacle as that.",
+    "note": "Condemned to hang, Fagin sits out his last night in the Newgate condemned cell while Oliver and Brownlow come to see him, and the crowd gathers in the street for the scaffold. The prison stood at Newgate Street and the Old Bailey; it was pulled down in 1902 and the Central Criminal Court now covers the site.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Oliver Twist, Chapter 52",
+        "url": "https://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Newgate Prison, corner of Newgate Street and Old Bailey, City of London",
+        "url": "https://en.wikipedia.org/wiki/Newgate_Prison"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -4,20 +4,43 @@
   "author": "Charles Dickens",
   "published": 1838,
   "orderingKey": "chapter",
-  "center": [-0.1278, 51.5074],
+  "sourcing": "sourced",
+  "center": [-0.105, 51.518],
   "zoom": 12.5,
   "setting": {
     "city": "London",
     "country": "GB",
-    "note": "Jacob’s Island, Saffron Hill, Clerkenwell. Dickens was writing about slums that existed and were demolished within his lifetime, which makes the historical map layer do real work.",
-    "bbox": [-0.51, 51.287, 0.334, 51.692]
+    "note": "After an unnamed provincial workhouse, the book comes to London and stays in named ground: Saffron Hill and Field Lane, the real Clerkenwell rookery where Fagin keeps his den; Clerkenwell Green, where the Dodger picks Mr Brownlow's pocket; Pentonville, where Brownlow lives; Newgate, where Fagin is condemned; and Jacob's Island in Bermondsey, the notorious tidal slum Dickens's own footnote insisted was real, where Sikes dies. Most of these were cleared within Dickens's lifetime, which is what the historical map layer is for. The bbox runs from Pentonville down to the Bermondsey riverside.",
+    "bbox": [-0.13, 51.495, -0.055, 51.54]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Charles Dickens published this in 1838.",
+    "originalWork": "Public domain. Charles Dickens, first published 1838; the author died in 1870.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Charles Dickens, Oliver Twist (1838)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/730",
+    "territoryNotes": "Public domain in the United States, and in the United Kingdom and the European Union, where the author died more than 70 years ago (1870).",
+    "attribution": "Charles Dickens, Oliver Twist (1838). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "matted red hair",
+    "note": "The red of Fagin's matted hair, taken straight from his first appearance in the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "oliver": {
+      "name": "Oliver Twist",
+      "color": "#2E5064",
+      "colorSourceQuote": "the sky itself to look more blue"
+    },
+    "fagin": {
+      "name": "Fagin",
+      "color": "#8A6A12",
+      "colorSourceQuote": "his yellow fingers"
+    },
+    "sikes": {
+      "name": "Bill Sikes",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "His face is dark"
+    }
   }
 }
