@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "hydes-door-by-street",
+    "name": "The by-street and Hyde's door (near Soho)",
+    "progressLabel": "Story of the Door",
+    "character": "hyde",
+    "coords": [-0.136, 51.5128],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Stevenson never names the by-street. He sets it in a thriving quarter of shops close to Soho, its clean shop-fronts broken by the blistered side-door through which Hyde comes and goes. The pin marks the Soho fringe, between Golden Square and Soho Square, where such a street would run.",
+    "quoteAnchor": "sinister block of building thrust forward its gable on the street",
+    "passage": "Two doors from one corner, on the left hand going east the line was broken by the entry of a court; and just at that point a certain sinister block of building thrust forward its gable on the street. It was two storeys high; showed no window, nothing but a door on the lower storey and a blind forehead of discoloured wall on the upper. The door, which was equipped with neither bell nor knocker, was blistered and distained.",
+    "note": "The novella opens here. Enfield tells Utterson how he once saw a small man trample a child at this door, then walk in and fetch a cheque signed by a respectable name to buy off the crowd. The door is the ugly back way into the story, and, it turns out, into Dr Jekyll's own house.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Strange Case of Dr Jekyll and Mr Hyde, 'Story of the Door'",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      {
+        "kind": "guide",
+        "ref": "Soho, City of Westminster, London; the busy quarter Stevenson gives the door",
+        "url": "https://en.wikipedia.org/wiki/Soho"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cavendish-square-lanyon",
+    "name": "Cavendish Square: Dr Lanyon",
+    "progressLabel": "Search for Mr Hyde",
+    "character": "utterson",
+    "coords": [-0.145, 51.5165],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cavendish Square is named outright as the home of Dr Lanyon, 'that citadel of medicine'. The exact house is composite, so the pin marks the real West End square.",
+    "quoteAnchor": "the direction of Cavendish Square, that citadel of medicine",
+    "passage": "With that he blew out his candle, put on a greatcoat, and set forth in the direction of Cavendish Square, that citadel of medicine, where his friend, the great Dr. Lanyon, had his house and received his crowding patients.",
+    "note": "Troubled by Jekyll's will, which leaves everything to Hyde, Utterson walks to Cavendish Square to sound out Lanyon, the friend Jekyll fell out with over 'unscientific balderdash'. Lanyon has never heard of Hyde, and it is Lanyon who will later be shocked to death by what he sees.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Strange Case of Dr Jekyll and Mr Hyde, 'Search for Mr Hyde'",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cavendish Square, Marylebone, City of Westminster, London",
+        "url": "https://en.wikipedia.org/wiki/Cavendish_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jekylls-house-square",
+    "name": "Dr Jekyll's house",
+    "progressLabel": "Search for Mr Hyde",
+    "character": "jekyll",
+    "coords": [-0.1372, 51.5117],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Jekyll's front door opens on an unnamed square of once-grand houses 'round the corner from the by-street', the respectable face of the same building as Hyde's door. The pin marks Golden Square, a real handsome Soho square that fits Stevenson's description.",
+    "quoteAnchor": "Round the corner from the by-street, there was a square of ancient",
+    "passage": "Round the corner from the by-street, there was a square of ancient, handsome houses, now for the most part decayed from their high estate and let in flats and chambers to all sorts and conditions of men. One house, however, second from the corner, was still occupied entire; and at the door of this, which wore a great air of wealth and comfort, Mr. Utterson stopped and knocked.",
+    "note": "The whole novella is an argument about a floor plan: this handsome house on the square and the squalid door two streets away are the front and back of one building. Poole the butler admits Utterson to a hall warmed like a country house, but the master is not at home.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Strange Case of Dr Jekyll and Mr Hyde, 'Search for Mr Hyde'",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      {
+        "kind": "guide",
+        "ref": "Golden Square, Soho, City of Westminster, London",
+        "url": "https://en.wikipedia.org/wiki/Golden_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "carew-murder-by-the-river",
+    "name": "By the river: the Carew murder",
+    "progressLabel": "The Carew Murder Case",
+    "character": "hyde",
+    "coords": [-0.124, 51.494],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Stevenson places the killing in a moonlit lane overlooked by a maid's window in a house 'not far from the river'. He names no street, but the riverside quarter is Westminster; the pin marks the Millbank embankment of the Thames.",
+    "quoteAnchor": "maid servant living alone in a house not far from the river",
+    "passage": "A maid servant living alone in a house not far from the river, had gone upstairs to bed about eleven. Although a fog rolled over the city in the small hours, the early part of the night was cloudless, and the lane, which the maid's window overlooked, was brilliantly lit by the full moon.",
+    "note": "From her window a maid watches the aged Sir Danvers Carew stop to speak with a small man, who suddenly clubs him to the ground and tramples him to death. She recognises Mr Hyde. The broken half of the murder weapon ties the crime back to Jekyll, and the hunt for Hyde begins.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Strange Case of Dr Jekyll and Mr Hyde, 'The Carew Murder Case'",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Millbank, riverside Westminster on the Thames, City of Westminster, London",
+        "url": "https://en.wikipedia.org/wiki/Millbank"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "soho-hydes-rooms",
+    "name": "Soho: Hyde's rooms",
+    "progressLabel": "The Carew Murder Case",
+    "character": "hyde",
+    "coords": [-0.1322, 51.5153],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Soho is named as the quarter of Hyde's lodgings, tracked down by the police the morning after the murder. The exact street is not given, so the pin marks Soho Square, at the heart of the district Stevenson names.",
+    "quoteAnchor": "The dismal quarter of Soho seen under these changing glimpses",
+    "passage": "The dismal quarter of Soho seen under these changing glimpses, with its muddy ways, and slatternly passengers, and its lamps, which had never been extinguished or had been kindled afresh to combat this mournful reinvasion of darkness, seemed, in the lawyer's eyes, like a district of some city in a nightmare.",
+    "note": "The morning after the Carew murder, Utterson rides with the police through a brown fog to Hyde's rooms in Soho. They find them ransacked and abandoned: burnt papers on the hearth, the butt of a green cheque book, and the other half of the broken cane. Hyde has fled, and Jekyll's money is behind it all.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Strange Case of Dr Jekyll and Mr Hyde, 'The Carew Murder Case'",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Soho Square, Soho, City of Westminster, London",
+        "url": "https://en.wikipedia.org/wiki/Soho_Square"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
