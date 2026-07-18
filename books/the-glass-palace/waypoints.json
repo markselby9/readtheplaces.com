@@ -1,0 +1,129 @@
+[
+  {
+    "id": "glass-palace-mandalay",
+    "name": "The Glass Palace, Mandalay",
+    "progressLabel": "Part 1",
+    "character": "thebaw",
+    "coords": [96.098, 21.991],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens with the 1885 British storming of the royal palace at Mandalay, whose mirrored hall gives the book its title; the palace is real, and King Thebaw was the last Burmese monarch deposed there.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "British troops take Mandalay and depose King Thebaw and Queen Supayalat, ending the Burmese monarchy and sending the royal family into exile. The looting of the glittering Glass Palace, watched by the orphan boy Rajkumar, is the fall from which the whole three-generation saga unspools.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mandalay Palace and the fall of King Thibaw, 1885",
+        "url": "https://en.wikipedia.org/wiki/Mandalay_Palace"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Glass Palace, Wikipedia, on the opening and King Thebaw",
+        "url": "https://en.wikipedia.org/wiki/The_Glass_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mandalay-rajkumar",
+    "name": "Mandalay (Rajkumar's start)",
+    "progressLabel": "Part 1",
+    "character": "rajkumar",
+    "coords": [96.09, 21.98],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The penniless Indian boy Rajkumar is working at a food stall in Mandalay when the palace falls; the real city is where his rise begins and where he first glimpses the maid Dolly.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "In the chaos of the sacked city, the orphan Rajkumar catches sight of Dolly, a young maidservant to the queen, and never forgets her. From the streets of Mandalay he sets out to make himself, hitching his fortunes to the teak trade that is opening the Burmese forests to empire.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mandalay, Burma",
+        "url": "https://en.wikipedia.org/wiki/Mandalay"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Glass Palace, Wikipedia, on Rajkumar and Dolly",
+        "url": "https://en.wikipedia.org/wiki/The_Glass_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rangoon-teak",
+    "name": "Rangoon (the teak fortune)",
+    "progressLabel": "Part 2",
+    "character": "rajkumar",
+    "coords": [96.1495, 16.8],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Rajkumar builds his fortune in the teak trade out of Rangoon, the real colonial port and capital of British Burma, where much of the family's later life is centred.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "In booming Rangoon, Rajkumar becomes a rich timber merchant, part of the Indian mercantile world that the British Empire spread across Burma. The port city, its docks and its mixed immigrant society, is where the family prospers and where the coming catastrophe of the Second World War will find them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Yangon (Rangoon), Burma",
+        "url": "https://en.wikipedia.org/wiki/Yangon"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Glass Palace, Wikipedia, on Rangoon and the teak trade",
+        "url": "https://en.wikipedia.org/wiki/The_Glass_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ratnagiri-exile",
+    "name": "Ratnagiri (the king's exile)",
+    "progressLabel": "Part 2",
+    "character": "dolly",
+    "coords": [73.3, 16.99],
+    "placeCertainty": "explicit",
+    "certaintyNote": "King Thebaw and his household are exiled to Ratnagiri on the Indian coast, held for decades at Outram House; Ratnagiri is a real town in Maharashtra, far from the Burmese setting.",
+    "reference": "Part 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "At Ratnagiri the deposed royal family lives out a long, shabby captivity, and the maid Dolly grows up in exile there until Rajkumar comes across the sea to find and marry her. The decaying Outram House, and the king staring out to a sea he will never cross again, is the book's image of a dynasty erased.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ratnagiri and the exile of King Thibaw",
+        "url": "https://en.wikipedia.org/wiki/Ratnagiri"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Glass Palace, Wikipedia, on Ratnagiri and Dolly",
+        "url": "https://en.wikipedia.org/wiki/The_Glass_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malaya-rubber",
+    "name": "Malaya (the rubber estates)",
+    "progressLabel": "Part 4",
+    "character": "uma",
+    "coords": [100.5, 5.6],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Later generations of the family are drawn to the rubber estates of British Malaya; the plantations of the Malay peninsula are real, and the novel sites the family's Malayan fortunes there, far outside the Burmese setting.",
+    "reference": "Part 4",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "On the ordered rubber estates of Malaya, the family's next generation prospers until the Japanese invasion of 1941 shatters the whole colonial order across South-East Asia. Through the nationalist Uma and the young soldiers, Ghosh ties the family's private saga to the collapse of empire and the birth of new nations.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rubber plantations of British Malaya",
+        "url": "https://en.wikipedia.org/wiki/Natural_rubber"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Glass Palace, Wikipedia, on Malaya and the war",
+        "url": "https://en.wikipedia.org/wiki/The_Glass_Palace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

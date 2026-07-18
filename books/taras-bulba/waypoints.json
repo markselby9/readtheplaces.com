@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kyiv-academy",
+    "name": "The academy at Kyiv",
+    "progressLabel": "Chapter 1",
+    "character": "ostap",
+    "coords": [30.52, 50.45],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Taras's sons Ostap and Andriy return from the seminary academy in Kyiv, the real city on the Dnipro that was the centre of learning for the Orthodox Cossack world.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Ostap and Andriy come home from the Kyiv academy, one a born fighter, the other softened by learning and dreams, and their father Taras at once resolves to make Cossacks of them by taking them to war. The scholarly city stands for the tamer world the old warrior despises and means to burn out of his boys.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kyiv and the Kyiv-Mohyla Academy",
+        "url": "https://en.wikipedia.org/wiki/Kyiv"
+      },
+      {
+        "kind": "guide",
+        "ref": "Taras Bulba, Wikipedia, on the sons and Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Taras_Bulba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "steppe-and-sich",
+    "name": "The steppe and the Sich",
+    "progressLabel": "Chapters 2-4",
+    "character": "taras",
+    "coords": [35.08, 47.85],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The three ride across the open steppe to the Zaporozhian Sich, the Cossack stronghold on the lower Dnipro around the island of Khortytsia near present-day Zaporizhzhia; sited in that real Cossack heartland.",
+    "reference": "Chapters 2-4",
+    "order": 2,
+    "note": "Across the endless, singing steppe they reach the Sich, the wild democratic camp of the Zaporozhian Cossacks, all drink, boasting and sudden violence. Gogol's famous set-piece hymn to the steppe, and to the fierce brotherhood of the Sich, is the romantic heart of the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Zaporozhian Sich and Khortytsia",
+        "url": "https://en.wikipedia.org/wiki/Zaporozhian_Sich"
+      },
+      {
+        "kind": "guide",
+        "ref": "Taras Bulba, Wikipedia, on the steppe and the Sich",
+        "url": "https://en.wikipedia.org/wiki/Taras_Bulba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dubno-besieged",
+    "name": "Dubno besieged",
+    "progressLabel": "Chapters 5-6",
+    "character": "panna",
+    "coords": [25.75, 50.42],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Cossack host lays siege to Dubno, a real town in Volhynia; inside the starving town is the Polish noblewoman Andriy loves, whom he had known in Kyiv.",
+    "reference": "Chapters 5-6",
+    "order": 3,
+    "note": "The Cossacks encircle Dubno and starve it, and within the walls is the beautiful Polish maiden whose family Andriy had once served. When a servant creeps out to beg food for her, the famished, dazzling girl draws Andriy across the lines and out of his people forever.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dubno, Ukraine",
+        "url": "https://en.wikipedia.org/wiki/Dubno"
+      },
+      {
+        "kind": "guide",
+        "ref": "Taras Bulba, Wikipedia, on the siege of Dubno and Andriy",
+        "url": "https://en.wikipedia.org/wiki/Taras_Bulba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "battlefield-andriy",
+    "name": "The battlefield (Andriy's death)",
+    "progressLabel": "Chapter 9",
+    "character": "andriy",
+    "coords": [25.78, 50.41],
+    "placeCertainty": "explicit",
+    "certaintyNote": "On the field before Dubno, Andriy, now fighting for the Poles for love of the maiden, meets his father; the confrontation and killing take place outside the besieged town.",
+    "reference": "Chapter 9",
+    "order": 4,
+    "note": "When Andriy rides out among the Polish knights against his own, Taras traps him, faces him, and with the terrible words that he gave him life and will take it, shoots his own son dead for the betrayal. It is the book's black centre, the warrior code devouring the father's love.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Taras Bulba, Wikipedia, on Taras and Andriy",
+        "url": "https://en.wikipedia.org/wiki/Taras_Bulba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dniester-taras-death",
+    "name": "The Dniester (Taras's death)",
+    "progressLabel": "Chapter 12",
+    "character": "taras",
+    "coords": [26.49, 48.51],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Taras is finally cornered and burned by the Poles on the cliffs above the Dniester; the river is real and the death is sited on its western Ukrainian banks, the exact rock the tale's own.",
+    "reference": "Chapter 12",
+    "order": 5,
+    "note": "After Ostap is captured and publicly executed in Warsaw, Taras wages a vengeful war until he too is taken and nailed to a tree to burn above the Dniester. Even in the flames he shouts directions to his escaping Cossacks, defiant to the last, the old warrior world going up in fire.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dniester river",
+        "url": "https://en.wikipedia.org/wiki/Dniester"
+      },
+      {
+        "kind": "guide",
+        "ref": "Taras Bulba, Wikipedia, on the ending and Ostap's execution",
+        "url": "https://en.wikipedia.org/wiki/Taras_Bulba"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

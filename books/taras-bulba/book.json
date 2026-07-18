@@ -1,0 +1,46 @@
+{
+  "id": "taras-bulba",
+  "title": "Taras Bulba",
+  "author": "Nikolai Gogol",
+  "published": 1842,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [30, 49],
+  "zoom": 6,
+  "setting": {
+    "city": "Zaporozhian Sich",
+    "country": "UA",
+    "note": "Gogol's fierce romance of the Zaporozhian Cossacks follows the old warrior Taras Bulba and his sons Ostap and Andriy from their studies in Kyiv out onto the steppe, to the Cossack stronghold of the Sich on the Dnipro, and into a savage war against the Poles. The geography is the wide Ukrainian steppe: the academy at Kyiv, the island fastness of the Sich near present Zaporizhzhia, the besieged Polish town of Dubno, and the Dniester cliffs where Taras meets his end.",
+    "bbox": [25.5, 47.5, 35.3, 50.6]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Russian (Nikolai Gogol, 1842) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Taras_Bulba",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Taras Bulba, Nikolai Gogol (1842). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of Cossack blood and the burning steppe, the fierce warrior world the whole tale exults in and mourns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "taras": {
+      "name": "Taras Bulba",
+      "color": "#4A4A4A"
+    },
+    "ostap": {
+      "name": "Ostap",
+      "color": "#2E6B4A"
+    },
+    "andriy": {
+      "name": "Andriy",
+      "color": "#6B3B5A"
+    },
+    "panna": {
+      "name": "The Polish maiden",
+      "color": "#8A6A12"
+    }
+  }
+}

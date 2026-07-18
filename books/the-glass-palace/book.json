@@ -1,0 +1,46 @@
+{
+  "id": "the-glass-palace",
+  "title": "The Glass Palace",
+  "author": "Amitav Ghosh",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [96.1, 19.4],
+  "zoom": 7,
+  "setting": {
+    "city": "Burma",
+    "country": "MM",
+    "note": "Ghosh's saga opens in 1885 as the British storm the royal palace at Mandalay and depose the last Burmese king, and follows the orphan Rajkumar, who rises from that day's chaos to a teak fortune, across three generations and three countries. Burma is the heart: the Glass Palace and the sack of Mandalay, and the teak port of Rangoon. Beyond it lie the Indian town of Ratnagiri, where the exiled king is held, and the rubber estates of Malaya where the family's later fortunes are made and broken.",
+    "bbox": [95.5, 16.5, 96.6, 22.1]
+  },
+  "rights": {
+    "originalWork": "In copyright. Amitav Ghosh, first published 2000. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Glass_Palace",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Glass Palace, Amitav Ghosh (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the Glass Palace and of the teak wealth Rajkumar cuts out of the Burmese forests. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rajkumar": {
+      "name": "Rajkumar",
+      "color": "#8A3B1E"
+    },
+    "dolly": {
+      "name": "Dolly",
+      "color": "#6B3B5A"
+    },
+    "thebaw": {
+      "name": "King Thebaw",
+      "color": "#4A4A4A"
+    },
+    "uma": {
+      "name": "Uma",
+      "color": "#2E5064"
+    }
+  }
+}
