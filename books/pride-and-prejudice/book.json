@@ -4,20 +4,38 @@
   "author": "Jane Austen",
   "published": 1813,
   "orderingKey": "chapter",
-  "center": [-1.6759, 53.2148],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-0.75, 52.0],
+  "zoom": 6,
   "setting": {
-    "city": "Bakewell",
+    "city": "Hertfordshire",
     "country": "GB",
-    "note": "Almost every house in it is invented, but Darcy’s Pemberley is Derbyshire, and readers have walked Chatsworth near Bakewell for it ever since. A novel that will exercise inspired_by as hard as any on the list.",
-    "bbox": [-1.733, 53.197, -1.635, 53.229]
+    "note": "Austen builds her world out of invented houses set on real English ground. Longbourn and Meryton are fictional, but she plants them in Hertfordshire, four-and-twenty miles from London, near the real market towns of the county. The Gardiners' home in Gracechurch Street, by Cheapside, is a real City address; Mr. Collins's Hunsford is sited near the real Westerham in Kent; the militia camp at Brighton is the real resort; and the Derbyshire tour runs through the actual Peak, past Matlock, Dovedale and Chatsworth, where readers have looked for Pemberley ever since. The map draws the arc of Elizabeth's England, from a Hertfordshire drawing-room to the great house in the Derbyshire hills.",
+    "bbox": [-1.8, 50.78, 0.1, 53.3]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Jane Austen published this in 1813.",
+    "originalWork": "Public domain. Jane Austen, first published 1813; the author died in 1817.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Jane Austen, Pride and Prejudice (1813)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1342",
+    "territoryNotes": "Public domain in the United States (published 1813) and in the United Kingdom and the EU, where the author died more than 70 years ago (1817).",
+    "attribution": "Jane Austen, Pride and Prejudice (1813). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "come in a scarlet coat",
+    "note": "The scarlet of the militia officers who camp near Meryton and then at Brighton, the red coats that turn the younger Bennets' heads and carry off Lydia. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "elizabeth": {
+      "name": "Elizabeth Bennet",
+      "color": "#8A6A12",
+      "colorSourceQuote": "She is grown so brown"
+    },
+    "darcy": {
+      "name": "Fitzwilliam Darcy",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "a large, handsome stone building"
+    }
   }
 }
