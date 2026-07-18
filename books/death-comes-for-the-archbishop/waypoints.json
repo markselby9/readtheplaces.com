@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "santa-fe-the-capital",
+    "name": "Santa Fe, the capital",
+    "progressLabel": "Book 1: Santa Fé",
+    "character": "latour",
+    "coords": [-105.9378, 35.687],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "in that depression, was Santa Fé, at last!",
+    "passage": "As the wagons went forward and the sun sank lower, a sweep of red carnelian-coloured hills lying at the foot of the mountains came into view; they curved like two arms about a depression in the plain; and in that depression, was Santa Fé, at last! A thin, wavering adobe town ... a green plaza ... at one end a church with two earthen towers that rose high above the flatness.",
+    "note": "Latour and Vaillant ride down at sundown to their new seat, an adobe town gathered around a green plaza and an old church, ringed by the red hills. Cather draws the real capital of New Mexico Territory, the plaza and streets still there, where the historical Archbishop Lamy governed his diocese.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 1, \"The Vicar Apostolic\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Santa Fe Plaza, Santa Fe, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/Santa_Fe_Plaza"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mesa-country-toward-acoma",
+    "name": "The mesa country toward Ácoma",
+    "progressLabel": "Book 3: The mesa country",
+    "character": "latour",
+    "coords": [-107.48, 34.96],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The passage marks the desert crossing between two real pueblos, Laguna and Ácoma, without fixing a spot. The pin sits on the plain roughly midway between them, where the mesas rise from the sand.",
+    "quoteAnchor": "across the low plain that lies between Laguna and Ácoma",
+    "passage": "After early Mass the next morning Father Latour and his guide rode off across the low plain that lies between Laguna and Ácoma. In all his travels the Bishop had seen no country like this. From the flat red sea of sand rose great rock mesas, generally Gothic in outline, resembling vast cathedrals.",
+    "note": "Riding west with his Pecos guide Jacinto, Latour meets the mesa country for the first time, the sandstone tables standing like cathedrals across an unfinished land. This is the real high-desert plain of west-central New Mexico between Laguna and Ácoma pueblos.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 3, \"The Mass at Ácoma\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "guide",
+        "ref": "Laguna Pueblo and Acoma Pueblo, Cibola County, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/Laguna_Pueblo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "acoma-the-sky-city",
+    "name": "Ácoma, the Sky City",
+    "progressLabel": "Book 3: The Mass at Ácoma",
+    "character": "latour",
+    "coords": [-107.582932, 34.896282],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "\"Ácoma!\" He stopped his mule.",
+    "passage": "Jacinto interrupted these reflections by an exclamation. \"Ácoma!\" He stopped his mule. The Bishop, following with his eye the straight, pointing Indian hand, saw, far away, two great mesas.",
+    "note": "Jacinto points out the Sky City, the pueblo of white squares on top of a naked rock hundreds of feet in the air, where the Ácoma ran to be safe from Navajo and Apache. Cather's mesa-top town is the real Acoma Pueblo, one of the oldest continuously inhabited settlements in North America, where Latour says Mass.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 2, \"The Mass at Ácoma\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Acoma Pueblo (\"Sky City\"), Cibola County, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/Acoma_Pueblo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "taos-and-padre-martinez",
+    "name": "Taos and Padre Martínez",
+    "progressLabel": "Book 5: Padre Martínez",
+    "character": "latour",
+    "coords": [-105.6091, 36.359],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "The two priests rode side by side into Los Ranchos de Taos",
+    "passage": "The two priests rode side by side into Los Ranchos de Taos, a little town of yellow walls and winding streets and green orchards. The inhabitants were all gathered in the square before the church. When the Bishop dismounted to enter the church, the women threw their shawls on the dusty pathway for him to walk upon.",
+    "note": "On his first visit to Taos, Latour rides in beside the formidable Padre Antonio José Martínez, the native priest who ruled the parish and had a hand in the 1847 revolt. Los Ranchos de Taos is real; its San Francisco de Asís mission church still stands on the plaza the crowd fills here.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 5, \"Padre Martínez\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "San Francisco de Asís Mission Church, Ranchos de Taos, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_de_As%C3%ADs_Mission_Church"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "albuquerque",
+    "name": "Albuquerque",
+    "progressLabel": "Book 5: Albuquerque",
+    "character": "vaillant",
+    "coords": [-106.67, 35.0967],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "leave my dear Albuquerque",
+    "passage": "\"You are doubtless right,\" said Father Joseph. \"I am often too hasty in my judgments. I may do very badly for you while you are in Europe. For I suppose I am to leave my dear Albuquerque, and come to Santa Fé while you are gone?\"",
+    "note": "Father Vaillant, posted to Albuquerque, the richest parish after Santa Fé, is called in by Latour to hold the see while the Bishop travels to Rome. His reluctance to leave \"my dear Albuquerque\" marks the old town on the Rio Grande, whose plaza and San Felipe de Neri church survive as Old Town today.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 5, \"Padre Martínez\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Old Town Albuquerque and San Felipe de Neri Church, Albuquerque, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/Old_Town_Albuquerque"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-cathedral-at-santa-fe",
+    "name": "The cathedral at Santa Fe",
+    "progressLabel": "Book 9: The cathedral",
+    "character": "latour",
+    "coords": [-105.9363, 35.6865],
+    "placeCertainty": "explicit",
+    "quoteAnchor": "the tawny church seemed to start directly out of those rose-coloured hills",
+    "passage": "From the end of the street where the Bishop's buggy stood, the tawny church seemed to start directly out of those rose-coloured hills--with a purpose so strong that it was like action. Seen from this distance, the Cathedral lay against the pinesplashed slopes as against a curtain.",
+    "note": "The Midi-Romanesque cathedral of golden stone is Latour's one worldly ambition, raised against the carnelian hills at the close of his life. It stands: the Cathedral Basilica of St. Francis of Assisi in Santa Fe, built by Cather's model, the historical Archbishop Jean-Baptiste Lamy.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "Death Comes for the Archbishop, Book 9, \"Death Comes for the Archbishop\"",
+        "url": "https://www.gutenberg.org/ebooks/69730"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cathedral Basilica of St. Francis of Assisi, Santa Fe, New Mexico",
+        "url": "https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Francis_of_Assisi_(Santa_Fe)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

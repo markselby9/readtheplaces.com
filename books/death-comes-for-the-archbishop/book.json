@@ -4,20 +4,38 @@
   "author": "Willa Cather",
   "published": 1927,
   "orderingKey": "chapter",
-  "center": [-105.9385, 35.6876],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-105.9363, 35.6865],
+  "zoom": 7,
   "setting": {
     "city": "Santa Fe",
     "country": "US",
-    "note": "Archbishop Latour’s New Mexico, from the plaza and the cathedral he raises at Santa Fe to the sky-city of Ácoma and the desert missions. Cather draws the real Southwest of the 1850s, and it brings her, and a new American region, into the atlas.",
-    "bbox": [-106.112, 35.588, -105.894, 35.755]
+    "note": "Archbishop Latour's New Mexico Territory of the 1850s, from the plaza and the cathedral he raises at Santa Fé, out to the sky-city of Ácoma on its mesa, up to rebel Taos and down through Albuquerque. Cather names the real pueblos, towns and missions; the bbox spans northern New Mexico from Ácoma and Albuquerque up to Taos.",
+    "bbox": [-107.7, 34.85, -105.5, 36.45]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Willa Cather published this in 1927.",
+    "originalWork": "Public domain. Willa Cather, first published 1927; the author died in 1947.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/willa-cather/death-comes-for-the-archbishop",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Willa Cather, Death Comes for the Archbishop (1927)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/69730",
+    "territoryNotes": "Public domain in the US (published 1927) and the UK/EU (author died 1947).",
+    "attribution": "Willa Cather, Death Comes for the Archbishop (1927). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "red carnelian-coloured hills",
+    "note": "The carnelian red of the New Mexico earth, the hills that ring Santa Fé and rise behind the cathedral, taken straight from the text. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "latour": {
+      "name": "Bishop Jean Latour",
+      "color": "#2E5064",
+      "colorSourceQuote": "the blue Sandias"
+    },
+    "vaillant": {
+      "name": "Father Joseph Vaillant",
+      "color": "#8A6A12",
+      "colorSourceQuote": "a strong golden ochre"
+    }
   }
 }
