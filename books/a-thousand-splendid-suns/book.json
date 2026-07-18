@@ -1,0 +1,46 @@
+{
+  "id": "a-thousand-splendid-suns",
+  "title": "A Thousand Splendid Suns",
+  "author": "Khaled Hosseini",
+  "published": 2007,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [69.17, 34.52],
+  "zoom": 12,
+  "setting": {
+    "city": "Kabul",
+    "country": "AF",
+    "note": "Thirty years of Afghan history seen through two women married to the same brutal man in Kabul. Mariam grows up outside Herat and is married off to the shoemaker Rasheed; years later the educated Laila, orphaned when a rocket destroys her family's house, becomes his second wife, and the two women's alliance carries the book. The city is real and specific: Rasheed's house in the Deh-Mazang district, the dry-riverbed market called Titanic City, and the Ghazi Stadium where the Taliban hold their executions.",
+    "bbox": [69.09, 34.47, 69.25, 34.57]
+  },
+  "rights": {
+    "originalWork": "In copyright. Khaled Hosseini, first published 2007. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Thousand Splendid Suns, Khaled Hosseini (2007). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the thousand splendid suns of the poem in the title, the moons and suns hidden behind the walls of Kabul. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mariam": {
+      "name": "Mariam",
+      "color": "#8A3B1E"
+    },
+    "laila": {
+      "name": "Laila",
+      "color": "#2E5064"
+    },
+    "rasheed": {
+      "name": "Rasheed",
+      "color": "#4A4A4A"
+    },
+    "tariq": {
+      "name": "Tariq",
+      "color": "#2E6B4A"
+    }
+  }
+}

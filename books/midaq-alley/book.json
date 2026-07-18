@@ -1,0 +1,46 @@
+{
+  "id": "midaq-alley",
+  "title": "Midaq Alley",
+  "author": "Naguib Mahfouz",
+  "published": 1947,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [31.262, 30.046],
+  "zoom": 15,
+  "setting": {
+    "city": "Cairo",
+    "country": "EG",
+    "note": "Almost the whole of Mahfouz's novel happens in one cul-de-sac of old Islamic Cairo, Zuqaq al-Midaq, a real alley off the Sanadiqiyya near al-Azhar. Its café, barber's shop, bakery and the flat of the beautiful, restless Hamida make a world unto itself, jolted by the Second World War and the money of the British camps. When Hamida is lured out of the alley into the modern city, the closed world of Midaq Alley cracks open.",
+    "bbox": [31.254, 30.041, 31.271, 30.051]
+  },
+  "rights": {
+    "originalWork": "In copyright. Naguib Mahfouz, first published 1947 (Zuqaq al-Midaq). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Midaq_Alley",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Midaq Alley, Naguib Mahfouz (1947). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The dusky plum of the alley at evening, closed in and lamplit, the colour of a small world resisting the century outside. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "hamida": {
+      "name": "Hamida",
+      "color": "#8A2B1E"
+    },
+    "abbas": {
+      "name": "Abbas al-Hulw",
+      "color": "#2E5064"
+    },
+    "kirsha": {
+      "name": "Kirsha",
+      "color": "#4A4A4A"
+    },
+    "salim-alwan": {
+      "name": "Salim Alwan",
+      "color": "#8A6A12"
+    }
+  }
+}

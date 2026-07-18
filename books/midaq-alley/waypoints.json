@@ -1,0 +1,112 @@
+[
+  {
+    "id": "midaq-alley-itself",
+    "name": "Midaq Alley (Zuqaq al-Midaq)",
+    "progressLabel": "Chapter 1",
+    "character": "hamida",
+    "coords": [31.261, 30.0455],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The alley of the title is a real dead-end lane, Zuqaq al-Midaq, in the old quarter off the Sanadiqiyya near al-Azhar in Islamic Cairo; nearly all of the novel takes place along it.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens with a slow walk down the alley at dusk, cataloguing its handful of houses and shops and the people who fill them. Hamida, the alley's beauty, watches the street from her window, hungry for a bigger life than the one these few metres of Cairo can offer.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Midaq Alley (Zuqaq al-Midaq), Islamic Cairo",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midaq Alley, Wikipedia, on the setting and Hamida",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kirshas-cafe",
+    "name": "Kirsha's café",
+    "progressLabel": "Chapter 2",
+    "character": "kirsha",
+    "coords": [31.2611, 30.0454],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The café at the heart of the alley's social life, run by the hashish-smoking Kirsha, is a fixture of the novel; it is sited within the real alley, its exact door not recorded.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Kirsha's café is where the alley's men gather to argue, gossip and doze, its old reciter of tales replaced by a radio in the book's first small defeat of the past by the present. Kirsha's addictions and appetites are one of the threads of scandal that run through the closed community.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Midaq Alley, Wikipedia, on Kirsha and the café",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "abbas-barber-shop",
+    "name": "Abbas al-Hulw's barber shop",
+    "progressLabel": "Chapter 3",
+    "character": "abbas",
+    "coords": [31.2609, 30.0456],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The barber shop of Abbas, the gentle young man who loves Hamida, stands in the alley; sited within Zuqaq al-Midaq, its precise position not recorded.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "Abbas the barber loves Hamida and, to be worthy of her, leaves to work for the British army, hoping to come back rich enough to marry her. His decent, doomed devotion is set against Hamida's restlessness, and his return will bring the book to its violent end.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Midaq Alley, Wikipedia, on Abbas al-Hulw",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "salim-alwan-business",
+    "name": "Salim Alwan's business",
+    "progressLabel": "Chapter 5",
+    "character": "salim-alwan",
+    "coords": [31.2613, 30.0453],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The company office of Salim Alwan, the alley's wealthy merchant, sits at the mouth of the lane; sited at the entrance to the real alley.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "Salim Alwan, rich and ageing, runs an import business from the alley's edge and lets himself dream of taking Hamida as a wife, until his body fails him. His money and his appetites are another of the forces circling the young woman everyone in the alley wants to possess.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Midaq Alley, Wikipedia, on Salim Alwan",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-azhar-and-the-city",
+    "name": "Al-Azhar and the road to the city",
+    "progressLabel": "Chapter 20",
+    "character": "hamida",
+    "coords": [31.2625, 30.0459],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The alley opens onto the old quarter around al-Azhar, the real medieval mosque and university; it is the threshold across which Hamida is drawn out toward the wider, modern city and its British camps.",
+    "reference": "Chapters 20-24",
+    "order": 5,
+    "note": "A smooth stranger lures Hamida out of the alley and into the city, training her as a prostitute for British soldiers. Her crossing from the closed lane into the streets around al-Azhar and beyond is the book's real drama, the small ancient world losing its most vivid child to the century outside.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Al-Azhar Mosque, Islamic Cairo",
+        "url": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midaq Alley, Wikipedia, on Hamida's fate",
+        "url": "https://en.wikipedia.org/wiki/Midaq_Alley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
