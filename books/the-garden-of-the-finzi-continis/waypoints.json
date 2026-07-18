@@ -1,0 +1,122 @@
+[
+  {
+    "id": "finzi-contini-garden",
+    "name": "The Finzi-Contini garden and villa",
+    "progressLabel": "Part 2",
+    "character": "micol",
+    "coords": [11.621, 44.846],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The family's vast walled garden and villa, the magna domus, are invented but sited where Bassani places them, along Corso Ercole I d'Este toward the northern city walls of Ferrara.",
+    "reference": "Part 2",
+    "order": 1,
+    "note": "Behind a high wall lies the enchanted garden the Finzi-Contini keep for themselves, with its tennis court, its ancient trees and its private world of privilege. When the Jewish young of Ferrara are barred from the town's clubs, Micòl and Alberto open the garden to them, and the narrator's long, hopeless love for Micòl takes root here.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Garden of the Finzi-Continis, Wikipedia, on the garden and Micòl",
+        "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mura-degli-angeli",
+    "name": "The Mura degli Angeli (the city walls)",
+    "progressLabel": "Part 1",
+    "character": "narrator",
+    "coords": [11.623, 44.848],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Mura degli Angeli, the real tree-lined Renaissance ramparts on the north side of Ferrara, are where the young people cycle and walk; sited on the walls above the Finzi-Contini garden.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "From the grassy ramparts the boy first glimpses Micòl over the garden wall, calling him to climb down and hide his bicycle. The walls, with their long avenues of trees, are Ferrara's open lung and the threshold between the ordinary city and the family's sealed paradise.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Walls of Ferrara (Mura degli Angeli)",
+        "url": "https://en.wikipedia.org/wiki/Walls_of_Ferrara"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Garden of the Finzi-Continis, Wikipedia, on the setting",
+        "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "synagogue-via-mazzini",
+    "name": "The synagogue, Via Mazzini",
+    "progressLabel": "Part 1",
+    "character": "alberto",
+    "coords": [11.6205, 44.836],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Jewish community of Ferrara worships at the synagogue on Via Mazzini in the old ghetto, a real building; the Finzi-Contini keep to their own rite there, apart even from their fellow Jews.",
+    "reference": "Part 1",
+    "order": 3,
+    "note": "At the synagogue on Via Mazzini the narrator's family and the Finzi-Contini share a faith but little else, the aristocratic family holding themselves aloof in their own school and pew. The old ghetto streets around it are the community's heart, soon to be marked out and destroyed by the race laws.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jewish community of Ferrara and the Via Mazzini synagogue",
+        "url": "https://en.wikipedia.org/wiki/Ferrara"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Garden of the Finzi-Continis, Wikipedia, on the Ferrara Jewish community",
+        "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ferrara-centre-race-laws",
+    "name": "Central Ferrara (the race laws)",
+    "progressLabel": "Part 3",
+    "character": "malnate",
+    "coords": [11.619, 44.8378],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The city centre around the Castello Estense and Corso Giovecca is where the fascist race laws are felt daily, in expulsions from clubs, schools and cafés; sited in the heart of the real Ferrara.",
+    "reference": "Part 3",
+    "order": 4,
+    "note": "In the cafés and streets of central Ferrara the narrator argues politics with Malnate, the older Milanese socialist who is also drawn to the garden and, the narrator suspects, to Micòl. The tightening laws of 1938 turn the ordinary city into a place of small daily exclusions that everyone can see coming to something worse.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Castello Estense, Ferrara",
+        "url": "https://en.wikipedia.org/wiki/Castello_Estense"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Garden of the Finzi-Continis, Wikipedia, on Malnate and the race laws",
+        "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jewish-cemetery-ferrara",
+    "name": "The Jewish cemetery of Ferrara",
+    "progressLabel": "Prologue",
+    "character": "micol",
+    "coords": [11.63, 44.8455],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The monumental Jewish cemetery of Ferrara, near the walls, holds the grandiose Finzi-Contini tomb; the real cemetery frames the novel, which opens among its graves.",
+    "reference": "Prologue and epilogue",
+    "order": 5,
+    "note": "The book opens at the family's absurd, monumental tomb and closes on the knowledge that almost none of the Finzi-Contini lie in it: deported in 1943, they died in the German camps and have no graves. The cemetery holds the whole elegy, a vanished family and world remembered from the far side of the catastrophe.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jewish cemetery of Ferrara",
+        "url": "https://en.wikipedia.org/wiki/Ferrara"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Garden of the Finzi-Continis, Wikipedia, on the framing and the family's fate",
+        "url": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

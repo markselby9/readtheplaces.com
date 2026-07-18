@@ -1,0 +1,46 @@
+{
+  "id": "the-temple-of-the-golden-pavilion",
+  "title": "The Temple of the Golden Pavilion",
+  "author": "Yukio Mishima",
+  "published": 1956,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [135.755, 35.025],
+  "zoom": 12,
+  "setting": {
+    "city": "Kyoto",
+    "country": "JP",
+    "note": "Mishima's novel reworks a real event: the burning of the Golden Pavilion, Kinkaku-ji, by a young acolyte monk in 1950. The stammering, ugly Mizoguchi comes from a poor coastal temple to serve at Rokuon-ji in Kyoto, and his worship of the pavilion's unbearable beauty curdles until he destroys it. The city is real throughout: the gilded pavilion above its pond, the temple grounds where he lodges, Otani University where he meets the crippled cynic Kashiwagi, and the wartime and postwar streets of Kyoto.",
+    "bbox": [135.7, 34.98, 135.81, 35.06]
+  },
+  "rights": {
+    "originalWork": "In copyright. Yukio Mishima, first published 1956 (Kinkaku-ji). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Temple of the Golden Pavilion, Yukio Mishima (1956). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold leaf of the pavilion itself, the beauty Mizoguchi cannot live beside and finally burns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mizoguchi": {
+      "name": "Mizoguchi",
+      "color": "#4A4A4A"
+    },
+    "uiko": {
+      "name": "Uiko",
+      "color": "#8A2B1E"
+    },
+    "kashiwagi": {
+      "name": "Kashiwagi",
+      "color": "#5A3B8A"
+    },
+    "the-superior": {
+      "name": "The Superior",
+      "color": "#2E6B4A"
+    }
+  }
+}

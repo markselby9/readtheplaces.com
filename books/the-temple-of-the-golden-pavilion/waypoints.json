@@ -1,0 +1,118 @@
+[
+  {
+    "id": "home-temple-coast",
+    "name": "The home temple, the Japan Sea coast",
+    "progressLabel": "Chapter 1",
+    "character": "uiko",
+    "coords": [135.35, 35.55],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Mizoguchi grows up at his father's poor temple on a bleak cape of the Japan Sea coast in northern Kyoto Prefecture, near Maizuru; the temple is invented and sited on that remote coast, outside the city.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "The stammering boy's imagination is fed by his dying father's talk of the Golden Pavilion as the most beautiful thing on earth. Here too is Uiko, the local girl whose beauty and violent death fix in him the link between beauty, desire and destruction that will govern his life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Temple of the Golden Pavilion, Wikipedia, on Mizoguchi's origins",
+        "url": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kinkakuji-arrival",
+    "name": "Kinkaku-ji (the Golden Pavilion)",
+    "progressLabel": "Chapter 2",
+    "character": "mizoguchi",
+    "coords": [135.7292, 35.0394],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kinkaku-ji, the Golden Pavilion of Rokuon-ji temple in northern Kyoto, is the real building at the centre of the novel; Mizoguchi comes to serve here as an acolyte, and the rebuilt pavilion still stands above its pond today.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Sent to Rokuon-ji after his father's death, Mizoguchi finally stands before the pavilion he has dreamed of, and is almost disappointed, then possessed. Through the war years and after, the golden building above its reflecting pond becomes the measure against which he finds his own life unbearably ugly.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kinkaku-ji (Rokuon-ji), Kyoto",
+        "url": "https://en.wikipedia.org/wiki/Kinkaku-ji"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Temple of the Golden Pavilion, Wikipedia, on the setting",
+        "url": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "otani-university",
+    "name": "Otani University",
+    "progressLabel": "Chapter 4",
+    "character": "kashiwagi",
+    "coords": [135.7585, 35.043],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mizoguchi studies at Otani University, the real Buddhist college in Kyoto, where he falls under the influence of the clubfooted, coldly clever fellow student Kashiwagi.",
+    "reference": "Chapters 4-5",
+    "order": 3,
+    "note": "At Otani University Mizoguchi meets Kashiwagi, whose deformed feet have taught him a philosophy of using ugliness and cruelty as weapons. Kashiwagi's nihilism works on Mizoguchi like a solvent, loosening whatever might have held him to ordinary life and the temple's discipline.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Otani University, Kyoto",
+        "url": "https://en.wikipedia.org/wiki/Otani_University"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Temple of the Golden Pavilion, Wikipedia, on Kashiwagi",
+        "url": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kyoto-city-superior",
+    "name": "Kyoto (the Superior's world)",
+    "progressLabel": "Chapter 7",
+    "character": "the-superior",
+    "coords": [135.772, 35.004],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The postwar city, its pleasure districts and temples, is where Mizoguchi watches the Superior of Rokuon-ji live a worldly, hypocritical life; sited in central Kyoto around Gion.",
+    "reference": "Chapters 7-8",
+    "order": 4,
+    "note": "Following the Superior through the streets and seeing him with a geisha, Mizoguchi loses the last of his reverence for the temple's authority. The gap between the pavilion's ideal beauty and the shabby human world around it widens until only one violent act seems able to close it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Temple of the Golden Pavilion, Wikipedia, on Mizoguchi and the Superior",
+        "url": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kinkakuji-burning",
+    "name": "The burning of the pavilion",
+    "progressLabel": "Chapter 10",
+    "character": "mizoguchi",
+    "coords": [135.7292, 35.0394],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel ends with Mizoguchi setting fire to Kinkaku-ji, closely following the real arson of 2 July 1950 in which a disturbed acolyte burned the original pavilion to the ground.",
+    "reference": "Chapter 10",
+    "order": 5,
+    "note": "Unable to live either with the pavilion's beauty or without it, Mizoguchi carries straw into the temple at night and burns it down, then sits on a hill above the flames, lighting a cigarette, resolved to live. Mishima builds the whole book toward this single act, in which destruction becomes the only freedom the boy can imagine.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kinkaku-ji, on the 1950 arson and reconstruction",
+        "url": "https://en.wikipedia.org/wiki/Kinkaku-ji"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Temple of the Golden Pavilion, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

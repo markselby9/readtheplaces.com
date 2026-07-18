@@ -1,0 +1,46 @@
+{
+  "id": "the-garden-of-the-finzi-continis",
+  "title": "The Garden of the Finzi-Continis",
+  "author": "Giorgio Bassani",
+  "published": 1962,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [11.622, 44.842],
+  "zoom": 14,
+  "setting": {
+    "city": "Ferrara",
+    "country": "IT",
+    "note": "In Ferrara at the end of the 1930s, the narrator, a young Jewish man, is drawn into the walled world of the aristocratic Finzi-Contini family and their vast private garden, where he falls hopelessly in love with the elusive Micòl as the fascist race laws close a ring around them all. Bassani maps his own city: the great garden behind the walls off Corso Ercole I d'Este, the ramparts the young people cycle along, the synagogue on Via Mazzini, and the monumental Jewish cemetery where the book begins and the family's tomb waits.",
+    "bbox": [11.61, 44.832, 11.635, 44.851]
+  },
+  "rights": {
+    "originalWork": "In copyright. Giorgio Bassani, first published 1962 (Il giardino dei Finzi-Contini). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Garden of the Finzi-Continis, Giorgio Bassani (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The deep green of the enchanted walled garden, the huge trees and tennis lawn where a doomed world plays out its last summers. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": {
+      "name": "The narrator",
+      "color": "#2E5064"
+    },
+    "micol": {
+      "name": "Micòl Finzi-Contini",
+      "color": "#8A2B1E"
+    },
+    "alberto": {
+      "name": "Alberto Finzi-Contini",
+      "color": "#6B3B5A"
+    },
+    "malnate": {
+      "name": "Giampiero Malnate",
+      "color": "#8A6A12"
+    }
+  }
+}
