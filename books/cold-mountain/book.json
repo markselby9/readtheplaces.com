@@ -1,0 +1,42 @@
+{
+  "id": "cold-mountain",
+  "title": "Cold Mountain",
+  "author": "Charles Frazier",
+  "published": 1997,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-82.905, 35.41],
+  "zoom": 11,
+  "setting": {
+    "city": "Cold Mountain, North Carolina",
+    "country": "US",
+    "note": "Near the end of the Civil War, a wounded Confederate deserter named Inman walks home across North Carolina to Cold Mountain, the real peak in the Shining Rock Wilderness of Haywood County, and to Ada, who is struggling to keep her dead father's farm at Black Cove alive with the help of the drifter Ruby. The mountain and its community are real; the farm is invented and set at its foot. Inman's long journey west, from a Confederate hospital in Raleigh across the rivers of the Piedmont, runs as a chain of scenes outside the home setting.",
+    "bbox": [-82.96, 35.36, -82.85, 35.45]
+  },
+  "rights": {
+    "originalWork": "In copyright. Charles Frazier, first published 1997. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Cold_Mountain_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Cold Mountain, Charles Frazier (1997). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The dark green of the Appalachian forest that covers Cold Mountain and pulls Inman home across the state. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "inman": {
+      "name": "Inman",
+      "color": "#4A4A4A"
+    },
+    "ada": {
+      "name": "Ada Monroe",
+      "color": "#8A6A12"
+    },
+    "ruby": {
+      "name": "Ruby Thewes",
+      "color": "#8A3B1E"
+    }
+  }
+}

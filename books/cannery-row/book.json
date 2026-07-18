@@ -1,0 +1,46 @@
+{
+  "id": "cannery-row",
+  "title": "Cannery Row",
+  "author": "John Steinbeck",
+  "published": 1945,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-121.9012, 36.6176],
+  "zoom": 14,
+  "setting": {
+    "city": "Monterey",
+    "country": "US",
+    "note": "A few hundred yards of the Monterey waterfront during the Depression, when the street was a run of sardine canneries, flophouses and grocery stores between the bay and the hill. Steinbeck maps his real neighbours onto invented names: Doc's Western Biological is Ed Ricketts's Pacific Biological Laboratories, still standing on the street now named Cannery Row; Lee Chong's grocery, the Palace Flophouse and Dora's Bear Flag are drawn from the shops and houses of ill repute that really lined it. The tide pools where Doc collects run out to the tip of the peninsula at Point Pinos.",
+    "bbox": [-121.94, 36.61, -121.895, 36.643]
+  },
+  "rights": {
+    "originalWork": "In copyright. John Steinbeck, first published 1945. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Cannery Row, John Steinbeck (1945). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue-grey of Monterey Bay, which the whole street faces and lives off. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "doc": {
+      "name": "Doc",
+      "color": "#2E6B4A"
+    },
+    "mack": {
+      "name": "Mack and the boys",
+      "color": "#8A6A12"
+    },
+    "dora": {
+      "name": "Dora Flood",
+      "color": "#8A2B1E"
+    },
+    "lee-chong": {
+      "name": "Lee Chong",
+      "color": "#6B3B5A"
+    }
+  }
+}

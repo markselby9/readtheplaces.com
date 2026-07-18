@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cannery-row-street",
+    "name": "Cannery Row (Ocean View Avenue)",
+    "progressLabel": "Chapter 1",
+    "character": "mack",
+    "coords": [-121.9008, 36.6162],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The street of the title is the real waterfront strip of sardine canneries in Monterey, then Ocean View Avenue and renamed Cannery Row in 1958 after the book; the whole novel takes place along it.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The opening pans the length of the street at dawn: the canneries, the whistles that call the shifts, the tin and rust and the gathered life of the place. It is the frame for everything that follows, a poem and a stink and a habit, as the narrator has it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannery Row (novel), Wikipedia, on the Monterey setting",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cannery Row, Monterey, history of the street and its renaming",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lee-chongs-grocery",
+    "name": "Lee Chong's Grocery",
+    "progressLabel": "Chapter 1",
+    "character": "lee-chong",
+    "coords": [-121.9004, 36.6167],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lee Chong's crowded grocery is invented but placed on the Row itself, one of the small stores that really lined the street; sited among the canneries at the heart of the neighbourhood.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The grocery that stocks everything from fatback to fireworks and quietly extends credit to the whole street. When Lee Chong takes an abandoned fish-meal shack in payment of a debt, and Mack and the boys move into it, the shop becomes the pivot of the neighbourhood's economy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannery Row (novel), Wikipedia, on Lee Chong and the street's shops",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bear-flag-restaurant",
+    "name": "The Bear Flag Restaurant",
+    "progressLabel": "Chapter 3",
+    "character": "dora",
+    "coords": [-121.9012, 36.6158],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Dora Flood's Bear Flag is a brothel under a genteel name; it is invented, but drawn from the real houses of ill repute on the Row, such as Flora Woods's Lone Star Cafe. Sited on the street among the canneries.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "Dora's establishment runs on strict decorum and outsized charity, paying more than its share of the street's debts and doctor's bills. In hard times the girls sit up with the sick and the poor, and the Bear Flag becomes one of the two moral centres of the book, the other being Doc's lab across the way.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannery Row (novel), Wikipedia, on the Bear Flag and Dora Flood",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Flora Woods and the Lone Star Cafe, the real Cannery Row brothel behind the Bear Flag",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palace-flophouse",
+    "name": "The Palace Flophouse and Grill",
+    "progressLabel": "Chapter 5",
+    "character": "mack",
+    "coords": [-121.8998, 36.6172],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The former fish-meal storehouse that Mack and the boys turn into a home is invented; the novel places it up the hill behind the canneries. Sited on the slope just inland of the Row.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "Mack and the boys take over an old shack Lee Chong owns and christen it the Palace Flophouse and Grill, furnishing it by degrees with a stove, chairs and a rug won or scavenged from the street. Their long, well-meant scheme to throw a party for Doc is launched from here.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannery Row (novel), Wikipedia, on the Palace Flophouse",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "western-biological",
+    "name": "Western Biological Laboratory (Doc's lab)",
+    "progressLabel": "Chapter 5",
+    "character": "doc",
+    "coords": [-121.9013, 36.6176],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Doc's Western Biological is Ed Ricketts's Pacific Biological Laboratories at 800 Cannery Row, the building still standing on the street; Doc is closely modelled on Ricketts, Steinbeck's friend and collaborator.",
+    "reference": "Chapter 5",
+    "order": 5,
+    "note": "The marine supply house where Doc collects, preserves and ships the animals of the tide pools, and plays records late into the night. It is the gravitational centre of the street, the place everyone drifts toward, and the destination of the party the boys keep trying to give him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pacific Biological Laboratories, 800 Cannery Row, Ed Ricketts's lab and the model for Western Biological",
+        "url": "https://en.wikipedia.org/wiki/Pacific_Biological_Laboratories"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Ed Ricketts as the model for Doc in Cannery Row",
+        "url": "https://en.wikipedia.org/wiki/Ed_Ricketts"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "great-tide-pool-point-pinos",
+    "name": "The Great Tide Pool, Point Pinos",
+    "progressLabel": "Chapter 18",
+    "character": "doc",
+    "coords": [-121.933, 36.6385],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Doc collects in the tide pools out at the tip of the Monterey Peninsula; the Great Tide Pool lies near Point Pinos in Pacific Grove. Sited at the point, a short way west of the Row.",
+    "reference": "Chapter 18",
+    "order": 6,
+    "note": "Doc walks out to the rich tide pools at the peninsula's tip to gather starfish and small animals, and it is here, among the anemones and crabs, that he finds the body of a drowned girl, one of the book's few still, dark notes amid the comedy of the street.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cannery Row (novel), Wikipedia, on Doc's tide-pool collecting",
+        "url": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Point Pinos and the tide pools at the tip of the Monterey Peninsula",
+        "url": "https://en.wikipedia.org/wiki/Point_Pinos"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

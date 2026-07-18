@@ -1,0 +1,109 @@
+[
+  {
+    "id": "raleigh-hospital",
+    "name": "The Confederate hospital, Raleigh",
+    "progressLabel": "Opening",
+    "character": "inman",
+    "coords": [-78.6382, 35.7796],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel opens in a Confederate military hospital in Raleigh, where Inman is recovering from a neck wound; the city is real, the particular ward invented. Sited in the state capital where he begins his walk west.",
+    "reference": "Opening chapter",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "Inman lies among the dying in a Raleigh hospital, reading and staring out a tall window at the wall beyond. Sick of the war and the killing, he climbs out of that window one night and sets off on foot for the far western mountains and home, deserting the army he no longer believes in.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cold Mountain (novel), Wikipedia, on the opening in Raleigh",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cape-fear-crossing",
+    "name": "The Cape Fear River crossing",
+    "progressLabel": "The journey west",
+    "character": "inman",
+    "coords": [-78.878, 35.055],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Inman's route home takes him across the rivers of the Piedmont, the Cape Fear among them; the river is real, the exact ford invented. Sited on the Cape Fear in the middle of the state, between Raleigh and the mountains.",
+    "reference": "Inman's journey",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "Making his way west by back roads and at night, Inman is preyed on by the Home Guard hunting deserters and helped by strangers along the way. The river crossings mark the slow, dangerous progress of a journey that structures half the book, one chapter of the walk alternating with one of the farm.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cold Mountain (novel), Wikipedia, on Inman's journey home",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "black-cove-farm",
+    "name": "Black Cove farm",
+    "progressLabel": "Black Cove",
+    "character": "ruby",
+    "coords": [-82.895, 35.41],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The farm Ada inherits from her father is invented; the novel sites it in a cove at the foot of Cold Mountain. Sited on the mountain's lower slopes, just below the peak.",
+    "reference": "Ada and Ruby at Black Cove",
+    "order": 3,
+    "note": "Ada, a town-raised minister's daughter with no idea how to work land, is close to starving when Ruby arrives and agrees to run the farm with her, not for her. Under Ruby's hard practical knowledge the cove is brought back to life, crops and fences and hogs, and the two women build a household as the war grinds on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cold Mountain (novel), Wikipedia, on Ada, Ruby and the farm",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cold-mountain-community",
+    "name": "The Cold Mountain community and church",
+    "progressLabel": "Cold Mountain",
+    "character": "ada",
+    "coords": [-82.915, 35.428],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cold Mountain is a real unincorporated community in Haywood County beneath the peak; Ada's father Monroe had come from Charleston to preach at its church, and the settlement is the home Inman is walking toward.",
+    "reference": "Home setting",
+    "order": 4,
+    "note": "The small mountain settlement where Ada arrived years before with her father, an educated outsider who never fit its hard rural life. It is the world Inman is trying to reach, the place his memory of one brief courtship with Ada keeps alive across every mile of the walk home.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cold Mountain, the community and area in Haywood County, North Carolina",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(North_Carolina)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cold Mountain (novel), Wikipedia, on the setting",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cold-mountain-peak",
+    "name": "Cold Mountain (the peak)",
+    "progressLabel": "The reunion",
+    "character": "inman",
+    "coords": [-82.9052, 35.3956],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cold Mountain is a real 6,030-foot peak in the Shining Rock Wilderness of the Pisgah National Forest, Haywood County; it gives the novel its title and is the endpoint of Inman's journey.",
+    "reference": "Closing chapters",
+    "order": 5,
+    "note": "The mountain itself, standing over the whole book as the fixed point every road bends toward. Inman finally reaches its slopes and finds Ada, but the war follows him even here, and the reunion the reader has walked the length of the state to reach is brief and shadowed by the Home Guard still on his trail.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cold Mountain, the peak in the Shining Rock Wilderness, Pisgah National Forest",
+        "url": "https://en.wikipedia.org/wiki/Cold_Mountain_(North_Carolina)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
