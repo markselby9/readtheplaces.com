@@ -1,0 +1,46 @@
+{
+  "id": "celestial-bodies",
+  "title": "Celestial Bodies",
+  "author": "Jokha Alharthi",
+  "published": 2010,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [57.53, 22.93],
+  "zoom": 9,
+  "setting": {
+    "city": "al-Awafi",
+    "country": "OM",
+    "note": "Through three sisters of the village of al-Awafi in the interior of Oman, Alharthi traces a country moving in a single lifetime from a slave-owning, date-farming past into oil modernity. The world of the book is the interior: the village and its date plantations and irrigation channels, the desert around it, and the merchant households; beyond it lie the capital Muscat, where the new Oman is made, and Zanzibar, from which the enslaved were once carried across the sea.",
+    "bbox": [57.45, 22.85, 57.65, 23.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Jokha Alharthi, first published 2010 (Sayyidat al-Qamar). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Celestial_Bodies",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Celestial Bodies, Jokha Alharthi (2010). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the desert sun and the dates, and of the oil wealth about to remake Oman in a single generation. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mayya": {
+      "name": "Mayya",
+      "color": "#2E5064"
+    },
+    "abdallah": {
+      "name": "Abdallah",
+      "color": "#4A4A4A"
+    },
+    "zarifa": {
+      "name": "Zarifa",
+      "color": "#8A2B1E"
+    },
+    "khawla": {
+      "name": "Khawla",
+      "color": "#6B3B5A"
+    }
+  }
+}

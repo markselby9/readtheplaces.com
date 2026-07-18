@@ -1,0 +1,46 @@
+{
+  "id": "going-down-river-road",
+  "title": "Going Down River Road",
+  "author": "Meja Mwangi",
+  "published": 1976,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [36.828, -1.285],
+  "zoom": 13,
+  "setting": {
+    "city": "Nairobi",
+    "country": "KE",
+    "note": "Mwangi's gritty novel of post-independence Nairobi follows Ben, a cashiered ex-soldier drifting through casual labour, cheap drink and cheaper rooms in the raw underside of the booming city. The real Nairobi is its stage: the bars and flophouses of the notorious River Road, the high-rise construction site where Ben sweats to raise a tower he will never enter, the shanty rooms of the poor, and the gleaming modern centre going up on their backs.",
+    "bbox": [36.8, -1.3, 36.86, -1.27]
+  },
+  "rights": {
+    "originalWork": "In copyright. Meja Mwangi, first published 1976. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Meja_Mwangi",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Going Down River Road, Meja Mwangi (1976). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red-brown of dust, brick and cheap liquor, the colour of the raw River Road underside of the boom city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ben": {
+      "name": "Ben",
+      "color": "#4A4A4A"
+    },
+    "ocholla": {
+      "name": "Ocholla",
+      "color": "#8A6A12"
+    },
+    "wini": {
+      "name": "Wini",
+      "color": "#8A2B1E"
+    },
+    "baby": {
+      "name": "Baby",
+      "color": "#2E6B4A"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "river-road-bars",
+    "name": "River Road (the bars)",
+    "progressLabel": "Chapter 1",
+    "character": "ben",
+    "coords": [36.828, -1.283],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel's heart is River Road, the real and notorious downtown Nairobi street of cheap bars, lodgings and hustles that gives the book its title.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Ben drinks and drifts along River Road, among the touts, prostitutes and fellow labourers of the city's underside, blunting the wreck of his life with beer. Mwangi makes the street a whole world of the urban poor, vivid, brutal and companionable, that the shining new Nairobi would rather not see.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "River Road, Nairobi",
+        "url": "https://en.wikipedia.org/wiki/Nairobi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Going Down River Road, Meja Mwangi, on the Nairobi setting",
+        "url": "https://en.wikipedia.org/wiki/Meja_Mwangi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "construction-site",
+    "name": "The construction site",
+    "progressLabel": "Chapter 3",
+    "character": "ocholla",
+    "coords": [36.82, -1.288],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ben and his workmate Ocholla labour on a downtown Nairobi high-rise, the tower they help raise; the specific site is invented and sited among the real building works of the booming city centre.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "On the scaffolding of a rising office block, Ben and the earthy, philosophical Ocholla mix concrete and swap talk, building with their own hands a modern Nairobi that has no place for them. The tower they sweat to raise is the emblem of a boom whose profits flow everywhere but down to the men who make it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Going Down River Road, Meja Mwangi, on Ben and Ocholla",
+        "url": "https://en.wikipedia.org/wiki/Meja_Mwangi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shanty-room",
+    "name": "The shanty room",
+    "progressLabel": "Chapter 5",
+    "character": "wini",
+    "coords": [36.845, -1.29],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ben lodges in a cramped rented room in the poor quarters on the edge of the city centre with Wini and her small son; the room is sited in the real low-income districts of Nairobi.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "note": "For a while Ben shares a single crowded room with the typist Wini and her boy, a fragile approximation of a home. When Wini abandons them both for a richer man, leaving the child behind, the small domestic hope collapses, and Ben is left with a responsibility he never chose.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Going Down River Road, Meja Mwangi, on Wini",
+        "url": "https://en.wikipedia.org/wiki/Meja_Mwangi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "city-centre-boom",
+    "name": "The modern city centre",
+    "progressLabel": "Chapter 8",
+    "character": "ben",
+    "coords": [36.82, -1.285],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The gleaming new towers and avenues of central Nairobi rise a few streets from the flophouses; the real modern city centre embodies the boom that leaves Ben and his kind behind.",
+    "reference": "Chapter 8",
+    "order": 4,
+    "note": "A few blocks from River Road stand the glass towers, the banks and the offices of the independence-era boom, a Nairobi of money and progress Ben can only labour for and never enter. Mwangi sets the two cities side by side, the shining centre and its shadow, to indict the inequalities of the new nation.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Nairobi Central Business District",
+        "url": "https://en.wikipedia.org/wiki/Nairobi_Central_Business_District"
+      },
+      {
+        "kind": "guide",
+        "ref": "Going Down River Road, Meja Mwangi, on the city and inequality",
+        "url": "https://en.wikipedia.org/wiki/Meja_Mwangi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "river-road-descent",
+    "name": "River Road (the drinking dens)",
+    "progressLabel": "Chapter 11",
+    "character": "baby",
+    "coords": [36.83, -1.282],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ben's life plays out among the drinking dens and lodgings back on and around River Road, where he ends up raising Wini's abandoned son; sited in that real downtown quarter.",
+    "reference": "Chapters 11-12",
+    "order": 5,
+    "note": "Left with Wini's small boy, Ben carries him through the same round of casual work, drink and River Road rooms, a rough, unlikely tenderness surviving in the wreckage. The book ends with no rescue and no ruin, only the stubborn going-on of the poor, the child a thin thread of hope down the river road.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Going Down River Road, Meja Mwangi, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Meja_Mwangi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
