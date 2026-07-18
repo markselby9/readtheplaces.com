@@ -1,0 +1,46 @@
+{
+  "id": "the-white-guard",
+  "title": "The White Guard",
+  "author": "Mikhail Bulgakov",
+  "published": 1925,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [30.523, 50.45],
+  "zoom": 13,
+  "setting": {
+    "city": "Kyiv",
+    "country": "UA",
+    "note": "The winter of 1918–19 in Kyiv, as the German-backed Hetmanate collapses and Petliura's Ukrainian nationalists close on the City, seen through the Turbin family and their friends, officers of a cause already lost. Bulgakov maps his own Kyiv: the family house on the steep Andriyivskyy Descent, the gymnasium where the volunteers muster, the shops and panic of the centre, the Golden Gate and St Sophia, and the Dnieper down which the beaten forces retreat.",
+    "bbox": [30.5, 50.435, 30.56, 50.465]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Russian (Mikhail Bulgakov, 1925) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_White_Guard",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The White Guard, Mikhail Bulgakov (1925). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The golden lamplight of the Turbin home, the cream-curtained warmth Bulgakov sets against the snow and terror of the City outside. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "alexei": {
+      "name": "Alexei Turbin",
+      "color": "#2E5064"
+    },
+    "nikolka": {
+      "name": "Nikolka",
+      "color": "#2E6B4A"
+    },
+    "elena": {
+      "name": "Elena",
+      "color": "#8A2B1E"
+    },
+    "myshlaevsky": {
+      "name": "Myshlaevsky",
+      "color": "#4A4A4A"
+    }
+  }
+}

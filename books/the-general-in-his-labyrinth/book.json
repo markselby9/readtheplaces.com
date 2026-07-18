@@ -1,0 +1,46 @@
+{
+  "id": "the-general-in-his-labyrinth",
+  "title": "The General in His Labyrinth",
+  "author": "Gabriel García Márquez",
+  "published": 1989,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-74.3, 7.5],
+  "zoom": 6,
+  "setting": {
+    "city": "Magdalena River",
+    "country": "CO",
+    "note": "The last months of Simón Bolívar, in 1830, as the sick and disillusioned Liberator makes his final journey out of Bogotá and down the Magdalena River toward the sea and death, his dream of a united Spanish America in ruins. García Márquez follows the real route: the descent from Bogotá to the river port of Honda, the long boat journey down the great Magdalena, the colonial town of Mompox, and the hacienda at Santa Marta where he dies.",
+    "bbox": [-74.9, 4.5, -73.9, 11.3]
+  },
+  "rights": {
+    "originalWork": "In copyright. Gabriel García Márquez, first published 1989 (El general en su laberinto). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The General in His Labyrinth, Gabriel García Márquez (1989). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The faded gold of glory and the muddy gold of the Magdalena, the river carrying the ruined Liberator toward the sea. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "bolivar": {
+      "name": "Simón Bolívar",
+      "color": "#8A2B1E"
+    },
+    "manuela": {
+      "name": "Manuela Sáenz",
+      "color": "#6B3B5A"
+    },
+    "jose-palacios": {
+      "name": "José Palacios",
+      "color": "#4A4A4A"
+    },
+    "montilla": {
+      "name": "General Montilla",
+      "color": "#2E6B4A"
+    }
+  }
+}

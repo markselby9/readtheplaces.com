@@ -1,0 +1,127 @@
+[
+  {
+    "id": "bogota-departure",
+    "name": "Bogotá (the departure)",
+    "progressLabel": "Chapter 1",
+    "character": "manuela",
+    "coords": [-74.0817, 4.6097],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The journey begins in Bogotá, the real Andean capital, which Bolívar leaves in 1830 having resigned the presidency, his federation collapsing; his lover Manuela Sáenz remains behind in the city.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Bolívar sets out from a hostile Bogotá a ruined man, resigned, ill and mocked, leaving behind Manuela Sáenz, the fierce woman who twice saved his life. The high cold capital, where his enemies now hold power, is the start of the long descent toward the sea and the end.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bogotá, Colombia",
+        "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      },
+      {
+        "kind": "guide",
+        "ref": "The General in His Labyrinth, Wikipedia, on the departure and Manuela",
+        "url": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "honda-river-port",
+    "name": "Honda (down to the river)",
+    "progressLabel": "Chapter 2",
+    "character": "bolivar",
+    "coords": [-74.737, 5.201],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The party descends from the Andes to Honda, the real river port on the upper Magdalena where travellers left the mountain road and took to the boats.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "At the sweltering port of Honda, Bolívar leaves the mountains for the river, boarding the champán boats that will carry him north. The change from the cold heights to the river's heat marks his passage out of the world of power and into the long, feverish drift toward death.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Honda, Tolima, on the Magdalena River",
+        "url": "https://en.wikipedia.org/wiki/Honda,_Tolima"
+      },
+      {
+        "kind": "guide",
+        "ref": "The General in His Labyrinth, Wikipedia, on the river journey",
+        "url": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "magdalena-river-descent",
+    "name": "The Magdalena River (the descent)",
+    "progressLabel": "Chapters 3-5",
+    "character": "jose-palacios",
+    "coords": [-74.4, 6.49],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The heart of the book is the slow voyage down the Magdalena, the great river that is Colombia's spine; the real river and its heat, mosquitoes and riverside towns carry the failing general north.",
+    "reference": "Chapters 3-5",
+    "order": 3,
+    "note": "Day after day the boats slide down the brown river through jungle and heat, the devoted majordomo José Palacios tending the general who grows weaker and more spectral. On the water Bolívar relives his campaigns and betrayals, the labyrinth of the title being memory itself as much as the winding river.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Magdalena River",
+        "url": "https://en.wikipedia.org/wiki/Magdalena_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "The General in His Labyrinth, Wikipedia, on José Palacios and the voyage",
+        "url": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mompox",
+    "name": "Mompox",
+    "progressLabel": "Chapter 5",
+    "character": "montilla",
+    "coords": [-74.426, 9.241],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The voyage passes through Mompox (Mompós), the real colonial town on the Magdalena, once rich and now declining, where the general is received by old comrades such as General Montilla.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "In the faded colonial splendour of Mompox, generals and officials still honour the Liberator even as the union he built falls apart around them. The half-abandoned river town, glory turned to ruin, mirrors Bolívar's own passage from the summit of power to a lonely death.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Santa Cruz de Mompox",
+        "url": "https://en.wikipedia.org/wiki/Mompox"
+      },
+      {
+        "kind": "guide",
+        "ref": "The General in His Labyrinth, Wikipedia, on the river towns",
+        "url": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santa-marta-death",
+    "name": "Santa Marta (his death)",
+    "progressLabel": "Chapter 8",
+    "character": "bolivar",
+    "coords": [-74.13, 11.22],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Bolívar dies at the hacienda of San Pedro Alejandrino near Santa Marta on the Caribbean coast, the real estate now a museum; it is the endpoint of the journey and of his life.",
+    "reference": "Chapter 8",
+    "order": 5,
+    "note": "At a borrowed hacienda outside Santa Marta, within sight of the sea he meant to sail into exile, Bolívar dies in December 1830, penniless and all but disowned by the nations he founded. García Márquez ends the labyrinth here, the Liberator undone by the same continent he liberated.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Quinta de San Pedro Alejandrino, Santa Marta",
+        "url": "https://en.wikipedia.org/wiki/Quinta_de_San_Pedro_Alejandrino"
+      },
+      {
+        "kind": "guide",
+        "ref": "The General in His Labyrinth, Wikipedia, on Bolívar's death",
+        "url": "https://en.wikipedia.org/wiki/The_General_in_His_Labyrinth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

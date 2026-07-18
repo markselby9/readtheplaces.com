@@ -1,0 +1,127 @@
+[
+  {
+    "id": "turbin-house-andriyivskyy",
+    "name": "The Turbin house, Andriyivskyy Descent",
+    "progressLabel": "Part 1",
+    "character": "elena",
+    "coords": [30.5165, 50.4595],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Turbins' home stands on the steep Andriyivskyy Descent (called St Alexeyevsky in the book), drawn directly from Bulgakov's own house at No. 13, now a museum on the real Kyiv street.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "Behind the cream-coloured curtains, under the tiled stove and the shaded lamp, Elena keeps the warmth of the Turbin home while the world outside comes apart. The house is the still centre of the book, the last refuge of an old life, as officers drift in from the snow with worse and worse news.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bulgakov House on Andriyivskyy Descent, Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Bulgakov_Museum,_Kyiv"
+      },
+      {
+        "kind": "guide",
+        "ref": "The White Guard, Wikipedia, on the Turbins and the setting",
+        "url": "https://en.wikipedia.org/wiki/The_White_Guard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "alexander-gymnasium",
+    "name": "The gymnasium (the mustering)",
+    "progressLabel": "Part 1",
+    "character": "alexei",
+    "coords": [30.5115, 50.4415],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The volunteers muster at the Alexander Gymnasium, drawn from the First Kyiv Gymnasium that Bulgakov himself attended; sited at the real school near the university boulevard.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "At the gymnasium, the army doctor Alexei Turbin and a ragged mortar division of officers and cadets are hastily armed to defend the City against Petliura, then abruptly disbanded by commanders who have already fled. The betrayal of these men, sent to die or told to run, is the book's bitter core.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "First Kyiv Gymnasium",
+        "url": "https://en.wikipedia.org/wiki/First_Kyiv_Gymnasium"
+      },
+      {
+        "kind": "guide",
+        "ref": "The White Guard, Wikipedia, on Alexei Turbin and the defence",
+        "url": "https://en.wikipedia.org/wiki/The_White_Guard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kreshchatik-city-centre",
+    "name": "The City centre (Kreshchatik)",
+    "progressLabel": "Part 2",
+    "character": "myshlaevsky",
+    "coords": [30.523, 50.447],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The panic and collapse play out through the centre of Kyiv along Kreshchatik, the real main avenue, as rumour, refugees and rival flags fill the streets.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "Through the shops and cafés of Kreshchatik surge the crowds of a city changing hands, deserters, profiteers and terrified citizens, while the hard-bitten Myshlaevsky and his fellow officers try to hold some line in the chaos. Bulgakov renders the exact texture of a great city in the hour of its fall.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Khreshchatyk, Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Khreshchatyk"
+      },
+      {
+        "kind": "guide",
+        "ref": "The White Guard, Wikipedia, on the fall of the City",
+        "url": "https://en.wikipedia.org/wiki/The_White_Guard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "golden-gate-st-sophia",
+    "name": "The Golden Gate and St Sophia",
+    "progressLabel": "Part 2",
+    "character": "nikolka",
+    "coords": [30.5136, 50.4485],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old landmarks of upper Kyiv, the Golden Gate and the cathedral of St Sophia, stand amid the fighting; both are real monuments of the city, near where the rearguard action is fought.",
+    "reference": "Part 2",
+    "order": 4,
+    "note": "In the streets of the old city the young Nikolka witnesses the death of the heroic Colonel Nai-Turs, who stays to cover the cadets' retreat and is cut down. Against the ancient stones of the Golden Gate and St Sophia, the private courage of a few doomed men shines out of the general collapse.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Golden Gate, Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv"
+      },
+      {
+        "kind": "guide",
+        "ref": "The White Guard, Wikipedia, on Nikolka and Nai-Turs",
+        "url": "https://en.wikipedia.org/wiki/The_White_Guard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dnieper-retreat",
+    "name": "The Dnieper (the retreat)",
+    "progressLabel": "Part 3",
+    "character": "alexei",
+    "coords": [30.556, 50.44],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The beaten German and White forces fall back across the Dnieper, the great river on Kyiv's eastern edge; the real river and its bridges mark the boundary of the abandoned City.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "As Petliura's men enter and the old order withdraws over the Dnieper, the wounded Alexei barely escapes with his life, and the Turbins are left to survive under whatever power comes next. The river marks the edge of everything lost, and the uneasy, provisional peace with which the book ends.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dnieper river at Kyiv",
+        "url": "https://en.wikipedia.org/wiki/Dnieper"
+      },
+      {
+        "kind": "guide",
+        "ref": "The White Guard, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_White_Guard"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
