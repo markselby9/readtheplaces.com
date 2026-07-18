@@ -4,20 +4,35 @@
   "author": "Max Beerbohm",
   "published": 1911,
   "orderingKey": "chapter",
-  "center": [-1.2578, 51.752],
-  "zoom": 12.5,
+  "sourcing": "cited",
+  "center": [-1.2545, 51.7505],
+  "zoom": 13.5,
   "setting": {
     "city": "Oxford",
     "country": "GB",
-    "note": "Oxford in a single doomed summer term: the High, the river Isis, the Emperors’ heads outside the Sheldonian. Beerbohm invents a college but keeps the city exact, and it brings Oxford into the atlas.",
+    "note": "Oxford in one fatal summer term. A conjuror of dazzling beauty arrives to stay with her grandfather, the head of a college Beerbohm invents but sets in a city he keeps exact, and every undergraduate falls hopelessly in love. The map runs from the colleges of the High to the Sheldonian and Broad Street, then down through Christ Church Meadow to the Isis, where the young men drown themselves during Eights Week. It brings Oxford into the atlas.",
     "bbox": [-1.304, 51.711, -1.176, 51.796]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Max Beerbohm published this in 1911.",
+    "originalWork": "In copyright. Max Beerbohm, first published 1911. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/max-beerbohm/zuleika-dobson",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Max Beerbohm, Zuleika Dobson (1911)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Zuleika_Dobson",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Zuleika Dobson, Max Beerbohm (1911). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "A twilight violet for the glamour that empties a university into the river. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "zuleika": {
+      "name": "Zuleika Dobson",
+      "color": "#8A2B1E"
+    },
+    "dorset": {
+      "name": "The Duke of Dorset",
+      "color": "#2E5064"
+    }
   }
 }

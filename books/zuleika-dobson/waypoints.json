@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "judas-college",
+    "name": "Judas College (the Oxford colleges)",
+    "progressLabel": "Chapter 2",
+    "character": "zuleika",
+    "coords": [-1.2517, 51.7505],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Judas College is Beerbohm's invention, the college whose Warden is Zuleika's grandfather and where she lodges. There is no Judas at Oxford, so this marks a representative point among the old riverside colleges off the High, near Merton and Christ Church, the milieu the fictional college belongs to.",
+    "reference": "Chapter 2",
+    "order": 1,
+    "note": "Zuleika arrives to stay with her grandfather, the Warden of Judas, and the college dinner that first night sets the catastrophe going: the Duke of Dorset and the whole undergraduate body fall for her at once. Beerbohm keeps the city precise while inventing the college, so Judas stands in for the gated quadrangles and hall dinners of the real Oxford colleges.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Zuleika Dobson, Wikipedia, on the invented Judas College and the Warden as Zuleika's grandfather",
+        "url": "https://en.wikipedia.org/wiki/Zuleika_Dobson"
+      },
+      {
+        "kind": "guide",
+        "ref": "Colleges of the University of Oxford, Wikipedia, on the old colleges off the High",
+        "url": "https://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sheldonian-emperors-heads",
+    "name": "The Sheldonian and the Emperors' heads",
+    "progressLabel": "Chapter 2",
+    "character": "zuleika",
+    "coords": [-1.255, 51.7543],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The row of stone busts outside the Sheldonian Theatre on Broad Street is real; it was Beerbohm's novel that fixed the popular name 'the Emperors' on them. The coordinates mark the Sheldonian.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "As Zuleika drives into Oxford, the carved heads that guard the Sheldonian break out in a cold sweat, an omen of the ruin she brings. The busts are a genuine Oxford landmark, and it is Beerbohm's book that made everyone call them the Caesars or Emperors; here the city's own stone recoils at her arrival.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sheldonian Theatre, Wikipedia, on the theatre and the row of Emperors' heads on Broad Street",
+        "url": "https://en.wikipedia.org/wiki/Sheldonian_Theatre"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Zuleika Dobson, Wikipedia, on the sweating Emperors as an omen of Zuleika's arrival",
+        "url": "https://en.wikipedia.org/wiki/Zuleika_Dobson"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "broad-street-bodleian",
+    "name": "Broad Street and the Bodleian",
+    "progressLabel": "Chapter 7",
+    "character": "dorset",
+    "coords": [-1.25444, 51.75389],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Broad Street and the Bodleian Library are named landmarks of the Oxford the novel moves through; the coordinates mark the Old Schools Quadrangle of the Bodleian, just off Broad Street.",
+    "reference": "Chapter 7",
+    "order": 3,
+    "note": "The wide thoroughfare of Broad Street and the great library beside it stand for the learned, ceremonious Oxford that Zuleika's spell overturns. Along here the enamoured undergraduates parade and the Duke of Dorset wrestles with the humiliation of his passion, the institutions of study helpless against her.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bodleian Library, Wikipedia, on the library and its position off Broad Street",
+        "url": "https://en.wikipedia.org/wiki/Bodleian_Library"
+      },
+      {
+        "kind": "guide",
+        "ref": "Broad Street, Oxford, Wikipedia, on the street and its setting among the colleges",
+        "url": "https://en.wikipedia.org/wiki/Broad_Street,_Oxford"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "randolph-hotel",
+    "name": "The Randolph Hotel",
+    "progressLabel": "Chapter 1",
+    "character": "zuleika",
+    "coords": [-1.2596, 51.7551],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Randolph is Oxford's grand Victorian hotel on Beaumont Street, opposite the Ashmolean. It is not fixed as a scene in the novel; it stands here for the world of metropolitan glamour Zuleika carries into a university town, and the hotel later hung a series of paintings illustrating the book.",
+    "reference": "Chapter 1",
+    "order": 4,
+    "note": "The Randolph is the city's one hotel of real luxury, the natural stage for a celebrity conjuror's arrival from London and the salons of Europe. It marks the glittering outside world that Zuleika brings with her, so out of place among the ancient quadrangles; long after the novel, the hotel commissioned paintings of her story for its walls.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Randolph Hotel, Oxford, Wikipedia, on the hotel on Beaumont Street and its Zuleika Dobson paintings",
+        "url": "https://en.wikipedia.org/wiki/Randolph_Hotel,_Oxford"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Zuleika Dobson, Wikipedia, on Zuleika as a travelling conjuror arriving from the wider world",
+        "url": "https://en.wikipedia.org/wiki/Zuleika_Dobson"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-high-street",
+    "name": "The High Street",
+    "progressLabel": "Chapter 3",
+    "character": "dorset",
+    "coords": [-1.2525, 51.7519],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The High, Oxford's curving main street lined with colleges, is a named part of the novel's Oxford; the coordinates mark a central point on the High between the colleges.",
+    "reference": "Chapter 3",
+    "order": 5,
+    "note": "The High, the long curve of a street that threads the colleges, is where the undergraduates throng and the Duke of Dorset walks out his lovesickness in full public view. It is the ceremonial spine of the university, and Beerbohm crowds it with the young men who will shortly follow Zuleika to the river.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "High Street, Oxford, Wikipedia, on the street and the colleges along it",
+        "url": "https://en.wikipedia.org/wiki/High_Street,_Oxford"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Zuleika Dobson, Wikipedia, on the Duke of Dorset and the smitten undergraduates",
+        "url": "https://en.wikipedia.org/wiki/Zuleika_Dobson"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "isis-eights-drowning",
+    "name": "The Isis: the drowning at the Eights",
+    "progressLabel": "Chapter 20",
+    "character": "dorset",
+    "coords": [-1.2497, 51.7421],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The climax is set on the Isis, the Thames at Oxford, during the Eights Week bumps races; the coordinates mark the line of college boathouses below Christ Church Meadow where the barges once moored and the crews launch.",
+    "reference": "Chapter 20",
+    "order": 6,
+    "note": "During the Eights Week races the whole undergraduate body throws itself into the river and drowns for love of Zuleika, the college barges and boathouses lining the bank as helpless witnesses. The Isis is the working stretch of the Thames below Christ Church Meadow where Oxford still rows its bumps; Beerbohm turns the summer regatta into a mass suicide.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Isis, Wikipedia, on the Thames at Oxford and the college rowing on it",
+        "url": "https://en.wikipedia.org/wiki/The_Isis"
+      },
+      {
+        "kind": "guide",
+        "ref": "Summer Eights, Wikipedia, on the Eights Week bumps races and the boathouses below Christ Church Meadow",
+        "url": "https://en.wikipedia.org/wiki/Summer_Eights"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
