@@ -1,1 +1,133 @@
-[]
+[
+  {
+    "id": "pension-bertolini-lungarno",
+    "name": "The Pension Bertolini, on the Lungarno",
+    "progressLabel": "Chapter 1",
+    "character": "lucy",
+    "coords": [11.2597, 43.7676],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Pension Bertolini is invented, but Forster drew it from the Pensione Simi at 2 Lungarno delle Grazie, where he stayed with his mother in 1901; sited on that stretch of the Arno embankment.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The novel opens at an English pension on the river, where the heroine is given a room facing a courtyard rather than the Arno she was promised. A fellow guest offers to swap so she can have her view, and the small act of kindness starts everything. Forster set the fictional pension on the embankment he knew from his own stay near Santa Croce.",
+    "sources": [
+      {
+        "kind": "author",
+        "ref": "Walks in Rome, Florence: A Literary Tour, on the Pensione Simi at 2 Lungarno delle Grazie as Forster's model",
+        "url": "https://www.walksinrome.com/italy-florence-a-literary-tour.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Room with a View, Wikipedia, on the Florence setting",
+        "url": "https://en.wikipedia.org/wiki/A_Room_with_a_View"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santa-croce",
+    "name": "Santa Croce",
+    "progressLabel": "Chapter 2",
+    "character": "lucy",
+    "coords": [11.2622, 43.7686],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Forster names the church of Santa Croce as the setting of the chapter; sited at the basilica on the Piazza di Santa Croce.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Left without her guidebook, the heroine wanders the Franciscan church of Santa Croce and falls in with the same guest from the pension and his outspoken father. The famous chapel of frescoes becomes the stage for a first, awkward conversation that unsettles her sense of what is proper.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Santa Croce, Florence, Wikipedia, for the basilica's location",
+        "url": "https://en.wikipedia.org/wiki/Santa_Croce,_Florence"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "piazza-della-signoria",
+    "name": "Piazza della Signoria",
+    "progressLabel": "Chapter 4",
+    "character": "george",
+    "coords": [11.256, 43.7696],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Forster names the Piazza della Signoria as the scene of the fainting; sited at the square before the Palazzo Vecchio.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "Crossing the great civic square alone, the heroine witnesses a sudden, violent death between two men and faints, and the young man from the pension is there to catch her. The shock in the Piazza della Signoria breaks through her careful composure and binds the two of them together.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Piazza della Signoria, Wikipedia, for the square's location",
+        "url": "https://en.wikipedia.org/wiki/Piazza_della_Signoria"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fiesole-hillside",
+    "name": "The hillside at Fiesole",
+    "progressLabel": "Chapter 6",
+    "character": "george",
+    "coords": [11.2931, 43.8067],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Forster names Fiesole as the destination of the carriage excursion; sited at the hill town above Florence, whose slopes carry the scene's violets.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "A party of English visitors drives up into the hills at Fiesole for an afternoon in the open air. Wandering onto a terrace of violets, the heroine comes upon the young man again, and he kisses her before her chaperone appears. It is the moment the trip has been building toward, and the one she spends the rest of the book denying.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fiesole, Wikipedia, for the hill town's location above Florence",
+        "url": "https://en.wikipedia.org/wiki/Fiesole"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "piazzale-michelangelo",
+    "name": "Piazzale Michelangelo",
+    "progressLabel": "Part One",
+    "character": "lucy",
+    "coords": [11.2649, 43.7625],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel prizes the view over Florence but does not name this terrace; the panoramic Piazzale Michelangelo stands in for the city's celebrated outlook that gives the book its title.",
+    "reference": "Part One",
+    "order": 5,
+    "note": "The whole of Part One turns on the idea of a view: the river, the domes and the hills the heroine longs to look out over. The panoramic terrace of the Piazzale Michelangelo, laid out above the south bank in the 1860s, offers the postcard prospect of Florence that the title keeps circling back to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Piazzale Michelangelo, Wikipedia, for the viewpoint's location and history",
+        "url": "https://en.wikipedia.org/wiki/Piazzale_Michelangelo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "summer-street-windy-corner",
+    "name": "Summer Street and Windy Corner, Surrey",
+    "progressLabel": "Chapter 8",
+    "character": "lucy",
+    "coords": [-0.4101, 51.1862],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Summer Street and the house called Windy Corner are invented, but the village is generally identified with Holmbury St Mary in the Surrey hills near Dorking, where Forster had family ties; sited at that village. Outside the Florence setting by design.",
+    "reference": "Chapter 8",
+    "order": 6,
+    "note": "Part Two moves home to the Weald, to a village called Summer Street and the heroine's family house on a windy ridge. When the young man from Florence turns up as a neighbour, the emotions she thought she had left in Italy return. The country stands in for the real Surrey hills around Holmbury St Mary, a landscape Forster knew well.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Holmbury St Mary, Wikipedia, on its identification with the novel's Summer Street",
+        "url": "https://en.wikipedia.org/wiki/Holmbury_St_Mary"
+      },
+      {
+        "kind": "external",
+        "ref": "Dorking Museum, A Room with a View, on the Surrey connections",
+        "url": "https://dorkingmuseum.org.uk/a-room-with-a-view/"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

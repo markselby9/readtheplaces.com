@@ -4,20 +4,35 @@
   "author": "E. M. Forster",
   "published": 1908,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [11.2556, 43.7698],
   "zoom": 12.5,
   "setting": {
     "city": "Florence",
     "country": "IT",
-    "note": "The Piazza della Signoria, Santa Croce, and the Arno, where a killing in the square changes everything. Half the book then moves to an invented corner of Surrey, so its certainty labels will earn their keep.",
+    "note": "A young Englishwoman on the Grand Tour is unsettled by Florence and by a fellow guest at her pension, and the feeling follows her home. Part One maps the real city: a pension on the Arno embankment, the church of Santa Croce, the Piazza della Signoria where she faints, and the violet-covered slopes at Fiesole. Part Two moves to the Surrey hills near Dorking, mapped as scenes outside the setting.",
     "bbox": [11.15, 43.726, 11.339, 43.835]
   },
   "rights": {
-    "originalWork": "TODO: confirm. E. M. Forster published this in 1908.",
+    "originalWork": "In copyright. E. M. Forster, first published 1908. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/e-m-forster/a-room-with-a-view",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "E. M. Forster, A Room with a View (1908)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Room_with_a_View",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Room with a View, E. M. Forster (1908). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The violets of the Fiesole hillside, where the story turns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lucy": {
+      "name": "Lucy Honeychurch",
+      "color": "#2E5064"
+    },
+    "george": {
+      "name": "George Emerson",
+      "color": "#8A2B1E"
+    }
   }
 }
