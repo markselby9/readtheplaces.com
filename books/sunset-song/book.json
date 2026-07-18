@@ -1,0 +1,46 @@
+{
+  "id": "sunset-song",
+  "title": "Sunset Song",
+  "author": "Lewis Grassic Gibbon",
+  "published": 1932,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.3, 56.93],
+  "zoom": 11,
+  "setting": {
+    "city": "The Mearns",
+    "country": "GB",
+    "note": "Chris Guthrie grows up on a hard-won farm in the Mearns, the farming country of north-east Scotland, torn between the land she loves and the learning that could take her from it, as the First World War comes to break the old crofting world for good. Grassic Gibbon set his parish of Kinraddie in the real Howe of the Mearns around Arbuthnott: the farm of Blawearie, the ancient standing stones above it, the parish kirk, and the market town of Stonehaven on the coast.",
+    "bbox": [-2.4, 56.88, -2.19, 56.98]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original (Lewis Grassic Gibbon, 1932) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Sunset_Song",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the text, in any territory.",
+    "attribution": "Sunset Song, Lewis Grassic Gibbon (1932). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the harvest fields and of the sunset of the old crofting Scotland the war destroys, the elegy at the centre of the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "chris": {
+      "name": "Chris Guthrie",
+      "color": "#8A2B1E"
+    },
+    "ewan": {
+      "name": "Ewan Tavendale",
+      "color": "#2E5064"
+    },
+    "chae": {
+      "name": "Chae Strachan",
+      "color": "#2E6B4A"
+    },
+    "long-rob": {
+      "name": "Long Rob of the Mill",
+      "color": "#6B3B5A"
+    }
+  }
+}

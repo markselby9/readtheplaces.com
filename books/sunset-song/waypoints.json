@@ -1,0 +1,112 @@
+[
+  {
+    "id": "blawearie-farm",
+    "name": "Blawearie farm, Kinraddie",
+    "progressLabel": "The Song",
+    "character": "chris",
+    "coords": [-2.35, 56.9],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Guthrie farm of Blawearie in the parish of Kinraddie is invented but drawn from the real Howe of the Mearns around Arbuthnott, where Grassic Gibbon grew up; sited there in the north-east Scottish farmland.",
+    "reference": "The Song (main narrative)",
+    "order": 1,
+    "note": "On the croft of Blawearie, Chris Guthrie is raised under a harsh, land-broken father, and comes to feel herself split between two Chrisses, the one who loves books and the one bound body and soul to the soil. The farm, its labour and its seasons, is the ground of the whole book and of Chris's fierce attachment to the land.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Arbuthnott and the Mearns, Grassic Gibbon country",
+        "url": "https://en.wikipedia.org/wiki/Arbuthnott"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sunset Song, Wikipedia, on Chris Guthrie and Kinraddie",
+        "url": "https://en.wikipedia.org/wiki/Sunset_Song"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-standing-stones",
+    "name": "The standing stones",
+    "progressLabel": "The Song",
+    "character": "chris",
+    "coords": [-2.345, 56.905],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Chris returns again and again to the ancient standing stones above the farm; such prehistoric stones are real features of the Mearns landscape and are the book's recurring emblem of endurance and deep time.",
+    "reference": "The Song (main narrative)",
+    "order": 2,
+    "note": "By the old stones on the hill, older than any of the quarrels and losses below, Chris finds the one place she can be wholly herself and take the long view of her life and her land. The stones frame the novel, standing witness to the passing of the crofting world and, at the end, bearing the names of the war dead.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sunset Song, Wikipedia, on the standing stones",
+        "url": "https://en.wikipedia.org/wiki/Sunset_Song"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "stonehaven-market",
+    "name": "Stonehaven (the market town)",
+    "progressLabel": "The Song",
+    "character": "chae",
+    "coords": [-2.211, 56.964],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The nearest market town is Stonehaven on the coast, a real burgh of Kincardineshire, where the folk of Kinraddie go for the mart, the shops and the law.",
+    "reference": "The Song (main narrative)",
+    "order": 3,
+    "note": "In Stonehaven the parish meets the wider world of markets, ministers and, soon, recruiting sergeants, and the crofter-socialist Chae Strachan argues his politics against the coming war. The town is where the slow rhythms of the land brush up against the century that is about to sweep them away.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Stonehaven, Aberdeenshire",
+        "url": "https://en.wikipedia.org/wiki/Stonehaven"
+      },
+      {
+        "kind": "guide",
+        "ref": "Sunset Song, Wikipedia, on the community and Chae Strachan",
+        "url": "https://en.wikipedia.org/wiki/Sunset_Song"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-kirk",
+    "name": "The parish kirk",
+    "progressLabel": "The Song",
+    "character": "long-rob",
+    "coords": [-2.352, 56.898],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The parish kirk is the social centre of Kinraddie, drawn from Arbuthnott church; the specific building is sited in the real parish, its congregation the whole community.",
+    "reference": "The Song (main narrative)",
+    "order": 4,
+    "note": "At the kirk the parish gathers, gossips and buries its dead, and the sceptical miller Long Rob refuses its pieties even as the war closes in on the young men. Grassic Gibbon renders the whole community in its Scots speech, a chorus of voices around Chris's story, doomed and vivid.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sunset Song, Wikipedia, on the parish and Long Rob",
+        "url": "https://en.wikipedia.org/wiki/Sunset_Song"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-war-memorial",
+    "name": "The war and the memorial",
+    "progressLabel": "The Unfurled Flag",
+    "character": "ewan",
+    "coords": [-2.346, 56.904],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The First World War takes the young men of Kinraddie, among them Chris's husband Ewan; a memorial to the parish dead is raised at the standing stones, sited in the real landscape of the Mearns.",
+    "reference": "The Unfurled Flag",
+    "order": 5,
+    "note": "Ewan, Chris's husband, goes to the war a decent lad and is shot as a deserter, one of the parish's four young men the fighting swallows. The book ends with a memorial to them set among the ancient stones, and the last of the old Scotland, its speech and its ways, laid to rest with its dead.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sunset Song, Wikipedia, on the war and the ending",
+        "url": "https://en.wikipedia.org/wiki/Sunset_Song"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

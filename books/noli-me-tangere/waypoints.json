@@ -1,0 +1,128 @@
+[
+  {
+    "id": "binondo-tiago-house",
+    "name": "Binondo (Kapitán Tiago's house)",
+    "progressLabel": "Chapter 1",
+    "character": "kapitan-tiago",
+    "coords": [120.975, 14.6],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens at a dinner in the house of the wealthy Kapitán Tiago in Binondo, the real merchant district of Manila across the Pasig from the walled city.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At Kapitán Tiago's crowded dinner party in Binondo, the returning Ibarra is introduced to a society of friars, officials and social climbers whose vanity and menace Rizal lays out at once. The prosperous, obsequious Tiago, forever currying favour with the powerful, embodies the collaborating class the book dissects.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Binondo, Manila",
+        "url": "https://en.wikipedia.org/wiki/Binondo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Noli Me Tangere, Wikipedia, on the opening and Kapitán Tiago",
+        "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "san-diego-town",
+    "name": "San Diego (Ibarra's town)",
+    "progressLabel": "Chapters 6-10",
+    "character": "ibarra",
+    "coords": [121.1653, 14.2118],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ibarra's home town of San Diego is invented but drawn from Rizal's own Calamba in Laguna, south of Manila; sited there in the countryside, a day's journey from the capital.",
+    "reference": "Chapters 6-10",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "In the provincial town of San Diego, Ibarra tries to honour his dead father by building a school, only to run up against the friars' power and the town's fear. Here he learns how his father was destroyed by Padre Dámaso, and the plot to ruin him in turn takes shape among the plaza, the church and the graveyard.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Calamba, Laguna, the model for San Diego",
+        "url": "https://en.wikipedia.org/wiki/Calamba,_Laguna"
+      },
+      {
+        "kind": "guide",
+        "ref": "Noli Me Tangere, Wikipedia, on San Diego and the school",
+        "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "intramuros-friars",
+    "name": "Intramuros (the friars)",
+    "progressLabel": "Chapters 11-20",
+    "character": "padre-damaso",
+    "coords": [120.975, 14.59],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The walled city of Intramuros, the real seat of Spanish and clerical power in Manila, is the fortress from which the friars such as Padre Dámaso rule the islands.",
+    "reference": "The Manila chapters",
+    "order": 3,
+    "note": "Within the stone walls of Intramuros sit the religious orders whose grip on land, schooling and conscience Rizal indicts, embodied in the arrogant Franciscan Padre Dámaso. The contrast between this fortified power and the defenceless towns it exploits is the book's central injustice.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Intramuros, Manila",
+        "url": "https://en.wikipedia.org/wiki/Intramuros"
+      },
+      {
+        "kind": "guide",
+        "ref": "Noli Me Tangere, Wikipedia, on the friars and Padre Dámaso",
+        "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pasig-escolta",
+    "name": "The Pasig and the Escolta",
+    "progressLabel": "The Manila chapters",
+    "character": "maria-clara",
+    "coords": [120.979, 14.597],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pasig River and the commercial promenade of the Escolta, the real heart of nineteenth-century Manila trade and society, are where the city's life and Ibarra's courtship of María Clara move.",
+    "reference": "The Manila chapters",
+    "order": 4,
+    "note": "Along the river and the fashionable Escolta unfolds the courtship of Ibarra and the gentle, sheltered María Clara, whose hidden parentage will become one of the book's cruellest revelations. The bright social surface of the capital masks the machinery of church and state closing on the lovers.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Escolta Street, Manila",
+        "url": "https://en.wikipedia.org/wiki/Escolta_Street"
+      },
+      {
+        "kind": "guide",
+        "ref": "Noli Me Tangere, Wikipedia, on Ibarra and María Clara",
+        "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bagumbayan-field",
+    "name": "Bagumbayan (the field)",
+    "progressLabel": "The ending",
+    "character": "ibarra",
+    "coords": [120.9797, 14.5826],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Bagumbayan field, the open ground outside the walls now the Luneta or Rizal Park, was the colonial execution ground; Rizal names it in the book and was himself shot there in 1896.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "As the friars' plot brings Ibarra to ruin and a staged rebellion, the shadow of the execution field falls over the whole book. History gave the foreshadowing its final weight: nine years after the novel appeared, the Spanish shot its author on this very ground, making a martyr and lighting the revolution.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bagumbayan and the execution of José Rizal (Rizal Park)",
+        "url": "https://en.wikipedia.org/wiki/Rizal_Park"
+      },
+      {
+        "kind": "guide",
+        "ref": "Noli Me Tangere, Wikipedia, on the ending and its legacy",
+        "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

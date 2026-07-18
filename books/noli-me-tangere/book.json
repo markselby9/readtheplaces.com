@@ -1,0 +1,46 @@
+{
+  "id": "noli-me-tangere",
+  "title": "Noli Me Tangere",
+  "author": "José Rizal",
+  "published": 1887,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [120.978, 14.592],
+  "zoom": 13,
+  "setting": {
+    "city": "Manila",
+    "country": "PH",
+    "note": "Rizal's incendiary portrait of the Spanish colonial Philippines follows Crisóstomo Ibarra, home from Europe with plans to build a school, as the friars who rule the islands destroy him. The book moves between the capital and the provinces: the merchant houses of Binondo, the walled clerical fortress of Intramuros, the promenades along the Pasig, the killing field of Bagumbayan where the author himself would later be shot, and Ibarra's home town of San Diego in the countryside to the south.",
+    "bbox": [120.96, 14.57, 120.995, 14.61]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Spanish (José Rizal, 1887) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Noli Me Tangere, José Rizal (1887). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the martyrdom and the coming revolution the book helped ignite, its author executed on the Bagumbayan field it names. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ibarra": {
+      "name": "Crisóstomo Ibarra",
+      "color": "#2E5064"
+    },
+    "maria-clara": {
+      "name": "María Clara",
+      "color": "#8A6A12"
+    },
+    "padre-damaso": {
+      "name": "Padre Dámaso",
+      "color": "#4A4A4A"
+    },
+    "kapitan-tiago": {
+      "name": "Kapitán Tiago",
+      "color": "#6B3B5A"
+    }
+  }
+}
