@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "wedding-feast-saloon",
+    "name": "The wedding feast in Back of the Yards",
+    "progressLabel": "Chapter 1",
+    "character": "ona",
+    "coords": [-87.666, 41.809],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel opens at a hired hall behind a saloon in the packing district; the specific saloon is fictional, so it is sited in Back of the Yards, the real immigrant neighbourhood south and west of the stock yards where such halls stood.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The book opens on the wedding party of the two young immigrants, held in a rented hall behind a neighbourhood saloon. The old-country custom expects guests to give what they can to help the couple start out, but many eat, drink and leave without paying, and the family is left owing the saloon-keeper money it does not have. The celebration doubles as a first lesson in how the new city works.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Jungle, Wikipedia, on the opening wedding feast (veselija) and its setting",
+        "url": "https://en.wikipedia.org/wiki/The_Jungle"
+      },
+      {
+        "kind": "external",
+        "ref": "Encyclopedia of Chicago, Back of the Yards, on the neighbourhood beside the stock yards",
+        "url": "http://www.encyclopedia.chicagohistory.org/pages/109.html"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "union-stock-yards",
+    "name": "The Union Stock Yards",
+    "progressLabel": "Chapter 2",
+    "character": "jurgis",
+    "coords": [-87.6566, 41.8157],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sinclair names the Union Stock Yards, the vast real livestock market on Chicago's South Side; sited at the yards, which ran between Halsted Street and Racine Avenue, 39th to 47th Street.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Newly arrived, the family walks out to the great stockyards and sees the scale of the place for the first time: mile on mile of cattle pens, the noise and smell of tens of thousands of animals, and the railway lines feeding them in. To the hero it looks like the centre of the working world and the promise of steady wages. The yards were an actual Chicago institution; only the limestone entrance gate on Exchange Avenue still stands today.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Union Stock Yards, Wikipedia, for the yards' location and boundaries",
+        "url": "https://en.wikipedia.org/wiki/Union_Stock_Yards"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Union Stock Yard Gate, National Historic Landmark, Chicago Landmarks database",
+        "url": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1441"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "packingtown-killing-floors",
+    "name": "Packingtown: the killing floors",
+    "progressLabel": "Chapter 3",
+    "character": "jurgis",
+    "coords": [-87.66, 41.815],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sinclair calls the packinghouse district Packingtown and sets the killing floors there; the firms are given invented names but stand for the real Chicago packers, Armour and Swift, whose plants adjoined the yards.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "The hero is hired on a killing floor, where animals are driven up a ramp and slaughtered, dismembered and processed at speed by a chain of workers each doing one repeated cut. Sinclair walks the reader through the plant to expose the filth of the process and the danger of the work: diseased meat waved through, injuries that end careers, and a pace set to wring the most from every hand. The packers are fictionalised, but the district and the industry were real.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Union Stock Yards, Wikipedia, on the Packingtown meatpacking plants of Armour and Swift",
+        "url": "https://en.wikipedia.org/wiki/Union_Stock_Yards"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Jungle, Wikipedia, on Sinclair's exposure of conditions in the packinghouses",
+        "url": "https://en.wikipedia.org/wiki/The_Jungle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "back-of-the-yards-tenement",
+    "name": "Back of the Yards: the family's house",
+    "progressLabel": "Chapter 4",
+    "character": "ona",
+    "coords": [-87.6678, 41.8067],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The family buys a house in the slum beside the yards; the exact address is fictional, so it is sited in Back of the Yards, the real immigrant neighbourhood immediately south and west of Packingtown.",
+    "reference": "Chapter 4",
+    "order": 4,
+    "note": "Persuaded by an agent, the family buys a small house on the instalment plan, only to discover the contract is a trap of hidden charges built to be foreclosed the moment a payment is missed. Home is the crowded immigrant district beside the plants, where the unpaved streets, open sewage and bad water feed constant sickness. The neighbourhood, Back of the Yards, was a real place; the swindle stands for the ones worked on immigrant buyers.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Encyclopedia of Chicago, Back of the Yards, on the immigrant slum beside the stock yards",
+        "url": "http://www.encyclopedia.chicagohistory.org/pages/109.html"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Jungle, Wikipedia, on the house-buying swindle and the family's living conditions",
+        "url": "https://en.wikipedia.org/wiki/The_Jungle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dump-and-fertilizer-works",
+    "name": "The dump and the fertilizer works",
+    "progressLabel": "Chapter 9",
+    "character": "jurgis",
+    "coords": [-87.664, 41.811],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sinclair describes a great refuse dump and the packers' fertilizer plant at the edge of Packingtown; the exact spot is not named, so it is sited between Back of the Yards and the stock yards where such works stood.",
+    "reference": "Chapter 9",
+    "order": 5,
+    "note": "Out of better options, the hero takes the worst job in the plant, in the fertilizer works, where ground bone and waste fill the air with dust that sickens the men who breathe it. Nearby lies the district's great dump, where the poorest scavenge and children play amid the refuse. Sinclair uses both to show how nothing at the yards was wasted and how the cost of that efficiency fell on the people who lived in its shadow.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Jungle, Wikipedia, on the fertilizer works and the conditions Sinclair reported",
+        "url": "https://en.wikipedia.org/wiki/The_Jungle"
+      },
+      {
+        "kind": "external",
+        "ref": "Union Stock Yards, Wikipedia, on the by-product and rendering works of the packing district",
+        "url": "https://en.wikipedia.org/wiki/Union_Stock_Yards"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "downtown-the-loop",
+    "name": "Downtown: the Loop",
+    "progressLabel": "Chapter 24",
+    "character": "jurgis",
+    "coords": [-87.6278, 41.8807],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The later chapters move to downtown Chicago, where the hero begs on the streets and wanders into a political meeting; sited in the Loop, the real central business district around State and Madison.",
+    "reference": "Chapter 24",
+    "order": 6,
+    "note": "Broken by the loss of his family and his work, the hero drifts into the downtown streets, begging from the crowds and passing through the city's other half of wealth and comfort. Near the end he shelters in a hall where a socialist orator is speaking, and the speech gives the book its closing turn toward political hope. The Loop was and is the real heart of downtown Chicago.",
+    "sources": [
+      {
+        "kind": "external",
+        "ref": "Chicago Loop, Wikipedia, for the downtown district's location",
+        "url": "https://en.wikipedia.org/wiki/Chicago_Loop"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Jungle, Wikipedia, on the closing chapters and the socialist speech",
+        "url": "https://en.wikipedia.org/wiki/The_Jungle"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -4,20 +4,35 @@
   "author": "Upton Sinclair",
   "published": 1906,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [-87.6566, 41.8157],
   "zoom": 12.5,
   "setting": {
     "city": "Chicago",
     "country": "US",
-    "note": "Packingtown and the Union Stock Yards, which Sinclair reported from directly. The yards are gone, Chicago has fourteen georeferenced historical maps, and the two facts belong together.",
-    "bbox": [-87.94, 41.645, -87.524, 42.023]
+    "note": "A Lithuanian immigrant and his family come to Chicago for work and are ground down by the meatpacking industry. The map runs across the South Side: the real Union Stock Yards and the packinghouse district called Packingtown, the immigrant slum of Back of the Yards beside it, the dump and fertilizer works on its edge, and the downtown Loop where the ruined hero drifts at the end. Sinclair reported from the yards in 1904 before writing the book.",
+    "bbox": [-87.7, 41.79, -87.62, 41.89]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Upton Sinclair published this in 1906.",
+    "originalWork": "In copyright. Upton Sinclair, first published 1906. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/upton-sinclair/the-jungle",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Upton Sinclair, The Jungle (1906)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Jungle",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Jungle, Upton Sinclair (1906). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The dull red of the killing floors and the brick of the packinghouses. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jurgis": {
+      "name": "Jurgis Rudkus",
+      "color": "#2E5064"
+    },
+    "ona": {
+      "name": "Ona Lukoszaite",
+      "color": "#8A6A12"
+    }
   }
 }
