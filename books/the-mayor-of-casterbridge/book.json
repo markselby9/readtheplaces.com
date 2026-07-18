@@ -4,20 +4,38 @@
   "author": "Thomas Hardy",
   "published": 1886,
   "orderingKey": "chapter",
-  "center": [-2.4371, 50.7132],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [-2.438, 50.714],
+  "zoom": 13,
   "setting": {
     "city": "Dorchester",
     "country": "GB",
-    "note": "Hardy’s Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings, the King’s Arms, the corn-market where a hay-trusser who once sold his wife at a country fair has risen to be mayor. He mapped his home town so exactly he later published the keys. It brings Thomas Hardy and Wessex into the atlas.",
+    "note": "Hardy's Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings where Henchard keeps his furtive meetings, the King's Arms on the High Street where the mayor holds his banquet, the corn-market where a hay-trusser who once sold his wife at a country fair has risen to preside, the Ten Hatches weir on the Frome where he goes to drown. Hardy mapped his home town so exactly he later published the keys. Only Weydon-Priors, drawn from Weyhill in Hampshire, sits well outside the town.",
     "bbox": [-2.474, 50.7, -2.406, 50.724]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Thomas Hardy published this in 1886.",
+    "originalWork": "Public domain. Thomas Hardy, first published 1886; the author died in 1928.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-hardy/the-mayor-of-casterbridge",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Thomas Hardy, The Mayor of Casterbridge (1886)."
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/143",
+    "territoryNotes": "Public domain in the United States and in the United Kingdom and EU, where the author died more than 70 years ago (1928).",
+    "attribution": "Thomas Hardy, The Mayor of Casterbridge (1886). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "golden haze",
+    "note": "The corn-gold of Casterbridge, a market town that lives by grain and where the townsfolk view Henchard through a golden haze of his own making. Clears WCAG AA on paper."
+  },
+  "characters": {
+    "henchard": {
+      "name": "Michael Henchard",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "brown corduroy"
+    },
+    "elizabeth": {
+      "name": "Elizabeth-Jane",
+      "color": "#2E5064",
+      "colorSourceQuote": "blue boots"
+    }
   }
 }
