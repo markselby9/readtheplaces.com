@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "id": "chandrapore-bankipore-ganges",
+    "name": "Chandrapore (Bankipore, Patna) on the Ganges",
+    "progressLabel": "Chapter 1",
+    "character": "aziz",
+    "coords": [85.1476, 25.6198],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Chandrapore is invented, but Forster built it from Bankipore, the civil-station suburb of Patna on the south bank of the Ganges, where he stayed in 1913. The coordinates mark Bankipore; no exact fictional address exists.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "The novel opens on Chandrapore, a low town of mud and bazaars strung along the Ganges, with the English quarter set apart on rising ground above it. Forster drew the city from Bankipore, the British station beside Patna, and kept its shape: a native city by the river, the sahibs looking down from the ridge behind.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Bankipore, Wikipedia, on the Patna suburb Forster used for Chandrapore",
+        "url": "https://en.wikipedia.org/wiki/Bankipore"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "A Passage to India, Wikipedia, on the setting and its basis in Bankipore",
+        "url": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mosque-by-the-river",
+    "name": "The mosque by the river",
+    "progressLabel": "Chapter 2",
+    "character": "mrs-moore",
+    "coords": [85.145, 25.6235],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The mosque where Aziz meets Mrs Moore is a scene set in fictional Chandrapore, not a named building. This marks the Bankipore riverfront, the ground Forster drew Chandrapore from, as a representative point.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Walking out at night, Aziz stops at a small mosque near the river and finds an Englishwoman already there, Mrs Moore, who has slipped away from the club. Their brief, courteous meeting in the dark is the first crossing of the line the rest of the book will test, and it sets the friendship the trial later breaks.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A Passage to India, Wikipedia, on the mosque meeting between Aziz and Mrs Moore",
+        "url": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Bankipore, Wikipedia, on the Ganges-side station behind Chandrapore",
+        "url": "https://en.wikipedia.org/wiki/Bankipore"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "civil-station-english-club",
+    "name": "The civil station and the English club",
+    "progressLabel": "Chapter 5",
+    "character": "adela",
+    "coords": [85.135, 25.613],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The civil station and its club are the setting of the Bridge Party, drawn from the real British station at Bankipore and its Bankipore Club. No single building is fixed in the novel; this marks the Bankipore civil-station area.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "note": "Above the native city sits the ordered English quarter, its bungalows, church and club laid out to keep the Raj apart. Here the well-meant Bridge Party, staged to introduce Adela and Mrs Moore to Indians, only shows how deep the separation runs. Forster took the arrangement from Bankipore's civil station and its club, where the British of Patna kept to themselves.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bankipore Club, Wikipedia, on the Patna club behind the novel's English club",
+        "url": "https://en.wikipedia.org/wiki/Bankipore_Club"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "A Passage to India, Wikipedia, on the civil station and the Bridge Party",
+        "url": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marabar-barabar-caves",
+    "name": "The Marabar Caves (the Barabar Caves)",
+    "progressLabel": "Chapter 14",
+    "character": "adela",
+    "coords": [85.0306, 25.0071],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Marabar Caves are Forster's version of the real Barabar Caves, the ancient rock-cut caves in the hills north of Gaya, which he visited. The coordinates mark the Barabar Caves; the name and the echo are the novel's invention.",
+    "reference": "Chapter 14",
+    "order": 4,
+    "note": "The heart of the book is a picnic to the caves in the Marabar hills, whose flat dark chambers give back every sound as the same dull echo. Something happens, or seems to, in one of them, and Adela emerges convinced Aziz has assaulted her; the accusation drives the trial that splits the town. Forster modelled the caves and their unnerving echo on the real Barabar Caves near Gaya.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Barabar Caves, Wikipedia, on the rock-cut caves near Gaya and their coordinates",
+        "url": "https://en.wikipedia.org/wiki/Barabar_Caves"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "A Passage to India, Wikipedia, on the Marabar Caves and their basis in the Barabar Caves",
+        "url": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mau-princely-state",
+    "name": "Mau, the princely state",
+    "progressLabel": "Chapter 33",
+    "character": "aziz",
+    "coords": [76.0508, 22.9623],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Mau is a Hindu princely state in Central India, far west of Chandrapore, so it lies outside the book's Bihar setting. It is drawn from the Central Indian states Forster served in, Dewas and Chhatarpur; the coordinates mark Dewas.",
+    "reference": "Chapter 33",
+    "order": 5,
+    "note": "The last section leaves British India for Mau, a small Hindu princely state where Aziz has taken a post as a court doctor, years after the trial. Against the noise and colour of the Gokul Ashtami festival he and Fielding meet again and half-reconcile, though the land itself seems to say that friendship between them cannot yet hold. Forster built Mau from Dewas, where he worked as a maharaja's secretary.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "A Passage to India, Wikipedia, on the final section set in the state of Mau",
+        "url": "https://en.wikipedia.org/wiki/A_Passage_to_India"
+      },
+      {
+        "kind": "author",
+        "ref": "Dewas, Wikipedia, on the Central Indian princely state Forster served in",
+        "url": "https://en.wikipedia.org/wiki/Dewas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

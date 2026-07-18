@@ -4,20 +4,43 @@
   "author": "E. M. Forster",
   "published": 1924,
   "orderingKey": "chapter",
-  "center": [85.1498, 25.6219],
-  "zoom": 12.5,
+  "sourcing": "cited",
+  "center": [85.09, 25.31],
+  "zoom": 8,
   "setting": {
-    "city": "Bankipore",
+    "city": "Patna",
     "country": "IN",
-    "note": "Chandrapore is invented, but Forster built it from Bankipore, and the Marabar Caves are the Barabar Caves. Almost every place will be inspired_by, which is worth having in the catalogue on purpose.",
-    "bbox": [85.149, 25.621, 85.15, 25.622]
+    "note": "A young Englishwoman and an Indian doctor meet across the divide of the Raj, and a walk in the caves ends in an accusation that pulls the whole civil station apart. The invented city of Chandrapore is drawn from Bankipore, the British civil station beside Patna on the Ganges, where Forster stayed; the Marabar Caves are his version of the real Barabar Caves, the ancient rock-cut caves in the hills near Gaya that he visited. The final section moves west to the Hindu princely state of Mau, drawn from Dewas and Chhatarpur in Central India, where Forster served.",
+    "bbox": [85.0, 24.99, 85.16, 25.63]
   },
   "rights": {
-    "originalWork": "TODO: confirm. E. M. Forster published this in 1924.",
+    "originalWork": "In copyright. E. M. Forster, first published 1924. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
     "translation": null,
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "E. M. Forster, A Passage to India (1924)."
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Passage_to_India",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Passage to India, E. M. Forster (1924). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The ochre of the dry plain the Marabar hills stand up from, the colour of the earth around Chandrapore. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "aziz": {
+      "name": "Dr Aziz",
+      "color": "#2E5064"
+    },
+    "adela": {
+      "name": "Adela Quested",
+      "color": "#8A2B1E"
+    },
+    "mrs-moore": {
+      "name": "Mrs Moore",
+      "color": "#4A4A4A"
+    },
+    "fielding": {
+      "name": "Cyril Fielding",
+      "color": "#2E6B4A"
+    }
   }
 }
