@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "warsaw-railway-station",
+    "name": "The Warsaw railway station",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "myshkin",
+    "coords": [30.3082, 59.9146],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel opens on \"the Warsaw and Petersburg railway\" approaching the city; Dostoevsky does not name the terminus, but the Petersburg end of that line was the Warsaw Station (Varshavsky vokzal) on the Obvodny Canal, where the pin sits.",
+    "quoteAnchor": "a train on the Warsaw and Petersburg railway was approaching",
+    "passage": "Towards the end of November, during a thaw, at nine o’clock one morning, a train on the Warsaw and Petersburg railway was approaching the latter city at full speed.",
+    "note": "Prince Myshkin comes back to Russia from a Swiss sanatorium with nothing but a bundle, and shares a third-class carriage with the merchant Rogozhin. In the damp Petersburg fog the two men who will destroy each other over one woman meet by chance, and the whole tragedy is set in motion before the train even stops.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 1, Chapter 1",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Warsaw railway station (Varshavsky vokzal), Saint Petersburg, Petersburg terminus of the Warsaw line",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_railway_station_(Saint_Petersburg)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "epanchin-house-litaynaya",
+    "name": "The Epanchin house, near the Litaynaya",
+    "progressLabel": "Part 1, ch. 2",
+    "character": "myshkin",
+    "coords": [30.348, 59.9415],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dostoevsky places the general's house \"near the Litaynaya\" (Liteyny Prospekt) but invents the building; the pin marks a point on that fashionable avenue.",
+    "quoteAnchor": "General Epanchin lived in his own house near the Litaynaya",
+    "passage": "General Epanchin lived in his own house near the Litaynaya. Besides this large residence—five-sixths of which was let in flats and lodgings—the general was owner of another enormous house in the Sadovaya bringing in even more rent than the first.",
+    "note": "Myshkin arrives unannounced at his rich distant relations, the Epanchins, and is taken in half as a curiosity and half as a poor cousin. Here he meets Aglaya, the youngest daughter, and steps into the drawing-room world of the Petersburg gentry that will pull him one way while Nastasya Filippovna pulls him the other.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 1, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Liteyny Avenue (the Litaynaya), a fashionable central Petersburg street",
+        "url": "https://en.wikipedia.org/wiki/Liteyny_Avenue"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nastasya-flat-theatre-square",
+    "name": "Nastasya Filippovna's flat, by the Great Theatre",
+    "progressLabel": "Part 1, ch. 16",
+    "character": "nastasya",
+    "coords": [30.2961, 59.9256],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Her flat is said to be \"near the Great Theatre, just in the square there\"—the Bolshoi Kamenny Theatre on what is now Theatre Square. The building is fictional; the pin marks the square.",
+    "quoteAnchor": "Now, I’m going to throw it into the fire, here",
+    "passage": "Do you see this packet? It contains a hundred thousand roubles. Now, I’m going to throw it into the fire, here—before all these witnesses. As soon as the fire catches hold of it, you put your hands into the fire and pick it out—without gloves, you know.",
+    "note": "At her name-day party Nastasya Filippovna hurls Rogozhin's hundred thousand roubles into the fire and dares Ganya to snatch them out with his bare hands. It is the novel's most famous scene: the whole company's greed laid bare, and Nastasya choosing self-destruction over any of the men bidding for her.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 1, Chapter 16",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Theatre Square, Saint Petersburg, site of the former Bolshoi (Great) Stone Theatre",
+        "url": "https://en.wikipedia.org/wiki/Theatre_Square,_Saint_Petersburg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rogozhin-house-gorohovaya",
+    "name": "Rogozhin's house on the Gorohovaya",
+    "progressLabel": "Part 2, ch. 3",
+    "character": "rogozhin",
+    "coords": [30.3243, 59.9273],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Gorohovaya (Gorokhovaya Street) and its crossing with the Sadovaya are named exactly; the merchant house itself is Dostoevsky's invention, pinned to that intersection.",
+    "quoteAnchor": "One house in the Gorohovaya began to attract his attention",
+    "passage": "One house in the Gorohovaya began to attract his attention long before he reached it, and the prince remembered afterwards that he had said to himself: “That is the house, I’m sure of it.” The house was a large gloomy-looking structure, without the slightest claim to architectural beauty, in colour a dirty green.",
+    "note": "Myshkin walks down the Gorohovaya to the dark green merchant house where Rogozhin lives with his mother, past the money-changer's shop and up the dull red staircase. It is the brooding heart of the book: here Rogozhin shows him the knife and the Holbein Christ, and here, at the very end, the two men will keep watch over Nastasya's body.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 2, Chapter 3",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gorokhovaya Street (the Gorohovaya), Saint Petersburg",
+        "url": "https://en.wikipedia.org/wiki/Gorokhovaya_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pavlovsk-vauxhall",
+    "name": "The Vauxhall at Pavlovsk",
+    "progressLabel": "Part 3, ch. 2",
+    "character": "nastasya",
+    "coords": [30.44, 59.689],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pavlovsk and its Vauxhall are named in the text. The pin marks the Pavlovsk Vokzal, the concert pavilion beside the railway in the park; the original building no longer stands.",
+    "quoteAnchor": "In order to pass from the Vauxhall to the band-stand",
+    "passage": "In order to pass from the Vauxhall to the band-stand, the visitor has to descend two or three steps. Just at these steps the group paused, as though it feared to proceed further; but very quickly one of the three ladies, who formed its apex, stepped forward into the charmed circle, followed by two members of her suite.",
+    "note": "The summer half of the novel moves out to Pavlovsk, the fashionable resort south of the city, where the gentry gather to hear the orchestra at the Vauxhall pavilion. Into that decorous evening crowd Nastasya Filippovna walks with her drunken retinue and calls out a scandal, breaking Petersburg society open in front of the Epanchins.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 3, Chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pavlovsk, Saint Petersburg, imperial park town and its Vokzal (railway concert pavilion)",
+        "url": "https://en.wikipedia.org/wiki/Pavlovsk,_Saint_Petersburg"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rogozhin-house-finale",
+    "name": "Rogozhin's house, the last night",
+    "progressLabel": "Part 4, ch. 11",
+    "character": "myshkin",
+    "coords": [30.3243, 59.9273],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The final scene returns to Rogozhin's house on the Gorohovaya, the same invented merchant house pinned to the Gorokhovaya and Sadovaya crossing.",
+    "quoteAnchor": "best American oilcloth",
+    "passage": "“I’ve covered her with oilcloth—best American oilcloth, and put the sheet over that, and four jars of disinfectant, on account of the smell—as they did at Moscow—you remember? And she’s lying so still; you shall see, in the morning, when it’s light.”",
+    "note": "Nastasya flees her own wedding to Myshkin and runs to Rogozhin, who kills her that night with the knife. Myshkin comes to the dark house and the two men lie down together beside her covered body until dawn. The novel ends where it began, on the Gorohovaya, with the prince's mind finally gone.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Idiot, Part 4, Chapter 11",
+        "url": "https://www.gutenberg.org/ebooks/2638"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gorokhovaya Street (the Gorohovaya), Saint Petersburg",
+        "url": "https://en.wikipedia.org/wiki/Gorokhovaya_Street"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

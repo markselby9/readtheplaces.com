@@ -1,23 +1,47 @@
 {
   "id": "the-idiot",
   "title": "The Idiot",
+  "titleOriginal": "Идиот",
   "author": "Fyodor Dostoevsky",
   "published": 1869,
   "orderingKey": "chapter",
+  "sourcing": "sourced",
   "center": [30.32, 59.9375],
-  "zoom": 12.5,
+  "zoom": 11,
   "setting": {
-    "city": "Saint Petersburg",
+    "city": "St Petersburg",
     "country": "RU",
-    "note": "Dostoevsky’s other Petersburg, moving between Pavlovsk and the city. A companion to Crime and Punishment, and a chance to test whether two books can share a city and still feel distinct.",
+    "note": "Dostoevsky's second great Petersburg novel, mapped from the terminus of the Warsaw railway through the salons and the merchant streets to the leafy summer resort of Pavlovsk, thirty kilometres south, where much of the second half unfolds. A companion to Crime and Punishment: the same city, a different fever.",
     "bbox": [29.426, 59.634, 30.759, 60.245]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Fyodor Dostoevsky published this in 1869.",
-    "translation": "Translated by eva m martin. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Fyodor Dostoevsky, The Idiot (1869)."
+    "originalWork": "Public domain. Fyodor Dostoevsky, first published 1869; the author died in 1881.",
+    "translation": "English translation from Project Gutenberg (public domain); Eva Martin.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/2638",
+    "territoryNotes": "Public domain in the US and UK/EU.",
+    "attribution": "Fyodor Dostoevsky, The Idiot (1869). Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "accentSourceQuote": "painted a dull red",
+    "note": "The dull red of the stone staircase in Rogojin's gloomy house on the Gorohovaya, the doomed house that opens and closes the tragedy. A deep red that clears WCAG AA on paper."
+  },
+  "characters": {
+    "myshkin": {
+      "name": "Prince Myshkin",
+      "color": "#2E5064",
+      "colorSourceQuote": "large and blue"
+    },
+    "nastasya": {
+      "name": "Nastasya Filippovna",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "two bright red spots against"
+    },
+    "rogozhin": {
+      "name": "Parfyon Rogozhin",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "black curling hair"
+    }
   }
 }
