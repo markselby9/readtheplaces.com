@@ -1,0 +1,46 @@
+{
+  "id": "the-good-soldier-svejk",
+  "title": "The Good Soldier Švejk",
+  "author": "Jaroslav Hašek",
+  "published": 1923,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [14.35, 49.5],
+  "zoom": 8,
+  "setting": {
+    "city": "Bohemia",
+    "country": "CZ",
+    "note": "Hašek's great comic novel follows the imperturbable Josef Švejk, whose blank-faced obedience makes a mockery of the Austro-Hungarian army, from his arrest in a Prague pub through the bungled machinery of the First World War toward a front he never quite reaches. The route is real Bohemia: the tavern U Kalicha where it starts, the garrison at České Budějovice, the famous 'anabasis' on foot around the South Bohemian villages, and the training camp at Bruck an der Leitha before the troop trains east.",
+    "bbox": [14.05, 48.95, 14.55, 50.1]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Czech (Jaroslav Hašek, 1921–23) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The Good Soldier Švejk, Jaroslav Hašek (1923). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of Czech beer and of the brass buttons of a doomed empire's army, the two things the book most cheerfully mocks. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "svejk": {
+      "name": "Josef Švejk",
+      "color": "#2E5064"
+    },
+    "lukas": {
+      "name": "Lieutenant Lukáš",
+      "color": "#4A4A4A"
+    },
+    "baloun": {
+      "name": "Baloun",
+      "color": "#8A2B1E"
+    },
+    "vanek": {
+      "name": "Quartermaster Vaněk",
+      "color": "#6B3B5A"
+    }
+  }
+}

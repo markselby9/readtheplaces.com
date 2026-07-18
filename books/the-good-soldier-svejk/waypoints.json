@@ -1,0 +1,124 @@
+[
+  {
+    "id": "u-kalicha-prague",
+    "name": "U Kalicha (The Chalice), Prague",
+    "progressLabel": "Book 1",
+    "character": "svejk",
+    "coords": [14.427, 50.071],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Švejk is arrested for careless talk in the pub U Kalicha (The Chalice) in Prague, a real tavern on Na Bojišti street that still trades on the association today.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "Over a beer at U Kalicha, Švejk's cheerful remarks about the assassination of the Archduke get him hauled off by a plain-clothes policeman, and the machinery of the state closes on him. His imperturbable idiocy, real or feigned, will now be turned loose inside the army to comic and devastating effect.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "U Kalicha (The Chalice), Prague",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Soldier Švejk, Wikipedia, on the opening in Prague",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ceske-budejovice-garrison",
+    "name": "České Budějovice (the garrison)",
+    "progressLabel": "Book 2",
+    "character": "lukas",
+    "coords": [14.4744, 48.9747],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Švejk is meant to travel to his regiment's garrison at České Budějovice (Budweis) in South Bohemia, a real city; he serves there as batman to the harassed Lieutenant Lukáš.",
+    "reference": "Book 2",
+    "order": 2,
+    "note": "Attached as servant to the decent, long-suffering Lieutenant Lukáš, Švejk turns every order into chaos with perfect willingness. The garrison at Budějovice is where the army's absurd bureaucracy and Švejk's literal-minded compliance grind against each other most productively.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "České Budějovice",
+        "url": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Soldier Švejk, Wikipedia, on Lieutenant Lukáš",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "budejovice-anabasis-putim",
+    "name": "The Anabasis (Putim)",
+    "progressLabel": "Book 2",
+    "character": "svejk",
+    "coords": [14.108, 49.261],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Having missed his train, Švejk sets off on foot and wanders the South Bohemian countryside in the celebrated 'Budějovice Anabasis', looping through real villages such as Putim, Protivín and Písek.",
+    "reference": "Book 2",
+    "order": 3,
+    "note": "Švejk's long march on foot to rejoin his regiment takes him in great confused circles around the South Bohemian villages, arrested as a suspected deserter and Russian spy along the way. The Anabasis is the book's set-piece of a good soldier trying so hard to reach the war that he can never quite get there.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Putim, South Bohemia",
+        "url": "https://en.wikipedia.org/wiki/Putim"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Soldier Švejk, Wikipedia, on the Budějovice Anabasis",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bruck-an-der-leitha",
+    "name": "Bruck an der Leitha (the training camp)",
+    "progressLabel": "Book 2",
+    "character": "baloun",
+    "coords": [16.778, 48.018],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The march battalion trains at Bruck an der Leitha, the real garrison town on the Austrian-Hungarian border (its Hungarian side then called Királyhida), before being sent toward the front.",
+    "reference": "Books 2-3",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "At the border training camp the company assembles for the front, among them the gluttonous orderly Baloun, forever stealing his officer's rations. The camp on the Leitha, straddling the fault line between the empire's Austrian and Hungarian halves, is the last stop before the troop trains roll east.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bruck an der Leitha",
+        "url": "https://en.wikipedia.org/wiki/Bruck_an_der_Leitha"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Soldier Švejk, Wikipedia, on the march to the front",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "galician-front-transport",
+    "name": "The transport toward Galicia",
+    "progressLabel": "Book 4",
+    "character": "vanek",
+    "coords": [22.205, 49.556],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The unfinished novel follows the troop train east toward the Galician front around Sanok in the Carpathian foothills; the route is real, and Hašek died before Švejk could reach the fighting.",
+    "reference": "Books 3-4",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "As the quartermaster Vaněk keeps his ledgers and the train crawls east toward Galicia, the war remains always just over the horizon, a rumour the good soldier is forever marching toward. Hašek's death left the book unfinished, so Švejk is preserved forever on the way to a front he never reaches.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Good Soldier Švejk, Wikipedia, on the unfinished journey east",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

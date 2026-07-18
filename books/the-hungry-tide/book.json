@@ -1,0 +1,46 @@
+{
+  "id": "the-hungry-tide",
+  "title": "The Hungry Tide",
+  "author": "Amitav Ghosh",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [88.82, 22.1],
+  "zoom": 9,
+  "setting": {
+    "city": "The Sundarbans",
+    "country": "IN",
+    "note": "In the Sundarbans, the vast tide country of mangrove islands where the Ganges meets the sea, an American cetologist, Piya, a Delhi translator, Kanai, and an illiterate fisherman, Fokir, are drawn together among the shifting channels, the tigers and the river dolphins. Ghosh maps the real delta: the railhead at Canning, the island settlement of Lusibari and its trust, the tidal creeks where the dolphins gather, and Morichjhanpi, where refugees were massacred in 1979.",
+    "bbox": [88.6, 21.85, 88.95, 22.35]
+  },
+  "rights": {
+    "originalWork": "In copyright. Amitav Ghosh, first published 2004. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Hungry_Tide",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Hungry Tide, Amitav Ghosh (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue-grey of the tidal water that makes and unmakes the islands twice a day, the element that governs every life in the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "piya": {
+      "name": "Piya",
+      "color": "#8A6A12"
+    },
+    "kanai": {
+      "name": "Kanai",
+      "color": "#6B3B5A"
+    },
+    "fokir": {
+      "name": "Fokir",
+      "color": "#8A2B1E"
+    },
+    "nirmal": {
+      "name": "Nirmal",
+      "color": "#2E6B4A"
+    }
+  }
+}
