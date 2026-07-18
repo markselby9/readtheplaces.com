@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rally-hall",
+    "name": "The rally hall (the Deputy's speech)",
+    "progressLabel": "Part 1",
+    "character": "the-deputy",
+    "coords": [22.941, 40.6335],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Deputy comes to central Thessaloniki to address a peace meeting, held in a hall near the centre while an organised mob and complicit police gather outside; the venue is sited in the real city centre.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "The pacifist Deputy arrives to speak at a rally the authorities have done everything to sabotage, the hall besieged by paid thugs and passive police. Vassilikos builds the atmosphere of menace around the meeting exactly, a democratic act taking place inside a trap the state has already sprung.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Z (novel), Wikipedia, on the Lambrakis affair and the rally",
+        "url": "https://en.wikipedia.org/wiki/Z_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Assassination of Grigoris Lambrakis, Thessaloniki, 1963",
+        "url": "https://en.wikipedia.org/wiki/Grigoris_Lambrakis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "assassination-street",
+    "name": "The assassination street",
+    "progressLabel": "Part 1",
+    "character": "the-journalist",
+    "coords": [22.943, 40.636],
+    "placeCertainty": "explicit",
+    "certaintyNote": "As the Deputy crosses a central Thessaloniki street after the meeting, a three-wheeled delivery truck driven by right-wing thugs runs him down and a passenger clubs him; the attack took place on a real street in the city centre.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "In full view of the crowd and the watching police, a battered three-wheeler roars out and knocks the Deputy down, a thug leaning out to strike his skull. A journalist's photographs and the testimony of ordinary bystanders will later make the 'accident' impossible to sustain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Z (novel), Wikipedia, on the murder",
+        "url": "https://en.wikipedia.org/wiki/Z_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hospital",
+    "name": "The hospital",
+    "progressLabel": "Part 2",
+    "character": "the-widow",
+    "coords": [22.962, 40.628],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The gravely injured Deputy is taken to a Thessaloniki hospital, where he dies days later; sited at the city's real central hospital.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "For days the Deputy lies dying while the nation waits and his widow keeps vigil, and the regime prepares its story of a traffic accident and a drunk driver. His death turns a local outrage into a national one, and brings a crowd of hundreds of thousands into the streets.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Z (novel), Wikipedia, on the aftermath",
+        "url": "https://en.wikipedia.org/wiki/Z_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-courthouse",
+    "name": "The courthouse (the investigation)",
+    "progressLabel": "Part 3",
+    "character": "the-investigator",
+    "coords": [22.945, 40.632],
+    "placeCertainty": "inferred",
+    "certaintyNote": "An examining magistrate reopens the case from the Thessaloniki courts and, against enormous pressure, traces the murder to a shadowy right-wing organisation and the police; sited at the city's real court complex.",
+    "reference": "Part 3",
+    "order": 4,
+    "note": "The incorruptible investigating magistrate, pulling one thread after another, exposes the network of thugs, officers and officials behind what was staged as an accident, and dares to indict generals. His lonely integrity, the book's one clean force, is what turns a cover-up into a scandal that shakes the state.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Z (novel), Wikipedia, on the investigation",
+        "url": "https://en.wikipedia.org/wiki/Z_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "white-tower-waterfront",
+    "name": "The White Tower and the waterfront",
+    "progressLabel": "Part 3",
+    "character": "the-deputy",
+    "coords": [22.9485, 40.6265],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The White Tower on the Thessaloniki seafront, the city's great landmark, stands over the whole affair; the waterfront is the real public space where the political struggle plays out.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "Along the seafront by the White Tower, the city that watched the murder becomes the city that mourns and marches. Yet the book ends under a gathering shadow: within four years the colonels' coup would jail the investigators, ban the dead man's memory, and prove how fragile the victory of the truth had been.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "White Tower of Thessaloniki",
+        "url": "https://en.wikipedia.org/wiki/White_Tower_of_Thessaloniki"
+      },
+      {
+        "kind": "guide",
+        "ref": "Z (novel), Wikipedia, on the junta aftermath",
+        "url": "https://en.wikipedia.org/wiki/Z_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

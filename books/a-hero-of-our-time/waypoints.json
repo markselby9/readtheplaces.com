@@ -1,0 +1,129 @@
+[
+  {
+    "id": "pyatigorsk-spa",
+    "name": "Pyatigorsk (the spa)",
+    "progressLabel": "Princess Mary",
+    "character": "pechorin",
+    "coords": [43.06, 44.04],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The central tale, 'Princess Mary', is set in Pyatigorsk, the real Caucasus spa town, whose mineral wells, promenades and idle high society give Pechorin his stage.",
+    "reference": "Princess Mary",
+    "order": 1,
+    "note": "At the wells and in the drawing rooms of Pyatigorsk, Pechorin sets out to make the young Princess Mary fall in love with him, less from desire than from boredom and the pleasure of power. Lermontov's spa, all gossip and vanity, is the ground on which the coldest self-portrait in Russian literature is drawn.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pyatigorsk, Russia",
+        "url": "https://en.wikipedia.org/wiki/Pyatigorsk"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Hero of Our Time, Wikipedia, on Princess Mary and Pyatigorsk",
+        "url": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mount-mashuk-duel",
+    "name": "Mount Mashuk (the duel)",
+    "progressLabel": "Princess Mary",
+    "character": "grushnitsky",
+    "coords": [43.1, 44.05],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Pechorin kills the posturing Grushnitsky in a duel on the slopes of Mount Mashuk above Pyatigorsk, the real mountain where Lermontov himself was killed in a duel in 1841, the year after the novel.",
+    "reference": "Princess Mary",
+    "order": 2,
+    "note": "On a ledge of Mount Mashuk, Pechorin exposes Grushnitsky's cowardly plot and shoots him dead over a cliff, cool and unmoved. The scene reads as an eerie rehearsal of the author's own end, Lermontov falling in a real duel on the same mountain a year later.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mount Mashuk and Lermontov's duel, Pyatigorsk",
+        "url": "https://en.wikipedia.org/wiki/Mashuk"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Hero of Our Time, Wikipedia, on the duel with Grushnitsky",
+        "url": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kislovodsk-springs",
+    "name": "Kislovodsk (the springs)",
+    "progressLabel": "Princess Mary",
+    "character": "mary",
+    "coords": [42.72, 43.905],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The society of the tale moves between Pyatigorsk and Kislovodsk, the real neighbouring spa resort famous for its narzan mineral springs, where the drama with Princess Mary deepens.",
+    "reference": "Princess Mary",
+    "order": 3,
+    "note": "At Kislovodsk, among the sparkling narzan springs and the resort's walks, Princess Mary at last confesses her love, and Pechorin, having won the game, coldly rejects her. Her ruin, engineered for its own sake, is the clearest measure of the hero's hollow, corrosive brilliance.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kislovodsk, Russia",
+        "url": "https://en.wikipedia.org/wiki/Kislovodsk"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Hero of Our Time, Wikipedia, on Princess Mary",
+        "url": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "georgian-military-road-fort",
+    "name": "The frontier fort (Bela)",
+    "progressLabel": "Bela",
+    "character": "bela",
+    "coords": [44.68, 43.02],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The opening tale 'Bela' is set at a Russian frontier fort in the mountains along the Georgian Military Road, the real strategic route through the Caucasus; the specific fort is sited on that road, well east of the spa towns.",
+    "reference": "Bela",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Posted to a lonely mountain fort, Pechorin has the Circassian girl Bela abducted for him, wins her, tires of her, and lets her die. The tale, told by the kindly old officer Maxim Maximych, first shows the pattern the whole book anatomises: Pechorin destroying whatever he touches, and feeling almost nothing.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Georgian Military Road, the Caucasus",
+        "url": "https://en.wikipedia.org/wiki/Georgian_Military_Road"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Hero of Our Time, Wikipedia, on Bela",
+        "url": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "taman-smugglers-coast",
+    "name": "Taman (the smugglers' coast)",
+    "progressLabel": "Taman",
+    "character": "pechorin",
+    "coords": [36.72, 45.21],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The tale 'Taman' is set in the real Black Sea port of Taman on the Kerch Strait, a squalid little town of smugglers far to the west of the Caucasus spas.",
+    "reference": "Taman",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "In the seedy port of Taman, Pechorin blunders into a smuggling operation and is nearly drowned by the wild girl he calls his undine. The episode, all moonlight and menace on the Black Sea shore, shows him as a restless intruder who wrecks other lives simply by being curious.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Taman, Russia",
+        "url": "https://en.wikipedia.org/wiki/Taman,_Russia"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Hero of Our Time, Wikipedia, on Taman",
+        "url": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "z",
+  "title": "Z",
+  "author": "Vassilis Vassilikos",
+  "published": 1966,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [22.945, 40.632],
+  "zoom": 13,
+  "setting": {
+    "city": "Thessaloniki",
+    "country": "GR",
+    "note": "A thinly fictionalised account of the 1963 murder of the leftist deputy Grigoris Lambrakis in Thessaloniki by right-wing thugs with police collusion, and the dogged investigation that exposed the conspiracy. Vassilikos maps the real city: the hall where the Deputy speaks at a peace rally, the central street where a three-wheeled truck runs him down, the hospital where he dies, the courthouse where an honest magistrate unpicks the cover-up, and the waterfront under the shadow of the coming junta.",
+    "bbox": [22.93, 40.62, 22.97, 40.645]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vassilis Vassilikos, first published 1966. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Z_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Z, Vassilis Vassilikos (1966). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the movement and of the blood on the street, and of the letter Z, 'he lives', that was chalked across Greece after the murder. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-deputy": {
+      "name": "The Deputy",
+      "color": "#2E5064"
+    },
+    "the-investigator": {
+      "name": "The Investigator",
+      "color": "#2E6B4A"
+    },
+    "the-journalist": {
+      "name": "The Journalist",
+      "color": "#8A6A12"
+    },
+    "the-widow": {
+      "name": "The Widow",
+      "color": "#6B3B5A"
+    }
+  }
+}
