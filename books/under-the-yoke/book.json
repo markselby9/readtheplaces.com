@@ -1,0 +1,46 @@
+{
+  "id": "under-the-yoke",
+  "title": "Under the Yoke",
+  "author": "Ivan Vazov",
+  "published": 1894,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [24.55, 42.66],
+  "zoom": 10,
+  "setting": {
+    "city": "Sopot",
+    "country": "BG",
+    "note": "Bulgaria's national novel, set in the year of the April Uprising of 1876 against Ottoman rule, follows the escaped revolutionary Boycho Ognyanov as he returns to a small town in the Rose Valley below the Balkan Mountains and helps rouse it to a doomed rebellion. Vazov drew his town of Byala Cherkva from his own Sopot: the streets and houses of the town, the school and the monastery, the neighbouring town of Klisura burned in the rising, and the Sredna Gora mountains where the revolt is crushed.",
+    "bbox": [24.3, 42.58, 24.8, 42.72]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Bulgarian (Ivan Vazov, 1894) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Under_the_Yoke",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Under the Yoke, Ivan Vazov (1894). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the April Uprising and of the blood in which the Ottomans drowned it, the rebellion the whole book builds toward and mourns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ognyanov": {
+      "name": "Boycho Ognyanov",
+      "color": "#2E5064"
+    },
+    "rada": {
+      "name": "Rada",
+      "color": "#8A6A12"
+    },
+    "sokolov": {
+      "name": "Doctor Sokolov",
+      "color": "#2E6B4A"
+    },
+    "marko": {
+      "name": "Chorbadji Marko",
+      "color": "#4A4A4A"
+    }
+  }
+}

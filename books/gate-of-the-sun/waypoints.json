@@ -1,0 +1,120 @@
+[
+  {
+    "id": "shatila-camp-vigil",
+    "name": "Shatila camp (Khalil's vigil)",
+    "progressLabel": "The frame",
+    "character": "khalil",
+    "coords": [35.5, 33.856],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel is framed in the Shatila refugee camp in Beirut, the real Palestinian camp, where the untrained doctor Khalil tends the dying Yunes in a makeshift hospital after the 1982 war.",
+    "reference": "Framing narrative",
+    "order": 1,
+    "note": "By the bedside of the comatose Yunes, Khalil talks night after night, pouring out the tangled stories of a people's exile in the hope of keeping the old man alive. The squalid camp, ringed by war and loss, becomes the vessel in which the whole memory of the Palestinian catastrophe is held and retold.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Shatila refugee camp, Beirut",
+        "url": "https://en.wikipedia.org/wiki/Shatila_refugee_camp"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gate of the Sun, Wikipedia, on Khalil and Yunes",
+        "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "galilee-homeland",
+    "name": "The Galilee homeland",
+    "progressLabel": "The stories",
+    "character": "yunes",
+    "coords": [35.17, 32.91],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Yunes and his people come from the villages of the Galilee, emptied and destroyed in the 1948 Nakba; the specific village is drawn from that real region of destroyed Palestinian villages, far outside the Beirut setting.",
+    "reference": "The stories",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "The lost Galilee, its olive terraces and stone villages razed in 1948, is the homeland at the centre of every story Khalil tells. Yunes's life as a fighter is one long attempt to return to it, and the ache of that vanished country is the ground note of the whole book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "1948 Palestinian expulsion and the villages of the Galilee",
+        "url": "https://en.wikipedia.org/wiki/1948_Palestinian_expulsion_and_flight"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gate of the Sun, Wikipedia, on the Galilee and 1948",
+        "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bab-al-shams-cave",
+    "name": "Bab al-Shams (the cave)",
+    "progressLabel": "The stories",
+    "character": "nahila",
+    "coords": [35.35, 32.95],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Bab al-Shams, the Gate of the Sun, is the cave in the Galilee hills where Yunes secretly meets his wife Nahila on his crossings back over the border; the cave is the novel's own, sited in the real Galilee highlands.",
+    "reference": "The stories",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Across the sealed border Yunes slips back again and again to the hidden cave he calls Bab al-Shams, where he and Nahila make a secret country of their own and their children. The cave, a homeland the size of a marriage bed, gives the book its title and its image of love outlasting dispossession.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gate of the Sun, Wikipedia, on Bab al-Shams and Nahila",
+        "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "exodus-to-lebanon",
+    "name": "The exodus to Lebanon",
+    "progressLabel": "The stories",
+    "character": "umm-hassan",
+    "coords": [35.43, 33.12],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The refugees flee north across the border into Lebanon in 1948, gathering in the southern camps before drifting to Beirut; sited on the real route of the exodus into south Lebanon, outside the Beirut setting.",
+    "reference": "The stories",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "The camp midwife Umm Hassan, whose death opens the book, carries the memory of the great flight north, of the roads and the border and the villages left behind. Through her and the other elders the novel gathers the countless small testimonies of the exodus into one long collective remembering.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gate of the Sun, Wikipedia, on Umm Hassan and the exodus",
+        "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sabra-shatila-massacre",
+    "name": "The Shatila massacre (1982)",
+    "progressLabel": "The frame",
+    "character": "khalil",
+    "coords": [35.499, 33.855],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Sabra and Shatila massacre of 1982, in which militias killed hundreds of camp civilians, is the recent catastrophe hanging over Khalil's vigil; it took place at the real camp in Beirut.",
+    "reference": "Framing narrative",
+    "order": 5,
+    "note": "The massacre of 1982, still fresh in the camp's walls and memory, is the immediate horror against which Khalil's storytelling is set, one atrocity folded into a century of them. Khoury refuses any consoling shape, letting the stories contradict and repeat as memory really does, an epic made of a whole people's wounds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sabra and Shatila massacre, 1982",
+        "url": "https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gate of the Sun, Wikipedia, on the massacre and the frame",
+        "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

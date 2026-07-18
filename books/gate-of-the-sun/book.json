@@ -1,0 +1,46 @@
+{
+  "id": "gate-of-the-sun",
+  "title": "Gate of the Sun",
+  "author": "Elias Khoury",
+  "published": 1998,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [35.5, 33.856],
+  "zoom": 13,
+  "setting": {
+    "city": "Beirut",
+    "country": "LB",
+    "note": "In the Shatila refugee camp in Beirut, after the 1982 massacre, the makeshift doctor Khalil keeps vigil over the comatose old fighter Yunes, telling him the interwoven stories of the Palestinian catastrophe. The frame is the camp; the tales range back to the Galilee villages emptied in 1948, to the cave called Bab al-Shams where Yunes crossed the border to meet his wife, and to the long exile in Lebanon, holding a whole people's memory in one dying man's room.",
+    "bbox": [35.48, 33.84, 35.52, 33.87]
+  },
+  "rights": {
+    "originalWork": "In copyright. Elias Khoury, first published 1998 (Bab al-Shams). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Gate_of_the_Sun",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Gate of the Sun, Elias Khoury (1998). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the sun of the title, Bab al-Shams, the light of a homeland held only in memory and story. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "khalil": {
+      "name": "Khalil",
+      "color": "#2E5064"
+    },
+    "yunes": {
+      "name": "Yunes",
+      "color": "#4A4A4A"
+    },
+    "nahila": {
+      "name": "Nahila",
+      "color": "#8A2B1E"
+    },
+    "umm-hassan": {
+      "name": "Umm Hassan",
+      "color": "#6B3B5A"
+    }
+  }
+}
