@@ -1,0 +1,46 @@
+{
+  "id": "heidi",
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "published": 1881,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [9.55, 47.015],
+  "zoom": 12,
+  "setting": {
+    "city": "Maienfeld",
+    "country": "CH",
+    "note": "The orphan Heidi is sent to live with her gruff grandfather on the high alp above a Swiss mountain village, where she thrives among the goats and the sunshine, until she is taken away to be companion to the invalid Clara in Frankfurt and pines for the mountains. Spyri set her village, the Dörfli, at Maienfeld in the canton of Graubünden: the grandfather's hut on the alp above the town, the high pastures where Peter grazes the goats, and the return from Frankfurt to the healing air of the heights.",
+    "bbox": [9.5, 46.99, 9.6, 47.04]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original German (Johanna Spyri, 1881) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Heidi",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Heidi, Johanna Spyri (1881). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the alpine pastures where Heidi is happiest, the mountain meadows she pines for in the grey city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "heidi": {
+      "name": "Heidi",
+      "color": "#8A6A12"
+    },
+    "grandfather": {
+      "name": "The Alm-Uncle",
+      "color": "#4A4A4A"
+    },
+    "peter": {
+      "name": "Peter",
+      "color": "#8A3B1E"
+    },
+    "clara": {
+      "name": "Clara",
+      "color": "#2E5064"
+    }
+  }
+}

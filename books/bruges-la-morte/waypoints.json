@@ -1,0 +1,127 @@
+[
+  {
+    "id": "hugues-house-quay",
+    "name": "Hugues's house on the quay",
+    "progressLabel": "Chapter 1",
+    "character": "the-wife",
+    "coords": [3.227, 51.2075],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hugues keeps his shrine-like house on one of the quiet canal quays of Bruges, such as the Quai du Rosaire; the specific house is invented and sited on the real waterside.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "In rooms preserved exactly as his wife left them, with her portraits everywhere and her severed plait of golden hair laid in a casket like a relic, Hugues lives entirely in the past. The house on the still canal is a reliquary of grief, the whole book's obsession made into a set of rooms.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bruges canals and quays",
+        "url": "https://en.wikipedia.org/wiki/Bruges"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bruges-la-Morte, Wikipedia, on Hugues Viane and the relic",
+        "url": "https://en.wikipedia.org/wiki/Bruges-la-Morte"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bruges-canals",
+    "name": "The canals (the dead city)",
+    "progressLabel": "Chapter 2",
+    "character": "hugues",
+    "coords": [3.228, 51.206],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The silent canals of Bruges, their grey water mirroring the sky and the old façades, are the novel's central image; Rodenbach's famous photographs of the real canals were printed with the first edition.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Hugues walks the quays at dusk, and the dead water of the canals gives him back his own mourning, the town and the widower each the mirror of the other. Bruges-la-Morte was among the first novels illustrated with photographs, and these still, grey waters are what they show.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bruges, the historic canals",
+        "url": "https://en.wikipedia.org/wiki/Bruges"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bruges-la-Morte, Wikipedia, on the city as mirror",
+        "url": "https://en.wikipedia.org/wiki/Bruges-la-Morte"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "church-of-our-lady",
+    "name": "The Church of Our Lady",
+    "progressLabel": "Chapter 4",
+    "character": "barbe",
+    "coords": [3.224, 51.2043],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great churches of Bruges and their perpetual bells, above all the Church of Our Lady with its towering spire, pervade the novel; they are real and central to the city's devout, funereal atmosphere.",
+    "reference": "Chapter 4",
+    "order": 3,
+    "note": "The tolling of the Bruges bells and the piety embodied in the pious old servant Barbe surround Hugues with reminders of death and duty. The churches make the whole town a kind of vast tomb, and sharpen the guilt of his living passion for the dancer against his dead wife's memory.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Church of Our Lady, Bruges",
+        "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady,_Bruges"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bruges-la-Morte, Wikipedia, on the religious atmosphere",
+        "url": "https://en.wikipedia.org/wiki/Bruges-la-Morte"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "begijnhof",
+    "name": "The Béguinage",
+    "progressLabel": "Chapter 6",
+    "character": "hugues",
+    "coords": [3.223, 51.201],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Béguinage of Bruges, the real walled enclosure of the Beguines, appears as an emblem of withdrawal and mortification; its silence and white-clad women haunt the book's mood.",
+    "reference": "Chapter 6",
+    "order": 4,
+    "note": "The hushed courts of the Béguinage, with their bowed, silent women, offer Hugues an image of the renunciation he cannot manage, torn between mourning and desire. The enclosure is the pure form of the dead city, a place where life has been given over entirely to grief and prayer.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Begijnhof, Bruges",
+        "url": "https://en.wikipedia.org/wiki/Begijnhof,_Bruges"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bruges-la-Morte, Wikipedia, on the Béguinage",
+        "url": "https://en.wikipedia.org/wiki/Bruges-la-Morte"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "belfry-markt-procession",
+    "name": "The belfry and the Markt (the Procession)",
+    "progressLabel": "Chapter 15",
+    "character": "jane",
+    "coords": [3.2247, 51.2085],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The climax comes during the Procession of the Holy Blood, which winds through the Markt below the great Belfry of Bruges; both the belfry and the annual procession are real fixtures of the city.",
+    "reference": "Chapter 15",
+    "order": 5,
+    "note": "As the Procession of the Holy Blood passes below the belfry, the dancer Jane, mocking the relic of the dead wife's hair, provokes Hugues past endurance, and he strangles her with that very plait. The sacred pageant and the private murder collide in the market square, grief curdled at last into death.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Belfry of Bruges and the Procession of the Holy Blood",
+        "url": "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bruges-la-Morte, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Bruges-la-Morte"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

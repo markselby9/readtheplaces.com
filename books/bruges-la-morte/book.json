@@ -1,0 +1,46 @@
+{
+  "id": "bruges-la-morte",
+  "title": "Bruges-la-Morte",
+  "author": "Georges Rodenbach",
+  "published": 1892,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [3.225, 51.206],
+  "zoom": 15,
+  "setting": {
+    "city": "Bruges",
+    "country": "BE",
+    "note": "A widower, Hugues Viane, comes to Bruges to mourn his dead wife, keeping a plait of her hair as a relic, until he grows obsessed with a dancer who is her living double, and the silent 'dead city' becomes the mirror of his grief. Rodenbach makes the real Bruges a character: the still canals and their reflections, the great churches and their bells, the hushed enclosure of the Béguinage, and the belfry above the market square where the Procession of the Holy Blood ends the book in murder.",
+    "bbox": [3.213, 51.196, 3.237, 51.214]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original French (Georges Rodenbach, 1892) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Bruges-la-Morte",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Bruges-la-Morte, Georges Rodenbach (1892). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The dead grey-blue of the still Bruges canals, the mournful water that mirrors the widower's grief throughout the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "hugues": {
+      "name": "Hugues Viane",
+      "color": "#4A4A4A"
+    },
+    "jane": {
+      "name": "Jane Scott",
+      "color": "#8A2B1E"
+    },
+    "barbe": {
+      "name": "Barbe",
+      "color": "#2E6B4A"
+    },
+    "the-wife": {
+      "name": "The dead wife",
+      "color": "#6B3B5A"
+    }
+  }
+}

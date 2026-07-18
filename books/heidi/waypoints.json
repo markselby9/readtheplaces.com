@@ -1,0 +1,128 @@
+[
+  {
+    "id": "the-alm-hut",
+    "name": "The grandfather's hut on the alp",
+    "progressLabel": "Chapter 1",
+    "character": "grandfather",
+    "coords": [9.55, 47.02],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Alm-Uncle's hut stands on the high alp above the village; Spyri drew the setting from the mountainside above Maienfeld, where the 'Heidialp' is now marked. The hut itself is invented and sited on that real alpine slope.",
+    "reference": "Chapters 1-4",
+    "order": 1,
+    "note": "Five-year-old Heidi is left with her estranged grandfather, a hermit the villagers fear, in his hut high on the alp. Against everyone's expectation she thaws his hard heart, and the mountain, with its goats, its hay bed and its enormous sky, becomes the paradise the rest of the book aches to return to.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Heidi and the Maienfeld 'Heidialp'",
+        "url": "https://en.wikipedia.org/wiki/Maienfeld"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heidi, Wikipedia, on the Alm-Uncle and the setting",
+        "url": "https://en.wikipedia.org/wiki/Heidi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dorfli-maienfeld",
+    "name": "The village (Dörfli / Maienfeld)",
+    "progressLabel": "Chapter 2",
+    "character": "heidi",
+    "coords": [9.541, 47.006],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The village below the alp, the Dörfli, is drawn from the real town of Maienfeld in the canton of Graubünden, which the story firmly places at the foot of the mountain.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "Down in the village live Peter and his blind grandmother, whom Heidi loves, and the church and school that stand for the ordinary settled world. The Dörfli is the threshold between the high, free alp and the wider valley from which the summons to Frankfurt will come.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Maienfeld, Switzerland",
+        "url": "https://en.wikipedia.org/wiki/Maienfeld"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heidi, Wikipedia, on the village",
+        "url": "https://en.wikipedia.org/wiki/Heidi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "alpine-pastures",
+    "name": "The alpine pastures",
+    "progressLabel": "Chapter 3",
+    "character": "peter",
+    "coords": [9.57, 47.03],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Peter the goatherd drives the village goats up to the high pastures below the peaks each day; the alpine meadows above Maienfeld, toward the Falknis, are the real high country of the book.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "On the flower-strewn heights where Peter grazes the goats, Heidi runs wild in the sun and learns every crag and bird, and the great mountains flush red at evening. These upland pastures are the free, healing world whose loss makes her sicken in the city.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Maienfeld and the surrounding alpine pastures",
+        "url": "https://en.wikipedia.org/wiki/Maienfeld"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heidi, Wikipedia, on Peter and the pastures",
+        "url": "https://en.wikipedia.org/wiki/Heidi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frankfurt-sesemann-house",
+    "name": "Frankfurt (the Sesemann house)",
+    "progressLabel": "Chapters 5-9",
+    "character": "clara",
+    "coords": [8.682, 50.11],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Heidi is taken to Frankfurt to be companion to the wealthy invalid Clara Sesemann; the real city stands for the grey, rule-bound world away from the mountains, far outside the alpine setting.",
+    "reference": "Chapters 5-9",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the Sesemanns' grand Frankfurt house, Heidi is companion to the kind, wheelchair-bound Clara, but the stiff Fräulein Rottenmeier's rules and the flat city stifle her, and she grows homesick to the point of sleepwalking. The contrast between the confining town and the free alp is the book's beating heart.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Frankfurt, Germany",
+        "url": "https://en.wikipedia.org/wiki/Frankfurt"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heidi, Wikipedia, on the Frankfurt chapters and Clara",
+        "url": "https://en.wikipedia.org/wiki/Heidi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "return-to-the-mountains",
+    "name": "The return to the mountains",
+    "progressLabel": "Chapters 10-14",
+    "character": "heidi",
+    "coords": [9.504, 47.005],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Heidi is sent home to the alp for her health, arriving through the valley towns near Maienfeld such as Bad Ragaz, from which Clara later travels up to visit; sited on the real approach to the mountains.",
+    "reference": "Chapters 10-14",
+    "order": 5,
+    "note": "Restored to the alp, Heidi blooms again, and when the frail Clara is finally brought up the mountain, the goats' milk, the sun and the sheer joy of the heights work their cure, and she learns to walk. The book ends with the mountain vindicated as the place where bodies and hearts are healed.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bad Ragaz, near Maienfeld",
+        "url": "https://en.wikipedia.org/wiki/Bad_Ragaz"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heidi, Wikipedia, on Heidi's return and Clara's cure",
+        "url": "https://en.wikipedia.org/wiki/Heidi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
