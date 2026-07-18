@@ -1,0 +1,127 @@
+[
+  {
+    "id": "senen-kampung",
+    "name": "The kampung (Senen)",
+    "progressLabel": "The poor",
+    "character": "saimun",
+    "coords": [106.845, -6.175],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The urban poor of the novel live in the crowded kampungs of central Jakarta around Senen, a real district; the specific alleys are sited in that quarter of the working city.",
+    "reference": "The kampung chapters",
+    "order": 1,
+    "note": "Saimun, a migrant from the villages, hauls the city's rubbish and lives hand to mouth in a kampung, one of the countless poor on whose labour and misery the capital runs. Lubis grounds his indictment of the republic's corruption in the daily reality of people like him, who pay for the rich men's graft.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Senen, Central Jakarta",
+        "url": "https://en.wikipedia.org/wiki/Senen"
+      },
+      {
+        "kind": "guide",
+        "ref": "Twilight in Jakarta, Wikipedia, on the setting and the poor",
+        "url": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "menteng-elite",
+    "name": "Menteng (the elite)",
+    "progressLabel": "The powerful",
+    "character": "raden-kaslan",
+    "coords": [106.83, -6.195],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The politicians and profiteers of the book live in the leafy villas of Menteng, the real elite residential district of Jakarta laid out in colonial times.",
+    "reference": "The Menteng chapters",
+    "order": 2,
+    "note": "In his comfortable Menteng villa the politician-businessman Raden Kaslan spins the import licences and kickbacks that make him rich while the republic's ideals decay. The gulf between these shaded avenues and the kampungs a few miles off is the moral distance the whole book measures.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Menteng, Central Jakarta",
+        "url": "https://en.wikipedia.org/wiki/Menteng"
+      },
+      {
+        "kind": "guide",
+        "ref": "Twilight in Jakarta, Wikipedia, on Raden Kaslan and corruption",
+        "url": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tanjung-priok-port",
+    "name": "Tanjung Priok (the port)",
+    "progressLabel": "The trade",
+    "character": "suryono",
+    "coords": [106.88, -6.105],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The docks of Tanjung Priok, Jakarta's real main port, are where the import rackets and smuggling that enrich the elite pass through; sited at the working harbour north of the city.",
+    "reference": "The trade chapters",
+    "order": 3,
+    "note": "Raden Kaslan's Westernised, dissolute son Suryono is drawn into the family's schemes around the port's licences and contraband, chasing money and women with equal aimlessness. The harbour, gateway of the graft, shows how the young republic's commerce has been captured by a corrupt few.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tanjung Priok, Jakarta",
+        "url": "https://en.wikipedia.org/wiki/Tanjung_Priok"
+      },
+      {
+        "kind": "guide",
+        "ref": "Twilight in Jakarta, Wikipedia, on Suryono",
+        "url": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "kota-old-town",
+    "name": "Kota (the old town)",
+    "progressLabel": "The city",
+    "character": "dahlia",
+    "coords": [106.813, -6.135],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old commercial town of Kota, the former colonial Batavia, is the business heart of the city where much of its trade and intrigue plays out; the real district anchors the novel's urban world.",
+    "reference": "The city chapters",
+    "order": 4,
+    "note": "Through the offices and nightspots of the city moves Dahlia, Suryono's married lover, one of the many caught up in the capital's cynical exchange of sex, money and influence. Lubis uses her affair to show corruption reaching into private life, the whole city trading in favours.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kota Tua (Old Town), Jakarta",
+        "url": "https://en.wikipedia.org/wiki/Jakarta_Old_Town"
+      },
+      {
+        "kind": "guide",
+        "ref": "Twilight in Jakarta, Wikipedia, on Dahlia and the city",
+        "url": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "merdeka-square-politics",
+    "name": "Merdeka Square (the politics)",
+    "progressLabel": "The republic",
+    "character": "raden-kaslan",
+    "coords": [106.827, -6.17],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The government ministries and party politics of the young republic centre on Medan Merdeka, the great square at the heart of Jakarta; the real square anchors the novel's picture of political rot.",
+    "reference": "The republic chapters",
+    "order": 5,
+    "note": "Around the great square and the ministries, the parties bargain and betray, and an election looms in which the corruption reaches its height before a reckoning falls. Lubis ends with a kind of judgement on the men who sold the revolution's promise, the twilight of the title closing over the whole city.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Merdeka Square, Jakarta",
+        "url": "https://en.wikipedia.org/wiki/Merdeka_Square,_Jakarta"
+      },
+      {
+        "kind": "guide",
+        "ref": "Twilight in Jakarta, Wikipedia, on the political corruption",
+        "url": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

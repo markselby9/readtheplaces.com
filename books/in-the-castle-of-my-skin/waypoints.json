@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-village",
+    "name": "The village",
+    "progressLabel": "Chapter 1",
+    "character": "g",
+    "coords": [-59.615, 13.105],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The boy G. grows up in a poor Barbadian village of wooden houses drawn from Lamming's own Carrington Village near Bridgetown; the village is sited in that real parish edge of the town.",
+    "reference": "Chapters 1-3",
+    "order": 1,
+    "note": "In the flood-prone village of little wooden houses, nine-year-old G. watches a whole community, its neighbours, its gossip, its floods and festivals, in the last days of an order that has held for generations. The village, tenant to the plantation, is the small world whose slow awakening the book records.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Barbados",
+        "url": "https://en.wikipedia.org/wiki/Barbados"
+      },
+      {
+        "kind": "guide",
+        "ref": "In the Castle of My Skin, Wikipedia, on the village and G.",
+        "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "creightons-plantation",
+    "name": "Creighton's plantation",
+    "progressLabel": "Chapter 4",
+    "character": "mr-slime",
+    "coords": [-59.61, 13.115],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Above the village stands the landlord Creighton's Great House and plantation, drawn from the real Barbadian plantation system on which the villagers are tenants; sited on the hill overlooking the village.",
+    "reference": "Chapters 4-7",
+    "order": 2,
+    "note": "The white landlord's Great House on the hill embodies the old order of ownership and deference the village has always lived under. When the ambitious Mr Slime organises the villagers to buy the land, only for it to slip into the hands of a new brown-skinned proprietor class, the book shows how thoroughly independence can betray the poor.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sugar plantations of Barbados",
+        "url": "https://en.wikipedia.org/wiki/History_of_Barbados"
+      },
+      {
+        "kind": "guide",
+        "ref": "In the Castle of My Skin, Wikipedia, on Mr Slime and the land",
+        "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bridgetown-riots",
+    "name": "Bridgetown (the riots)",
+    "progressLabel": "Chapter 8",
+    "character": "trumper",
+    "coords": [-59.618, 13.098],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The labour unrest that shakes the island reaches Bridgetown, the real Barbadian capital, echoing the actual 1937 riots; sited in the town where the disturbances of the era took place.",
+    "reference": "Chapter 8",
+    "order": 3,
+    "note": "In Bridgetown the strikes and riots of the late 1930s crack the surface of colonial order, and word of them reaches the village like distant thunder. Through G.'s friend Trumper, who will go abroad and come back with a new race consciousness, Lamming ties the village's small changes to the wider awakening of the colonial Caribbean.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bridgetown, Barbados, and the 1937 riots",
+        "url": "https://en.wikipedia.org/wiki/Bridgetown"
+      },
+      {
+        "kind": "guide",
+        "ref": "In the Castle of My Skin, Wikipedia, on Trumper and the unrest",
+        "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ma-house-village",
+    "name": "Ma's house (the village elders)",
+    "progressLabel": "Chapter 6",
+    "character": "ma",
+    "coords": [-59.616, 13.107],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The old couple Ma and Pa hold the village's folk memory and its ties to the plantation past; their house is sited in the real village world the novel maps.",
+    "reference": "Chapters 5-9",
+    "order": 4,
+    "note": "In Ma and Pa's house lives the long memory of slavery and the land, the deep past the younger generation is beginning to question. Their bewildered dignity as the old certainties dissolve, and Pa's final removal to the almshouse, measure the human cost of the order passing away.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "In the Castle of My Skin, Wikipedia, on Ma and Pa",
+        "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-sea-departure",
+    "name": "The sea (the departure)",
+    "progressLabel": "Chapter 14",
+    "character": "g",
+    "coords": [-59.615, 13.085],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Barbadian coast and its beaches, where the boys swim and dream, are also the edge from which the young leave for England and America; sited on the real seafront of the island.",
+    "reference": "Chapter 14",
+    "order": 5,
+    "note": "The sea that borders the boys' world is finally the road out of it, and the book ends with G. about to leave the island for a teaching post abroad, the village and its old life receding behind him. Lamming closes on the emigrant's departure that would define a whole Caribbean generation, including his own.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "In the Castle of My Skin, Wikipedia, on the ending and departure",
+        "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

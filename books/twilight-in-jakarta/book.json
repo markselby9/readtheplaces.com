@@ -1,0 +1,46 @@
+{
+  "id": "twilight-in-jakarta",
+  "title": "Twilight in Jakarta",
+  "author": "Mochtar Lubis",
+  "published": 1963,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [106.83, -6.16],
+  "zoom": 11,
+  "setting": {
+    "city": "Jakarta",
+    "country": "ID",
+    "note": "Lubis's angry panorama of Jakarta in the mid-1950s cuts between the classes of the young republic's capital, from the garbage collectors of the kampungs to the corrupt politicians and businessmen growing rich on graft. The real city organises it: the crowded poor quarters around Senen, the leafy elite villas of Menteng, the smuggling docks of Tanjung Priok, the old commercial town of Kota, and the government centre at Merdeka Square where the rot begins.",
+    "bbox": [106.79, -6.21, 106.9, -6.1]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mochtar Lubis, first published 1963 (Senja di Jakarta). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Twilight_in_Jakarta",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Twilight in Jakarta, Mochtar Lubis (1963). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The dusk-brown of the twilight in the title, the failing light over a capital rotting with corruption. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "saimun": {
+      "name": "Saimun",
+      "color": "#2E6B4A"
+    },
+    "raden-kaslan": {
+      "name": "Raden Kaslan",
+      "color": "#4A4A4A"
+    },
+    "suryono": {
+      "name": "Suryono",
+      "color": "#8A6A12"
+    },
+    "dahlia": {
+      "name": "Dahlia",
+      "color": "#8A2B1E"
+    }
+  }
+}
