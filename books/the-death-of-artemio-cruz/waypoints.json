@@ -1,0 +1,105 @@
+[
+  {
+    "id": "mexico-city-deathbed",
+    "name": "Artemio Cruz's mansion, Mexico City",
+    "progressLabel": "The present",
+    "character": "artemio",
+    "coords": [-99.214, 19.428],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The dying Artemio lies in his grand house in Mexico City, placed among the wealthy western districts such as Las Lomas; the specific mansion is invented and sited in that part of the real city.",
+    "reference": "Framing narrative",
+    "order": 1,
+    "note": "The whole novel is spoken from this bed, where the old man drifts in and out of consciousness while his wife and daughter wait for him to die and for the will to be read. From the mansion of a life's plunder, his memory reaches back for the moments that made and unmade him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Death of Artemio Cruz, Wikipedia, on the deathbed frame",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cocuya-veracruz",
+    "name": "Cocuya, Veracruz",
+    "progressLabel": "1889",
+    "character": "lunero",
+    "coords": [-95.66, 18.61],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Artemio is born on a decaying estate in the tropical Gulf lowlands of Veracruz; the place, Cocuya, is invented and sited in that coastal region outside the capital.",
+    "reference": "The Veracruz chapters",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "The illegitimate child of a landowner's son and a mulatto woman, Artemio is raised in a hut by Lunero, the gentle mulatto labourer, on a ruined Veracruz hacienda. The green, poor coast of his origins is the innocence the rest of his life spends and betrays.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Death of Artemio Cruz, Wikipedia, on Artemio's origins and Lunero",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "revolution-front",
+    "name": "The Revolution (northern front)",
+    "progressLabel": "1913-1915",
+    "character": "regina",
+    "coords": [-110.9, 29.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Artemio fights in the Mexican Revolution across the northern states; the campaigns and the town where he is captured are set in that region, sited in Sonora, far from the capital.",
+    "reference": "The Revolution chapters",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "As a young officer Artemio knows the one great love of his life, Regina, who follows the army and is killed, and he learns the cowardice and cunning that will make his fortune. The Revolution he betrays, saving himself while others die, is the wound the whole novel circles.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Death of Artemio Cruz, Wikipedia, on the Revolution and Regina",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "puebla-bernal-estate",
+    "name": "The Bernal estate, Puebla",
+    "progressLabel": "1919",
+    "character": "catalina",
+    "coords": [-98.198, 19.043],
+    "placeCertainty": "inferred",
+    "certaintyNote": "After the war Artemio marries into the landowning Bernal family of Puebla and takes over their estate; the family seat is invented and sited in the real city of Puebla, south-east of Mexico City.",
+    "reference": "The Puebla chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Artemio presents himself to a ruined Puebla landowner as the comrade of his dead son, then marries the daughter Catalina and seizes the estate. Catalina never forgives him or herself for the bargain, and their cold marriage is the founding fraud on which his wealth and his loneliness are built.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Death of Artemio Cruz, Wikipedia, on Catalina and the Bernal estate",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mexico-city-empire",
+    "name": "The capital (Artemio's empire)",
+    "progressLabel": "1920s-1950s",
+    "character": "artemio",
+    "coords": [-99.14, 19.434],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Artemio builds his newspaper and business empire in the centre of Mexico City, dealing in land, politics and American capital; sited in the real heart of the capital along its central avenues.",
+    "reference": "The capital chapters",
+    "order": 5,
+    "note": "From the centre of the city Artemio runs a newspaper and a web of concessions, brokering between Mexican power and North American money and growing rich on the compromises of the post-revolutionary state. The empire is the visible monument to everything he sold, and it is worth nothing to him as he dies.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Death of Artemio Cruz, Wikipedia, on Artemio's rise and empire",
+        "url": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

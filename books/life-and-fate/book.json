@@ -1,0 +1,46 @@
+{
+  "id": "life-and-fate",
+  "title": "Life and Fate",
+  "author": "Vasily Grossman",
+  "published": 1980,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [44.53, 48.72],
+  "zoom": 12,
+  "setting": {
+    "city": "Stalingrad",
+    "country": "RU",
+    "note": "Grossman's vast novel turns on the Battle of Stalingrad in 1942–43 and braids it with the two great terrors of the century, the Nazi camps and Stalin's own. The city on the Volga is the fixed centre: the ruined streets, the encircled strongpoint the novel calls House 6/1, and the height of Mamayev Kurgan fought over yard by yard. Beyond it the book reaches to the Berdichev ghetto, where the physicist Shtrum's mother writes her last letter, and to the Lubyanka in Moscow, so that the war and the two tyrannies are held in one frame.",
+    "bbox": [44.49, 48.69, 44.57, 48.76]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vasily Grossman, completed 1959, first published 1980. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Life_and_Fate",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Life and Fate, Vasily Grossman (1980). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The fire of Stalingrad and of the human heart Grossman sets against two tyrannies, his 'senseless kindness' burning where the ideologies cannot reach. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "krymov": {
+      "name": "Krymov",
+      "color": "#4A4A4A"
+    },
+    "grekov": {
+      "name": "Grekov",
+      "color": "#8A6A12"
+    },
+    "anna": {
+      "name": "Anna Semyonovna",
+      "color": "#6B3B5A"
+    },
+    "shtrum": {
+      "name": "Viktor Shtrum",
+      "color": "#2E5064"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-death-of-artemio-cruz",
+  "title": "The Death of Artemio Cruz",
+  "author": "Carlos Fuentes",
+  "published": 1962,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-99.15, 19.42],
+  "zoom": 11,
+  "setting": {
+    "city": "Mexico City",
+    "country": "MX",
+    "note": "A corrupt press baron lies dying in his Mexico City mansion, and his fevered memory ranges back across the making of modern Mexico: his birth on a Veracruz estate, the Revolution in which he fought and betrayed, the marriage into a Puebla landowning family that founded his fortune, and the empire of newspapers and deals he built in the capital. Fuentes maps a life onto a country, the deathbed in the city holding all the places that made Artemio Cruz.",
+    "bbox": [-99.26, 19.31, -99.05, 19.51]
+  },
+  "rights": {
+    "originalWork": "In copyright. Carlos Fuentes, first published 1962 (La muerte de Artemio Cruz). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Death of Artemio Cruz, Carlos Fuentes (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the fortune Artemio Cruz amasses out of a betrayed revolution, the wealth that cannot buy back a single true thing. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "artemio": {
+      "name": "Artemio Cruz",
+      "color": "#4A4A4A"
+    },
+    "catalina": {
+      "name": "Catalina",
+      "color": "#2E5064"
+    },
+    "regina": {
+      "name": "Regina",
+      "color": "#8A2B1E"
+    },
+    "lunero": {
+      "name": "Lunero",
+      "color": "#2E6B4A"
+    }
+  }
+}
