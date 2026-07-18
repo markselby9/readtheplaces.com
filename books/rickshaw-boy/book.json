@@ -1,0 +1,46 @@
+{
+  "id": "rickshaw-boy",
+  "title": "Rickshaw Boy",
+  "author": "Lao She",
+  "published": 1937,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [116.36, 39.94],
+  "zoom": 11,
+  "setting": {
+    "city": "Beijing",
+    "country": "CN",
+    "note": "Xiangzi, a strong young man come to the city from the countryside, pulls a rickshaw through 1920s Beijing with one dream, to own his own rickshaw and be his own master, and the city and its cruelties grind that dream down step by step. Lao She maps the real Beijing of the rickshaw men: the hutong rental yards where they lodge, the city gates where soldiers seize Xiangzi, the Western Hills he flees to with the army's camels, and the scholarly households of Haidian where he briefly finds decency.",
+    "bbox": [116.28, 39.88, 116.42, 40.02]
+  },
+  "rights": {
+    "originalWork": "In copyright. Lao She, first published 1937 (Luotuo Xiangzi). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Rickshaw_Boy",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Rickshaw Boy, Lao She (1937). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey dust of the Beijing streets and of a life worn down, the individual crushed under the wheels of the city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "xiangzi": {
+      "name": "Xiangzi",
+      "color": "#8A6A12"
+    },
+    "huniu": {
+      "name": "Hu Niu",
+      "color": "#8A2B1E"
+    },
+    "mr-cao": {
+      "name": "Mr Cao",
+      "color": "#2E5064"
+    },
+    "xiao-fuzi": {
+      "name": "Xiao Fuzi",
+      "color": "#6B3B5A"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cracking-india",
+  "title": "Cracking India",
+  "author": "Bapsi Sidhwa",
+  "published": 1988,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [74.33, 31.565],
+  "zoom": 12,
+  "setting": {
+    "city": "Lahore",
+    "country": "PK",
+    "note": "Through the eyes of Lenny, a small, polio-stricken Parsee girl, the novel watches Lahore tear itself apart in the Partition of 1947, as her beloved Hindu nanny is betrayed by a besotted admirer, the Ice-candy-man. Sidhwa maps her city: the Parsee family's house on Warris Road, the Queen's Garden and the Mall where the nanny's many suitors gather, the old neighbourhoods that erupt in slaughter, and Hira Mandi, into whose brothels the abducted are sold.",
+    "bbox": [74.29, 31.54, 74.4, 31.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Bapsi Sidhwa, first published 1988 (also as Ice-Candy-Man). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Ice-Candy-Man",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Cracking India, Bapsi Sidhwa (1988). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the fires and slaughter of Partition, the year Lahore and a whole country are cracked apart. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lenny": {
+      "name": "Lenny",
+      "color": "#2E5064"
+    },
+    "ayah": {
+      "name": "Ayah (Shanta)",
+      "color": "#8A6A12"
+    },
+    "ice-candy-man": {
+      "name": "The Ice-candy-man",
+      "color": "#4A4A4A"
+    },
+    "godmother": {
+      "name": "Godmother",
+      "color": "#2E6B4A"
+    }
+  }
+}

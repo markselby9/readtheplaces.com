@@ -1,0 +1,123 @@
+[
+  {
+    "id": "rickshaw-compound",
+    "name": "The rickshaw compound",
+    "progressLabel": "Chapter 1",
+    "character": "huniu",
+    "coords": [116.375, 39.925],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Xiangzi lodges at a rickshaw rental yard in the Beijing hutongs, run by the shrewd Liu and his daughter Hu Niu; the compound is invented and sited in the real maze of central Beijing lanes.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "In the courtyard yard where the pullers rent their rickshaws and sleep, the coarse, calculating Hu Niu, the owner's unmarried daughter, sets her sights on the strong young Xiangzi. Her trapping of him into marriage is one of the coils that will slowly strangle his dream of independence.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rickshaw Boy, Wikipedia, on Xiangzi and Hu Niu",
+        "url": "https://en.wikipedia.org/wiki/Rickshaw_Boy"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hutongs of Beijing",
+        "url": "https://en.wikipedia.org/wiki/Hutong"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "city-gates-soldiers",
+    "name": "The city gates (seized by soldiers)",
+    "progressLabel": "Chapter 2",
+    "character": "xiangzi",
+    "coords": [116.352, 39.94],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Having at last bought his own rickshaw, Xiangzi is seized with it by warlord soldiers near the city gates; the great gates in Beijing's walls, such as Xizhimen, are real and mark the edge of the dangerous countryside.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "On a rash trip beyond the walls, Xiangzi and his hard-won rickshaw are grabbed by retreating soldiers, and everything he saved for is gone in a moment. The seizure at the gates is the first of the blows by which the city teaches him that effort and virtue count for nothing against power and chance.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gates and city walls of Beijing",
+        "url": "https://en.wikipedia.org/wiki/City_walls_of_Beijing"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rickshaw Boy, Wikipedia, on Xiangzi's misfortunes",
+        "url": "https://en.wikipedia.org/wiki/Rickshaw_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "western-hills-camels",
+    "name": "The Western Hills (the camels)",
+    "progressLabel": "Chapter 3",
+    "character": "xiangzi",
+    "coords": [116.19, 39.995],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Escaping the army camp, Xiangzi slips away through the Western Hills outside Beijing, leading off three camels he later sells, an escapade that earns him the nickname Camel Xiangzi; the Western Hills are a real range west of the city.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Fleeing the soldiers through the Western Hills, Xiangzi steals away three army camels and sells them for a pittance, and the episode gives him his lasting nickname. The countryside beyond the walls is a place of danger and small, bitter windfalls, never the fresh start he keeps hoping for.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Western Hills, Beijing",
+        "url": "https://en.wikipedia.org/wiki/Western_Hills"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rickshaw Boy, Wikipedia, on Camel Xiangzi",
+        "url": "https://en.wikipedia.org/wiki/Rickshaw_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mr-cao-house-haidian",
+    "name": "Mr Cao's house, Haidian",
+    "progressLabel": "Chapter 8",
+    "character": "mr-cao",
+    "coords": [116.33, 40.0],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Xiangzi finds his best employment pulling for the mild, decent scholar Mr Cao in the western academic district of Haidian; the area, home to Beijing's universities, is real.",
+    "reference": "Chapter 8",
+    "order": 4,
+    "note": "For a while Xiangzi steadies himself as private rickshaw man to the kindly Mr Cao, a teacher who treats him as a human being. But even this refuge is torn away when Cao is caught up in political trouble and a detective robs Xiangzi of his savings, and decency proves as fragile as everything else.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Haidian District, Beijing",
+        "url": "https://en.wikipedia.org/wiki/Haidian_District"
+      },
+      {
+        "kind": "guide",
+        "ref": "Rickshaw Boy, Wikipedia, on Mr Cao",
+        "url": "https://en.wikipedia.org/wiki/Rickshaw_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "streets-teahouse-decline",
+    "name": "The streets (Xiangzi's decline)",
+    "progressLabel": "Chapters 20-24",
+    "character": "xiao-fuzi",
+    "coords": [116.373, 39.915],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Xiangzi's ruin plays out through the streets, teahouses and poor quarters of central Beijing, where he loves and loses Xiao Fuzi; sited in the real central districts the rickshaw men worked.",
+    "reference": "Chapters 20-24",
+    "order": 5,
+    "note": "After Hu Niu dies and the gentle Xiao Fuzi, driven into prostitution, hangs herself, the last hope goes out of Xiangzi. The final chapters follow him through the same streets as a broken, cheating, degraded man, the city's grinding of one decent life into ruin now complete.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rickshaw Boy, Wikipedia, on Xiao Fuzi and the ending",
+        "url": "https://en.wikipedia.org/wiki/Rickshaw_Boy"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

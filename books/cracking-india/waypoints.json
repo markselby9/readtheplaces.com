@@ -1,0 +1,122 @@
+[
+  {
+    "id": "warris-road-house",
+    "name": "The Sethi house, Warris Road",
+    "progressLabel": "Part 1",
+    "character": "lenny",
+    "coords": [74.335, 31.56],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lenny's Parsee family lives on Warris Road in Lahore, a real street of the colonial city; the specific house is invented and sited in that quiet, mixed neighbourhood.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "From the sheltered house on Warris Road, the sharp-eyed, polio-lamed child Lenny watches the adult world, protected by her family's neutral Parsee status. Her narrow, loving view of home is the vantage from which the coming catastrophe will be seen all the more terribly.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lahore",
+        "url": "https://en.wikipedia.org/wiki/Lahore"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cracking India, Wikipedia, on Lenny and the setting",
+        "url": "https://en.wikipedia.org/wiki/Ice-Candy-Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "queens-garden-mall",
+    "name": "Queen's Garden and the Mall",
+    "progressLabel": "Part 1",
+    "character": "ayah",
+    "coords": [74.33, 31.558],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Lenny's nanny takes her to Queen's Garden (Lawrence Gardens, now Bagh-e-Jinnah) off the Mall, real Lahore parks where the beautiful Ayah's circle of Hindu, Muslim, Sikh and Parsee admirers gathers.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "In the garden by the Mall, Ayah, warm and lovely, holds a court of suitors from every community, and for a while the group's easy friendship embodies the mixed Lahore that Partition will destroy. The Ice-candy-man is among them, and his love for Ayah will curdle into the book's central betrayal.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bagh-e-Jinnah (Lawrence Gardens), Lahore",
+        "url": "https://en.wikipedia.org/wiki/Bagh-e-Jinnah"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cracking India, Wikipedia, on Ayah and her admirers",
+        "url": "https://en.wikipedia.org/wiki/Ice-Candy-Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-city-violence",
+    "name": "The old neighbourhoods (the violence)",
+    "progressLabel": "Part 2",
+    "character": "ice-candy-man",
+    "coords": [74.31, 31.552],
+    "placeCertainty": "explicit",
+    "certaintyNote": "As Partition nears, the mixed old neighbourhoods of Lahore erupt in communal slaughter and arson; the real districts of the city are where the killing that shatters Ayah's circle takes place.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "When the killing starts, friends become murderers overnight, and the Ice-candy-man, maddened by grief after his relatives are butchered on a train from Amritsar, turns into an agent of the mob. Lahore burning, seen in fragments through Lenny's eyes, is the book's unbearable centre.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Partition of India, 1947, and the violence in Punjab",
+        "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cracking India, Wikipedia, on the Ice-candy-man and the violence",
+        "url": "https://en.wikipedia.org/wiki/Ice-Candy-Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hira-mandi",
+    "name": "Hira Mandi",
+    "progressLabel": "Part 3",
+    "character": "ayah",
+    "coords": [74.31, 31.585],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The abducted Ayah is taken to Hira Mandi, the real red-light quarter of old Lahore near the Fort and Badshahi Mosque, and forced into it; the district grounds the book's account of women's fate in Partition.",
+    "reference": "Part 3",
+    "order": 4,
+    "note": "Betrayed by the Ice-candy-man, who leads the mob to her, Ayah is seized, raped and taken to Hira Mandi, then married to her betrayer under a veneer of respectability. Her fate stands for the countless women abducted and traded in the chaos, the intimate cost of the map-makers' cracking of India.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Heera Mandi, Lahore",
+        "url": "https://en.wikipedia.org/wiki/Heera_Mandi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Cracking India, Wikipedia, on Ayah's abduction",
+        "url": "https://en.wikipedia.org/wiki/Ice-Candy-Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "godmother-house",
+    "name": "Godmother's house (the rescue)",
+    "progressLabel": "Part 3",
+    "character": "godmother",
+    "coords": [74.33, 31.562],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Lenny's formidable Godmother, who knows everyone in the city, works from her Lahore home to find and free Ayah; the house is invented and sited in the real central city.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "The fierce, all-knowing Godmother uses her web of contacts to track down Ayah and have her recovered and sent to her family in Amritsar, one small act of justice against the tide. Through her, Sidhwa offers a flicker of the decency and agency that survive even the worst of the catastrophe.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cracking India, Wikipedia, on Godmother and Ayah's recovery",
+        "url": "https://en.wikipedia.org/wiki/Ice-Candy-Man"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
