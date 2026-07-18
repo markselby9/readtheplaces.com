@@ -1,23 +1,42 @@
 {
   "id": "the-count-of-monte-cristo",
   "title": "The Count of Monte Cristo",
+  "titleOriginal": "Le Comte de Monte-Cristo",
   "author": "Alexandre Dumas",
   "published": 1846,
   "orderingKey": "chapter",
-  "center": [5.3778, 43.2964],
-  "zoom": 12.5,
+  "sourcing": "sourced",
+  "center": [5.3708, 43.2947],
+  "zoom": 5.5,
   "setting": {
     "city": "Marseille",
     "country": "FR",
-    "note": "It begins in the harbour at Marseille and the island prison of the Château d’If, which is real and reached by boat. The novel then crosses the Mediterranean, so a contributor chooses the anchors that carry it.",
-    "bbox": [5.229, 43.17, 5.532, 43.391]
+    "note": "It opens in the old harbour of Marseille, where the Pharaon docks and Edmond Dantès is arrested, and at the Château d'If, the real island fortress off the coast where he is buried alive for fourteen years. His escape and the treasure carry the story out of France: to the island of Monte Cristo in the Tuscan archipelago, and to Rome, before he returns to take his revenge in Paris. The Italian and Roman scenes are flagged as excursions beyond the setting.",
+    "bbox": [2.2, 43.1, 5.6, 48.95]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Alexandre Dumas published this in 1846.",
-    "translation": "Translated by chapman and hall. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Alexandre Dumas, The Count of Monte Cristo (1846)."
+    "originalWork": "Public domain. Alexandre Dumas, first published 1844-46; the author died in 1870.",
+    "translation": "Anonymous 19th-century English translation, in the public domain.",
+    "textSource": "Project Gutenberg (public domain)",
+    "textSourceUrl": "https://www.gutenberg.org/ebooks/1184",
+    "territoryNotes": "Public domain in the US and UK/EU: Dumas died 1870 and the translation is over a century old.",
+    "attribution": "Alexandre Dumas, The Count of Monte Cristo (1846), anonymous translation. Text from Project Gutenberg."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "accentSourceQuote": "piles of golden coin",
+    "note": "The gold of Cardinal Spada's treasure, which Dantès unearths on Monte Cristo and which makes him the Count. A dark gold that clears WCAG AA on paper."
+  },
+  "characters": {
+    "dantes": {
+      "name": "Edmond Dantès",
+      "color": "#4A4A4A",
+      "colorSourceQuote": "hair as dark as a raven's wing"
+    },
+    "mercedes": {
+      "name": "Mercédès",
+      "color": "#8A2B1E",
+      "colorSourceQuote": "ripe, round, coral lips"
+    }
   }
 }

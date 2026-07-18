@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "id": "marseille-old-harbour",
+    "name": "The old harbour, Marseille",
+    "progressLabel": "Ch. 1, The Arrival",
+    "character": "dantes",
+    "coords": [5.3708, 43.2947],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pharaon is steered into the inner port of Marseille, the Vieux-Port at the foot of the Canebière, which is real and named through the chapter. The pin marks the old harbour.",
+    "quoteAnchor": "narrow entrance of the inner port, was a young man",
+    "passage": "Standing by the side of the pilot, who was steering the Pharaon towards the narrow entrance of the inner port, was a young man, who, with activity and vigilant eye, watched every motion of the ship, and repeated each direction of the pilot.",
+    "note": "The novel opens here on 24 February 1815, as nineteen-year-old Edmond Dantès brings the Pharaon home to Marseille. Within hours he is betrayed and arrested at his own betrothal feast. The old harbour is where his life is taken from him, and where, an ageless fortune later, the Count returns to close his accounts.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 1: Marseilles—The Arrival",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Vieux-Port de Marseille (Old Port), at the foot of the Canebière",
+        "url": "https://en.wikipedia.org/wiki/Old_Port_of_Marseille"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "village-des-catalans",
+    "name": "The village of the Catalans",
+    "progressLabel": "Ch. 3, The Catalans",
+    "character": "mercedes",
+    "coords": [5.3553, 43.2907],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Dumas places the Catalan settlement on a promontory just outside Marseille; the real village des Catalans stood in the Saint-Lambert cove, now the Plage des Catalans in the 7th arrondissement. The pin marks that cove.",
+    "quoteAnchor": "settled like a flight of seabirds, without mixing with",
+    "passage": "For three or four centuries they have remained upon this small promontory, on which they had settled like a flight of seabirds, without mixing with the Marseillaise population, intermarrying, and preserving their original customs and the costume of their mother-country as they have preserved its language.",
+    "note": "Mercédès, the Catalan girl Dantès is to marry, lives in this fishing colony on the edge of Marseille. It is here that his rival Fernand nurses the jealousy that helps send Edmond to prison, and here that Mercédès waits, and finally gives up waiting.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 3: The Catalans",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Plage des Catalans, Marseille, on the site of the old village des Catalans",
+        "url": "https://en.wikipedia.org/wiki/Catalans,_Marseille"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chateau-dif",
+    "name": "The Château d'If",
+    "progressLabel": "Ch. 8, The Château d'If",
+    "character": "dantes",
+    "coords": [5.326, 43.2799],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Château d'If is a real fortress on the Île d'If in the Frioul archipelago off Marseille, named repeatedly in the text. It lies within the book's setting, off the coast.",
+    "quoteAnchor": "the black and frowning rock on which",
+    "passage": "Dantès rose and looked forward, when he saw rise within a hundred yards of him the black and frowning rock on which stands the Château d'If. This gloomy fortress, which has for more than three hundred years furnished food for so many wild legends, seemed to Dantès like a scaffold to a malefactor.",
+    "note": "Dantès is rowed out to the island fortress and locked in a dungeon for fourteen years. Here he meets the Abbé Faria, who educates him and reveals the hidden treasure, and from here he escapes, sewn into a shroud and flung into the sea, to become the Count of Monte Cristo.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 8: The Château d'If",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Château d'If, Île d'If, Frioul archipelago, Marseille",
+        "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27If"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "island-of-monte-cristo",
+    "name": "The island of Monte Cristo",
+    "progressLabel": "Ch. 24, The Secret Cave",
+    "character": "dantes",
+    "coords": [10.3091, 42.3319],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Montecristo is a real island in the Tuscan archipelago, off the Italian coast south of Elba, named in the title and the text. It lies in Italy, well outside the French setting, so it is flagged as an excursion.",
+    "quoteAnchor": "sounded like hail against glass",
+    "passage": "Three compartments divided the coffer. In the first, blazed piles of golden coin; in the second, were ranged bars of unpolished gold, which possessed nothing attractive save their value; in the third, Edmond grasped handfuls of diamonds, pearls, and rubies, which, as they fell on one another, sounded like hail against glass.",
+    "note": "On the barren Tuscan island that will give him his title, Dantès digs out Cardinal Spada's treasure in a hidden cave. The fortune of gold coin, gold bars and jewels makes the escaped prisoner immeasurably rich and turns Edmond Dantès into the Count of Monte Cristo, the instrument of his own long revenge.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 24: The Secret Cave",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "guide",
+        "ref": "Montecristo, Tuscan Archipelago, Italy (state nature reserve)",
+        "url": "https://en.wikipedia.org/wiki/Montecristo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-colosseum-rome",
+    "name": "The Colosseum, Rome",
+    "progressLabel": "Ch. 33, Roman Bandits",
+    "character": "dantes",
+    "coords": [12.4922, 41.8902],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Colosseum in Rome is real and named in the text. Rome lies in Italy, outside the French setting, so it is flagged as an excursion.",
+    "quoteAnchor": "wished to show Albert the Colosseum by moonlight",
+    "passage": "They returned to the hotel; at the door Franz ordered the coachman to be ready at eight. He wished to show Albert the Colosseum by moonlight, as he had shown him Saint Peter's by daylight.",
+    "note": "In Rome for the carnival, Franz and Albert visit the Colosseum by moonlight, where Franz overhears the mysterious Count arranging a bandit's pardon. Days later, when the carnival on the Corso ends with Albert kidnapped by Luigi Vampa, the Count is the one man who can, and does, save him, binding the young Parisian to him for the revenge to come.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 33: Roman Bandits",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "guide",
+        "ref": "Colosseum, Rome, Italy",
+        "url": "https://en.wikipedia.org/wiki/Colosseum"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "champs-elysees-paris",
+    "name": "The Count's house, Champs-Élysées",
+    "progressLabel": "Ch. 42, Monsieur Bertuccio",
+    "character": "dantes",
+    "coords": [2.3075, 48.8698],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Champs-Élysées is a real Paris avenue, named in the text; the Count's specific house on it is invented. The pin marks a point on the avenue near the Rue de Ponthieu, where Dumas sets the house.",
+    "quoteAnchor": "situated on the right hand as you ascend the",
+    "passage": "The house Ali had chosen, and which was to serve as a town residence to Monte Cristo, was situated on the right hand as you ascend the Champs-Élysées.",
+    "note": "The Count arrives in Paris and takes a mansion on the Champs-Élysées, the stage for the last third of the book. From here, moving among the men who ruined him, now grown rich and respectable, he draws Danglars, Fernand and Villefort one by one into the ruin he has spent his fortune preparing.",
+    "sources": [
+      {
+        "kind": "passage",
+        "ref": "The Count of Monte Cristo, Chapter 42: Monsieur Bertuccio",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Avenue des Champs-Élysées, Paris",
+        "url": "https://en.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
