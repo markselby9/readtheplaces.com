@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "davos-platz-arrival",
+    "name": "Davos-Platz",
+    "progressLabel": "Chapter 1",
+    "character": "castorp",
+    "coords": [9.8207, 46.7914],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Davos-Platz as the valley town the traveller reaches by the narrow-gauge mountain railway; the coordinates mark the Davos-Platz station and cure quarter on the valley floor.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "Hans Castorp arrives in the valley after a long climb by train from Hamburg, meaning to spend three summer weeks visiting his cousin before starting work at a shipyard. The cure-town of Davos-Platz is the last stop in the ordinary world; from here he is carried up to the sanatorium and the flatland releases its hold on him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Davos, Wikipedia, on the cure-town of Davos-Platz and its railway",
+        "url": "https://en.wikipedia.org/wiki/Davos"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Magic Mountain, Wikipedia, on the Davos setting and Castorp's arrival",
+        "url": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "funicular-railway",
+    "name": "The funicular railway",
+    "progressLabel": "Chapter 1",
+    "character": "castorp",
+    "coords": [9.8258, 46.793],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The sanatorium shelf sits high above the valley and is served by a funicular; the coordinates mark the valley station of the real Schatzalp-Bahn beside Davos-Platz, which climbs to the sanatorium terrace the fictional Berghof is drawn from.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The last stage of the journey leaves the valley floor and climbs the steep mountainside to the sanatorium shelf, hundreds of metres above the town. The real Schatzalp funicular still runs this line from Davos-Platz up to the terrace of Alpine hotels; the short, steep ascent marks the passage out of ordinary time and into the closed world of the cure.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Schatzalp-Bahn, Wikipedia, on the funicular from Davos-Platz to the Schatzalp",
+        "url": "https://en.wikipedia.org/wiki/Schatzalp-Bahn"
+      },
+      {
+        "kind": "guide",
+        "ref": "Davos, Wikipedia, on the mountain railways serving the resort",
+        "url": "https://en.wikipedia.org/wiki/Davos"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "berghof-sanatorium",
+    "name": "The Berghof sanatorium (the Schatzalp)",
+    "progressLabel": "Chapter 2",
+    "character": "castorp",
+    "coords": [9.821477, 46.797149],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Berghof is a fictional sanatorium, but Mann drew it from the real Davos cure establishments where his wife took the cure; the coordinates mark the Schatzalp, the iconic Art Nouveau sanatorium on the shelf above town, now a hotel, that stands for the Berghof.",
+    "reference": "Chapter 2",
+    "order": 3,
+    "note": "The International Sanatorium Berghof is where Castorp settles in for what becomes seven years, its rest-cure balconies facing south to the sun and snow. Mann built the place from the Davos sanatoria of his day; the Schatzalp, opened in 1900 as a tuberculosis sanatorium and still standing above the town, is the real building most readers picture behind it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Berghotel Schatzalp, Wikipedia, on the sanatorium and its link to the novel",
+        "url": "https://en.wikipedia.org/wiki/Berghotel_Schatzalp"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Magic Mountain, Wikipedia, on the Berghof and the Davos sanatoria behind it",
+        "url": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "berghof-dining-hall-chauchat",
+    "name": "The Berghof dining hall: Clavdia Chauchat",
+    "progressLabel": "Chapter 4",
+    "character": "clavdia",
+    "coords": [9.8219, 46.7967],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The dining hall belongs to the fictional Berghof; the coordinates mark the same real Schatzalp building that stands for the sanatorium, offset slightly from the main marker to note the interior scenes.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "In the sanatorium's dining hall Castorp becomes fixed on Clavdia Chauchat, the Russian guest whose habit of letting the glass door slam announces her at every meal. His slow infatuation with her, declared at last on a carnival night, is the private fever that keeps him on the mountain long after his cousin has gone.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Magic Mountain, Wikipedia, on Clavdia Chauchat and the dining-hall scenes",
+        "url": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Berghotel Schatzalp, Wikipedia, on the sanatorium building",
+        "url": "https://en.wikipedia.org/wiki/Berghotel_Schatzalp"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "high-slopes-blizzard",
+    "name": "The high Alpine slopes: the blizzard",
+    "progressLabel": "Chapter 6",
+    "character": "castorp",
+    "coords": [9.808, 46.808],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Snow chapter sends Castorp skiing up onto the open slopes above the sanatorium; the novel fixes no exact spot, so this marks a representative point on the high ground toward the Strela ridge above the Schatzalp, inside the Davos bowl.",
+    "reference": "Chapter 6",
+    "order": 5,
+    "note": "In the chapter known as Snow, Castorp skis alone onto the high slopes and is caught by a blizzard, losing his way in the whiteout and nearly freezing. Half-dreaming against a hut in the storm, he glimpses a vision of human warmth set against horror and resolves that death shall have no dominion over his thoughts, before the weather clears and he makes it down.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "The Magic Mountain, Wikipedia, on the Snow chapter and the blizzard on the heights",
+        "url": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+      },
+      {
+        "kind": "guide",
+        "ref": "Davos, Wikipedia, on the high slopes and Strela ridge above the town",
+        "url": "https://en.wikipedia.org/wiki/Davos"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "davos-valley-winter",
+    "name": "The Davos valley and lake in winter",
+    "progressLabel": "Chapter 6",
+    "character": "castorp",
+    "coords": [9.853785, 46.820385],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel places its winter scenes in the frozen Davos valley below the sanatorium; the coordinates mark Lake Davos at the north end of the bowl, the valley floor the patients look down on from the cure balconies.",
+    "reference": "Chapter 6",
+    "order": 6,
+    "note": "Through the long winters the patients watch the valley freeze far below, the cure-town and its lake locked under snow while the mountain holds its own slow, feverish time. The frozen Davos bowl is the world Castorp keeps meaning to return to and never does, until the outbreak of war finally breaks the spell and sends him down.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lake Davos, Wikipedia, on the lake and the Davos valley floor",
+        "url": "https://en.wikipedia.org/wiki/Lake_Davos"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Magic Mountain, Wikipedia, on the winter setting and the novel's close",
+        "url": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

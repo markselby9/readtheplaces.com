@@ -1,23 +1,39 @@
 {
   "id": "the-magic-mountain",
   "title": "The Magic Mountain",
+  "titleOriginal": "Der Zauberberg",
   "author": "Thomas Mann",
   "published": 1924,
   "orderingKey": "chapter",
+  "sourcing": "cited",
   "center": [9.8237, 46.7962],
   "zoom": 12.5,
   "setting": {
     "city": "Davos",
     "country": "CH",
-    "note": "Seven years in a sanatorium above Davos, where Hans Castorp goes up for a three-week visit and forgets to leave. Mann sets the whole novel on one Alpine shelf, the real cure-town still there, and makes time itself the subject.",
+    "note": "A young engineer goes up to Davos for a three-week visit to his cousin at a mountain sanatorium and stays seven years, the fever of the place and of one guest keeping him on the heights while the flatland forgets him. The map climbs from the cure-town of Davos-Platz in the valley up the funicular to the sanatorium shelf, and out onto the high slopes where a blizzard nearly ends him.",
     "bbox": [9.669, 46.67, 9.967, 46.86]
   },
   "rights": {
-    "originalWork": "TODO: confirm. Thomas Mann published this in 1924.",
-    "translation": "Translated by h t lowe porter. TODO: confirm the translator's death date. The translation is a separate rights object from the work.",
-    "textSource": "Standard Ebooks (public domain dedication)",
-    "textSourceUrl": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter",
-    "territoryNotes": "TODO: public domain is jurisdiction-specific. Say where you checked before publishing waypoints.",
-    "attribution": "Thomas Mann, The Magic Mountain (1924)."
+    "originalWork": "In copyright. Thomas Mann, first published 1924. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Magic_Mountain",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Magic Mountain, Thomas Mann (1924). Locations mapped by Read the Places; not affiliated with or endorsed by the author or estate."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue-grey of the Alpine light at altitude, the snow and sky Castorp watches for seven years. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "castorp": {
+      "name": "Hans Castorp",
+      "color": "#4A4A4A"
+    },
+    "clavdia": {
+      "name": "Clavdia Chauchat",
+      "color": "#8A2B1E"
+    }
   }
 }
