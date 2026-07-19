@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-office",
+    "name": "The office",
+    "progressLabel": "The diary",
+    "character": "martin",
+    "coords": [-56.195, -34.906],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Martín Santomé keeps the books at a firm in downtown Montevideo, counting down to retirement; the office is invented and sited in the real business centre of the city.",
+    "reference": "The diary",
+    "order": 1,
+    "note": "At his ledgers in the downtown office, the widowed Martín marks the grey days toward a retirement he half-dreads, until the arrival of the young clerk Laura Avellaneda quietly changes everything. The dull accountancy office, with its routines and small hierarchies, is the ordinary Montevideo life against which the sudden late love flares.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Montevideo",
+        "url": "https://en.wikipedia.org/wiki/Montevideo"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Truce (novel), Wikipedia, on Martín Santomé",
+        "url": "https://en.wikipedia.org/wiki/The_Truce_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "avenida-18-de-julio",
+    "name": "Avenida 18 de Julio",
+    "progressLabel": "The courtship",
+    "character": "laura",
+    "coords": [-56.19, -34.905],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The main avenue of Montevideo, 18 de Julio, with its shops, cafés and cinemas, is the real thoroughfare along which Martín and Laura's courtship unfolds.",
+    "reference": "The courtship",
+    "order": 2,
+    "note": "Along the crowded 18 de Julio, over coffees and after-work walks, the reserved Martín and the young Laura slowly, disbelievingly fall in love. The ordinary avenue becomes the setting of an extraordinary reprieve, the city Martín has passed through unseeing for years suddenly lit by unexpected happiness.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "18 de Julio Avenue, Montevideo",
+        "url": "https://en.wikipedia.org/wiki/18_de_Julio_Avenue"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Truce (novel), Wikipedia, on Laura Avellaneda",
+        "url": "https://en.wikipedia.org/wiki/The_Truce_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-rambla",
+    "name": "The Rambla",
+    "progressLabel": "The family",
+    "character": "blanca",
+    "coords": [-56.16, -34.912],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Rambla, the long waterfront promenade of Montevideo along the Río de la Plata, is a real and central feature of the city where the characters walk and talk.",
+    "reference": "The family chapters",
+    "order": 3,
+    "note": "On the Rambla by the wide brown river, Martín works through his relations with his grown children, among them the sympathetic Blanca, who alone guesses at his happiness. The open waterfront, the city's great shared space, is where the private diary opens briefly onto family and the wider life of Montevideo.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rambla of Montevideo",
+        "url": "https://en.wikipedia.org/wiki/Rambla_of_Montevideo"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Truce (novel), Wikipedia, on Martín's family",
+        "url": "https://en.wikipedia.org/wiki/The_Truce_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-rented-room",
+    "name": "The rented room",
+    "progressLabel": "The truce",
+    "character": "laura",
+    "coords": [-56.185, -34.903],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Martín rents a small room where he and Laura keep their affair; the room is invented and sited in the central Montevideo neighbourhoods of the diary.",
+    "reference": "The truce",
+    "order": 4,
+    "note": "In the rented room, their refuge from an office and a city that would not understand, Martín and Laura live the brief truce of the title, a happiness he knows is too good to last. The plain little room holds the whole fragile miracle of the book, ordinary walls around an extraordinary reprieve from loneliness.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Truce (novel), Wikipedia, on the affair",
+        "url": "https://en.wikipedia.org/wiki/The_Truce_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "martin-apartment",
+    "name": "Martín's apartment",
+    "progressLabel": "The family",
+    "character": "jaime",
+    "coords": [-56.18, -34.9],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Martín lives with his three grown children in an apartment in central Montevideo; the flat is invented and sited in the real residential districts near the city centre.",
+    "reference": "The family chapters",
+    "order": 5,
+    "note": "In the family apartment, Martín's uneasy relations with his sons, and the secret of the withdrawn Jaime, run alongside his diary of the affair. When the truce ends in sudden loss, it is to this ordinary home and its griefs that Martín is returned, the reprieve over and the long grey resumed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Truce (novel), Wikipedia, on Jaime and the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Truce_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

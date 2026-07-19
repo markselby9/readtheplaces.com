@@ -1,0 +1,123 @@
+[
+  {
+    "id": "clifton-homes",
+    "name": "Clifton (the families' homes)",
+    "progressLabel": "Part 1",
+    "character": "raheen",
+    "coords": [67.03, 24.81],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Raheen and Karim grow up in the wealthy seaside neighbourhood of Clifton, a real affluent district of Karachi; their families' villas are sited there.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "In the sheltered gardens and villas of Clifton, Raheen and Karim share a childhood of easy privilege and deep friendship, insulated for a while from the city's violence. The comfortable seaside enclave is the paradise from which the buried truth about their parents will slowly expel them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Clifton, Karachi",
+        "url": "https://en.wikipedia.org/wiki/Clifton,_Karachi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kartography, Wikipedia, on Raheen, Karim and Clifton",
+        "url": "https://en.wikipedia.org/wiki/Kartography"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sea-view-beach",
+    "name": "Sea View (the beach)",
+    "progressLabel": "Part 1",
+    "character": "karim",
+    "coords": [67.028, 24.79],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The friends spend their youth at the beach at Sea View on the Clifton shore, a real stretch of the Karachi coast on the Arabian Sea.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "On the crowded, camel-strewn beach at Sea View, the young Karim begins the fascination with maps and the shape of the city that will define him. The sea, open and unmarked, stands against the divided land behind it, and against the closing-in that adulthood and the city's fractures will bring.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Clifton Beach (Sea View), Karachi",
+        "url": "https://en.wikipedia.org/wiki/Clifton_Beach,_Karachi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kartography, Wikipedia, on Karim and mapping",
+        "url": "https://en.wikipedia.org/wiki/Kartography"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saddar-old-city",
+    "name": "Saddar (the old city)",
+    "progressLabel": "Part 2",
+    "character": "zafar",
+    "coords": [67.02, 24.86],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The older, denser districts around Saddar in central Karachi, where the ethnic and political violence of the 1980s and 90s flared, are the real city beyond the Clifton bubble.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "Beyond the seaside enclave lies the tense, mixed city of Saddar and the neighbourhoods torn by ethnic strife, the Karachi of curfews and killings that the privileged try not to see. Raheen's father Zafar and his generation carry the guilt of an earlier violence, the 1971 war, into this fractured present.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Saddar Town, Karachi",
+        "url": "https://en.wikipedia.org/wiki/Saddar_Town"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kartography, Wikipedia, on Karachi's violence and Zafar",
+        "url": "https://en.wikipedia.org/wiki/Kartography"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "interior-sindh-farm",
+    "name": "The interior Sindh farm",
+    "progressLabel": "Part 2",
+    "character": "karim",
+    "coords": [68.2, 25.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "As teenagers Raheen and Karim are sent to a family farm in the interior of Sindh; the farm is invented and sited in the real rural province north-east of Karachi, outside the city setting.",
+    "reference": "Part 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "At the rural farm in interior Sindh, away from the burning city, the teenage friends grow into a fraught first love just as the secret dividing their families begins to surface. The countryside offers a brief pastoral pause before the wound of the past pulls them, and the city, apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kartography, Wikipedia, on the interior and the young friends",
+        "url": "https://en.wikipedia.org/wiki/Kartography"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "divided-city-map",
+    "name": "The divided city (Karim's map)",
+    "progressLabel": "Part 3",
+    "character": "maheen",
+    "coords": [67.035, 24.85],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Karim maps the whole ethnically-divided metropolis of Karachi, its no-go areas and fault lines; sited across the real city whose fractures the novel traces to the 1971 war and the Bengali mother, Maheen.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "Karim's obsessive maps of Karachi are an attempt to hold a splitting city, and a splitting inheritance, in one frame, for the fault line runs through his own parents. The revelation of how the Bengali Maheen was jilted amid the hatreds of 1971 shows that the divided city and the divided family are the same wound, and mapping is Karim's way of trying to heal it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Karachi",
+        "url": "https://en.wikipedia.org/wiki/Karachi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kartography, Wikipedia, on the 1971 secret and Maheen",
+        "url": "https://en.wikipedia.org/wiki/Kartography"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

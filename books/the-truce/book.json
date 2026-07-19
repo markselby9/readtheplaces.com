@@ -1,0 +1,46 @@
+{
+  "id": "the-truce",
+  "title": "The Truce",
+  "author": "Mario Benedetti",
+  "published": 1960,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-56.185, -34.905],
+  "zoom": 13,
+  "setting": {
+    "city": "Montevideo",
+    "country": "UY",
+    "note": "In the form of a diary, Benedetti follows Martín Santomé, a widowed Montevideo office clerk approaching retirement, through an unexpected late love for a young co-worker, Laura Avellaneda, a brief truce of happiness against the grey routine of his life. The real city is its quiet stage: the downtown office where he counts out his last months of work, the main avenue of 18 de Julio, the waterfront Rambla along the river, and the rented room where the truce is kept.",
+    "bbox": [-56.22, -34.92, -56.15, -34.89]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mario Benedetti, first published 1960 (La tregua). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Truce_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Truce, Mario Benedetti (1960). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The wistful rose of a brief, late happiness, the truce against a lifetime of grey the whole diary looks back on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "martin": {
+      "name": "Martín Santomé",
+      "color": "#4A4A4A"
+    },
+    "laura": {
+      "name": "Laura Avellaneda",
+      "color": "#8A2B1E"
+    },
+    "jaime": {
+      "name": "Jaime",
+      "color": "#2E5064"
+    },
+    "blanca": {
+      "name": "Blanca",
+      "color": "#2E6B4A"
+    }
+  }
+}
