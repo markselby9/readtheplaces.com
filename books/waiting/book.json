@@ -1,0 +1,46 @@
+{
+  "id": "waiting",
+  "title": "Waiting",
+  "author": "Ha Jin",
+  "published": 1999,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [128.5, 45.5],
+  "zoom": 7,
+  "setting": {
+    "city": "Manchuria",
+    "country": "CN",
+    "note": "For eighteen years the army doctor Lin Kong shuttles between his home village, where his dutiful arranged wife Shuyu lives, and the city hospital where he loves the modern nurse Manna Wu, bound by a rule that will not let him divorce until the couple have lived apart for eighteen years. Ha Jin sets his quiet tragedy of thwarted love in a real Manchuria: the northern farm village, the county divorce court, and the army hospital city of the Chinese northeast.",
+    "bbox": [126.5, 44.8, 130.5, 46.2]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ha Jin, first published 1999. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Waiting_(Ha_Jin_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Waiting, Ha Jin (1999). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue of eighteen northern winters spent waiting, the patience that outlasts the very love it was meant to serve. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "lin-kong": {
+      "name": "Lin Kong",
+      "color": "#4A4A4A"
+    },
+    "shuyu": {
+      "name": "Shuyu",
+      "color": "#8A6A12"
+    },
+    "manna": {
+      "name": "Manna Wu",
+      "color": "#8A2B1E"
+    },
+    "hua": {
+      "name": "Hua",
+      "color": "#2E6B4A"
+    }
+  }
+}
