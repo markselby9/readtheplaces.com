@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-family-house",
+    "name": "The family house",
+    "progressLabel": "The cinnamon rooms",
+    "character": "the-father",
+    "coords": [23.512, 49.352],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The narrator's family house, the cinnamon-scented rooms of his childhood, is drawn from Schulz's own home in Drohobycz; sited in the town.",
+    "reference": "The opening stories",
+    "order": 1,
+    "note": "In the shadowy, cinnamon-scented rooms of the family house, the narrator's father presides over a private universe, keeping birds in the attic, lecturing on the secret life of matter, slowly withdrawing from the ordinary world. Schulz makes the house a place where time thickens and objects come alive, the enchanted centre of his whole mythologised childhood.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bruno Schulz and Drohobycz",
+        "url": "https://en.wikipedia.org/wiki/Bruno_Schulz"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Street of Crocodiles, Wikipedia, on the father and the house",
+        "url": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-fathers-shop",
+    "name": "The father's shop",
+    "progressLabel": "The cloth",
+    "character": "the-father",
+    "coords": [23.509, 49.351],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The father's textile shop on the market square, with its towering bolts of cloth, is drawn from the family's real drapery business in Drohobycz; sited on the town square.",
+    "reference": "The shop stories",
+    "order": 2,
+    "note": "The father's dim textile shop, its shelves piled with bolts of cloth like a landscape of folded hills, is the ruin of the family fortune and the stage for his stranger flights of imagination. As he loses his grip on the business, Schulz turns the failing shop into a theatre of metamorphosis, cloth and commerce dissolving into pure dream.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Street of Crocodiles, Wikipedia, on the father's shop",
+        "url": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-market-square",
+    "name": "The market square",
+    "progressLabel": "The town",
+    "character": "the-narrator",
+    "coords": [23.508, 49.3505],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great market square (Rynek) at the heart of Drohobycz is the real centre of the town Schulz mythologises; sited there.",
+    "reference": "The town stories",
+    "order": 3,
+    "note": "The old market square, with its arcaded houses and its slow provincial bustle, is the ancient heart of the town, drowsing under the summer sun. Around this real Galician square Schulz spins his sense of a place both utterly ordinary and secretly charged with mystery, the everyday forever on the point of tipping into the marvellous.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Drohobych, Ukraine",
+        "url": "https://en.wikipedia.org/wiki/Drohobych"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Street of Crocodiles, Wikipedia, on the town",
+        "url": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-street-of-crocodiles-district",
+    "name": "The Street of Crocodiles",
+    "progressLabel": "The new district",
+    "character": "the-narrator",
+    "coords": [23.515, 49.348],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Street of Crocodiles, the shabby, modern commercial district of the title, is drawn from the newer quarter of Drohobycz; sited in the town.",
+    "reference": "The title story",
+    "order": 4,
+    "note": "The Street of Crocodiles is the town's tawdry new district of cheap shops, dubious pleasures and paper-thin modernity, everything imitation and nothing quite real. Schulz sets this seedy, grey-hued zone of commerce against the enchanted old town, a place where the modern world's shoddiness is itself made strange and dreamlike.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Street of Crocodiles, Wikipedia, on the title district",
+        "url": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-seasons-of-decay",
+    "name": "The seasons of decay",
+    "progressLabel": "The metamorphoses",
+    "character": "adela",
+    "coords": [23.505, 49.353],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The father's final metamorphoses and the turning seasons that frame them play out through the house and town; sited in Drohobycz of the setting.",
+    "reference": "The later stories",
+    "order": 5,
+    "note": "As the seasons turn, the father declines into ever wilder transformations, dwindling to a bird, a cockroach, a heap of dust, while the servant Adela rules the household with brisk, teasing power. Schulz ends amid autumnal decay and metamorphosis, the boundaries of person and thing, memory and myth, dissolving in the ripe, melancholy light of a vanished world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Street of Crocodiles, Wikipedia, on the father's metamorphoses and Adela",
+        "url": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "the-street-of-crocodiles",
+  "title": "The Street of Crocodiles",
+  "author": "Bruno Schulz",
+  "published": 1934,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [23.51, 49.35],
+  "zoom": 13,
+  "setting": {
+    "city": "Drohobycz",
+    "country": "UA",
+    "note": "In the provincial Galician town of his childhood, the narrator conjures a dreamlike, autobiographical world around his eccentric father, a textile merchant whose shop and mind decay into ever more fantastical metamorphoses. Schulz roots his hallucinatory prose in the real Drohobycz: the cinnamon-scented family house, the father's cloth shop on the market square, the town's ancient heart, and the shabby, garish new commercial district he calls the Street of Crocodiles.",
+    "bbox": [23.48, 49.33, 23.55, 49.38]
+  },
+  "rights": {
+    "originalWork": "Public domain. Bruno Schulz (d. 1942), first published 1934 (Sklepy cynamonowe). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Street_of_Crocodiles",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Street of Crocodiles, Bruno Schulz (1934). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The cinnamon-brown of the shops that give the original its title, the warm, spiced dusk of the father's house before it slides into autumnal decay. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-father": {
+      "name": "The father",
+      "color": "#4A4A4A"
+    },
+    "the-narrator": {
+      "name": "Józef",
+      "color": "#2E5064"
+    },
+    "adela": {
+      "name": "Adela",
+      "color": "#8A2B1E"
+    },
+    "the-mother": {
+      "name": "The mother",
+      "color": "#6B3B5A"
+    }
+  }
+}

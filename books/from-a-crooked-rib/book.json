@@ -1,0 +1,46 @@
+{
+  "id": "from-a-crooked-rib",
+  "title": "From a Crooked Rib",
+  "author": "Nuruddin Farah",
+  "published": 1970,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [45.0, 4.5],
+  "zoom": 6,
+  "setting": {
+    "city": "Somalia",
+    "country": "SO",
+    "note": "Ebla, a young orphan nomad girl, flees an arranged marriage to an old man and journeys out of the Ogaden bushland to the town of Beledweyne and on to Mogadishu, where she is passed between husbands and struggles to claim some measure of freedom in a society that treats women as property. Farah's first novel, and a landmark of Somali literature, follows her across a real geography on the eve of independence: the pastoral interior, the river town, and the coastal capital.",
+    "bbox": [44.0, 1.8, 46.0, 7.2]
+  },
+  "rights": {
+    "originalWork": "In copyright. Nuruddin Farah, first published 1970. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "From a Crooked Rib, Nuruddin Farah (1970). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The deep plum of a woman's inner struggle for a self of her own, against a world that would keep her, in the saying the title echoes, a crooked rib. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ebla": {
+      "name": "Ebla",
+      "color": "#2E5064"
+    },
+    "awill": {
+      "name": "Awill",
+      "color": "#4A4A4A"
+    },
+    "the-widow": {
+      "name": "The widow",
+      "color": "#2E6B4A"
+    },
+    "tiffo": {
+      "name": "Tiffo",
+      "color": "#8A2B1E"
+    }
+  }
+}

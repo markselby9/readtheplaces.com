@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-ogaden",
+    "name": "The Ogaden",
+    "progressLabel": "The flight",
+    "character": "ebla",
+    "coords": [44.5, 6.8],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ebla's nomad childhood and the encampment she flees are set in the Ogaden bushland of the Somali interior; drawn from that real pastoral region and sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "In the Ogaden bush, the orphan Ebla lives with her grandfather's nomad camp until she learns she is to be married off to an old man, and slips away in the night. Farah opens in the harsh pastoral world whose customs bind women absolutely, the order against which Ebla's whole flight, and the novel, is a quiet act of rebellion.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ogaden and Somali pastoralism",
+        "url": "https://en.wikipedia.org/wiki/Ogaden"
+      },
+      {
+        "kind": "guide",
+        "ref": "From a Crooked Rib, Wikipedia, on Ebla and the flight",
+        "url": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "beledweyne",
+    "name": "Beledweyne",
+    "progressLabel": "The river town",
+    "character": "awill",
+    "coords": [45.2, 4.74],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ebla reaches the real river town of Beledweyne on the Shabelle, where she stays with relatives and first tastes town life; sited there.",
+    "reference": "The Beledweyne chapters",
+    "order": 2,
+    "note": "In the river town of Beledweyne, Ebla shelters with her cousin and glimpses a wider world, only to find herself once more a piece in others' bargains, married off to further a relative's schemes. The town is her first lesson that escaping the bush has not freed her, the same ownership of women following her into settled life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Beledweyne, Somalia",
+        "url": "https://en.wikipedia.org/wiki/Beledweyne"
+      },
+      {
+        "kind": "guide",
+        "ref": "From a Crooked Rib, Wikipedia, on Beledweyne",
+        "url": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mogadishu",
+    "name": "Mogadishu",
+    "progressLabel": "The capital",
+    "character": "ebla",
+    "coords": [45.34, 2.04],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ebla travels on to Mogadishu, the real coastal capital, where the city's modern life and its men shape the rest of her story; sited there.",
+    "reference": "The Mogadishu chapters",
+    "order": 3,
+    "note": "In Mogadishu, Ebla enters a bewildering modern city of cars, cafés and money, and is taken in by a widow whose household draws her into new entanglements. The coastal capital, cosmopolitan and cash-driven, offers Ebla possibilities the bush never could, and fresh, subtler forms of the same dependence on men.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mogadishu, Somalia",
+        "url": "https://en.wikipedia.org/wiki/Mogadishu"
+      },
+      {
+        "kind": "guide",
+        "ref": "From a Crooked Rib, Wikipedia, on Mogadishu",
+        "url": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-two-marriages",
+    "name": "The city marriages",
+    "progressLabel": "The bargains",
+    "character": "tiffo",
+    "coords": [45.33, 2.05],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ebla's entanglements in the city, married at once to two men without their knowledge, unfold in the households of Mogadishu; sited in the capital.",
+    "reference": "The middle chapters",
+    "order": 4,
+    "note": "In the city Ebla finds herself married both to the young Awill and to the older merchant Tiffo, quietly turning the men's own game of ownership to her advantage. Farah lets her win a hard, ambiguous agency, learning to use the only leverage a woman is granted, even as the arrangement leaves her exposed and alone.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "From a Crooked Rib, Wikipedia, on Ebla's marriages",
+        "url": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-eve-of-independence",
+    "name": "The eve of independence",
+    "progressLabel": "The reckoning",
+    "character": "ebla",
+    "coords": [45.35, 2.03],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel closes as Somalia approaches independence in 1960, the coming freedom of the nation set against the harder question of Ebla's own; sited in Mogadishu.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "As the country moves toward its independence, Ebla, pregnant and self-possessed, reaches an uneasy settlement with her circumstances and her men. Farah pointedly measures the nation's dawning freedom against a woman's, and leaves Ebla asserting what small sovereignty she can in a world not yet ready to grant her more.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Independence of Somalia, 1960",
+        "url": "https://en.wikipedia.org/wiki/Somalia"
+      },
+      {
+        "kind": "guide",
+        "ref": "From a Crooked Rib, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/From_a_Crooked_Rib"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
