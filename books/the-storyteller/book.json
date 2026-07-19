@@ -1,0 +1,46 @@
+{
+  "id": "the-storyteller",
+  "title": "The Storyteller",
+  "author": "Mario Vargas Llosa",
+  "published": 1987,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-72.5, -12.0],
+  "zoom": 7,
+  "setting": {
+    "city": "the Peruvian Amazon",
+    "country": "PE",
+    "note": "A writer, haunted by a photograph glimpsed in Florence, reconstructs the story of his university friend Saúl Zuratas, a marked, Jewish-Peruvian outsider who vanished into the rainforest to become a hablador, a wandering storyteller of the nomadic Machiguenga people. Vargas Llosa maps a real Amazon: the jungle of the Machiguenga along the Urubamba, the mission and oil frontier pressing in on them, and the endless walking by which a people holds itself together through its tales.",
+    "bbox": [-74.0, -13.2, -71.0, -10.8]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mario Vargas Llosa, first published 1987 (El hablador). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Storyteller, Mario Vargas Llosa (1987). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The deep green of the Amazon forest through which the storyteller walks, the living world the Machiguenga tales hold together. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "saul": {
+      "name": "Saúl Zuratas",
+      "color": "#8A2B1E"
+    },
+    "the-writer": {
+      "name": "The writer",
+      "color": "#2E5064"
+    },
+    "the-hablador": {
+      "name": "The storyteller",
+      "color": "#8A6A12"
+    },
+    "the-machiguenga": {
+      "name": "The Machiguenga",
+      "color": "#6B3B5A"
+    }
+  }
+}

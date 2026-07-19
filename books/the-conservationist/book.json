@@ -1,0 +1,46 @@
+{
+  "id": "the-conservationist",
+  "title": "The Conservationist",
+  "author": "Nadine Gordimer",
+  "published": 1974,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [28.3, -26.4],
+  "zoom": 9,
+  "setting": {
+    "city": "the Transvaal",
+    "country": "ZA",
+    "note": "Mehring, a wealthy white industrialist, buys a farm outside Johannesburg as a weekend retreat and a tax shelter, and clings to his ownership of the land even as an unclaimed Black corpse, found and carelessly buried in his veld, quietly asserts a deeper and older claim. Gordimer's Booker-winning novel is set on the real Highveld of the Transvaal: the farm and its river and reeds, the African workers' compound, and the encroaching city and location that press on Mehring's fragile idyll.",
+    "bbox": [28.0, -26.7, 28.7, -26.1]
+  },
+  "rights": {
+    "originalWork": "In copyright. Nadine Gordimer, first published 1974. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Conservationist",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Conservationist, Nadine Gordimer (1974). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The dry gold of the Highveld grass Mehring means to own and conserve, the land that will in the end reclaim its own dead. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "mehring": {
+      "name": "Mehring",
+      "color": "#4A4A4A"
+    },
+    "jacobus": {
+      "name": "Jacobus",
+      "color": "#2E6B4A"
+    },
+    "the-dead-man": {
+      "name": "The dead man",
+      "color": "#8A2B1E"
+    },
+    "antonia": {
+      "name": "Antonia",
+      "color": "#6B3B5A"
+    }
+  }
+}

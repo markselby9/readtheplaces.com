@@ -1,0 +1,129 @@
+[
+  {
+    "id": "the-machiguenga-forest",
+    "name": "The Machiguenga forest",
+    "progressLabel": "The people",
+    "character": "the-machiguenga",
+    "coords": [-72.5, -12.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The nomadic Machiguenga of the novel live in the Amazon rainforest along the Urubamba and its tributaries; drawn from that real region of the Peruvian jungle and sited there.",
+    "reference": "The Machiguenga chapters",
+    "order": 1,
+    "note": "Deep in the eastern rainforest live the scattered, walking bands of the Machiguenga, a people who keep no fixed home and hold themselves together only through the stories passed among them. Vargas Llosa alternates his narrator's voice with the storyteller's own myths, and roots this vanishing forest world in the real Amazon of south-eastern Peru.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Machiguenga people",
+        "url": "https://en.wikipedia.org/wiki/Machiguenga"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Storyteller, Wikipedia, on the Machiguenga",
+        "url": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-urubamba",
+    "name": "The Urubamba",
+    "progressLabel": "The river",
+    "character": "the-hablador",
+    "coords": [-72.9, -12.1],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Urubamba river and its jungle tributaries, the real waterways of the Machiguenga country, thread the storyteller's endless walking; sited in the Amazon of the setting.",
+    "reference": "The storyteller chapters",
+    "order": 2,
+    "note": "Along the Urubamba and the forest paths the hablador walks from band to band, carrying news, myth and memory, the living thread that binds a dispersed people into one. Through the river country Vargas Llosa gives shape to his central image, the storyteller as the very soul of a culture that survives only so long as its tales are told.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Urubamba River",
+        "url": "https://en.wikipedia.org/wiki/Urubamba_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Storyteller, Wikipedia, on the storyteller's walking",
+        "url": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mission",
+    "name": "The mission and the frontier",
+    "progressLabel": "The intruders",
+    "character": "the-machiguenga",
+    "coords": [-72.2, -11.8],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The missions, linguists and oil and logging crews pressing on the Machiguenga are drawn from the real frontier of the Peruvian Amazon; sited in the jungle of the setting.",
+    "reference": "The frontier chapters",
+    "order": 3,
+    "note": "Missionaries, ethnologists and the crews of the oil and timber frontier push ever deeper into the forest, offering the Machiguenga schools and medicine at the price of their wandering way of life. Vargas Llosa sets against each other the will to protect the tribe and the will to change it, the very debate over whether such a people should be left alone.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Summer Institute of Linguistics in Amazonia",
+        "url": "https://en.wikipedia.org/wiki/SIL_International"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Storyteller, Wikipedia, on the frontier and assimilation",
+        "url": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lima-university",
+    "name": "Lima (the university)",
+    "progressLabel": "Saúl and the writer",
+    "character": "saul",
+    "coords": [-77.08, -12.06],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The friendship of Saúl Zuratas and the narrator begins as students in Lima, the real Peruvian capital; sited there, outside the Amazon setting.",
+    "reference": "The Lima chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In Lima, the birthmarked, half-Jewish outsider Saúl Zuratas and the narrator argue as students over the fate of the forest peoples, until Saúl's fascination with the Machiguenga swallows him whole. The capital is where the novel's great question is first framed, and where Saúl begins the disappearance that will turn him, impossibly, into the tribe's own storyteller.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lima, Peru",
+        "url": "https://en.wikipedia.org/wiki/Lima"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Storyteller, Wikipedia, on Saúl Zuratas and the narrator",
+        "url": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "progressLabel": "The photograph",
+    "character": "the-writer",
+    "coords": [11.256, 43.77],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The frame narrative is set in Florence, the real Italian city, where the writer glimpses a photograph of a Machiguenga storyteller and begins to reconstruct Saúl's fate; sited there, far outside the Amazon setting.",
+    "reference": "The framing chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "In a Florence gallery, far from Peru, the writer sees a photograph of a Machiguenga hablador and is certain, against all reason, that it is his lost friend Saúl. From that distant image the whole novel is spun, and Vargas Llosa closes on the mystery of a man who chose to dissolve himself into another people's stories rather than his own.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Florence, Italy",
+        "url": "https://en.wikipedia.org/wiki/Florence"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Storyteller, Wikipedia, on the Florence frame",
+        "url": "https://en.wikipedia.org/wiki/The_Storyteller_(Vargas_Llosa_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

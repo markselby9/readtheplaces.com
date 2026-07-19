@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-farm",
+    "name": "The farm",
+    "progressLabel": "The owner",
+    "character": "mehring",
+    "coords": [28.3, -26.4],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Mehring's weekend farm is set on the Highveld outside Johannesburg; drawn from the real Transvaal farmland and sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Mehring, a rich white industrialist, buys a farm beyond the city as a retreat, a tax dodge and a pastoral fantasy of himself as a man of the land. Gordimer opens in his proprietary contentment, the master surveying his acres, a complacency the whole novel will slowly and pitilessly undermine.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Highveld, South Africa",
+        "url": "https://en.wikipedia.org/wiki/Highveld"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Conservationist, Wikipedia, on Mehring and the farm",
+        "url": "https://en.wikipedia.org/wiki/The_Conservationist"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-dead-man-in-the-veld",
+    "name": "The body in the veld",
+    "progressLabel": "The claim",
+    "character": "the-dead-man",
+    "coords": [28.305, -26.405],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The unidentified Black corpse found and buried in the third pasture is the novel's central presence; sited on the farm of the setting.",
+    "reference": "The body chapters",
+    "order": 2,
+    "note": "An unknown Black man is found dead in Mehring's reeds, and the police have him buried on the spot, barely under the soil, an anonymous corpse the owner would rather forget. Through the year the body remains, a silent, insistent presence beneath the land Mehring thinks he owns, the true and rightful claimant the story keeps returning to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Conservationist, Wikipedia, on the dead man",
+        "url": "https://en.wikipedia.org/wiki/The_Conservationist"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-compound",
+    "name": "The workers' compound",
+    "progressLabel": "The farm's people",
+    "character": "jacobus",
+    "coords": [28.295, -26.398],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The dwellings of the Black farm workers, run day to day by the foreman Jacobus, are drawn from the labour compounds of white-owned Transvaal farms; sited on the farm.",
+    "reference": "The farm chapters",
+    "order": 3,
+    "note": "The real work and life of the farm belong to the Black labourers and their families under the capable foreman Jacobus, whom Mehring barely sees as people. Gordimer quietly contrasts the owner's absentee fantasy with the rooted, continuing lives of those who actually inhabit the land, and who will remain when he is gone.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Conservationist, Wikipedia, on Jacobus and the workers",
+        "url": "https://en.wikipedia.org/wiki/The_Conservationist"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-flood",
+    "name": "The river and the flood",
+    "progressLabel": "The reckoning",
+    "character": "the-dead-man",
+    "coords": [28.31, -26.41],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "A great flood that sweeps the low ground and disturbs the shallow grave is set on the farm's river and veld; drawn from the Highveld's summer storms and sited there.",
+    "reference": "The flood chapters",
+    "order": 4,
+    "note": "When a violent summer flood sweeps the farm, it churns up the reeds and washes the buried man back toward the surface, the land itself refusing to keep him hidden. Gordimer turns the storm into the story's judgement, the natural and the political order alike rising against the white owner's shallow, provisional hold.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Conservationist, Wikipedia, on the flood",
+        "url": "https://en.wikipedia.org/wiki/The_Conservationist"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-city",
+    "name": "The city and the location",
+    "progressLabel": "Mehring's unravelling",
+    "character": "antonia",
+    "coords": [28.05, -26.2],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Mehring's business and social life in Johannesburg, and the Black location encroaching on the farm's edge, are drawn from the real apartheid geography of the Transvaal; sited toward the city.",
+    "reference": "The city chapters",
+    "order": 5,
+    "note": "Away from the farm, Mehring's life in the city, his affairs, his radical ex-lover Antonia, his careless business, steadily unravels, mirroring the erosion of his hold on the land. Gordimer ends with Mehring undone and the dead man given a proper burial by the farm's Black people, the country, and its future, passing quietly back to those it belongs to.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Johannesburg under apartheid",
+        "url": "https://en.wikipedia.org/wiki/Johannesburg"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Conservationist, Wikipedia, on the ending and Antonia",
+        "url": "https://en.wikipedia.org/wiki/The_Conservationist"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
