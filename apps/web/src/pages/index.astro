@@ -15,16 +15,16 @@ const viewsOf = (slug: string) => pop[slug]?.views ?? 0;
 const mapped = books.filter((b) => !isStub(b)).sort((a, b) => viewsOf(b.slug) - viewsOf(a.slug));
 const open = books.filter(isStub);
 
-const cities = [...new Set(books.map((b) => b.book.setting.city))];
+const cities = [...new Set(mapped.map((b) => b.book.setting.city))];
 const places = mapped.reduce((n, b) => n + b.waypoints.length, 0);
 
-const cityLinks = [...new Set(books.map((b) => b.book.setting.city))].sort();
-const schema = [websiteSchema(books.length, cities.length)];
+const cityLinks = [...new Set(mapped.map((b) => b.book.setting.city))].sort();
+const schema = [websiteSchema(mapped.length, cities.length)];
 ---
 
 <Base
   title="Read the Places — A Literary Atlas of Real Places"
-  description={`Explore the real places in ${books.length} books, mapped in the order each story visits them — across ${cities.length} cities, every location tied to a line from the text.`}
+  description={`Explore the real places in ${mapped.length} books, mapped in the order each story visits them — across ${cities.length} cities, every location tied to a line from the text.`}
   ogImage="/og/mrs-dalloway.png"
   ogType="website"
   schema={schema}
@@ -41,7 +41,7 @@ const schema = [websiteSchema(books.length, cities.length)];
       <dl class="colophon">
         <div>
           <dt>Books</dt>
-          <dd>{books.length}</dd>
+          <dd>{mapped.length}</dd>
         </div>
         <div>
           <dt>Cities</dt>
@@ -291,6 +291,12 @@ const schema = [websiteSchema(books.length, cities.length)];
     gap: var(--s4);
     padding: 0;
   }
+  /* Full DOM stays (crawlable, client-filterable), but offscreen cards are
+     skipped during layout/paint — a large win on long lists and low-end phones. */
+  .books > li {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 15rem;
+  }
   .books a {
     display: block;
     height: 100%;
@@ -329,6 +335,12 @@ const schema = [websiteSchema(books.length, cities.length)];
     color: var(--ink-2);
     font-size: var(--step--1);
     line-height: 1.55;
+    /* Keep browse cards uniform and scannable; the full note is on the book page. */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .books .count {
     margin-top: var(--s3);
@@ -357,12 +369,14 @@ const schema = [websiteSchema(books.length, cities.length)];
     padding: 0;
   }
   .cities a {
+    display: inline-block;
     font-family: var(--sans);
     font-size: var(--step--1);
     color: var(--ink-2);
     text-decoration: none;
     border-bottom: 1px solid var(--rule);
-    padding-bottom: 2px;
+    /* Roomier tap target for a dense tag list on touch screens. */
+    padding: 6px 0;
   }
   .cities a:hover {
     border-bottom-color: var(--accent);
