@@ -1,0 +1,46 @@
+{
+  "id": "the-pillar-of-salt",
+  "title": "The Pillar of Salt",
+  "author": "Albert Memmi",
+  "published": 1953,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [10.176, 36.8],
+  "zoom": 13,
+  "setting": {
+    "city": "Tunis",
+    "country": "TN",
+    "note": "Alexandre Mordekhai Benillouche, a poor Jewish boy from the old quarter of colonial Tunis, comes of age torn three ways between his Berber-Jewish origins, the Arab-Muslim city around him and the French education that promises escape and delivers exile. Memmi maps the real Tunis: the cramped Jewish hara, the Arab medina and its souks, the European lycée of the Ville Nouvelle, the synagogue, and the shadow of the Second World War, when the German occupation drives Tunisia's Jews into forced-labour camps.",
+    "bbox": [10.15, 36.79, 10.2, 36.81]
+  },
+  "rights": {
+    "originalWork": "In copyright. Albert Memmi, first published 1953 (La Statue de sel). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Albert_Memmi",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Pillar of Salt, Albert Memmi (1953). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The bruised plum of a divided self, the boy frozen like Lot's wife between the worlds he belongs to and the one he is taught to want. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "alexandre": {
+      "name": "Alexandre",
+      "color": "#2E5064"
+    },
+    "the-father": {
+      "name": "The father",
+      "color": "#4A4A4A"
+    },
+    "the-mother": {
+      "name": "The mother",
+      "color": "#8A2B1E"
+    },
+    "the-teacher": {
+      "name": "The teacher",
+      "color": "#2E6B4A"
+    }
+  }
+}

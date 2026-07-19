@@ -1,0 +1,128 @@
+[
+  {
+    "id": "the-hara",
+    "name": "The Jewish quarter (the hara)",
+    "progressLabel": "Childhood",
+    "character": "the-father",
+    "coords": [10.17, 36.798],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Alexandre grows up in the hara, the real poor Jewish quarter on the edge of the Tunis medina, among the artisans and the crowding the book describes; sited in that quarter.",
+    "reference": "The childhood chapters",
+    "order": 1,
+    "note": "In the narrow, crowded hara, Alexandre is born into a poor family, his father a harness-maker bent over his leather in a dim shop. Memmi sets the boy's first world in the real Jewish quarter of Tunis, its poverty and its warmth the ground he will spend the rest of the book learning to leave and grieving.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "History of the Jews in Tunisia",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Tunisia"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Pillar of Salt, on Alexandre's family and the hara",
+        "url": "https://en.wikipedia.org/wiki/Albert_Memmi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-medina",
+    "name": "The medina (the Arab city)",
+    "progressLabel": "The city",
+    "character": "the-mother",
+    "coords": [10.171, 36.799],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Arab medina of Tunis, its souks and mixed streets, is the real old city surrounding the hara and threading through Alexandre's daily life; sited in the medina.",
+    "reference": "The medina chapters",
+    "order": 2,
+    "note": "Beyond the hara lies the Arab medina, its souks, mosques and crowds the Muslim world in which the Jewish minority lives, close and separate at once. Through his Berber-Jewish mother and the streets he walks, Alexandre feels his roots in this old East even as his schooling teaches him to see it as something to rise above.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Medina of Tunis (UNESCO World Heritage Site)",
+        "url": "https://en.wikipedia.org/wiki/Medina_of_Tunis"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Pillar of Salt, on the medina and Alexandre's origins",
+        "url": "https://en.wikipedia.org/wiki/Albert_Memmi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-lycee",
+    "name": "The French lycée",
+    "progressLabel": "The schooling",
+    "character": "the-teacher",
+    "coords": [10.183, 36.8],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Alexandre wins a scholarship to the French lycée of the European Ville Nouvelle, the colonial secondary school on the new-town avenues; sited in that district of Tunis.",
+    "reference": "The lycée chapters",
+    "order": 3,
+    "note": "A scholarship carries Alexandre out of the hara and into the French lycée of the Ville Nouvelle, where a fine education in the coloniser's culture opens the world and quietly severs him from his own. The gap the school opens, between the boy the books make and the family he comes from, is the wound the whole novel turns on.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tunis, the Ville Nouvelle under the French protectorate",
+        "url": "https://en.wikipedia.org/wiki/Tunis"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Pillar of Salt, on the lycée and colonial education",
+        "url": "https://en.wikipedia.org/wiki/Albert_Memmi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-synagogue",
+    "name": "The synagogue",
+    "progressLabel": "The community",
+    "character": "alexandre",
+    "coords": [10.182, 36.802],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Jewish community's synagogue and rites frame Alexandre's belonging and his growing distance from faith; sited at the Ville Nouvelle's Grande Synagogue area, drawn from the real community.",
+    "reference": "The community chapters",
+    "order": 4,
+    "note": "In the synagogue and the round of feasts and rites, Alexandre feels both the pull of belonging and the pull away, his French education turning the old observances into something he can no longer wholly share. Memmi weighs faith and community against the sceptical modern self the boy is becoming, and finds no resting place between them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Great Synagogue of Tunis",
+        "url": "https://en.wikipedia.org/wiki/Great_Synagogue_of_Tunis"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Pillar of Salt, on faith and community",
+        "url": "https://en.wikipedia.org/wiki/Albert_Memmi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-labour-camp",
+    "name": "The war (the labour camp)",
+    "progressLabel": "1942",
+    "character": "alexandre",
+    "coords": [10.3, 37.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "During the German occupation of Tunisia in 1942-43, Alexandre is sent to a Jewish forced-labour camp; sited in the countryside north of Tunis, drawn from the real wartime camps, outside the city setting.",
+    "reference": "The war chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "When the Germans occupy Tunisia in the war, Alexandre, for all his French culture, is rounded up with the other Jews into a forced-labour camp, the abstractions of identity brought home as brute fact. The war strips away the illusion that education had bought him a way out, and leaves him a stranger to every world, frozen like the pillar of salt of the title.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tunisia in World War II and the persecution of its Jews",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Tunisia"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Pillar of Salt, on the war and the ending",
+        "url": "https://en.wikipedia.org/wiki/Albert_Memmi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

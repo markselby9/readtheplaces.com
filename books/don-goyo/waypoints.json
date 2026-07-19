@@ -1,0 +1,118 @@
+[
+  {
+    "id": "the-delta-islands",
+    "name": "The delta islands",
+    "progressLabel": "Chapter 1",
+    "character": "cusumbo",
+    "coords": [-80.0, -2.6],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The cholo village of the novel sits on the mangrove islands of the Guayas river delta; the settlement is drawn from the real estuary islands near Guayaquil and sited there.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "On the low mangrove islands of the delta the cholos live by fishing, cutting wood and gathering the red-barked mangrove, in a world half water and half land. The young cholo Cusumbo, chafing at the poverty and the pull of the city, is the figure through whom the tension between the old island life and the money of Guayaquil is felt.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Guayas River and its delta",
+        "url": "https://en.wikipedia.org/wiki/Guayas_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "Don Goyo, Demetrio Aguilera Malta, on the cholo islanders",
+        "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mangroves",
+    "name": "The mangroves",
+    "progressLabel": "Chapter 3",
+    "character": "don-goyo",
+    "coords": [-80.02, -2.62],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mangrove swamps the cholos harvest for wood and bark are the real, defining ecosystem of the Guayas estuary; sited among the islands of the delta.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "The ancient patriarch Don Goyo, said to be a hundred and fifty years old, is bound to the mangroves as if he were one of them, and speaks for the swamp against those who would cut it down. In him Aguilera Malta gives the mangroves a voice and a body, an early stroke of the magical realism that would define the continent's fiction.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mangroves of the Guayas estuary",
+        "url": "https://en.wikipedia.org/wiki/Mangrove"
+      },
+      {
+        "kind": "guide",
+        "ref": "Don Goyo, on Don Goyo and the mangroves",
+        "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "guayaquil-market",
+    "name": "Guayaquil (the market)",
+    "progressLabel": "Chapter 5",
+    "character": "the-trader",
+    "coords": [-79.88, -2.19],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Guayaquil, the real great port city of Ecuador, is the market to which the cholos sell and the source of the white traders' pressure to strip the mangroves; sited up the estuary from the islands.",
+    "reference": "Chapter 5",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "In the city of Guayaquil the white merchants set the prices and stoke the demand that drives the cholos to over-cut the mangrove and the wood, exchanging their world for a pittance. The distant, hungry city, and the trader who embodies it, is the modern economic force whose logic the novel sets against the sacred order of the swamp.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Guayaquil, Ecuador",
+        "url": "https://en.wikipedia.org/wiki/Guayaquil"
+      },
+      {
+        "kind": "guide",
+        "ref": "Don Goyo, on Guayaquil and the traders",
+        "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-estuary-river",
+    "name": "The estuary and the river",
+    "progressLabel": "Chapter 7",
+    "character": "gertru",
+    "coords": [-79.98, -2.58],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Guayas river and the tidal estuary, crossed by the cholos' canoes, are the real waterways that bind the islands together; sited in the delta of the novel.",
+    "reference": "Chapter 7",
+    "order": 4,
+    "note": "Across the estuary the cholos pole their canoes between islands, and the lives and loves of the community, Gertru and the others, move to the rhythm of the tides. Aguilera Malta fills the river with the same charged, animate presence as the mangroves, water and forest together forming the living body the story is set inside.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Don Goyo, on the estuary and the community",
+        "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "don-goyos-island",
+    "name": "Don Goyo's island",
+    "progressLabel": "The ending",
+    "character": "don-goyo",
+    "coords": [-80.03, -2.63],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Don Goyo's own island retreat in the deep mangroves is the mythic heart of the book; sited among the real delta islands, the specific isle the novel's own.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "When the cholos, tempted by the city's money, cut too deep into the mangroves, the natural order strikes back, and Don Goyo, whose life is one with the swamp, dies as the great trees fall. Aguilera Malta ends on the myth of a man and a forest that are the same being, and on a warning, decades ahead of its time, against selling the living land for coin.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Don Goyo, on the ending and the mangroves",
+        "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
