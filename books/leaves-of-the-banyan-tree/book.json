@@ -1,0 +1,46 @@
+{
+  "id": "leaves-of-the-banyan-tree",
+  "title": "Leaves of the Banyan Tree",
+  "author": "Albert Wendt",
+  "published": 1979,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-171.82, -13.88],
+  "zoom": 11,
+  "setting": {
+    "city": "Sapepe",
+    "country": "WS",
+    "note": "Across three generations of the Tauilopepe family in the Samoan village of Sapepe, Wendt traces the corrosion of communal life by ambition and money, as the ruthless Tauilopepe rises by clearing the bush for cash crops, his son rebels, and the old order of chiefs and church gives way. The book is rooted in a real Samoa: the village and its meeting-ground, the mission church that reshaped island life, the plantations carved from the forest, and the colonial town of Apia to which the young are drawn and lost.",
+    "bbox": [-171.9, -13.94, -171.74, -13.82]
+  },
+  "rights": {
+    "originalWork": "In copyright. Albert Wendt, first published 1979. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Albert_Wendt",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Leaves of the Banyan Tree, Albert Wendt (1979). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the Samoan bush and the great banyan tree of family and village, the communal world the book watches money slowly poison. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "tauilopepe": {
+      "name": "Tauilopepe",
+      "color": "#8A6A12"
+    },
+    "pepe": {
+      "name": "Pepe",
+      "color": "#8A2B1E"
+    },
+    "lalaga": {
+      "name": "Lalaga",
+      "color": "#2E5064"
+    },
+    "the-pastor": {
+      "name": "The pastor",
+      "color": "#4A4A4A"
+    }
+  }
+}

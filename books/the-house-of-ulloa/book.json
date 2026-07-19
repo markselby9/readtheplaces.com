@@ -1,0 +1,46 @@
+{
+  "id": "the-house-of-ulloa",
+  "title": "The House of Ulloa",
+  "author": "Emilia Pardo Bazán",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-8.3, 42.78],
+  "zoom": 10,
+  "setting": {
+    "city": "Galicia",
+    "country": "ES",
+    "note": "A mild young priest, Julián, comes to serve at the decaying manor of Ulloa in the wild Galician countryside, and finds it ruled by the brutish young marquis Don Pedro, his cunning majordomo Primitivo, and the coarse life of the estate. Pardo Bazán's naturalist masterpiece maps a real rural Galicia: the crumbling pazo among the hills, the surrounding hunting country, the city of Santiago de Compostela where Don Pedro takes a gentle wife, and the villages run by the caciques who really hold power.",
+    "bbox": [-8.6, 42.7, -8.15, 42.9]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Spanish (Emilia Pardo Bazán, 1886) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_House_of_Ulloa",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The House of Ulloa, Emilia Pardo Bazán (1886). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The wild green of the Galician countryside, the nature that overwhelms the decaying manor and the old order rotting inside it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "julian": {
+      "name": "Julián",
+      "color": "#2E5064"
+    },
+    "don-pedro": {
+      "name": "Don Pedro",
+      "color": "#8A2B1E"
+    },
+    "nucha": {
+      "name": "Nucha",
+      "color": "#8A6A12"
+    },
+    "primitivo": {
+      "name": "Primitivo",
+      "color": "#6B3B5A"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-pazo-of-ulloa",
+    "name": "The pazo of Ulloa",
+    "progressLabel": "Chapter 1",
+    "character": "don-pedro",
+    "coords": [-8.2, 42.75],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The decaying manor, the pazo of Ulloa, is drawn from the real fortified country houses of the Galician gentry; it is sited in the hill country of inland Galicia the novel portrays.",
+    "reference": "The main narrative",
+    "order": 1,
+    "note": "At the crumbling pazo of Ulloa, the young marquis Don Pedro lives a coarse, half-savage life of hunting, drinking and casual violence, more master of dogs than of himself. Into this decaying seat of a decaying aristocracy comes the gentle chaplain Julián, whose horror and helplessness before its brutality drive the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pazo (Galician manor houses)",
+        "url": "https://en.wikipedia.org/wiki/Pazo"
+      },
+      {
+        "kind": "guide",
+        "ref": "The House of Ulloa, Wikipedia, on Don Pedro and the pazo",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Ulloa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-countryside-hunt",
+    "name": "The countryside (the hunt)",
+    "progressLabel": "The estate",
+    "character": "primitivo",
+    "coords": [-8.18, 42.77],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The wild hills and woods around the pazo, real Galician hunting country, are the domain of the estate's cunning majordomo Primitivo, who truly rules it; sited in the countryside of the novel.",
+    "reference": "The estate chapters",
+    "order": 2,
+    "note": "Across the rough hunting country, the sly, ruthless majordomo Primitivo runs the estate for his own profit, holding Don Pedro in his grip and fathering, through his daughter Sabel, the marquis's bastard. Pardo Bazán makes the wild Galician land, all mud, blood and instinct, the naturalist setting in which the human animals of the pazo live out their appetites.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The House of Ulloa, Wikipedia, on Primitivo and the estate",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Ulloa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "santiago-de-compostela",
+    "name": "Santiago de Compostela",
+    "progressLabel": "The marriage",
+    "character": "nucha",
+    "coords": [-8.544, 42.88],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Don Pedro travels to Santiago de Compostela, the real Galician cathedral city, to find a wife among his cousins, and marries the gentle Nucha there; the city grounds the novel's contrast of town and country.",
+    "reference": "The marriage chapters",
+    "order": 3,
+    "note": "In cultured, pious Santiago, Don Pedro courts and weds his delicate cousin Nucha, carrying her back to the pazo as to a cage. The gulf between the refined city and the brutal manor is the gulf into which the tender, unworldly Nucha vanishes, mistreated and broken by the very savagery she was brought to civilise.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Santiago de Compostela",
+        "url": "https://en.wikipedia.org/wiki/Santiago_de_Compostela"
+      },
+      {
+        "kind": "guide",
+        "ref": "The House of Ulloa, Wikipedia, on Nucha and Santiago",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Ulloa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-church",
+    "name": "The village church",
+    "progressLabel": "The parish",
+    "character": "julian",
+    "coords": [-8.22, 42.74],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Julián's priestly duties take him among the parish churches of the district; the church is invented and sited in the real rural Galicia of the novel.",
+    "reference": "The parish chapters",
+    "order": 4,
+    "note": "The good, ineffectual Julián tries to bring religion and decency to the pazo and its parish, and fails utterly against the sheer animal force of the world around him. His powerless goodness, set against the crude vitality of Don Pedro and Primitivo, is Pardo Bazán's judgement on a Church, and a gentleness, unequal to the harsh reality of rural Spain.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The House of Ulloa, Wikipedia, on Julián",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Ulloa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-town-election",
+    "name": "The town (the election)",
+    "progressLabel": "The politics",
+    "character": "don-pedro",
+    "coords": [-8.25, 42.72],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The political corruption of caciquismo, in which local bosses rig elections, plays out in the district town; sited in the real rural Galicia the novel anatomises.",
+    "reference": "The election chapters",
+    "order": 5,
+    "note": "When Don Pedro is drawn into local politics, the novel exposes the caciquismo of Restoration Spain, elections bought, stolen and enforced by the rural bosses. The squalid political machinery of the countryside, as brutal and corrupt as the pazo itself, completes Pardo Bazán's unsparing portrait of a decaying, violent old order.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Caciquismo in Restoration Spain",
+        "url": "https://en.wikipedia.org/wiki/Caciquismo"
+      },
+      {
+        "kind": "guide",
+        "ref": "The House of Ulloa, Wikipedia, on the politics",
+        "url": "https://en.wikipedia.org/wiki/The_House_of_Ulloa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
