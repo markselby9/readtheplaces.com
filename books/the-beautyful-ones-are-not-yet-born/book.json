@@ -1,0 +1,46 @@
+{
+  "id": "the-beautyful-ones-are-not-yet-born",
+  "title": "The Beautyful Ones Are Not Yet Born",
+  "author": "Ayi Kwei Armah",
+  "published": 1968,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.758, 4.895],
+  "zoom": 13,
+  "setting": {
+    "city": "Takoradi",
+    "country": "GH",
+    "note": "In the disillusioned Ghana of the last days of Nkrumah, an unnamed railway clerk, the Man, refuses to take the bribes that everyone around him treats as ordinary, and is despised by his own family for it. Armah keeps the harbour city deliberately unnamed, drawn from Sekondi-Takoradi: the railway control office where the Man works, the port and its coast, the filthy home block, and the room of his disillusioned friend the Teacher; the political rot has its seat far off in Accra.",
+    "bbox": [-1.78, 4.87, -1.74, 4.91]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ayi Kwei Armah, first published 1968. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Beautyful Ones Are Not Yet Born, Ayi Kwei Armah (1968). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The false gleam of money and its objects that everyone in the book chases and the Man refuses, the gold that turns everything else to rot. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-man": {
+      "name": "The Man",
+      "color": "#2E5064"
+    },
+    "oyo": {
+      "name": "Oyo",
+      "color": "#8A2B1E"
+    },
+    "koomson": {
+      "name": "Koomson",
+      "color": "#4A4A4A"
+    },
+    "teacher": {
+      "name": "The Teacher",
+      "color": "#2E6B4A"
+    }
+  }
+}

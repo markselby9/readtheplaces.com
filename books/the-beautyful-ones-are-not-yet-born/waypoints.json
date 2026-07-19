@@ -1,0 +1,118 @@
+[
+  {
+    "id": "railway-office",
+    "name": "The railway control office",
+    "progressLabel": "Chapter 1",
+    "character": "the-man",
+    "coords": [-1.76, 4.895],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Man works as a clerk in the railway control office of the harbour city; the office is drawn from the real railway administration of Sekondi-Takoradi and sited there.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At his desk in the railway office, the Man passes his days resisting the small bribes that flow around him as naturally as breathing, and is regarded as a fool for it. Armah opens on the dense, physical world of the office and the bus that brings him there, the ordinary machinery of a society Armah sees as sliding into rot.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sekondi-Takoradi, Ghana",
+        "url": "https://en.wikipedia.org/wiki/Sekondi-Takoradi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Beautyful Ones Are Not Yet Born, Wikipedia, on the Man",
+        "url": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-harbour",
+    "name": "The harbour and the coast",
+    "progressLabel": "The city",
+    "character": "the-man",
+    "coords": [-1.755, 4.885],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The port and its coastline are central to the harbour city of the novel, drawn from the real deep-water harbour of Takoradi; sited on that coast.",
+    "reference": "The city chapters",
+    "order": 2,
+    "note": "By the harbour and the sea, the Man walks out his disgust and his longing, the ocean the one clean thing in a world Armah renders as an overpowering catalogue of filth and decay. The port, gateway of the trade that enriches the corrupt, sets the vast, indifferent sea against the small human squalor onshore.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Port of Takoradi",
+        "url": "https://en.wikipedia.org/wiki/Sekondi-Takoradi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Beautyful Ones Are Not Yet Born, Wikipedia, on the imagery and setting",
+        "url": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-home-block",
+    "name": "The home block",
+    "progressLabel": "The family",
+    "character": "oyo",
+    "coords": [-1.762, 4.9],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Man's family lives in a poor city block with its shared, filthy latrine; the home is invented and sited in the crowded low-income quarters of the real harbour city.",
+    "reference": "The family chapters",
+    "order": 3,
+    "note": "At home in the cramped block, the Man's wife Oyo and her mother despise his honesty, longing for the comforts that a little corruption would bring. The family's contempt is the Man's hardest trial, the pressure to join the general theft coming most painfully from the people he loves.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Beautyful Ones Are Not Yet Born, Wikipedia, on Oyo and the family",
+        "url": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-teachers-room",
+    "name": "The Teacher's room",
+    "progressLabel": "The Teacher",
+    "character": "teacher",
+    "coords": [-1.758, 4.898],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Man visits his friend the Teacher, a naked, withdrawn intellectual, in his room; the room is invented and sited in the real city, a refuge of disillusioned talk.",
+    "reference": "The Teacher chapters",
+    "order": 4,
+    "note": "In the Teacher's bare room, the two friends talk through the despair of a revolution betrayed, the fine words of independence turned to greed and rot. The Teacher, who has withdrawn from a world he cannot bear, voices the book's bleakest disillusion, and its faint, deferred hope that the beautiful ones are not yet born.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Beautyful Ones Are Not Yet Born, Wikipedia, on the Teacher",
+        "url": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "accra-coup",
+    "name": "Accra (the coup)",
+    "progressLabel": "The coup",
+    "character": "koomson",
+    "coords": [-0.2, 5.56],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The political corruption and the 1966 coup that overthrows Nkrumah have their seat in Accra, the real capital; sited there, far from the harbour city, though its consequences reach the Man.",
+    "reference": "The coup chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "When the coup topples the government, the corrupt minister Koomson, once so glossy with power, comes fleeing to the Man he had despised, and escapes only by crawling through the latrine's filth. Armah turns the fall of the mighty into a scene of literal excrement, and lets the incorruptible Man help him, refusing even revenge, in a country still waiting to be reborn.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "1966 Ghanaian coup d'état",
+        "url": "https://en.wikipedia.org/wiki/1966_Ghanaian_coup_d%27%C3%A9tat"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Beautyful Ones Are Not Yet Born, Wikipedia, on Koomson and the coup",
+        "url": "https://en.wikipedia.org/wiki/The_Beautyful_Ones_Are_Not_Yet_Born"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
