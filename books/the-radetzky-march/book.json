@@ -1,0 +1,46 @@
+{
+  "id": "the-radetzky-march",
+  "title": "The Radetzky March",
+  "author": "Joseph Roth",
+  "published": 1932,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [25.2, 50.09],
+  "zoom": 9,
+  "setting": {
+    "city": "Galician frontier",
+    "country": "UA",
+    "note": "Roth's elegy for the Austro-Hungarian Empire follows three generations of the Trotta family, ennobled after the first Trotta saves the young Emperor's life at Solferino, down to the aimless grandson Carl Joseph, an officer posted to a dreary garrison on the empire's eastern edge as it drifts toward 1914. The heart of the book is that Galician frontier near the Russian border, drawn from Roth's own Brody: the border garrison, the shabby town of gambling and debt, and the front where the last Trotta dies, while Solferino and imperial Vienna stand at the empire's other poles.",
+    "bbox": [25.05, 50.02, 25.4, 50.15]
+  },
+  "rights": {
+    "originalWork": "In copyright. Joseph Roth, first published 1932 (Radetzkymarsch). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Radetzky_March",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The Radetzky March, Joseph Roth (1932). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The faded imperial gold of a dying Habsburg empire, the black-and-yellow twilight the whole book mourns. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "carl-joseph": {
+      "name": "Carl Joseph von Trotta",
+      "color": "#2E5064"
+    },
+    "the-hero-of-solferino": {
+      "name": "The hero of Solferino",
+      "color": "#8A2B1E"
+    },
+    "franz-von-trotta": {
+      "name": "The district captain",
+      "color": "#4A4A4A"
+    },
+    "the-emperor": {
+      "name": "The Emperor",
+      "color": "#6B3B5A"
+    }
+  }
+}

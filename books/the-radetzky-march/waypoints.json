@@ -1,0 +1,124 @@
+[
+  {
+    "id": "solferino",
+    "name": "Solferino",
+    "progressLabel": "1859",
+    "character": "the-hero-of-solferino",
+    "coords": [10.57, 45.37],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The family's fortunes begin at the real Battle of Solferino in northern Italy in 1859, where an infantry lieutenant named Trotta throws the young Emperor to the ground and takes the bullet meant for him.",
+    "reference": "The opening",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "At Solferino the obscure Lieutenant Trotta saves the Emperor Franz Joseph's life and is ennobled for it, becoming the Hero of Solferino, only to spend his later years appalled at how the schoolbooks turn his real deed into a lie. That founding act, and his disillusion with the empire's self-mythologising, sets the family and the book on their long road to ruin.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Battle of Solferino",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Radetzky March, Wikipedia, on the hero of Solferino",
+        "url": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vienna-the-empire",
+    "name": "Vienna (the empire)",
+    "progressLabel": "The empire",
+    "character": "the-emperor",
+    "coords": [16.37, 48.21],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Vienna, the real imperial capital, is the centre of the world the Trottas serve, and the seat of the aged Emperor Franz Joseph whose long reign and decline mirror the family's own.",
+    "reference": "The imperial chapters",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "In Vienna the machinery of the old empire turns on, its court, its army and its ancient Emperor, whom Roth renders as a tired, kindly old man carrying a world too heavy for him. The parallel lives of the Emperor and the Trottas, both outlasting their own age, give the book its deep note of imperial exhaustion and coming ruin.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Franz Joseph I of Austria",
+        "url": "https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Radetzky March, Wikipedia, on the Emperor and Vienna",
+        "url": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-frontier-garrison",
+    "name": "The frontier garrison",
+    "progressLabel": "The frontier",
+    "character": "carl-joseph",
+    "coords": [25.15, 50.08],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Carl Joseph is posted to a dreary garrison on the empire's eastern edge near the Russian border, drawn from Roth's home town of Brody in Galicia; the garrison is sited in that real frontier region.",
+    "reference": "The frontier chapters",
+    "order": 3,
+    "note": "The grandson Carl Joseph, a mediocre cavalry officer weighed down by the family legend, is posted to a bleak garrison on the Galician frontier, at the very edge of the empire and of nowhere. The muddy border district, half-forgotten by Vienna, is where the hollowness beneath the imperial pomp is plainest, and where his slow disintegration unfolds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Brody, Galicia",
+        "url": "https://en.wikipedia.org/wiki/Brody"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Radetzky March, Wikipedia, on Carl Joseph and the frontier",
+        "url": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-border-town",
+    "name": "The border town",
+    "progressLabel": "The decline",
+    "character": "franz-von-trotta",
+    "coords": [25.16, 50.085],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The shabby frontier town of gambling houses, taverns and debt around the garrison is drawn from the real Galician border towns; sited beside the garrison, the specific establishments the novel's own.",
+    "reference": "The decline chapters",
+    "order": 4,
+    "note": "In the border town's casinos and back rooms Carl Joseph sinks into gambling, drink, debt and a doomed affair, and his father the district captain travels out from the imperial heartland to try, uselessly, to save him. The seedy frontier, where officers rot for want of anything to do, is where the family's honour and the empire's dignity quietly dissolve together.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Radetzky March, Wikipedia, on the district captain and the decline",
+        "url": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-eastern-front",
+    "name": "The eastern front",
+    "progressLabel": "1914",
+    "character": "carl-joseph",
+    "coords": [25.3, 50.1],
+    "placeCertainty": "explicit",
+    "certaintyNote": "When war breaks out in 1914 the fighting comes to the Galician frontier, and Carl Joseph is killed there; the real eastern front of the First World War is where the last Trotta dies.",
+    "reference": "1914",
+    "order": 5,
+    "note": "With the outbreak of the First World War the front reaches the very border where Carl Joseph is stationed, and he is shot dead fetching water for his thirsty men, an unheroic death for the grandson of a hero. His end, and the Emperor's soon after, close the empire and the family together, the Radetzky March playing on over a world already gone.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Eastern Front (World War I)",
+        "url": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Radetzky March, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "black-rain",
+  "title": "Black Rain",
+  "author": "Masuji Ibuse",
+  "published": 1965,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [132.454, 34.393],
+  "zoom": 13,
+  "setting": {
+    "city": "Hiroshima",
+    "country": "JP",
+    "note": "Years after the atomic bombing, Shigematsu Shizuma reconstructs from his diary the days after 6 August 1945 in Hiroshima, as he tries to clear his niece Yasuko, who was caught in the radioactive black rain, of the suspicion of illness that is ruining her marriage prospects. Ibuse maps the real catastrophe: the city on the morning of the bomb, the hypocenter and the ruined streets, the rivers of the Ota delta filled with the dead as the black rain falls, and the quiet country village where the survivors wait, years later, for sickness to declare itself.",
+    "bbox": [132.43, 34.38, 132.48, 34.41]
+  },
+  "rights": {
+    "originalWork": "In copyright. Masuji Ibuse, first published 1965 (Kuroi Ame). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Black_Rain_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Black Rain, Masuji Ibuse (1965). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey-black of the radioactive black rain and the ash that fell over Hiroshima, the mark the whole book turns on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "shigematsu": {
+      "name": "Shigematsu",
+      "color": "#2E5064"
+    },
+    "yasuko": {
+      "name": "Yasuko",
+      "color": "#8A2B1E"
+    },
+    "shigeko": {
+      "name": "Shigeko",
+      "color": "#8A6A12"
+    },
+    "the-doctor": {
+      "name": "The doctor",
+      "color": "#2E6B4A"
+    }
+  }
+}

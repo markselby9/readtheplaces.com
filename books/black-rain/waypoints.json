@@ -1,0 +1,124 @@
+[
+  {
+    "id": "hiroshima-morning",
+    "name": "Hiroshima (the morning of the bomb)",
+    "progressLabel": "6 August 1945",
+    "character": "shigematsu",
+    "coords": [132.455, 34.393],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book reconstructs the morning of 6 August 1945 in Hiroshima, the real city, when the atomic bomb was dropped; Shigematsu was in the city and set it down in the diary the novel draws on.",
+    "reference": "6 August 1945",
+    "order": 1,
+    "note": "On an ordinary summer morning, going about his work in the city, Shigematsu sees the blinding flash and is flung down as the bomb destroys Hiroshima in an instant. From his diary of that day and the ones that follow, the novel builds a patient, almost documentary account of the unimaginable made suddenly, terribly real.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Atomic bombing of Hiroshima",
+        "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+      },
+      {
+        "kind": "guide",
+        "ref": "Black Rain (novel), Wikipedia, on Shigematsu and the bombing",
+        "url": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hypocenter",
+    "name": "The hypocenter (the ruined city)",
+    "progressLabel": "The aftermath",
+    "character": "yasuko",
+    "coords": [132.4536, 34.3955],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The survivors walk through the flattened city near the hypocenter, marked today by the Genbaku Dome and the Aioi Bridge; the real devastated centre is the ground of the book's aftermath.",
+    "reference": "The aftermath chapters",
+    "order": 2,
+    "note": "Through the smoking ruin at the heart of the city move the survivors, among them Yasuko, past the dead, the dying and the burned in scenes Ibuse records with unbearable calm. Yasuko's passage through the devastated centre, and her drenching in the black rain, is the event that will shadow the rest of her life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Hiroshima Peace Memorial (Genbaku Dome)",
+        "url": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+      },
+      {
+        "kind": "guide",
+        "ref": "Black Rain (novel), Wikipedia, on Yasuko and the ruined city",
+        "url": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-rivers-black-rain",
+    "name": "The rivers (the black rain)",
+    "progressLabel": "The aftermath",
+    "character": "shigematsu",
+    "coords": [132.45, 34.39],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The rivers of the Ota delta that thread Hiroshima filled with the dead and the desperate, and over them fell the radioactive black rain that gives the book its title; the real waterways are central to the aftermath.",
+    "reference": "The aftermath chapters",
+    "order": 3,
+    "note": "Along the city's rivers the survivors seek water and the corpses drift, and from the black cloud overhead falls the sticky black rain, carrying the invisible poison that will kill for years to come. The rain, marking clothes, skin and water alike, is the book's central image of a contamination no one yet understands.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ōta River",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Cta_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "Black Rain (novel), Wikipedia, on the black rain",
+        "url": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-years-later",
+    "name": "The village (years later)",
+    "progressLabel": "The present",
+    "character": "shigeko",
+    "coords": [133.25, 34.75],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Years after the bomb the family lives in a country village east of Hiroshima; the village is drawn from the rural districts to which survivors withdrew and sited there, outside the city setting.",
+    "reference": "The present-day frame",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the quiet village where Shigematsu, his wife Shigeko and Yasuko now live, ordinary life goes on around the constant fear that the radiation sickness will one day appear. The gap between the peaceful countryside and the horror in the diary Shigematsu copies out is the space in which Ibuse measures how the bomb keeps killing long after it fell.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Black Rain (novel), Wikipedia, on the postwar village",
+        "url": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-countryside-sickness",
+    "name": "The countryside (the sickness)",
+    "progressLabel": "The reckoning",
+    "character": "the-doctor",
+    "coords": [133.26, 34.74],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The slow onset of radiation sickness is watched for in the countryside around the village, among the survivors and their doctors; sited in the rural districts outside Hiroshima.",
+    "reference": "The reckoning chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "As Shigematsu copies out his diary to prove Yasuko was healthy, the delayed radiation sickness begins after all to take the survivors one by one, and at last touches Yasuko. Ibuse ends not on the flash of the bomb but on this long, quiet dying in the countryside, the black rain's harvest gathered years after the sky cleared.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Radiation sickness among hibakusha",
+        "url": "https://en.wikipedia.org/wiki/Hibakusha"
+      },
+      {
+        "kind": "guide",
+        "ref": "Black Rain (novel), Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
