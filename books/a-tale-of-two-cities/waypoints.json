@@ -1,0 +1,127 @@
+[
+  {
+    "id": "tellsons-london",
+    "name": "Tellson's Bank, London",
+    "progressLabel": "Recalled to life",
+    "character": "lucie",
+    "coords": [-0.131, 51.513],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The London of Tellson's Bank and the Manettes' Soho home is the real city where the recalled Dr Manette is nursed back to life; sited in the West End.",
+    "reference": "Book the First",
+    "order": 1,
+    "note": "In London, the banker Jarvis Lorry and the devoted Lucie receive her father Dr Manette, 'recalled to life' after eighteen years in the Bastille, and slowly draw him back from madness in their quiet Soho corner. Dickens sets the ordered, comfortable English city against the France to come, the peace whose price is the memory of another country's buried wrong.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Soho, London",
+        "url": "https://en.wikipedia.org/wiki/Soho"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Tale of Two Cities, Wikipedia, on Dr Manette and Lucie",
+        "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-old-bailey",
+    "name": "The Old Bailey",
+    "progressLabel": "The trial",
+    "character": "sydney-carton",
+    "coords": [-0.102, 51.515],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Charles Darnay is tried for treason at the Old Bailey, the real central criminal court of London, where Sydney Carton first saves him; sited there.",
+    "reference": "Book the Second",
+    "order": 2,
+    "note": "At the Old Bailey, Charles Darnay stands trial for his life on a charge of treason, and is acquitted only when the idle lawyer Sydney Carton points out how alike the two men are. Dickens introduces here the fatal resemblance between Darnay and Carton, and the wasted, self-loathing brilliance of the man who will one day put it to its final use.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Old Bailey",
+        "url": "https://en.wikipedia.org/wiki/Old_Bailey"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Tale of Two Cities, Wikipedia, on Darnay's trial and Carton",
+        "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saint-antoine",
+    "name": "Saint-Antoine, Paris",
+    "progressLabel": "The wine-shop",
+    "character": "madame-defarge",
+    "coords": [2.372, 48.853],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Defarges' wine-shop stands in the Faubourg Saint-Antoine, the real revolutionary working-class quarter of Paris; sited there.",
+    "reference": "Book the Second",
+    "order": 3,
+    "note": "In the Paris faubourg of Saint-Antoine, the Defarges keep their wine-shop, and Madame Defarge knits into her register the names of all who will die when the day comes. Dickens makes the poor quarter, where a cask of spilled wine stains the street like blood, the gathering-place of a fury built from real and ancient wrongs.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Faubourg Saint-Antoine",
+        "url": "https://en.wikipedia.org/wiki/Faubourg_Saint-Antoine"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Tale of Two Cities, Wikipedia, on the Defarges",
+        "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-bastille",
+    "name": "The Bastille",
+    "progressLabel": "1789",
+    "character": "madame-defarge",
+    "coords": [2.369, 48.8531],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The storming of the Bastille in July 1789, in which the Defarges lead the crowd, is a real event; sited at the fortress in Paris.",
+    "reference": "Book the Second",
+    "order": 4,
+    "note": "When the people storm the Bastille, Defarge searches the cell where Dr Manette was held and prises loose the paper that will damn the aristocratic Evrémondes, Darnay's own family. Dickens turns the great symbolic act of the Revolution into a hinge of his plot, the fortress falling and the buried past rising with it to claim the innocent.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Storming of the Bastille",
+        "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Tale of Two Cities, Wikipedia, on the Bastille",
+        "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-guillotine",
+    "name": "The Place de la Révolution",
+    "progressLabel": "The sacrifice",
+    "character": "sydney-carton",
+    "coords": [2.321, 48.865],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The guillotine of the Terror stood in the Place de la Révolution, now the Place de la Concorde, where Sydney Carton dies in Darnay's place; sited there.",
+    "reference": "Book the Third",
+    "order": 5,
+    "note": "In the Place de la Révolution, Sydney Carton goes to the guillotine in Charles Darnay's place, having smuggled his double to safety, and meets death with the peace that eluded his life. Dickens ends on Carton's imagined last words, that it is a far, far better thing he does, the wasted man redeemed by a single act on the scaffold where the Terror devours its own.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Place de la Concorde and the guillotine",
+        "url": "https://en.wikipedia.org/wiki/Place_de_la_Concorde"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Tale of Two Cities, Wikipedia, on Carton's sacrifice",
+        "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

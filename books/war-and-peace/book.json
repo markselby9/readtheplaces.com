@@ -1,0 +1,46 @@
+{
+  "id": "war-and-peace",
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "published": 1869,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [35.0, 56.5],
+  "zoom": 5,
+  "setting": {
+    "city": "Russia",
+    "country": "RU",
+    "note": "Across the Napoleonic Wars of 1805 to 1812, Tolstoy follows the Bezukhov, Bolkonsky and Rostov families through the salons of Petersburg, the society of Moscow, the country estates, and the battlefields where private lives and vast history collide. The novel maps a real geography: the imperial capital and the old city, the Bolkonsky estate in the provinces, the field of Austerlitz where Prince Andrei looks up at the infinite sky, and Borodino, after which Moscow burns and the French begin their ruinous retreat.",
+    "bbox": [29.0, 53.5, 39.0, 60.5]
+  },
+  "rights": {
+    "originalWork": "Public domain. Leo Tolstoy (d. 1910), first published 1869 (Voyna i mir). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/War_and_Peace",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "War and Peace, Leo Tolstoy (1869). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue of the infinite sky Prince Andrei sees above him, wounded at Austerlitz, the book's great image of peace overarching all the war beneath it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "pierre": {
+      "name": "Pierre",
+      "color": "#8A6A12"
+    },
+    "natasha": {
+      "name": "Natasha",
+      "color": "#8A2B1E"
+    },
+    "andrei": {
+      "name": "Prince Andrei",
+      "color": "#6B3B5A"
+    },
+    "napoleon": {
+      "name": "Napoleon",
+      "color": "#4A4A4A"
+    }
+  }
+}

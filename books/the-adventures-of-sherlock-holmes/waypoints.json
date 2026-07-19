@@ -1,0 +1,123 @@
+[
+  {
+    "id": "baker-street",
+    "name": "221B Baker Street",
+    "progressLabel": "The lodgings",
+    "character": "holmes",
+    "coords": [-0.158, 51.523],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Holmes and Watson's rooms at 221B Baker Street are the fictional address at the heart of the stories; Baker Street is real and the lodgings are sited there.",
+    "reference": "Throughout",
+    "order": 1,
+    "note": "The sitting room at 221B, with its Persian slipper of tobacco and its cases arriving by the morning post, is the still centre from which every adventure begins. Doyle makes the Baker Street lodgings one of the most famous rooms in fiction, the place where Watson watches Holmes read a stranger's whole life from the state of his boots.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "221B Baker Street",
+        "url": "https://en.wikipedia.org/wiki/221B_Baker_Street"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Adventures of Sherlock Holmes, Wikipedia, on Baker Street",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "scotland-yard",
+    "name": "Scotland Yard",
+    "progressLabel": "The police",
+    "character": "lestrade",
+    "coords": [-0.124, 51.501],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Scotland Yard, the real headquarters of the Metropolitan Police by the Thames, is where the official detectives such as Lestrade work; sited there.",
+    "reference": "The police-procedural threads",
+    "order": 2,
+    "note": "At Scotland Yard the professional detectives, Lestrade foremost, plod through the cases Holmes solves at a glance, and grudgingly call him in when they are beaten. Doyle sets the amateur's brilliance against the official force by the river, the Yard forever a step behind the reasoning machine of Baker Street.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Scotland Yard",
+        "url": "https://en.wikipedia.org/wiki/Scotland_Yard"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Adventures of Sherlock Holmes, Wikipedia, on Lestrade and the police",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-strand",
+    "name": "The Strand",
+    "progressLabel": "The clients",
+    "character": "irene-adler",
+    "coords": [-0.117, 51.511],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Strand and the surrounding West End, the real thoroughfare of Victorian London, is where clients and cases converge on Holmes; sited there.",
+    "reference": "A Scandal in Bohemia and others",
+    "order": 3,
+    "note": "Through the West End's bustle come the clients with their troubles, among them the King of Bohemia and, outwitting Holmes himself, the singular Irene Adler, forever after 'the woman'. Doyle fills the Strand and its theatres and lodging-houses with the human traffic of a great city, each passer-by a case waiting to be read.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Strand, London",
+        "url": "https://en.wikipedia.org/wiki/Strand,_London"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Adventures of Sherlock Holmes, Wikipedia, on Irene Adler",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-east-end",
+    "name": "The East End",
+    "progressLabel": "The underworld",
+    "character": "watson",
+    "coords": [-0.06, 51.513],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The opium dens and riverside slums of the East End, drawn from the real Victorian docklands, are the setting of the darker cases such as The Man with the Twisted Lip; sited there.",
+    "reference": "The Man with the Twisted Lip",
+    "order": 4,
+    "note": "Into the opium dens and grimy courts of the East End Watson ventures on the trail of a lost man, and finds Holmes in disguise among the wreckage of the docks. Doyle turns the city's poorest quarter into a place of transformation and hidden lives, where a respectable gentleman may vanish into a beggar and back.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "East End of London",
+        "url": "https://en.wikipedia.org/wiki/East_End_of_London"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Adventures of Sherlock Holmes, Wikipedia, on The Man with the Twisted Lip",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-country-houses",
+    "name": "The country houses",
+    "progressLabel": "Beyond London",
+    "character": "holmes",
+    "coords": [-0.42, 51.23],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Several cases carry Holmes into the home counties, to houses such as Stoke Moran in Surrey; drawn from the real countryside south of London and sited beyond the city.",
+    "reference": "The Speckled Band and others",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "The train carries Holmes out to lonely country houses where, he observes, worse crimes hide than in the vilest London alley, from the sinister Stoke Moran of the speckled band to the copper beeches. Doyle sets against the readable city a countryside of isolated halls, where old money and old menace fester behind respectable walls.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Adventures of Sherlock Holmes, Wikipedia, on The Adventure of the Speckled Band",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
