@@ -1,0 +1,46 @@
+{
+  "id": "balzac-and-the-little-chinese-seamstress",
+  "title": "Balzac and the Little Chinese Seamstress",
+  "author": "Dai Sijie",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [102.5, 28.0],
+  "zoom": 9,
+  "setting": {
+    "city": "the Sichuan mountains",
+    "country": "CN",
+    "note": "During the Cultural Revolution, two teenage sons of denounced doctors are sent for re-education to a remote mountain village in Sichuan, where they haul coal, work the paddies, and discover a hidden suitcase of forbidden Western novels that changes everything, above all for the tailor's daughter one of them loves. Dai Sijie, himself sent to the Sichuan hills, draws on that real world of re-education: the mountain village, the mine and the fields, the tailor's house, and the county town far below.",
+    "bbox": [102.2, 27.7, 102.9, 28.3]
+  },
+  "rights": {
+    "originalWork": "In copyright. Dai Sijie, first published 2000 (Balzac et la Petite Tailleuse chinoise). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Balzac and the Little Chinese Seamstress, Dai Sijie (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The violet of forbidden books and the awakening they bring, the smuggled Balzac that opens a shuttered world on the mountain. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-narrator": {
+      "name": "The narrator",
+      "color": "#2E5064"
+    },
+    "luo": {
+      "name": "Luo",
+      "color": "#8A2B1E"
+    },
+    "the-seamstress": {
+      "name": "The Seamstress",
+      "color": "#6B3B5A"
+    },
+    "four-eyes": {
+      "name": "Four-Eyes",
+      "color": "#4A4A4A"
+    }
+  }
+}

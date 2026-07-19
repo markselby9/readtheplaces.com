@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-mountain-village",
+    "name": "The mountain village",
+    "progressLabel": "Re-education",
+    "character": "the-narrator",
+    "coords": [102.5, 28.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The village of 'Phoenix of the Sky' where the boys are sent is drawn from the remote mountain communities of Sichuan to which city youths were sent for re-education; sited in that highland region.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "High on the mountain called Phoenix of the Sky, the narrator and his friend Luo arrive for re-education, city boys among peasants who have never seen a violin or an alarm clock. Dai Sijie draws the isolation and strangeness of the re-education village, where a talent for storytelling becomes the two boys' only currency.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Down to the Countryside Movement",
+        "url": "https://en.wikipedia.org/wiki/Down_to_the_Countryside_Movement"
+      },
+      {
+        "kind": "guide",
+        "ref": "Balzac and the Little Chinese Seamstress, Wikipedia, on the re-education village",
+        "url": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mine",
+    "name": "The mine and the fields",
+    "progressLabel": "The labour",
+    "character": "luo",
+    "coords": [102.52, 28.02],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The boys' forced labour in a coal mine and the terraced paddy fields is drawn from the real hardships of re-education in the Sichuan mountains; sited by the village.",
+    "reference": "The labour chapters",
+    "order": 2,
+    "note": "The boys carry coal on their backs through a flooded mine and haul buckets of night soil up the terraces, work that could kill them and is meant to remake them. Against this grinding labour Dai Sijie sets the small rebellions of imagination, the retold films and, soon, the smuggled books, that keep their inner lives alive.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Balzac and the Little Chinese Seamstress, Wikipedia, on the labour",
+        "url": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tailors-house",
+    "name": "The tailor's house",
+    "progressLabel": "The Seamstress",
+    "character": "the-seamstress",
+    "coords": [102.48, 27.98],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house of the old tailor and his daughter, the Little Seamstress, is drawn from the village life of the Sichuan mountains; sited in a neighbouring hamlet of the setting.",
+    "reference": "The Seamstress chapters",
+    "order": 3,
+    "note": "In a nearby village the travelling tailor's beautiful daughter, the Little Seamstress, catches Luo's heart, and he sets out to educate her with the stories he reads. The tailor's house, where the sewing machine and the mountain gossip gather, is the stage for a love that literature will both kindle and, in the end, undo.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Balzac and the Little Chinese Seamstress, Wikipedia, on the Seamstress and Luo",
+        "url": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hidden-suitcase",
+    "name": "The hidden suitcase",
+    "progressLabel": "The forbidden books",
+    "character": "four-eyes",
+    "coords": [102.55, 28.05],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The suitcase of banned Western novels belongs to another re-educated boy, Four-Eyes, in a neighbouring village; the hidden cache is sited in the mountain setting.",
+    "reference": "The books chapters",
+    "order": 4,
+    "note": "The bespectacled Four-Eyes guards a secret suitcase of forbidden Western novels, Balzac, Flaubert, Dumas, which the boys scheme to get their hands on. When at last they steal it, the smuggled books open a whole hidden world of desire and possibility on the mountain, the true, dangerous work of re-education running the opposite way to the one intended.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Balzac and the Little Chinese Seamstress, Wikipedia, on the forbidden books",
+        "url": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-county-town",
+    "name": "The county town",
+    "progressLabel": "Down the mountain",
+    "character": "the-narrator",
+    "coords": [102.45, 27.9],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The county town far below the mountain, with its cinema, market and dentist, is drawn from the small towns of the Sichuan highlands; sited at the foot of the setting.",
+    "reference": "The town chapters",
+    "order": 5,
+    "note": "Down in the county town the boys watch the films they will retell on the mountain, and later carry the Seamstress's secret to its quiet crisis. Dai Sijie ends on the bittersweet lesson of the books: the Seamstress, awakened by Balzac to her own worth, leaves the mountain and the boy who taught her, in search of the wider world she has learned to want.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sichuan province",
+        "url": "https://en.wikipedia.org/wiki/Sichuan"
+      },
+      {
+        "kind": "guide",
+        "ref": "Balzac and the Little Chinese Seamstress, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Balzac_and_the_Little_Chinese_Seamstress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

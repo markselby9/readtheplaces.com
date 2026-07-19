@@ -1,0 +1,129 @@
+[
+  {
+    "id": "the-star-house",
+    "name": "The yellow-star house",
+    "progressLabel": "Budapest, 1944",
+    "character": "the-father",
+    "coords": [19.05, 47.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "György's family lives in one of the real yellow-star houses to which Budapest's Jews were confined in 1944; sited in the city.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "The novel opens as fourteen-year-old György is given a day off school because his father must report to a labour-service camp, and the family, marked by the yellow star, gathers to see him go. Kertész sets the ordinary domestic scene of a Budapest already sealed off and marked for destruction, told in the boy's oddly untroubled, obedient voice.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Yellow-star houses of Budapest, 1944",
+        "url": "https://en.wikipedia.org/wiki/Yellow-star_houses"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fatelessness, Wikipedia, on György and his father",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-deportation",
+    "name": "The deportation",
+    "progressLabel": "The trains",
+    "character": "gyuri",
+    "coords": [19.03, 47.55],
+    "placeCertainty": "inferred",
+    "certaintyNote": "György is taken off a bus and held with other Budapest Jews at an assembly point before deportation, drawn from the real round-ups and brickyard assembly sites of 1944; sited on the city's edge.",
+    "reference": "The round-up chapters",
+    "order": 2,
+    "note": "Pulled off his bus at random with other Jews, György is held, sorted and loaded onto a train, all of it unfolding in the same reasonable, step-by-step manner he never thinks to question. In his flat acceptance of each stage, Kertész shows how the vast crime advanced precisely by seeming, to those caught in it, almost normal.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "The Holocaust in Hungary, 1944",
+        "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_Hungary"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fatelessness, Wikipedia, on the round-up and deportation",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "auschwitz",
+    "name": "Auschwitz-Birkenau",
+    "progressLabel": "The arrival",
+    "character": "gyuri",
+    "coords": [19.204, 50.027],
+    "placeCertainty": "explicit",
+    "certaintyNote": "György is deported first to Auschwitz-Birkenau, the real extermination and concentration camp in occupied Poland; sited there, far outside the Budapest setting.",
+    "reference": "The Auschwitz chapters",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "At Auschwitz-Birkenau György passes the selection, saved by claiming to be sixteen and fit for work, and takes in the smoking chimneys with the same disbelieving curiosity as everything else. Kertész refuses both melodrama and hindsight, letting the boy meet the death factory as a bewildering new place whose logic he sets himself, absurdly, to understand.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Auschwitz-Birkenau concentration camp",
+        "url": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fatelessness, Wikipedia, on Auschwitz",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zeitz",
+    "name": "Zeitz labour camp",
+    "progressLabel": "The camp",
+    "character": "bandi-citrom",
+    "coords": [12.14, 51.05],
+    "placeCertainty": "explicit",
+    "certaintyNote": "György is sent on to the Zeitz labour camp, a real subcamp of Buchenwald in Germany, where he does forced labour and slowly breaks down; sited there, outside the Budapest setting.",
+    "reference": "The Zeitz chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "At the Zeitz labour camp György learns the arts of survival from the seasoned prisoner Bandi Citrom, and clings to routine as hunger, cold and a festering wound wear him down toward death. Here the book measures out, day by day, how a person is reduced to a body, and how even in that reduction a strange will to go on persists.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Buchenwald concentration camp and its subcamps",
+        "url": "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fatelessness, Wikipedia, on Zeitz and Bandi Citrom",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-return",
+    "name": "The return",
+    "progressLabel": "Budapest again",
+    "character": "gyuri",
+    "coords": [19.055, 47.498],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Liberated, György makes his way back to Budapest, the real city, to find his old world altered and unwilling to hear him; sited in the city where the book began.",
+    "reference": "The final chapter",
+    "order": 5,
+    "note": "Returned to Budapest, György meets neighbours and survivors who urge him to think only of the horror and the future, and finds he cannot, for he remembers even the camps as a stretch of lived, ordinary hours. In his refusal of an assigned 'fate', the boy insists on the stubborn wholeness of his own experience, and the book earns its terrible, quiet title.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Budapest, Hungary",
+        "url": "https://en.wikipedia.org/wiki/Budapest"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fatelessness, Wikipedia, on the return and the ending",
+        "url": "https://en.wikipedia.org/wiki/Fatelessness"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

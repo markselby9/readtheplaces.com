@@ -1,0 +1,46 @@
+{
+  "id": "fateless",
+  "title": "Fatelessness",
+  "author": "Imre Kertész",
+  "published": 1975,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [19.05, 47.5],
+  "zoom": 11,
+  "setting": {
+    "city": "Budapest",
+    "country": "HU",
+    "note": "In 1944 the fourteen-year-old Budapest Jew György Köves is pulled off a bus, deported, and survives Auschwitz, Buchenwald and the Zeitz labour camp with a bewildered, matter-of-fact detachment, before returning to a city that wants him to forget. Kertész, who lived it, maps the real geography of the catastrophe: the yellow-star house and the assembly points of Budapest, and the camps to the north where a boy learns to take each step of the machinery as, somehow, natural.",
+    "bbox": [18.95, 47.4, 19.2, 47.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Imre Kertész, first published 1975 (Sorstalanság). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Fatelessness",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Fatelessness, Imre Kertész (1975). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The flat grey of the boy's terrible neutrality, taking each stage of the machinery as ordinary, the tone that gives the book its shattering force. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gyuri": {
+      "name": "György",
+      "color": "#2E5064"
+    },
+    "the-father": {
+      "name": "The father",
+      "color": "#8A6A12"
+    },
+    "bandi-citrom": {
+      "name": "Bandi Citrom",
+      "color": "#2E6B4A"
+    },
+    "annamaria": {
+      "name": "Annamária",
+      "color": "#6B3B5A"
+    }
+  }
+}
