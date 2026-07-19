@@ -1,0 +1,46 @@
+{
+  "id": "our-lady-of-the-assassins",
+  "title": "Our Lady of the Assassins",
+  "author": "Fernando Vallejo",
+  "published": 1994,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-75.58, 6.22],
+  "zoom": 11,
+  "setting": {
+    "city": "Medellín",
+    "country": "CO",
+    "note": "An ageing, embittered grammarian returns to the Medellín of the early 1990s, at the height of the cartel wars, and takes up with teenage sicarios, hired killers from the hillside slums, in a bitter lament for a city drowning in violence. Vallejo maps the real Medellín: the old churches of the centre he wanders in nostalgia, the comunas climbing the hills that breed the young gunmen, the metro that is the city's fragile pride, and the shrine at Sabaneta where the sicarios pray for their bullets to strike.",
+    "bbox": [-75.65, 6.14, -75.55, 6.28]
+  },
+  "rights": {
+    "originalWork": "In copyright. Fernando Vallejo, first published 1994 (La virgen de los sicarios). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Our Lady of the Assassins, Fernando Vallejo (1994). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the endless killings that soak the city, the blood the book counts with weary, furious grief. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "fernando": {
+      "name": "Fernando",
+      "color": "#4A4A4A"
+    },
+    "alexis": {
+      "name": "Alexis",
+      "color": "#8A6A12"
+    },
+    "wilmar": {
+      "name": "Wílmar",
+      "color": "#2E6B4A"
+    },
+    "the-sicarios": {
+      "name": "The sicarios",
+      "color": "#6B3B5A"
+    }
+  }
+}

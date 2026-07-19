@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-city-centre-churches",
+    "name": "The city centre (the churches)",
+    "progressLabel": "The return",
+    "character": "fernando",
+    "coords": [-75.567, 6.25],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old churches of central Medellín, real landmarks of the city, are where the nostalgic grammarian Fernando wanders in mourning for a vanished Colombia; sited in the historic centre.",
+    "reference": "The opening",
+    "order": 1,
+    "note": "Home after decades abroad, Fernando drifts through the old churches of central Medellín, praying to the images of his childhood in a city he no longer recognises. His caustic, elegiac voice, half in love with the past and half with death, threads the whole book, a lament for language, faith and a country consumed by killing.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Medellín",
+        "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      },
+      {
+        "kind": "guide",
+        "ref": "Our Lady of the Assassins, Wikipedia, on Fernando and the setting",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-comunas",
+    "name": "The comunas",
+    "progressLabel": "The hills",
+    "character": "the-sicarios",
+    "coords": [-75.615, 6.256],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The comunas, the poor barrios climbing the hillsides of Medellín, are the real neighbourhoods that produced the young sicarios of the cartel wars; sited on the slopes above the city.",
+    "reference": "The comuna chapters",
+    "order": 2,
+    "note": "From the comunas on the steep hills come the sicarios, boys of thirteen and fourteen who kill for a fee, a phone call and a scooter, and die almost as fast. Vallejo makes the desperate hillside slums, ruled by fear and the cartels, the source of the plague of murder that has turned Medellín into the killing capital of the world.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Comunas of Medellín",
+        "url": "https://en.wikipedia.org/wiki/Comuna_13"
+      },
+      {
+        "kind": "guide",
+        "ref": "Our Lady of the Assassins, Wikipedia, on the sicarios",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-apartment",
+    "name": "The apartment",
+    "progressLabel": "Alexis",
+    "character": "alexis",
+    "coords": [-75.57, 6.245],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Fernando lives with his young lover Alexis in an apartment in central Medellín; the flat is invented and sited in the real central city.",
+    "reference": "The Alexis chapters",
+    "order": 3,
+    "note": "In Fernando's apartment, the aging writer and the beautiful teenage killer Alexis make a strange domestic idyll between murders, tenderness and slaughter side by side. Their doomed love, and Alexis's casual dealing of death in the streets below, is the book's unbearable, unsentimental heart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Our Lady of the Assassins, Wikipedia, on Alexis",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sabaneta-shrine",
+    "name": "Sabaneta (the shrine)",
+    "progressLabel": "Wílmar",
+    "character": "wilmar",
+    "coords": [-75.616, 6.152],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The sicarios pray at the shrine to María Auxiliadora in Sabaneta, a real town just south of Medellín, asking the Virgin to make their bullets strike home; the shrine gives the book its title.",
+    "reference": "The Wílmar chapters",
+    "order": 4,
+    "note": "At the shrine of Sabaneta the young killers light candles to the Virgin, begging her to steady their aim and shield them from harm, a devotion Vallejo renders with savage irony. After Alexis is killed, Fernando takes up with a second sicario, Wílmar, only to learn that the two boys' fates were bound together in the city's endless circuit of revenge.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sabaneta, Antioquia",
+        "url": "https://en.wikipedia.org/wiki/Sabaneta,_Antioquia"
+      },
+      {
+        "kind": "guide",
+        "ref": "Our Lady of the Assassins, Wikipedia, on the shrine and Wílmar",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-metro",
+    "name": "The metro",
+    "progressLabel": "The city",
+    "character": "fernando",
+    "coords": [-75.568, 6.243],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Medellín Metro, the real elevated rail system and a rare civic pride amid the violence, carries Fernando and his lovers across the divided city; sited on its central line.",
+    "reference": "The city chapters",
+    "order": 5,
+    "note": "The gleaming metro, the one clean and orderly thing in a broken city, runs above streets where the bodies pile up, and Fernando rides it noting each place a killing has occurred. Vallejo ends with the writer alone again, the two boys dead, the city killing on, and only his bitter, dazzling voice left to record the slaughter.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Medellín Metro",
+        "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn_Metro"
+      },
+      {
+        "kind": "guide",
+        "ref": "Our Lady of the Assassins, Wikipedia, on the city and the ending",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

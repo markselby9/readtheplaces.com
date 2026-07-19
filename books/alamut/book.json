@@ -1,0 +1,46 @@
+{
+  "id": "alamut",
+  "title": "Alamut",
+  "author": "Vladimir Bartol",
+  "published": 1938,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [50.584, 36.442],
+  "zoom": 12,
+  "setting": {
+    "city": "Alamut",
+    "country": "IR",
+    "note": "In eleventh-century Persia, Hasan-i Sabbah, the Old Man of the Mountain, builds the sect of the Assassins at the fortress of Alamut, and makes his young fedayeen die on command by convincing them, through a hidden garden of drugged pleasures, that he can send them to paradise and back. Bartol sets it at the real crag of Alamut in the Alborz mountains: the fortress itself, the secret gardens behind it, the training grounds of the fedayeen, and the roads down which the assassins are sent against the great men of the age.",
+    "bbox": [50.56, 36.42, 50.61, 36.46]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vladimir Bartol, first published 1938. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Alamut_(Bartol_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Alamut, Vladimir Bartol (1938). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The drugged violet of the false paradise Hasan builds behind the fortress, the illusion on which the whole terrible machine of Alamut runs. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "hasan": {
+      "name": "Hasan-i Sabbah",
+      "color": "#4A4A4A"
+    },
+    "ibn-tahir": {
+      "name": "ibn Tahir",
+      "color": "#2E5064"
+    },
+    "halima": {
+      "name": "Halima",
+      "color": "#8A2B1E"
+    },
+    "miriam": {
+      "name": "Miriam",
+      "color": "#8A6A12"
+    }
+  }
+}
