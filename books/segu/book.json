@@ -1,0 +1,46 @@
+{
+  "id": "segu",
+  "title": "Segu",
+  "author": "Maryse Condé",
+  "published": 1984,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-6.27, 13.44],
+  "zoom": 9,
+  "setting": {
+    "city": "Ségou",
+    "country": "ML",
+    "note": "In the Bambara kingdom of Ségou on the Niger, at the turn of the nineteenth century, the noble family of Dousika Traoré is scattered and transformed as Islam, the Atlantic slave trade and European ambition converge on West Africa. Condé's sweeping historical epic is rooted in a real geography: the animist royal city on the great river, the Niger itself, the Muslim learning of the north at Timbuktu, and the slave coast to which one son is carried away.",
+    "bbox": [-6.5, 13.2, -5.9, 13.7]
+  },
+  "rights": {
+    "originalWork": "In copyright. Maryse Condé, first published 1984 (Ségou: Les murailles de terre). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Maryse_Cond%C3%A9",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Segu, Maryse Condé (1984). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The ochre-gold of the Sahel and the earthen walls of Ségou, the Bambara world at the moment history begins to grind it apart. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "dousika": {
+      "name": "Dousika",
+      "color": "#4A4A4A"
+    },
+    "tiekoro": {
+      "name": "Tiékoro",
+      "color": "#2E6B4A"
+    },
+    "naba": {
+      "name": "Naba",
+      "color": "#8A2B1E"
+    },
+    "siga": {
+      "name": "Siga",
+      "color": "#6B3B5A"
+    }
+  }
+}

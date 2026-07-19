@@ -1,0 +1,46 @@
+{
+  "id": "the-stone-angel",
+  "title": "The Stone Angel",
+  "author": "Margaret Laurence",
+  "published": 1964,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-99.47, 50.23],
+  "zoom": 10,
+  "setting": {
+    "city": "Manawaka",
+    "country": "CA",
+    "note": "Ninety-year-old Hagar Shipley, proud, unbending and afraid, looks back over her hard life on the Manitoba prairie as she flees her son's house rather than be put in a home. Laurence's Manawaka, drawn from the real prairie town of Neepawa, anchors the memory: the Currie store and the blind marble angel in the cemetery, the Shipley farm of her rough marriage, and the west-coast city where her old age plays out its last defiant days.",
+    "bbox": [-99.7, 50.05, -99.25, 50.4]
+  },
+  "rights": {
+    "originalWork": "In copyright. Margaret Laurence, first published 1964. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Stone_Angel",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Stone Angel, Margaret Laurence (1964). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey stone of the blind marble angel over the family graves, the monument to a pride as cold and unseeing as Hagar's own. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "hagar": {
+      "name": "Hagar",
+      "color": "#6B3B5A"
+    },
+    "bram": {
+      "name": "Bram",
+      "color": "#8A3B1E"
+    },
+    "john": {
+      "name": "John",
+      "color": "#2E5064"
+    },
+    "marvin": {
+      "name": "Marvin",
+      "color": "#2E6B4A"
+    }
+  }
+}

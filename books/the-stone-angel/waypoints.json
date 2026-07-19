@@ -1,0 +1,114 @@
+[
+  {
+    "id": "manawaka",
+    "name": "Manawaka",
+    "progressLabel": "The Currie store",
+    "character": "hagar",
+    "coords": [-99.47, 50.23],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Manawaka is Laurence's fictional prairie town, drawn from her own Neepawa, Manitoba; it is sited at that real town on the Manitoba plain.",
+    "reference": "The early memories",
+    "order": 1,
+    "note": "In the prairie town of Manawaka, Hagar grows up the proud daughter of the storekeeper Jason Currie, taught to prize respectability above all warmth. Laurence builds the whole moral world of the Scots-Presbyterian prairie here, the gentility and the hardness that will shape, and cripple, Hagar's long life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Neepawa, Manitoba",
+        "url": "https://en.wikipedia.org/wiki/Neepawa"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Stone Angel, Wikipedia, on Manawaka and Hagar's youth",
+        "url": "https://en.wikipedia.org/wiki/The_Stone_Angel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-cemetery",
+    "name": "The stone angel",
+    "progressLabel": "The monument",
+    "character": "hagar",
+    "coords": [-99.46, 50.24],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The blind marble angel over the Currie graves in the Manawaka cemetery gives the novel its title and its central image; sited in the town of the setting.",
+    "reference": "The cemetery passages",
+    "order": 2,
+    "note": "In the Manawaka cemetery stands the costly marble angel Jason Currie raised over his wife's grave, imported, eyeless and proud, a monument to family vanity. Laurence returns again and again to this blind stone angel as the emblem of Hagar herself, upright and unseeing, unable until the very end to look with love on those around her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Stone Angel, Wikipedia, on the stone angel as symbol",
+        "url": "https://en.wikipedia.org/wiki/The_Stone_Angel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-shipley-farm",
+    "name": "The Shipley farm",
+    "progressLabel": "The marriage",
+    "character": "bram",
+    "coords": [-99.52, 50.2],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hagar's married life on Bram Shipley's farm is set in the countryside around Manawaka, drawn from the Manitoba prairie farms; sited near the town.",
+    "reference": "The marriage chapters",
+    "order": 3,
+    "note": "Against her father's will Hagar marries the coarse, feckless farmer Bram Shipley and spends hard years on his failing land, too proud ever to show him tenderness. In the farm's decline and the ruin of the marriage Laurence measures the cost of Hagar's rigid pride, the love she cannot give and the son, John, on whom she pins everything.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Stone Angel, Wikipedia, on Bram and the marriage",
+        "url": "https://en.wikipedia.org/wiki/The_Stone_Angel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "progressLabel": "Old age",
+    "character": "marvin",
+    "coords": [-123.11, 49.28],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Hagar's old age plays out at her son Marvin's house in Vancouver, the real west-coast city, far from the prairie of her youth; sited there, outside the Manawaka setting.",
+    "reference": "The present-day frame",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Decades on, the aged Hagar lives resentfully with her dutiful son Marvin and his wife in Vancouver, dreading the nursing home they mean to put her in. The far-off coastal city, where the present-day story unfolds, is the vantage from which the whole prairie past is remembered, and the place Hagar at last flees in a final bid to stay her own woman.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Vancouver, British Columbia",
+        "url": "https://en.wikipedia.org/wiki/Vancouver"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Stone Angel, Wikipedia, on Marvin and Hagar's old age",
+        "url": "https://en.wikipedia.org/wiki/The_Stone_Angel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shadow-point",
+    "name": "The coast (Shadow Point)",
+    "progressLabel": "The flight",
+    "character": "hagar",
+    "coords": [-123.2, 49.3],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Hagar's flight to a derelict cannery on the British Columbia coast, where she has her last reckoning, is drawn from the shoreline near Vancouver; sited on the coast, outside the Manawaka setting.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Escaping the house, Hagar hides in an abandoned cannery on the coast, where a chance encounter and her failing body finally crack her lifelong armour. Laurence brings her, at the edge of death in a hospital bed, to a last flicker of honesty and grace, the blind angel's eyes, for one moment, seeming to open.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Stone Angel, Wikipedia, on the flight and the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Stone_Angel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
