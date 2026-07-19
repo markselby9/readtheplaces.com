@@ -1,0 +1,46 @@
+{
+  "id": "the-third-wedding",
+  "title": "The Third Wedding",
+  "author": "Costas Taktsis",
+  "published": 1962,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [23.73, 37.985],
+  "zoom": 12,
+  "setting": {
+    "city": "Athens",
+    "country": "GR",
+    "note": "In a torrent of gossip, grievance and love, two Athenian women, Nina and the indomitable Ekavi, tell the tangled story of their families across the middle of the twentieth century, through marriages, the German Occupation and the Civil War. The real city is their whole world: the middle-class neighbourhoods of Kypseli and Patissia where the households rise and fall, old Plaka beneath the Acropolis, and the central squares where the famine and the fighting come.",
+    "bbox": [23.7, 37.96, 23.76, 38.01]
+  },
+  "rights": {
+    "originalWork": "In copyright. Costas Taktsis, first published 1962 (To trito stefani). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Third_Wedding",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Third Wedding, Costas Taktsis (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the fierce domestic passions and of the blood of the Occupation and Civil War that run through the women's story. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "nina": {
+      "name": "Nina",
+      "color": "#2E5064"
+    },
+    "ekavi": {
+      "name": "Ekavi",
+      "color": "#8A6A12"
+    },
+    "theodoros": {
+      "name": "Theodoros",
+      "color": "#4A4A4A"
+    },
+    "maria": {
+      "name": "Maria",
+      "color": "#6B3B5A"
+    }
+  }
+}

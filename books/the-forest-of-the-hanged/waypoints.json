@@ -1,0 +1,118 @@
+[
+  {
+    "id": "galician-front-hanging",
+    "name": "The Galician front (the hanging)",
+    "progressLabel": "Part 1",
+    "character": "bologa",
+    "coords": [24.0, 49.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The book opens on the Eastern Front in Galicia, where Bologa sits on a court-martial that hangs a Czech officer for desertion; the front is real, the exact wood the novel's own, sited far north of Transylvania.",
+    "reference": "Part 1",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "On the Galician front, the zealous young officer Apostol Bologa helps condemn a Czech lieutenant to death for trying to desert to the enemy, and watches him hang with approval. The execution, and the field of gallows the book's title evokes, plants the first seed of the doubt that will consume him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Eastern Front (World War I)",
+        "url": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Forest of the Hanged, Wikipedia, on Bologa and the opening",
+        "url": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bologa-home-nasaud",
+    "name": "Bologa's home (near Năsăud)",
+    "progressLabel": "The homeland",
+    "character": "marta",
+    "coords": [24.48, 47.29],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Bologa's Romanian homeland is in Transylvania near Năsăud, drawn from Rebreanu's own region; the home village and his fiancée Marta are sited in that real countryside.",
+    "reference": "The homeland chapters",
+    "order": 2,
+    "note": "Back in his Transylvanian village, betrothed to Marta and raised to serve the Emperor, Bologa is a Romanian in an empire fighting Romania, a contradiction he has never had to feel until now. The home country, and the fiancée who cannot understand his crisis, embody the settled identity his conscience is about to shatter.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Năsăud and Transylvania",
+        "url": "https://en.wikipedia.org/wiki/N%C4%83s%C4%83ud"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Forest of the Hanged, Wikipedia, on Bologa's identity and Marta",
+        "url": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "transylvanian-front",
+    "name": "The Transylvanian front",
+    "progressLabel": "The crisis",
+    "character": "klapka",
+    "coords": [24.6, 47.4],
+    "placeCertainty": "explicit",
+    "certaintyNote": "When Romania enters the war, Bologa is transferred to the Transylvanian front to fight against Romanians; the real Carpathian border front is where his loyalty finally breaks.",
+    "reference": "The crisis chapters",
+    "order": 3,
+    "note": "Ordered to the front against his own people, and pushed further by the disillusioned fellow officer Klapka, Bologa can no longer reconcile his uniform with his blood. The Transylvanian front, where the guns face the country of his birth, is where the abstract question of loyalty becomes an unbearable daily choice.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Romanian Campaign (1916)",
+        "url": "https://en.wikipedia.org/wiki/Romanian_campaign_(World_War_I)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Forest of the Hanged, Wikipedia, on Klapka and the Transylvanian front",
+        "url": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-ilona",
+    "name": "The village (Ilona)",
+    "progressLabel": "The love",
+    "character": "ilona",
+    "coords": [24.55, 47.35],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Billeted in a village behind the Transylvanian front, Bologa falls in love with the peasant girl Ilona; the village is invented and sited in the real countryside behind the front.",
+    "reference": "The love chapters",
+    "order": 4,
+    "note": "In a village behind the lines Bologa finds, in his love for the simple peasant girl Ilona, a last human reason to live and to break with the war. Her tenderness stands against the machinery of duty and death, and makes his coming decision to desert both a betrayal and an act of faith.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Forest of the Hanged, Wikipedia, on Ilona",
+        "url": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-forest-execution",
+    "name": "The forest (the execution)",
+    "progressLabel": "The ending",
+    "character": "bologa",
+    "coords": [24.58, 47.38],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Caught trying to desert to the Romanian side, Bologa is court-martialled and hanged; the execution is sited near the Transylvanian front, closing the circle the Galician hanging opened.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "Bologa attempts to cross to the Romanians, is captured, and is condemned by the same military justice he once served, hanged as the Czech officer was hanged at the start. Rebreanu ends with the officer of conscience swinging from the gallows, the forest of the hanged now claiming the man who first approved of it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Forest of the Hanged, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "the-forest-of-the-hanged",
+  "title": "The Forest of the Hanged",
+  "author": "Liviu Rebreanu",
+  "published": 1922,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [24.55, 47.35],
+  "zoom": 9,
+  "setting": {
+    "city": "Transylvania",
+    "country": "RO",
+    "note": "Apostol Bologa, a Romanian officer in the Austro-Hungarian army of the First World War, sits on the court-martial that hangs a Czech deserter, and is then ordered to the Transylvanian front to fight against his fellow Romanians, until conscience and divided loyalty tear him apart. Rebreanu sets it between the far Galician front where the hangings begin and Bologa's Transylvanian homeland: his home village near Năsăud, the border front against Romania, and the forest where he too will hang.",
+    "bbox": [24.4, 47.25, 24.7, 47.45]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Romanian (Liviu Rebreanu, 1922) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The Forest of the Hanged, Liviu Rebreanu (1922). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the war and of the blood of the hanged, the gallows that open and close the book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "bologa": {
+      "name": "Apostol Bologa",
+      "color": "#2E5064"
+    },
+    "klapka": {
+      "name": "Klapka",
+      "color": "#2E6B4A"
+    },
+    "ilona": {
+      "name": "Ilona",
+      "color": "#8A6A12"
+    },
+    "marta": {
+      "name": "Marta",
+      "color": "#6B3B5A"
+    }
+  }
+}

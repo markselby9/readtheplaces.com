@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ninas-neighbourhood",
+    "name": "Nina's neighbourhood (Kypseli)",
+    "progressLabel": "Nina's story",
+    "character": "nina",
+    "coords": [23.735, 37.995],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The households of the two women are set in the middle-class Athens neighbourhoods such as Kypseli; the specific houses are invented and sited in those real districts.",
+    "reference": "Nina's chapters",
+    "order": 1,
+    "note": "From her apartment in the crowded, respectable neighbourhoods, Nina pours out the story of her marriages, her disappointments and her furious, loving friendship with Ekavi. Taktsis makes the ordinary Athenian household, its balconies, kitchens and quarrels, the stage for a whole society's passions.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kypseli, Athens",
+        "url": "https://en.wikipedia.org/wiki/Kypseli,_Athens"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Wedding, Wikipedia, on Nina and the setting",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Wedding"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ekavis-household",
+    "name": "Ekavi's household (Patissia)",
+    "progressLabel": "Ekavi's story",
+    "character": "ekavi",
+    "coords": [23.73, 38.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ekavi's household, the second centre of the book, is set in the Athens districts around Patissia; the house is invented and sited in that real part of the city.",
+    "reference": "Ekavi's chapters",
+    "order": 2,
+    "note": "The formidable Ekavi, thrice-married and endlessly resilient, rules her household through poverty, betrayals and the deaths of children with a ferocious life-force. Her voice, alternating with Nina's, gives the book its double vision of the same tangled events, and its unforgettable portrait of a woman who survives everything.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Patissia, Athens",
+        "url": "https://en.wikipedia.org/wiki/Patissia"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Wedding, Wikipedia, on Ekavi",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Wedding"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plaka-old-athens",
+    "name": "Plaka (old Athens)",
+    "progressLabel": "The city",
+    "character": "theodoros",
+    "coords": [23.728, 37.972],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The old quarter of Plaka beneath the Acropolis, a real district of Athens, belongs to the older city the families move through; sited in that historic neighbourhood.",
+    "reference": "The city chapters",
+    "order": 3,
+    "note": "Through the old streets of Plaka and the city beyond move the men of the story, among them Ekavi's difficult son Theodoros, whose marriage into Nina's family binds the two women for good. The ancient quarter under the rock of the Acropolis roots the domestic drama in the long, layered life of Athens.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Plaka, Athens",
+        "url": "https://en.wikipedia.org/wiki/Plaka"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Wedding, Wikipedia, on Theodoros and the families",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Wedding"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "occupation-athens",
+    "name": "Occupation Athens (the famine)",
+    "progressLabel": "The Occupation",
+    "character": "maria",
+    "coords": [23.727, 37.983],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The German Occupation of 1941–44 and the terrible Athens famine of that winter fall on the families; the real occupied city, where thousands starved, is the setting of the book's darkest chapters.",
+    "reference": "The Occupation chapters",
+    "order": 4,
+    "note": "During the Occupation the city starves, and the women scheme and scavenge to keep their children alive through the winter of the great famine. Taktsis threads the huge public catastrophe through the small private lives, the daughter Maria and the others growing up amid hunger, black-market bargains and death.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Great Famine (Greece), 1941–42",
+        "url": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Wedding, Wikipedia, on the Occupation",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Wedding"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "civil-war-athens",
+    "name": "Civil War Athens (Syntagma)",
+    "progressLabel": "The Civil War",
+    "character": "nina",
+    "coords": [23.735, 37.975],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The fighting of the Dekemvriana in December 1944 and the Civil War that followed tore through central Athens around Syntagma Square; the real events reach the families in the book's later chapters.",
+    "reference": "The Civil War chapters",
+    "order": 5,
+    "note": "As Liberation turns straight into the street battles of December 1944 and the Civil War, politics divides families and neighbours and the shooting comes to the central squares. Taktsis ends his double history with the women older and battered but unbroken, the wild continuity of family life carrying on through every public catastrophe.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dekemvriana, Athens, December 1944",
+        "url": "https://en.wikipedia.org/wiki/Dekemvriana"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Third Wedding, Wikipedia, on the Civil War and ending",
+        "url": "https://en.wikipedia.org/wiki/The_Third_Wedding"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
