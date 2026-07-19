@@ -1,0 +1,123 @@
+[
+  {
+    "id": "tollygunge-home",
+    "name": "The Tollygunge home",
+    "progressLabel": "Part 1",
+    "character": "udayan",
+    "coords": [88.343, 22.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The brothers grow up in a house in Tollygunge, a real southern neighbourhood of Calcutta; the specific house is invented and sited in that district.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "In the modest Tollygunge house, the cautious Subhash and the bolder, more brilliant Udayan grow up as near-twins, sharing everything. It is from here that Udayan is drawn into the Naxalite movement's dream of revolution, the path that will divide the brothers and destroy the family.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tollygunge, Kolkata",
+        "url": "https://en.wikipedia.org/wiki/Tollygunge"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Lowland, Wikipedia, on the brothers and Tollygunge",
+        "url": "https://en.wikipedia.org/wiki/The_Lowland"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-lowland-killing",
+    "name": "The lowland (the killing)",
+    "progressLabel": "Part 2",
+    "character": "subhash",
+    "coords": [88.344, 22.499],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Behind the house lies the low, flooded ground, its two ponds merging in the monsoon, where Udayan is captured and shot by the police; the lowland is the real, marshy feature that gives the book its title.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "In the lowland behind the house, before his wife and parents, Udayan is dragged from a hiding place and executed by the police for his Naxalite activities. The flooded ground, and the exact spot of his death, become the wound around which the rest of the novel, and the returning Subhash's whole later life, is organised.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Naxalite–Maoist insurgency and the Naxalbari movement",
+        "url": "https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Lowland, Wikipedia, on Udayan's death",
+        "url": "https://en.wikipedia.org/wiki/The_Lowland"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tolly-club",
+    "name": "The Tolly Club",
+    "progressLabel": "Part 1",
+    "character": "gauri",
+    "coords": [88.34, 22.495],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The walled, green Tolly Club, the real golf club of Tollygunge, borders the brothers' neighbourhood; as boys they sneak onto its forbidden grounds, and it stands for the colonial privilege the revolution attacks.",
+    "reference": "Part 1",
+    "order": 3,
+    "note": "The exclusive Tolly Club, its manicured golf course walled off beside the crowded neighbourhood, is where the boys trespass in childhood and where the era's inequalities lie plainest. It is the world Udayan burns to overthrow, and against which Gauri, drawn into his cause, first knows him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tollygunge Club, Kolkata",
+        "url": "https://en.wikipedia.org/wiki/Tollygunge_Club"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Lowland, Wikipedia, on the Tolly Club and Gauri",
+        "url": "https://en.wikipedia.org/wiki/The_Lowland"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rhode-island",
+    "name": "Rhode Island",
+    "progressLabel": "Part 3",
+    "character": "bela",
+    "coords": [-71.3, 41.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Subhash takes Udayan's pregnant widow Gauri to the coastal Rhode Island where he studies and settles; the real state is where much of the later book unfolds, far from the Calcutta setting.",
+    "reference": "Part 3",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In quiet, watery Rhode Island, Subhash raises Udayan's daughter Bela as his own after Gauri, unable to bear the weight of the past, abandons them. The American exile, built to escape the lowland's grief, only carries it across the ocean, the killing in Tollygunge shaping three lives on another continent for decades.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rhode Island",
+        "url": "https://en.wikipedia.org/wiki/Rhode_Island"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Lowland, Wikipedia, on Subhash, Gauri and Bela",
+        "url": "https://en.wikipedia.org/wiki/The_Lowland"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tollygunge-return",
+    "name": "Tollygunge (the return)",
+    "progressLabel": "Part 4",
+    "character": "subhash",
+    "coords": [88.342, 22.501],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel returns to Tollygunge and the lowland as the characters reckon, decades on, with Udayan's death; sited in the same real Calcutta neighbourhood where it began.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "Years later the survivors come back to Tollygunge and the filled-in lowland to face the truth of that morning and what it cost them all. Lahiri closes the long circle at the place of the killing, the marshy ground built over but never really gone, holding the whole family's buried grief.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Lowland, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Lowland"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

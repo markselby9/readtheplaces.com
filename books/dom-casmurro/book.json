@@ -1,0 +1,46 @@
+{
+  "id": "dom-casmurro",
+  "title": "Dom Casmurro",
+  "author": "Machado de Assis",
+  "published": 1899,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-43.185, -22.918],
+  "zoom": 13,
+  "setting": {
+    "city": "Rio de Janeiro",
+    "country": "BR",
+    "note": "The embittered old Bento Santiago, nicknamed Dom Casmurro, looks back on his boyhood love and marriage to the enigmatic Capitu, and on the jealousy, perhaps groundless, that convinced him she betrayed him with his best friend. Machado sets it in the real Rio of the Second Empire: the childhood house on Matacavalos and the wall between it and Capitu's, the seminary he is promised to, the church at Glória where his life turns, and the Flamengo shore where the sea takes his friend Escobar.",
+    "bbox": [-43.21, -22.94, -43.16, -22.9]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Portuguese (Machado de Assis, 1899) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Dom_Casmurro",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Dom Casmurro, Machado de Assis (1899). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The sea-blue of Capitu's famous undertow eyes, and of the ocean that drowns Escobar, the ambiguous depths the whole book turns on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "bento": {
+      "name": "Bento (Dom Casmurro)",
+      "color": "#4A4A4A"
+    },
+    "capitu": {
+      "name": "Capitu",
+      "color": "#8A2B1E"
+    },
+    "escobar": {
+      "name": "Escobar",
+      "color": "#2E6B4A"
+    },
+    "jose-dias": {
+      "name": "José Dias",
+      "color": "#8A6A12"
+    }
+  }
+}

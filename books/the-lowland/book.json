@@ -1,0 +1,46 @@
+{
+  "id": "the-lowland",
+  "title": "The Lowland",
+  "author": "Jhumpa Lahiri",
+  "published": 2013,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [88.342, 22.499],
+  "zoom": 13,
+  "setting": {
+    "city": "Calcutta",
+    "country": "IN",
+    "note": "Two inseparable brothers grow up in the Tollygunge neighbourhood of Calcutta, until the younger, Udayan, is drawn into the Naxalite revolution and killed in the lowland behind their home, and the elder, Subhash, marries his widow and takes her to America. Lahiri roots it in real Calcutta: the Tollygunge family house, the low flooded ground and its two ponds where Udayan dies, and the walled Tolly Club that borders their world; across the ocean lies the Rhode Island life Subhash builds on that grief.",
+    "bbox": [88.32, 22.48, 88.36, 22.51]
+  },
+  "rights": {
+    "originalWork": "In copyright. Jhumpa Lahiri, first published 2013. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Lowland",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Lowland, Jhumpa Lahiri (2013). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the lowland behind the house, the marshy ground and its two monsoon ponds where the killing happens and the book's grief pools. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "subhash": {
+      "name": "Subhash",
+      "color": "#2E5064"
+    },
+    "udayan": {
+      "name": "Udayan",
+      "color": "#8A2B1E"
+    },
+    "gauri": {
+      "name": "Gauri",
+      "color": "#6B3B5A"
+    },
+    "bela": {
+      "name": "Bela",
+      "color": "#8A6A12"
+    }
+  }
+}
