@@ -1,0 +1,113 @@
+[
+  {
+    "id": "kouroussa-compound",
+    "name": "Kouroussa (the family compound)",
+    "progressLabel": "Chapter 1",
+    "character": "the-boy",
+    "coords": [-9.88, 10.65],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Camara Laye grows up in the family compound in Kouroussa, a real town on the upper Niger in Guinea; the town is the fixed centre of the memoir.",
+    "reference": "Chapters 1-2",
+    "order": 1,
+    "note": "In the compound at Kouroussa the boy lives among his family, the trades and the beliefs of the Malinke world, watched over by customs he only half understands. Laye recalls it all with a tender, elegiac clarity, a childhood already being lost to the schooling and the modern world that will claim him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kouroussa, Guinea",
+        "url": "https://en.wikipedia.org/wiki/Kouroussa"
+      },
+      {
+        "kind": "guide",
+        "ref": "The African Child, Wikipedia, on Kouroussa and the memoir",
+        "url": "https://en.wikipedia.org/wiki/The_African_Child"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fathers-forge",
+    "name": "The father's forge",
+    "progressLabel": "Chapter 1",
+    "character": "father",
+    "coords": [-9.882, 10.651],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The boy's father is a goldsmith whose forge, with its guardian snake and its rituals, stands within the Kouroussa compound; sited there in the real town, the specific workshop the memoir's own.",
+    "reference": "Chapter 1",
+    "order": 2,
+    "note": "The father works gold at his forge with an authority that seems almost magical, aided by the little black snake, the guiding spirit of his line, that the boy watches with awe. The forge, and the mystery of the father's power over metal and men, is the memoir's central image of a traditional world the son will not inherit.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The African Child, Wikipedia, on the father and the forge",
+        "url": "https://en.wikipedia.org/wiki/The_African_Child"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tindican-village",
+    "name": "Tindican (the grandmother's village)",
+    "progressLabel": "Chapter 3",
+    "character": "grandmother",
+    "coords": [-9.92, 10.7],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The boy spends holidays at his grandmother's rice-farming village of Tindican; the village is drawn from the real farming settlements of the Kouroussa area and sited in that countryside.",
+    "reference": "Chapter 3",
+    "order": 3,
+    "note": "At Tindican the boy shares his grandmother's world of rice fields and harvest festivals, the communal reaping done to drums and song. The village, with its older, agrarian rhythms, is the memoir's vision of a whole way of life bound to the land, generous and joyful, already shadowed by change.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The African Child, Wikipedia, on Tindican and the harvest",
+        "url": "https://en.wikipedia.org/wiki/The_African_Child"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-initiation-grove",
+    "name": "The initiation grove",
+    "progressLabel": "Chapter 7",
+    "character": "the-boy",
+    "coords": [-9.875, 10.648],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The rites of passage, including circumcision, take the boys to a sacred grove outside the town; sited in the bush near Kouroussa, the specific grove the memoir's own.",
+    "reference": "Chapters 6-7",
+    "order": 4,
+    "note": "The terrifying, transforming rites of manhood, the night of Kondén Diara and the circumcision in the grove, carry the boy across the threshold into adulthood and deeper into his people's traditions. Laye renders the fear and the belonging of the ceremonies with great care, just as they begin to loosen their hold on his generation.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The African Child, Wikipedia, on the initiation rites",
+        "url": "https://en.wikipedia.org/wiki/The_African_Child"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "conakry-college",
+    "name": "Conakry (the college)",
+    "progressLabel": "Chapters 11-12",
+    "character": "mother",
+    "coords": [-13.71, 9.51],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The boy leaves for technical college in Conakry, the real coastal capital of Guinea, and from there for France; sited on the coast, far from the inland town of his childhood.",
+    "reference": "Chapters 11-12",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "School carries the boy first to Conakry on the coast and then toward France, each step widening the distance from his mother, his father's forge and the world of Kouroussa. The memoir ends on his mother's grief and a plane ticket, the whole tender book an act of remembering a childhood the modern world required him to leave.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Conakry, Guinea",
+        "url": "https://en.wikipedia.org/wiki/Conakry"
+      },
+      {
+        "kind": "guide",
+        "ref": "The African Child, Wikipedia, on Conakry and leaving",
+        "url": "https://en.wikipedia.org/wiki/The_African_Child"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

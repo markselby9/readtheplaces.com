@@ -1,0 +1,46 @@
+{
+  "id": "odessa-stories",
+  "title": "Odessa Stories",
+  "author": "Isaac Babel",
+  "published": 1931,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [30.73, 46.48],
+  "zoom": 13,
+  "setting": {
+    "city": "Odessa",
+    "country": "UA",
+    "note": "Babel's dazzling stories bring to life the Jewish underworld of Odessa in the years around the Revolution, above all the flamboyant gangster king Benya Krik. The real city is their stage: the Moldavanka, the poor Jewish quarter that is the gangsters' realm, the bustling port and its draymen, the taverns where the raids are planned, and the bourgeois centre along Deribasovskaya that the King's men so gorgeously rob.",
+    "bbox": [30.7, 46.45, 30.77, 46.5]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Russian (Isaac Babel, 1920s–31) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Odessa_Tales",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Odessa Stories, Isaac Babel (1931). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of Babel's sun and blood, the vivid violence and colour of the Moldavanka's gangster world. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "benya-krik": {
+      "name": "Benya Krik",
+      "color": "#8A6A12"
+    },
+    "froim-grach": {
+      "name": "Froim Grach",
+      "color": "#4A4A4A"
+    },
+    "lyubka": {
+      "name": "Lyubka",
+      "color": "#6B3B5A"
+    },
+    "the-boy": {
+      "name": "The boy",
+      "color": "#2E5064"
+    }
+  }
+}

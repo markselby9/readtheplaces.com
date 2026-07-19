@@ -1,0 +1,46 @@
+{
+  "id": "the-dark-child",
+  "title": "The Dark Child",
+  "author": "Camara Laye",
+  "published": 1953,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-9.88, 10.66],
+  "zoom": 10,
+  "setting": {
+    "city": "Kouroussa",
+    "country": "GN",
+    "note": "Camara Laye's luminous memoir recalls a Malinke boyhood in the Upper Guinea town of Kouroussa, before the pull of French schooling carries him away. The world of the book is the town on the Niger: the family compound and his father's goldsmith forge with its guardian snake, the grandmother's rice-farming village of Tindican, and the sacred grove of the initiation rites; far off on the coast lies Conakry, the college, and the road to France.",
+    "bbox": [-9.95, 10.62, -9.85, 10.72]
+  },
+  "rights": {
+    "originalWork": "In copyright. Camara Laye, first published 1953 (L'Enfant noir). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_African_Child",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Dark Child, Camara Laye (1953). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold the father works at his forge, the totemic metal at the warm heart of the boyhood the memoir recalls. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-boy": {
+      "name": "The boy",
+      "color": "#2E5064"
+    },
+    "father": {
+      "name": "The father",
+      "color": "#8A3B1E"
+    },
+    "mother": {
+      "name": "The mother",
+      "color": "#8A2B1E"
+    },
+    "grandmother": {
+      "name": "The grandmother",
+      "color": "#2E6B4A"
+    }
+  }
+}
