@@ -1,0 +1,123 @@
+[
+  {
+    "id": "gros-islet-village",
+    "name": "Gros Islet (the village)",
+    "progressLabel": "Book One",
+    "character": "achille",
+    "coords": [-60.952, 14.082],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The fishermen of the poem live in a St Lucian village drawn from Gros Islet on the island's north coast, a real fishing settlement; sited there.",
+    "reference": "Book One",
+    "order": 1,
+    "note": "In the fishing village the men fell the trees to make their canoes and put out to sea, and Achille and Hector, friends turned rivals, fall out over the beautiful Helen. Walcott begins in the ordinary life of a St Lucian village, and lets its fishermen carry the weight of Homer's heroes without ever ceasing to be themselves.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gros Islet, St Lucia",
+        "url": "https://en.wikipedia.org/wiki/Gros_Islet"
+      },
+      {
+        "kind": "guide",
+        "ref": "Omeros, Wikipedia, on Achille, Hector and Helen",
+        "url": "https://en.wikipedia.org/wiki/Omeros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-sea",
+    "name": "The sea",
+    "progressLabel": "The fishermen",
+    "character": "achille",
+    "coords": [-60.93, 14.08],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The waters off St Lucia where the fishermen work their canoes are the poem's central element; sited in the coastal sea of the island setting.",
+    "reference": "The fishing chapters",
+    "order": 2,
+    "note": "Out on the water Achille casts his nets and reads the swells, the sea both livelihood and myth, the same wine-dark element that bore the Greeks. It is here, in a sunstruck vision on the water, that Achille will make his imagined voyage back across the Atlantic to the Africa of his ancestors.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Omeros, Wikipedia, on the sea and the fishing",
+        "url": "https://en.wikipedia.org/wiki/Omeros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "castries",
+    "name": "Castries",
+    "progressLabel": "The capital",
+    "character": "helen",
+    "coords": [-60.99, 14.01],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Castries, the real capital of St Lucia, is the island's town, where Helen seeks work and the colonial and modern worlds meet; sited at the city.",
+    "reference": "The Castries chapters",
+    "order": 3,
+    "note": "In Castries, the island's capital, Helen looks for work as a housemaid and the world of the English settlers, the Plunketts, touches that of the fishermen. Walcott, who was born in the town, sets against the village the small colonial capital, and through Helen makes her the island's own contested beauty.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Castries, St Lucia",
+        "url": "https://en.wikipedia.org/wiki/Castries"
+      },
+      {
+        "kind": "guide",
+        "ref": "Omeros, Wikipedia, on Castries and Helen",
+        "url": "https://en.wikipedia.org/wiki/Omeros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-pitons",
+    "name": "The Pitons",
+    "progressLabel": "The island's heart",
+    "character": "philoctete",
+    "coords": [-61.06, 13.85],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pitons and the volcanic country around Soufrière, the island's dramatic real landmark, stand at the heart of the poem's St Lucia; sited in the south of the island.",
+    "reference": "The healing chapters",
+    "order": 4,
+    "note": "Beneath the volcanic Pitons and the sulphur springs of Soufrière, the wounded fisherman Philoctete is at last healed by the herb-woman Ma Kilman, his festering sore an emblem of slavery's inherited wound. In the island's oldest landscape Walcott sets the poem's deepest theme, the healing of a history that still aches in the body.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pitons Management Area (UNESCO World Heritage Site)",
+        "url": "https://en.wikipedia.org/wiki/Pitons"
+      },
+      {
+        "kind": "guide",
+        "ref": "Omeros, Wikipedia, on Philoctete's wound and healing",
+        "url": "https://en.wikipedia.org/wiki/Omeros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "achilles-africa",
+    "name": "Achille's Africa",
+    "progressLabel": "The Middle Passage",
+    "character": "achille",
+    "coords": [-16.5, 14.7],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "In a sunstruck vision Achille journeys back across the Atlantic to the West African homeland of his enslaved ancestors; the ancestral Africa is sited on the West African coast, far outside the St Lucia setting.",
+    "reference": "The Africa chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "In his fever-vision Achille crosses the ocean to the African village of his forefather Afolabe, and witnesses the slave-raid that carried his people into bondage. Walcott sends his fisherman back down the Middle Passage to recover the name and the origin that slavery erased, binding the little island to the vast history that made it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Atlantic slave trade and the Middle Passage",
+        "url": "https://en.wikipedia.org/wiki/Middle_Passage"
+      },
+      {
+        "kind": "guide",
+        "ref": "Omeros, Wikipedia, on Achille's vision of Africa",
+        "url": "https://en.wikipedia.org/wiki/Omeros"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

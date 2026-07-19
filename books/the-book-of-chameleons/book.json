@@ -1,0 +1,46 @@
+{
+  "id": "the-book-of-chameleons",
+  "title": "The Book of Chameleons",
+  "author": "José Eduardo Agualusa",
+  "published": 2004,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [13.23, -8.81],
+  "zoom": 12,
+  "setting": {
+    "city": "Luanda",
+    "country": "AO",
+    "note": "In a crumbling house in Luanda, Félix Ventura makes his living selling invented pasts and distinguished genealogies to Angola's new bourgeoisie, watched over by the narrator, a gecko on the wall who was once a man. When a stranger buys a whole new identity, the fabricated past collides with the real, violent history of the civil war. Agualusa sets his sly, dreamlike novel in the real Luanda: the decaying villa, the city of the newly powerful, and the buried wartime crimes that surface through the lies.",
+    "bbox": [13.18, -8.86, 13.28, -8.76]
+  },
+  "rights": {
+    "originalWork": "In copyright. José Eduardo Agualusa, first published 2004 (O Vendedor de Passados). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Book_of_Chameleons",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Book of Chameleons, José Eduardo Agualusa (2004). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The shifting green of the chameleon and the wall-gecko who tells the tale, the colour of a creature that becomes whatever it needs to be, like the pasts Félix sells. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "felix": {
+      "name": "Félix Ventura",
+      "color": "#4A4A4A"
+    },
+    "eulalio": {
+      "name": "Eulálio",
+      "color": "#8A6A12"
+    },
+    "jose-buchmann": {
+      "name": "José Buchmann",
+      "color": "#2E5064"
+    },
+    "angela": {
+      "name": "Ângela Lúcia",
+      "color": "#6B3B5A"
+    }
+  }
+}
