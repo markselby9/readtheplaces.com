@@ -1,0 +1,127 @@
+[
+  {
+    "id": "the-family-house",
+    "name": "The house on Palace Walk",
+    "progressLabel": "The household",
+    "character": "amina",
+    "coords": [31.262, 30.052],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The family house stands on Bayn al-Qasrayn (Palace Walk), a real street in the historic Gamaliya quarter of Cairo that gives the novel its title; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "In the tall house on Palace Walk, Amina keeps a household run to her husband's iron rule, rising each night to wait up for him and never once permitted to leave the door. Mahfouz opens in this world of women behind the mashrabiya screens, its rhythms of prayer, coffee and obedience, the confined centre against which every rebellion in the book will push.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bayn al-Qasrayn and the Gamaliya quarter, Cairo",
+        "url": "https://en.wikipedia.org/wiki/Al-Muizz_Street"
+      },
+      {
+        "kind": "guide",
+        "ref": "Palace Walk, Wikipedia, on Amina and the household",
+        "url": "https://en.wikipedia.org/wiki/Palace_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-shop",
+    "name": "The merchant's shop",
+    "progressLabel": "The father's rule",
+    "character": "al-sayyid-ahmad",
+    "coords": [31.261, 30.048],
+    "placeCertainty": "explicit",
+    "certaintyNote": "al-Sayyid Ahmad runs a grocery and provisions store in the commercial heart of old Cairo near Khan el-Khalili; the shop is sited in that district.",
+    "reference": "The shop chapters",
+    "order": 2,
+    "note": "By day al-Sayyid Ahmad presides genially over his store in the bustling commercial lanes, the respected merchant whose warmth to friends and customers is the mask of the domestic tyrant. Mahfouz splits his patriarch cleanly in two, the beloved man of the marketplace and the feared master of the house, and makes that hypocrisy the engine of the family's drama.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Khan el-Khalili bazaar, Cairo",
+        "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili"
+      },
+      {
+        "kind": "guide",
+        "ref": "Palace Walk, Wikipedia, on al-Sayyid Ahmad",
+        "url": "https://en.wikipedia.org/wiki/Palace_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "al-husayn-mosque",
+    "name": "The mosque of al-Husayn",
+    "progressLabel": "Amina's outing",
+    "character": "amina",
+    "coords": [31.263, 30.0485],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mosque of al-Husayn, a real and revered shrine at the heart of the quarter, is the destination of Amina's rare, forbidden outing; sited there.",
+    "reference": "Amina's excursion",
+    "order": 3,
+    "note": "When her husband is away, Amina at last dares to walk the short distance to pray at the mosque of al-Husayn, the sacred heart of her quarter she has never been allowed to visit. The small outing, and the accident and disgrace that follow, become a quiet catastrophe, measuring the terrible narrowness of the world she is permitted.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Al-Hussein Mosque, Cairo",
+        "url": "https://en.wikipedia.org/wiki/Al-Hussein_Mosque"
+      },
+      {
+        "kind": "guide",
+        "ref": "Palace Walk, Wikipedia, on Amina's outing",
+        "url": "https://en.wikipedia.org/wiki/Palace_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-night-world",
+    "name": "The night world",
+    "progressLabel": "The pleasures",
+    "character": "yasin",
+    "coords": [31.245, 30.055],
+    "placeCertainty": "inferred",
+    "certaintyNote": "al-Sayyid Ahmad's and his son Yasin's secret nights of music, drink and courtesans are drawn from the entertainment district around Ezbekiyya in early-twentieth-century Cairo; sited there.",
+    "reference": "The night chapters",
+    "order": 4,
+    "note": "Away from the house, the father and his sensual elder son Yasin pursue their nights of singing-girls, wine and lovers in the pleasure quarters of the city. Mahfouz draws the vivid demimonde of old Cairo, and lets the appetites that the patriarch forbids his family run freely in the very men who impose the rule.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ezbekiyya, Cairo",
+        "url": "https://en.wikipedia.org/wiki/Ezbekiyya"
+      },
+      {
+        "kind": "guide",
+        "ref": "Palace Walk, Wikipedia, on Yasin and the night world",
+        "url": "https://en.wikipedia.org/wiki/Palace_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-1919-revolution",
+    "name": "The 1919 revolution",
+    "progressLabel": "The uprising",
+    "character": "fahmy",
+    "coords": [31.255, 30.045],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The 1919 Egyptian revolution against British rule, with its demonstrations and clashes in the streets of Cairo, is the real historical event that closes the novel; sited in the city's streets.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "As Egypt rises against the British in 1919, the idealistic student son Fahmy throws himself into the demonstrations against his father's furious command, and is shot dead in a peaceful march. Mahfouz binds the family's private tragedy to the nation's awakening, the patriarch's authority and the empire's alike beginning to crack in the same convulsive year.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Egyptian Revolution of 1919",
+        "url": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1919"
+      },
+      {
+        "kind": "guide",
+        "ref": "Palace Walk, Wikipedia, on Fahmy and the 1919 revolution",
+        "url": "https://en.wikipedia.org/wiki/Palace_Walk"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

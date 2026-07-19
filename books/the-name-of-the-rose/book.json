@@ -1,0 +1,46 @@
+{
+  "id": "the-name-of-the-rose",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "published": 1980,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [9.0, 44.4],
+  "zoom": 11,
+  "setting": {
+    "city": "a northern Italian abbey",
+    "country": "IT",
+    "note": "In 1327 the Franciscan friar William of Baskerville and his young novice Adso arrive at a rich Benedictine abbey in the mountains of northern Italy, where a series of deaths draws them into a labyrinthine library and a deadly secret about a forbidden book. Eco sets his medieval murder mystery at an unnamed monastery in the Ligurian Apennines: the scriptorium where the monks illuminate manuscripts, the great fortress-library of the Aedificium, the church and grounds, and the Inquisition that arrives to twist the search for truth.",
+    "bbox": [8.9, 44.3, 9.1, 44.5]
+  },
+  "rights": {
+    "originalWork": "In copyright. Umberto Eco, first published 1980 (Il nome della rosa). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Name of the Rose, Umberto Eco (1980). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold-leaf of the illuminated manuscripts the abbey guards and copies, the treasure and the danger at the heart of the mystery. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "william": {
+      "name": "William",
+      "color": "#2E5064"
+    },
+    "adso": {
+      "name": "Adso",
+      "color": "#2E6B4A"
+    },
+    "jorge": {
+      "name": "Jorge",
+      "color": "#4A4A4A"
+    },
+    "bernard-gui": {
+      "name": "Bernard Gui",
+      "color": "#8A2B1E"
+    }
+  }
+}

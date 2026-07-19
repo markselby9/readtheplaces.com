@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-abbey",
+    "name": "The abbey",
+    "progressLabel": "First day",
+    "character": "adso",
+    "coords": [9.0, 44.4],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The wealthy Benedictine abbey is unnamed in the novel, located by Eco in the mountains of northern Italy between Provence and the Ligurian coast; it is sited in that Apennine region.",
+    "reference": "The first day",
+    "order": 1,
+    "note": "William and Adso climb to a great Benedictine abbey perched in the mountains, wealthy, austere and already uneasy, where a young illuminator has just died in suspicious circumstances. Eco builds his whole world within these walls, a self-contained medieval universe of monks, relics, rivalries and rules into which the outsider William brings the disturbing light of reason.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Medieval Benedictine monasteries",
+        "url": "https://en.wikipedia.org/wiki/Benedictines"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Name of the Rose, Wikipedia, on the abbey and William",
+        "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-scriptorium",
+    "name": "The scriptorium",
+    "progressLabel": "The deaths",
+    "character": "william",
+    "coords": [9.001, 44.401],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The scriptorium where the monks copy and illuminate manuscripts, and where several die, is drawn from the writing rooms of medieval abbeys; sited within the abbey.",
+    "reference": "The middle days",
+    "order": 2,
+    "note": "In the scriptorium the monks bend over their copying and illumination, and one by one the men who work there begin to die, each death seemingly patterned on the visions of the Apocalypse. As William reads the clues among the desks and inks, the room of learning becomes the scene of a mystery whose solution lies locked above it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Scriptorium",
+        "url": "https://en.wikipedia.org/wiki/Scriptorium"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Name of the Rose, Wikipedia, on the scriptorium deaths",
+        "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-library",
+    "name": "The library (the Aedificium)",
+    "progressLabel": "The labyrinth",
+    "character": "jorge",
+    "coords": [9.002, 44.402],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The great fortress-library of the Aedificium, a labyrinth open only to the librarian, is Eco's invention drawn from the libraries of medieval monasteries; sited within the abbey.",
+    "reference": "The library chapters",
+    "order": 3,
+    "note": "At the abbey's heart rises the Aedificium, a labyrinthine library no monk may enter, guarded most fiercely by the blind old Jorge of Burgos. The deaths, William realises, all lead back to a single forbidden book hidden in the maze, and the mystery becomes a duel over whether knowledge, and laughter, should be free or locked away.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Aristotle's lost Second Book of Poetics (on comedy)",
+        "url": "https://en.wikipedia.org/wiki/Poetics_(Aristotle)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Name of the Rose, Wikipedia, on the library and Jorge",
+        "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-church",
+    "name": "The church and the tribunal",
+    "progressLabel": "The Inquisition",
+    "character": "bernard-gui",
+    "coords": [8.999, 44.399],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The abbey church and the hall where the inquisitor Bernard Gui holds his tribunal are drawn from the settings of the medieval Inquisition; sited within the abbey.",
+    "reference": "The Inquisition chapters",
+    "order": 4,
+    "note": "When the inquisitor Bernard Gui arrives, the search for a murderer curdles into a heresy trial, and reason gives way to torture and the pyre. Eco sets against William's patient inquiry the terrible certainty of the Inquisition, which cares less for truth than for a confession that fits its fears.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bernard Gui and the Medieval Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Bernard_Gui"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Name of the Rose, Wikipedia, on Bernard Gui and the tribunal",
+        "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-fire",
+    "name": "The fire",
+    "progressLabel": "The seventh day",
+    "character": "william",
+    "coords": [9.0, 44.4005],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The catastrophic fire that consumes the library and the abbey closes the novel; sited within the abbey of the setting.",
+    "reference": "The seventh day",
+    "order": 5,
+    "note": "In the final confrontation in the labyrinth, Jorge would rather destroy the forbidden book, and himself, than let it be read, and the toppled lamp sets the whole library ablaze. Eco ends with the abbey burning for days, its treasures lost, and William's grim lesson that even the defence of truth can breed a fatal, murderous certainty.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Name of the Rose, Wikipedia, on the fire and the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
