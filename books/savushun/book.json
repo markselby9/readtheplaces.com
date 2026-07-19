@@ -1,0 +1,46 @@
+{
+  "id": "savushun",
+  "title": "Savushun",
+  "author": "Simin Daneshvar",
+  "published": 1969,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [52.53, 29.61],
+  "zoom": 11,
+  "setting": {
+    "city": "Shiraz",
+    "country": "IR",
+    "note": "In Shiraz during the Allied occupation of Iran in the Second World War, Zari watches her idealistic landowner husband Yusof refuse to sell his grain to the foreign army while famine and intrigue close in around their family. The first novel by an Iranian woman, and one of the most beloved in Persian, Daneshvar's Savushun maps a real Fars: the city and the family house and garden, the estates and villages Yusof will not betray, the restless tribes, and the mourning that gives the book its name.",
+    "bbox": [52.35, 29.45, 52.7, 29.75]
+  },
+  "rights": {
+    "originalWork": "In copyright. Simin Daneshvar, first published 1969 (Savushun). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Savushun",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Savushun, Simin Daneshvar (1969). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of Siyavash the martyr, whose mourning ritual gives the book its title, and of the fields Yusof will die rather than surrender. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "zari": {
+      "name": "Zari",
+      "color": "#6B3B5A"
+    },
+    "yusof": {
+      "name": "Yusof",
+      "color": "#8A2B1E"
+    },
+    "khan-kaka": {
+      "name": "Khan Kaka",
+      "color": "#4A4A4A"
+    },
+    "the-colonel": {
+      "name": "The colonel",
+      "color": "#8A6A12"
+    }
+  }
+}

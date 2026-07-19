@@ -1,0 +1,46 @@
+{
+  "id": "the-moors-last-sigh",
+  "title": "The Moor's Last Sigh",
+  "author": "Salman Rushdie",
+  "published": 1995,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [76.26, 9.96],
+  "zoom": 12,
+  "setting": {
+    "city": "Cochin",
+    "country": "IN",
+    "note": "Moraes 'Moor' Zogoiby narrates the fall of his family, the fabulously mixed da Gama-Zogoiby spice dynasty of Cochin, from the pepper warehouses and the old Jewish quarter of Mattancherry to the art and gangland of Bombay, and at last to an exile in Andalusia that rhymes with the fall of Moorish Granada. Rushdie roots the saga in a real south India: the spice trade of Cochin, the Paradesi synagogue, the harbour of Vasco da Gama's landfall, and the far cities to which the family's ruin carries the Moor.",
+    "bbox": [76.2, 9.9, 76.32, 10.02]
+  },
+  "rights": {
+    "originalWork": "In copyright. Salman Rushdie, first published 1995. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Moor's Last Sigh, Salman Rushdie (1995). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold-brown of pepper and spice, the trade the da Gama-Zogoibys are built on, shot through with the melancholy of the Moor's long sigh. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "moraes": {
+      "name": "Moraes",
+      "color": "#4A4A4A"
+    },
+    "aurora": {
+      "name": "Aurora",
+      "color": "#8A2B1E"
+    },
+    "abraham": {
+      "name": "Abraham",
+      "color": "#2E5064"
+    },
+    "vasco-miranda": {
+      "name": "Vasco Miranda",
+      "color": "#6B3B5A"
+    }
+  }
+}

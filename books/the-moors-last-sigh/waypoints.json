@@ -1,0 +1,129 @@
+[
+  {
+    "id": "the-spice-house",
+    "name": "The spice house",
+    "progressLabel": "The dynasty",
+    "character": "abraham",
+    "coords": [76.262, 9.962],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The da Gama-Zogoiby fortune is built on the pepper and spice trade of Cochin, the real port of Kerala; the family warehouses are sited in the old spice quarter of the city.",
+    "reference": "The Cochin chapters",
+    "order": 1,
+    "note": "In the pepper warehouses of Cochin the da Gama-Zogoiby dynasty amasses its spice fortune, and the family's tangled loves and feuds begin. Rushdie opens amid the sacks of cardamom and the ledgers of the trade that first drew the world to this coast, the ground from which his sprawling family epic grows.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kochi (Cochin) and the spice trade",
+        "url": "https://en.wikipedia.org/wiki/Kochi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Moor's Last Sigh, Wikipedia, on the Cochin spice family",
+        "url": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mattancherry-synagogue",
+    "name": "The Mattancherry synagogue",
+    "progressLabel": "The Zogoibys",
+    "character": "moraes",
+    "coords": [76.259, 9.958],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Zogoiby side of the family belongs to Cochin's ancient Jewish community of Mattancherry, home to the real Paradesi Synagogue; sited there.",
+    "reference": "The Mattancherry chapters",
+    "order": 2,
+    "note": "In the old Jewish quarter of Mattancherry, around the blue-tiled Paradesi Synagogue, the Zogoiby line traces its descent, half legend, back to the last sultan of Granada. Rushdie draws on Cochin's genuinely ancient, dwindling Jewish community to give the Moor his mixed and haunted inheritance of exile.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Paradesi Synagogue, Mattancherry",
+        "url": "https://en.wikipedia.org/wiki/Paradesi_Synagogue"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Moor's Last Sigh, Wikipedia, on the Zogoibys and Granada",
+        "url": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-harbour",
+    "name": "The harbour",
+    "progressLabel": "The sea trade",
+    "character": "abraham",
+    "coords": [76.25, 9.97],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The harbour of Cochin, where Vasco da Gama landed and the spice ships came and went, is the real gateway on which the family's trade depends; sited at the port.",
+    "reference": "The Cochin chapters",
+    "order": 3,
+    "note": "At the harbour mouth, guarded by the Chinese fishing nets and haunted by the memory of Vasco da Gama, the spice ships carry the family's wealth out into the world. The sea that made Cochin a meeting place of Arabs, Jews, Portuguese and Indians is the source of the mongrel, many-layered India the Moor celebrates and mourns.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fort Kochi and the Chinese fishing nets",
+        "url": "https://en.wikipedia.org/wiki/Fort_Kochi"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Moor's Last Sigh, Wikipedia, on Cochin and the sea trade",
+        "url": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bombay",
+    "name": "Bombay",
+    "progressLabel": "The city",
+    "character": "aurora",
+    "coords": [72.83, 18.96],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The family moves to Bombay, the real metropolis, where Aurora becomes a great painter and the Moor is drawn into the city's art world and gangland; sited there, far from the Cochin setting.",
+    "reference": "The Bombay chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In Bombay the Moor's mother Aurora reigns as a fearless painter and the family fortune shifts into the city's art, money and crime, up to the communal riots that tear it apart. Rushdie's Bombay is the whole plural nation in miniature, brilliant and combustible, and its poisoning by sectarian hatred is the book's central grief.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mumbai (Bombay)",
+        "url": "https://en.wikipedia.org/wiki/Mumbai"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Moor's Last Sigh, Wikipedia, on Aurora and Bombay",
+        "url": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "benengeli-andalusia",
+    "name": "Benengeli, Andalusia",
+    "progressLabel": "The last sigh",
+    "character": "vasco-miranda",
+    "coords": [-3.6, 37.18],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Moor's final exile is to the invented Andalusian village of Benengeli, drawn from the real Spanish south around Granada; sited in Andalusia, far outside the Cochin setting.",
+    "reference": "The Spanish chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "The ruined Moor ends his story in the Andalusian village of Benengeli, held captive in the painter Vasco Miranda's mad fortress, beneath the shadow of Moorish Granada's fall. The title's 'last sigh', Boabdil's grief at surrendering the Alhambra, becomes the Moor's own, and India's, as one more many-cultured world is lost to fanaticism.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fall of Granada and the sigh of Boabdil",
+        "url": "https://en.wikipedia.org/wiki/Muhammad_XII_of_Granada"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Moor's Last Sigh, Wikipedia, on Benengeli and the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Moor%27s_Last_Sigh"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
