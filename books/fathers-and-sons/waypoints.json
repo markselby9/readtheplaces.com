@@ -1,0 +1,107 @@
+[
+  {
+    "id": "maryino",
+    "name": "Maryino",
+    "progressLabel": "The homecoming",
+    "character": "arkady",
+    "coords": [37.0, 52.7],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Maryino, the Kirsanov family estate to which Arkady brings Bazarov, is a fictional estate drawn from the landed provinces of central Russia; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "At the Kirsanov estate of Maryino, Arkady's kindly, ineffectual father and his elegant, conservative uncle Pavel receive the graduates, and the abrasive Bazarov at once sets the household on edge. Turgenev opens the generational quarrel here, the mild liberal fathers of the 1840s baffled and affronted by the sons' cold, iconoclastic nihilism.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Russian landed gentry",
+        "url": "https://en.wikipedia.org/wiki/Russian_nobility"
+      },
+      {
+        "kind": "guide",
+        "ref": "Fathers and Sons, Wikipedia, on Maryino and the Kirsanovs",
+        "url": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-provincial-town",
+    "name": "The provincial town",
+    "progressLabel": "Society",
+    "character": "pavel",
+    "coords": [37.2, 52.8],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The nearby provincial town, with its governor and society, is drawn from the district capitals of rural Russia; sited near the estates of the setting.",
+    "reference": "The town chapters",
+    "order": 2,
+    "note": "In the provincial town the young men encounter local society and the fashionable pseudo-radicals Bazarov despises even more than the old order. Turgenev widens his portrait of Russia at a hinge of history, sketching the cranks and poseurs of provincial progress against whom Bazarov's fierce sincerity, for all its coldness, stands out.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fathers and Sons, Wikipedia, on the provincial society",
+        "url": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nikolskoye",
+    "name": "Nikolskoye",
+    "progressLabel": "Odintsova",
+    "character": "odintsova",
+    "coords": [37.5, 52.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Nikolskoye, the estate of the wealthy widow Anna Odintsova, is a fictional country house drawn from the great estates of provincial Russia; sited in the setting.",
+    "reference": "The Nikolskoye chapters",
+    "order": 3,
+    "note": "At the elegant estate of Nikolskoye, the cool, self-possessed widow Anna Odintsova draws out of Bazarov the passion his creed denies, and his humiliating discovery that he can love undoes the whole edifice of his reason. Turgenev sets the nihilist's defeat not in argument but in feeling, the heart he dismissed as nonsense proving stronger than his philosophy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fathers and Sons, Wikipedia, on Bazarov and Odintsova",
+        "url": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bazarovs-farm",
+    "name": "Bazarov's home",
+    "progressLabel": "The parents",
+    "character": "bazarov",
+    "coords": [36.8, 52.3],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The modest farm of Bazarov's old parents, an army doctor and his pious wife, is drawn from the small estates of the minor gentry; sited in the setting.",
+    "reference": "The parents' chapters",
+    "order": 4,
+    "note": "At his parents' humble farm, the retired army doctor and his adoring, fearful mother lavish on Bazarov a tenderness he cannot bring himself to return without embarrassment. Turgenev's most moving chapters lie here, the gulf between the loving old people and their brilliant, cold son measuring exactly what the new hardness costs.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fathers and Sons, Wikipedia, on Bazarov's parents",
+        "url": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bazarovs-death",
+    "name": "Bazarov's grave",
+    "progressLabel": "The ending",
+    "character": "bazarov",
+    "coords": [36.81, 52.31],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Bazarov dies of typhus contracted from a dissection and is buried near his parents' home; the grave is sited at the family farm in the setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "Bazarov cuts himself dissecting a typhus victim and dies young of the infection, meeting his end with a bleak courage as his broken parents tend his grave. Turgenev closes not on the triumph of any creed but on the old people kneeling at the mound, and on the nettles and flowers growing over a passionate, mistaken young man, reconciling fathers and sons only in grief.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Fathers and Sons, Wikipedia, on Bazarov's death",
+        "url": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

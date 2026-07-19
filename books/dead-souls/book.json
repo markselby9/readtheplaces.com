@@ -1,0 +1,46 @@
+{
+  "id": "dead-souls",
+  "title": "Dead Souls",
+  "author": "Nikolai Gogol",
+  "published": 1842,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [36.0, 52.0],
+  "zoom": 7,
+  "setting": {
+    "city": "provincial Russia",
+    "country": "RU",
+    "note": "The smooth swindler Chichikov travels the Russian provinces buying up 'dead souls', serfs who have died but still count on the tax rolls, in a scheme to mortgage them for a fortune, and in doing so exposes a whole gallery of grotesque landowners. Gogol maps a satirical but recognisable Russia: the provincial town where Chichikov charms the officials, the estates of the misers and dreamers he visits, and the endless road along which his carriage rolls.",
+    "bbox": [34.5, 51.0, 38.0, 53.5]
+  },
+  "rights": {
+    "originalWork": "Public domain. Nikolai Gogol (d. 1852), first published 1842 (Myortvye dushi). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Dead_Souls",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Dead Souls, Nikolai Gogol (1842). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The tarnished gold of Chichikov's dream of easy riches, the acquisitive glitter Gogol turns into a mirror for a whole society's moral deadness. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "chichikov": {
+      "name": "Chichikov",
+      "color": "#2E5064"
+    },
+    "manilov": {
+      "name": "Manilov",
+      "color": "#2E6B4A"
+    },
+    "sobakevich": {
+      "name": "Sobakevich",
+      "color": "#4A4A4A"
+    },
+    "plyushkin": {
+      "name": "Plyushkin",
+      "color": "#8A2B1E"
+    }
+  }
+}
