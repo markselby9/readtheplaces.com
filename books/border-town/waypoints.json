@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-ferry-crossing",
+    "name": "The ferry crossing",
+    "progressLabel": "Chapter 1",
+    "character": "grandfather",
+    "coords": [109.55, 28.53],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The old ferryman and Cuicui work a rope ferry across the stream by the town of Chadong; the crossing is drawn from the real river ferries of far West Hunan and sited there, near the border with Sichuan.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "For fifty years the old ferryman has pulled travellers across the green river on his rope ferry, taking no pay he can help, and raising his orphaned granddaughter Cuicui in the little hut beside it. The crossing, humble and faithful, is the still centre of Shen's vision of a simple, decent world already passing away.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "West Hunan (Xiangxi) and Chadong",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Border Town, Wikipedia, on the ferryman and Cuicui",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-white-pagoda",
+    "name": "The white pagoda",
+    "progressLabel": "The town",
+    "character": "cuicui",
+    "coords": [109.552, 28.532],
+    "placeCertainty": "explicit",
+    "certaintyNote": "A little white pagoda stands on the hill above the ferry, a real kind of feature of such West Hunan towns; it watches over Cuicui's home and, at the book's end, collapses in the storm.",
+    "reference": "The main narrative",
+    "order": 2,
+    "note": "Under the white pagoda on the slope above the crossing, Cuicui grows from a child into a shy young woman, half-aware of the love stirring in the town below. The pagoda, and its fall in the final storm, become the emblem of the fragile old order and of the innocence the story so tenderly mourns.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Border Town, Wikipedia, on the white pagoda and Cuicui",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-town-market",
+    "name": "The town and market",
+    "progressLabel": "The town",
+    "character": "tianbao",
+    "coords": [109.548, 28.528],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The little border town of Chadong, with its dock, shops and river trade, is the real West Hunan settlement the book portrays; sited on the riverbank below the ferry.",
+    "reference": "The town chapters",
+    "order": 3,
+    "note": "In the riverside town live the boatman Shunshun and his two fine sons, Tianbao and Nuosong, both of whom come to love Cuicui. The elder, Tianbao, courts her openly, and when he learns his brother loves her too and is preferred, he takes to the river and is drowned, the first shadow across the idyll.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Border Town, Wikipedia, on the town and Tianbao",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-river-festival",
+    "name": "The river (the dragon-boat festival)",
+    "progressLabel": "The festival",
+    "character": "nuosong",
+    "coords": [109.555, 28.525],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The dragon-boat festival on the river is the real Duanwu custom of such river towns; it is where Cuicui first meets the younger brother Nuosong, and the scene recurs as the heart of her memory.",
+    "reference": "The festival chapters",
+    "order": 4,
+    "note": "At the dragon-boat races on the river, amid the drums and the crowds, the young Cuicui first meets Nuosong, and a wordless attachment forms that will shape everything. Shen returns to the bright, watery festival again and again, the high point of the town's shared life and of Cuicui's guarded, hopeful heart.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dragon Boat Festival (Duanwu)",
+        "url": "https://en.wikipedia.org/wiki/Dragon_Boat_Festival"
+      },
+      {
+        "kind": "guide",
+        "ref": "Border Town, Wikipedia, on Nuosong and the festival",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hills-ferry-ending",
+    "name": "The hills and the ferry (the ending)",
+    "progressLabel": "The ending",
+    "character": "cuicui",
+    "coords": [109.545, 28.535],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The hills around the crossing and the ferry itself are the setting of the book's melancholy close; sited in the same real West Hunan river country that frames the whole story.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "In a great storm the old ferryman dies and the white pagoda falls, and Nuosong, grieving his brother, goes away downriver, leaving Cuicui alone at the crossing to wait. Shen ends on her waiting, for a man who may come back tomorrow, or may never come back at all, the whole gentle world poised between hope and loss.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Border Town, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Border_Town_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

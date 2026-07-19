@@ -1,0 +1,46 @@
+{
+  "id": "changes",
+  "title": "Changes",
+  "author": "Ama Ata Aidoo",
+  "published": 1991,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.195, 5.56],
+  "zoom": 12,
+  "setting": {
+    "city": "Accra",
+    "country": "GH",
+    "note": "Aidoo's spare, sharp love story follows Esi, a successful Accra statistician who leaves a husband she finds stifling, only to become the second wife of a charming businessman and confront afresh the bargains marriage demands of a modern African woman. The real city frames it: the government office where Esi works, the comfortable bungalows of the professional class, the businessman Ali's downtown enterprise, and the restaurants and streets of a booming Accra caught between tradition and change.",
+    "bbox": [-0.23, 5.53, -0.16, 5.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ama Ata Aidoo, first published 1991. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Changes:_A_Love_Story",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Changes, Ama Ata Aidoo (1991). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The warm gold of professional success and modern aspiration Esi has won, and the harder question of what it costs a woman to keep it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "esi": {
+      "name": "Esi",
+      "color": "#2E5064"
+    },
+    "ali": {
+      "name": "Ali",
+      "color": "#8A2B1E"
+    },
+    "oko": {
+      "name": "Oko",
+      "color": "#4A4A4A"
+    },
+    "opokuya": {
+      "name": "Opokuya",
+      "color": "#2E6B4A"
+    }
+  }
+}
