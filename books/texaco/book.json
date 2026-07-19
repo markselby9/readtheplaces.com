@@ -1,0 +1,46 @@
+{
+  "id": "texaco",
+  "title": "Texaco",
+  "author": "Patrick Chamoiseau",
+  "published": 1992,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-61.07, 14.6],
+  "zoom": 12,
+  "setting": {
+    "city": "Fort-de-France",
+    "country": "MQ",
+    "note": "Marie-Sophie Laborieux tells an urban planner sent to raze her shantytown the whole 150-year history of her family and of Texaco, the improvised quarter she founded on company land above Fort-de-France, from slavery through emancipation to the modern city. Chamoiseau maps the real Martinique: the tin-and-timber quarter of Texaco clinging to the hillside, the city of Fort-de-France below, the plantations of the enslaved past, and old Saint-Pierre before Mont Pelée destroyed it in 1902.",
+    "bbox": [-61.1, 14.55, -61.02, 14.63]
+  },
+  "rights": {
+    "originalWork": "In copyright. Patrick Chamoiseau, first published 1992. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Texaco_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Texaco, Patrick Chamoiseau (1992). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The rust and ochre of the tin and timber of the hillside shantytown, the creole vitality built from whatever the city discards. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "marie-sophie": {
+      "name": "Marie-Sophie",
+      "color": "#8A2B1E"
+    },
+    "esternome": {
+      "name": "Esternome",
+      "color": "#4A4A4A"
+    },
+    "ninon": {
+      "name": "Ninon",
+      "color": "#6B3B5A"
+    },
+    "the-urban-planner": {
+      "name": "The urban planner",
+      "color": "#2E5064"
+    }
+  }
+}

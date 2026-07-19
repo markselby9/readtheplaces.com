@@ -1,0 +1,109 @@
+[
+  {
+    "id": "rumi-community",
+    "name": "Rumi (the community)",
+    "progressLabel": "Part 1",
+    "character": "rosendo",
+    "coords": [-78.0, -8.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The indigenous community of Rumi is drawn from the real highland comunidades of the northern Peruvian Andes; it is sited in that sierra country, the specific village the novel's own.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "In the mountain village of Rumi, the community lives by its old communal ways under the gentle, wise leadership of the aging mayor Rosendo Maqui, in harmony with the land and each other. Alegría opens on this settled, dignified indigenous world in order to show, step by step, how it is destroyed.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Andean indigenous communities (comunidades) of Peru",
+        "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Peru"
+      },
+      {
+        "kind": "guide",
+        "ref": "Broad and Alien is the World, Wikipedia, on Rumi and Rosendo Maqui",
+        "url": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-land-dispute",
+    "name": "The communal land (the dispute)",
+    "progressLabel": "Part 1",
+    "character": "don-alvaro",
+    "coords": [-78.02, -8.02],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The community's communal fields, coveted by the neighbouring landowner Don Álvaro, are sited on the real Andean highland the novel maps; the boundaries and the lawsuit are its own.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "The ruthless hacendado Don Álvaro Amenábar sets out to seize the community's land through rigged lawsuits, bribed judges and armed force, and the villagers' legal struggle is doomed from the start. Alegría uses the theft of the fields to indict a whole system in which law, church and state serve the landlord against the Indian.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Broad and Alien is the World, Wikipedia, on Don Álvaro and the land",
+        "url": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mines-coast",
+    "name": "The mines and the coast",
+    "progressLabel": "Part 2",
+    "character": "the-community",
+    "coords": [-78.6, -8.3],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Driven from their land, the villagers scatter to the mines and coastal plantations of Peru; these are drawn from the real workplaces of the dispossessed, sited toward the coast beyond the community's setting.",
+    "reference": "Part 2",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Dispossessed and scattered, the people of Rumi are driven into the mines and onto the coca and cotton plantations, where they are worked, cheated and destroyed as cheap labour. Following them into these hells of exploitation, Alegría shows the broad and alien world that swallows the Indian once torn from communal land.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Broad and Alien is the World, Wikipedia, on the scattering of the community",
+        "url": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-montana-jungle",
+    "name": "The montaña (the jungle)",
+    "progressLabel": "Part 2",
+    "character": "benito-castro",
+    "coords": [-76.5, -8.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Some of the dispossessed are drawn east into the montaña, the rubber-tapping jungle of the Amazon foothills; the region is real, and the exact camps are the novel's own, far from the sierra.",
+    "reference": "Part 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the fever-ridden rubber camps of the eastern jungle, more of the community's men are consumed by disease and brutal labour, the montaña as merciless as the mines. Benito Castro, Rosendo's adopted son, wanders these far worlds and returns hardened, carrying a new understanding of the forces arrayed against his people.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Broad and Alien is the World, Wikipedia, on the jungle and Benito Castro",
+        "url": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rumi-final-stand",
+    "name": "Rumi (the final stand)",
+    "progressLabel": "Part 3",
+    "character": "benito-castro",
+    "coords": [-78.0, -8.005],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The community makes its last stand back on its highland ground under Benito Castro; sited at Rumi in the same real sierra where the story began.",
+    "reference": "Part 3",
+    "order": 5,
+    "note": "Returning to lead the remnant of his people, Benito Castro brings them to a final armed resistance against the soldiers sent to crush them, and is killed with the community. Alegría ends on the massacre and the open question of where the landless Indian can find justice in a world so broad and so alien to him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Broad and Alien is the World, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

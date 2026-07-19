@@ -1,0 +1,118 @@
+[
+  {
+    "id": "texaco-quarter",
+    "name": "Texaco (the quarter)",
+    "progressLabel": "The founding",
+    "character": "marie-sophie",
+    "coords": [-61.06, 14.61],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Texaco is a real hillside quarter of Fort-de-France, named for the oil depot on whose land it grew; Marie-Sophie founds and defends the shantytown there, and it gives the novel its name.",
+    "reference": "The framing narrative",
+    "order": 1,
+    "note": "On the steep ground above the city, on land belonging to the oil company, Marie-Sophie Laborieux and the poor build Texaco out of crates, tin and salvage, a whole living quarter conjured from nothing. When a planner comes to condemn it, she answers his bulldozers with the entire history of how it came to be, and wins it a reprieve.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fort-de-France, Martinique",
+        "url": "https://en.wikipedia.org/wiki/Fort-de-France"
+      },
+      {
+        "kind": "guide",
+        "ref": "Texaco (novel), Wikipedia, on Marie-Sophie and the quarter",
+        "url": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fort-de-france-city",
+    "name": "Fort-de-France (the city)",
+    "progressLabel": "The city",
+    "character": "the-urban-planner",
+    "coords": [-61.073, 14.604],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Fort-de-France, the real capital of Martinique, is the city below whose margins Texaco clings and whose authorities seek to clear it; sited in the historic centre.",
+    "reference": "The framing narrative",
+    "order": 2,
+    "note": "The urban planner, the Christ as the quarter's people call him, is sent from the official city to demolish Texaco, and instead is converted by Marie-Sophie's storytelling into its ally. Through him Chamoiseau stages the confrontation between the planned, French, concrete city and the creole life that grows wild in its cracks.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Texaco (novel), Wikipedia, on the urban planner and the city",
+        "url": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-plantations",
+    "name": "The plantations",
+    "progressLabel": "The slavery past",
+    "character": "esternome",
+    "coords": [-61.04, 14.57],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The story reaches back to the sugar plantations of the béké planters where Marie-Sophie's father Esternome was born a slave; the estates are drawn from the real plantation country of Martinique and sited in the island's interior.",
+    "reference": "The nineteenth-century chapters",
+    "order": 3,
+    "note": "Marie-Sophie's father Esternome is born into slavery on a plantation, wins his freedom, and after emancipation drifts toward the towns in search of a foothold in a world that has no place for the freed. His long journey from the plantation to the city is the deep root of Texaco, the whole Martinican passage from slavery to the modern quarter.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Slavery and plantations in Martinique",
+        "url": "https://en.wikipedia.org/wiki/History_of_Martinique"
+      },
+      {
+        "kind": "guide",
+        "ref": "Texaco (novel), Wikipedia, on Esternome",
+        "url": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "saint-pierre",
+    "name": "Saint-Pierre",
+    "progressLabel": "1902",
+    "character": "ninon",
+    "coords": [-61.176, 14.744],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Old Saint-Pierre, the real first city of Martinique, is destroyed by the eruption of Mont Pelée in 1902; the catastrophe falls on Esternome's beloved Ninon and marks a great turning of the island's history, sited to the north of Fort-de-France.",
+    "reference": "The 1902 chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Esternome's love Ninon lives in Saint-Pierre, the glittering first capital, when Mont Pelée erupts in 1902 and wipes the whole city and its thirty thousand people from the earth in minutes. The catastrophe, real and total, ends one Martinique and helps make Fort-de-France the island's centre, and Texaco its shadow.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "1902 eruption of Mont Pelée and the destruction of Saint-Pierre",
+        "url": "https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pel%C3%A9e"
+      },
+      {
+        "kind": "guide",
+        "ref": "Texaco (novel), Wikipedia, on Ninon and Saint-Pierre",
+        "url": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "texaco-the-fight",
+    "name": "Texaco (the fight)",
+    "progressLabel": "The present",
+    "character": "marie-sophie",
+    "coords": [-61.06, 14.611],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel returns to Texaco and the fight to save it from demolition; sited in the same real Fort-de-France quarter where the framing story is set.",
+    "reference": "The present-day frame",
+    "order": 5,
+    "note": "The whole history told, the quarter of Texaco stands as the living proof of a people's refusal to be cleared away, its improvised streets a creole answer to the concrete city. Chamoiseau ends on the survival of Texaco, a triumph of the word and of memory over the bulldozer, the shantytown written into the island's history for good.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Texaco (novel), Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

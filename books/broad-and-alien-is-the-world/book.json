@@ -1,0 +1,46 @@
+{
+  "id": "broad-and-alien-is-the-world",
+  "title": "Broad and Alien Is the World",
+  "author": "Ciro Alegría",
+  "published": 1941,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-78.0, -8.0],
+  "zoom": 9,
+  "setting": {
+    "city": "Rumi",
+    "country": "PE",
+    "note": "The great indigenista novel of the Andes follows the highland Indian community of Rumi, led by the wise old mayor Rosendo Maqui, as a rapacious landowner seizes their communal land and scatters them into a hostile world of mines, plantations and jungle. Alegría maps the real Peruvian sierra and its beyond: the mountain community and its fields, the landowner's hacienda, and the far mines and rubber forests to which the dispossessed are driven, learning how broad and alien the world is for the landless.",
+    "bbox": [-78.15, -8.1, -77.85, -7.9]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ciro Alegría, first published 1941 (El mundo es ancho y ajeno). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Broad_and_Alien_is_the_World",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Broad and Alien Is the World, Ciro Alegría (1941). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The red earth of the Andes the community fights and dies for, the land whose loss casts them into the broad and alien world. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rosendo": {
+      "name": "Rosendo Maqui",
+      "color": "#8A6A12"
+    },
+    "benito-castro": {
+      "name": "Benito Castro",
+      "color": "#8A2B1E"
+    },
+    "don-alvaro": {
+      "name": "Don Álvaro",
+      "color": "#4A4A4A"
+    },
+    "the-community": {
+      "name": "The community",
+      "color": "#2E6B4A"
+    }
+  }
+}
