@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-grand-palace",
+    "name": "The Grand Palace",
+    "progressLabel": "Reign of Rama V",
+    "character": "phloi",
+    "coords": [100.492, 13.751],
+    "placeCertainty": "explicit",
+    "certaintyNote": "As a girl Phloi is sent to serve in the Inner Court of the Grand Palace, the real royal complex on the Chao Phraya in Bangkok; her upbringing there frames the whole book.",
+    "reference": "Reign of Rama V",
+    "order": 1,
+    "note": "Brought as a child into the Inner Court of the Grand Palace, Phloi is raised in the refined, cloistered world of royal women, learning its manners, arts and hierarchies. The palace of Rama V's reign, at the height of the old order, is the paradise of her girlhood and the standard against which she measures all the changes to come.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Grand Palace, Bangkok",
+        "url": "https://en.wikipedia.org/wiki/Grand_Palace"
+      },
+      {
+        "kind": "guide",
+        "ref": "Four Reigns, Wikipedia, on Phloi and the Inner Court",
+        "url": "https://en.wikipedia.org/wiki/Four_Reigns"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-inner-court",
+    "name": "The Inner Court",
+    "progressLabel": "Reign of Rama V",
+    "character": "choi",
+    "coords": [100.491, 13.75],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Inner Court, the women's city within the Grand Palace, is where Phloi and her friend Choi grow up; sited within the real palace, the specific quarters the novel's own.",
+    "reference": "Reign of Rama V",
+    "order": 2,
+    "note": "In the Inner Court, a whole enclosed city of royal wives, attendants and their intrigues, Phloi and her irrepressible friend Choi come of age. Kukrit lovingly reconstructs this vanished women's world, its ceremonies and gossip and small dramas, as the intimate heart of the old Siam.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Four Reigns, Wikipedia, on the Inner Court and Choi",
+        "url": "https://en.wikipedia.org/wiki/Four_Reigns"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "phloi-household",
+    "name": "Phloi's household",
+    "progressLabel": "Reign of Rama VI",
+    "character": "prem",
+    "coords": [100.5, 13.755],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Married to the official Khun Prem, Phloi keeps a household in the canal-laced city; the home is invented and sited in the real Bangkok of the period.",
+    "reference": "Reign of Rama VI",
+    "order": 3,
+    "note": "Leaving the palace to marry the kindly official Khun Prem, Phloi builds a family home and raises children as Siam begins to modernise around her. The household, poised between old court values and the new bureaucratic world, is where she lives out the tension between tradition and change that the whole book explores.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Four Reigns, Wikipedia, on Phloi's marriage and family",
+        "url": "https://en.wikipedia.org/wiki/Four_Reigns"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chao-phraya-modern-city",
+    "name": "The Chao Phraya and the modern city",
+    "progressLabel": "Reign of Rama VII",
+    "character": "an",
+    "coords": [100.495, 13.745],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Chao Phraya river and the modernising streets of Bangkok carry the changes of the era, the roads, cars and Western ideas; the real river and city are the setting of the family's shifting fortunes.",
+    "reference": "Reign of Rama VII",
+    "order": 4,
+    "note": "As Phloi's sons grow, one of them, An, returns from schooling abroad full of new political ideas that will help end the absolute monarchy in 1932. Along the river and the widening roads of a Bangkok filling with cars and newspapers, the old certainties give way, and Phloi watches her world remade by her own children.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Chao Phraya River",
+        "url": "https://en.wikipedia.org/wiki/Chao_Phraya_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "Four Reigns, Wikipedia, on An and modernisation",
+        "url": "https://en.wikipedia.org/wiki/Four_Reigns"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wartime-bangkok",
+    "name": "Wartime Bangkok",
+    "progressLabel": "Reign of Rama VIII",
+    "character": "phloi",
+    "coords": [100.505, 13.74],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book closes with the Second World War, the Japanese presence and the Allied bombing of Bangkok; the real wartime city is the setting of Phloi's last years.",
+    "reference": "Reign of Rama VIII",
+    "order": 5,
+    "note": "In her old age Phloi endures the war, the Japanese alliance and the bombs falling on Bangkok, and the loss of sons to the conflicts of the age. Kukrit ends the four reigns with her death, closing a lifetime that carried Siam from the sealed splendour of the Inner Court to the bombed, transformed nation of the modern world.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Thailand in World War II",
+        "url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II"
+      },
+      {
+        "kind": "guide",
+        "ref": "Four Reigns, Wikipedia, on the wartime ending",
+        "url": "https://en.wikipedia.org/wiki/Four_Reigns"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

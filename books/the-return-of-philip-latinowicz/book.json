@@ -1,0 +1,46 @@
+{
+  "id": "the-return-of-philip-latinowicz",
+  "title": "The Return of Philip Latinowicz",
+  "author": "Miroslav Krleža",
+  "published": 1932,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [16.31, 45.76],
+  "zoom": 11,
+  "setting": {
+    "city": "Pannonian Croatia",
+    "country": "HR",
+    "note": "After twenty-three years away, the painter Philip Latinowicz returns to the provincial Pannonian town of his childhood in Croatia to confront his illegitimate birth, his estranged mother and his own creative and spiritual crisis. Krleža draws the town and its region from provincial Croatia: the small Catholic town with its square and church, his mother's house and tobacco shop, the flat muddy Pannonian plain, and the decadent manor world into which the fatal Bobočka draws him.",
+    "bbox": [16.26, 45.73, 16.38, 45.79]
+  },
+  "rights": {
+    "originalWork": "In copyright. Miroslav Krleža, first published 1932 (Povratak Filipa Latinovicza). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Return_of_Philip_Latinovicz",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Return of Philip Latinowicz, Miroslav Krleža (1932). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of the muddy Pannonian plain and of the painter's clouded despair, the atmosphere that soaks the whole book. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "philip": {
+      "name": "Philip Latinowicz",
+      "color": "#2E5064"
+    },
+    "kazimira": {
+      "name": "Kazimira",
+      "color": "#8A6A12"
+    },
+    "bobocka": {
+      "name": "Bobočka",
+      "color": "#8A2B1E"
+    },
+    "kyriales": {
+      "name": "Kyriales",
+      "color": "#2E6B4A"
+    }
+  }
+}

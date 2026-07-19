@@ -1,0 +1,46 @@
+{
+  "id": "four-reigns",
+  "title": "Four Reigns",
+  "author": "Kukrit Pramoj",
+  "published": 1953,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [100.498, 13.748],
+  "zoom": 13,
+  "setting": {
+    "city": "Bangkok",
+    "country": "TH",
+    "note": "Through the long life of Mae Phloi, from a girl sent to serve in the royal Inner Court to a grandmother in the Second World War, Kukrit Pramoj tells the story of Siam across the reigns of four kings and its passage from old kingdom to modern nation. Bangkok is the whole book: the Grand Palace and its Inner Court where Phloi grows up, the canal-laced city of the old capital, the Chao Phraya river, and the modernising, then war-shadowed, city of her old age.",
+    "bbox": [100.47, 13.72, 100.52, 13.77]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kukrit Pramoj, first published 1953 (Si Phaendin). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Four_Reigns",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Four Reigns, Kukrit Pramoj (1953). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the Grand Palace and of the royal Siam whose four reigns the book spans. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "phloi": {
+      "name": "Mae Phloi",
+      "color": "#8A2B1E"
+    },
+    "prem": {
+      "name": "Khun Prem",
+      "color": "#2E5064"
+    },
+    "an": {
+      "name": "An",
+      "color": "#2E6B4A"
+    },
+    "choi": {
+      "name": "Choi",
+      "color": "#6B3B5A"
+    }
+  }
+}
