@@ -1,0 +1,127 @@
+[
+  {
+    "id": "jorundgaard",
+    "name": "Jørundgaard (the valley farm)",
+    "progressLabel": "The Wreath",
+    "character": "lavrans",
+    "coords": [9.55, 61.85],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Kristin's childhood home, Jørundgaard in the parish of Sil, is drawn from the real Gudbrandsdal valley around Sel where Undset set it; sited there.",
+    "reference": "The Wreath",
+    "order": 1,
+    "note": "On her father's prosperous farm in the Gudbrandsdal valley, Kristin grows up loved and devout under the gentle, upright Lavrans. Undset draws the settled world of a medieval Norwegian estate, its seasons, faith and family honour, the ordered life against which Kristin's headstrong passion will break.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sel and the Gudbrandsdalen valley",
+        "url": "https://en.wikipedia.org/wiki/Sel,_Norway"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kristin Lavransdatter, Wikipedia, on Kristin's home and Lavrans",
+        "url": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "oslo-convent",
+    "name": "The convent at Oslo",
+    "progressLabel": "The Wreath",
+    "character": "kristin",
+    "coords": [10.75, 59.91],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kristin is sent to a convent at Oslo, the real medieval town, where she meets Erlend; sited in the city.",
+    "reference": "The Wreath",
+    "order": 2,
+    "note": "Sent to the convent at Oslo to be schooled and to cool after a scandal, Kristin instead meets the charming, disreputable Erlend Nikulaussøn and falls hopelessly in love. In the medieval town she breaks her betrothal in all but name, setting herself against her father and her faith in a choice she will spend her life answering for.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Medieval Oslo",
+        "url": "https://en.wikipedia.org/wiki/Oslo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kristin Lavransdatter, Wikipedia, on Kristin and Erlend",
+        "url": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "husaby",
+    "name": "Husaby (Erlend's estate)",
+    "progressLabel": "The Wife",
+    "character": "erlend",
+    "coords": [10.3, 63.3],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Erlend's estate of Husaby in Trøndelag, where the married Kristin runs the household and bears her sons, is drawn from the manor lands of medieval Trøndelag; sited in that region.",
+    "reference": "The Wife",
+    "order": 3,
+    "note": "As mistress of Erlend's northern estate of Husaby, Kristin bears seven sons and holds the household together while her reckless husband stumbles into treason and ruin. Undset's second volume is a great study of marriage and motherhood, the passion of the first book hardening into the daily labour, quarrels and endurance of a shared life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Trøndelag, Norway",
+        "url": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kristin Lavransdatter, Wikipedia, on Husaby and the marriage",
+        "url": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nidaros",
+    "name": "Nidaros (the cathedral)",
+    "progressLabel": "The pilgrimage",
+    "character": "kristin",
+    "coords": [10.4, 63.43],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Kristin makes pilgrimage to the shrine of St Olav at Nidaros, the real cathedral city now called Trondheim; sited there.",
+    "reference": "The pilgrimage chapters",
+    "order": 4,
+    "note": "Burdened by guilt, Kristin walks barefoot in pilgrimage to the great cathedral of Nidaros to lay her sin before the shrine of St Olav. The cathedral city, heart of medieval Norwegian faith, is where Undset gathers the trilogy's deep religious current, the lifelong struggle between Kristin's earthly passions and her longing for grace.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Nidaros Cathedral, Trondheim",
+        "url": "https://en.wikipedia.org/wiki/Nidaros_Cathedral"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kristin Lavransdatter, Wikipedia, on the pilgrimage to Nidaros",
+        "url": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-black-death",
+    "name": "The convent and the plague",
+    "progressLabel": "The Cross",
+    "character": "kristin",
+    "coords": [9.95, 63.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Widowed and alone, Kristin ends her life as a lay sister at a convent in Trøndelag when the Black Death arrives in 1349; the convent is drawn from the religious houses of the region and sited there.",
+    "reference": "The Cross",
+    "order": 5,
+    "note": "In old age, having lost Erlend and given her remaining wealth to a Trøndelag convent, Kristin becomes a lay sister and, when the Black Death comes in 1349, dies nursing its victims. Undset closes her vast trilogy on this act of self-forgetting love, the wilful girl of the wreath at last finding, in service and death, the peace that eluded her.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Black Death in Norway, 1349",
+        "url": "https://en.wikipedia.org/wiki/Black_Death"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kristin Lavransdatter, Wikipedia, on the ending and the plague",
+        "url": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

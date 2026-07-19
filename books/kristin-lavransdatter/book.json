@@ -1,0 +1,46 @@
+{
+  "id": "kristin-lavransdatter",
+  "title": "Kristin Lavransdatter",
+  "author": "Sigrid Undset",
+  "published": 1922,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [10.3, 61.7],
+  "zoom": 6,
+  "setting": {
+    "city": "medieval Norway",
+    "country": "NO",
+    "note": "In fourteenth-century Norway, Kristin, daughter of the landowner Lavrans in the Gudbrandsdal valley, defies her betrothal for a passionate, ruinous love, and lives out a long life of desire, guilt, motherhood and faith that ends amid the Black Death. Undset's Nobel-winning trilogy maps a real medieval Norway: the valley farm of Kristin's childhood, the cathedral city of Nidaros where she seeks absolution, the convent at Oslo, and her husband's estate in Trøndelag.",
+    "bbox": [9.0, 59.5, 11.5, 63.7]
+  },
+  "rights": {
+    "originalWork": "Public domain. Sigrid Undset (d. 1949), trilogy published 1920-1922 (Kransen, Husfrue, Korset). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Kristin_Lavransdatter",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Kristin Lavransdatter, Sigrid Undset (1920-1922). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The deep plum of passion and guilt, the inner life Undset renders with such force as Kristin is torn between desire and faith. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "kristin": {
+      "name": "Kristin",
+      "color": "#8A2B1E"
+    },
+    "erlend": {
+      "name": "Erlend",
+      "color": "#2E5064"
+    },
+    "lavrans": {
+      "name": "Lavrans",
+      "color": "#4A4A4A"
+    },
+    "simon": {
+      "name": "Simon",
+      "color": "#2E6B4A"
+    }
+  }
+}

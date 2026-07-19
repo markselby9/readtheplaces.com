@@ -1,0 +1,46 @@
+{
+  "id": "obasan",
+  "title": "Obasan",
+  "author": "Joy Kogawa",
+  "published": 1981,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-118.0, 49.4],
+  "zoom": 6,
+  "setting": {
+    "city": "Western Canada",
+    "country": "CA",
+    "note": "A schoolteacher, Naomi Nakane, pieces together the wartime uprooting of her Japanese-Canadian family: torn from their Vancouver home in 1942, interned in the interior British Columbia ghost town of Slocan, then forced onto the Alberta beet farms, while her mother, trapped in Japan, is lost to the Nagasaki bomb. Kogawa maps the real geography of the internment: the seized coastal home, the mountain camp, the prairie exile, and the silence her aunt Obasan keeps over it all.",
+    "bbox": [-123.5, 49.0, -112.0, 50.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Joy Kogawa, first published 1981. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Obasan",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Obasan, Joy Kogawa (1981). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue of silence and exile, the wordlessness in which Obasan wraps a grief too large to speak, and the northern winters of the camps. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "naomi": {
+      "name": "Naomi",
+      "color": "#6B3B5A"
+    },
+    "obasan": {
+      "name": "Obasan",
+      "color": "#4A4A4A"
+    },
+    "aunt-emily": {
+      "name": "Aunt Emily",
+      "color": "#8A2B1E"
+    },
+    "the-mother": {
+      "name": "The mother",
+      "color": "#8A6A12"
+    }
+  }
+}
