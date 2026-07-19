@@ -1,0 +1,46 @@
+{
+  "id": "the-underdogs",
+  "title": "The Underdogs",
+  "author": "Mariano Azuela",
+  "published": 1915,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-103.09, 21.42],
+  "zoom": 10,
+  "setting": {
+    "city": "Juchipila",
+    "country": "MX",
+    "note": "The classic novel of the Mexican Revolution follows the peasant Demetrio Macías, who takes to the sierra to fight the federal troops and rises to a general in the revolutionary armies, only to be swept up in the factional wars and the futility of the whirlwind. Azuela sets it in the real country of the fighting: the mountains and villages of the Jalisco–Zacatecas sierra, the great battle of Zacatecas, and the Juchipila canyon where Demetrio begins and ends.",
+    "bbox": [-103.2, 21.3, -102.95, 21.55]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Spanish (Mariano Azuela, 1915) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Underdogs_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "The Underdogs, Mariano Azuela (1915). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the Revolution's blood and fire, the whirlwind that lifts Demetrio up and flings him back down. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "demetrio": {
+      "name": "Demetrio Macías",
+      "color": "#4A4A4A"
+    },
+    "luis-cervantes": {
+      "name": "Luis Cervantes",
+      "color": "#8A6A12"
+    },
+    "la-pintada": {
+      "name": "La Pintada",
+      "color": "#6B3B5A"
+    },
+    "camila": {
+      "name": "Camila",
+      "color": "#2E6B4A"
+    }
+  }
+}

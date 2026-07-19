@@ -1,0 +1,46 @@
+{
+  "id": "the-lost-steps",
+  "title": "The Lost Steps",
+  "author": "Alejo Carpentier",
+  "published": 1953,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-65, 6],
+  "zoom": 6,
+  "setting": {
+    "city": "Orinoco",
+    "country": "VE",
+    "note": "A disillusioned musicologist, fleeing his hollow modern life, travels to South America and up a great river into the jungle in search of primitive instruments, and finds a world outside time before losing the way back to it. Carpentier maps the real journey up the Orinoco: the Latin American capital of Caracas, the river port of Puerto Ayacucho, the great river climbing into the Guiana highlands, and the deep forest of the tepuis where a settlement seems to exist before history itself.",
+    "bbox": [-68, 3.5, -62, 11]
+  },
+  "rights": {
+    "originalWork": "In copyright. Alejo Carpentier, first published 1953 (Los pasos perdidos). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Lost_Steps",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Lost Steps, Alejo Carpentier (1953). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the timeless jungle the narrator journeys into and can never find his way back to, the world outside history at the book's heart. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-narrator": {
+      "name": "The musicologist",
+      "color": "#2E5064"
+    },
+    "mouche": {
+      "name": "Mouche",
+      "color": "#8A6A12"
+    },
+    "rosario": {
+      "name": "Rosario",
+      "color": "#8A2B1E"
+    },
+    "the-adelantado": {
+      "name": "The Adelantado",
+      "color": "#4A4A4A"
+    }
+  }
+}
