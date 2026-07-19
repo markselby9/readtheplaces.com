@@ -5,6 +5,12 @@ on:
   push:
     branches: [main]
 
+# Cancel superseded runs on a branch, but never on main: every commit that can
+# reach production is verified in full.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
 # CI does all the mechanical review, so a human reviewer only has to ask "is the
 # pin right, and is the note good?" That is what makes review cheap enough to
 # scale. See CONTRIBUTING.md.
@@ -22,6 +28,13 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version-file: .nvmrc
+
+      - name: Cache bun install
+        uses: actions/cache@v4
+        with:
+          path: ~/.bun/install/cache
+          key: bun-${{ runner.os }}-${{ hashFiles('bun.lock') }}
+          restore-keys: bun-${{ runner.os }}-
 
       - run: bun install --frozen-lockfile
 
@@ -46,6 +59,15 @@ jobs:
           bun run plates
           bun run build
 
+      # Cache the browser binaries; the install step then only fetches system
+      # deps, not the ~100 MB Chromium download, on a hit.
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('bun.lock') }}
+          restore-keys: playwright-${{ runner.os }}-
+
       - name: Install Playwright
         run: bunx playwright install --with-deps chromium
 
@@ -58,3 +80,48 @@ jobs:
           name: playwright-report
           path: playwright-report/
           retention-days: 7
+
+      # Hand the built site to the deploy job so it never rebuilds from scratch.
+      - name: Upload the built site
+        if: success() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-dist
+          path: apps/web/dist
+          retention-days: 1
+
+  # Production deploy, gated on a green verify. Inert until the Cloudflare secrets
+  # are set, so merging this changes nothing about how the site ships today. To
+  # switch deploys from the Pages git integration to this job:
+  #   1. Add repo secrets CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID, and
+  #      repo variable CF_PAGES_PROJECT (the Pages project name).
+  #   2. Disconnect the Pages git integration so the site does not deploy twice.
+  #   3. Note: the daily popularity commit is pushed with GITHUB_TOKEN, which does
+  #      not trigger this workflow — so give that job its own deploy trigger, or
+  #      keep the git integration solely for it.
+  deploy:
+    name: Deploy to Cloudflare Pages
+    needs: verify
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    env:
+      CF_CONFIGURED: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && secrets.CLOUDFLARE_ACCOUNT_ID != '' }}
+    steps:
+      - name: Skip when Cloudflare is not configured
+        if: env.CF_CONFIGURED != 'true'
+        run: echo "Cloudflare secrets are not set; the Pages git integration still handles deploys."
+
+      - name: Download the built site
+        if: env.CF_CONFIGURED == 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: site-dist
+          path: apps/web/dist
+
+      - name: Deploy
+        if: env.CF_CONFIGURED == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy apps/web/dist --project-name=${{ vars.CF_PAGES_PROJECT }}

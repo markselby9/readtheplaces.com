@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 # Never let two refreshes race to push.
 concurrency:
@@ -41,4 +42,31 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add apps/web/src/data/popularity.json
           git commit --no-verify -m 'chore(data): refresh Wikipedia popularity snapshot'
-          git push
+          # The refresh takes minutes, so main may have moved on. Rebase onto it
+          # and retry rather than die on a non-fast-forward push.
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "push attempt ${attempt} failed; retrying in 5s"
+            sleep 5
+          done
+          echo 'could not push the refreshed snapshot after 3 attempts' >&2
+          exit 1
+
+      # A scheduled job that fails silently rots. File one issue (and only one)
+      # so a broken refresh is visible.
+      - name: Open an issue if the refresh fails
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title='Daily popularity refresh is failing'
+          open=$(gh issue list --state open --json title \
+            --jq "[.[] | select(.title==\"${title}\")] | length")
+          if [ "${open}" = '0' ]; then
+            gh issue create --title "${title}" \
+              --body "The scheduled Wikipedia popularity refresh failed. Latest run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          else
+            echo 'An open issue already tracks this; not filing another.'
+          fi
