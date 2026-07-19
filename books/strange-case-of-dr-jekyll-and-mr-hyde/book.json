@@ -1,0 +1,46 @@
+{
+  "id": "strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "published": 1886,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.135, 51.512],
+  "zoom": 13,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "The respectable Dr Jekyll brews a potion that frees his hidden appetites as the monstrous Mr Hyde, and the lawyer Utterson traces the growing horror through a fog-bound London toward a locked cabinet and a confession. Stevenson's city is a real, gaslit London of double lives: the fine house with its sinister back door, the squalid Soho lodgings of Hyde, and the lanes where his violence erupts, all mapping the divided self onto the divided town.",
+    "bbox": [-0.2, 51.48, -0.05, 51.54]
+  },
+  "rights": {
+    "originalWork": "Public domain. Robert Louis Stevenson (d. 1894), first published 1886. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Strange Case of Dr Jekyll and Mr Hyde, Robert Louis Stevenson (1886). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The fog-grey of a gaslit London, the murk in which the respectable doctor and his monstrous other move as one, the divided self of the divided city. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jekyll": {
+      "name": "Dr Jekyll",
+      "color": "#2E5064"
+    },
+    "hyde": {
+      "name": "Mr Hyde",
+      "color": "#8A2B1E"
+    },
+    "utterson": {
+      "name": "Utterson",
+      "color": "#2E6B4A"
+    },
+    "lanyon": {
+      "name": "Dr Lanyon",
+      "color": "#8A6A12"
+    }
+  }
+}
