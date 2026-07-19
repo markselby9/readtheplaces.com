@@ -1,0 +1,46 @@
+{
+  "id": "truth-and-justice",
+  "title": "Truth and Justice",
+  "author": "Anton Hansen Tammsaare",
+  "published": 1926,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [25.76, 59.05],
+  "zoom": 11,
+  "setting": {
+    "city": "Vargamäe",
+    "country": "EE",
+    "note": "Estonia's national epic opens as the farmer Andres settles at Vargamäe, a hard, swampy farm, and spends a lifetime draining the bog, wresting a living from the land, and feuding with his neighbour Pearu, before his son Indrek carries the family's search for truth to the city. Tammsaare drew Vargamäe from his own home in Järva County: the farm and its endless ditches, the bog it fights, and the parish church, while distant Tallinn is where the next generation goes to be schooled and changed.",
+    "bbox": [25.7, 59.02, 25.82, 59.08]
+  },
+  "rights": {
+    "originalWork": "In copyright as mapped here; the original Estonian (A. H. Tammsaare, 1926–33) is public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any translation's text, in any territory.",
+    "attribution": "Truth and Justice, Anton Hansen Tammsaare (1926). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of the hard bog and the long moral toil, the labour and the striving for truth that fill Andres's life at Vargamäe. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "andres": {
+      "name": "Andres",
+      "color": "#2E6B4A"
+    },
+    "pearu": {
+      "name": "Pearu",
+      "color": "#8A2B1E"
+    },
+    "indrek": {
+      "name": "Indrek",
+      "color": "#2E5064"
+    },
+    "mari": {
+      "name": "Mari",
+      "color": "#6B3B5A"
+    }
+  }
+}

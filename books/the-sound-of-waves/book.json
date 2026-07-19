@@ -1,0 +1,46 @@
+{
+  "id": "the-sound-of-waves",
+  "title": "The Sound of Waves",
+  "author": "Yukio Mishima",
+  "published": 1954,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [136.991, 34.532],
+  "zoom": 14,
+  "setting": {
+    "city": "Uta-jima",
+    "country": "JP",
+    "note": "Mishima's simple, luminous love story is set on Uta-jima, a small fishing island in Ise Bay drawn from the real island of Kamishima, where the young fisherman Shinji and the diver's daughter Hatsue fall in love against a tide of gossip. The whole island is the book: the fishing village and its harbour, the steep stone steps of the Yashiro shrine to the sea god, the lighthouse on the height, and the sea itself, worked by the boats and the diving women.",
+    "bbox": [136.98, 34.525, 137.0, 34.54]
+  },
+  "rights": {
+    "originalWork": "In copyright. Yukio Mishima, first published 1954 (Shiosai). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Sound_of_Waves",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Sound of Waves, Yukio Mishima (1954). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue of the sea that surrounds the island and fills the book with the sound of waves. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "shinji": {
+      "name": "Shinji",
+      "color": "#8A6A12"
+    },
+    "hatsue": {
+      "name": "Hatsue",
+      "color": "#8A2B1E"
+    },
+    "yasuo": {
+      "name": "Yasuo",
+      "color": "#4A4A4A"
+    },
+    "mother": {
+      "name": "Shinji's mother",
+      "color": "#2E6B4A"
+    }
+  }
+}

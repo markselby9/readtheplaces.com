@@ -1,0 +1,113 @@
+[
+  {
+    "id": "vargamae-farm",
+    "name": "Vargamäe (Andres's farm)",
+    "progressLabel": "Volume 1",
+    "character": "andres",
+    "coords": [25.75, 59.05],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Andres settles at the farm of Vargamäe, drawn from Tammsaare's own childhood home in Järva County; the farm is sited in that real central Estonian countryside.",
+    "reference": "Volume 1",
+    "order": 1,
+    "note": "The young farmer Andres arrives at the poor, boggy farm of Vargamäe determined to master it by sheer will and work, believing that God rewards labour with land and justice. The farm, and his lifelong wrestle with it, is the ground of Tammsaare's meditation on toil, faith and the elusive truth the whole epic pursues.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "A. H. Tammsaare and Vargamäe, Järva County",
+        "url": "https://en.wikipedia.org/wiki/Anton_Hansen_Tammsaare"
+      },
+      {
+        "kind": "guide",
+        "ref": "Truth and Justice, Wikipedia, on Andres and Vargamäe",
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-bog-ditches",
+    "name": "The bog and the ditches",
+    "progressLabel": "Volume 1",
+    "character": "pearu",
+    "coords": [25.755, 59.052],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Andres spends his life digging drainage ditches to reclaim the swampland; the bog is a real feature of the Estonian countryside, and the ditches are the arena of his long feud with his neighbour Pearu.",
+    "reference": "Volume 1",
+    "order": 2,
+    "note": "Between the two farms lies the swamp and the water, and over its drainage Andres and his coarse, cunning neighbour Pearu wage a feud that lasts decades, in ditches, lawsuits and spite. Tammsaare turns the endless labour of the bog and the pettiness of the quarrel into an epic of the Estonian peasant's bondage to the land.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Truth and Justice, Wikipedia, on the feud with Pearu",
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-parish-church",
+    "name": "The parish church",
+    "progressLabel": "Volume 1",
+    "character": "mari",
+    "coords": [25.78, 59.06],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The parish church, drawn from the Järva-Madise area near Vargamäe, is the centre of the community's religious and social life; sited among the real villages of the region.",
+    "reference": "Volume 1",
+    "order": 3,
+    "note": "At the parish church the farms bring their marriages, burials and disputes, and the weight of duty and belief that governs Andres's household is felt. Through his wife Mari and the succession of family sorrows, Tammsaare measures the human cost of a life given wholly to work and to a harsh idea of righteousness.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Truth and Justice, Wikipedia, on the family and community",
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tallinn-schooling",
+    "name": "Tallinn (Indrek's schooling)",
+    "progressLabel": "Volume 2",
+    "character": "indrek",
+    "coords": [24.75, 59.44],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Andres's son Indrek leaves for schooling in Tallinn, the real Estonian capital; the city, far from Vargamäe, is where the next generation's search for truth moves into the modern world.",
+    "reference": "Volume 2",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In Tallinn, Indrek is educated into doubt, science and the political ferment of the early twentieth century, carrying his father's hunger for truth beyond the farm into a wider, harder world. The city stands against Vargamäe as thought against toil, and its revolutions and disillusions will shape the family's later fate.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tallinn, Estonia",
+        "url": "https://en.wikipedia.org/wiki/Tallinn"
+      },
+      {
+        "kind": "guide",
+        "ref": "Truth and Justice, Wikipedia, on Indrek and Tallinn",
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "vargamae-return",
+    "name": "Vargamäe (the land)",
+    "progressLabel": "The later volumes",
+    "character": "andres",
+    "coords": [25.748, 59.048],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The epic keeps returning to Vargamäe and its land across the generations; sited in the same real central Estonian countryside that anchors the whole work.",
+    "reference": "The later volumes",
+    "order": 5,
+    "note": "For all Indrek's learning and the wider world's upheavals, the epic circles back to Vargamäe and the land Andres broke, the truth and justice he sought never quite found. Tammsaare leaves his farmer at the last still bound to the soil, the reclaimed fields his only certain answer to a life's questioning.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Truth and Justice, Wikipedia, on the epic's scope",
+        "url": "https://en.wikipedia.org/wiki/Truth_and_Justice_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
