@@ -1,0 +1,46 @@
+{
+  "id": "robinson-crusoe",
+  "title": "Robinson Crusoe",
+  "author": "Daniel Defoe",
+  "published": 1719,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-61.5, 10.0],
+  "zoom": 8,
+  "setting": {
+    "city": "the island",
+    "country": "TT",
+    "note": "Shipwrecked alone on a tropical island near the mouth of the Orinoco, Robinson Crusoe spends twenty-eight years wresting a life from the wilderness, until a footprint in the sand, and the man Friday, change everything. Defoe frames the survival tale with a real geography: the departure from England against his father's wishes, the Brazil plantation he abandons for one last voyage, and the Caribbean island, drawn from the seas off Trinidad and the Orinoco delta, on which he is cast away.",
+    "bbox": [-62.0, 9.5, -61.0, 10.5]
+  },
+  "rights": {
+    "originalWork": "Public domain. Daniel Defoe (d. 1731), first published 1719. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Robinson_Crusoe",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Robinson Crusoe, Daniel Defoe (1719). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The sandy gold of the island Crusoe makes his own, the self-reliant labour by which a castaway builds a whole world from a wreck. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "crusoe": {
+      "name": "Crusoe",
+      "color": "#2E5064"
+    },
+    "friday": {
+      "name": "Friday",
+      "color": "#8A2B1E"
+    },
+    "xury": {
+      "name": "Xury",
+      "color": "#2E6B4A"
+    },
+    "the-captain": {
+      "name": "The captain",
+      "color": "#4A4A4A"
+    }
+  }
+}

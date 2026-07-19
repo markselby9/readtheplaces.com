@@ -1,0 +1,119 @@
+[
+  {
+    "id": "hull-and-york",
+    "name": "Hull and York",
+    "progressLabel": "To sea",
+    "character": "crusoe",
+    "coords": [-0.34, 53.74],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Crusoe leaves his family at York and sails from Hull, real English towns, against his father's advice; sited there, far outside the island setting.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "Against his father's plea to be content with the safe middle station of life, the restless young Crusoe runs off to sea from Hull, and is shipwrecked, enslaved and freed before ever reaching his island. Defoe frames the whole book as the story of a disobedient wanderer, the comfortable English home rejected for a life of danger that his island exile will make him repent.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kingston upon Hull",
+        "url": "https://en.wikipedia.org/wiki/Kingston_upon_Hull"
+      },
+      {
+        "kind": "guide",
+        "ref": "Robinson Crusoe, Wikipedia, on the early voyages",
+        "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-brazil-plantation",
+    "name": "The Brazil plantation",
+    "progressLabel": "The planter",
+    "character": "crusoe",
+    "coords": [-38.5, -12.97],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Crusoe prospers as a sugar planter in Brazil before the fatal slaving voyage; drawn from the real plantation coast around Bahia and sited there, far outside the island setting.",
+    "reference": "The Brazil chapters",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "In Brazil, Crusoe builds a successful sugar plantation and could settle to a prosperous life, but restlessness sends him on a voyage to fetch enslaved Africans, and it is that ship that wrecks. Defoe roots the tale in the real Atlantic economy of sugar and slavery, the greed for more that tears Crusoe from safety and casts him, as he comes to see it, as punishment, onto his island.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sugar plantations in colonial Brazil",
+        "url": "https://en.wikipedia.org/wiki/Sugar_plantations_in_the_Caribbean"
+      },
+      {
+        "kind": "guide",
+        "ref": "Robinson Crusoe, Wikipedia, on Brazil and the voyage",
+        "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-island",
+    "name": "The island",
+    "progressLabel": "The castaway",
+    "character": "crusoe",
+    "coords": [-61.5, 10.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Crusoe's island, the sole survivor's home for twenty-eight years, is drawn by Defoe from the Caribbean near the mouth of the Orinoco; sited off Trinidad in that region.",
+    "reference": "The island chapters",
+    "order": 3,
+    "note": "Cast up alone on the island, Crusoe salvages what he can from the wreck and, year by year, builds a fortified home, tames goats, raises corn and keeps a journal, remaking civilisation from nothing. Defoe's patient inventory of survival, tools, calendar, faith, is the book's famous core, one man's dogged labour turning a wilderness into a domain.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Orinoco Delta",
+        "url": "https://en.wikipedia.org/wiki/Orinoco_Delta"
+      },
+      {
+        "kind": "guide",
+        "ref": "Robinson Crusoe, Wikipedia, on the island survival",
+        "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-footprint",
+    "name": "The footprint and Friday",
+    "progressLabel": "Not alone",
+    "character": "friday",
+    "coords": [-61.52, 10.02],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The single footprint in the sand and the rescue of Friday from the cannibals who land on the island are sited on Crusoe's island in the setting.",
+    "reference": "The Friday chapters",
+    "order": 4,
+    "note": "After years alone, Crusoe is thunderstruck by a single footprint in the sand, and later saves a captive from cannibals who visit the shore, naming him Friday and making him companion and servant. Defoe turns the tale outward here, the terror of the unknown other and the fraught, unequal bond between the European castaway and the man he rescues and rules.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Robinson Crusoe, Wikipedia, on the footprint and Friday",
+        "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-rescue",
+    "name": "The rescue",
+    "progressLabel": "Deliverance",
+    "character": "the-captain",
+    "coords": [-61.48, 9.98],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Crusoe and Friday retake a ship from mutineers who land on the island, winning Crusoe's passage home after twenty-eight years; sited on the island of the setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "When mutineers put their captain ashore on the island, Crusoe and Friday help him retake his ship, and Crusoe sails home at last, rich from his Brazil estate, after twenty-eight years away. Defoe ends with deliverance earned and providence acknowledged, the wanderer returned and, this once, grateful for the ordinary life he had spurned.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Robinson Crusoe, Wikipedia, on the rescue and return",
+        "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
