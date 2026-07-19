@@ -1,0 +1,46 @@
+{
+  "id": "the-time-of-the-doves",
+  "title": "The Time of the Doves",
+  "author": "Mercè Rodoreda",
+  "published": 1962,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [2.156, 41.404],
+  "zoom": 14,
+  "setting": {
+    "city": "Barcelona",
+    "country": "ES",
+    "note": "Natàlia, a working-class woman known as Colometa, tells the story of her life in the Gràcia district of Barcelona, her marriage to the domineering Quimet and his obsession with doves, and the Spanish Civil War that shatters her small world. Rodoreda maps the real neighbourhood: the Plaça del Diamant where Natàlia meets Quimet at a dance, the Gràcia streets and the flat overrun by his doves, the district under the bombs and hunger of the war, and the square she returns to at the end.",
+    "bbox": [2.145, 41.395, 2.168, 41.412]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mercè Rodoreda, first published 1962 (La plaça del Diamant). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Time of the Doves, Mercè Rodoreda (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the Civil War that tears through the neighbourhood, and of the passions under Natàlia's quiet endurance. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "natalia": {
+      "name": "Natàlia (Colometa)",
+      "color": "#2E5064"
+    },
+    "quimet": {
+      "name": "Quimet",
+      "color": "#4A4A4A"
+    },
+    "antoni": {
+      "name": "Antoni",
+      "color": "#2E6B4A"
+    },
+    "mateu": {
+      "name": "Mateu",
+      "color": "#8A6A12"
+    }
+  }
+}

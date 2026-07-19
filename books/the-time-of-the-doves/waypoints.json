@@ -1,0 +1,117 @@
+[
+  {
+    "id": "placa-del-diamant",
+    "name": "Plaça del Diamant",
+    "progressLabel": "Chapter 1",
+    "character": "natalia",
+    "coords": [2.157, 41.404],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens at a dance in the Plaça del Diamant, the real square in the Gràcia district of Barcelona, where Natàlia meets Quimet; the square now holds a statue of Colometa.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At a festa dance in the Plaça del Diamant, the young Natàlia is claimed by the forceful Quimet, who renames her Colometa, little dove, and sweeps her into a marriage that will remake and unmake her. The square, giving the book its original Catalan title, is where her whole fated story begins.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Plaça del Diamant, Gràcia, Barcelona",
+        "url": "https://en.wikipedia.org/wiki/Pla%C3%A7a_del_Diamant"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Time of the Doves, Wikipedia, on Natàlia and the square",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-gracia-flat",
+    "name": "The Gràcia flat (the doves)",
+    "progressLabel": "The marriage",
+    "character": "quimet",
+    "coords": [2.155, 41.406],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Natàlia and Quimet's flat is in the working-class Gràcia district; the flat is invented and sited in that real Barcelona neighbourhood, where Quimet fills it with doves.",
+    "reference": "The marriage chapters",
+    "order": 2,
+    "note": "In the cramped Gràcia flat, Quimet's obsession with breeding doves takes over the home and Natàlia's life, the birds multiplying through every room until she can hardly move. The doves, tender and suffocating at once, become the image of her whole entrapment in a marriage and a role she never chose.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gràcia, Barcelona",
+        "url": "https://en.wikipedia.org/wiki/Gr%C3%A0cia"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Time of the Doves, Wikipedia, on Quimet and the doves",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gracia-civil-war",
+    "name": "Gràcia in the Civil War",
+    "progressLabel": "The war",
+    "character": "mateu",
+    "coords": [2.158, 41.402],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Spanish Civil War comes to the streets of Gràcia and Barcelona, with its militias, bombings and hunger; the real war is sited in the neighbourhood it devastates.",
+    "reference": "The war chapters",
+    "order": 3,
+    "note": "When the war comes, Quimet and his friend Mateu go off to fight for the Republic and do not come back, and Natàlia is left alone with two children in a city of bombs, queues and starvation. Rodoreda renders the catastrophe entirely through a poor woman's daily struggle to survive it, the great history felt as hunger and fear.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Barcelona in the Spanish Civil War",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Time of the Doves, Wikipedia, on the war and Mateu",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-shop-antoni",
+    "name": "The shop (Antoni)",
+    "progressLabel": "After the war",
+    "character": "antoni",
+    "coords": [2.153, 41.405],
+    "placeCertainty": "inferred",
+    "certaintyNote": "After the war Natàlia works and then marries the kindly grocer Antoni; the shop is invented and sited in the real Gràcia streets of the novel.",
+    "reference": "The postwar chapters",
+    "order": 4,
+    "note": "Near starving, Natàlia goes to work cleaning and is at last rescued from destitution by the gentle grocer Antoni, who marries her and gives her a quieter life. The little shop, and Antoni's undemanding kindness, offer a fragile healing after the years of Quimet, war and loss.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Time of the Doves, Wikipedia, on Antoni and the postwar years",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "placa-del-diamant-ending",
+    "name": "Plaça del Diamant (the ending)",
+    "progressLabel": "The ending",
+    "character": "natalia",
+    "coords": [2.157, 41.4045],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book closes back at the Plaça del Diamant, where Natàlia returns years later; the real square frames both the beginning and the end of her story.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "Years on, sleepless, Natàlia walks back to the Plaça del Diamant and stands where her life turned, and in a wordless cry into the dawn releases the weight of everything she has survived. Rodoreda ends on the same square where it began, a whole life of endurance closing its quiet circle.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Time of the Doves, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Doves"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

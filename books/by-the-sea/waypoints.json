@@ -1,0 +1,118 @@
+[
+  {
+    "id": "stone-town-shop",
+    "name": "Stone Town (Saleh's shop)",
+    "progressLabel": "The past",
+    "character": "saleh",
+    "coords": [39.19, -6.163],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Saleh Omar was a furniture and trade merchant in Stone Town, the real old quarter of Zanzibar; his shop is sited in that historic Indian Ocean port town.",
+    "reference": "The Zanzibar past",
+    "order": 1,
+    "note": "In the coral-stone lanes of Stone Town, Saleh built a prosperous life as a merchant before it was taken from him, and it is to this lost world that his long English silence keeps returning. Gurnah conjures the layered, cosmopolitan Zanzibar of Arabs, Indians, Persians and Africans, a whole civilisation the book mourns.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Stone Town, Zanzibar",
+        "url": "https://en.wikipedia.org/wiki/Stone_Town"
+      },
+      {
+        "kind": "guide",
+        "ref": "By the Sea, Wikipedia, on Saleh Omar and Zanzibar",
+        "url": "https://en.wikipedia.org/wiki/By_the_Sea_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-contested-house",
+    "name": "The contested house",
+    "progressLabel": "The feud",
+    "character": "rajab-shaaban",
+    "coords": [39.192, -6.161],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The feud between the families turns on a Stone Town house that passes from Rajab Shaaban's line to Saleh through a debt; the house is invented and sited in the real old town.",
+    "reference": "The feud chapters",
+    "order": 2,
+    "note": "A house, forfeited over an unpaid debt, becomes the wound that binds two families across two generations and two continents. Through the tangled claims to it, and the ruin of Rajab Shaaban, Gurnah shows how private grievances and colonial injustice knot together into a history no one can quite escape.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "By the Sea, Wikipedia, on the feud",
+        "url": "https://en.wikipedia.org/wiki/By_the_Sea_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-harbour-trade",
+    "name": "The harbour and the trade",
+    "progressLabel": "The trade",
+    "character": "hussein",
+    "coords": [39.188, -6.158],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Zanzibar's harbour, hub of the Indian Ocean dhow trade in spices, ivory and goods, is the real port that shaped the town's cosmopolitan wealth; sited on the Stone Town waterfront.",
+    "reference": "The trade chapters",
+    "order": 3,
+    "note": "It is a Persian merchant, Hussein, arriving on the monsoon trade with his charm and his debts, who first sets the fatal chain of obligation in motion. The harbour, thronged with dhows riding the seasonal winds between Arabia, India and Africa, is the ancient network of commerce and connection out of which the whole story grows.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Zanzibar and the Indian Ocean trade",
+        "url": "https://en.wikipedia.org/wiki/History_of_Zanzibar"
+      },
+      {
+        "kind": "guide",
+        "ref": "By the Sea, Wikipedia, on Hussein and the trade",
+        "url": "https://en.wikipedia.org/wiki/By_the_Sea_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zanzibar-revolution",
+    "name": "Zanzibar (the revolution)",
+    "progressLabel": "The upheaval",
+    "character": "saleh",
+    "coords": [39.195, -6.165],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The 1964 Zanzibar Revolution and the repression that followed swept away the old order and sent Saleh to prison; the real upheaval is sited in the town it transformed.",
+    "reference": "The upheaval chapters",
+    "order": 4,
+    "note": "The revolution of 1964 overturns the sultanate and the merchant world, and Saleh, on the wrong side of the new power, loses his house, his freedom and years of his life to imprisonment. The catastrophe that ended the old Zanzibar is the force that finally drives him, decades later, into exile by another sea.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Zanzibar Revolution, 1964",
+        "url": "https://en.wikipedia.org/wiki/Zanzibar_Revolution"
+      },
+      {
+        "kind": "guide",
+        "ref": "By the Sea, Wikipedia, on the revolution and Saleh's imprisonment",
+        "url": "https://en.wikipedia.org/wiki/By_the_Sea_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "english-seaside-town",
+    "name": "The English seaside town",
+    "progressLabel": "The present",
+    "character": "latif",
+    "coords": [1.08, 51.28],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Saleh seeks asylum in a small seaside town in south-east England, where he meets Rajab Shaaban's son Latif; the town is invented and sited on the real Kent coast, far from the Zanzibar setting.",
+    "reference": "The present-day frame",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "In a grey English seaside town, the silent refugee Saleh and the settled academic Latif, son of the family Saleh is said to have ruined, at last confront their shared history. By another sea entirely, the two exiles piece together the truth of the house and the feud, and Gurnah closes his meditation on memory, displacement and the long reach of the past.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "By the Sea, Wikipedia, on the English frame and Latif",
+        "url": "https://en.wikipedia.org/wiki/By_the_Sea_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
