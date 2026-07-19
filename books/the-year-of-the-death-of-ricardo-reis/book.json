@@ -1,0 +1,46 @@
+{
+  "id": "the-year-of-the-death-of-ricardo-reis",
+  "title": "The Year of the Death of Ricardo Reis",
+  "author": "José Saramago",
+  "published": 1984,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-9.143, 38.708],
+  "zoom": 13,
+  "setting": {
+    "city": "Lisbon",
+    "country": "PT",
+    "note": "In 1936 Ricardo Reis, one of Fernando Pessoa's poetic alter egos, returns from Brazil to Lisbon just after the poet's death, and drifts through the rainy city, visited by Pessoa's ghost, as fascism rises across Europe and Salazar's shadow deepens at home. Saramago maps a real Lisbon: the hotel where Reis lodges, the cemetery where he speaks with the dead Pessoa, the viewpoint over the Tagus, the river and its docks, and the watchful capital of the New State.",
+    "bbox": [-9.2, 38.68, -9.1, 38.73]
+  },
+  "rights": {
+    "originalWork": "In copyright. José Saramago, first published 1984 (O Ano da Morte de Ricardo Reis). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Year of the Death of Ricardo Reis, José Saramago (1984). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The grey-blue of the rainy Tagus and the poet's settled melancholy, the weather of a city and a man waiting for a storm. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ricardo-reis": {
+      "name": "Ricardo Reis",
+      "color": "#4A4A4A"
+    },
+    "pessoa": {
+      "name": "Pessoa",
+      "color": "#6B3B5A"
+    },
+    "lidia": {
+      "name": "Lídia",
+      "color": "#8A2B1E"
+    },
+    "marcenda": {
+      "name": "Marcenda",
+      "color": "#2E6B4A"
+    }
+  }
+}

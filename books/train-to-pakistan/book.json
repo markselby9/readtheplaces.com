@@ -1,0 +1,46 @@
+{
+  "id": "train-to-pakistan",
+  "title": "Train to Pakistan",
+  "author": "Khushwant Singh",
+  "published": 1956,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [74.55, 31.05],
+  "zoom": 10,
+  "setting": {
+    "city": "Mano Majra",
+    "country": "IN",
+    "note": "In the summer of 1947, the small Punjab border village of Mano Majra, where Sikhs and Muslims have always lived as neighbours, is torn apart by Partition when a ghost train of massacred Sikhs arrives from the new Pakistan. Singh's spare, unsparing novel is rooted in the real geography of the frontier: the mixed village by its railway station, the bridge over the Sutlej, the river swollen with the monsoon and the dead, and the trains that carry a people to safety or to slaughter.",
+    "bbox": [74.3, 30.85, 74.85, 31.25]
+  },
+  "rights": {
+    "originalWork": "In copyright. Khushwant Singh, first published 1956. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Train_to_Pakistan",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Train to Pakistan, Khushwant Singh (1956). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The blood-red of the Partition massacres that reach even this quiet village, the horror the trains carry back and forth across the new border. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jugga": {
+      "name": "Jugga",
+      "color": "#8A3B1E"
+    },
+    "iqbal": {
+      "name": "Iqbal",
+      "color": "#2E5064"
+    },
+    "nooran": {
+      "name": "Nooran",
+      "color": "#6B3B5A"
+    },
+    "hukum-chand": {
+      "name": "Hukum Chand",
+      "color": "#4A4A4A"
+    }
+  }
+}

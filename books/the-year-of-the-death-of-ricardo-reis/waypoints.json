@@ -1,0 +1,127 @@
+[
+  {
+    "id": "the-hotel-braganca",
+    "name": "The Hotel Bragança",
+    "progressLabel": "The return",
+    "character": "ricardo-reis",
+    "coords": [-9.143, 38.708],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Reis lodges at the Hotel Bragança near the Cais do Sodré on his return to Lisbon, a real establishment of the old lower city; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Off the ship from Brazil, Reis takes a room at the Hotel Bragança and begins his aimless Lisbon days, waited on by the chambermaid Lídia, who becomes his lover. Saramago settles his heteronym-made-flesh into the ordinary textures of the old city, the hotel corridors and rainy streets, from which the whole strange, contemplative novel unfolds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cais do Sodré and Chiado, Lisbon",
+        "url": "https://en.wikipedia.org/wiki/Chiado"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Year of the Death of Ricardo Reis, Wikipedia, on Reis and the hotel",
+        "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "prazeres-cemetery",
+    "name": "Prazeres Cemetery",
+    "progressLabel": "The dead poet",
+    "character": "pessoa",
+    "coords": [-9.171, 38.714],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Reis visits Fernando Pessoa's grave at the Cemitério dos Prazeres, the real Lisbon cemetery where Pessoa was buried; sited there.",
+    "reference": "The cemetery chapters",
+    "order": 2,
+    "note": "At the Cemitério dos Prazeres, Reis stands at the grave of Fernando Pessoa, the poet who invented him, and Pessoa's shade begins the visits that punctuate the book. Saramago's premise, a fiction returning to mourn its author, turns the real cemetery into the hinge of a haunting meditation on identity, art and mortality.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Prazeres Cemetery and Fernando Pessoa",
+        "url": "https://en.wikipedia.org/wiki/Prazeres_Cemetery"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Year of the Death of Ricardo Reis, Wikipedia, on Pessoa's ghost",
+        "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-adamastor-viewpoint",
+    "name": "The Adamastor viewpoint",
+    "progressLabel": "Over the river",
+    "character": "marcenda",
+    "coords": [-9.148, 38.708],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Reis broods at the Santa Catarina miradouro, with its statue of the giant Adamastor, a real Lisbon viewpoint over the Tagus; sited there.",
+    "reference": "The viewpoint chapters",
+    "order": 3,
+    "note": "At the Santa Catarina lookout, beneath the stone giant Adamastor from Camões's epic, Reis gazes over the river and turns his hopeless tenderness toward the young, ailing Marcenda. Saramago gathers the book's longing here above the water, the poet forever contemplating, never quite living, the life passing below him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Miradouro de Santa Catarina (Adamastor), Lisbon",
+        "url": "https://en.wikipedia.org/wiki/Santa_Catarina_(Lisbon)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Year of the Death of Ricardo Reis, Wikipedia, on Marcenda and the viewpoint",
+        "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tagus-docks",
+    "name": "The Tagus and the docks",
+    "progressLabel": "The wider world",
+    "character": "lidia",
+    "coords": [-9.15, 38.702],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Tagus waterfront and docks, where ships come and go and the news of the world arrives, are the real riverside of Lisbon; sited there.",
+    "reference": "The riverside chapters",
+    "order": 4,
+    "note": "Down at the Tagus, the warships gather and the newspapers bring word of Spain sliding into civil war and Europe into fascism, while Lídia's brother, a sailor, is drawn toward mutiny. Through the docks Saramago lets the storming outer world press upon Reis's cloistered melancholy, the history he would rather not notice closing in.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Tagus river and the Lisbon waterfront",
+        "url": "https://en.wikipedia.org/wiki/Tagus"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Year of the Death of Ricardo Reis, Wikipedia, on Lídia and the news of the world",
+        "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-city-of-the-new-state",
+    "name": "The city of the New State",
+    "progressLabel": "The ending",
+    "character": "ricardo-reis",
+    "coords": [-9.139, 38.712],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Lisbon of Salazar's authoritarian New State, with its processions, propaganda and quiet fear, is the real political climate of 1936; sited in the city centre.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "As the year turns, Salazar's New State tightens its grip, and Reis, ever the detached observer, is quietly worn down until Pessoa comes to lead him away for good. Saramago closes on the poet walking off into death with his maker, a farewell to a man who watched the whole world without ever taking his own part in it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Estado Novo (Portugal) under Salazar",
+        "url": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Year of the Death of Ricardo Reis, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Year_of_the_Death_of_Ricardo_Reis"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
