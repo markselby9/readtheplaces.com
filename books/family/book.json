@@ -1,0 +1,46 @@
+{
+  "id": "family",
+  "title": "Family",
+  "author": "Ba Jin",
+  "published": 1933,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [104.072, 30.658],
+  "zoom": 13,
+  "setting": {
+    "city": "Chengdu",
+    "country": "CN",
+    "note": "Ba Jin's landmark novel of youth in revolt is set in the great feudal Gao household of 1920s Chengdu, where three grandsons chafe against the tyranny of the patriarch and the weight of the old ways, and the young women around them are destroyed by them. The real city frames it: the sprawling family compound with its courtyards and garden lake, the Chengdu streets alive with student demonstrations and new ideas, and the river down which the youngest brother finally escapes.",
+    "bbox": [104.05, 30.64, 104.09, 30.67]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ba Jin, first published 1933 (Jia). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Family_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Family, Ba Jin (1933). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the youthful rebellion against the old order, and of the blood of the young women the feudal family sacrifices. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "juehui": {
+      "name": "Juehui",
+      "color": "#2E6B4A"
+    },
+    "juexin": {
+      "name": "Juexin",
+      "color": "#4A4A4A"
+    },
+    "mingfeng": {
+      "name": "Mingfeng",
+      "color": "#6B3B5A"
+    },
+    "patriarch": {
+      "name": "The patriarch",
+      "color": "#8A6A12"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-manor",
+    "name": "The manor",
+    "progressLabel": "Chapter 1",
+    "character": "grandfather",
+    "coords": [23.95, 55.35],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Thomas is raised on his grandparents' manor in the Issa valley, drawn from Miłosz's own childhood estate at Szetejnie on the Nevėžis river; the manor is sited in that real Lithuanian valley near Kėdainiai.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "In the rambling manor house, among his gentle grandfather, his devout grandmother and the estate's servants and hunters, Thomas takes in a whole vanishing world of provincial gentry life. The house, warm and slightly decaying, is the fixed centre of a childhood Miłosz recalls with the precision of paradise remembered.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Šeteniai and the Nevėžis valley, Lithuania",
+        "url": "https://en.wikipedia.org/wiki/%C4%8Ceslovas_Milo%C5%A1as"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Issa Valley, Wikipedia, on Thomas and the manor",
+        "url": "https://en.wikipedia.org/wiki/The_Issa_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-issa-river",
+    "name": "The Issa river",
+    "progressLabel": "Chapter 3",
+    "character": "thomas",
+    "coords": [23.955, 55.348],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The slow Issa river of the title is drawn from the real Nevėžis that runs through Miłosz's home valley; the river and its meadows are sited in that Lithuanian countryside.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "Along the reedy river and its meadows, Thomas fishes, watches the birds and animals, and drinks in a nature so alive it seems to brim with spirits. The Issa, giving the valley and the book their name, is the emblem of the deep, animate world the boy belongs to before history and exile carry him away.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Nevėžis river, Lithuania",
+        "url": "https://en.wikipedia.org/wiki/Nev%C4%97%C5%BEis"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Issa Valley, Wikipedia, on the river and nature",
+        "url": "https://en.wikipedia.org/wiki/The_Issa_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-forests",
+    "name": "The forests",
+    "progressLabel": "Chapter 6",
+    "character": "baltazar",
+    "coords": [23.93, 55.36],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The deep forests around the valley, real to the Lithuanian countryside, are the domain of hunting and of the old pagan spirits and 'devils' the peasants still half-believe in; sited in the woods encircling the manor.",
+    "reference": "Chapter 6",
+    "order": 3,
+    "note": "In the forests, where Thomas learns to hunt and where the folk still feel the presence of the old gods, the tormented gamekeeper Baltazar is haunted by guilt toward the spirits of the wood until he takes his own life. Miłosz makes the forest a place where Christianity and an older paganism uneasily share the ground, and where the valley's darker currents run.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Issa Valley, Wikipedia, on Baltazar and folk belief",
+        "url": "https://en.wikipedia.org/wiki/The_Issa_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-church",
+    "name": "The village and church",
+    "progressLabel": "Chapter 9",
+    "character": "magdalena",
+    "coords": [23.96, 55.345],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Catholic parish church and village anchor the settled human life of the valley; sited among the real farming villages of the Nevėžis countryside, the specific parish the novel's own.",
+    "reference": "Chapter 9",
+    "order": 4,
+    "note": "Around the village church the valley's Catholic pieties, its priests and peasants, hold sway, but not without scandal: Magdalena, the priest's mistress, poisons herself and is believed to haunt the parish after. Miłosz sets the guilt and the ghost against the ordinary devotions, the sacred and the uncanny inseparable in this old world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Issa Valley, Wikipedia, on Magdalena and the parish",
+        "url": "https://en.wikipedia.org/wiki/The_Issa_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-valley-leaving",
+    "name": "The valley (leaving)",
+    "progressLabel": "The ending",
+    "character": "thomas",
+    "coords": [23.945, 55.352],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The novel ends as Thomas prepares to leave the valley for the wider world; sited in the same real Lithuanian countryside that has been his whole childhood.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "As land reforms and the shifting borders of the new Lithuania unsettle the old gentry world, and Thomas grows toward the age of departure, the book moves to its quiet elegiac close. Miłosz ends with the boy leaving the valley that made him, the paradise fixed forever at the moment of losing it, as all his later exile would remember it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Issa Valley, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Issa_Valley"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
