@@ -1,0 +1,46 @@
+{
+  "id": "the-yellow-rain",
+  "title": "The Yellow Rain",
+  "author": "Julio Llamazares",
+  "published": 1988,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.25, 42.55],
+  "zoom": 13,
+  "setting": {
+    "city": "Ainielle",
+    "country": "ES",
+    "note": "Andrés, the last living inhabitant of Ainielle, a real village high in the Aragonese Pyrenees abandoned by everyone else, keeps a final vigil alone among the ruins with his memories and his dead. Llamazares maps the dying village exactly: Andrés's house, the empty homes of the departed, the silent mill and fields, the cemetery he tends, and the mountain path down to the next village that he can no longer bring himself to take, as the yellow rain of falling poplar leaves buries it all.",
+    "bbox": [-0.27, 42.54, -0.23, 42.56]
+  },
+  "rights": {
+    "originalWork": "In copyright. Julio Llamazares, first published 1988 (La lluvia amarilla). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Julio_Llamazares",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Yellow Rain, Julio Llamazares (1988). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The yellow of the falling poplar leaves, the slow yellow rain of decay and memory that gives the book its title and buries the dying village. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "andres": {
+      "name": "Andrés",
+      "color": "#4A4A4A"
+    },
+    "sabina": {
+      "name": "Sabina",
+      "color": "#8A2B1E"
+    },
+    "the-son": {
+      "name": "The son",
+      "color": "#2E5064"
+    },
+    "the-neighbours": {
+      "name": "The departed",
+      "color": "#2E6B4A"
+    }
+  }
+}

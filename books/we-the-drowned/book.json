@@ -1,0 +1,46 @@
+{
+  "id": "we-the-drowned",
+  "title": "We, the Drowned",
+  "author": "Carsten Jensen",
+  "published": 2006,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [10.512, 54.86],
+  "zoom": 13,
+  "setting": {
+    "city": "Marstal",
+    "country": "DK",
+    "note": "A century of seafarers from the little Danish town of Marstal on the island of Ærø, from the 1848 war to 1945, whose men sail the world's oceans and drown in them by the boatload while their women wait at home. Jensen roots the epic in the real port town, its harbour and shipyards, and follows its sailors, Laurids Madsen who went to heaven and came back, his son Albert, the boy Knud Erik, out to the far ports of the South Seas and into the U-boat wars of the Atlantic, and back to the widows of Marstal.",
+    "bbox": [10.49, 54.85, 10.53, 54.87]
+  },
+  "rights": {
+    "originalWork": "In copyright. Carsten Jensen, first published 2006 (Vi, de druknede). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/We,_the_Drowned",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "We, the Drowned, Carsten Jensen (2006). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The cold blue-grey of the sea that makes and drowns the men of Marstal, the water the whole epic is given over to. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "laurids": {
+      "name": "Laurids Madsen",
+      "color": "#8A6A12"
+    },
+    "albert": {
+      "name": "Albert Madsen",
+      "color": "#4A4A4A"
+    },
+    "knud-erik": {
+      "name": "Knud Erik",
+      "color": "#2E6B4A"
+    },
+    "klara": {
+      "name": "Klara",
+      "color": "#8A2B1E"
+    }
+  }
+}

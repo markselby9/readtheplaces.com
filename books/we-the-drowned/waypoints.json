@@ -1,0 +1,114 @@
+[
+  {
+    "id": "marstal-town",
+    "name": "Marstal (the town)",
+    "progressLabel": "1848",
+    "character": "laurids",
+    "coords": [10.51, 54.86],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The epic is anchored in Marstal, the real seafaring town on the Danish island of Ærø, whose sailors and ships fill the book; the town is its fixed home port.",
+    "reference": "The opening",
+    "order": 1,
+    "note": "In Marstal, a town that lives entirely by and for the sea, Laurids Madsen becomes a legend when he is blown sky-high in the 1848 war and, as the town tells it, goes up to heaven and comes back down alive. From this first tall tale, Jensen spins a century of the town's men, bound by blood and boats to an element that will take most of them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Marstal, Ærø, Denmark",
+        "url": "https://en.wikipedia.org/wiki/Marstal"
+      },
+      {
+        "kind": "guide",
+        "ref": "We, the Drowned, Wikipedia, on Marstal and Laurids",
+        "url": "https://en.wikipedia.org/wiki/We,_the_Drowned"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-harbour-shipyards",
+    "name": "The harbour and shipyards",
+    "progressLabel": "The town",
+    "character": "albert",
+    "coords": [10.515, 54.858],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Marstal's harbour and shipyards, real to the town's history as a great age-of-sail port, are the beating heart of its life; sited on the town's waterfront.",
+    "reference": "The town chapters",
+    "order": 2,
+    "note": "Around the harbour and the yards where the wooden ships are built and rigged, the whole town's fortunes rise and fall with the trade and the tides. Laurids's son Albert grows into the town's memory and conscience, the keeper of its stories and, in a strange shrunken head he brings home, of its guilt.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Marstal maritime history",
+        "url": "https://en.wikipedia.org/wiki/Marstal"
+      },
+      {
+        "kind": "guide",
+        "ref": "We, the Drowned, Wikipedia, on Albert and the town",
+        "url": "https://en.wikipedia.org/wiki/We,_the_Drowned"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-far-ports",
+    "name": "The far ports (the South Seas)",
+    "progressLabel": "The wandering",
+    "character": "laurids",
+    "coords": [-171.75, -13.83],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Marstal's sailors, Laurids among them, roam the world's oceans and vanish into far ports such as the South Seas; the specific islands are the novel's own, sited far from Denmark.",
+    "reference": "The wandering chapters",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Laurids sails off and disappears into the wide world, ending up on a South Sea island and never coming home, one of the many Marstal men swallowed by the globe. Jensen follows the town's sailors to the ends of the earth, their wanderings a map of the whole age of sail and its human cost.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "We, the Drowned, Wikipedia, on the sailors' voyages",
+        "url": "https://en.wikipedia.org/wiki/We,_the_Drowned"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-wars-at-sea",
+    "name": "The wars at sea",
+    "progressLabel": "1914-1945",
+    "character": "knud-erik",
+    "coords": [-30.0, 50.0],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Marstal ships and men are lost in the U-boat wars of the twentieth century on the Atlantic and beyond; the real theatres of the world wars claim generations of the town's sailors.",
+    "reference": "The war chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "In the two world wars, Marstal's merchant sailors, the boy Knud Erik grown to a captain among them, are hunted and drowned by mines and torpedoes across the oceans. The 'we the drowned' of the title are these countless dead, the whole town's men lost to the sea and to other men's wars.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "We, the Drowned, Wikipedia, on Knud Erik and the wars",
+        "url": "https://en.wikipedia.org/wiki/We,_the_Drowned"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "marstal-widows",
+    "name": "Marstal (the widows)",
+    "progressLabel": "The home town",
+    "character": "klara",
+    "coords": [10.508, 54.862],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Back in Marstal the women wait, and mourn, and try to keep their sons off the ships; the real town is where the cost of all the drownings is finally counted.",
+    "reference": "The home-town chapters",
+    "order": 5,
+    "note": "In Marstal the widow Klara Friis, having lost her husband to the sea, sets out to break the town's fatal bond with the ocean and keep her son ashore, even buying up the fleet to end it. Her doomed struggle against a whole town's seafaring destiny gives the epic its final, grieving argument between the sea's glamour and its slaughter.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "We, the Drowned, Wikipedia, on Klara and the widows",
+        "url": "https://en.wikipedia.org/wiki/We,_the_Drowned"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
