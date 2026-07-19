@@ -1,0 +1,46 @@
+{
+  "id": "the-good-earth",
+  "title": "The Good Earth",
+  "author": "Pearl S. Buck",
+  "published": 1931,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [117.9, 32.0],
+  "zoom": 8,
+  "setting": {
+    "city": "rural eastern China",
+    "country": "CN",
+    "note": "Wang Lung, a poor farmer, rises through his devotion to the land, marrying the plain, steadfast slave O-lan, until famine drives the family south to a great city and back, and returning fortune lifts them into a wealth that draws the next generation away from the soil that made them. Buck kept her geography deliberately broad, but rooted it in the real farming country of eastern China she knew: the fields and the great landlord's house, and the southern city where the starving family scatters in the streets.",
+    "bbox": [116.8, 31.5, 119.0, 32.5]
+  },
+  "rights": {
+    "originalWork": "In copyright. Pearl S. Buck, first published 1931. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Good_Earth",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Good Earth, Pearl S. Buck (1931). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The brown of the earth itself, the land Wang Lung worships and returns to, the source of every fortune and the thing his sons will forsake. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "wang-lung": {
+      "name": "Wang Lung",
+      "color": "#4A4A4A"
+    },
+    "o-lan": {
+      "name": "O-lan",
+      "color": "#6B3B5A"
+    },
+    "the-uncle": {
+      "name": "The uncle",
+      "color": "#8A2B1E"
+    },
+    "lotus": {
+      "name": "Lotus",
+      "color": "#8A6A12"
+    }
+  }
+}

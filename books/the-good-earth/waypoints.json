@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wang-lungs-farm",
+    "name": "Wang Lung's farm",
+    "progressLabel": "The land",
+    "character": "wang-lung",
+    "coords": [117.3, 32.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Wang Lung's fields are drawn from the farming country of eastern China that Buck knew; the setting is kept general and sited in that region.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "On his small plot of earth Wang Lung begins as a poor farmer, and his whole life and faith are bound to the land, its seasons, its harvests and its silent power to make and unmake him. Buck opens on this near-religious devotion to the soil, the theme the whole novel will test as fortune carries the family up and away from it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Agriculture in China",
+        "url": "https://en.wikipedia.org/wiki/Agriculture_in_China"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Earth, Wikipedia, on Wang Lung and the land",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Earth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-house-of-hwang",
+    "name": "The House of Hwang",
+    "progressLabel": "O-lan",
+    "character": "o-lan",
+    "coords": [117.32, 32.01],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The great landlord family, the House of Hwang, from whom Wang Lung takes the slave O-lan as his wife and later buys land, is set near his farm; drawn from the gentry households of rural China.",
+    "reference": "The early chapters",
+    "order": 2,
+    "note": "From the decaying great house of the Hwang family, Wang Lung takes the kitchen slave O-lan as his wife, and her tireless, uncomplaining strength becomes the true foundation of his rise. Buck sets the fading grandeur of the old landlords against the farmer's hard ascent, a cycle of great houses risen and ruined that the novel will see turn full circle.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Good Earth, Wikipedia, on O-lan and the House of Hwang",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Earth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-southern-city",
+    "name": "The southern city",
+    "progressLabel": "The famine",
+    "character": "o-lan",
+    "coords": [118.78, 32.06],
+    "placeCertainty": "inferred",
+    "certaintyNote": "When famine strikes, the family flees south to a great city, drawn from the Yangtze cities such as Nanjing; sited to the south of the farm within the region.",
+    "reference": "The famine chapters",
+    "order": 3,
+    "note": "When drought brings famine, Wang Lung's family joins the starving multitudes fleeing south to a great city, where they live in a mat-shed by a rich man's wall, O-lan begging and Wang Lung pulling a rickshaw. Buck unsparingly renders the desperation of the refugee poor, the gulf between them and the wealthy city, and the humiliation that hardens into resolve.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Famine in China",
+        "url": "https://en.wikipedia.org/wiki/Famines_in_China"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Good Earth, Wikipedia, on the famine and the city",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Earth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-looting",
+    "name": "The looting",
+    "progressLabel": "The turn of fortune",
+    "character": "the-uncle",
+    "coords": [118.79, 32.05],
+    "placeCertainty": "inferred",
+    "certaintyNote": "In the upheaval that sweeps the city, the rich man's house is stormed and looted, and Wang Lung seizes the gold that changes his fortunes; sited in the southern city.",
+    "reference": "The city chapters",
+    "order": 4,
+    "note": "When revolt and mob break over the city, the great house where the family shelters is looted, and in the chaos Wang Lung wrings a handful of gold from a terrified rich man. That windfall carries the family home to buy land and rise, though the same greed and idleness wealth breeds, embodied in his grasping uncle, will follow them.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Good Earth, Wikipedia, on the looting and the gold",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Earth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-return-and-the-rise",
+    "name": "The return and the rise",
+    "progressLabel": "The great house",
+    "character": "lotus",
+    "coords": [117.31, 31.99],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Wang Lung returns to his land, buys the House of Hwang's fields and at last its house, and rises to wealth; sited back at the farming country of the setting.",
+    "reference": "The later chapters",
+    "order": 5,
+    "note": "Grown rich, Wang Lung buys up the very land and mansion of the fallen Hwangs, takes the pretty concubine Lotus, and becomes the great man his own landlords once were. But his sons, raised soft and turned toward trade and study, mean to sell the land the moment he dies, and Buck ends on the old cycle poised to repeat, the good earth already slipping from the family's hands.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Good Earth, Wikipedia, on the rise and the sons",
+        "url": "https://en.wikipedia.org/wiki/The_Good_Earth"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

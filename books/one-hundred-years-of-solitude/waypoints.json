@@ -1,0 +1,112 @@
+[
+  {
+    "id": "the-founding-of-macondo",
+    "name": "The founding of Macondo",
+    "progressLabel": "The beginning",
+    "character": "jose-arcadio-buendia",
+    "coords": [-74.19, 10.59],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Macondo is García Márquez's invented town, drawn from his birthplace of Aracataca in the Caribbean lowlands of Colombia; it is sited at that real region.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Leaving their old village after a killing, José Arcadio Buendía and Úrsula lead a band of settlers across the swamps and found Macondo by a river of clear water, a place at first without death or memory. García Márquez opens in this Edenic dawn, the town young and full of wonder, before the century's weight of repetition and solitude begins to gather.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Aracataca, Colombia",
+        "url": "https://en.wikipedia.org/wiki/Aracataca"
+      },
+      {
+        "kind": "guide",
+        "ref": "One Hundred Years of Solitude, Wikipedia, on the founding of Macondo",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-buendia-house",
+    "name": "The Buendía house",
+    "progressLabel": "The family",
+    "character": "ursula",
+    "coords": [-74.188, 10.591],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The great Buendía house, endlessly enlarged and haunted across the generations, is the novel's centre; sited in Macondo of the setting.",
+    "reference": "The family chapters",
+    "order": 2,
+    "note": "The rambling Buendía house, ruled for a century by the indomitable Úrsula, fills with children who repeat their ancestors' names and fates, a chestnut tree with a madman tied to it, and the ghosts of the dead. García Márquez makes the house the vessel of the family's circling time, where each generation re-enacts the loves and follies of the last.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "One Hundred Years of Solitude, Wikipedia, on the Buendía family and Úrsula",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-gypsies",
+    "name": "The gypsies and Melquíades",
+    "progressLabel": "The wonders",
+    "character": "melquiades",
+    "coords": [-74.192, 10.588],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The wandering gypsies who bring marvels to Macondo, led by Melquíades, appear in the town's market and streets; sited in Macondo.",
+    "reference": "The early chapters",
+    "order": 3,
+    "note": "Each year the gypsies bring their marvels to Macondo, magnets and ice and flying carpets, and the sage Melquíades leaves behind the coded parchments that hold the family's whole destiny. Through them García Márquez sets the book's magic loose, the extraordinary greeted as ordinary, and plants the prophecy that will only be read at the very end.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "One Hundred Years of Solitude, Wikipedia, on Melquíades and the gypsies",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-banana-massacre",
+    "name": "The banana massacre",
+    "progressLabel": "The company",
+    "character": "aureliano",
+    "coords": [-74.25, 11.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The massacre of the banana workers is drawn from the real 1928 Ciénaga massacre near Aracataca, when the army fired on striking United Fruit workers; sited in the banana zone by Macondo.",
+    "reference": "The banana-company chapters",
+    "order": 4,
+    "note": "The North American banana company transforms and then curses Macondo, and when the workers strike, the army guns down thousands and carries the bodies away by train, leaving the town to be told it never happened. García Márquez folds the real Ciénaga massacre into the novel, the one historical horror the magic cannot soften, erased from memory as if by decree.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Banana Massacre (Ciénaga, 1928)",
+        "url": "https://en.wikipedia.org/wiki/Banana_Massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "One Hundred Years of Solitude, Wikipedia, on the banana company and massacre",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-end-of-macondo",
+    "name": "The end of Macondo",
+    "progressLabel": "The rains",
+    "character": "jose-arcadio-buendia",
+    "coords": [-74.19, 10.592],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The town's decline under years of rain and the final wind that erases it close the novel; sited in Macondo of the setting.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "After a rain that lasts nearly five years, Macondo sinks into decay, the Buendías dwindle, and the last of the line at last deciphers Melquíades's parchments, which foretell the town's own vanishing. As he reads, the prophesied wind sweeps Macondo from the earth, a place condemned, García Márquez writes, to a hundred years of solitude, and no second chance.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "One Hundred Years of Solitude, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

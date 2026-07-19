@@ -1,0 +1,46 @@
+{
+  "id": "one-hundred-years-of-solitude",
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel García Márquez",
+  "published": 1967,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-74.2, 10.7],
+  "zoom": 9,
+  "setting": {
+    "city": "Macondo",
+    "country": "CO",
+    "note": "In the town of Macondo, founded in the Caribbean lowlands by José Arcadio Buendía, seven generations of the Buendía family live out a century of love, war, invention and solitude, from the wonder of the founding to the apocalyptic wind that erases the town. García Márquez's Macondo is drawn from his own Aracataca in coastal Colombia, and its history mirrors the region's: the wandering gypsies, the endless civil wars, the banana company and its massacre, and the long rains that close the book.",
+    "bbox": [-74.4, 10.4, -74.0, 11.1]
+  },
+  "rights": {
+    "originalWork": "In copyright. Gabriel García Márquez, first published 1967 (Cien años de soledad). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "One Hundred Years of Solitude, Gabriel García Márquez (1967). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The alchemical gold of the little fishes Colonel Aureliano forges and melts and forges again, and of the yellow that haunts the Buendías through their hundred years. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jose-arcadio-buendia": {
+      "name": "José Arcadio Buendía",
+      "color": "#4A4A4A"
+    },
+    "ursula": {
+      "name": "Úrsula",
+      "color": "#6B3B5A"
+    },
+    "aureliano": {
+      "name": "Col. Aureliano",
+      "color": "#8A2B1E"
+    },
+    "melquiades": {
+      "name": "Melquíades",
+      "color": "#2E6B4A"
+    }
+  }
+}
