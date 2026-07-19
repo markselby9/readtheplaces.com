@@ -15,7 +15,7 @@ test('every ordinary page carries the nav and footer', async ({ page }) => {
     const nav = page.getByRole('navigation', { name: 'Primary' });
     await expect(nav).toBeVisible();
     await expect(nav.getByRole('link', { name: 'Books' })).toBeVisible();
-    await expect(nav.getByRole('link', { name: 'Cities' })).toBeVisible();
+    await expect(nav.getByRole('link', { name: 'Browse' })).toBeVisible();
     await expect(nav.getByRole('link', { name: 'Add a book' })).toBeVisible();
 
     await expect(page.locator('.site-foot')).toBeVisible();
@@ -32,10 +32,10 @@ test('nav routes reach the homepage sections they name', async ({ page }) => {
   await page.goto('/');
   await page
     .getByRole('navigation', { name: 'Primary' })
-    .getByRole('link', { name: 'Cities' })
+    .getByRole('link', { name: 'Books' })
     .click();
-  await expect(page).toHaveURL(/#by-city$/);
-  await expect(page.locator('#by-city')).toBeVisible();
+  await expect(page).toHaveURL(/#mapped$/);
+  await expect(page.locator('#mapped')).toBeVisible();
 });
 
 test('the footer offers the contribute path', async ({ page }) => {

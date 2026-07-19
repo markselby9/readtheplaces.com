@@ -22,7 +22,10 @@ const historical = book.layers?.historical;
 const citySlug = slugifyCity(book.setting.city);
 
 const repo = 'https://github.com/markselby9/readtheplaces.com';
+// Keep the curated issue templates (they are the contribution model); only the
+// title is pre-filled, so the book is identified without overriding the body.
 const correctionUrl = `${repo}/issues/new?template=bug.md&title=${encodeURIComponent(`Correction: ${book.title}`)}`;
+const addPlaceUrl = `${repo}/issues/new?template=add-a-place.md&title=${encodeURIComponent(`Waypoint: <place>, ${book.title}`)}`;
 
 const title = `The ${book.setting.city} of ${book.title}`;
 const description = stub
@@ -114,8 +117,10 @@ const schema = [
     !stub && (
       <aside class="wrap correction">
         <p>
-          Spotted a place in the wrong spot, or a certainty that should read differently?{' '}
-          <a href={correctionUrl}>Suggest a correction →</a>
+          Read this book and know it better than we do?{' '}
+          <a href={addPlaceUrl}>Add a missing place →</a> or{' '}
+          <a href={correctionUrl}>suggest a correction →</a>. Both open a pre-filled GitHub issue;
+          no code required.
         </p>
       </aside>
     )

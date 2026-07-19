@@ -36,3 +36,6 @@ Thumbs.db
 
 # no longer generated: position is derived at build time, in memory
 books/*/waypoints.built.json
+
+# Local Claude Code session/memory data
+.claude/

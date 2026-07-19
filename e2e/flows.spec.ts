@@ -10,7 +10,7 @@ import { expect, test } from '@playwright/test';
 test('the homepage search narrows the catalogue and counts matches', async ({ page }) => {
   await page.goto('/');
 
-  const box = page.getByPlaceholder(/Title, author/);
+  const box = page.getByRole('searchbox');
   await expect(box).toBeVisible();
 
   await box.fill('paris');
@@ -27,7 +27,7 @@ test('the homepage search narrows the catalogue and counts matches', async ({ pa
 
 test('a search with no matches shows an empty state, not a blank page', async ({ page }) => {
   await page.goto('/');
-  await page.getByPlaceholder(/Title, author/).fill('zzzzz');
+  await page.getByRole('searchbox').fill('zzzzz');
   await expect(page.locator('.no-results')).toBeVisible();
 });
 
@@ -67,9 +67,14 @@ test('the contribute page names both paths and the cited option', async ({ page 
   );
 });
 
-test('a mapped book offers a correction path', async ({ page }) => {
+test('a mapped book offers correction and add-a-place paths', async ({ page }) => {
   await page.goto('/mrs-dalloway/');
-  const link = page.getByRole('link', { name: /Suggest a correction/ });
-  await expect(link).toBeVisible();
-  await expect(link).toHaveAttribute('href', /issues\/new.*Correction/);
+
+  const correction = page.getByRole('link', { name: /suggest a correction/i });
+  await expect(correction).toBeVisible();
+  await expect(correction).toHaveAttribute('href', /issues\/new.*Correction/);
+
+  const addPlace = page.getByRole('link', { name: /add a missing place/i });
+  await expect(addPlace).toBeVisible();
+  await expect(addPlace).toHaveAttribute('href', /issues\/new.*Waypoint/);
 });
