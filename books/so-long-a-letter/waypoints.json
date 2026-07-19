@@ -1,0 +1,113 @@
+[
+  {
+    "id": "the-widows-house",
+    "name": "The widow's house",
+    "progressLabel": "The mourning",
+    "character": "ramatoulaye",
+    "coords": [-17.44, 14.69],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ramatoulaye writes from her house in Dakar, the real Senegalese capital, through the four months and ten days of a widow's confinement; sited in the city.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Confined to her house in Dakar for the traditional widow's mourning, Ramatoulaye begins the long letter that is the book, addressed to Aissatou far away. The domestic space of grief, with her twelve children and the memories crowding in, is where she at last weighs her thirty-year marriage and speaks the truth she has kept silent.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dakar, Senegal",
+        "url": "https://en.wikipedia.org/wiki/Dakar"
+      },
+      {
+        "kind": "guide",
+        "ref": "So Long a Letter, Wikipedia, on Ramatoulaye and the mourning",
+        "url": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mosque-and-rites",
+    "name": "The mosque and the rites",
+    "progressLabel": "The funeral",
+    "character": "binetou",
+    "coords": [-17.45, 14.685],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The funeral and the mirasse, the accounting of the dead man's estate under Islamic law, take place amid the mosques and family gatherings of Dakar; sited in the city.",
+    "reference": "The funeral chapters",
+    "order": 2,
+    "note": "At Modou's funeral the rites unfold and his young second wife Binetou and her mother claim their share, the mirasse laying bare the debts and betrayals of the marriage. In the public ceremony and its humiliations, Bâ shows the weight of custom and of polygamy pressing on the women it binds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Islam in Senegal",
+        "url": "https://en.wikipedia.org/wiki/Islam_in_Senegal"
+      },
+      {
+        "kind": "guide",
+        "ref": "So Long a Letter, Wikipedia, on the funeral and Binetou",
+        "url": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-school",
+    "name": "The school",
+    "progressLabel": "The friendship",
+    "character": "aissatou",
+    "coords": [-17.46, 14.7],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Ramatoulaye and Aissatou trained and taught as some of the first Western-educated Senegalese women; the schools are drawn from Dakar's teacher-training institutions and sited in the city.",
+    "reference": "The friendship chapters",
+    "order": 3,
+    "note": "The friendship at the book's heart was forged in the schools where Ramatoulaye and Aissatou were among the first generation of educated Senegalese women, promised a new place in the nation. That schooling, and the independence it gave, is what lets Aissatou walk away from her own polygamous marriage where Ramatoulaye stays.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "So Long a Letter, Wikipedia, on education and the two women",
+        "url": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "aissatou-abroad",
+    "name": "Aissatou abroad",
+    "progressLabel": "The escape",
+    "character": "aissatou",
+    "coords": [-73.97, 40.75],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Aissatou, after divorcing, rebuilds her life as an interpreter and moves to the United States; her new life abroad is set in New York, far outside the Dakar setting.",
+    "reference": "The letters about Aissatou",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Aissatou, refusing to accept her husband's second marriage, divorces, takes up interpreting and builds a new life abroad in the United States. Her distant independence, the friend to whom the whole letter is addressed, is the counter-example against which Ramatoulaye measures her own decision to endure, and the sign of another way of being a woman.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "So Long a Letter, Wikipedia, on Aissatou's divorce and new life",
+        "url": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-letter",
+    "name": "The letter",
+    "progressLabel": "The reckoning",
+    "character": "ramatoulaye",
+    "coords": [-17.438, 14.692],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The letter itself, written over the days of seclusion in the Dakar house, is the book's form and its central act; sited at the widow's house in the city.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "By the letter's end Ramatoulaye has refused a suitor's offer of yet another polygamous match and resolved to stand on her own, awaiting Aissatou's return. Bâ closes not on despair but on a guarded hope, one woman's long accounting turning into a quiet manifesto for the dignity and choices of Senegalese women.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "So Long a Letter, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

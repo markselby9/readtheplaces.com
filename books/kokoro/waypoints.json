@@ -1,0 +1,124 @@
+[
+  {
+    "id": "kamakura-beach",
+    "name": "Kamakura beach",
+    "progressLabel": "Part I",
+    "character": "the-student",
+    "coords": [139.548, 35.308],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The student first meets Sensei on the beach at Kamakura, the real seaside town south of Tokyo, where both are summering; sited at Yuigahama, outside the Tokyo setting.",
+    "reference": "Part I",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "On the crowded summer beach at Kamakura the young student notices an older man, Sensei, swimming alone, and strikes up the acquaintance that will shape his life. The seaside opening, easy and sunlit, gives no hint of the darkness Sensei carries, and sets against the coming confession the innocence with which the friendship begins.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kamakura and Yuigahama beach",
+        "url": "https://en.wikipedia.org/wiki/Kamakura"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kokoro, Wikipedia, on the meeting at Kamakura",
+        "url": "https://en.wikipedia.org/wiki/Kokoro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-university",
+    "name": "The university",
+    "progressLabel": "Part I",
+    "character": "the-student",
+    "coords": [139.762, 35.712],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Back in Tokyo the student attends the Imperial University and visits Sensei; the walks and the campus are set in the real university district of Hongō.",
+    "reference": "Part I",
+    "order": 2,
+    "note": "In Tokyo the student pursues his studies at the university and takes to calling regularly on Sensei, drawn by the older man's melancholy wisdom. Through their walks and talks across the capital, Sōseki builds the strange, one-sided intimacy of a young man's devotion to a mentor who keeps warning him away from his own heart.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "University of Tokyo, Hongō",
+        "url": "https://en.wikipedia.org/wiki/University_of_Tokyo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kokoro, Wikipedia, on the student and Sensei in Tokyo",
+        "url": "https://en.wikipedia.org/wiki/Kokoro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-lodging-house",
+    "name": "The lodging house",
+    "progressLabel": "Sensei's confession",
+    "character": "sensei",
+    "coords": [139.74, 35.7],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Sensei's confession recalls the Tokyo lodging house where, as a student, he boarded with a widow and her daughter alongside his friend K; the house is drawn from the boarding houses of Meiji Tokyo and sited in the city.",
+    "reference": "Part III (Sensei's testament)",
+    "order": 3,
+    "note": "In Sensei's long written confession the scene shifts to the Tokyo lodging house where, years before, he and his closest friend K both fell in love with their landlady's daughter. It is here that Sensei, to win her, betrayed K, in the quiet act of selfishness whose consequences will define the rest of his life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Kokoro, Wikipedia, on the lodging house and K",
+        "url": "https://en.wikipedia.org/wiki/Kokoro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "zoshigaya-cemetery",
+    "name": "Zōshigaya cemetery",
+    "progressLabel": "Sensei's confession",
+    "character": "k",
+    "coords": [139.712, 35.722],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Sensei visits K's grave each month at Zōshigaya cemetery, a real Tokyo burial ground; sited there.",
+    "reference": "Part III (Sensei's testament)",
+    "order": 4,
+    "note": "After K takes his own life, Sensei buries him at Zōshigaya and returns month after month to tend the grave, unable to lay down his guilt. The quiet cemetery, visited faithfully for years, becomes the outward sign of an inner wound that no marriage, no comfort and no passing of time can close.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Zōshigaya Cemetery, Tokyo",
+        "url": "https://en.wikipedia.org/wiki/Z%C5%8Dshigaya_Cemetery"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kokoro, Wikipedia, on K's death and the grave",
+        "url": "https://en.wikipedia.org/wiki/Kokoro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-provinces",
+    "name": "The student's home province",
+    "progressLabel": "Part II",
+    "character": "the-student",
+    "coords": [139.0, 37.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The student returns to his dying father in the rural provinces, drawn from the country districts of Meiji Japan; sited north of Tokyo, outside the city setting.",
+    "reference": "Part II",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Summoned home to the provinces where his father lies dying, the student feels the pull between the old rural world of filial duty and the modern life Sensei represents. As the Meiji Emperor's death and General Nogi's suicide reach even the countryside, Sensei's final letter arrives, and the private grief joins the passing of a whole era.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Death of Emperor Meiji, 1912",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+      },
+      {
+        "kind": "guide",
+        "ref": "Kokoro, Wikipedia, on the father and the Meiji era's end",
+        "url": "https://en.wikipedia.org/wiki/Kokoro"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

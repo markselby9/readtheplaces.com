@@ -1,0 +1,46 @@
+{
+  "id": "so-long-a-letter",
+  "title": "So Long a Letter",
+  "author": "Mariama Bâ",
+  "published": 1979,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-17.45, 14.7],
+  "zoom": 12,
+  "setting": {
+    "city": "Dakar",
+    "country": "SN",
+    "note": "Newly widowed, the Senegalese schoolteacher Ramatoulaye writes a long letter to her lifelong friend Aissatou, taking stock of her marriage, her husband's taking of a young second wife, and the choices open to educated women in post-independence Senegal. Mariama Bâ's landmark of African women's writing is set in the real Dakar: the widow's house through the confinement of mourning, the mosque and the rites, the schools where the two women trained as pioneers, and the wider world Aissatou escapes to.",
+    "bbox": [-17.53, 14.64, -17.4, 14.78]
+  },
+  "rights": {
+    "originalWork": "In copyright. Mariama Bâ, first published 1979 (Une si longue lettre). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/So_Long_a_Letter",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "So Long a Letter, Mariama Bâ (1979). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The deep plum of a woman's private reckoning, set down in the letter she writes through the long months of mourning. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ramatoulaye": {
+      "name": "Ramatoulaye",
+      "color": "#2E5064"
+    },
+    "aissatou": {
+      "name": "Aissatou",
+      "color": "#2E6B4A"
+    },
+    "modou": {
+      "name": "Modou",
+      "color": "#4A4A4A"
+    },
+    "binetou": {
+      "name": "Binetou",
+      "color": "#8A2B1E"
+    }
+  }
+}
