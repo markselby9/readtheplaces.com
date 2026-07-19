@@ -175,27 +175,64 @@ const schema = [websiteSchema(mapped.length, cities.length)];
   // on other pages; there it just GET-submits to /?q=… and this page applies it.
   const input = document.getElementById('book-search') as HTMLInputElement | null;
   const sections = [...document.querySelectorAll<HTMLElement>('[data-search-section]')];
-  if (input && sections.length) {
+  const mappedGrid = document.querySelector<HTMLElement>(
+    'section[aria-labelledby="mapped"] .books',
+  );
+
+  // Show a first screenful, not 300 cards. The rest is one click (or a search)
+  // away. The whole list stays in the DOM, so search reaches every book and the
+  // no-JS page is still the full catalogue; JS just caps what is on screen.
+  const PAGE = window.matchMedia('(max-width: 40rem)').matches ? 12 : 24;
+  let shown = PAGE;
+  let refresh: () => void = () => {};
+
+  if (input && sections.length && mappedGrid) {
     const count = document.getElementById('search-count')!;
     const empty = document.querySelector<HTMLElement>('.no-results')!;
     const items = [...document.querySelectorAll<HTMLElement>('[data-search]')];
-    const bookCount = document.querySelectorAll('.books [data-search]').length;
+    const bookCount = mappedGrid.querySelectorAll('[data-search]').length;
 
-    const apply = () => {
+    const more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'show-more';
+    mappedGrid.after(more);
+    more.addEventListener('click', () => {
+      const first = shown;
+      shown += PAGE;
+      refresh();
+      // Send focus to the first newly revealed card, so keyboard users continue
+      // where the list grew rather than jumping back to the top.
+      (mappedGrid.children[first] as HTMLElement | undefined)?.querySelector('a')?.focus();
+    });
+
+    refresh = () => {
       const q = input.value.trim().toLowerCase();
-      document.body.classList.toggle('is-searching', q.length > 0);
+      const searching = q.length > 0;
+      document.body.classList.toggle('is-searching', searching);
 
+      // City links and stub cards: filtered by search only, never capped.
       for (const el of items) {
-        el.hidden = q.length > 0 && !el.dataset.search!.includes(q);
-      }
-      for (const s of sections) {
-        s.hidden = q.length > 0 && !s.querySelector('[data-search]:not([hidden])');
+        if (mappedGrid.contains(el)) continue;
+        el.hidden = searching && !el.dataset.search!.includes(q);
       }
 
-      const shownBooks = document.querySelectorAll('.books [data-search]:not([hidden])').length;
+      // Mapped grid: every match when searching, else just the first `shown`.
+      const cards = [...mappedGrid.children] as HTMLElement[];
+      cards.forEach((el, i) => {
+        const matched = !searching || el.dataset.search!.includes(q);
+        el.hidden = searching ? !matched : i >= shown;
+      });
+      const remaining = cards.length - shown;
+      more.hidden = searching || remaining <= 0;
+      more.textContent = `Show more — ${remaining} of ${cards.length} not shown`;
+
+      for (const s of sections) {
+        s.hidden = searching && !s.querySelector('[data-search]:not([hidden])');
+      }
+      const shownBooks = mappedGrid.querySelectorAll('[data-search]:not([hidden])').length;
       const shownCities = document.querySelectorAll('.cities [data-search]:not([hidden])').length;
-      empty.hidden = q.length === 0 || shownBooks + shownCities > 0;
-      count.textContent = q.length === 0 ? '' : `${shownBooks} of ${bookCount} books`;
+      empty.hidden = !searching || shownBooks + shownCities > 0;
+      count.textContent = searching ? `${shownBooks} of ${bookCount} books` : '';
     };
 
     // Carry a query in from another page's nav search (/?q=…).
@@ -204,19 +241,18 @@ const schema = [websiteSchema(mapped.length, cities.length)];
 
     // Here the box filters live, so Enter should not reload the page.
     input.form?.addEventListener('submit', (e) => e.preventDefault());
-    input.addEventListener('input', apply);
-    if (input.value) apply();
+    input.addEventListener('input', refresh);
+    refresh();
   }
 
   // Re-sort the mapped grid. Server-renders "most read"; this lets the reader
-  // pick another order without a request. Hidden (searched-out) cards move too,
-  // which is harmless.
+  // pick another order without a request, then re-applies the cap so the new
+  // order's first cards are the ones on screen.
   const sortSel = document.getElementById('sort') as HTMLSelectElement | null;
-  const grid = document.querySelector<HTMLElement>('section[aria-labelledby="mapped"] .books');
-  if (sortSel && grid) {
+  if (sortSel && mappedGrid) {
     const num = (li: HTMLElement, k: string) => Number(li.dataset[k] ?? 0);
     sortSel.addEventListener('change', () => {
-      const cards = [...grid.children] as HTMLElement[];
+      const cards = [...mappedGrid.children] as HTMLElement[];
       const k = sortSel.value;
       cards.sort((a, b) => {
         if (k === 'title') return a.dataset.title!.localeCompare(b.dataset.title!);
@@ -225,7 +261,8 @@ const schema = [websiteSchema(mapped.length, cities.length)];
         if (k === 'places') return num(b, 'places') - num(a, 'places');
         return num(b, 'popularity') - num(a, 'popularity');
       });
-      for (const li of cards) grid.appendChild(li);
+      for (const li of cards) mappedGrid.appendChild(li);
+      refresh();
     });
   }
 </script>
@@ -346,6 +383,27 @@ const schema = [websiteSchema(mapped.length, cities.length)];
     margin-top: var(--s3);
     color: var(--accent);
     font-weight: 700;
+  }
+
+  .show-more {
+    display: block;
+    width: 100%;
+    margin-top: var(--s4);
+    padding: var(--s3);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    color: var(--ink-2);
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    cursor: pointer;
+    transition:
+      border-color 0.2s var(--ease),
+      color 0.2s var(--ease);
+  }
+  .show-more:hover {
+    border-color: var(--accent);
+    color: var(--ink);
   }
 
   /* A stub looks provisional on purpose: dashed, uncoloured, waiting. */
