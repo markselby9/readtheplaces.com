@@ -1,0 +1,46 @@
+{
+  "id": "nedjma",
+  "title": "Nedjma",
+  "author": "Kateb Yacine",
+  "published": 1956,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [7.0, 36.6],
+  "zoom": 8,
+  "setting": {
+    "city": "Constantine and Bône",
+    "country": "DZ",
+    "note": "In eastern Algeria under French colonial rule, four young men, Rachid, Lakhdar, Mourad and Mustapha, circle around the beautiful, unattainable Nedjma, a woman of mixed blood who comes to stand for Algeria itself. Kateb Yacine's fractured, founding novel of Algerian literature maps the real east: the port and worksites of Bône, the gorge-cut city of Constantine, the ancestral lands of the Keblout tribe, and the colonial labour and violence out of which a national consciousness is being born.",
+    "bbox": [6.4, 36.2, 7.9, 37.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Kateb Yacine, first published 1956. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Nedjma_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Nedjma, Kateb Yacine (1956). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of a star, which is what the name Nedjma means, the star of an Algeria not yet born that the four men reach for and never hold. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "rachid": {
+      "name": "Rachid",
+      "color": "#2E5064"
+    },
+    "lakhdar": {
+      "name": "Lakhdar",
+      "color": "#8A2B1E"
+    },
+    "mourad": {
+      "name": "Mourad",
+      "color": "#2E6B4A"
+    },
+    "nedjma": {
+      "name": "Nedjma",
+      "color": "#6B3B5A"
+    }
+  }
+}

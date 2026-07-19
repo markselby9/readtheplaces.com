@@ -1,0 +1,117 @@
+[
+  {
+    "id": "bone-the-worksite",
+    "name": "Bône (the worksite)",
+    "progressLabel": "The opening",
+    "character": "lakhdar",
+    "coords": [7.766, 36.9],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens on the colonial worksites of Bône, the real port city of eastern Algeria now called Annaba, where Lakhdar and Mourad labour under a French foreman; sited in Bône.",
+    "reference": "The opening",
+    "order": 1,
+    "note": "On a building site in Bône, Lakhdar and Mourad work as day-labourers under the contempt of the colonial foreman, until Lakhdar strikes him and is thrown in jail. The book begins in the grinding everyday of colonial labour, the humiliation and the first act of revolt out of which its wider story of Algeria unfolds.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Annaba (Bône), Algeria",
+        "url": "https://en.wikipedia.org/wiki/Annaba"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nedjma, Wikipedia, on the opening and the worksite",
+        "url": "https://en.wikipedia.org/wiki/Nedjma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "constantine",
+    "name": "Constantine",
+    "progressLabel": "The city",
+    "character": "rachid",
+    "coords": [6.614, 36.365],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Constantine, the real city built above deep gorges in eastern Algeria, is Nedjma's city and a centre of the novel's wandering; sited at the historic city.",
+    "reference": "The Constantine chapters",
+    "order": 2,
+    "note": "In Constantine, the ancient city clinging to its ravine and bridges, the men's obsession with Nedjma draws them back again and again to her walls. Kateb makes the vertiginous, divided city, half in the air over its gorge, a fitting emblem of the split colonial world and of the woman none of them can reach.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Constantine, Algeria",
+        "url": "https://en.wikipedia.org/wiki/Constantine,_Algeria"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nedjma, Wikipedia, on Constantine and Nedjma",
+        "url": "https://en.wikipedia.org/wiki/Nedjma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-keblout-lands",
+    "name": "The Keblout lands",
+    "progressLabel": "The tribe",
+    "character": "rachid",
+    "coords": [6.9, 36.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The ancestral country of the Keblout tribe, from which all four men descend, is drawn from the tribal lands of eastern Algeria and sited in the countryside between Constantine and Bône.",
+    "reference": "The tribal chapters",
+    "order": 3,
+    "note": "Behind the four men stands the broken tribe of Keblout, their common ancestor, and the ancestral lands the French conquest scattered. In the long recollected history of the tribe, Rachid above all, Kateb roots the fragmented present in a deeper Algerian past, a lineage of dispossession the novel circles back through again and again.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nedjma, Wikipedia, on the Keblout tribe and Rachid",
+        "url": "https://en.wikipedia.org/wiki/Nedjma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-strike",
+    "name": "The colonial reckoning",
+    "progressLabel": "The unrest",
+    "character": "mourad",
+    "coords": [7.75, 36.89],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The strikes, arrests and colonial violence around the eastern towns reflect the real unrest of 1940s Algeria that fed the coming war of independence; sited among the worksites of Bône.",
+    "reference": "The unrest chapters",
+    "order": 4,
+    "note": "Around the men the colonial order tightens, strikes and arrests, the shadow of the 1945 massacres, the beatings and prisons that radicalise a generation. Written on the eve of the Algerian war, the novel carries the charge of a nation about to rise, the private obsession with Nedjma bound up with the public one of liberation.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sétif and Guelma massacre, 1945",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A9tif_and_Guelma_massacre"
+      },
+      {
+        "kind": "guide",
+        "ref": "Nedjma, Wikipedia, on the colonial context",
+        "url": "https://en.wikipedia.org/wiki/Nedjma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nedjma-the-star",
+    "name": "Nedjma (the star)",
+    "progressLabel": "The myth",
+    "character": "nedjma",
+    "coords": [6.62, 36.37],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Nedjma herself, the woman all four love and none possesses, is the novel's central symbol rather than a fixed place; sited at Constantine, the city most bound to her.",
+    "reference": "Throughout",
+    "order": 5,
+    "note": "Nedjma, born of a French mother and an Algerian father, beautiful and out of reach, is less a woman the men can win than the image of Algeria itself, contested, divided, longed for. In her the four cousins' desire and the country's destiny become the same thing, and the book's circling, unresolved form is the shape of that impossible yearning.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nedjma, Wikipedia, on Nedjma as symbol of Algeria",
+        "url": "https://en.wikipedia.org/wiki/Nedjma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

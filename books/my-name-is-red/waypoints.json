@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-old-city-streets",
+    "name": "The old city streets",
+    "progressLabel": "Day 1",
+    "character": "black",
+    "coords": [28.968, 41.008],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Black returns after twelve years to the streets of old Istanbul, the real Ottoman city of workshops and neighbourhoods where the miniaturists live and the murdered gilder is found; sited in the historic peninsula.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Through the snowy lanes of the old city Black walks back into an Istanbul he left twelve years before, summoned by his uncle and drawn again to Shekure. The murder of the gilder Elegant has already set the city's painters against one another, and the winding streets, told in many voices, are where the mystery and the love story both begin.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Historic Areas of Istanbul (UNESCO World Heritage Site)",
+        "url": "https://en.wikipedia.org/wiki/Historic_Areas_of_Istanbul"
+      },
+      {
+        "kind": "guide",
+        "ref": "My Name Is Red, Wikipedia, on Black and the murder",
+        "url": "https://en.wikipedia.org/wiki/My_Name_Is_Red"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "topkapi-palace",
+    "name": "Topkapı Palace (the workshop)",
+    "progressLabel": "The Sultan's book",
+    "character": "master-osman",
+    "coords": [28.9819, 41.0115],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The imperial miniaturists' workshop and treasury sit within Topkapı Palace, the real seat of the Ottoman Sultan; the secret book and the examination of the master painters take place there.",
+    "reference": "The palace chapters",
+    "order": 2,
+    "note": "Within Topkapı, the head illuminator Master Osman rules the imperial workshop, and it is here the Sultan has secretly commissioned a book in the Frankish, European manner that so troubles the devout. When the killer must be found, Osman and Black are given three days among the palace's treasures, and the question of art, whether to paint as God's world or as the eye sees it, turns deadly.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Topkapı Palace",
+        "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace"
+      },
+      {
+        "kind": "guide",
+        "ref": "My Name Is Red, Wikipedia, on Master Osman and the Sultan's book",
+        "url": "https://en.wikipedia.org/wiki/My_Name_Is_Red"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "enishtes-house",
+    "name": "Enishte's house",
+    "progressLabel": "The courtship",
+    "character": "shekure",
+    "coords": [28.955, 41.015],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house of Black's uncle Enishte, where Shekure lives with her sons and the secret book is assembled, is drawn from the merchant houses of old Istanbul and sited in the historic city.",
+    "reference": "The house chapters",
+    "order": 3,
+    "note": "In Enishte's house the forbidden book takes shape and the widowed Shekure keeps her guarded household, watched over and watching, as Black presses his suit. The rooms where art, desire and danger gather, and where Enishte too will meet his death, are the intimate heart around which the wider mystery turns.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "My Name Is Red, Wikipedia, on Enishte, Shekure and the household",
+        "url": "https://en.wikipedia.org/wiki/My_Name_Is_Red"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-coffeehouse",
+    "name": "The coffeehouse",
+    "progressLabel": "The storyteller",
+    "character": "the-murderer",
+    "coords": [28.965, 41.007],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Ottoman coffeehouse where the miniaturists gather and a storyteller performs is drawn from the real coffeehouses of sixteenth-century Istanbul, controversial and much-frequented; sited in the old city.",
+    "reference": "The coffeehouse chapters",
+    "order": 4,
+    "note": "In the smoky coffeehouse the painters gather at night, and a storyteller gives voice to a dog, a tree, the colour red and even the murderer, in the interludes that make the novel's chorus. The place the pious denounce as a den of sedition becomes the stage where the killer half-confesses and the fatal quarrel over images comes to its head.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "History of coffeehouses in the Ottoman Empire",
+        "url": "https://en.wikipedia.org/wiki/Ottoman_coffeehouse"
+      },
+      {
+        "kind": "guide",
+        "ref": "My Name Is Red, Wikipedia, on the coffeehouse and the storyteller",
+        "url": "https://en.wikipedia.org/wiki/My_Name_Is_Red"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-city-in-snow",
+    "name": "The city in snow",
+    "progressLabel": "The ending",
+    "character": "black",
+    "coords": [28.98, 41.02],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The snow-covered city above the Bosphorus, where the final pursuit and reckoning play out, is the real Istanbul of the novel's winter setting; sited on the historic peninsula.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "As the snow keeps falling over Istanbul and the Bosphorus, the hunt for the murderer among the three suspect masters comes to its violent, sorrowful close. Pamuk ends on the passing of a whole way of seeing, the Persian-Ottoman art of the miniature giving way before the coming of the Western image, mourned even as the love story finds its uneasy peace.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bosphorus, Istanbul",
+        "url": "https://en.wikipedia.org/wiki/Bosphorus"
+      },
+      {
+        "kind": "guide",
+        "ref": "My Name Is Red, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/My_Name_Is_Red"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

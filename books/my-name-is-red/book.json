@@ -1,0 +1,46 @@
+{
+  "id": "my-name-is-red",
+  "title": "My Name Is Red",
+  "author": "Orhan Pamuk",
+  "published": 1998,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [28.97, 41.012],
+  "zoom": 13,
+  "setting": {
+    "city": "Istanbul",
+    "country": "TR",
+    "note": "Over nine snowbound days in the winter of 1591, a miniaturist is found murdered in Istanbul, and Black, newly returned to the city, must find the killer among the Sultan's painters while courting the widow Shekure. Pamuk maps the real Ottoman capital: the workshops and streets of the old city, the imperial palace of Topkapi where the Sultan's secret European-style book is being made, the coffeehouse where the miniaturists gather, and the snow-covered city above the Bosphorus, in a novel that is also a meditation on art, faith and the clash of East and West.",
+    "bbox": [28.94, 41.0, 29.0, 41.03]
+  },
+  "rights": {
+    "originalWork": "In copyright. Orhan Pamuk, first published 1998 (Benim Adım Kırmızı). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/My_Name_Is_Red",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "My Name Is Red, Orhan Pamuk (1998). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "Red, the colour that narrates a chapter in its own voice, the crimson of the miniatures and of the blood the mystery turns on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "black": {
+      "name": "Black",
+      "color": "#2E5064"
+    },
+    "shekure": {
+      "name": "Shekure",
+      "color": "#6B3B5A"
+    },
+    "master-osman": {
+      "name": "Master Osman",
+      "color": "#4A4A4A"
+    },
+    "the-murderer": {
+      "name": "The murderer",
+      "color": "#8A3B1E"
+    }
+  }
+}
