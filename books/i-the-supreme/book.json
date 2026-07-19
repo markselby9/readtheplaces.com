@@ -1,0 +1,46 @@
+{
+  "id": "i-the-supreme",
+  "title": "I the Supreme",
+  "author": "Augusto Roa Bastos",
+  "published": 1974,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-57.635, -25.283],
+  "zoom": 14,
+  "setting": {
+    "city": "Asunción",
+    "country": "PY",
+    "note": "Roa Bastos's dense, experimental masterpiece is the monologue of El Supremo, Dr José Gaspar Rodríguez de Francia, the dictator who ruled Paraguay in absolute isolation from 1814 to 1840, dictating and raving to his secretary as he dies. The setting is his sealed capital: the government palace from which he rules by decree, the closed city of Asunción cut off from the world, the prisons of his repression, and the old colonial centre around the cathedral where his omnipresent power is felt.",
+    "bbox": [-57.66, -25.3, -57.61, -25.27]
+  },
+  "rights": {
+    "originalWork": "In copyright. Augusto Roa Bastos, first published 1974 (Yo el Supremo). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/I_the_Supreme",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "I the Supreme, Augusto Roa Bastos (1974). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of an absolute tyranny and the blood it is built on, the thirty-year dictatorship the book anatomises from inside the dying dictator's mind. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "francia": {
+      "name": "El Supremo (Dr Francia)",
+      "color": "#4A4A4A"
+    },
+    "patino": {
+      "name": "Patiño",
+      "color": "#2E5064"
+    },
+    "bonpland": {
+      "name": "Bonpland",
+      "color": "#2E6B4A"
+    },
+    "the-compiler": {
+      "name": "The compiler",
+      "color": "#8A6A12"
+    }
+  }
+}

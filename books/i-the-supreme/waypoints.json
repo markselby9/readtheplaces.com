@@ -1,0 +1,122 @@
+[
+  {
+    "id": "government-palace",
+    "name": "The government palace",
+    "progressLabel": "The dictation",
+    "character": "francia",
+    "coords": [-57.635, -25.283],
+    "placeCertainty": "inferred",
+    "certaintyNote": "El Supremo rules and dictates from the seat of government in Asunción; the specific chamber is sited in the historic centre of the real capital, the exact building the novel's own.",
+    "reference": "The framing monologue",
+    "order": 1,
+    "note": "From his chamber the dying dictator pours out a torrent of decree, memory, invective and self-justification, dictating to his secretary the account of a life that is also the life of a nation. The palace, from which for decades every order in Paraguay issued, is the closed centre of a book that never really leaves the tyrant's absolute, solitary power.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "José Gaspar Rodríguez de Francia and the government of Paraguay",
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar_Rodr%C3%ADguez_de_Francia"
+      },
+      {
+        "kind": "guide",
+        "ref": "I the Supreme, Wikipedia, on El Supremo and the monologue",
+        "url": "https://en.wikipedia.org/wiki/I_the_Supreme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "asuncion-sealed-city",
+    "name": "Asunción (the sealed city)",
+    "progressLabel": "The closed nation",
+    "character": "patino",
+    "coords": [-57.632, -25.285],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Under Francia, the real capital Asunción, and all Paraguay, was sealed off from the outside world for decades; the city is the novel's ground, moved through by the secretary Patiño.",
+    "reference": "The closed-nation chapters",
+    "order": 2,
+    "note": "Francia's Paraguay is a country locked shut, its borders closed, its trade throttled, its people watched, and Asunción is its silent, fearful heart. The devoted, put-upon secretary Patiño carries the dictator's words through this hushed capital, himself never safe from the master he serves.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Asunción, Paraguay",
+        "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+      },
+      {
+        "kind": "guide",
+        "ref": "I the Supreme, Wikipedia, on Patiño and the sealed nation",
+        "url": "https://en.wikipedia.org/wiki/I_the_Supreme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-prisons",
+    "name": "The prisons",
+    "progressLabel": "The repression",
+    "character": "bonpland",
+    "coords": [-57.638, -25.286],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Francia's rule ran on prisons and surveillance; among his real captives was the French naturalist Aimé Bonpland, held for years. The dungeons are sited in the historic centre of Asunción.",
+    "reference": "The repression chapters",
+    "order": 3,
+    "note": "The dictator's power rests on a web of prisons and informers, and among those he detains is the celebrated botanist Bonpland, kept from leaving the country for years. Through such figures the monologue keeps brushing against the real cruelties of the regime the Supreme insists were only for the nation's good.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Aimé Bonpland and his detention in Paraguay",
+        "url": "https://en.wikipedia.org/wiki/Aim%C3%A9_Bonpland"
+      },
+      {
+        "kind": "guide",
+        "ref": "I the Supreme, Wikipedia, on the historical background",
+        "url": "https://en.wikipedia.org/wiki/I_the_Supreme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cathedral-plaza",
+    "name": "The cathedral and plaza",
+    "progressLabel": "The city centre",
+    "character": "the-compiler",
+    "coords": [-57.634, -25.281],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The colonial cathedral and central plaza of Asunción are the real civic heart of the city over which Francia's authority presides; sited in the historic centre.",
+    "reference": "The compiler's notes",
+    "order": 4,
+    "note": "Around the cathedral and the old plaza, the shadowy compiler who assembles and annotates the dictator's papers weighs the Supreme's version against the documents and rumours of history. Roa Bastos sets his own act of assembling the book against Francia's, truth and power contending over the same city and the same past.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cathedral of Asunción",
+        "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+      },
+      {
+        "kind": "guide",
+        "ref": "I the Supreme, Wikipedia, on the compiler and the text",
+        "url": "https://en.wikipedia.org/wiki/I_the_Supreme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "asuncion-absolute-power",
+    "name": "Asunción (the absolute power)",
+    "progressLabel": "The death of the Supreme",
+    "character": "francia",
+    "coords": [-57.633, -25.284],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The whole of the capital, and of Paraguay, is the theatre of Francia's absolute personal power; sited in the real Asunción from which he ruled until his death in 1840.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "As the Supreme dies, the book circles the question of what a man who was the state leaves behind, his corpse and his archive alike contested and defiled. Roa Bastos ends with the dictator dissolving into the documents and the nation he tried to master absolutely, the I that would be everything reduced at last to a heap of disputed papers.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "I the Supreme, Wikipedia, on the death of the Supreme",
+        "url": "https://en.wikipedia.org/wiki/I_the_Supreme"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
