@@ -1,0 +1,46 @@
+{
+  "id": "migrations",
+  "title": "Migrations",
+  "author": "Miloš Crnjanski",
+  "published": 1929,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [19.72, 45.02],
+  "zoom": 10,
+  "setting": {
+    "city": "Vojvodina",
+    "country": "RS",
+    "note": "Crnjanski's melancholy masterpiece follows the Serbs of the Habsburg military frontier in the 1740s, colonists and soldiers of an empire not their own, dreaming of migrating to Orthodox Russia. Its ground is the Serbian frontier of the Vojvodina and Srem along the Danube: the frontier villages and the officer Vuk Isakovič's home, the great river that marks the border and the road to war, and the prosperous town of his merchant brother, while the campaigns of a foreign war and the far-off dream of Russia pull the exiles endlessly on.",
+    "bbox": [19.65, 44.97, 19.8, 45.08]
+  },
+  "rights": {
+    "originalWork": "In copyright. Miloš Crnjanski, first published 1929 (Seobe). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Migrations_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Migrations, Miloš Crnjanski (1929). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue of Crnjanski's endless longing and migration, the colour of a homeland always somewhere else. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "vuk": {
+      "name": "Vuk Isakovič",
+      "color": "#4A4A4A"
+    },
+    "dafina": {
+      "name": "Dafina",
+      "color": "#8A2B1E"
+    },
+    "arandel": {
+      "name": "Aranđel",
+      "color": "#8A6A12"
+    },
+    "the-general": {
+      "name": "The general",
+      "color": "#2E6B4A"
+    }
+  }
+}

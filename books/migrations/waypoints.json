@@ -1,0 +1,119 @@
+[
+  {
+    "id": "the-frontier-villages",
+    "name": "The frontier villages",
+    "progressLabel": "The home",
+    "character": "dafina",
+    "coords": [19.7, 45.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Isakovič family lives in the Serbian villages of the Habsburg military frontier in the Vojvodina and Srem; the villages are sited in that real region along the Danube, the specific settlement the novel's own.",
+    "reference": "The home chapters",
+    "order": 1,
+    "note": "In the frontier village Vuk Isakovič's wife Dafina waits through the long absences of a soldier-husband forever marched off to the Empire's wars. The colonists' precarious life on the military border, tolerated but never quite belonging, is the ground of the book's great theme of a people without a country of their own.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Serbs of the Habsburg Military Frontier",
+        "url": "https://en.wikipedia.org/wiki/Military_Frontier"
+      },
+      {
+        "kind": "guide",
+        "ref": "Migrations (novel), Wikipedia, on the Isakovič family",
+        "url": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-danube-frontier",
+    "name": "The Danube (the frontier)",
+    "progressLabel": "The march",
+    "character": "vuk",
+    "coords": [19.75, 45.05],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Danube, the great river marking the frontier of the Habsburg lands, is where Vuk's regiment musters and crosses to march to war; the real river anchors the geography of the frontier.",
+    "reference": "The march chapters",
+    "order": 2,
+    "note": "From the banks of the Danube Vuk leads his Serbian regiment off to fight the Empire's battles far away, weary and half-unwilling, a soldier of a cause that is not his people's. The river, boundary and road at once, carries him out toward the West and back again, the eternal coming and going that gives the book its title.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Danube",
+        "url": "https://en.wikipedia.org/wiki/Danube"
+      },
+      {
+        "kind": "guide",
+        "ref": "Migrations (novel), Wikipedia, on Vuk Isakovič",
+        "url": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-western-campaign",
+    "name": "The western campaign",
+    "progressLabel": "The war",
+    "character": "the-general",
+    "coords": [8.0, 50.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Vuk's regiment marches west to fight in the War of the Austrian Succession, on campaigns in the German lands; the theatre is real, the exact route the novel's own, far from the Serbian frontier.",
+    "reference": "The war chapters",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Under Austrian generals, Vuk's Serbs are marched across half of Europe to fight in a war whose causes mean nothing to them, dying for an emperor who despises them. The distant, pointless campaign, all mud, boredom and slaughter, embodies the futility of a people's service to a foreign crown.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "War of the Austrian Succession",
+        "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
+      },
+      {
+        "kind": "guide",
+        "ref": "Migrations (novel), Wikipedia, on the campaign",
+        "url": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-merchant-town",
+    "name": "The merchant's town",
+    "progressLabel": "Aranđel",
+    "character": "arandel",
+    "coords": [19.72, 45.02],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Vuk's brother Aranđel prospers as a merchant in a frontier town of the Vojvodina; the town and his house are sited in the real region, the specific place the novel's own.",
+    "reference": "The Aranđel chapters",
+    "order": 4,
+    "note": "While Vuk marches and dies a little on every campaign, his brother Aranđel stays home and grows rich by trade, and in the officer's absence draws close to Dafina. The merchant's comfortable, worldly life stands against the soldier's rootless honour, the two brothers embodying the choices open to a people trying to survive between empires.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Migrations (novel), Wikipedia, on Aranđel",
+        "url": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-dream-of-russia",
+    "name": "The dream of Russia",
+    "progressLabel": "The longing",
+    "character": "vuk",
+    "coords": [37.6, 55.75],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Vuk and many frontier Serbs dream of migrating to Orthodox Russia, an imagined homeland far to the north-east; sited at Russia, the longed-for destination beyond the novel's actual setting.",
+    "reference": "The longing chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Through all his weariness Vuk nurses the dream shared by many of the frontier Serbs, of migrating to a great Orthodox Russia where they would at last be among their own. Russia, forever imagined and never reached, is the blue horizon of the book's longing, the true homeland that exists only as a direction to keep migrating toward.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Migrations (novel), Wikipedia, on the migration to Russia",
+        "url": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

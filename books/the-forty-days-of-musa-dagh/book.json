@@ -1,0 +1,46 @@
+{
+  "id": "the-forty-days-of-musa-dagh",
+  "title": "The Forty Days of Musa Dagh",
+  "author": "Franz Werfel",
+  "published": 1933,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [35.94, 36.21],
+  "zoom": 11,
+  "setting": {
+    "city": "Musa Dagh",
+    "country": "TR",
+    "note": "Based on a true episode of the Armenian genocide, Werfel's epic follows the Armenians of seven villages who, rather than submit to deportation in 1915, fortify the mountain of Musa Dagh above the Mediterranean and hold out for forty days until French warships take them off. The real coast of the old Vilayet of Aleppo, now Hatay, grounds it: the villages at the mountain's foot, the fortified plateau of the Damlayik, the sea below from which rescue comes, and the plain toward Antioch where the Ottoman power gathers.",
+    "bbox": [35.88, 36.17, 36.02, 36.25]
+  },
+  "rights": {
+    "originalWork": "In copyright. Franz Werfel, first published 1933 (Die vierzig Tage des Musa Dagh). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Forty_Days_of_Musa_Dagh",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Forty Days of Musa Dagh, Franz Werfel (1933). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the resistance and of the blood of the genocide the book set out to make the world remember. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gabriel": {
+      "name": "Gabriel Bagradian",
+      "color": "#2E5064"
+    },
+    "juliette": {
+      "name": "Juliette",
+      "color": "#8A6A12"
+    },
+    "stephan": {
+      "name": "Stephan",
+      "color": "#2E6B4A"
+    },
+    "ter-haigasun": {
+      "name": "Ter Haigasun",
+      "color": "#4A4A4A"
+    }
+  }
+}
