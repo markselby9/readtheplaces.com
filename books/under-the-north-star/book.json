@@ -1,0 +1,46 @@
+{
+  "id": "under-the-north-star",
+  "title": "Under the North Star",
+  "author": "Väinö Linna",
+  "published": 1959,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [23.55, 61.08],
+  "zoom": 9,
+  "setting": {
+    "city": "Pentinkulma",
+    "country": "FI",
+    "note": "In the Häme village of Pentinkulma, the tenant farmer Jussi Koskela clears a bog into a croft, and over three generations the simmering injustice between landless crofters and their landlords swells into the catastrophe of the 1918 Finnish Civil War, which tears the community apart. Linna's national trilogy is rooted in the real countryside of southern Finland he came from: the reclaimed farmland, the parsonage and manor, the workers' hall, and the front and reprisals of the war that split the young nation.",
+    "bbox": [23.3, 60.9, 23.9, 61.3]
+  },
+  "rights": {
+    "originalWork": "In copyright. Väinö Linna, first published 1959-1962 (Täällä Pohjantähden alla). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Under the North Star, Väinö Linna (1959). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The Red of the crofters and workers who rise in 1918, and of the blood spilled when the rising is crushed, the class wound at the trilogy's heart. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jussi": {
+      "name": "Jussi",
+      "color": "#4A4A4A"
+    },
+    "akseli": {
+      "name": "Akseli",
+      "color": "#8A3B1E"
+    },
+    "the-vicar": {
+      "name": "The vicar",
+      "color": "#2E5064"
+    },
+    "elina": {
+      "name": "Elina",
+      "color": "#6B3B5A"
+    }
+  }
+}

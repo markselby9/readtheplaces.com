@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-malinke-home",
+    "name": "The Malinké home",
+    "progressLabel": "The orphan",
+    "character": "birahima",
+    "coords": [-6.5, 9.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Birahima's home in the Malinké country of northern Côte d'Ivoire, from which he sets out, is drawn from that real region; sited there at the edge of the setting.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Birahima grows up in a Malinké village in the north until his mother dies, and he sets off with the con-man grigriman Yacouba to find his aunt across the border in Liberia. Kourouma establishes the boy's brash, profane narrating voice at once, a ten-year-old armed with four dictionaries and no illusions, about to walk straight into hell.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mandinka (Malinké) people of West Africa",
+        "url": "https://en.wikipedia.org/wiki/Mandinka_people"
+      },
+      {
+        "kind": "guide",
+        "ref": "Allah Is Not Obliged, Wikipedia, on Birahima and Yacouba",
+        "url": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-border",
+    "name": "The border into war",
+    "progressLabel": "The crossing",
+    "character": "yacouba",
+    "coords": [-8.3, 7.6],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The crossing from Côte d'Ivoire into war-torn Liberia is drawn from the real frontier of the 1990s conflict; sited on the border within the setting.",
+    "reference": "The journey chapters",
+    "order": 2,
+    "note": "Crossing into Liberia, Birahima and Yacouba enter a country dissolved into warring factions, roadblocks and child armies, where a grigriman's charms and a boy's Kalashnikov are the only currencies. Kourouma turns the border into a threshold between an ordinary poverty and pure anarchy, the moment the child steps into the machinery of war.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "First Liberian Civil War",
+        "url": "https://en.wikipedia.org/wiki/First_Liberian_Civil_War"
+      },
+      {
+        "kind": "guide",
+        "ref": "Allah Is Not Obliged, Wikipedia, on the entry into Liberia",
+        "url": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-warlord-camps",
+    "name": "The warlord camps",
+    "progressLabel": "The child soldier",
+    "character": "the-warlord",
+    "coords": [-9.5, 6.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Birahima is made a child soldier in the warlord camps of the Liberian civil war, drawn from the real factions and their armies of boys; sited in the Liberian interior.",
+    "reference": "The Liberia chapters",
+    "order": 3,
+    "note": "Handed a gun and drugs, Birahima becomes a child soldier, shuttled between the rival warlords whose factions carve up Liberia, and he reels off the names of the friends killed around him like a grim roll-call. Kourouma exposes the whole obscene economy of the child-soldier war, the boys made killers, the warlords grown rich, all of it reported in Birahima's chillingly casual voice.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Use of children in the Liberian and Sierra Leonean wars",
+        "url": "https://en.wikipedia.org/wiki/Children_in_the_military"
+      },
+      {
+        "kind": "guide",
+        "ref": "Allah Is Not Obliged, Wikipedia, on the child soldiers and warlords",
+        "url": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-sierra-leone-diamonds",
+    "name": "The Sierra Leone diamonds",
+    "progressLabel": "The RUF",
+    "character": "birahima",
+    "coords": [-11.3, 8.3],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The war spills into Sierra Leone, where the RUF's diamond fields and its signature amputations appear; sited in the diamond country of the real conflict.",
+    "reference": "The Sierra Leone chapters",
+    "order": 4,
+    "note": "The war carries Birahima on into Sierra Leone, into the diamond fields the factions fight over and the villages where the rebels hack off hands. Kourouma binds the child soldiers, the blood diamonds and the mutilations into one system, the mineral wealth that pays for the guns and buys the boys who fire them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sierra Leone Civil War and blood diamonds",
+        "url": "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
+      },
+      {
+        "kind": "guide",
+        "ref": "Allah Is Not Obliged, Wikipedia, on Sierra Leone and the diamonds",
+        "url": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-endless-war",
+    "name": "The endless war",
+    "progressLabel": "The reckoning",
+    "character": "the-aunt",
+    "coords": [-9.0, 7.0],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Birahima's long search for his aunt across the shifting fronts of the two wars is drawn from the real, chaotic geography of the West African conflicts; sited across the setting.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "Across the tangled fronts Birahima keeps searching for his aunt, finding her only to lose her again to the war's endless churn, and resolves at last simply to tell his story. Kourouma ends not with resolution but with the boy's decision to bear witness, his blasphemous refrain, that Allah is not obliged to be fair to the things of this world, standing as the book's bleak, unanswerable verdict.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Allah Is Not Obliged, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

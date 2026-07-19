@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-koskela-croft",
+    "name": "The Koskela croft",
+    "progressLabel": "The bog",
+    "character": "jussi",
+    "coords": [23.55, 61.08],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pentinkulma is Linna's fictional village, drawn from his own Urjala in the Häme region of southern Finland; the Koskela croft is sited in that real countryside.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "The trilogy opens with the crofter Jussi Koskela draining and clearing a worthless bog into good farmland by sheer stubborn labour, only to hold it as a tenant at the parson's pleasure. Linna's famous first line and this founding act set the whole saga's theme, the land wrested from nothing by the poor, and never quite their own.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Urjala and the Häme region, Finland",
+        "url": "https://en.wikipedia.org/wiki/Urjala"
+      },
+      {
+        "kind": "guide",
+        "ref": "Under the North Star, Wikipedia, on Jussi Koskela and the croft",
+        "url": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-parsonage",
+    "name": "The parsonage",
+    "progressLabel": "The landlords",
+    "character": "the-vicar",
+    "coords": [23.56, 61.09],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The parsonage and manor, whose owners hold the crofters' land and labour, are drawn from the estates of rural Häme; sited in the village of the setting.",
+    "reference": "The middle chapters",
+    "order": 2,
+    "note": "At the parsonage the vicar and the gentry embody the old order under which the crofters live on sufferance, their rents and days of labour owed to men who scarcely see them. Linna anatomises this everyday injustice with a patient, unsentimental eye, showing how the grievance builds, generation by generation, toward an inevitable reckoning.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Under the North Star, Wikipedia, on the crofter system and the landlords",
+        "url": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-workers-hall",
+    "name": "The workers' hall",
+    "progressLabel": "The awakening",
+    "character": "akseli",
+    "coords": [23.54, 61.075],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village workers' hall, centre of the rising labour movement, is drawn from the real workers' associations of early-twentieth-century Finland; sited in Pentinkulma.",
+    "reference": "The labour-movement chapters",
+    "order": 3,
+    "note": "In the workers' hall the crofters' sons, above all the hot-headed Akseli Koskela, take up the socialist labour movement sweeping the country, and begin to imagine a fairer world. Linna traces the awakening of political consciousness among the rural poor, the hall where speeches and songs turn old resentment into organised hope.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Finnish labour movement",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland"
+      },
+      {
+        "kind": "guide",
+        "ref": "Under the North Star, Wikipedia, on Akseli and the labour movement",
+        "url": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-civil-war",
+    "name": "The Civil War",
+    "progressLabel": "1918",
+    "character": "akseli",
+    "coords": [23.58, 61.12],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The 1918 Finnish Civil War between Reds and Whites, in which the village's men fight and die, is a real historical catastrophe; sited in the Häme countryside of the setting.",
+    "reference": "The 1918 chapters",
+    "order": 4,
+    "note": "When Finland's independence tips into civil war in 1918, the crofters and workers of Pentinkulma take up arms with the Reds, and Akseli leads the local men to the front. Linna renders the war from the losers' side with unmatched force, the villagers' brief, doomed bid for justice colliding with the better-armed Whites.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Finnish Civil War, 1918",
+        "url": "https://en.wikipedia.org/wiki/Finnish_Civil_War"
+      },
+      {
+        "kind": "guide",
+        "ref": "Under the North Star, Wikipedia, on the 1918 war",
+        "url": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-white-terror",
+    "name": "The reprisals",
+    "progressLabel": "The aftermath",
+    "character": "elina",
+    "coords": [23.55, 61.085],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The White reprisals after the war, the executions and prison camps that killed tens of thousands of Reds, are a real event; sited in the village where the Koskela family is struck down.",
+    "reference": "The aftermath chapters",
+    "order": 5,
+    "note": "The Whites' victory brings mass executions and camps, and the Koskela household is shattered as its men are shot or imprisoned, leaving Akseli's wife Elina to hold the family together. Linna ends the war chapters on this grief and injustice, and the long, hard reconciliation by which a divided nation slowly learns, over the trilogy's remaining years, to live with itself.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "White Terror in the Finnish Civil War",
+        "url": "https://en.wikipedia.org/wiki/White_Terror_(Finland)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Under the North Star, Wikipedia, on the reprisals and Elina",
+        "url": "https://en.wikipedia.org/wiki/Under_the_North_Star_(trilogy)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "allah-is-not-obliged",
+  "title": "Allah Is Not Obliged",
+  "author": "Ahmadou Kourouma",
+  "published": 2000,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-9.5, 7.5],
+  "zoom": 6,
+  "setting": {
+    "city": "Liberia and Sierra Leone",
+    "country": "LR",
+    "note": "Birahima, a foul-mouthed ten-year-old orphan from the Malinké country of northern Côte d'Ivoire, sets out to find his aunt and is swept into the 1990s civil wars of Liberia and Sierra Leone, becoming a child soldier passed from warlord to warlord. Kourouma maps a real and terrible West Africa: the boy's home in the north, the border crossing into war, the warlord camps of Liberia, and the diamond fields of Sierra Leone, all narrated in a child's blunt, dictionary-quoting voice.",
+    "bbox": [-13.0, 6.0, -6.0, 9.8]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ahmadou Kourouma, first published 2000 (Allah n'est pas obligé). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Allah Is Not Obliged, Ahmadou Kourouma (2000). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The blood-brown of the wars Birahima walks through, the horror his child's voice reports as though it were the most ordinary thing in the world. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "birahima": {
+      "name": "Birahima",
+      "color": "#2E5064"
+    },
+    "yacouba": {
+      "name": "Yacouba",
+      "color": "#8A6A12"
+    },
+    "the-warlord": {
+      "name": "The warlord",
+      "color": "#4A4A4A"
+    },
+    "the-aunt": {
+      "name": "The aunt",
+      "color": "#6B3B5A"
+    }
+  }
+}
