@@ -1,0 +1,46 @@
+{
+  "id": "red-poppies",
+  "title": "Red Poppies",
+  "author": "Alai",
+  "published": 1998,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [102.22, 31.9],
+  "zoom": 9,
+  "setting": {
+    "city": "Gyalrong",
+    "country": "CN",
+    "note": "Narrated by the supposedly idiot second son of a Tibetan chieftain, Alai's novel follows the last days of the feudal chieftain system in the Gyalrong borderlands of eastern Tibet in the 1930s and 40s, as opium poppies bring sudden wealth, guns and ruin, and the Chinese armies close in. The world of the book is that frontier: the chieftain's fortress-estate, the poppy fields that transform it, the market and border where Han traders and warlords come, and the mountains beyond which a whole way of life is about to end.",
+    "bbox": [102.05, 31.82, 102.35, 31.98]
+  },
+  "rights": {
+    "originalWork": "In copyright. Alai, first published 1998 (Chen'ai Luoding). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Red_Poppies",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Red Poppies, Alai (1998). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the opium poppies whose wealth and violence destroy the old chieftain world, and of the blood they bring. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "the-narrator": {
+      "name": "The idiot son",
+      "color": "#2E5064"
+    },
+    "the-chieftain": {
+      "name": "Chieftain Maichi",
+      "color": "#4A4A4A"
+    },
+    "the-elder-brother": {
+      "name": "The elder brother",
+      "color": "#8A6A12"
+    },
+    "the-steward": {
+      "name": "The steward",
+      "color": "#2E6B4A"
+    }
+  }
+}

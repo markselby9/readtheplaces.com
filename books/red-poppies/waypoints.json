@@ -1,0 +1,107 @@
+[
+  {
+    "id": "the-chieftains-fortress",
+    "name": "The chieftain's fortress",
+    "progressLabel": "Part 1",
+    "character": "the-chieftain",
+    "coords": [102.2, 31.9],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Maichi chieftain rules from a fortress-estate in the Gyalrong region of eastern Tibet (western Sichuan); the specific fortress is invented and sited in that real Tibetan borderland.",
+    "reference": "Part 1",
+    "order": 1,
+    "note": "From his walled estate the Maichi chieftain governs his lands, serfs and household by the ancient tusi system, in a world where a chieftain's word is law and life. His idiot younger son, the book's clear-eyed narrator, watches the whole feudal order from within its stone walls, half-fool and half-seer.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Gyalrong and the Tibetan tusi (chieftain) system",
+        "url": "https://en.wikipedia.org/wiki/Gyalrong"
+      },
+      {
+        "kind": "guide",
+        "ref": "Red Poppies, Wikipedia, on the Maichi chieftain and the narrator",
+        "url": "https://en.wikipedia.org/wiki/Red_Poppies"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-poppy-fields",
+    "name": "The poppy fields",
+    "progressLabel": "Part 2",
+    "character": "the-narrator",
+    "coords": [102.22, 31.92],
+    "placeCertainty": "explicit",
+    "certaintyNote": "On the advice of a Han official the chieftain plants opium poppies, whose fields transform the estate's fortunes; the poppy cultivation is sited on the real farmland of the chieftain's domain.",
+    "reference": "Part 2",
+    "order": 2,
+    "note": "When the estate turns its fields over to opium poppies, sudden wealth pours in, and with it addiction, envy and war among the chieftains. The red poppies that give the book its title are the poison that both enriches and dooms the old world, and the idiot son's uncanny foresight about markets and grain marks him out as wiser than the clever.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Poppies, Wikipedia, on the opium and the estate's fortunes",
+        "url": "https://en.wikipedia.org/wiki/Red_Poppies"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-market-border",
+    "name": "The market and border",
+    "progressLabel": "Part 3",
+    "character": "the-steward",
+    "coords": [102.25, 31.88],
+    "placeCertainty": "inferred",
+    "certaintyNote": "A market town grows at the border of the domain where Han traders, warlords' agents and guns come; the market is sited at the real frontier between the Tibetan lands and Han China.",
+    "reference": "Part 3",
+    "order": 3,
+    "note": "At the frontier market the idiot son sets up a trading post that draws Han merchants, silver and modern weapons deep into the chieftain's world. The border, where two civilisations meet and the guns and money of the outside flood in, is where the old self-contained order begins fatally to dissolve.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Poppies, Wikipedia, on trade and the frontier",
+        "url": "https://en.wikipedia.org/wiki/Red_Poppies"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-other-domains",
+    "name": "The other domains (the wars)",
+    "progressLabel": "Part 4",
+    "character": "the-elder-brother",
+    "coords": [102.1, 31.95],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The neighbouring chieftains' domains, with which the Maichi wage war over the new wealth, are drawn from the real patchwork of tusi territories in the Gyalrong region; sited in that borderland.",
+    "reference": "Part 4",
+    "order": 4,
+    "note": "As the poppy wealth upsets the balance among the chieftains, wars break out, and the ambitious elder brother, the designated heir, leads the Maichi's forces against their rivals. The feuds among the domains, fought now with modern rifles, hasten the ruin of a whole system that had endured for centuries.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Poppies, Wikipedia, on the wars between chieftains",
+        "url": "https://en.wikipedia.org/wiki/Red_Poppies"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-frontier-end",
+    "name": "The frontier (the end)",
+    "progressLabel": "The ending",
+    "character": "the-narrator",
+    "coords": [102.3, 31.85],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Chinese Communist armies reach the Tibetan frontier, ending the chieftain system for good; sited on the real mountain frontier of the Gyalrong borderlands.",
+    "reference": "The ending",
+    "order": 5,
+    "note": "At last the Red Army comes over the mountains, and the whole world of chieftains, serfs and fortresses is swept away in a single generation. The idiot narrator, who foresaw the dust settling, watches the end of his people's old order from the frontier, the last heir of a vanished kingdom.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Red Poppies, Wikipedia, on the ending and the Communist arrival",
+        "url": "https://en.wikipedia.org/wiki/Red_Poppies"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-village",
+    "name": "The village",
+    "progressLabel": "Chapter 1",
+    "character": "ketil",
+    "coords": [-6.8, 62.1],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ketil and his wife live in a turf-roofed house in a small Faroese village; the village is invented and sited in the real islands, whose settlements the book portrays.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "In the small village of turf-roofed houses, the old fisherman Ketil belongs to a generation that still lives by its own hands, growing, fishing and gathering what it needs. His stubborn, dignified attachment to the old self-sufficient ways is the ground of the whole book's gentle comedy of a world in transition.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Faroe Islands",
+        "url": "https://en.wikipedia.org/wiki/Faroe_Islands"
+      },
+      {
+        "kind": "guide",
+        "ref": "Heðin Brú and The Old Man and His Sons",
+        "url": "https://en.wikipedia.org/wiki/He%C3%B0in_Br%C3%BA"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-whale-drive",
+    "name": "The whale drive",
+    "progressLabel": "Chapter 2",
+    "character": "kalvur",
+    "coords": [-6.82, 62.08],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The book turns on a grindadráp, the traditional Faroese whale drive and the auction of the meat on the shore; the drive is a real communal custom of the islands, sited on a fjord below the village.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "At the whale drive, caught up in the excitement of the auction on the beach, the old man bids for far more whale meat than he has money to pay for, and lands himself in a crippling debt. The grind, ancient bond of the island community, becomes the trap that sets the whole story in motion, its old collective ways colliding with the new demand for cash.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Grindadráp (Faroese whaling)",
+        "url": "https://en.wikipedia.org/wiki/Whaling_in_the_Faroe_Islands"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Old Man and His Sons, on the whale auction and the debt",
+        "url": "https://en.wikipedia.org/wiki/He%C3%B0in_Br%C3%BA"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-fjord-fishing",
+    "name": "The fjord (the fishing)",
+    "progressLabel": "Chapter 5",
+    "character": "the-eldest-son",
+    "coords": [-6.85, 62.09],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The fjords and open sea around the islands, worked by the fishing boats, are the real element of Faroese life; sited in the waters off the village.",
+    "reference": "The fishing chapters",
+    "order": 3,
+    "note": "To raise the money, the old man goes back out to the hard, dangerous sea-fishing of his youth, while his more modern sons take a different, easier view of debt and work. The fjord and the boats measure the gulf between Ketil's generation, which earns everything by its own toil, and sons who belong already to the coming world of wages and shops.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and His Sons, on fishing and the sons",
+        "url": "https://en.wikipedia.org/wiki/He%C3%B0in_Br%C3%BA"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village-shop",
+    "name": "The village shop",
+    "progressLabel": "Chapter 8",
+    "character": "the-wife",
+    "coords": [-6.79, 62.101],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The village shop and the cash economy it represents are set against the old couple's self-sufficiency; the shop is invented and sited in the real village world of the book.",
+    "reference": "The debt chapters",
+    "order": 4,
+    "note": "At the shop and in the reckoning of the debt, the new money economy shows its cold face, and the old wife's thrift and pride are tested to the limit. Heðin Brú sets the couple's dignified, resourceful poverty against the shopkeeper's ledger, mourning and quietly celebrating a way of life the islands are leaving behind.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and His Sons, on the debt and the new economy",
+        "url": "https://en.wikipedia.org/wiki/He%C3%B0in_Br%C3%BA"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-mountain-outfield",
+    "name": "The mountain outfield",
+    "progressLabel": "Chapter 11",
+    "character": "ketil",
+    "coords": [-6.78, 62.12],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The mountain outfield above the village, where the old subsistence life gathers birds, eggs, peat and wool, is a real feature of Faroese land use; sited on the heights above the settlement.",
+    "reference": "The outfield chapters",
+    "order": 5,
+    "note": "Up on the mountain outfield, in the old work of the birds, the peat and the sheep, Ketil is most himself, master of a knowledge and a life the coming age will have no use for. The book ends with the debt met by sheer stubborn toil, and the old man, a little absurd and wholly admirable, standing for a world of self-reliance passing quietly away.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Faroe Islands land use (outfield)",
+        "url": "https://en.wikipedia.org/wiki/Faroe_Islands"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Old Man and His Sons, on the old ways and the ending",
+        "url": "https://en.wikipedia.org/wiki/He%C3%B0in_Br%C3%BA"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
