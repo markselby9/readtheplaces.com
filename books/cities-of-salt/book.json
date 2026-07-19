@@ -1,0 +1,46 @@
+{
+  "id": "cities-of-salt",
+  "title": "Cities of Salt",
+  "author": "Abdelrahman Munif",
+  "published": 1984,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [49.6, 25.9],
+  "zoom": 8,
+  "setting": {
+    "city": "the eastern desert",
+    "country": "SA",
+    "note": "When Americans arrive to drill for oil, the timeless desert oasis of Wadi al-Uyoun is bulldozed away and its people scattered, many washing up in the raw coastal boomtown of Harran, remade by the oil economy into a place of camps, wages and grievance. Munif's great banned epic of the Arabian oil age is drawn from the real eastern province of Saudi Arabia: the vanished oasis of the interior, the coming of the machines, and the segregated oil town on the Gulf where a new and bitter world is born.",
+    "bbox": [48.8, 25.2, 50.3, 26.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. Abdelrahman Munif, first published 1984 (Mudun al-Milh). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Cities_of_Salt",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Cities of Salt, Abdelrahman Munif (1984). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The burnt earth-red of the razed oasis and the oil-scorched desert, the colour of a world torn up by its roots. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "miteb": {
+      "name": "Miteb al-Hathal",
+      "color": "#2E6B4A"
+    },
+    "the-americans": {
+      "name": "The Americans",
+      "color": "#4A4A4A"
+    },
+    "ibn-rashed": {
+      "name": "Ibn Rashed",
+      "color": "#8A6A12"
+    },
+    "the-emir": {
+      "name": "The Emir",
+      "color": "#6B3B5A"
+    }
+  }
+}

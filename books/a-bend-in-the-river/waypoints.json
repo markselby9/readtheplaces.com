@@ -1,0 +1,128 @@
+[
+  {
+    "id": "the-town-at-the-bend",
+    "name": "The town at the bend",
+    "progressLabel": "The shop",
+    "character": "salim",
+    "coords": [25.19, 0.515],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Salim's shop and the market town at the river's bend are drawn from Kisangani, the real city on the upper Congo, left unnamed in the novel; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Salim drives inland to buy a shop in the half-ruined town at the bend of the river, where the trade of the interior slowly revives after the chaos of independence. The market, the shabby shops, the mix of peoples washed up here, this is the frontier world in which Naipaul watches a new Africa try, and fail, to hold itself together.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kisangani, Democratic Republic of the Congo",
+        "url": "https://en.wikipedia.org/wiki/Kisangani"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Bend in the River, Wikipedia, on Salim and the town",
+        "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-great-river",
+    "name": "The great river",
+    "progressLabel": "The river",
+    "character": "zabeth",
+    "coords": [25.18, 0.52],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great river of the novel is the Congo, on which the town sits and by which the trader-woman Zabeth brings her goods; sited on the river at the town.",
+    "reference": "The river chapters",
+    "order": 2,
+    "note": "Down the great river the marchande Zabeth poles her dugout from her secret village to trade at Salim's shop, and up it drifts the water hyacinth, the new weed choking the channels. The river, carrying both commerce and the ever-returning wild, is the book's central presence, indifferent to the human schemes on its banks.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Congo River",
+        "url": "https://en.wikipedia.org/wiki/Congo_River"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Bend in the River, Wikipedia, on Zabeth and the river",
+        "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-domain",
+    "name": "The Domain",
+    "progressLabel": "The new Africa",
+    "character": "ferdinand",
+    "coords": [25.21, 0.53],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Domain, the Big Man's showpiece of model buildings and a new university on the town's edge, is drawn from Mobutu-era development projects and sited beside the river town.",
+    "reference": "The Domain chapters",
+    "order": 3,
+    "note": "On the edge of town the Big Man raises the Domain, a gleaming new suburb of villas and a polytechnic meant to embody the modern Africa, where the bright young Ferdinand studies. Naipaul makes the Domain the emblem of a borrowed, hollow modernity, impressive and unreal, already cracking as soon as it is built.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mobutu Sese Seko and Zaire",
+        "url": "https://en.wikipedia.org/wiki/Mobutu_Sese_Seko"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Bend in the River, Wikipedia, on the Domain and Ferdinand",
+        "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-falls",
+    "name": "The falls",
+    "progressLabel": "The rapids",
+    "character": "salim",
+    "coords": [25.2, 0.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The rapids just above the town are the real Boyoma (Stanley) Falls at Kisangani, the head of navigation on the Congo; sited there.",
+    "reference": "The town's setting",
+    "order": 4,
+    "note": "Above the town the river breaks into the great rapids that halt navigation, the reason a settlement grew here at all. The falls, thunderous and unchanging, frame the town's whole precarious life, marking the limit where the modern world's boats stop and the deep interior begins.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Boyoma Falls (Stanley Falls)",
+        "url": "https://en.wikipedia.org/wiki/Boyoma_Falls"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Bend in the River, Wikipedia, on the town's geography",
+        "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-capital",
+    "name": "The capital",
+    "progressLabel": "The Big Man",
+    "character": "the-big-man",
+    "coords": [15.31, -4.32],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The distant capital from which the Big Man rules is drawn from Kinshasa, the real seat of Mobutu's power; sited there, far downriver from the town.",
+    "reference": "The later chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "From the far-off capital the Big Man's power and cult radiate outward, his portraits, his edicts, his sudden campaigns of nationalisation and terror reaching even this remote town. Naipaul lets the unseen capital stand for the whole arbitrary machinery of the new state, under which Salim's world is at last confiscated and he must flee.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Kinshasa, Democratic Republic of the Congo",
+        "url": "https://en.wikipedia.org/wiki/Kinshasa"
+      },
+      {
+        "kind": "guide",
+        "ref": "A Bend in the River, Wikipedia, on the Big Man and the ending",
+        "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

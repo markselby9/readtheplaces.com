@@ -1,0 +1,46 @@
+{
+  "id": "a-bend-in-the-river",
+  "title": "A Bend in the River",
+  "author": "V. S. Naipaul",
+  "published": 1979,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [25.19, 0.52],
+  "zoom": 11,
+  "setting": {
+    "city": "the river town",
+    "country": "CD",
+    "note": "Salim, a Muslim of Indian descent, buys a shop in a town at a bend of the great river in the interior of a newly independent central African country, and watches the fragile post-colonial order rise and rot under the rule of the Big Man. Naipaul's unnamed town is drawn from Kisangani on the Congo: the river and its choking water hyacinths, the market and the shop, the Big Man's shiny new Domain on the edge of the bush, and the far-off capital from which power and terror flow.",
+    "bbox": [25.1, 0.42, 25.3, 0.62]
+  },
+  "rights": {
+    "originalWork": "In copyright. V. S. Naipaul, first published 1979. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Bend_in_the_River",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Bend in the River, V. S. Naipaul (1979). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the great river and the water hyacinths that choke it, beautiful and engulfing, like the bush forever reclaiming the town. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "salim": {
+      "name": "Salim",
+      "color": "#2E5064"
+    },
+    "ferdinand": {
+      "name": "Ferdinand",
+      "color": "#8A6A12"
+    },
+    "zabeth": {
+      "name": "Zabeth",
+      "color": "#6B3B5A"
+    },
+    "the-big-man": {
+      "name": "The Big Man",
+      "color": "#8A2B1E"
+    }
+  }
+}
