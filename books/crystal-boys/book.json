@@ -1,0 +1,46 @@
+{
+  "id": "crystal-boys",
+  "title": "Crystal Boys",
+  "author": "Pai Hsien-yung",
+  "published": 1983,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [121.515, 25.04],
+  "zoom": 13,
+  "setting": {
+    "city": "Taipei",
+    "country": "TW",
+    "note": "Expelled from home for his sexuality, the young A-Qing joins the hidden community of gay youths who gather after dark in Taipei's New Park, a secret 'kingdom of the night' with its own laws and legends. Pai maps the real city of the early 1970s: New Park with its lotus pond, the bar the outcasts open together, the family homes and military-dependents' villages they are cast out of, and the neon nightlife of Ximending.",
+    "bbox": [121.49, 25.02, 121.54, 25.06]
+  },
+  "rights": {
+    "originalWork": "In copyright. Pai Hsien-yung, first published 1983 (Niezi). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Crystal_Boys",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Crystal Boys, Pai Hsien-yung (1983). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The violet of the night, the colour of the hidden 'dark kingdom' in the park where the outcast boys make a world of their own. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "a-qing": {
+      "name": "A-Qing",
+      "color": "#2E5064"
+    },
+    "wang-kuilong": {
+      "name": "Wang Kuilong",
+      "color": "#8A2B1E"
+    },
+    "papa-fu": {
+      "name": "Papa Fu",
+      "color": "#8A6A12"
+    },
+    "grandpa-guo": {
+      "name": "Grandpa Guo",
+      "color": "#4A4A4A"
+    }
+  }
+}

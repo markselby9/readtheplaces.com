@@ -1,0 +1,46 @@
+{
+  "id": "jagua-nana",
+  "title": "Jagua Nana",
+  "author": "Cyprian Ekwensi",
+  "published": 1961,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [3.395, 6.452],
+  "zoom": 13,
+  "setting": {
+    "city": "Lagos",
+    "country": "NG",
+    "note": "Jagua Nana, an ageing but still magnetic Lagos courtesan nicknamed for her Jaguar-car glamour, moves through the nightclubs, markets and thug-politics of the booming city as she clings to youth and to her young lover Freddie. Ekwensi maps the real Lagos: the nightclubs of the island where Jagua reigns, the colonial Marina, the crowded slums and markets of old Lagos, and the political rallies where money and muscle decide everything.",
+    "bbox": [3.37, 6.44, 3.42, 6.47]
+  },
+  "rights": {
+    "originalWork": "In copyright. Cyprian Ekwensi, first published 1961. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Jagua_Nana",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Jagua Nana, Cyprian Ekwensi (1961). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold glamour of Jagua herself, the expensive style and fading beauty she stakes everything on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jagua": {
+      "name": "Jagua Nana",
+      "color": "#8A2B1E"
+    },
+    "freddie": {
+      "name": "Freddie",
+      "color": "#2E5064"
+    },
+    "nancy": {
+      "name": "Nancy",
+      "color": "#6B3B5A"
+    },
+    "uncle-taiwo": {
+      "name": "Uncle Taiwo",
+      "color": "#4A4A4A"
+    }
+  }
+}

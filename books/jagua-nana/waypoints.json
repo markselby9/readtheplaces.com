@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-tropicana",
+    "name": "The Tropicana nightclub",
+    "progressLabel": "Chapter 1",
+    "character": "jagua",
+    "coords": [3.398, 6.452],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Jagua reigns over the high-life nightclubs of Lagos Island, of which the Tropicana is the novel's chief example; the club is invented and sited in the real nightlife district of the island.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At the Tropicana, amid the high-life music and the swirl of money, sex and ambition, the ageing Jagua is still the queen of the floor, dancing and drinking and holding court. Ekwensi opens on the glittering, corrupt nightlife of independence-era Lagos, the world Jagua both rules and is being aged out of.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lagos",
+        "url": "https://en.wikipedia.org/wiki/Lagos"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jagua Nana, Wikipedia, on the Lagos nightlife and Jagua",
+        "url": "https://en.wikipedia.org/wiki/Jagua_Nana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-marina",
+    "name": "The Marina (Lagos Island)",
+    "progressLabel": "Chapter 3",
+    "character": "freddie",
+    "coords": [3.395, 6.45],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Marina, the real waterfront thoroughfare of colonial Lagos Island, is the commercial and administrative heart of the city through which the characters move.",
+    "reference": "Chapter 3",
+    "order": 2,
+    "note": "Along the Marina and the island's busy streets moves Jagua's young lover Freddie, a schoolteacher who dreams of studying law in England and rising above the world that made her. His ambition, and the gulf between his hopes and Jagua's fading present, drive the tension of their affair.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lagos Island and the Marina",
+        "url": "https://en.wikipedia.org/wiki/Lagos_Island"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jagua Nana, Wikipedia, on Freddie",
+        "url": "https://en.wikipedia.org/wiki/Jagua_Nana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-slums-obanla",
+    "name": "The slums (old Lagos)",
+    "progressLabel": "Chapter 6",
+    "character": "nancy",
+    "coords": [3.39, 6.455],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Behind the glamour lie the crowded slums of old Lagos Island, where the poor of the city live; sited in the real densely-populated quarters of Isale Eko.",
+    "reference": "Chapter 6",
+    "order": 3,
+    "note": "In the packed, poor quarters of the old town live the strivers and the desperate, among them the younger, gentler Nancy, who becomes Jagua's rival for Freddie. The slums are the ground truth beneath the nightclub glitter, the poverty from which everyone in the book is trying to rise.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Isale Eko, old Lagos",
+        "url": "https://en.wikipedia.org/wiki/Lagos_Island"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jagua Nana, Wikipedia, on Nancy",
+        "url": "https://en.wikipedia.org/wiki/Jagua_Nana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-market",
+    "name": "The market",
+    "progressLabel": "Chapter 9",
+    "character": "jagua",
+    "coords": [3.388, 6.455],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The great markets of Lagos Island, where the powerful market women trade and rule, are part of Jagua's world when she turns to trading; sited in the real market district around Idumota and Balogun.",
+    "reference": "Chapter 9",
+    "order": 4,
+    "note": "When the nightlife begins to fail her, Jagua turns to the fierce, lucrative world of the market women, learning the trade that might give her independence. The market, run by formidable women of business, is the book's other centre of female power, harder and more durable than the beauty Jagua is losing.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Balogun Market, Lagos",
+        "url": "https://en.wikipedia.org/wiki/Lagos_Island"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jagua Nana, Wikipedia, on Jagua and trade",
+        "url": "https://en.wikipedia.org/wiki/Jagua_Nana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-political-rally",
+    "name": "The political rally",
+    "progressLabel": "Chapter 14",
+    "character": "uncle-taiwo",
+    "coords": [3.4, 6.453],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The thug-politics of the young nation play out at rallies and campaign offices in Lagos, run by men like the politician Uncle Taiwo; sited in the real city where the era's violent electoral politics unfolded.",
+    "reference": "Chapter 14",
+    "order": 5,
+    "note": "Jagua is drawn into the orbit of the politician Uncle Taiwo, whose campaign runs on money, muscle and betrayal, and the rally violence brings the book to its brutal climax. Ekwensi ties Jagua's personal decline to the corruption of the new political order, the party thugs the ugly other face of the high life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jagua Nana, Wikipedia, on Uncle Taiwo and the politics",
+        "url": "https://en.wikipedia.org/wiki/Jagua_Nana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]
