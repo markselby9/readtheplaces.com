@@ -1,0 +1,127 @@
+[
+  {
+    "id": "san-lorenzo",
+    "name": "San Lorenzo",
+    "progressLabel": "The poor quarter",
+    "character": "ida",
+    "coords": [12.52, 41.9],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ida and her family live in San Lorenzo, the real working-class district of Rome by the rail yards; sited there.",
+    "reference": "The early chapters",
+    "order": 1,
+    "note": "In the crowded working-class quarter of San Lorenzo, the fearful, half-Jewish schoolteacher Ida raises her children and hides the assault that has left her pregnant with Useppe. Morante sets her story among the Roman poor, whose small, threatened lives will bear the full weight of a war and a history made far above their heads.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "San Lorenzo, Rome",
+        "url": "https://en.wikipedia.org/wiki/San_Lorenzo_(Rome)"
+      },
+      {
+        "kind": "guide",
+        "ref": "History: A Novel, Wikipedia, on Ida and San Lorenzo",
+        "url": "https://en.wikipedia.org/wiki/History_(Morante_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-bombing",
+    "name": "The bombing of San Lorenzo",
+    "progressLabel": "July 1943",
+    "character": "useppe",
+    "coords": [12.518, 41.902],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Allied air raid of 19 July 1943 devastated San Lorenzo and its basilica, a real event that destroys Ida's home in the novel; sited in the quarter.",
+    "reference": "The bombing chapters",
+    "order": 2,
+    "note": "The great Allied raid of July 1943 shatters San Lorenzo, and Ida and little Useppe are bombed out, joining the homeless drifting through a broken city. Morante renders the raid through the child's uncomprehending eyes, the sudden collapse of the ordinary world that is History's first blow against them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bombing of Rome in World War II",
+        "url": "https://en.wikipedia.org/wiki/Bombing_of_Rome_in_World_War_II"
+      },
+      {
+        "kind": "guide",
+        "ref": "History: A Novel, Wikipedia, on the bombing",
+        "url": "https://en.wikipedia.org/wiki/History_(Morante_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-ghetto",
+    "name": "The Roman Ghetto",
+    "progressLabel": "October 1943",
+    "character": "ida",
+    "coords": [12.478, 41.892],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The deportation of Rome's Jews from the ancient Ghetto on 16 October 1943 is a real event Ida witnesses, sharpening her own hidden Jewish fear; sited at the Portico d'Ottavia.",
+    "reference": "The Ghetto chapters",
+    "order": 3,
+    "note": "Drawn to the old Jewish Ghetto, Ida witnesses the aftermath of the October 1943 round-up, when the Germans deported over a thousand Roman Jews to Auschwitz, almost none to return. For the secretly half-Jewish Ida the scene is a private terror made real, and for Morante the war's clearest crime against the innocent.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Deportation of the Jews of Rome, 1943",
+        "url": "https://en.wikipedia.org/wiki/Deportation_of_the_Jews_of_Rome"
+      },
+      {
+        "kind": "guide",
+        "ref": "History: A Novel, Wikipedia, on the Ghetto deportation",
+        "url": "https://en.wikipedia.org/wiki/History_(Morante_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-shelter",
+    "name": "The refugee shelter",
+    "progressLabel": "The homeless",
+    "character": "nino",
+    "coords": [12.55, 41.92],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Bombed out, Ida and Useppe shelter in a crowded refugee room on Rome's edge, drawn from the makeshift shelters of districts like Pietralata; sited there.",
+    "reference": "The shelter chapters",
+    "order": 4,
+    "note": "In a big communal room among other refugees on the city's ragged edge, Ida and Useppe wait out the occupation as her elder son Nino drifts from Fascist to partisan to black-market smuggler. Morante crowds the shelter with the war's flotsam of the poor, and lets little Useppe's uncanny sweetness shine against the squalor and fear.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pietralata, Rome",
+        "url": "https://en.wikipedia.org/wiki/Pietralata"
+      },
+      {
+        "kind": "guide",
+        "ref": "History: A Novel, Wikipedia, on the refugees and Nino",
+        "url": "https://en.wikipedia.org/wiki/History_(Morante_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "testaccio",
+    "name": "Testaccio",
+    "progressLabel": "After the war",
+    "character": "useppe",
+    "coords": [12.475, 41.876],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The postwar hunger and Ida and Useppe's last days are set among the old working-class quarters such as Testaccio; drawn from that Rome and sited there.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "Peace brings its own miseries of hunger and loss, and roaming the postwar city with his devoted dog Bella, the frail Useppe is at last claimed by the illness that has shadowed him. Morante ends on Ida's ruin, the small perfect life of her child extinguished, one more of the countless anonymous casualties the history books never name.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Testaccio, Rome",
+        "url": "https://en.wikipedia.org/wiki/Testaccio"
+      },
+      {
+        "kind": "guide",
+        "ref": "History: A Novel, Wikipedia, on the postwar ending",
+        "url": "https://en.wikipedia.org/wiki/History_(Morante_novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

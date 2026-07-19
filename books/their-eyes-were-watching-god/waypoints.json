@@ -1,0 +1,122 @@
+[
+  {
+    "id": "the-grandmothers-cabin",
+    "name": "The grandmother's cabin",
+    "progressLabel": "The pear tree",
+    "character": "nanny",
+    "coords": [-84.3, 30.4],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Janie's girlhood with her grandmother and her first, arranged marriage are set in west Florida; drawn from the rural districts of the region and sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "In the yard behind her grandmother's cabin, sixteen-year-old Janie watches a pear tree in bloom and awakens to a longing for love that will drive her whole life. Her grandmother Nanny, terrified for her, marries her off to the older farmer Logan Killicks for security, and the pear-tree dream collides at once with a loveless duty.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Zora Neale Hurston and Florida",
+        "url": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
+      },
+      {
+        "kind": "guide",
+        "ref": "Their Eyes Were Watching God, Wikipedia, on Janie and Nanny",
+        "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "eatonville",
+    "name": "Eatonville",
+    "progressLabel": "The mayor's wife",
+    "character": "joe-starks",
+    "coords": [-81.38, 28.61],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Janie runs off with Joe Starks to Eatonville, the real self-governing all-Black town near Orlando where Hurston herself grew up; sited there.",
+    "reference": "The Eatonville chapters",
+    "order": 2,
+    "note": "Janie leaves Logan for the ambitious Joe Starks, who carries her to Eatonville, the first incorporated Black town in America, and makes himself its mayor and storekeeper. But Joe's pride turns Janie into an ornament to be shown and silenced, and the promise of the new town curdles into twenty years of a gilded, lonely marriage.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Eatonville, Florida",
+        "url": "https://en.wikipedia.org/wiki/Eatonville,_Florida"
+      },
+      {
+        "kind": "guide",
+        "ref": "Their Eyes Were Watching God, Wikipedia, on Joe Starks and Eatonville",
+        "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-store-porch",
+    "name": "The store porch",
+    "progressLabel": "The town's voice",
+    "character": "janie",
+    "coords": [-81.379, 28.611],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Joe's store and its porch, the social heart of Eatonville where the townsfolk gather to talk, is central to the novel; sited in the town.",
+    "reference": "The store chapters",
+    "order": 3,
+    "note": "The porch of Joe's store is Eatonville's stage, where the men swap tall tales and signify and Janie is forbidden to join in. Hurston fills the porch with the music of Black vernacular speech she treasured as a folklorist, and makes Janie's eventual claiming of her own voice there a turning point in her long road to freedom.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Their Eyes Were Watching God, Wikipedia, on the store porch and voice",
+        "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-muck",
+    "name": "The Everglades muck",
+    "progressLabel": "Tea Cake",
+    "character": "tea-cake",
+    "coords": [-80.67, 26.68],
+    "placeCertainty": "explicit",
+    "certaintyNote": "After Joe's death Janie follows Tea Cake to the rich black soil of the Everglades 'muck' around Lake Okeechobee, the real migrant bean-farming country; sited there.",
+    "reference": "The Everglades chapters",
+    "order": 4,
+    "note": "With the younger, joyous Tea Cake, Janie goes down to the muck by Lake Okeechobee to pick beans among the migrant workers, and at last finds a love that treats her as an equal. In the fields and jook joints of the Glades, Hurston paints the freest, fullest happiness of Janie's life, the pear-tree dream come true at last.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lake Okeechobee and the Everglades agricultural area",
+        "url": "https://en.wikipedia.org/wiki/Lake_Okeechobee"
+      },
+      {
+        "kind": "guide",
+        "ref": "Their Eyes Were Watching God, Wikipedia, on Tea Cake and the muck",
+        "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hurricane",
+    "name": "The hurricane",
+    "progressLabel": "The flood",
+    "character": "tea-cake",
+    "coords": [-80.75, 26.75],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The catastrophic 1928 Okeechobee hurricane, which drowned thousands around the lake, tears through the muck and destroys Janie and Tea Cake's world; sited there.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "The great 1928 hurricane bursts Lake Okeechobee over the muck in a wall of water, and in the flight Tea Cake is bitten saving Janie from a mad dog, and later, rabid, dies by her hand. Hurston ends with Janie returning to Eatonville alone but whole, having lived and lost the great love of her life, the horizon at last drawn in around her like a great fish-net.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "1928 Okeechobee hurricane",
+        "url": "https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane"
+      },
+      {
+        "kind": "guide",
+        "ref": "Their Eyes Were Watching God, Wikipedia, on the hurricane and the ending",
+        "url": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

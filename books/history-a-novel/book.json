@@ -1,0 +1,46 @@
+{
+  "id": "history-a-novel",
+  "title": "History: A Novel",
+  "author": "Elsa Morante",
+  "published": 1974,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [12.51, 41.9],
+  "zoom": 12,
+  "setting": {
+    "city": "Rome",
+    "country": "IT",
+    "note": "In wartime and postwar Rome, Ida Ramundo, a timid half-Jewish widowed schoolteacher, is raped by a young German soldier and bears a son, Useppe, and mother and child struggle to survive through bombing, deportation, hunger and the black market as 'History' grinds the powerless underfoot. Morante's great anti-war novel maps a real Rome: the poor quarter of San Lorenzo and its bombing, the Jewish Ghetto and its deportation, the refugee shelters, and the ravaged city where innocence cannot last.",
+    "bbox": [12.44, 41.85, 12.58, 41.94]
+  },
+  "rights": {
+    "originalWork": "In copyright. Elsa Morante, first published 1974 (La Storia). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/History_(Morante_novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "History: A Novel, Elsa Morante (1974). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the war and of History's violence, the great impersonal force the book indicts for crushing the small and the innocent. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ida": {
+      "name": "Ida",
+      "color": "#6B3B5A"
+    },
+    "useppe": {
+      "name": "Useppe",
+      "color": "#8A6A12"
+    },
+    "nino": {
+      "name": "Nino",
+      "color": "#2E5064"
+    },
+    "bella": {
+      "name": "Bella",
+      "color": "#2E6B4A"
+    }
+  }
+}
