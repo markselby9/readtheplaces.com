@@ -385,13 +385,18 @@ const schema = [websiteSchema(mapped.length, cities.length)];
     font-weight: 700;
   }
 
-  .show-more {
+  /* The button is created in JS, so it never gets Astro's scoping attribute;
+     these rules must be :global to reach it, or it renders as a bare native
+     button. */
+  :global(.show-more) {
     display: block;
     width: 100%;
     margin-top: var(--s4);
     padding: var(--s3);
     font-family: var(--sans);
     font-size: var(--step--1);
+    font-weight: 600;
+    letter-spacing: 0.01em;
     color: var(--ink-2);
     background: var(--paper-2);
     border: 1px solid var(--rule);
@@ -401,7 +406,7 @@ const schema = [websiteSchema(mapped.length, cities.length)];
       border-color 0.2s var(--ease),
       color 0.2s var(--ease);
   }
-  .show-more:hover {
+  :global(.show-more:hover) {
     border-color: var(--accent);
     color: var(--ink);
   }
