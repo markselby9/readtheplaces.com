@@ -1,0 +1,117 @@
+[
+  {
+    "id": "the-karamazov-house",
+    "name": "The Karamazov house",
+    "progressLabel": "The father",
+    "character": "fyodor",
+    "coords": [31.36, 57.99],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Karamazov family house stands in the fictional town of Skotoprigonyevsk, drawn from Staraya Russa where Dostoevsky lived and wrote; sited there.",
+    "reference": "The opening",
+    "order": 1,
+    "note": "In the town house of the vicious, buffoonish Fyodor Karamazov gather his three sons, each at war with him and with one another over money, over the woman Grushenka, over God himself. Dostoevsky sets the family drama in a provincial Russian town drawn from his own Staraya Russa, a small world made large enough to hold the novel's vast argument about faith and evil.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Staraya Russa",
+        "url": "https://en.wikipedia.org/wiki/Staraya_Russa"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Brothers Karamazov, Wikipedia, on the Karamazov family",
+        "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-monastery",
+    "name": "The monastery",
+    "progressLabel": "Zosima",
+    "character": "alyosha",
+    "coords": [31.34, 57.98],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The monastery of the Elder Zosima, where the youngest son Alyosha is a novice, is drawn from the Russian monastic tradition and set at the edge of the town; sited in the setting.",
+    "reference": "The monastery chapters",
+    "order": 2,
+    "note": "At the monastery the dying Elder Zosima teaches the novice Alyosha a faith of active, humble love, even as a scandalous family conclave in his cell ends in uproar. Against Ivan's fierce intellectual rebellion Dostoevsky sets the monastery's quiet counter-argument, that the answer to suffering is not a proof but a way of living, embodied in Zosima and carried out into the world by Alyosha.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Russian Orthodox monasticism and the startsy",
+        "url": "https://en.wikipedia.org/wiki/Starets"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Brothers Karamazov, Wikipedia, on Zosima and Alyosha",
+        "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-tavern",
+    "name": "The tavern",
+    "progressLabel": "Dmitri's ruin",
+    "character": "dmitri",
+    "coords": [31.362, 57.991],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The taverns and inns where Dmitri squanders money and pursues Grushenka are drawn from the establishments of a provincial Russian town; sited in Skotoprigonyevsk.",
+    "reference": "Dmitri's chapters",
+    "order": 3,
+    "note": "In the town's taverns the passionate, reckless Dmitri drinks, brawls and chases the bewitching Grushenka, running through money he does not have and quarrelling murderously with his father over both. Dostoevsky pours into Dmitri the Karamazov capacity for both degradation and nobility, a man capable of anything, whose innocence of the crime he is accused of the whole novel turns on.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Brothers Karamazov, Wikipedia, on Dmitri and Grushenka",
+        "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-murder",
+    "name": "The murder",
+    "progressLabel": "The crime",
+    "character": "ivan",
+    "coords": [31.361, 57.99],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Old Fyodor Karamazov is murdered in his house, the crime pinned on Dmitri but committed by the servant Smerdyakov; sited at the family house in the town.",
+    "reference": "The crime chapters",
+    "order": 4,
+    "note": "Fyodor is found murdered, and every sign points to Dmitri, though the true killer is the epileptic servant Smerdyakov, acting on what he took to be Ivan's blessing that, if God is dead, all is permitted. Dostoevsky makes the murder the hinge of his deepest theme, the guilt that spreads beyond the hand that struck, implicating the ideas that armed it and the brothers who wished it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Brothers Karamazov, Wikipedia, on the murder and Smerdyakov",
+        "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-trial",
+    "name": "The trial",
+    "progressLabel": "The judgement",
+    "character": "dmitri",
+    "coords": [31.355, 57.988],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Dmitri is tried for his father's murder in the town's courtroom, drawn from the real jury courts of reformed Russia; sited in Skotoprigonyevsk.",
+    "reference": "The trial chapters",
+    "order": 5,
+    "note": "At his trial Dmitri is convicted of a murder he did not commit, the evidence and the lawyers' eloquence sweeping past the truth toward a verdict the town has already reached. Dostoevsky closes on this miscarriage of human justice, and on Alyosha's tender promise to a gathering of boys that love and memory can redeem even this, the novel's last word given not to doubt but to hope.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Judicial reform of Alexander II (jury trials)",
+        "url": "https://en.wikipedia.org/wiki/Judicial_reform_of_Alexander_II"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Brothers Karamazov, Wikipedia, on the trial and ending",
+        "url": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

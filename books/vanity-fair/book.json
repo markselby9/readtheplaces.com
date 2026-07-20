@@ -1,0 +1,46 @@
+{
+  "id": "vanity-fair",
+  "title": "Vanity Fair",
+  "author": "William Makepeace Thackeray",
+  "published": 1848,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.13, 51.51],
+  "zoom": 11,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "The penniless, ruthless Becky Sharp claws her way up through Regency society while her gentle schoolfellow Amelia Sedley suffers for her constancy, in Thackeray's panorama of a world where everything and everyone is for sale. The novel maps a real geography: the London of Russell Square and Mayfair, the Brussels of the ball on the eve of Waterloo, the battlefield itself, and the German spa town where the long story finds its close.",
+    "bbox": [-0.25, 51.45, 0.0, 51.56]
+  },
+  "rights": {
+    "originalWork": "Public domain. William Makepeace Thackeray (d. 1863), first published 1847-48. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Vanity Fair, William Makepeace Thackeray (1848). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gilt of the fair itself, the glitter of money and rank that Becky claws toward and Thackeray shows to be hollow, a novel without a hero. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "becky": {
+      "name": "Becky Sharp",
+      "color": "#8A2B1E"
+    },
+    "amelia": {
+      "name": "Amelia",
+      "color": "#6B3B5A"
+    },
+    "rawdon": {
+      "name": "Rawdon",
+      "color": "#4A4A4A"
+    },
+    "dobbin": {
+      "name": "Dobbin",
+      "color": "#2E5064"
+    }
+  }
+}

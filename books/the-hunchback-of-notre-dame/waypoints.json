@@ -1,0 +1,127 @@
+[
+  {
+    "id": "notre-dame",
+    "name": "Notre-Dame",
+    "progressLabel": "The cathedral",
+    "character": "quasimodo",
+    "coords": [2.3499, 48.853],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Notre-Dame de Paris, the real cathedral, is home to the bellringer Quasimodo and the heart of the novel; sited on the Île de la Cité.",
+    "reference": "Throughout",
+    "order": 1,
+    "note": "High in the towers of Notre-Dame lives Quasimodo, the deaf, deformed foundling raised by the archdeacon Frollo to ring its great bells. Hugo made the cathedral the book's true hero, and wrote it partly to save the crumbling building itself, so that Quasimodo and his stone home are inseparable, each the other's refuge and prison.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Notre-Dame de Paris",
+        "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hunchback of Notre-Dame, Wikipedia, on Quasimodo and the cathedral",
+        "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "place-de-greve",
+    "name": "The Place de Grève",
+    "progressLabel": "The square",
+    "character": "esmeralda",
+    "coords": [2.3522, 48.8566],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Place de Grève, the real public square of medieval Paris where the pillory and gallows stood, is where Esmeralda dances and Quasimodo is flogged; sited there.",
+    "reference": "The square chapters",
+    "order": 2,
+    "note": "In the Place de Grève the gypsy Esmeralda dances with her little goat, and here Quasimodo is pilloried and given water by the girl he will come to love. Hugo makes the square the meeting point of the city's cruelty and its rare mercy, the stage for both public punishment and the one act of kindness that redeems the bellringer.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Place de Grève (Place de l'Hôtel-de-Ville)",
+        "url": "https://en.wikipedia.org/wiki/Place_de_l%27H%C3%B4tel-de-Ville"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hunchback of Notre-Dame, Wikipedia, on Esmeralda and the pillory",
+        "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "court-of-miracles",
+    "name": "The Court of Miracles",
+    "progressLabel": "The beggars",
+    "character": "esmeralda",
+    "coords": [2.348, 48.862],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Court of Miracles, the thieves' and beggars' quarter, was a real feature of old Paris; Hugo's version is drawn from it and sited in the medieval city.",
+    "reference": "The Court of Miracles chapters",
+    "order": 3,
+    "note": "In the Court of Miracles, the lawless kingdom of Paris's beggars and thieves where the lame walk and the blind see, the poet Gringoire is nearly hanged and later the vagabonds storm Notre-Dame to save Esmeralda. Hugo brings the medieval underworld to teeming life, a counter-city with its own king and laws beneath the respectable one.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cour des Miracles",
+        "url": "https://en.wikipedia.org/wiki/Cour_des_Miracles"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hunchback of Notre-Dame, Wikipedia, on the Court of Miracles",
+        "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-parvis",
+    "name": "The sanctuary",
+    "progressLabel": "The rescue",
+    "character": "frollo",
+    "coords": [2.3488, 48.8529],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The parvis before Notre-Dame, where Esmeralda is brought to be hanged and Quasimodo snatches her into the cathedral's sanctuary, is sited at the cathedral square.",
+    "reference": "The sanctuary chapters",
+    "order": 4,
+    "note": "As Esmeralda is led to the gallows on the parvis, Quasimodo swings down from the towers, carries her inside, and claims for her the cathedral's ancient right of sanctuary, crying the word from the heights. Hugo stages the novel's most famous image here, the monster saving the beauty, holding the mob and the law at bay within the walls of stone.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Right of sanctuary",
+        "url": "https://en.wikipedia.org/wiki/Sanctuary"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hunchback of Notre-Dame, Wikipedia, on the sanctuary rescue",
+        "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "montfaucon",
+    "name": "Montfaucon",
+    "progressLabel": "The ending",
+    "character": "quasimodo",
+    "coords": [2.369, 48.876],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The gibbet of Montfaucon, the real great gallows of medieval Paris where the dead were left, is where Quasimodo goes to die beside Esmeralda's body; sited at its historic location.",
+    "reference": "The final chapter",
+    "order": 5,
+    "note": "When Esmeralda is at last hanged and Frollo laughs from the tower, Quasimodo hurls the archdeacon to his death and vanishes, to be found long after at Montfaucon, a skeleton curled around her bones. Hugo closes on this last, unbearable tenderness, the deformed bellringer choosing death in the charnel gallows rather than life without her.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Montfaucon (gibbet)",
+        "url": "https://en.wikipedia.org/wiki/Montfaucon_(gibbet)"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hunchback of Notre-Dame, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

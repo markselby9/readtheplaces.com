@@ -1,0 +1,46 @@
+{
+  "id": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "published": 1880,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [31.36, 57.99],
+  "zoom": 12,
+  "setting": {
+    "city": "Skotoprigonyevsk",
+    "country": "RU",
+    "note": "In a small Russian town, the dissolute Fyodor Karamazov and his three sons, the sensual Dmitri, the intellectual Ivan and the saintly novice Alyosha, are drawn toward the old man's murder and the questions of faith, doubt and guilt that surround it. Dostoevsky's fictional Skotoprigonyevsk is drawn from Staraya Russa, where he wrote the novel: the family house, the monastery of the Elder Zosima, the taverns of Dmitri's ruin, and the courtroom of the trial that closes the book.",
+    "bbox": [31.2, 57.9, 31.5, 58.1]
+  },
+  "rights": {
+    "originalWork": "Public domain. Fyodor Dostoevsky (d. 1881), first published 1880 (Bratya Karamazovy). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Brothers Karamazov, Fyodor Dostoevsky (1880). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gold of the monastery's icons and onion domes, the faith of Alyosha and Zosima held up against Ivan's rebellion and the family's baseness. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "alyosha": {
+      "name": "Alyosha",
+      "color": "#2E6B4A"
+    },
+    "dmitri": {
+      "name": "Dmitri",
+      "color": "#8A2B1E"
+    },
+    "ivan": {
+      "name": "Ivan",
+      "color": "#2E5064"
+    },
+    "fyodor": {
+      "name": "Fyodor",
+      "color": "#4A4A4A"
+    }
+  }
+}

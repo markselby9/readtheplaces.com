@@ -1,0 +1,46 @@
+{
+  "id": "tess-of-the-durbervilles",
+  "title": "Tess of the d'Urbervilles",
+  "author": "Thomas Hardy",
+  "published": 1891,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.3, 50.85],
+  "zoom": 9,
+  "setting": {
+    "city": "Wessex",
+    "country": "GB",
+    "note": "When her poor family learns it descends from the noble d'Urbervilles, Tess Durbeyfield is sent to claim kin, is seduced and ruined by Alec, and later loves and loses the high-minded Angel Clare, driven at last to murder and the gallows. Hardy sets the tragedy across his Wessex, drawn faithfully from real Dorset: the vale of Tess's village, the d'Urberville estate, the rich dairy country where she finds love, the bleak upland farm of her suffering, and Stonehenge, where she is taken at dawn.",
+    "bbox": [-2.7, 50.6, -1.75, 51.25]
+  },
+  "rights": {
+    "originalWork": "Public domain. Thomas Hardy (d. 1928), first published 1891. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Tess of the d'Urbervilles, Thomas Hardy (1891). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red that marks Tess through the book, the ribbon, the strawberry, the blood soaking through the ceiling, the sign of the fate closing on a woman more sinned against than sinning. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "tess": {
+      "name": "Tess",
+      "color": "#6B3B5A"
+    },
+    "angel": {
+      "name": "Angel Clare",
+      "color": "#2E6B4A"
+    },
+    "alec": {
+      "name": "Alec",
+      "color": "#4A4A4A"
+    },
+    "john-durbeyfield": {
+      "name": "John Durbeyfield",
+      "color": "#8A6A12"
+    }
+  }
+}

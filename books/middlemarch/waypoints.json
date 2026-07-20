@@ -1,0 +1,107 @@
+[
+  {
+    "id": "the-town",
+    "name": "Middlemarch town",
+    "progressLabel": "Provincial society",
+    "character": "rosamond",
+    "coords": [-1.51, 52.41],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The town of Middlemarch is Eliot's invention, drawn from Coventry in Warwickshire where she grew up; sited in that region of the Midlands.",
+    "reference": "Throughout",
+    "order": 1,
+    "note": "Middlemarch itself, a busy Midlands market town of banks, shops, doctors and endless talk, is the real subject of the book, the dense web in which every private hope is caught. Eliot anatomises provincial society with unmatched fullness, tracing how the town's opinion, money and marriages shape and thwart the people who live inside it.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Coventry",
+        "url": "https://en.wikipedia.org/wiki/Coventry"
+      },
+      {
+        "kind": "guide",
+        "ref": "Middlemarch, Wikipedia, on the provincial setting",
+        "url": "https://en.wikipedia.org/wiki/Middlemarch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lowick",
+    "name": "Lowick",
+    "progressLabel": "Dorothea's marriage",
+    "character": "casaubon",
+    "coords": [-1.45, 52.4],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Lowick, the parish and manor of the scholar Casaubon whom Dorothea marries, is a fictional estate drawn from the country around the town; sited near Middlemarch.",
+    "reference": "The Dorothea chapters",
+    "order": 2,
+    "note": "At Lowick, the ardent Dorothea marries the dry, elderly scholar Casaubon in the belief that she is devoting herself to a great mind, and finds instead a cold marriage and a life's work that is dust. Eliot makes Lowick the scene of her heroine's central mistake and slow disillusion, high aspiration crushed against a small, jealous soul.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Middlemarch, Wikipedia, on Dorothea and Casaubon",
+        "url": "https://en.wikipedia.org/wiki/Middlemarch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hospital",
+    "name": "The new hospital",
+    "progressLabel": "Lydgate's reforms",
+    "character": "lydgate",
+    "coords": [-1.505, 52.415],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The new fever hospital where the reforming doctor Lydgate pursues his ambitions is drawn from the medical institutions of a provincial town of the 1830s; sited in Middlemarch.",
+    "reference": "The Lydgate chapters",
+    "order": 3,
+    "note": "The idealistic young doctor Lydgate comes to Middlemarch dreaming of medical research and reform, and stakes his hopes on the new fever hospital, only to be entangled in town politics, debt, and a marriage to the lovely, ruinous Rosamond. Eliot sets his scientific ambition against the small-town realities of gossip and money that grind it down, a parallel to Dorothea's own defeat.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Middlemarch, Wikipedia, on Lydgate and the hospital",
+        "url": "https://en.wikipedia.org/wiki/Middlemarch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "stone-court",
+    "name": "Stone Court",
+    "progressLabel": "The Featherstone will",
+    "character": "rosamond",
+    "coords": [-1.47, 52.43],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Stone Court, the farm of the rich old miser Featherstone, over whose will the Vincy family hovers, is a fictional estate drawn from the farmland around the town; sited near Middlemarch.",
+    "reference": "The Featherstone chapters",
+    "order": 4,
+    "note": "At Stone Court the dying miser Featherstone torments his hopeful relatives over his will, and Fred Vincy's expectations rise and crash on the old man's whim. Eliot threads through the novel this comedy and cruelty of inheritance, the money that everyone waits on and that so often lands where it is least deserved.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Middlemarch, Wikipedia, on Featherstone and the Vincys",
+        "url": "https://en.wikipedia.org/wiki/Middlemarch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-reckoning",
+    "name": "The reckoning",
+    "progressLabel": "The Bulstrode scandal",
+    "character": "dorothea",
+    "coords": [-1.512, 52.408],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The scandal that engulfs the banker Bulstrode and touches Lydgate, and Dorothea's act of faith in clearing him, unfold in the town; sited in Middlemarch.",
+    "reference": "The closing books",
+    "order": 5,
+    "note": "When a buried past ruins the pious banker Bulstrode and taints Lydgate by association, it is Dorothea who dares to believe in the doctor and help him, finding at last her own worth in a small, real good rather than a grand design. Eliot closes not on triumph but on the quiet, incalculable effect of unhistoric lives, and on Dorothea choosing love and use over ambition.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Middlemarch, Wikipedia, on Bulstrode and the ending",
+        "url": "https://en.wikipedia.org/wiki/Middlemarch"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

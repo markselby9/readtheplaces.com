@@ -1,0 +1,122 @@
+[
+  {
+    "id": "gardencourt",
+    "name": "Gardencourt",
+    "progressLabel": "The heiress",
+    "character": "ralph",
+    "coords": [-0.6, 51.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gardencourt, the Touchetts' country house on the Thames where Isabel arrives from America, is a fictional estate drawn from the great riverside houses of England; sited west of London.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "At the beautiful old English house of Gardencourt, the American Isabel Archer charms the dying banker Touchett and his invalid son Ralph, who quietly persuades his father to leave her a fortune so she may be free. James opens on Isabel's bright promise and independence, and on Ralph's selfless, doomed love, the gift of money that will, with terrible irony, deliver her to her ruin.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Henry James",
+        "url": "https://en.wikipedia.org/wiki/Henry_James"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Portrait of a Lady, Wikipedia, on Gardencourt and the Touchetts",
+        "url": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "progressLabel": "The suitors",
+    "character": "isabel",
+    "coords": [-0.14, 51.51],
+    "placeCertainty": "explicit",
+    "certaintyNote": "In London Isabel refuses the eligible suitors Lord Warburton and Caspar Goodwood, prizing her freedom; sited in the real city.",
+    "reference": "The English chapters",
+    "order": 2,
+    "note": "In London Isabel turns down two fine offers of marriage, the English lord Warburton and the ardent American Goodwood, unwilling to trade her new liberty for any settled destiny. James establishes the fatal pride of her independence here, the refusal of safe happiness that leaves her open to the subtler capture waiting in Italy.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "London",
+        "url": "https://en.wikipedia.org/wiki/London"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Portrait of a Lady, Wikipedia, on Isabel's suitors",
+        "url": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "progressLabel": "The trap",
+    "character": "madame-merle",
+    "coords": [11.25, 43.77],
+    "placeCertainty": "explicit",
+    "certaintyNote": "In Florence, Madame Merle steers Isabel toward the impoverished aesthete Gilbert Osmond, who courts her for her fortune; sited in the real city.",
+    "reference": "The Florence chapters",
+    "order": 3,
+    "note": "In Florence the polished, secretive Madame Merle introduces Isabel to Gilbert Osmond, a penniless connoisseur of taste and cruelty who woos her, and her money, in a hilltop villa full of beautiful things. James lets the trap close slowly and elegantly here, Isabel mistaking Osmond's cold aestheticism for a rare fineness of soul, and choosing, freely, the man who will imprison her.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Florence",
+        "url": "https://en.wikipedia.org/wiki/Florence"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Portrait of a Lady, Wikipedia, on Osmond and Madame Merle",
+        "url": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "progressLabel": "The marriage",
+    "character": "osmond",
+    "coords": [12.49, 41.9],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Isabel's married life, in which Osmond's controlling coldness cages her, is set in Rome; sited in the real city.",
+    "reference": "The Rome chapters",
+    "order": 4,
+    "note": "In Rome the marriage reveals itself as a beautiful prison, Osmond bending Isabel to his will and using her to advance a scheme for his daughter, until she learns that he and Madame Merle plotted the match for her money. James renders her slow, appalled understanding in his famous long meditation by the fire, a free spirit realising the full extent of the cage she walked into.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rome",
+        "url": "https://en.wikipedia.org/wiki/Rome"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Portrait of a Lady, Wikipedia, on the marriage in Rome",
+        "url": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gardencourt-again",
+    "name": "Gardencourt again",
+    "progressLabel": "The choice",
+    "character": "isabel",
+    "coords": [-0.61, 51.49],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Isabel defies Osmond to return to England for the dying Ralph, and makes her final choice at Gardencourt; sited at the Touchett house in the setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "Defying Osmond, Isabel travels back to Gardencourt to be with the dying Ralph, who tells her at last that he has loved her all along, and there Goodwood makes one final, passionate plea. James ends ambiguously, Isabel turning from that escape back toward Rome and her duty, whether from courage, pride or defeat he leaves the reader, and Isabel, to weigh.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Portrait of a Lady, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

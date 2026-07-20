@@ -1,0 +1,46 @@
+{
+  "id": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "published": 1859,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [1.1, 50.1],
+  "zoom": 6,
+  "setting": {
+    "city": "London and Paris",
+    "country": "GB",
+    "note": "Between London and a Paris sliding into revolution, Dickens weaves the fates of the recalled prisoner Dr Manette, his daughter Lucie, the aristocrat Charles Darnay and the wasted lawyer Sydney Carton, toward a sacrifice at the guillotine. The novel maps two real cities: Tellson's Bank and the Old Bailey in London, and in Paris the wine-shop of Saint-Antoine, the stormed Bastille, and the Place de la Révolution where the blade falls.",
+    "bbox": [-0.4, 48.7, 2.6, 51.7]
+  },
+  "rights": {
+    "originalWork": "Public domain. Charles Dickens (d. 1870), first published 1859. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "A Tale of Two Cities, Charles Dickens (1859). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the spilled wine that stains Saint-Antoine and the blood it foretells, the colour of a revolution turning from justice to terror. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "sydney-carton": {
+      "name": "Sydney Carton",
+      "color": "#2E5064"
+    },
+    "charles-darnay": {
+      "name": "Charles Darnay",
+      "color": "#2E6B4A"
+    },
+    "lucie": {
+      "name": "Lucie",
+      "color": "#8A6A12"
+    },
+    "madame-defarge": {
+      "name": "Madame Defarge",
+      "color": "#4A4A4A"
+    }
+  }
+}

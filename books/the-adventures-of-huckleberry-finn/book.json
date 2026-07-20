@@ -1,0 +1,46 @@
+{
+  "id": "the-adventures-of-huckleberry-finn",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "published": 1884,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-91.2, 37.0],
+  "zoom": 6,
+  "setting": {
+    "city": "the Mississippi",
+    "country": "US",
+    "note": "Fleeing his drunken father, the boy Huckleberry Finn rafts down the Mississippi with Jim, a man escaping slavery, and the great river carries them past feuding families, con men and the whole moral tangle of the antebellum South. Twain maps the real river: Huck's town on the Missouri bank, the island where he meets Jim, the raft drifting ever southward, the shore towns of the Duke and the Dauphin, and the Arkansas farm where the journey ends.",
+    "bbox": [-92.0, 34.0, -90.5, 40.0]
+  },
+  "rights": {
+    "originalWork": "Public domain. Mark Twain (d. 1910), first published 1884-85. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Adventures of Huckleberry Finn, Mark Twain (1884). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The broad brown-blue of the Mississippi, the river that is both the road to freedom and the moral current the whole book floats on. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "huck": {
+      "name": "Huck",
+      "color": "#8A6A12"
+    },
+    "jim": {
+      "name": "Jim",
+      "color": "#8A2B1E"
+    },
+    "tom": {
+      "name": "Tom Sawyer",
+      "color": "#2E6B4A"
+    },
+    "the-duke": {
+      "name": "The Duke",
+      "color": "#4A4A4A"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "the-court-of-chancery",
+    "name": "The Court of Chancery",
+    "progressLabel": "Jarndyce and Jarndyce",
+    "character": "jarndyce",
+    "coords": [-0.113, 51.516],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Court of Chancery, sitting at Lincoln's Inn Hall in real London, is where the interminable suit of Jarndyce and Jarndyce grinds on; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "At the heart of the fog sits the Court of Chancery, where the great suit of Jarndyce and Jarndyce has dragged on so long that no one alive quite understands it, and generations are ruined waiting for its end. Dickens opens on the law's murderous delay as the book's controlling symbol, a machine that consumes the very fortunes it claims to protect.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Court of Chancery",
+        "url": "https://en.wikipedia.org/wiki/Court_of_Chancery"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bleak House, Wikipedia, on Jarndyce and Jarndyce",
+        "url": "https://en.wikipedia.org/wiki/Bleak_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "tom-all-alones",
+    "name": "Tom-all-Alone's",
+    "progressLabel": "The slum",
+    "character": "esther",
+    "coords": [-0.12, 51.521],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Tom-all-Alone's, the pestilent slum where the crossing-sweeper Jo lives, is drawn from the real rookeries of Victorian London; sited in the city.",
+    "reference": "The Tom-all-Alone's chapters",
+    "order": 2,
+    "note": "In the collapsing slum of Tom-all-Alone's lives the illiterate crossing-sweeper Jo, from whom the smallpox spreads outward to touch even the highest in the land. Dickens uses the rookery to make his fiercest argument, that the disease and neglect of the poorest cannot be walled off, and that a society is one body whether it likes it or not.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rookery (slum)",
+        "url": "https://en.wikipedia.org/wiki/Rookery_(slum)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bleak House, Wikipedia, on Jo and Tom-all-Alone's",
+        "url": "https://en.wikipedia.org/wiki/Bleak_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "krooks-shop",
+    "name": "Krook's shop",
+    "progressLabel": "The rag-and-bottle shop",
+    "character": "tulkinghorn",
+    "coords": [-0.111, 51.518],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The rag-and-bottle shop of the drunken Krook, near Chancery Lane, is drawn from the marine-store dealers of old London; sited by the Inns of Court.",
+    "reference": "The Krook chapters",
+    "order": 3,
+    "note": "In the shadow of Chancery, the illiterate junk-dealer Krook hoards papers he cannot read and dies grotesquely of spontaneous combustion, leaving only greasy ash. Dickens makes Krook a parody of the Court itself, hoarding documents to no purpose and consuming itself from within, while the lawyer Tulkinghorn hunts the secrets those papers hide.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bleak House, Wikipedia, on Krook and Tulkinghorn",
+        "url": "https://en.wikipedia.org/wiki/Bleak_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bleak-house-st-albans",
+    "name": "Bleak House, St Albans",
+    "progressLabel": "The good house",
+    "character": "esther",
+    "coords": [-0.336, 51.75],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "John Jarndyce's home, Bleak House, is set near St Albans in Hertfordshire; drawn from that real countryside and sited there, outside the London setting.",
+    "reference": "The Bleak House chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Away from the fog, at Bleak House near St Albans, John Jarndyce shelters his wards and the tireless Esther Summerson keeps a home of order and kindness. Dickens sets this warm, well-run house against the chaos of Chancery, the private goodness that patches the wounds a corrupt system inflicts, though it cannot cure them.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "St Albans",
+        "url": "https://en.wikipedia.org/wiki/St_Albans"
+      },
+      {
+        "kind": "guide",
+        "ref": "Bleak House, Wikipedia, on Esther and John Jarndyce",
+        "url": "https://en.wikipedia.org/wiki/Bleak_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chesney-wold",
+    "name": "Chesney Wold",
+    "progressLabel": "The secret",
+    "character": "lady-dedlock",
+    "coords": [-0.54, 53.23],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Chesney Wold, the Dedlocks' Lincolnshire estate, is a fictional great house drawn from the country seats of the north Midlands; sited in Lincolnshire, outside the London setting.",
+    "reference": "The Dedlock chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "At the rain-soaked Lincolnshire estate of Chesney Wold, the proud, bored Lady Dedlock hides a secret past that Tulkinghorn's patient malice slowly uncovers, a buried love and a lost child. Dickens threads the great house's frozen dignity through the book until its mistress is driven out into the very slums she disdained, the highest and the lowest bound by one concealed truth.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bleak House, Wikipedia, on Lady Dedlock and Chesney Wold",
+        "url": "https://en.wikipedia.org/wiki/Bleak_House"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

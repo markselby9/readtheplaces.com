@@ -1,0 +1,46 @@
+{
+  "id": "emma",
+  "title": "Emma",
+  "author": "Jane Austen",
+  "published": 1815,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.33, 51.3],
+  "zoom": 11,
+  "setting": {
+    "city": "Highbury",
+    "country": "GB",
+    "note": "Clever, rich and idle, Emma Woodhouse amuses herself matchmaking among the little society of her Surrey village, blundering through other people's hearts and her own until she learns what she has felt all along. Austen keeps the whole comedy within a few miles of real countryside: the family house at Hartfield and the village of Highbury, Mr Knightley's Donwell Abbey, and the outing to Box Hill where Emma's thoughtlessness brings her up short.",
+    "bbox": [-0.45, 51.24, -0.25, 51.42]
+  },
+  "rights": {
+    "originalWork": "Public domain. Jane Austen (d. 1817), first published 1815. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Emma_(novel)",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Emma, Jane Austen (1815). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the ordered Surrey countryside in which Austen keeps her comedy of manners, a small, sunlit world where a picnic can be a moral crisis. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "emma": {
+      "name": "Emma",
+      "color": "#8A6A12"
+    },
+    "knightley": {
+      "name": "Mr Knightley",
+      "color": "#2E5064"
+    },
+    "harriet": {
+      "name": "Harriet",
+      "color": "#6B3B5A"
+    },
+    "frank-churchill": {
+      "name": "Frank Churchill",
+      "color": "#8A2B1E"
+    }
+  }
+}

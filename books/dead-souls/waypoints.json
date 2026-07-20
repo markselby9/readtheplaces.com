@@ -1,0 +1,107 @@
+[
+  {
+    "id": "the-town-of-n",
+    "name": "The town of N.",
+    "progressLabel": "The arrival",
+    "character": "chichikov",
+    "coords": [36.0, 52.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The unnamed provincial town of N., where Chichikov charms the officials, is Gogol's satirical everytown drawn from the district capitals of Russia; sited in the provinces of the setting.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Into the dull provincial town of N. rolls the affable, well-dressed Chichikov, who within days has flattered every official and made himself the toast of local society. Gogol opens on the smug, gossiping bureaucracy of provincial Russia, a world so hollow that a charming nobody with a mad scheme can become its favourite guest.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Serfdom in Russia",
+        "url": "https://en.wikipedia.org/wiki/Serfdom_in_Russia"
+      },
+      {
+        "kind": "guide",
+        "ref": "Dead Souls, Wikipedia, on Chichikov and the town",
+        "url": "https://en.wikipedia.org/wiki/Dead_Souls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "manilovs-estate",
+    "name": "Manilov's estate",
+    "progressLabel": "The dreamer",
+    "character": "manilov",
+    "coords": [36.3, 52.2],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The estate of the sentimental idler Manilov is drawn from the country seats of the provincial gentry; sited near the town of the setting.",
+    "reference": "The Manilov chapters",
+    "order": 2,
+    "note": "At the estate of the sugary, do-nothing dreamer Manilov, Chichikov makes his first strange purchase of dead serfs, which his host, too vague to question, hands over as a gift. Gogol begins his gallery of landowners here, each a monstrous distillation of a single vice, Manilov the emptiness of pure sentimental idleness.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dead Souls, Wikipedia, on Manilov",
+        "url": "https://en.wikipedia.org/wiki/Dead_Souls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sobakevichs-estate",
+    "name": "Sobakevich's estate",
+    "progressLabel": "The bargainers",
+    "character": "sobakevich",
+    "coords": [35.7, 51.8],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The estate of the bear-like, hard-dealing Sobakevich, and those of the other landowners Chichikov visits, are drawn from provincial Russia; sited in the setting.",
+    "reference": "The landowner chapters",
+    "order": 3,
+    "note": "At the solid, bear-like Sobakevich's, Chichikov meets a shrewd haggler who praises his dead serfs as if selling live ones and drives a hard bargain over men in their graves. Gogol's landowners multiply, the suspicious widow Korobochka, the reckless liar Nozdryov, each a grotesque, the whole tour a diagnosis of a stagnant, serf-owning society.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dead Souls, Wikipedia, on Sobakevich and the landowners",
+        "url": "https://en.wikipedia.org/wiki/Dead_Souls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "plyushkins-estate",
+    "name": "Plyushkin's estate",
+    "progressLabel": "The miser",
+    "character": "plyushkin",
+    "coords": [36.5, 51.6],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The decayed estate of the ultimate miser Plyushkin is drawn from the ruined provincial gentry; sited in the setting.",
+    "reference": "The Plyushkin chapters",
+    "order": 4,
+    "note": "At the rotting estate of Plyushkin, a miser so far gone he lets his wealth and his serfs decay around a hoard of rubbish, Chichikov finds his richest source of dead souls. Gogol reaches the depths of his gallery here, in a portrait of avarice curdled into ruin that is also, unexpectedly, a glimpse of a soul that was once alive and human.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dead Souls, Wikipedia, on Plyushkin",
+        "url": "https://en.wikipedia.org/wiki/Dead_Souls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-road",
+    "name": "The open road",
+    "progressLabel": "The troika",
+    "character": "chichikov",
+    "coords": [36.1, 52.1],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The endless Russian road along which Chichikov's carriage flees the town once the scheme unravels is a real and recurring feature; sited in the provinces of the setting.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "When rumour and suspicion finally engulf his scheme, Chichikov's carriage rattles out of town along the open road, and Gogol breaks into his famous rhapsody on Russia herself as a hurtling troika, whither flyest thou, give answer. He ends the surviving book not with a verdict but with that unanswered question, the swindler's flight opening onto a vision of a whole nation racing toward an unknown destiny.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dead Souls, Wikipedia, on the troika and the ending",
+        "url": "https://en.wikipedia.org/wiki/Dead_Souls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

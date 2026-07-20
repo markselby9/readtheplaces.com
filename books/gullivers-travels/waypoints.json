@@ -1,0 +1,111 @@
+[
+  {
+    "id": "redriff",
+    "name": "Redriff, London",
+    "progressLabel": "The departures",
+    "character": "gulliver",
+    "coords": [-0.05, 51.5],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Gulliver lives at Redriff (Rotherhithe) by the London docks, from which he sets out on each voyage; sited in that real riverside district.",
+    "reference": "The frame",
+    "order": 1,
+    "note": "Between his voyages Gulliver returns to his home and family at Redriff by the Thames, the ordinary English base from which he keeps restlessly putting to sea. Swift grounds the fantastical travels in this real dockside London, lending his ship's-surgeon narrator a plain, credible voice that makes the wonders, and the satire, land the harder.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Rotherhithe",
+        "url": "https://en.wikipedia.org/wiki/Rotherhithe"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on the framing voyages",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lilliput",
+    "name": "Lilliput",
+    "progressLabel": "The little people",
+    "character": "the-lilliputians",
+    "coords": [99.0, -5.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Lilliput, land of the tiny people, is placed by Swift in the Indian Ocean south-west of Sumatra; sited there per the book's own coordinates, far outside the London setting.",
+    "reference": "Part I",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "Shipwrecked in Lilliput, Gulliver towers over a people six inches high whose court intrigues, wars over which end of an egg to crack, and petty vanities mirror the politics of Europe in miniature. Swift opens his satire by shrinking humanity, so that the pomp and cruelty of statecraft look as absurd as they are when acted out by creatures the size of a finger.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on Lilliput",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brobdingnag",
+    "name": "Brobdingnag",
+    "progressLabel": "The giants",
+    "character": "the-brobdingnag-king",
+    "coords": [-140.0, 45.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Brobdingnag, land of giants, is placed by Swift as a peninsula off the north-west coast of America in the Pacific; sited there per the book's own geography, far outside the London setting.",
+    "reference": "Part II",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "In Brobdingnag Gulliver is the tiny one, a plaything among giants, and when he boasts of England's glories to the wise king, the monarch concludes his countrymen are the most pernicious race of little vermin. Swift reverses the trick to shrink human pretension from the other side, letting the giant's plain good sense expose the vanity and violence of Gulliver's civilised Europe.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on Brobdingnag",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "laputa",
+    "name": "Laputa",
+    "progressLabel": "The projectors",
+    "character": "gulliver",
+    "coords": [140.0, 36.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The flying island of Laputa and the academy of Lagado are placed by Swift in the Pacific near Japan; sited there per the book's own coordinates, far outside the London setting.",
+    "reference": "Part III",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "On the flying island of Laputa and in the academy below, Gulliver meets abstracted philosophers and projectors labouring to extract sunbeams from cucumbers and build houses from the roof down. Swift turns his satire on science and reason cut loose from common sense, mocking the follies of learned men as sharply as he mocked those of courts and kings.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on Laputa and the Academy of Lagado",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "houyhnhnms",
+    "name": "The Houyhnhnms",
+    "progressLabel": "The rational horses",
+    "character": "the-houyhnhnms",
+    "coords": [40.0, -35.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The land of the rational horses and the brutish Yahoos is placed by Swift in the southern Indian Ocean; sited there per the book's own geography, far outside the London setting.",
+    "reference": "Part IV",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "In his last voyage Gulliver finds a land ruled by calm, reasoning horses, the Houyhnhnms, and disfigured by filthy human-shaped brutes, the Yahoos, and comes to loathe his own kind. Swift ends on his darkest note, Gulliver returning home unable to bear the company of people, the satire curdling into a bleak verdict on humanity itself.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on the Houyhnhnms and Yahoos",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "gateshead",
+    "name": "Gateshead",
+    "progressLabel": "Childhood",
+    "character": "jane",
+    "coords": [-1.55, 53.85],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gateshead Hall, the house of Jane's cruel aunt, is a fictional home drawn from the gentry houses of the north; sited in the West Riding of Yorkshire of the setting.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "At Gateshead, the orphaned Jane is raised in cold contempt by her aunt Reed and locked, in punishment, in the terrifying red-room where her uncle died. Brontë opens on the powerlessness of a plain, penniless child, and the fierce sense of injustice that will drive Jane's whole fight for a self and a place of her own.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Charlotte Brontë",
+        "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jane Eyre, Wikipedia, on Gateshead and the Reeds",
+        "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lowood",
+    "name": "Lowood School",
+    "progressLabel": "The school",
+    "character": "jane",
+    "coords": [-2.56, 54.16],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Lowood, the harsh charity school, is drawn from the Clergy Daughters' School at Cowan Bridge that Brontë attended; sited there.",
+    "reference": "The Lowood chapters",
+    "order": 2,
+    "note": "Sent to the charity school of Lowood, Jane endures cold, hunger and humiliation, and watches her gentle friend Helen Burns die of the fever that sweeps the dormitories. Brontë drew the school from the real Cowan Bridge that killed two of her own sisters, and forged in its privations the endurance and integrity that carry Jane on.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Clergy Daughters' School, Cowan Bridge",
+        "url": "https://en.wikipedia.org/wiki/Clergy_Daughters%27_School"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jane Eyre, Wikipedia, on Lowood and Helen Burns",
+        "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "thornfield",
+    "name": "Thornfield Hall",
+    "progressLabel": "The governess",
+    "character": "rochester",
+    "coords": [-1.63, 53.35],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Thornfield Hall, where Jane is governess, is drawn from North Lees Hall near Hathersage in the Peak District; sited there.",
+    "reference": "The Thornfield chapters",
+    "order": 3,
+    "note": "As governess at Thornfield, Jane falls in love with its master, the brooding Mr Rochester, only to learn at the altar that his mad first wife, Bertha, is still alive and locked in the attic above. Brontë sets the novel's central drama in this shadowed hall drawn from a real Peak District house, where a strange laughter in the night and a fire in the dark warn of the secret it hides.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "North Lees Hall, Hathersage",
+        "url": "https://en.wikipedia.org/wiki/North_Lees_Hall"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jane Eyre, Wikipedia, on Thornfield and Rochester",
+        "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "moor-house",
+    "name": "Moor House",
+    "progressLabel": "The moors",
+    "character": "st-john",
+    "coords": [-2.0, 53.95],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Moor House and the moorland village of Morton, where the destitute Jane is taken in by the Rivers family, are drawn from the Yorkshire moors; sited there.",
+    "reference": "The Moor House chapters",
+    "order": 4,
+    "note": "Fleeing Thornfield, Jane nearly dies on the open moor before the clergyman St John Rivers and his sisters take her in, and St John presses her to a loveless missionary marriage. On the bleak moors that the Brontës loved, Jane comes into an inheritance and a family, and chooses, against St John's cold duty, to answer instead the voice that calls her back to Rochester.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "The Yorkshire moors and the Brontës",
+        "url": "https://en.wikipedia.org/wiki/Haworth"
+      },
+      {
+        "kind": "guide",
+        "ref": "Jane Eyre, Wikipedia, on the Rivers family",
+        "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ferndean",
+    "name": "Ferndean",
+    "progressLabel": "The reunion",
+    "character": "rochester",
+    "coords": [-1.7, 53.5],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ferndean Manor, the remote house where the blinded Rochester lives after the fire, is a fictional retreat drawn from the wooded country of the north; sited in the setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "Jane finds Rochester at last at lonely Ferndean, blinded and maimed in the fire that destroyed Thornfield and killed Bertha, and marries him now as his equal. Brontë ends by clearing away every barrier of station and pride between them, so that Jane returns not as a dependent but by her own free choice, and 'Reader, I married him' is spoken from strength.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jane Eyre, Wikipedia, on the ending at Ferndean",
+        "url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

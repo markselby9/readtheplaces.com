@@ -1,0 +1,46 @@
+{
+  "id": "jude-the-obscure",
+  "title": "Jude the Obscure",
+  "author": "Thomas Hardy",
+  "published": 1895,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.35, 51.35],
+  "zoom": 8,
+  "setting": {
+    "city": "Wessex",
+    "country": "GB",
+    "note": "The stonemason Jude Fawley dreams of the university, but poverty, class and a doomed love for his free-thinking cousin Sue Bridehead break every hope, in Hardy's bleakest and most controversial novel. It maps his Wessex, drawn from real country: the village of his boyhood, the closed golden city of Christminster that will not have him, and the cathedral towns where he and Sue try and fail to live outside the rules.",
+    "bbox": [-2.35, 50.9, -1.1, 51.85]
+  },
+  "rights": {
+    "originalWork": "Public domain. Thomas Hardy (d. 1928), first published 1895. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Jude_the_Obscure",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Jude the Obscure, Thomas Hardy (1895). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The bruised plum of thwarted aspiration and forbidden love, Jude's longing for learning and for Sue alike battered down by class, church and circumstance. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jude": {
+      "name": "Jude",
+      "color": "#2E5064"
+    },
+    "sue": {
+      "name": "Sue",
+      "color": "#2E6B4A"
+    },
+    "arabella": {
+      "name": "Arabella",
+      "color": "#8A2B1E"
+    },
+    "phillotson": {
+      "name": "Phillotson",
+      "color": "#4A4A4A"
+    }
+  }
+}

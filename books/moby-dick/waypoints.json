@@ -1,0 +1,119 @@
+[
+  {
+    "id": "new-bedford",
+    "name": "New Bedford",
+    "progressLabel": "The Spouter-Inn",
+    "character": "ishmael",
+    "coords": [-70.93, 41.63],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Ishmael begins at New Bedford, the real great whaling port of Massachusetts, where he shares a bed at the Spouter-Inn with the harpooner Queequeg; sited in the city.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "In the whaling town of New Bedford, Ishmael takes a room at the Spouter-Inn and strikes up his strange, deep friendship with the tattooed cannibal harpooner Queequeg. Melville opens on land, in the real capital of American whaling, before ever setting foot on the water, grounding the coming myth in tar, chapels and the smell of the trade.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "New Bedford, Massachusetts, and whaling",
+        "url": "https://en.wikipedia.org/wiki/New_Bedford,_Massachusetts"
+      },
+      {
+        "kind": "guide",
+        "ref": "Moby-Dick, Wikipedia, on New Bedford and Queequeg",
+        "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "nantucket",
+    "name": "Nantucket",
+    "progressLabel": "The Pequod sails",
+    "character": "ahab",
+    "coords": [-70.1, 41.28],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pequod sails from Nantucket, the real island that was the heart of the American whale fishery; sited there.",
+    "reference": "The Nantucket chapters",
+    "order": 2,
+    "note": "On Nantucket, Ishmael and Queequeg sign aboard the Pequod under its Quaker owners, and the ship puts to sea one grey Christmas without a sight of its captain. Melville makes the little sand-island the launching point of the whole voyage, and lets the brooding Ahab appear on the quarterdeck only once they are safely out on the deep.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Nantucket",
+        "url": "https://en.wikipedia.org/wiki/Nantucket"
+      },
+      {
+        "kind": "guide",
+        "ref": "Moby-Dick, Wikipedia, on Nantucket and the Pequod",
+        "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-atlantic",
+    "name": "The open Atlantic",
+    "progressLabel": "The voyage",
+    "character": "starbuck",
+    "coords": [-70.3, 41.4],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pequod's voyage begins in the Atlantic off New England before rounding toward the far oceans; the coastal sea is sited within the New England setting.",
+    "reference": "The voyage chapters",
+    "order": 3,
+    "note": "Once at sea, Ahab nails a gold doubloon to the mast for the man who first sights the white whale, and binds the crew to his vengeance while the mate Starbuck alone protests its madness. On the water Melville pours out his vast digressions on whales and whaling, the try-works flaring at night, the ordinary labour of the hunt shadowed by its captain's unholy purpose.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Moby-Dick, Wikipedia, on Ahab, Starbuck and the quest",
+        "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-japan-grounds",
+    "name": "The Japan grounds",
+    "progressLabel": "The Pacific",
+    "character": "ahab",
+    "coords": [150.0, 30.0],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The hunt carries the Pequod to the real Pacific whaling grounds off Japan, where sperm whales gathered and the American fleet followed; sited there, far outside the New England setting.",
+    "reference": "The Pacific chapters",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "Across the Indian and Pacific oceans to the whaling grounds off Japan the Pequod sails, gamming with other ships that each bring word of the White Whale and its havoc. Melville widens the voyage to the whole globe, the little ship a world entire, driven ever onward by Ahab toward the creature he has made the mask of all the world's malice.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "History of whaling in the Pacific",
+        "url": "https://en.wikipedia.org/wiki/History_of_whaling"
+      },
+      {
+        "kind": "guide",
+        "ref": "Moby-Dick, Wikipedia, on the Pacific hunt",
+        "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-final-chase",
+    "name": "The final chase",
+    "progressLabel": "The three days",
+    "character": "ishmael",
+    "coords": [-140.0, 0.0],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The three-day chase and the destruction of the Pequod are set in the equatorial Pacific; the exact spot is the novel's own, sited in the open ocean far outside the New England setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "At last the White Whale is raised, and over three days it staves the boats, kills Ahab in his own harpoon-line, and sinks the Pequod with all hands but one. Melville ends with the sea rolling on as it did five thousand years ago, and Ishmael alone afloat on Queequeg's coffin, left to tell the tale.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Moby-Dick, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Moby-Dick"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

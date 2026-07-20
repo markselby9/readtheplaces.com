@@ -1,0 +1,46 @@
+{
+  "id": "david-copperfield",
+  "title": "David Copperfield",
+  "author": "Charles Dickens",
+  "published": 1850,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [0.5, 51.7],
+  "zoom": 7,
+  "setting": {
+    "city": "England",
+    "country": "GB",
+    "note": "Dickens's most autobiographical novel follows David Copperfield from a Suffolk childhood through cruelty, child labour and hard-won fortune, across an England he renders with tender exactness. It maps a real country: the village of his birth, the Yarmouth beach where the Peggottys keep their upturned-boat home, the London warehouse of his degradation and the improvident Micawbers, and Canterbury and Dover, where his aunt Betsey Trotwood gives him a second chance.",
+    "bbox": [-0.2, 50.8, 1.85, 52.7]
+  },
+  "rights": {
+    "originalWork": "Public domain. Charles Dickens (d. 1870), first published 1849-50. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/David_Copperfield",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "David Copperfield, Charles Dickens (1850). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue-grey of the sea at Yarmouth, where the book's happiness and its greatest sorrow both come in off the water. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "david": {
+      "name": "David",
+      "color": "#2E6B4A"
+    },
+    "betsey": {
+      "name": "Betsey Trotwood",
+      "color": "#6B3B5A"
+    },
+    "micawber": {
+      "name": "Micawber",
+      "color": "#8A6A12"
+    },
+    "uriah-heep": {
+      "name": "Uriah Heep",
+      "color": "#8A2B1E"
+    }
+  }
+}

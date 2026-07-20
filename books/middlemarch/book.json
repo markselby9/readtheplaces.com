@@ -1,0 +1,46 @@
+{
+  "id": "middlemarch",
+  "title": "Middlemarch",
+  "author": "George Eliot",
+  "published": 1871,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.51, 52.41],
+  "zoom": 10,
+  "setting": {
+    "city": "Middlemarch",
+    "country": "GB",
+    "note": "In a Midlands town around the time of the 1832 Reform Bill, the idealistic Dorothea Brooke and the ambitious young doctor Tertius Lydgate each marry badly and see their high hopes worn down by the pressures of provincial society. Eliot's Middlemarch is drawn from Coventry and its Warwickshire country: the town and its gossip, the parish of Lowick, the new fever hospital of Lydgate's reforms, and the estates on which fortunes and marriages turn.",
+    "bbox": [-1.7, 52.3, -1.3, 52.6]
+  },
+  "rights": {
+    "originalWork": "Public domain. George Eliot (d. 1880), first published 1871-72. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Middlemarch",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Middlemarch, George Eliot (1871). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the Midlands country and of growth hoped for, against which Eliot measures the slow thwarting of two reforming lives by the web of provincial life. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "dorothea": {
+      "name": "Dorothea",
+      "color": "#2E5064"
+    },
+    "lydgate": {
+      "name": "Lydgate",
+      "color": "#8A6A12"
+    },
+    "casaubon": {
+      "name": "Casaubon",
+      "color": "#4A4A4A"
+    },
+    "rosamond": {
+      "name": "Rosamond",
+      "color": "#6B3B5A"
+    }
+  }
+}
