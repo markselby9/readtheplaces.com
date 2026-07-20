@@ -16,13 +16,18 @@ test('the homepage search narrows the catalogue and counts matches', async ({ pa
   await box.fill('paris');
   await expect(page.locator('#search-count')).toContainText(/of \d+ books/);
 
-  // The Paris novels stay; a London one drops out.
+  // The Paris novels stay; a London one drops out. Search lifts the "Show
+  // more" cap, so every match is shown and the button is gone.
   await expect(page.getByRole('link', { name: /Les Misérables/ })).toBeVisible();
   await expect(page.getByRole('link', { name: /Mrs Dalloway/ })).toBeHidden();
+  await expect(page.getByRole('button', { name: /Show more/ })).toBeHidden();
 
-  // Clearing restores the full list.
+  // Clearing restores the paginated catalogue: the count clears and the "Show
+  // more" cap is back. (Asserting a specific book stays visible would be brittle
+  // — the list is ordered by a popularity number that changes daily.)
   await box.fill('');
-  await expect(page.getByRole('link', { name: /Mrs Dalloway/ })).toBeVisible();
+  await expect(page.locator('#search-count')).toHaveText('');
+  await expect(page.getByRole('button', { name: /Show more/ })).toBeVisible();
 });
 
 test('a search with no matches shows an empty state, not a blank page', async ({ page }) => {

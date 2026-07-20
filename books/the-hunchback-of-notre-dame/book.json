@@ -11,7 +11,8 @@
     "city": "Paris",
     "country": "FR",
     "note": "In the Paris of 1482, the deformed bellringer Quasimodo, the archdeacon Frollo consumed by his desire for the gypsy dancer Esmeralda, and the cathedral itself are bound together in a tragedy of love, cruelty and sanctuary. Hugo's Paris is a real medieval city rendered in vast detail: Notre-Dame above all, the Place de Grève with its pillory and gibbet, the thieves' Court of Miracles, and the Montfaucon gallows where the story ends.",
-    "bbox": [2.3, 48.83, 2.4, 48.89]
+    "bbox": [2.3, 48.83, 2.4, 48.89],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "Public domain. Victor Hugo (d. 1885), first published 1831 (Notre-Dame de Paris). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

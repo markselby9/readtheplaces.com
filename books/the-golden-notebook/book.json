@@ -12,7 +12,8 @@
     "country": "GB",
     "date": "1957",
     "note": "The London of a divorced writer and ex-Communist in the late 1950s: talk in a Bloomsbury flat, the Party's real offices off Covent Garden, and the espresso bars of Soho where the literary and political left argued out the aftermath of 1956. The long African chapters, Anna's Rhodesian past in the black notebook, sit outside this frame and are marked apart.",
-    "bbox": [-0.24, 51.47, -0.1, 51.55]
+    "bbox": [-0.24, 51.47, -0.1, 51.55],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. Doris Lessing, first published 1962. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

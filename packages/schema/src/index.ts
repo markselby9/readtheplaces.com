@@ -131,6 +131,11 @@ export const bookSchema = z.object({
     /** [minLon, minLat, maxLon, maxLat]. Catches transposed coordinates, and
      *  geocoders that confidently return the wrong city. */
     bbox: z.tuple([z.number(), z.number(), z.number(), z.number()]).optional(),
+    /** Wikivoyage article title, for a reader who wants to actually visit, e.g.
+     *  "Dublin" or "Cambridge (Massachusetts)". Destination-level only, and
+     *  editor-supplied: omit it for fictional or ahistorical settings (Macondo,
+     *  Middlemarch) so we never point somewhere that isn't a real place. */
+    wikivoyage: z.string().min(1).optional(),
   }),
 
   /** The work, the translation, the transcription and the imagery are separate
@@ -176,6 +181,11 @@ export type Book = z.infer<typeof bookSchema>;
 
 /** A waypoint whose position has been derived from the source text. */
 export type BuiltWaypoint = Waypoint & { position: number };
+
+/** Turn a `setting.wikivoyage` title into its article URL. Wikivoyage titles
+ *  join words with underscores; parentheses (disambiguation) stay literal. */
+export const wikivoyageUrl = (title: string): string =>
+  `https://en.wikivoyage.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 
 export { contrast, PAPER } from './contrast.ts';
 export { normalise } from './normalise.ts';

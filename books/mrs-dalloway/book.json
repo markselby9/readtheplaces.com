@@ -11,7 +11,8 @@
     "country": "GB",
     "date": "1923-06-20",
     "note": "A single Wednesday in mid-June 1923. The novel is ordered by the striking of clocks.",
-    "bbox": [-0.25, 51.44, -0.02, 51.58]
+    "bbox": [-0.25, 51.44, -0.02, 51.58],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Woolf died 1941; PD in the UK and EU (life+70, since 2012) and in the US (published 1925, PD since 2021).",

@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "The respectable Dr Jekyll brews a potion that frees his hidden appetites as the monstrous Mr Hyde, and the lawyer Utterson traces the growing horror through a fog-bound London toward a locked cabinet and a confession. Stevenson's city is a real, gaslit London of double lives: the fine house with its sinister back door, the squalid Soho lodgings of Hyde, and the lanes where his violence erupts, all mapping the divided self onto the divided town.",
-    "bbox": [-0.2, 51.48, -0.05, 51.54]
+    "bbox": [-0.2, 51.48, -0.05, 51.54],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Robert Louis Stevenson (d. 1894), first published 1886. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

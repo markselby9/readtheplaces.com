@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Having got himself thrown out of yet another prep school, Holden Caulfield spends two lost days drifting around Manhattan before he has to face his parents. The city is precisely his: Grand Central where he sleeps on a bench, the frozen pond in Central Park where he keeps wondering where the ducks go, the unchanging dioramas at the Museum of Natural History, and the carousel where his sister Phoebe rides in the rain at the end.",
-    "bbox": [-74.0, 40.745, -73.95, 40.79]
+    "bbox": [-74.0, 40.745, -73.95, 40.79],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. J. D. Salinger, first published 1951. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

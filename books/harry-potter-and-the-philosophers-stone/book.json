@@ -12,7 +12,8 @@
     "country": "GB",
     "date": "1991",
     "note": "The Muggle London that hides a wizarding one: a zoo, a pub on Charing Cross Road, a station with a platform that is not there.",
-    "bbox": [-0.28, 51.44, -0.05, 51.58]
+    "bbox": [-0.28, 51.44, -0.05, 51.58],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. J. K. Rowling, 1997. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

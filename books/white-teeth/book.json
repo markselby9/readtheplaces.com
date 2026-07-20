@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "Smith's North West London is a working, multicultural map: the terraced streets of Willesden and Cricklewood where the Iqbal and Jones families make their tangled lives from 1975 to the millennium, the high roads and cafés where the men gather, the local school, and a final swerve to a genetics institute in the centre of town. The map runs from Willesden Green east across Cricklewood and Kilburn to the West End.",
-    "bbox": [-0.26, 51.49, -0.1, 51.58]
+    "bbox": [-0.26, 51.49, -0.1, 51.58],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. Zadie Smith, first published 2000. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

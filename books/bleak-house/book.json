@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "Around the endless Chancery suit of Jarndyce and Jarndyce, Dickens draws a whole society, from the fog-bound law courts to the rotting slum of Tom-all-Alone's, from a Lincolnshire great house to the good house in Hertfordshire where Esther Summerson makes a home. The novel maps a real geography: the Court of Chancery and Lincoln's Inn, the slum whose fever spreads to rich and poor alike, and the country estates on which its secrets turn.",
-    "bbox": [-0.25, 51.45, 0.0, 51.56]
+    "bbox": [-0.25, 51.45, 0.0, 51.56],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Charles Dickens (d. 1870), first published 1852-53. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

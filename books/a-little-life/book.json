@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Four college friends build their adult lives in New York across some thirty years, the story circling ever closer to Jude St Francis, a gifted litigator carrying a childhood of unspeakable harm. The map holds to Lower Manhattan: a first cramped apartment on Lispenard Street in TriBeCa, the SoHo loft on Greene Street that Jude and Willem come to share, the downtown courts and the square by NYU, with a weekend house upstate off to the north.",
-    "bbox": [-74.03, 40.7, -73.965, 40.745]
+    "bbox": [-74.03, 40.7, -73.965, 40.745],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Hanya Yanagihara, first published 2015. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
