@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "Stevenson keeps the geography deliberately shadowy, but the districts are real. Hyde's sinister side-door opens on a by-street near Soho; the same building is Dr Jekyll's handsome house around the corner in a West End square; Dr Lanyon holds court in Cavendish Square, the citadel of medicine; Hyde keeps rooms in Soho; and Sir Danvers Carew is beaten to death by night in a lane near the river at Westminster. The named districts are exact; the exact doors are composite, which is what the labels are for.",
-    "bbox": [-0.51, 51.287, 0.334, 51.692]
+    "bbox": [-0.51, 51.287, 0.334, 51.692],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Robert Louis Stevenson, first published 1886; the author died in 1894.",

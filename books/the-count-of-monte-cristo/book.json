@@ -12,7 +12,8 @@
     "city": "Marseille",
     "country": "FR",
     "note": "It opens in the old harbour of Marseille, where the Pharaon docks and Edmond Dantès is arrested, and at the Château d'If, the real island fortress off the coast where he is buried alive for fourteen years. His escape and the treasure carry the story out of France: to the island of Monte Cristo in the Tuscan archipelago, and to Rome, before he returns to take his revenge in Paris. The Italian and Roman scenes are flagged as excursions beyond the setting.",
-    "bbox": [2.2, 43.1, 5.6, 48.95]
+    "bbox": [2.2, 43.1, 5.6, 48.95],
+    "wikivoyage": "Marseille"
   },
   "rights": {
     "originalWork": "Public domain. Alexandre Dumas, first published 1844-46; the author died in 1870.",

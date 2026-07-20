@@ -11,7 +11,8 @@
     "city": "Cairo",
     "country": "EG",
     "note": "Mahfouz builds a single fictional alley, and the whole of scripture and history play out inside it: a founding ancestor in a great house at the desert edge, an endowment fought over by strongmen, and a line of reformers who each try to win the poor their share. The alley is drawn from the Gamaliya of his own childhood, the old Islamic quarter below the Muqattam hills, near the mosque of al-Husayn and the northern gate of Bab al-Futuh.",
-    "bbox": [31.255, 30.028, 31.29, 30.062]
+    "bbox": [31.255, 30.028, 31.29, 30.062],
+    "wikivoyage": "Cairo"
   },
   "rights": {
     "originalWork": "In copyright. Naguib Mahfouz, first serialised 1959. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

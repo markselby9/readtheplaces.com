@@ -11,7 +11,8 @@
     "city": "Berlin",
     "country": "DE",
     "note": "Döblin's Berlin is the loud, crowded capital of the late Weimar years, mapped by its real squares, tram lines and back-street bars as an ex-convict tries to go straight and keeps being pulled under. The route runs from the Tegel prison gate in the north-west, through the Scheunenviertel and the great hub of Alexanderplatz, out to the northern asylum where the story ends.",
-    "bbox": [13.28, 52.51, 13.51, 52.64]
+    "bbox": [13.28, 52.51, 13.51, 52.64],
+    "wikivoyage": "Berlin"
   },
   "rights": {
     "originalWork": "In copyright. Alfred Döblin, first published 1929. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

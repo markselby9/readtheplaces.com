@@ -12,7 +12,8 @@
     "country": "FR",
     "date": "1940",
     "note": "France in the summer of 1940 and the Occupation that follows. Part One drives the panicked exodus out of Paris and down the choked roads south through the Loire; Part Two settles into an occupied Burgundy village where villagers and billeted German soldiers share the same streets. The map runs from the capital to the wine country of Saône-et-Loire.",
-    "bbox": [0.5, 46.4, 4.2, 49.0]
+    "bbox": [0.5, 46.4, 4.2, 49.0],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "In copyright. Irène Némirovsky, written 1942, first published 2004. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

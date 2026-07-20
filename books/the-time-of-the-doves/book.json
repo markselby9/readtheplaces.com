@@ -11,7 +11,8 @@
     "city": "Barcelona",
     "country": "ES",
     "note": "Natàlia, a working-class woman known as Colometa, tells the story of her life in the Gràcia district of Barcelona, her marriage to the domineering Quimet and his obsession with doves, and the Spanish Civil War that shatters her small world. Rodoreda maps the real neighbourhood: the Plaça del Diamant where Natàlia meets Quimet at a dance, the Gràcia streets and the flat overrun by his doves, the district under the bombs and hunger of the war, and the square she returns to at the end.",
-    "bbox": [2.145, 41.395, 2.168, 41.412]
+    "bbox": [2.145, 41.395, 2.168, 41.412],
+    "wikivoyage": "Barcelona"
   },
   "rights": {
     "originalWork": "In copyright. Mercè Rodoreda, first published 1962 (La plaça del Diamant). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

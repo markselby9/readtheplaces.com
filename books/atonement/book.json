@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "A country house in the Surrey heat of 1935, where a girl's misreading of one scene wrecks three lives, then the war that follows it: a soldier's long walk to the beaches of Dunkirk, and the London wards where the two sisters nurse the wounded. The map anchors on southern England, from the Surrey estate to wartime Lambeth and Balham, and reaches across the Channel to the French coast of the retreat.",
-    "bbox": [-0.62, 51.2, -0.05, 51.55]
+    "bbox": [-0.62, 51.2, -0.05, 51.55],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. Ian McEwan, first published 2001. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

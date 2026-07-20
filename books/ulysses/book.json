@@ -11,7 +11,8 @@
     "city": "Dublin",
     "country": "IE",
     "note": "One day, 16 June 1904, mapped street by street. Joyce said he wanted Dublin so exactly rendered it could be rebuilt from the book, and people have been walking it every Bloomsday since. From the Martello tower at Sandycove in the south to the graves at Glasnevin in the north, every place here is real and still findable.",
-    "bbox": [-6.3, 53.285, -6.105, 53.38]
+    "bbox": [-6.3, 53.285, -6.105, 53.38],
+    "wikivoyage": "Dublin"
   },
   "rights": {
     "originalWork": "Public domain. James Joyce, first published 1922; the author died in 1941.",

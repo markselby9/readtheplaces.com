@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Lily Bart falls through New York one address at a time. The novel opens in the crowd at Grand Central and follows her down: the bachelor flats of the Benedick, the Trenors' great estate up the Hudson, the marble mansions creeping up Fifth Avenue, and, at the end, a milliner's workroom, a West Side boarding-house, and a bench in Bryant Park. The plot is a map, read downwards.",
-    "bbox": [-74.259, 40.477, -73.7, 42.02]
+    "bbox": [-74.259, 40.477, -73.7, 42.02],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "Public domain. Edith Wharton, first published 1905; the author died in 1937.",

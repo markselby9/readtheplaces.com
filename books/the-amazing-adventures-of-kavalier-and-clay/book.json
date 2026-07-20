@@ -12,7 +12,8 @@
     "country": "US",
     "date": "1939-1954",
     "note": "The golden-age comic-book New York of two young cousins who invent a superhero to fight a war America has not yet joined. The map runs from a publisher's office high in the Empire State Building out to the tenement streets of Brooklyn, the bohemian rooms of Greenwich Village and the fairgrounds of Flushing Meadows, with Josef's Prague and a wartime Antarctic base held as far frames.",
-    "bbox": [-74.05, 40.6, -73.8, 40.8]
+    "bbox": [-74.05, 40.6, -73.8, 40.8],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Michael Chabon, first published 2000. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

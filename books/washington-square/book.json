@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "A single square, mapped to the door. James fixes the whole novel to a few blocks of Greenwich Village: Dr Sloper's wide-fronted house on Washington Square North, the real Row of Greek Revival houses that still stands; the Square itself, with its wooden paling and ailantus-trees; and the confident new Fifth Avenue taking its origin at the corner. Downtown, near the City Hall, is the old world the doctor left; uptown is the raw frontier fashion was chasing. A tour of Switzerland is the one excursion beyond the setting.",
-    "bbox": [-74.259, 40.477, -73.7, 40.918]
+    "bbox": [-74.259, 40.477, -73.7, 40.918],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "Public domain. Henry James, first published 1880; the author died in 1916.",

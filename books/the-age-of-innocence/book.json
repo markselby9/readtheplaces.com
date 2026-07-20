@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Gilded Age Manhattan, where an address is a verdict. Wharton is exact about which streets are respectable and which are not: the shabby old opera house on Fourteenth Street, the chocolate-coloured brownstones, and the bold new houses creeping up towards the Park. Half of these buildings are gone.",
-    "bbox": [-74.259, 40.477, -73.7, 40.918]
+    "bbox": [-74.259, 40.477, -73.7, 40.918],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "Public domain. Edith Wharton, first published 1920; the author died in 1937.",

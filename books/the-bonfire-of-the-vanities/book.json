@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Wolfe's panorama of 1980s New York runs on the distance between its worlds. Sherman McCoy, a Wall Street bond trader who thinks of himself as a Master of the Universe, lives in a Park Avenue duplex and takes a wrong turn off the expressway into the South Bronx, where his mistress hits a young Black man with his car. The fallout pulls in the Bronx County Courthouse, a Harlem preacher, and the tabloids, and the map is the city's fault lines laid end to end.",
-    "bbox": [-74.03, 40.7, -73.89, 40.85]
+    "bbox": [-74.03, 40.7, -73.89, 40.85],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Tom Wolfe, first published 1987. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

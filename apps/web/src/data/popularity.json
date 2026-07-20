@@ -3,6 +3,18 @@
     "article": "2666",
     "views": 181543
   },
+  "101-reykjavik": {
+    "article": "101 Reykjavík",
+    "views": 22803
+  },
+  "a-bend-in-the-river": {
+    "article": "A Bend in the River",
+    "views": 25725
+  },
+  "a-brief-history-of-seven-killings": {
+    "article": "A Brief History of Seven Killings",
+    "views": 40401
+  },
   "a-christmas-carol": {
     "article": "A Christmas Carol",
     "views": 861342
@@ -13,7 +25,7 @@
   },
   "a-fine-balance": {
     "article": "A Fine Balance",
-    "views": 59579
+    "views": 59271
   },
   "a-general-theory-of-oblivion": {
     "article": "A General Theory of Oblivion",
@@ -27,6 +39,10 @@
     "article": "A Golden Age",
     "views": 7534
   },
+  "a-hero-of-our-time": {
+    "article": "A Hero of Our Time",
+    "views": 54326
+  },
   "a-house-for-mr-biswas": {
     "article": "A House for Mr Biswas",
     "views": 39255
@@ -37,7 +53,7 @@
   },
   "a-passage-to-india": {
     "article": "A Passage to India",
-    "views": 126977
+    "views": 130676
   },
   "a-room-with-a-view": {
     "article": "A Room with a View",
@@ -47,17 +63,33 @@
     "article": "A Tale of Love and Darkness",
     "views": 10039
   },
+  "a-tale-of-two-cities": {
+    "article": "A Tale of Two Cities",
+    "views": 589214
+  },
+  "a-thousand-splendid-suns": {
+    "article": "A Thousand Splendid Suns",
+    "views": 336599
+  },
   "absalom-absalom": {
     "article": "Absalom, Absalom!",
-    "views": 127394
+    "views": 117484
   },
   "abyssinian-chronicles": {
     "article": "Abyssinian Chronicles",
     "views": 863
   },
+  "alamut": {
+    "article": "Alamut (Bartol novel)",
+    "views": 41702
+  },
   "ali-and-nino": {
     "article": "Ali and Nino",
     "views": 25209
+  },
+  "allah-is-not-obliged": {
+    "article": "Allah Is Not Obliged",
+    "views": 4105
   },
   "american-visa": {
     "article": "Visa policy of the United States",
@@ -65,7 +97,7 @@
   },
   "anils-ghost": {
     "article": "Anil's Ghost",
-    "views": 10018
+    "views": 10195
   },
   "anna-karenina": {
     "article": "Anna Karenina",
@@ -79,49 +111,117 @@
     "article": "Atonement (novel)",
     "views": 221331
   },
+  "balzac-and-the-little-chinese-seamstress": {
+    "article": "Balzac and the Little Chinese Seamstress",
+    "views": 14686
+  },
   "beijing-coma": {
     "article": "Beijing Coma",
     "views": 2457
   },
   "beloved": {
     "article": "Beloved (novel)",
-    "views": 344229
+    "views": 320406
   },
   "berlin-alexanderplatz": {
     "article": "Berlin Alexanderplatz",
     "views": 47087
   },
+  "black-rain": {
+    "article": "Black Rain (novel)",
+    "views": 8164
+  },
+  "bleak-house": {
+    "article": "Bleak House",
+    "views": 231783
+  },
   "blood-meridian": {
     "article": "Blood Meridian",
-    "views": 1318831
+    "views": 1333785
   },
   "bonjour-tristesse": {
     "article": "Bonjour Tristesse",
     "views": 73932
   },
+  "border-town": {
+    "article": "Border town",
+    "views": 11337
+  },
   "brideshead-revisited": {
     "article": "Brideshead Revisited",
     "views": 248242
   },
+  "brighton-rock": {
+    "article": "Brighton Rock (novel)",
+    "views": 52398
+  },
+  "broad-and-alien-is-the-world": {
+    "article": "Yawar Fiesta",
+    "views": 3038
+  },
+  "bruges-la-morte": {
+    "article": "Bruges-la-Morte",
+    "views": 9285
+  },
   "buddenbrooks": {
     "article": "Buddenbrooks",
-    "views": 82018
+    "views": 80537
   },
   "burmese-days": {
     "article": "Burmese Days",
-    "views": 55520
+    "views": 54882
+  },
+  "by-the-sea": {
+    "article": "By the Sea",
+    "views": 523
+  },
+  "cannery-row": {
+    "article": "Cannery Row (novel)",
+    "views": 81217
+  },
+  "captain-corellis-mandolin": {
+    "article": "Captain Corelli's Mandolin",
+    "views": 48939
+  },
+  "celestial-bodies": {
+    "article": "Celestial Bodies",
+    "views": 8938
+  },
+  "changes": {
+    "article": "Changes",
+    "views": 5210
   },
   "children-of-gebelawi": {
     "article": "Children of Gebelawi",
     "views": 22802
   },
+  "chronicle-in-stone": {
+    "article": "Chronicle in Stone",
+    "views": 4240
+  },
+  "cities-of-salt": {
+    "article": "Cities of Salt",
+    "views": 14417
+  },
   "cloudstreet": {
     "article": "Cloudstreet",
-    "views": 18858
+    "views": 18801
+  },
+  "cold-mountain": {
+    "article": "Cold Mountain (novel)",
+    "views": 36530
+  },
+  "conversation-in-the-cathedral": {
+    "article": "Conversation in The Cathedral",
+    "views": 14328
+  },
+  "cracking-india": {
+    "article": "Cracking India",
+    "views": 15273
   },
   "crazy-rich-asians": {
     "article": "Crazy Rich Asians (novel)",
-    "views": 75322
+    "views": 72190
   },
   "crime-and-punishment": {
     "article": "Crime and Punishment",
@@ -131,13 +231,25 @@
     "article": "Cry, the Beloved Country",
     "views": 49950
   },
+  "crystal-boys": {
+    "article": "Crystal Boys",
+    "views": 5689
+  },
   "cutting-for-stone": {
     "article": "Cutting for Stone",
     "views": 66972
   },
+  "david-copperfield": {
+    "article": "David Copperfield",
+    "views": 477852
+  },
   "de-niros-game": {
     "article": "De Niro's Game",
     "views": 2204
+  },
+  "dead-souls": {
+    "article": "Dead Souls",
+    "views": 110280
   },
   "death-and-the-penguin": {
     "article": "Death and the Penguin",
@@ -163,6 +275,10 @@
     "article": "No Longer Human",
     "views": 398537
   },
+  "doctor-glas": {
+    "article": "Doctor Glas",
+    "views": 10326
+  },
   "doctor-zhivago": {
     "article": "Doctor Zhivago (novel)",
     "views": 162890
@@ -170,6 +286,14 @@
   "dogeaters": {
     "article": "Dogeaters",
     "views": 5550
+  },
+  "dom-casmurro": {
+    "article": "Dom Casmurro",
+    "views": 15828
+  },
+  "don-goyo": {
+    "article": "Popocatépetl",
+    "views": 111802
   },
   "don-quixote": {
     "article": "Don Quixote",
@@ -191,9 +315,21 @@
     "article": "El Señor Presidente",
     "views": 15080
   },
+  "emma": {
+    "article": "Emma",
+    "views": 26075
+  },
   "empire-of-the-sun": {
     "article": "Empire of the Sun (novel)",
     "views": 55092
+  },
+  "family": {
+    "article": "Family",
+    "views": 266199
+  },
+  "fateless": {
+    "article": "Fatelessness",
+    "views": 9664
   },
   "fatelessness": {
     "article": "Fatelessness",
@@ -203,9 +339,21 @@
     "article": "Père Goriot",
     "views": 41589
   },
+  "fathers-and-sons": {
+    "article": "Fathers and Sons (novel)",
+    "views": 74187
+  },
   "for-bread-alone": {
     "article": "For Bread Alone",
     "views": 7242
+  },
+  "fortress-besieged": {
+    "article": "Fortress Besieged",
+    "views": 10317
+  },
+  "four-reigns": {
+    "article": "Four Reigns",
+    "views": 3524
   },
   "frankenstein": {
     "article": "Frankenstein",
@@ -215,6 +363,18 @@
     "article": "Frankenstein in Baghdad",
     "views": 18942
   },
+  "from-a-crooked-rib": {
+    "article": "From a Crooked Rib",
+    "views": 3636
+  },
+  "gabriela-clove-and-cinnamon": {
+    "article": "Gabriela, Clove and Cinnamon",
+    "views": 8162
+  },
+  "gate-of-the-sun": {
+    "article": "Gate of the Sun",
+    "views": 23443
+  },
   "girl-at-war": {
     "article": "Girls at War",
     "views": 3112
@@ -223,13 +383,25 @@
     "article": "God's Bits of Wood",
     "views": 5604
   },
+  "going-down-river-road": {
+    "article": "Meja Mwangi",
+    "views": 8307
+  },
   "great-expectations": {
     "article": "Great Expectations",
     "views": 516156
   },
+  "gullivers-travels": {
+    "article": "Gulliver's Travels",
+    "views": 411571
+  },
   "half-of-a-yellow-sun": {
     "article": "Half of a Yellow Sun",
     "views": 103176
+  },
+  "hamnet": {
+    "article": "Hamnet (novel)",
+    "views": 884585
   },
   "harry-potter-and-the-philosophers-stone": {
     "article": "Harry Potter and the Philosopher's Stone",
@@ -237,19 +409,31 @@
   },
   "heart-of-darkness": {
     "article": "Heart of Darkness",
-    "views": 654056
+    "views": 652847
+  },
+  "heidi": {
+    "article": "Heidi",
+    "views": 213085
+  },
+  "history-a-novel": {
+    "article": "History (novel)",
+    "views": 11940
   },
   "history-la-storia": {
     "article": "History (novel)",
-    "views": 12261
+    "views": 11940
   },
   "homegoing": {
     "article": "Homegoing (Gyasi novel)",
-    "views": 61826
+    "views": 61535
   },
   "houseboy": {
     "article": "Houseboy (novel)",
     "views": 5488
+  },
+  "how-green-was-my-valley": {
+    "article": "How Green Was My Valley (novel)",
+    "views": 13
   },
   "huasipungo": {
     "article": "Huasipungo",
@@ -257,19 +441,31 @@
   },
   "human-acts": {
     "article": "Human Acts",
-    "views": 84042
+    "views": 80871
   },
   "hunger": {
     "article": "Hunger",
     "views": 47787
   },
+  "i-the-supreme": {
+    "article": "I, the Supreme",
+    "views": 8601
+  },
   "in-praise-of-hatred": {
     "article": "In Praise of Hatred",
     "views": 798
   },
+  "in-the-castle-of-my-skin": {
+    "article": "In the Castle of My Skin",
+    "views": 6224
+  },
   "in-the-shadow-of-the-banyan": {
     "article": "In the Shadow of the Banyan",
     "views": 2249
+  },
+  "in-the-skin-of-a-lion": {
+    "article": "In the Skin of a Lion",
+    "views": 20958
   },
   "independent-people": {
     "article": "Independent People",
@@ -279,13 +475,33 @@
     "article": "Invisible Man",
     "views": 213096
   },
+  "jagua-nana": {
+    "article": "Jagua Nana",
+    "views": 1991
+  },
   "jamilia": {
     "article": "Jamila (novel)",
     "views": 9893
   },
+  "jane-eyre": {
+    "article": "Jane Eyre",
+    "views": 918189
+  },
   "journey-to-the-end-of-the-night": {
     "article": "Journey to the End of the Night",
     "views": 79768
+  },
+  "jude-the-obscure": {
+    "article": "Jude the Obscure",
+    "views": 110736
+  },
+  "justine": {
+    "article": "Justine (de Sade novel)",
+    "views": 129905
+  },
+  "kartography": {
+    "article": "Kamila Shamsie",
+    "views": 19622
   },
   "kidnapped": {
     "article": "Kidnapped (novel)",
@@ -295,9 +511,25 @@
     "article": "Kim",
     "views": 14874
   },
+  "kokoro": {
+    "article": "Kokoro",
+    "views": 84669
+  },
+  "kristin-lavransdatter": {
+    "article": "Kristin Lavransdatter",
+    "views": 51745
+  },
+  "leaves-of-the-banyan-tree": {
+    "article": "Banyan",
+    "views": 179551
+  },
   "les-miserables": {
     "article": "Les Misérables",
     "views": 943676
+  },
+  "life-and-fate": {
+    "article": "Life and Fate",
+    "views": 60431
   },
   "life-of-pi": {
     "article": "Life of Pi",
@@ -325,7 +557,7 @@
   },
   "maps": {
     "article": "Maps (disambiguation)",
-    "views": 3121
+    "views": 3298
   },
   "mcteague": {
     "article": "McTeague",
@@ -335,6 +567,18 @@
     "article": "Memoirs of Hadrian",
     "views": 38434
   },
+  "men-in-the-sun": {
+    "article": "Men in the Sun",
+    "views": 20751
+  },
+  "midaq-alley": {
+    "article": "Midaq Alley (novel)",
+    "views": 8755
+  },
+  "middlemarch": {
+    "article": "Middlemarch",
+    "views": 370447
+  },
   "middlesex": {
     "article": "Middlesex (novel)",
     "views": 111230
@@ -342,6 +586,22 @@
   "midnights-children": {
     "article": "Midnight's Children",
     "views": 158457
+  },
+  "migrations": {
+    "article": "Migration",
+    "views": 9309
+  },
+  "mine-boy": {
+    "article": "Mine Boy",
+    "views": 4997
+  },
+  "miss-smillas-feeling-for-snow": {
+    "article": "Miss Smilla's Feeling for Snow",
+    "views": 45383
+  },
+  "moby-dick": {
+    "article": "Moby-Dick",
+    "views": 912478
   },
   "mrs-dalloway": {
     "article": "Mrs Dalloway",
@@ -351,9 +611,17 @@
     "article": "My Brilliant Friend",
     "views": 194158
   },
+  "my-name-is-red": {
+    "article": "My Name Is Red",
+    "views": 40465
+  },
   "my-uncle-napoleon": {
     "article": "My Uncle Napoleon",
-    "views": 11635
+    "views": 11743
+  },
+  "nedjma": {
+    "article": "Nedjma",
+    "views": 2937
   },
   "nervous-conditions": {
     "article": "Nervous Conditions",
@@ -367,21 +635,37 @@
     "article": "Nineteen Eighty-Four",
     "views": 1893803
   },
+  "noli-me-tangere": {
+    "article": "Noli Me Tángere (novel)",
+    "views": 168078
+  },
   "norwegian-wood": {
     "article": "Norwegian Wood (novel)",
     "views": 310105
   },
   "notre-dame-de-paris": {
     "article": "The Hunchback of Notre-Dame",
-    "views": 413524
+    "views": 409844
+  },
+  "obasan": {
+    "article": "Obasan",
+    "views": 6539
+  },
+  "odessa-stories": {
+    "article": "Odessa Stories",
+    "views": 6157
   },
   "oliver-twist": {
     "article": "Oliver Twist",
     "views": 454990
   },
+  "omeros": {
+    "article": "Omeros",
+    "views": 22340
+  },
   "on-heroes-and-tombs": {
     "article": "On Heroes and Tombs",
-    "views": 9014
+    "views": 8986
   },
   "on-the-road": {
     "article": "On the Road",
@@ -390,6 +674,14 @@
   "one-day-of-life": {
     "article": "One Day of Life",
     "views": 2163
+  },
+  "one-hundred-years-of-solitude": {
+    "article": "One Hundred Years of Solitude",
+    "views": 893387
+  },
+  "our-lady-of-the-assassins": {
+    "article": "Our Lady of the Assassins (novel)",
+    "views": 2864
   },
   "our-lady-of-the-nile": {
     "article": "Our Lady of the Nile",
@@ -406,6 +698,10 @@
   "pachinko": {
     "article": "Pachinko (novel)",
     "views": 288468
+  },
+  "palace-walk": {
+    "article": "Palace Walk",
+    "views": 14137
   },
   "palpasa-cafe": {
     "article": "Palpasa Café",
@@ -431,6 +727,10 @@
     "article": "Persuasion (novel)",
     "views": 317882
   },
+  "please-look-after-mom": {
+    "article": "Please Look After Mom",
+    "views": 13609
+  },
   "pride-and-prejudice": {
     "article": "Pride and Prejudice",
     "views": 1327190
@@ -451,21 +751,45 @@
     "article": "Rebecca (novel)",
     "views": 443447
   },
+  "red-poppies": {
+    "article": "Red Poppies",
+    "views": 1433
+  },
   "red-sorghum": {
     "article": "Red Sorghum (novel)",
-    "views": 19335
+    "views": 20349
+  },
+  "rickshaw-boy": {
+    "article": "Rickshaw Boy",
+    "views": 9089
   },
   "robbery-under-arms": {
     "article": "Robbery Under Arms",
     "views": 4666
   },
+  "robinson-crusoe": {
+    "article": "Robinson Crusoe",
+    "views": 447966
+  },
   "romola": {
     "article": "Romola",
-    "views": 20675
+    "views": 20781
+  },
+  "savushun": {
+    "article": "Savushun",
+    "views": 6398
   },
   "season-of-migration-to-the-north": {
     "article": "Season of Migration to the North",
-    "views": 30444
+    "views": 29777
+  },
+  "segu": {
+    "article": "Segu (novel)",
+    "views": 5846
+  },
+  "sense-and-sensibility": {
+    "article": "Sense and Sensibility",
+    "views": 535183
   },
   "shantaram": {
     "article": "Shantaram (novel)",
@@ -483,9 +807,17 @@
     "article": "Miss Smilla's Feeling for Snow",
     "views": 45383
   },
+  "snow": {
+    "article": "Snow",
+    "views": 170000
+  },
   "snow-country": {
     "article": "Snow Country",
     "views": 57916
+  },
+  "so-long-a-letter": {
+    "article": "So Long a Letter",
+    "views": 17933
   },
   "son-of-man": {
     "article": "Son of man",
@@ -499,9 +831,37 @@
     "article": "Soviet Milk",
     "views": 510
   },
+  "strange-case-of-dr-jekyll-and-mr-hyde": {
+    "article": "Strange Case of Dr Jekyll and Mr Hyde",
+    "views": 692005
+  },
   "suite-francaise": {
     "article": "Suite française (Némirovsky novel)",
-    "views": 20098
+    "views": 19545
+  },
+  "sunset-song": {
+    "article": "Sunset Song",
+    "views": 17907
+  },
+  "taras-bulba": {
+    "article": "Taras Bulba",
+    "views": 68368
+  },
+  "tess-of-the-durbervilles": {
+    "article": "Tess of the d'Urbervilles",
+    "views": 259959
+  },
+  "texaco": {
+    "article": "Texaco (novel)",
+    "views": 3966
+  },
+  "the-adventures-of-huckleberry-finn": {
+    "article": "Adventures of Huckleberry Finn",
+    "views": 547264
+  },
+  "the-adventures-of-sherlock-holmes": {
+    "article": "The Adventures of Sherlock Holmes",
+    "views": 95379
   },
   "the-adventures-of-tom-sawyer": {
     "article": "The Adventures of Tom Sawyer",
@@ -515,6 +875,10 @@
     "article": "The Amazing Adventures of Kavalier & Clay",
     "views": 103755
   },
+  "the-apprenticeship-of-duddy-kravitz": {
+    "article": "The Apprenticeship of Duddy Kravitz (novel)",
+    "views": 12333
+  },
   "the-assault": {
     "article": "The Assault",
     "views": 8682
@@ -527,17 +891,33 @@
     "article": "Beach",
     "views": 134482
   },
+  "the-beautyful-ones-are-not-yet-born": {
+    "article": "The Beautyful Ones Are Not Yet Born",
+    "views": 16578
+  },
+  "the-bell-jar": {
+    "article": "The Bell Jar",
+    "views": 520859
+  },
   "the-belly-of-paris": {
     "article": "Le Ventre de Paris",
     "views": 8952
   },
   "the-blue-sky": {
-    "article": "Sky Blue Sky",
-    "views": 29466
+    "article": "Blue Sky Studios",
+    "views": 397927
   },
   "the-bone-people": {
     "article": "The Bone People",
-    "views": 23586
+    "views": 23865
+  },
+  "the-bonfire-of-the-vanities": {
+    "article": "The Bonfire of the Vanities",
+    "views": 157174
+  },
+  "the-book-of-chameleons": {
+    "article": "Music for Chameleons",
+    "views": 7743
   },
   "the-book-of-disquiet": {
     "article": "The Book of Disquiet",
@@ -545,11 +925,11 @@
   },
   "the-bostonians": {
     "article": "The Bostonians",
-    "views": 23831
+    "views": 24028
   },
   "the-boy-who-harnessed-the-wind": {
     "article": "The Boy Who Harnessed the Wind",
-    "views": 199778
+    "views": 196203
   },
   "the-bridge-on-the-drina": {
     "article": "The Bridge on the Drina",
@@ -557,23 +937,47 @@
   },
   "the-brief-wondrous-life-of-oscar-wao": {
     "article": "The Brief Wondrous Life of Oscar Wao",
-    "views": 88437
+    "views": 88252
+  },
+  "the-brothers-karamazov": {
+    "article": "The Brothers Karamazov",
+    "views": 813268
+  },
+  "the-catcher-in-the-rye": {
+    "article": "The Catcher in the Rye",
+    "views": 856243
   },
   "the-charterhouse-of-parma": {
     "article": "The Charterhouse of Parma",
     "views": 36133
   },
+  "the-conservationist": {
+    "article": "The Conservationist",
+    "views": 11174
+  },
   "the-coroners-lunch": {
     "article": "The Coroner's Lunch",
-    "views": 2355
+    "views": 2599
   },
   "the-count-of-monte-cristo": {
     "article": "The Count of Monte Cristo",
     "views": 1977236
   },
+  "the-dark-child": {
+    "article": "The African Child",
+    "views": 5302
+  },
+  "the-dark-side-of-love": {
+    "article": "The Dark Side of Love",
+    "views": 9395
+  },
   "the-day-lasts-more-than-a-hundred-years": {
     "article": "The Day Lasts More Than a Hundred Years",
     "views": 20451
+  },
+  "the-death-of-artemio-cruz": {
+    "article": "The Death of Artemio Cruz",
+    "views": 17300
   },
   "the-decameron": {
     "article": "The Decameron",
@@ -587,6 +991,14 @@
     "article": "Devil's Dance",
     "views": 894
   },
+  "the-doll": {
+    "article": "Doll",
+    "views": 80451
+  },
+  "the-egyptian": {
+    "article": "The Egyptian",
+    "views": 39683
+  },
   "the-eighth-life": {
     "article": "Henry VIII (play)",
     "views": 49244
@@ -599,9 +1011,21 @@
     "article": "The English Patient",
     "views": 90045
   },
+  "the-feast-of-the-goat": {
+    "article": "The Feast of the Goat",
+    "views": 33089
+  },
   "the-financier": {
     "article": "The Financier",
     "views": 13660
+  },
+  "the-forest-of-the-hanged": {
+    "article": "Forest of the Hanged (novel)",
+    "views": 5720
+  },
+  "the-forty-days-of-musa-dagh": {
+    "article": "The Forty Days of Musa Dagh",
+    "views": 19362
   },
   "the-french-lieutenants-woman": {
     "article": "The French Lieutenant's Woman",
@@ -611,25 +1035,49 @@
     "article": "The Garden of Evening Mists",
     "views": 24119
   },
+  "the-garden-of-the-finzi-continis": {
+    "article": "The Garden of the Finzi-Continis",
+    "views": 18699
+  },
+  "the-general-in-his-labyrinth": {
+    "article": "The General in His Labyrinth",
+    "views": 18772
+  },
   "the-general-of-the-dead-army": {
     "article": "The General of the Dead Army (novel)",
     "views": 17265
+  },
+  "the-gift-of-rain": {
+    "article": "The Gift of Rain",
+    "views": 11220
   },
   "the-girl-with-the-dragon-tattoo": {
     "article": "The Girl with the Dragon Tattoo",
     "views": 275086
   },
+  "the-glass-palace": {
+    "article": "The Glass Palace",
+    "views": 22536
+  },
   "the-god-of-small-things": {
     "article": "The God of Small Things",
-    "views": 319554
+    "views": 318812
   },
   "the-golden-notebook": {
     "article": "The Golden Notebook",
-    "views": 55600
+    "views": 54060
   },
   "the-goldfinch": {
     "article": "The Goldfinch (novel)",
     "views": 273760
+  },
+  "the-good-earth": {
+    "article": "The Good Earth",
+    "views": 100600
+  },
+  "the-good-soldier-svejk": {
+    "article": "The Good Soldier Švejk",
+    "views": 79921
   },
   "the-grapes-of-wrath": {
     "article": "The Grapes of Wrath",
@@ -641,15 +1089,23 @@
   },
   "the-handmaids-tale": {
     "article": "The Handmaid's Tale",
-    "views": 1414293
+    "views": 1332429
   },
   "the-heart-of-the-matter": {
     "article": "The Heart of the Matter",
     "views": 38827
   },
+  "the-help": {
+    "article": "The Help",
+    "views": 137601
+  },
   "the-hostage": {
     "article": "Hostage",
     "views": 53135
+  },
+  "the-hound-of-the-baskervilles": {
+    "article": "The Hound of the Baskervilles",
+    "views": 282828
   },
   "the-house-of-mirth": {
     "article": "The House of Mirth",
@@ -663,9 +1119,25 @@
     "article": "The House of the Spirits",
     "views": 230459
   },
+  "the-house-of-ulloa": {
+    "article": "The House of Ulloa",
+    "views": 2874
+  },
+  "the-hunchback-of-notre-dame": {
+    "article": "The Hunchback of Notre-Dame",
+    "views": 409844
+  },
+  "the-hungry-tide": {
+    "article": "The Hungry Tide",
+    "views": 21380
+  },
   "the-idiot": {
     "article": "The Idiot",
     "views": 339833
+  },
+  "the-issa-valley": {
+    "article": "The Issa Valley (film)",
+    "views": 713
   },
   "the-jungle": {
     "article": "The Jungle",
@@ -677,7 +1149,7 @@
   },
   "the-kite-runner": {
     "article": "The Kite Runner",
-    "views": 448803
+    "views": 435708
   },
   "the-land-of-green-plums": {
     "article": "The Land of Green Plums",
@@ -691,9 +1163,29 @@
     "article": "The Line of Beauty",
     "views": 51768
   },
+  "the-lost-steps": {
+    "article": "The Lost Steps",
+    "views": 959
+  },
+  "the-lowland": {
+    "article": "The Lowland",
+    "views": 16399
+  },
+  "the-luminaries": {
+    "article": "The Luminaries",
+    "views": 63538
+  },
   "the-magic-mountain": {
     "article": "The Magic Mountain",
     "views": 243586
+  },
+  "the-makioka-sisters": {
+    "article": "The Makioka Sisters",
+    "views": 27652
+  },
+  "the-maltese-falcon": {
+    "article": "The Maltese Falcon (novel)",
+    "views": 88253
   },
   "the-man-without-qualities": {
     "article": "The Man Without Qualities",
@@ -705,19 +1197,39 @@
   },
   "the-mayor-of-casterbridge": {
     "article": "The Mayor of Casterbridge",
-    "views": 72599
+    "views": 74926
+  },
+  "the-ministry-of-utmost-happiness": {
+    "article": "The Ministry of Utmost Happiness",
+    "views": 55333
+  },
+  "the-moors-last-sigh": {
+    "article": "The Moor's Last Sigh",
+    "views": 16384
+  },
+  "the-murderess": {
+    "article": "The Murderess",
+    "views": 5357
   },
   "the-museum-of-innocence": {
     "article": "The Museum of Innocence",
     "views": 192692
   },
+  "the-name-of-the-rose": {
+    "article": "The Name of the Rose",
+    "views": 296687
+  },
   "the-no-1-ladies-detective-agency": {
     "article": "The No. 1 Ladies' Detective Agency (novel)",
-    "views": 8452
+    "views": 8749
   },
   "the-old-drift": {
     "article": "The Old Drift",
     "views": 7594
+  },
+  "the-old-man-and-his-sons": {
+    "article": "The Old Man and his Sons (novel)",
+    "views": 533
   },
   "the-phantom-of-the-opera": {
     "article": "The Phantom of the Opera (novel)",
@@ -727,25 +1239,49 @@
     "article": "The Picture of Dorian Gray",
     "views": 868838
   },
+  "the-pillar-of-salt": {
+    "article": "Lot's wife",
+    "views": 197499
+  },
+  "the-plague": {
+    "article": "Black Death",
+    "views": 2021894
+  },
   "the-poisonwood-bible": {
     "article": "The Poisonwood Bible",
     "views": 155459
+  },
+  "the-portrait-of-a-lady": {
+    "article": "The Portrait of a Lady",
+    "views": 109145
+  },
+  "the-prime-of-miss-jean-brodie": {
+    "article": "The Prime of Miss Jean Brodie (novel)",
+    "views": 60596
   },
   "the-purple-land": {
     "article": "The Purple Land",
     "views": 5726
   },
   "the-purple-violet-of-oshaantu": {
-    "article": "Heinemann African Writers Series",
-    "views": 12029
+    "article": "Neshani Andreas",
+    "views": 1373
   },
   "the-quiet-american": {
     "article": "The Quiet American",
     "views": 105145
   },
+  "the-radetzky-march": {
+    "article": "Radetzky March (novel)",
+    "views": 32426
+  },
   "the-reader": {
     "article": "The Reader",
     "views": 56405
+  },
+  "the-red-and-the-black": {
+    "article": "The Red and the Black",
+    "views": 105032
   },
   "the-red-room": {
     "article": "Red Room",
@@ -758,6 +1294,10 @@
   "the-remains-of-the-day": {
     "article": "The Remains of the Day",
     "views": 338549
+  },
+  "the-return-of-philip-latinowicz": {
+    "article": "The Return of Philip Latinowicz",
+    "views": 3164
   },
   "the-scarlet-letter": {
     "article": "The Scarlet Letter",
@@ -779,17 +1319,37 @@
     "article": "The Shadow of the Wind",
     "views": 132084
   },
+  "the-sorrow-of-war": {
+    "article": "The Sorrow of War",
+    "views": 17714
+  },
   "the-sound-and-the-fury": {
     "article": "The Sound and the Fury",
-    "views": 285853
+    "views": 285064
   },
   "the-sound-of-the-mountain": {
     "article": "The Sound of the Mountain",
     "views": 9515
   },
+  "the-sound-of-waves": {
+    "article": "The Sound of Waves",
+    "views": 20402
+  },
+  "the-spiders-house": {
+    "article": "The Spider's House",
+    "views": 3344
+  },
   "the-stolen-bicycle": {
     "article": "The Stolen Bicycle",
     "views": 147
+  },
+  "the-stone-angel": {
+    "article": "The Stone Angel",
+    "views": 13639
+  },
+  "the-storyteller": {
+    "article": "Storyteller (novel)",
+    "views": 184
   },
   "the-strange-case-of-dr-jekyll-and-mr-hyde": {
     "article": "Strange Case of Dr Jekyll and Mr Hyde",
@@ -799,9 +1359,33 @@
     "article": "The Stranger (Camus novel)",
     "views": 687904
   },
+  "the-street-of-crocodiles": {
+    "article": "The Street of Crocodiles",
+    "views": 17977
+  },
   "the-tailor-of-panama": {
     "article": "The Tailor of Panama",
     "views": 28820
+  },
+  "the-temple-of-the-golden-pavilion": {
+    "article": "The Temple of the Golden Pavilion",
+    "views": 72474
+  },
+  "the-third-man": {
+    "article": "The Third Man (novel)",
+    "views": 18143
+  },
+  "the-third-wedding": {
+    "article": "My Mother's Wedding",
+    "views": 304203
+  },
+  "the-three-musketeers": {
+    "article": "The Three Musketeers",
+    "views": 746656
+  },
+  "the-time-of-the-doves": {
+    "article": "The Time of the Doves",
+    "views": 6746
   },
   "the-time-of-the-hero": {
     "article": "The Time of the Hero",
@@ -811,9 +1395,17 @@
     "article": "The Tin Drum",
     "views": 82864
   },
+  "the-truce": {
+    "article": "The Truce",
+    "views": 6873
+  },
   "the-unbearable-lightness-of-being": {
     "article": "The Unbearable Lightness of Being",
     "views": 239386
+  },
+  "the-underdogs": {
+    "article": "The Underdogs (novel)",
+    "views": 6881
   },
   "the-vegetarian": {
     "article": "The Vegetarian",
@@ -827,6 +1419,10 @@
     "article": "The War of the Worlds",
     "views": 740186
   },
+  "the-white-guard": {
+    "article": "The White Guard",
+    "views": 24194
+  },
   "the-white-tiger": {
     "article": "The White Tiger (Adiga novel)",
     "views": 77454
@@ -837,11 +1433,23 @@
   },
   "the-yacoubian-building": {
     "article": "The Yacoubian Building",
-    "views": 11330
+    "views": 11407
+  },
+  "the-year-of-the-death-of-ricardo-reis": {
+    "article": "The Year of the Death of Ricardo Reis",
+    "views": 9629
   },
   "the-year-of-the-hare": {
     "article": "The Year of the Hare (novel)",
-    "views": 6242
+    "views": 6188
+  },
+  "the-yellow-rain": {
+    "article": "Yellow rain",
+    "views": 14157
+  },
+  "their-eyes-were-watching-god": {
+    "article": "Their Eyes Were Watching God",
+    "views": 245867
   },
   "things-fall-apart": {
     "article": "Things Fall Apart",
@@ -853,7 +1461,11 @@
   },
   "three-apples-fell-from-the-sky": {
     "article": "List of Russian-language novelists",
-    "views": 4687
+    "views": 4606
+  },
+  "three-trapped-tigers": {
+    "article": "Tres tristes tigres (novel)",
+    "views": 6152
   },
   "time-shelter": {
     "article": "Time Shelter",
@@ -863,13 +1475,41 @@
     "article": "To the Lighthouse",
     "views": 169535
   },
+  "tom-sawyer": {
+    "article": "The Adventures of Tom Sawyer",
+    "views": 337566
+  },
+  "train-to-pakistan": {
+    "article": "Train to Pakistan",
+    "views": 45816
+  },
   "trainspotting": {
     "article": "Trainspotting (novel)",
     "views": 139811
   },
+  "truth-and-justice": {
+    "article": "Truth and Justice",
+    "views": 4154
+  },
+  "twilight-in-jakarta": {
+    "article": "Senja di Jakarta",
+    "views": 2042
+  },
   "ulysses": {
     "article": "Ulysses (novel)",
     "views": 826812
+  },
+  "under-the-north-star": {
+    "article": "Under the North Star trilogy",
+    "views": 7108
+  },
+  "under-the-yoke": {
+    "article": "Under the Yoke",
+    "views": 6517
+  },
+  "vanity-fair": {
+    "article": "Vanity Fair (novel)",
+    "views": 169028
   },
   "villette": {
     "article": "Villette (novel)",
@@ -879,9 +1519,25 @@
     "article": "Ričardas Gavelis",
     "views": 3233
   },
+  "voss": {
+    "article": "Voss",
+    "views": 18545
+  },
+  "waiting": {
+    "article": "Waiting",
+    "views": 7921
+  },
+  "war-and-peace": {
+    "article": "War and Peace",
+    "views": 648124
+  },
   "washington-square": {
     "article": "Washington Square (novel)",
     "views": 27941
+  },
+  "we-the-drowned": {
+    "article": "Carsten Jensen",
+    "views": 5596
   },
   "white-teeth": {
     "article": "White Teeth",
@@ -898,6 +1554,10 @@
   "wuthering-heights": {
     "article": "Wuthering Heights",
     "views": 6985758
+  },
+  "z": {
+    "article": "Z",
+    "views": 470029
   },
   "zorba-the-greek": {
     "article": "Zorba the Greek",
