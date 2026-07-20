@@ -11,7 +11,8 @@
     "city": "Edinburgh",
     "country": "GB",
     "note": "David Balfour's road runs the width of Scotland in the year after the '45: from the House of Shaws by Cramond, out to the brig at Queensferry, wrecked on the reefs off Erraid by Mull, then east on foot through Appin and across the deserts of Rannoch back to Edinburgh. Almost every place is real and named, tied to the true Appin Murder of 1752; the bbox spans the whole crossing, Edinburgh west to Erraid.",
-    "bbox": [-6.45, 55.85, -3.1, 56.8]
+    "bbox": [-6.45, 55.85, -3.1, 56.8],
+    "wikivoyage": "Edinburgh"
   },
   "rights": {
     "originalWork": "Public domain. Robert Louis Stevenson, first published 1886; the author died in 1894.",

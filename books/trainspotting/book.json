@@ -11,7 +11,8 @@
     "city": "Edinburgh",
     "country": "GB",
     "note": "Welsh's Edinburgh is the one the tourist city turns its back on: the tenements, schemes and pubs of Leith and Leith Walk in the late 1980s, where a group of young heroin users drift between deals, dole offices and squalid flats. The map runs down Leith Walk from the New Town to the docks, takes in the great curved council block on Cables Wynd and the derelict station that gives the book its name, and ends with a doomed trip south to London.",
-    "bbox": [-3.28, 55.92, -3.1, 56.0]
+    "bbox": [-3.28, 55.92, -3.1, 56.0],
+    "wikivoyage": "Edinburgh"
   },
   "rights": {
     "originalWork": "In copyright. Irvine Welsh, first published 1993. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

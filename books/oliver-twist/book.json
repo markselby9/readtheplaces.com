@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "After an unnamed provincial workhouse, the book comes to London and stays in named ground: Saffron Hill and Field Lane, the real Clerkenwell rookery where Fagin keeps his den; Clerkenwell Green, where the Dodger picks Mr Brownlow's pocket; Pentonville, where Brownlow lives; Newgate, where Fagin is condemned; and Jacob's Island in Bermondsey, the notorious tidal slum Dickens's own footnote insisted was real, where Sikes dies. Most of these were cleared within Dickens's lifetime, which is what the historical map layer is for. The bbox runs from Pentonville down to the Bermondsey riverside.",
-    "bbox": [-0.13, 51.495, -0.055, 51.54]
+    "bbox": [-0.13, 51.495, -0.055, 51.54],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Charles Dickens, first published 1838; the author died in 1870.",

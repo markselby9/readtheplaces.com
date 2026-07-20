@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "Esther Greenwood spends a glittering, hollow month as a guest editor at a women's magazine in New York, staying at a women-only hotel and going through the motions of a life she cannot feel, before returning to her mother's house in the Boston suburbs and a breakdown. The New York half is closely mapped: the Amazon hotel is the real Barbizon, the magazine is Plath's own Mademoiselle, and the United Nations turns up on a date. The Massachusetts scenes of home and hospital run outside the setting.",
-    "bbox": [-74.02, 40.7, -73.93, 40.8]
+    "bbox": [-74.02, 40.7, -73.93, 40.8],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Sylvia Plath, first published 1963. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

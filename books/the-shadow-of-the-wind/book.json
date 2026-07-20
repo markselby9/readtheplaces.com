@@ -12,7 +12,8 @@
     "country": "ES",
     "date": "1945",
     "note": "Zafón's Barcelona of the postwar 1940s: a fog-bound old town of narrow lanes and antiquarian bookshops, from a hidden library in the Raval and a family shop off La Rambla out to the ruined modernista mansions above the city and the cemetery on Montjuïc.",
-    "bbox": [2.12, 41.34, 2.19, 41.42]
+    "bbox": [2.12, 41.34, 2.19, 41.42],
+    "wikivoyage": "Barcelona"
   },
   "rights": {
     "originalWork": "In copyright. Carlos Ruiz Zafón, first published 2001. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

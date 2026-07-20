@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "The penniless, ruthless Becky Sharp claws her way up through Regency society while her gentle schoolfellow Amelia Sedley suffers for her constancy, in Thackeray's panorama of a world where everything and everyone is for sale. The novel maps a real geography: the London of Russell Square and Mayfair, the Brussels of the ball on the eve of Waterloo, the battlefield itself, and the German spa town where the long story finds its close.",
-    "bbox": [-0.25, 51.45, 0.0, 51.56]
+    "bbox": [-0.25, 51.45, 0.0, 51.56],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. William Makepeace Thackeray (d. 1863), first published 1847-48. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

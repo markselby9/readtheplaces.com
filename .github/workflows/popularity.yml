@@ -22,6 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          # Push with a PAT owned by an admin so the refresh commit can land on
+          # main directly. main's branch protection (required PR + required
+          # status check) blocks the github-actions[bot]; an admin identity
+          # bypasses it because enforce_admins is off. See issue #4.
+          token: ${{ secrets.REFRESH_TOKEN }}
 
       - uses: oven-sh/setup-bun@v2
         with:

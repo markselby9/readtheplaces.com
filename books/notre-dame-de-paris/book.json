@@ -11,7 +11,8 @@
     "city": "Paris",
     "country": "FR",
     "note": "A novel written to save a building, and it worked. Hugo's Paris of 1482 is rebuilt street by street around the cathedral on the Île de la Cité, and every place the story turns on is real: the Place de Grève where Esmeralda dances, the Palais de Justice, the thieves' Cour des Miracles, the Bastille, the gibbet at Montfaucon. The cathedral itself has burned and been rebuilt since he wrote it.",
-    "bbox": [2.224, 48.816, 2.47, 48.902]
+    "bbox": [2.224, 48.816, 2.47, 48.902],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "Public domain. Victor Hugo, first published 1831; the author died in 1885.",

@@ -11,7 +11,8 @@
     "city": "Cairo",
     "country": "EG",
     "note": "In the Gamaliya quarter of old Cairo, the merchant al-Sayyid Ahmad Abd al-Jawad rules his household as a tyrant and lives his nights as a pleasure-seeker, while his cloistered wife Amina and their children chafe against his despotism and the world beyond the latticed windows. The first volume of Mahfouz's Cairo Trilogy maps the real old city: the family house on Bayn al-Qasrayn, the merchant's shop, the mosque of al-Husayn, the night world of Ezbekiyya, and the streets where the 1919 revolution against the British breaks out.",
-    "bbox": [31.23, 30.03, 31.28, 30.07]
+    "bbox": [31.23, 30.03, 31.28, 30.07],
+    "wikivoyage": "Cairo"
   },
   "rights": {
     "originalWork": "In copyright. Naguib Mahfouz, first published 1956 (Bayn al-Qasrayn). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

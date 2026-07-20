@@ -12,7 +12,8 @@
     "city": "Paris",
     "country": "FR",
     "note": "Balzac's Paris of 1819, climbed one address at a time. The shabby Maison Vauquer stands in the poor Latin-Quarter streets behind the Panthéon; from there Rastignac reaches up to Mme de Beauseant's salon in the Faubourg Saint-Germain and the new money of the Chaussee d'Antin, and buries Goriot on the heights of Pere-Lachaise. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.",
-    "bbox": [2.224, 48.816, 2.47, 48.902]
+    "bbox": [2.224, 48.816, 2.47, 48.902],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "Public domain. Honore de Balzac, first published 1835; the author died in 1850.",

@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "The narrator's Harlem: a stretch of Lenox Avenue and 125th Street where he speaks for the Brotherhood, sees an old couple evicted onto the pavement, and is finally swept into a night of fire and looting. The arc runs from a Southern college and a downtown paint works into the heart of Harlem and down to the forgotten cellar where a man who feels unseen retreats underground.",
-    "bbox": [-73.99, 40.79, -73.9, 40.83]
+    "bbox": [-73.99, 40.79, -73.9, 40.83],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Ralph Ellison, first published 1952. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

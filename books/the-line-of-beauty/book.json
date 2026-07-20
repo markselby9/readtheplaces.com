@@ -12,7 +12,8 @@
     "country": "GB",
     "date": "1983",
     "note": "Moneyed London under Thatcher, seen by a young aesthete who lodges with a Tory MP's family. The map runs from the tall white houses and locked communal garden of a Notting Hill square out to the clubland of Westminster, the villas of Holland Park, and the night paths of Hampstead Heath.",
-    "bbox": [-0.24, 51.48, -0.1, 51.58]
+    "bbox": [-0.24, 51.48, -0.1, 51.58],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. Alan Hollinghurst, first published 2004. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

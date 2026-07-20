@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "One night's haunting, walked across the City of London. Cornhill, the Royal Exchange and Bob Cratchit's Camden Town are named outright and still on the map; Scrooge's counting-house and Fezziwig's warehouse are unlocated interiors, pinned to the courts off Cornhill that tradition and Dickens's own clues point to. That split is exactly what the certainty labels are for.",
-    "bbox": [-0.51, 51.287, 0.334, 51.692]
+    "bbox": [-0.51, 51.287, 0.334, 51.692],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Charles Dickens, first published 1843; the author died in 1870.",

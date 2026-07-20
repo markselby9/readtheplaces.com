@@ -12,7 +12,8 @@
     "city": "Venice",
     "country": "IT",
     "note": "An ageing German writer travels south for rest and is caught by the beauty of a boy he never speaks to, staying on as a cholera the city hushes up spreads through the summer. The map crosses the lagoon from the San Marco waterfront to the Lido, the barrier island of grand hotels and sea baths, and back into the sultry, sirocco-laden alleys of the old city.",
-    "bbox": [12.167, 45.231, 12.597, 45.578]
+    "bbox": [12.167, 45.231, 12.597, 45.578],
+    "wikivoyage": "Venice"
   },
   "rights": {
     "originalWork": "In copyright. Thomas Mann, first published 1912. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

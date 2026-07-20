@@ -11,7 +11,8 @@
     "city": "Paris",
     "country": "FR",
     "note": "Almost the whole novel is held inside one grand bourgeois apartment building on the Left Bank, at 7 rue de Grenelle. A concierge who hides her learning, a wealthy set of tenants, and a girl planning her own disappearance share its lodge, stairwell and flats, with a café and the surrounding streets of the 7th arrondissement just beyond the door.",
-    "bbox": [2.32, 48.85, 2.336, 48.857]
+    "bbox": [2.32, 48.85, 2.336, 48.857],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "In copyright. Muriel Barbery, L'Élégance du hérisson, first published 2006. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

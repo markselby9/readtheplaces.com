@@ -11,7 +11,8 @@
     "city": "Lisbon",
     "country": "PT",
     "note": "In 1936 Ricardo Reis, one of Fernando Pessoa's poetic alter egos, returns from Brazil to Lisbon just after the poet's death, and drifts through the rainy city, visited by Pessoa's ghost, as fascism rises across Europe and Salazar's shadow deepens at home. Saramago maps a real Lisbon: the hotel where Reis lodges, the cemetery where he speaks with the dead Pessoa, the viewpoint over the Tagus, the river and its docks, and the watchful capital of the New State.",
-    "bbox": [-9.2, 38.68, -9.1, 38.73]
+    "bbox": [-9.2, 38.68, -9.1, 38.73],
+    "wikivoyage": "Lisbon"
   },
   "rights": {
     "originalWork": "In copyright. José Saramago, first published 1984 (O Ano da Morte de Ricardo Reis). Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

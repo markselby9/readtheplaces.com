@@ -12,7 +12,8 @@
     "city": "Geneva",
     "country": "CH",
     "note": "Victor Frankenstein is a Genevese, and the lake is the fixed centre of the book: his family's house in the city, the campagne at Belrive, and Plainpalais across the water, where the creature kills his brother William. From there the story climbs to the Mer de Glace above Chamonix, the real glacier where Victor meets the creature face to face. The making of the creature at Ingolstadt, the destroyed mate in the Orkneys, and the final chase across the Arctic ice all lie far outside this frame, and are flagged as excursions.",
-    "bbox": [6.05, 45.88, 6.95, 46.25]
+    "bbox": [6.05, 45.88, 6.95, 46.25],
+    "wikivoyage": "Geneva"
   },
   "rights": {
     "originalWork": "Public domain. Mary Shelley, first published 1818; the author died in 1851.",

@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "Mayfair drawing rooms and the opium dens of the docks, a few miles and an entire moral universe apart. Wilde is precise about the geography of respectability: Lord Henry keeps a house in Curzon Street, Dorian one on Grosvenor Square, and the road to ruin runs east to the quays past Blue Gate Fields.",
-    "bbox": [-0.51, 51.287, 0.334, 51.692]
+    "bbox": [-0.51, 51.287, 0.334, 51.692],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Oscar Wilde, first published 1890; the author died in 1900.",

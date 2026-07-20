@@ -11,7 +11,8 @@
     "city": "Tokyo",
     "country": "JP",
     "note": "A young student befriends an older man he calls Sensei, a recluse burdened by a guilt he will not name, until a final confession reveals how, years before, Sensei betrayed his friend K over the woman he loved, and how K's suicide has shadowed his life ever since. Set against the death of the Meiji Emperor, Sōseki maps a real Tokyo and its edges: the Kamakura beach where student and Sensei first meet, the university and the walks of the capital, the lodging house of the old betrayal, and the cemetery where Sensei tends K's grave.",
-    "bbox": [139.65, 35.65, 139.85, 35.78]
+    "bbox": [139.65, 35.65, 139.85, 35.78],
+    "wikivoyage": "Tokyo"
   },
   "rights": {
     "originalWork": "Public domain. Natsume Sōseki (d. 1916), first published 1914 (Kokoro). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
