@@ -410,6 +410,11 @@ const schema = [websiteSchema(mapped.length, cities.length)];
     border-color: var(--accent);
     color: var(--ink);
   }
+  /* display:block above would otherwise beat the [hidden] attribute the script
+     toggles, leaving the button on screen during search. Keep [hidden] winning. */
+  :global(.show-more[hidden]) {
+    display: none;
+  }
 
   /* A stub looks provisional on purpose: dashed, uncoloured, waiting. */
   .stubs a {
