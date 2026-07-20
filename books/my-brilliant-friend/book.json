@@ -11,7 +11,8 @@
     "city": "Naples",
     "country": "IT",
     "note": "Ferrante's neighbourhood, the rione, is drawn from the real Rione Luzzatti on the eastern edge of Naples: a poor 1930s housing estate hemmed by the railway, with its stradone, its parish church and the tunnel out to the ponds. From there the map runs west to the wealthier centre, the elegant streets around Via Chiaia and Piazza dei Martiri, and out across the bay to Ischia.",
-    "bbox": [14.2, 40.8, 14.35, 40.9]
+    "bbox": [14.2, 40.8, 14.35, 40.9],
+    "wikivoyage": "Naples"
   },
   "rights": {
     "originalWork": "In copyright. Elena Ferrante, L'amica geniale, first published 2011. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

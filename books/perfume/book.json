@@ -11,7 +11,8 @@
     "city": "Paris",
     "country": "FR",
     "note": "A Paris built from smell before sight: the reeking fish stalls of the old Innocents charnel-ground, the tanneries steaming by the Seine, and a perfumer's shop crowded onto a bridge over the river. The map anchors in the medieval heart of the city, then follows its scent-obsessed foundling south across France to the perfume town of Grasse, marked here as a deliberate excursion beyond Paris.",
-    "bbox": [2.25, 48.8, 2.42, 48.9]
+    "bbox": [2.25, 48.8, 2.42, 48.9],
+    "wikivoyage": "Paris"
   },
   "rights": {
     "originalWork": "In copyright. Patrick Süskind, first published 1985 as Das Parfum. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

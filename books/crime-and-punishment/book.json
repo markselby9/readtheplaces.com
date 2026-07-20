@@ -6,15 +6,14 @@
   "orderingKey": "chapter",
   "center": [30.3106, 59.9255],
   "zoom": 14.2,
-
   "setting": {
     "city": "Saint Petersburg",
     "country": "RU",
     "date": "1865-07",
     "note": "A hot July in the Haymarket district, 1865. Dostoevsky censored his own street names, and this walk reconstructs them.",
-    "bbox": [30.24, 59.9, 30.4, 59.99]
+    "bbox": [30.24, 59.9, 30.4, 59.99],
+    "wikivoyage": "Saint Petersburg"
   },
-
   "rights": {
     "originalWork": "Public domain worldwide. Dostoevsky died in 1881, so the work is out of copyright everywhere.",
     "translation": "Constance Garnett, 1914. Garnett died in 1946, so the translation is public domain in life-plus-70 territories (since 2017) and in the United States (published before 1929).",
@@ -23,13 +22,11 @@
     "territoryNotes": "The work is free everywhere. The Garnett translation is free in the United States and in life-plus-70 territories. A different translation is a different rights object, and every quote here is checked against Garnett's.",
     "attribution": "Fyodor Dostoevsky, Crime and Punishment (1866), translated by Constance Garnett (1914)."
   },
-
   "palette": {
     "accent": "#7A6011",
     "accentSourceQuote": "the little yellow room that was like a cupboard or a box",
     "note": "Petersburg yellow. Yellow is the novel's colour of decay and sickness: Raskolnikov's yellow garret, Sonia's yellow ticket, the pawnbroker's yellow room, faces yellow with illness. A bright yellow fails WCAG AA on paper, and the darker, jaundiced ochre that passes is closer to what Dostoevsky means anyway."
   },
-
   "characters": {
     "raskolnikov": {
       "name": "Rodion Raskolnikov",

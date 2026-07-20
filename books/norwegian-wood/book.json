@@ -12,7 +12,8 @@
     "country": "JP",
     "date": "1969",
     "note": "The late-1960s Tokyo a middle-aged narrator looks back on: a spartan men's dormitory near Waseda, the record shops and drinking alleys of Shinjuku, and long aimless walks with Naoko out from Yotsuya along the old outer moat toward Iidabashi. A quieter, grieving city under the student unrest of the decade.",
-    "bbox": [139.68, 35.675, 139.76, 35.725]
+    "bbox": [139.68, 35.675, 139.76, 35.725],
+    "wikivoyage": "Tokyo"
   },
   "rights": {
     "originalWork": "In copyright. Haruki Murakami, first published 1987. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "Oceania's capital is the London Orwell knew in 1948: bomb-scarred, rationed and grey, its landmarks renamed and repurposed by the Party. He built the ministries and squares of Airstrip One from real buildings he had worked in and walked past, so the fictional city maps onto the actual one.",
-    "bbox": [-0.28, 51.44, -0.05, 51.58]
+    "bbox": [-0.28, 51.44, -0.05, 51.58],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "In copyright. George Orwell, 1949. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

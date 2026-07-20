@@ -11,7 +11,8 @@
     "city": "Edinburgh",
     "country": "GB",
     "note": "In 1930s Edinburgh, the charismatic and dangerous schoolteacher Jean Brodie grooms her chosen set of six girls in art, romance and her own admiration for Mussolini, until one of them betrays her. Spark's city is her own: the genteel girls' school of the south side, the walk Brodie leads through the poverty of the Old Town, the Links and Meadows where the set parades, and the village of Cramond on the Forth where the music master lives.",
-    "bbox": [-3.32, 55.925, -3.16, 55.985]
+    "bbox": [-3.32, 55.925, -3.16, 55.985],
+    "wikivoyage": "Edinburgh"
   },
   "rights": {
     "originalWork": "In copyright. Muriel Spark, first published 1961. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",

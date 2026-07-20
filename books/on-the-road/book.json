@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "The book that turned a continent into a route. A young writer and his restless friend cross and recross the United States by car, bus and thumb, from New York out to Denver, on to San Francisco and the Bay, down to New Orleans, and finally in a headlong plunge south to Mexico City. The map follows that coast-to-coast spine and the last leg over the border.",
-    "bbox": [-122.6, 19.3, -73.9, 40.8]
+    "bbox": [-122.6, 19.3, -73.9, 40.8],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Jack Kerouac, first published 1957. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "From the rooms at 221B Baker Street, the consulting detective Sherlock Holmes and Dr Watson take on the twelve cases of the first collection, from a scandal in Bohemia to a speckled band, reading the whole gaslit city and the counties beyond it in a scratch, a splash of mud, a frayed cuff. Doyle maps a real Victorian London: the Baker Street lodgings, Scotland Yard on the river, the Strand where clients arrive, the dark East End of the opium dens, and the country houses where the darkest cases lie.",
-    "bbox": [-0.25, 51.45, 0.0, 51.56]
+    "bbox": [-0.25, 51.45, 0.0, 51.56],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Arthur Conan Doyle (d. 1930), first published 1892. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

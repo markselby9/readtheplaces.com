@@ -12,7 +12,8 @@
     "city": "St Petersburg",
     "country": "RU",
     "note": "Dostoevsky's second great Petersburg novel, mapped from the terminus of the Warsaw railway through the salons and the merchant streets to the leafy summer resort of Pavlovsk, thirty kilometres south, where much of the second half unfolds. A companion to Crime and Punishment: the same city, a different fever.",
-    "bbox": [29.426, 59.634, 30.759, 60.245]
+    "bbox": [29.426, 59.634, 30.759, 60.245],
+    "wikivoyage": "Saint Petersburg"
   },
   "rights": {
     "originalWork": "Public domain. Fyodor Dostoevsky, first published 1869; the author died in 1881.",

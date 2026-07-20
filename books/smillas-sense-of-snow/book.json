@@ -11,7 +11,8 @@
     "city": "Copenhagen",
     "country": "DK",
     "note": "A Copenhagen of black winter water and Greenlandic exile. A half-Inuit woman who reads snow the way others read print refuses to accept that a neighbour's child simply fell from a warehouse roof, and follows the cold trail from the flats of Christianshavn out through the harbour and the Freeport to a ship bound north. The map runs along the Inner Harbour waterfront and up the Østerbro shore.",
-    "bbox": [12.53, 55.655, 12.62, 55.715]
+    "bbox": [12.53, 55.655, 12.62, 55.715],
+    "wikivoyage": "Copenhagen"
   },
   "rights": {
     "originalWork": "In copyright. Peter Høeg, first published 1992 as Frøken Smillas fornemmelse for sne. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

@@ -11,7 +11,8 @@
     "city": "Dublin",
     "country": "IE",
     "note": "Fifteen stories, fifteen corners of one city, each with a real address. From a boy's blind street in the north inner city to the aunts' house on the Liffey quays, Joyce mapped Dublin so exactly you can still walk it.",
-    "bbox": [-6.387, 53.299, -6.115, 53.411]
+    "bbox": [-6.387, 53.299, -6.115, 53.411],
+    "wikivoyage": "Dublin"
   },
   "rights": {
     "originalWork": "Public domain. James Joyce, first published 1914; the author died in 1941.",

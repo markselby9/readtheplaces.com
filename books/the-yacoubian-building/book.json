@@ -11,7 +11,8 @@
     "city": "Cairo",
     "country": "EG",
     "note": "Not the medieval alleys of Islamic Cairo but the European-built downtown of the 1930s, Wust el-Balad: Art Deco blocks, cafes and bars around Talaat Harb and Kasr El Nil, a whole society stacked inside one apartment house from the ground-floor offices to the iron huts on the roof. The map keeps to a few downtown streets, all real, all within a short walk of Talaat Harb Square.",
-    "bbox": [31.228, 30.042, 31.25, 30.056]
+    "bbox": [31.228, 30.042, 31.25, 30.056],
+    "wikivoyage": "Cairo"
   },
   "rights": {
     "originalWork": "In copyright. Alaa Al Aswany, first published in Arabic in 2002. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

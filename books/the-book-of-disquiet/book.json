@@ -11,7 +11,8 @@
     "city": "Lisbon",
     "country": "PT",
     "note": "The factless diary of Bernardo Soares, an assistant bookkeeper who fixes almost his entire life to a few blocks of the Lisbon Baixa. The map keeps to the grid he names again and again: Rua dos Douradores, where his office and rented room stand, the parallel Rua da Prata, the Rossio at the head of the lower town, and the Tagus riverfront where the pavement runs down to the water at Cais das Colunas.",
-    "bbox": [-9.145, 38.703, -9.13, 38.718]
+    "bbox": [-9.145, 38.703, -9.13, 38.718],
+    "wikivoyage": "Lisbon"
   },
   "rights": {
     "originalWork": "In copyright. Fernando Pessoa, written in the 1910s to 1930s and first published in 1982. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

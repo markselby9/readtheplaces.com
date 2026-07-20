@@ -11,7 +11,8 @@
     "city": "Moscow",
     "country": "RU",
     "note": "One hotel, three decades. A count sentenced in 1922 to house arrest lives out the whole Soviet era inside the Metropol, just off Theatre Square. The map is a single block: the hotel and its rooms, with the Bolshoi, Theatre Square, and the Kremlin walls at Red Square a few steps beyond the revolving doors.",
-    "bbox": [37.612, 55.75, 37.628, 55.763]
+    "bbox": [37.612, 55.75, 37.628, 55.763],
+    "wikivoyage": "Moscow"
   },
   "rights": {
     "originalWork": "In copyright. Amor Towles, first published 2016. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

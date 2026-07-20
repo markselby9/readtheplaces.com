@@ -11,7 +11,8 @@
     "city": "New York",
     "country": "US",
     "note": "The novel is anchored in Manhattan, where a bombing at the Metropolitan Museum kills the narrator's mother and leaves him holding a small stolen Dutch painting. From the museum on Fifth Avenue the map runs down to the Park Avenue apartment that takes him in and to the antiques workshop in Greenwich Village that becomes his real home, before the story travels far out to Las Vegas and then to Amsterdam.",
-    "bbox": [-74.05, 40.7, -73.9, 40.82]
+    "bbox": [-74.05, 40.7, -73.9, 40.82],
+    "wikivoyage": "New York City"
   },
   "rights": {
     "originalWork": "In copyright. Donna Tartt, first published 2013. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",

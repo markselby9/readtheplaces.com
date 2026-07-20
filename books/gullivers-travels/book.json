@@ -11,7 +11,8 @@
     "city": "London",
     "country": "GB",
     "note": "The ship's surgeon Lemuel Gulliver sails from England on four voyages and is cast among the tiny Lilliputians, the giant Brobdingnagians, the mad projectors of flying Laputa, and the rational horses called Houyhnhnms, each a mirror held up to human folly. Swift frames the satire from a real England, and even gives his imaginary lands pseudo-coordinates, so that Gulliver departs from London's docks toward islands placed off Sumatra, the Pacific, Japan and the southern oceans.",
-    "bbox": [-0.3, 51.4, 0.1, 51.6]
+    "bbox": [-0.3, 51.4, 0.1, 51.6],
+    "wikivoyage": "London"
   },
   "rights": {
     "originalWork": "Public domain. Jonathan Swift (d. 1745), first published 1726. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",

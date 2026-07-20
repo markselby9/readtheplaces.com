@@ -11,7 +11,8 @@
     "city": "Tokyo",
     "country": "JP",
     "note": "Murakami's Tokyo is the quiet western suburb of Setagaya: a house at the end of a blind alley, a dry well in an empty lot, a small shopping street where an unemployed man goes looking first for a cat and then for a wife who has walked out of his life. From this stillness the book opens onto the west-side plaza at Shinjuku and, in memory, onto a war in Manchuria far outside the city. The map holds the suburban core and reaches east to Shinjuku.",
-    "bbox": [139.55, 35.6, 139.75, 35.72]
+    "bbox": [139.55, 35.6, 139.75, 35.72],
+    "wikivoyage": "Tokyo"
   },
   "rights": {
     "originalWork": "In copyright. Haruki Murakami, first published in Japanese 1994-1995. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
