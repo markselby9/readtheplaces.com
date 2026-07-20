@@ -1,0 +1,46 @@
+{
+  "id": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "published": 1902,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-3.9, 50.55],
+  "zoom": 10,
+  "setting": {
+    "city": "Dartmoor",
+    "country": "GB",
+    "note": "When Sir Charles Baskerville dies of fright near a legend of a spectral hound, Sherlock Holmes sends Dr Watson to guard the heir on the lonely wastes of Dartmoor while he works unseen. Doyle's most famous case maps a real and forbidding landscape: the Baker Street opening, Baskerville Hall on the moor, the treacherous Grimpen Mire, and the fog-bound heath across which the great hound comes.",
+    "bbox": [-4.2, 50.4, -3.7, 50.7]
+  },
+  "rights": {
+    "originalWork": "Public domain. Arthur Conan Doyle (d. 1930), first published 1902. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Hound of the Baskervilles, Arthur Conan Doyle (1902). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of the Dartmoor fog and stone out of which the phosphorescent hound comes bounding, the murk that hides a very human crime behind a legend. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "holmes": {
+      "name": "Holmes",
+      "color": "#2E5064"
+    },
+    "watson": {
+      "name": "Watson",
+      "color": "#2E6B4A"
+    },
+    "stapleton": {
+      "name": "Stapleton",
+      "color": "#8A2B1E"
+    },
+    "sir-henry": {
+      "name": "Sir Henry",
+      "color": "#8A6A12"
+    }
+  }
+}

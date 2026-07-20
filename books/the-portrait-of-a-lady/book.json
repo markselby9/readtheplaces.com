@@ -1,0 +1,46 @@
+{
+  "id": "the-portrait-of-a-lady",
+  "title": "The Portrait of a Lady",
+  "author": "Henry James",
+  "published": 1881,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [6.0, 46.5],
+  "zoom": 4,
+  "setting": {
+    "city": "England and Italy",
+    "country": "GB",
+    "note": "The spirited young American Isabel Archer, come into a fortune, prizes her freedom above all and chooses, of all her suitors, the one who will cage her, the cold aesthete Gilbert Osmond. James follows her across a real transatlantic world: the Touchetts' English house on the Thames, London, the Florence where Osmond weaves his trap, and the Rome where the marriage closes around her like a beautiful prison.",
+    "bbox": [-1.0, 41.5, 12.8, 51.8]
+  },
+  "rights": {
+    "originalWork": "Public domain. Henry James (d. 1916), first published 1881. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Portrait_of_a_Lady",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Portrait of a Lady, Henry James (1881). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The muted plum of a free spirit slowly caged, Isabel's bright independence darkening as Osmond's beautiful, airless world closes around her. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "isabel": {
+      "name": "Isabel",
+      "color": "#2E5064"
+    },
+    "osmond": {
+      "name": "Osmond",
+      "color": "#4A4A4A"
+    },
+    "ralph": {
+      "name": "Ralph",
+      "color": "#2E6B4A"
+    },
+    "madame-merle": {
+      "name": "Madame Merle",
+      "color": "#8A2B1E"
+    }
+  }
+}

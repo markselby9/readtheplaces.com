@@ -1,0 +1,46 @@
+{
+  "id": "moby-dick",
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "published": 1851,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-70.5, 41.5],
+  "zoom": 8,
+  "setting": {
+    "city": "New Bedford & Nantucket",
+    "country": "US",
+    "note": "Ishmael signs aboard the whaler Pequod out of Nantucket and is swept into Captain Ahab's monomaniac hunt for the white whale that took his leg, a voyage across the world's oceans toward annihilation. Melville roots the epic in the real whaling world of New England: the port of New Bedford where Ishmael meets Queequeg, the island of Nantucket where the Pequod sails, and the far Pacific grounds where the White Whale at last is found.",
+    "bbox": [-71.2, 41.2, -69.9, 41.8]
+  },
+  "rights": {
+    "originalWork": "Public domain. Herman Melville (d. 1891), first published 1851. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Moby-Dick",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Moby-Dick, Herman Melville (1851). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The deep blue of the sea that carries the Pequod to the ends of the earth, indifferent and bottomless beneath Ahab's rage. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ishmael": {
+      "name": "Ishmael",
+      "color": "#2E6B4A"
+    },
+    "ahab": {
+      "name": "Ahab",
+      "color": "#8A2B1E"
+    },
+    "queequeg": {
+      "name": "Queequeg",
+      "color": "#8A6A12"
+    },
+    "starbuck": {
+      "name": "Starbuck",
+      "color": "#4A4A4A"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "published": 1892,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.13, 51.51],
+  "zoom": 12,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "From the rooms at 221B Baker Street, the consulting detective Sherlock Holmes and Dr Watson take on the twelve cases of the first collection, from a scandal in Bohemia to a speckled band, reading the whole gaslit city and the counties beyond it in a scratch, a splash of mud, a frayed cuff. Doyle maps a real Victorian London: the Baker Street lodgings, Scotland Yard on the river, the Strand where clients arrive, the dark East End of the opium dens, and the country houses where the darkest cases lie.",
+    "bbox": [-0.25, 51.45, 0.0, 51.56]
+  },
+  "rights": {
+    "originalWork": "Public domain. Arthur Conan Doyle (d. 1930), first published 1892. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Adventures of Sherlock Holmes, Arthur Conan Doyle (1892). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The fog-grey of gaslit London, the murk out of which Holmes conjures a chain of reasoning bright and hard as a blade. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "holmes": {
+      "name": "Holmes",
+      "color": "#2E5064"
+    },
+    "watson": {
+      "name": "Watson",
+      "color": "#2E6B4A"
+    },
+    "lestrade": {
+      "name": "Lestrade",
+      "color": "#8A6A12"
+    },
+    "irene-adler": {
+      "name": "Irene Adler",
+      "color": "#6B3B5A"
+    }
+  }
+}

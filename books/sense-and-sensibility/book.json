@@ -1,0 +1,46 @@
+{
+  "id": "sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "published": 1811,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-3.7, 50.85],
+  "zoom": 8,
+  "setting": {
+    "city": "Devon",
+    "country": "GB",
+    "note": "Dispossessed of their home, the Dashwood sisters, prudent Elinor and passionate Marianne, retire to a Devon cottage and are schooled by love and disappointment in the balance of sense and sensibility. Austen sets the story across a real England: the Sussex estate they lose, the Devon country of their new life and Marianne's romance, the London where hearts are broken, and the western house where illness brings the reckoning.",
+    "bbox": [-4.2, 50.6, -3.3, 51.1]
+  },
+  "rights": {
+    "originalWork": "Public domain. Jane Austen (d. 1817), first published 1811. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Sense_and_Sensibility",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "Sense and Sensibility, Jane Austen (1811). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The steady blue of Elinor's sense, the self-command held against Marianne's storms of feeling until each sister learns something of the other. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "elinor": {
+      "name": "Elinor",
+      "color": "#2E6B4A"
+    },
+    "marianne": {
+      "name": "Marianne",
+      "color": "#8A2B1E"
+    },
+    "willoughby": {
+      "name": "Willoughby",
+      "color": "#8A6A12"
+    },
+    "brandon": {
+      "name": "Colonel Brandon",
+      "color": "#6B3B5A"
+    }
+  }
+}

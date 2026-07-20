@@ -1,0 +1,128 @@
+[
+  {
+    "id": "marlott",
+    "name": "Marlott",
+    "progressLabel": "The vale",
+    "character": "john-durbeyfield",
+    "coords": [-2.31, 50.96],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Tess's home village of Marlott, in the Vale of Blackmoor, is drawn from Marnhull in Dorset; sited there in Hardy's Wessex.",
+    "reference": "Phase the First",
+    "order": 1,
+    "note": "In the quiet vale village of Marlott, Tess's feckless father learns that the Durbeyfields are the last of the ancient d'Urbervilles, and sends her off to claim kinship with a rich family of the name. Hardy opens in the deep, unspoiled country of the Blackmoor Vale, the ordinary rural world whose peace the empty vanity of a lost name is about to shatter.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Marnhull, Dorset",
+        "url": "https://en.wikipedia.org/wiki/Marnhull"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tess of the d'Urbervilles, Wikipedia, on Marlott and the Durbeyfields",
+        "url": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "trantridge",
+    "name": "Trantridge",
+    "progressLabel": "The ruin",
+    "character": "alec",
+    "coords": [-1.99, 50.95],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The d'Urberville estate at Trantridge, where Alec seduces and ruins Tess, is drawn from the country around Pentridge in Dorset; sited there.",
+    "reference": "Phase the First",
+    "order": 2,
+    "note": "At Trantridge, Tess goes to work for the newly rich Stoke-d'Urbervilles, and the caddish Alec pursues her until, one night in the Chase, he takes her by force. Hardy sets the wrong that shadows the rest of the book in this false d'Urberville estate, where an old name bought with new money brings only her undoing.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Pentridge, Dorset",
+        "url": "https://en.wikipedia.org/wiki/Pentridge"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tess of the d'Urbervilles, Wikipedia, on Alec and Trantridge",
+        "url": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "talbothays",
+    "name": "Talbothays Dairy",
+    "progressLabel": "The love",
+    "character": "angel",
+    "coords": [-2.35, 50.72],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Talbothays Dairy, in the lush Vale of the Great Dairies where Tess meets Angel Clare, is drawn from the Frome valley near Dorchester; sited there.",
+    "reference": "Phase the Third",
+    "order": 3,
+    "note": "In the green, teeming dairy country of Talbothays, Tess finds work and, briefly, happiness, falling in love with the gentleman-farmer Angel Clare in the fertile summer of the Frome valley. Hardy makes this the book's one idyll, the ripe abundance of the dairylands cruelly framing the confession of her past that will destroy the marriage on its wedding night.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "River Frome, Dorset",
+        "url": "https://en.wikipedia.org/wiki/River_Frome,_Dorset"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tess of the d'Urbervilles, Wikipedia, on Talbothays and Angel",
+        "url": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "flintcomb-ash",
+    "name": "Flintcomb-Ash",
+    "progressLabel": "The suffering",
+    "character": "tess",
+    "coords": [-2.15, 50.9],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The bleak upland farm of Flintcomb-Ash, where the abandoned Tess does brutal labour, is drawn from the chalk uplands of Dorset; sited there.",
+    "reference": "Phase the Fifth",
+    "order": 4,
+    "note": "Cast off by Angel after her confession, Tess toils through winter at the starve-acre farm of Flintcomb-Ash, grubbing turnips on the frozen chalk uplands as Alec reappears to torment her. Hardy sets her lowest suffering in this harshest of his landscapes, the barren downs mirroring a world and a society that offer the ruined woman no mercy.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Thomas Hardy's Wessex",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Hardy%27s_Wessex"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tess of the d'Urbervilles, Wikipedia, on Flintcomb-Ash",
+        "url": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "stonehenge",
+    "name": "Stonehenge",
+    "progressLabel": "The capture",
+    "character": "tess",
+    "coords": [-1.826, 51.179],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Tess is captured at dawn at Stonehenge, the real prehistoric monument on Salisbury Plain, after killing Alec; sited there, just outside the Dorset heart of the setting.",
+    "reference": "Phase the Seventh",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Having murdered Alec and fled with Angel for a few stolen days, Tess is taken at last at Stonehenge, asleep on the altar-stone as the sun rises, and is hanged soon after. Hardy ends with the terrible line that the President of the Immortals had ended his sport with Tess, laying her on the ancient pagan stones as a sacrifice to a fate that never gave her a fair chance.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Stonehenge",
+        "url": "https://en.wikipedia.org/wiki/Stonehenge"
+      },
+      {
+        "kind": "guide",
+        "ref": "Tess of the d'Urbervilles, Wikipedia, on the ending at Stonehenge",
+        "url": "https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

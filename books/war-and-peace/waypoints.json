@@ -1,0 +1,128 @@
+[
+  {
+    "id": "saint-petersburg",
+    "name": "Saint Petersburg",
+    "progressLabel": "1805",
+    "character": "andrei",
+    "coords": [30.33, 59.93],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens in the salons of Saint Petersburg, the real imperial capital, where the aristocracy debates the coming war with Napoleon; sited in the city.",
+    "reference": "Volume I",
+    "order": 1,
+    "note": "The book begins at Anna Pavlovna Scherer's soirée in Petersburg, where the war is still a topic of drawing-room talk and the young Pierre blunders through society. Tolstoy sets the glittering, hollow world of the capital's salons against the reality of the front to come, the peace whose complacency the war will shatter.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Saint Petersburg",
+        "url": "https://en.wikipedia.org/wiki/Saint_Petersburg"
+      },
+      {
+        "kind": "guide",
+        "ref": "War and Peace, Wikipedia, on the opening salons",
+        "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "austerlitz",
+    "name": "Austerlitz",
+    "progressLabel": "1805",
+    "character": "andrei",
+    "coords": [16.88, 49.15],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Battle of Austerlitz (1805) in Moravia, where Prince Andrei is wounded, is a real battle; sited at the field near Slavkov, far outside the Russian setting.",
+    "reference": "Volume I, the campaign",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "At Austerlitz, carrying the standard forward, Prince Andrei falls wounded and lies staring up at the high, endless sky, and all his dreams of glory drain away before its vast indifference. Tolstoy makes the battle the book's first great collision of human ambition with something immeasurably larger, the sky that reduces Napoleon himself to an insect.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Battle of Austerlitz",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
+      },
+      {
+        "kind": "guide",
+        "ref": "War and Peace, Wikipedia, on Andrei at Austerlitz",
+        "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bald-hills",
+    "name": "Bald Hills",
+    "progressLabel": "The estates",
+    "character": "andrei",
+    "coords": [37.53, 54.07],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Bolkonsky country estate of Bald Hills is drawn from Tolstoy's own Yasnaya Polyana in Tula province; sited in that real region south of Moscow.",
+    "reference": "The estate chapters",
+    "order": 3,
+    "note": "At the Bolkonsky estate of Bald Hills, the old prince rules his household like a martinet, and the quiet rhythms of country life go on between the campaigns. Tolstoy, drawing on his own Yasnaya Polyana, sets against the war the deep Russian world of land, family and season that he believed carried the nation's true life.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Yasnaya Polyana",
+        "url": "https://en.wikipedia.org/wiki/Yasnaya_Polyana"
+      },
+      {
+        "kind": "guide",
+        "ref": "War and Peace, Wikipedia, on the Bolkonskys",
+        "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "borodino",
+    "name": "Borodino",
+    "progressLabel": "1812",
+    "character": "pierre",
+    "coords": [35.82, 55.52],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Battle of Borodino (1812), the bloodiest day of the Napoleonic Wars, is a real battle west of Moscow, which Pierre wanders as a bewildered civilian; sited there.",
+    "reference": "Volume III",
+    "order": 4,
+    "note": "At Borodino, Pierre strays onto the battlefield in a green tailcoat and watches the slaughter he cannot comprehend, as the Russian army bleeds the French white without breaking. Tolstoy makes the day his argument against the great-man theory of history: no general commands the chaos, and the war is decided by the spirit of countless ordinary men.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Battle of Borodino",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+      },
+      {
+        "kind": "guide",
+        "ref": "War and Peace, Wikipedia, on Pierre at Borodino",
+        "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "moscow-burning",
+    "name": "Moscow",
+    "progressLabel": "1812",
+    "character": "natasha",
+    "coords": [37.62, 55.75],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Moscow, the real old capital, is abandoned and burns as the French enter in 1812, and Pierre is taken prisoner there; sited in the city.",
+    "reference": "Volume III-IV",
+    "order": 5,
+    "note": "As Napoleon takes an abandoned Moscow, the city burns, the Rostovs flee with the wounded, and Pierre, staying behind, is captured and marched out with the retreating army. In the fire and the terrible retreat that follows, Tolstoy shows the invader's triumph turning to ruin, and his characters stripped down to what endures when everything else is lost.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fire of Moscow (1812)",
+        "url": "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+      },
+      {
+        "kind": "guide",
+        "ref": "War and Peace, Wikipedia, on the burning of Moscow",
+        "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

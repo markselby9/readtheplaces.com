@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hartfield",
+    "name": "Hartfield, Highbury",
+    "progressLabel": "The matchmaker",
+    "character": "emma",
+    "coords": [-0.33, 51.3],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Emma's home, Hartfield, and the village of Highbury are drawn from the Surrey countryside a short way from London; sited in that region.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "At Hartfield, mistress of her doting hypochondriac father's house, Emma congratulates herself on a match she takes credit for and sets about arranging others. Austen establishes at once the heroine's charm and her fatal self-satisfaction, a young woman clever enough to be dangerous and blind exactly where she is surest.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Jane Austen",
+        "url": "https://en.wikipedia.org/wiki/Jane_Austen"
+      },
+      {
+        "kind": "guide",
+        "ref": "Emma, Wikipedia, on Emma Woodhouse and Highbury",
+        "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-village",
+    "name": "Highbury village",
+    "progressLabel": "Harriet's suitors",
+    "character": "harriet",
+    "coords": [-0.332, 51.301],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The village of Highbury, with Ford's shop, the vicarage and the Bates' lodgings, is drawn from a Surrey market village; sited in the setting.",
+    "reference": "The Highbury chapters",
+    "order": 2,
+    "note": "In the village Emma takes up the humble Harriet Smith as a project, talking her out of a good farmer's proposal in favour of grander hopes that come to nothing. Austen fills Highbury with the small society of a country place, the vicar Mr Elton, the garrulous Miss Bates, on whom Emma's meddling and condescension do real, careless harm.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Emma, Wikipedia, on Harriet Smith and Mr Elton",
+        "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "donwell-abbey",
+    "name": "Donwell Abbey",
+    "progressLabel": "Mr Knightley",
+    "character": "knightley",
+    "coords": [-0.31, 51.29],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Donwell Abbey, Mr Knightley's estate, is a fictional country house drawn from the Surrey gentry seats; sited near Highbury.",
+    "reference": "The Donwell chapters",
+    "order": 3,
+    "note": "At Donwell Abbey, the estate of the older, plain-speaking Mr Knightley, a strawberry-picking party gathers, and Knightley alone tells Emma the truths she does not want to hear. Austen makes him the book's moral centre and Emma's real match, the one man who sees her clearly and loves her without flattering her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Emma, Wikipedia, on Mr Knightley and Donwell Abbey",
+        "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "box-hill",
+    "name": "Box Hill",
+    "progressLabel": "The picnic",
+    "character": "frank-churchill",
+    "coords": [-0.31, 51.253],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The outing to Box Hill, a real Surrey beauty spot, is where Emma insults Miss Bates and Knightley rebukes her; sited there.",
+    "reference": "The Box Hill chapter",
+    "order": 4,
+    "note": "On the famous excursion to Box Hill, flirting carelessly with the charming Frank Churchill, Emma makes a cutting joke at poor Miss Bates's expense, and Knightley's grave reproof afterward shames her as nothing else has. Austen turns a summer picnic into the novel's moral turning point, the moment Emma is forced to see her own unkindness.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Box Hill, Surrey",
+        "url": "https://en.wikipedia.org/wiki/Box_Hill,_Surrey"
+      },
+      {
+        "kind": "guide",
+        "ref": "Emma, Wikipedia, on the Box Hill picnic",
+        "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-reckoning",
+    "name": "Hartfield again",
+    "progressLabel": "The reckoning",
+    "character": "emma",
+    "coords": [-0.329, 51.299],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Emma's realisation of her own heart and Knightley's proposal are set back at Hartfield and its grounds; sited in the setting.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "note": "When Frank Churchill's secret engagement is revealed and Harriet confesses she hopes for Knightley herself, Emma discovers with a shock that she loves him, and must have him. Austen brings her heroine to painful self-knowledge and then to happiness, the matchmaker at last matched, humbled and improved by her own long comedy of errors.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Emma, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Emma_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

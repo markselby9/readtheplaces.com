@@ -1,0 +1,46 @@
+{
+  "id": "the-red-and-the-black",
+  "title": "The Red and the Black",
+  "author": "Stendhal",
+  "published": 1830,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [4.1, 47.8],
+  "zoom": 6,
+  "setting": {
+    "city": "France",
+    "country": "FR",
+    "note": "The carpenter's son Julien Sorel, brilliant, proud and ambitious in a France where the army's red is closed to him and only the church's black offers a poor man a ladder, climbs through hypocrisy and seduction toward a ruin of his own making. Stendhal maps a real Restoration France: the provincial town of Verrières in the Franche-Comté, the seminary at Besançon, and the aristocratic Paris where Julien's rise and fall play out.",
+    "bbox": [2.2, 46.9, 6.2, 48.95]
+  },
+  "rights": {
+    "originalWork": "Public domain. Stendhal (d. 1842), first published 1830 (Le Rouge et le Noir). Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Red_and_the_Black",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Red and the Black, Stendhal (1830). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the title, the soldier's glory and the passion Julien lives by, set against the black of the church he climbs through, and ending at the blade. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "julien": {
+      "name": "Julien",
+      "color": "#2E5064"
+    },
+    "mme-de-renal": {
+      "name": "Mme de Rênal",
+      "color": "#6B3B5A"
+    },
+    "mathilde": {
+      "name": "Mathilde",
+      "color": "#8A6A12"
+    },
+    "the-marquis": {
+      "name": "The Marquis",
+      "color": "#4A4A4A"
+    }
+  }
+}

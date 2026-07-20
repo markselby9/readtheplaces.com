@@ -1,0 +1,117 @@
+[
+  {
+    "id": "verrieres",
+    "name": "Verrières",
+    "progressLabel": "The tutor",
+    "character": "mme-de-renal",
+    "coords": [6.0, 47.1],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Verrières, the provincial town where Julien becomes tutor to the Rênal children, is Stendhal's fictional town drawn from the Franche-Comté near the Jura; sited there.",
+    "reference": "Book I, the opening",
+    "order": 1,
+    "note": "In the little manufacturing town of Verrières, the mayor Monsieur de Rênal takes on the pale, bookish carpenter's son Julien as tutor, and Julien, half from ambition and half from wounded pride, seduces his employer's gentle wife. Stendhal opens on the stifling hypocrisy of provincial society, and on a hero who treats love itself as a campaign in his war on the class that despises him.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Franche-Comté",
+        "url": "https://en.wikipedia.org/wiki/Franche-Comt%C3%A9"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Red and the Black, Wikipedia, on Verrières and Madame de Rênal",
+        "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "besancon-seminary",
+    "name": "Besançon",
+    "progressLabel": "The seminary",
+    "character": "julien",
+    "coords": [6.02, 47.24],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Julien enters the seminary at Besançon, the real capital of the Franche-Comté, to pursue a churchman's career; sited there.",
+    "reference": "Book I, the seminary",
+    "order": 2,
+    "note": "At the seminary in Besançon, Julien masters the arts of concealment and hypocrisy among rivals and spies, hiding his Napoleonic hero-worship behind a mask of piety. Stendhal shows the church as the one ladder a poor man of talent may climb in Restoration France, and Julien learning to wear its black as a disguise for a wholly worldly ambition.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Besançon",
+        "url": "https://en.wikipedia.org/wiki/Besan%C3%A7on"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Red and the Black, Wikipedia, on the seminary",
+        "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paris-hotel-de-la-mole",
+    "name": "Paris",
+    "progressLabel": "The Hôtel de la Mole",
+    "character": "mathilde",
+    "coords": [2.32, 48.86],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Julien becomes secretary to the Marquis de la Mole in aristocratic Paris and wins his proud daughter Mathilde; sited in the real city.",
+    "reference": "Book II",
+    "order": 3,
+    "note": "In Paris, Julien serves the reactionary Marquis de la Mole and captivates his haughty, romantic daughter Mathilde, rising by wit and daring toward wealth, a title and a commission at last. Stendhal sets his hero loose in the salons and intrigues of the capital, where his cold brilliance and secret pride carry him to the very edge of the success he has schemed for.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bourbon Restoration",
+        "url": "https://en.wikipedia.org/wiki/Bourbon_Restoration_in_France"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Red and the Black, Wikipedia, on Paris and Mathilde",
+        "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-pistol-shot",
+    "name": "The church at Verrières",
+    "progressLabel": "The crime",
+    "character": "julien",
+    "coords": [6.01, 47.11],
+    "placeCertainty": "inferred",
+    "certaintyNote": "When a letter from Madame de Rênal destroys his prospects, Julien returns to Verrières and shoots her in the church; sited there in the setting.",
+    "reference": "Book II, the crisis",
+    "order": 4,
+    "note": "On the brink of everything he wanted, Julien is undone by a denouncing letter from Madame de Rênal, and in a fury of wounded pride rides back to Verrières and shoots her at prayer in the church. Stendhal turns his hero's cold calculation, in one uncontrolled instant, into a passionate crime that throws away the whole edifice of his ambition.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Red and the Black, Wikipedia, on the shooting",
+        "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-guillotine",
+    "name": "The prison at Besançon",
+    "progressLabel": "The reckoning",
+    "character": "julien",
+    "coords": [6.03, 47.23],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Julien is tried and guillotined at Besançon, refusing to plead for his life; sited at the city in the setting.",
+    "reference": "Book II, the ending",
+    "order": 5,
+    "note": "Imprisoned at Besançon, Julien finds a strange peace, rejects every appeal that might save him, and defiantly denounces the class that would never forgive a carpenter's son who reached too high, before going to the guillotine. Stendhal ends on this proud self-destruction, and on Madame de Rênal, who has survived, dying of grief days after, the passion beneath all the ambition avenged and confirmed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Red and the Black, Wikipedia, on the trial and ending",
+        "url": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

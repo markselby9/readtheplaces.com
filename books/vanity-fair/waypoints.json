@@ -1,0 +1,125 @@
+[
+  {
+    "id": "russell-square",
+    "name": "Russell Square",
+    "progressLabel": "The two girls",
+    "character": "amelia",
+    "coords": [-0.125, 51.522],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Sedley family home in Russell Square, a real Bloomsbury address, is where the story begins as Becky visits her schoolfellow Amelia; sited there.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "note": "Leaving school together, the meek, well-off Amelia Sedley brings the sharp, portionless Becky home to Russell Square, where Becky at once sets her cap at Amelia's rich, foolish brother Jos. Thackeray opens on the contrast that runs through the book, the good girl who will be ill-used for her devotion and the adventuress who will prosper by having none.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Russell Square",
+        "url": "https://en.wikipedia.org/wiki/Russell_Square"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vanity Fair, Wikipedia, on Becky and Amelia",
+        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "mayfair",
+    "name": "Mayfair",
+    "progressLabel": "The climb",
+    "character": "becky",
+    "coords": [-0.148, 51.507],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Becky and Rawdon Crawley's rise into fashionable society, living grandly on nothing, is set in the real Mayfair of Regency London; sited there.",
+    "reference": "The London society chapters",
+    "order": 2,
+    "note": "Married in secret to the guardsman Rawdon Crawley, Becky charms her way into Mayfair society and keeps a great house on credit and cunning, famously living well on nothing a year. Thackeray follows her dazzling ascent up to a presentation at court, the whole climb built on debts and favours that must one day come due.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Mayfair",
+        "url": "https://en.wikipedia.org/wiki/Mayfair"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vanity Fair, Wikipedia, on Becky's rise",
+        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brussels",
+    "name": "Brussels",
+    "progressLabel": "The eve of Waterloo",
+    "character": "becky",
+    "coords": [4.35, 50.85],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The famous ball in Brussels on the eve of the Battle of Waterloo is a real historical setting; sited there, outside the London setting.",
+    "reference": "The Brussels chapters",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "As the army gathers in Brussels, a glittering ball is danced on the eve of Waterloo, Becky flirting with Amelia's husband George even as the drums call the men to march. Thackeray stages his most brilliant sequence here, the frivolity of the fair set against the cannon just over the horizon, pleasure and death in the same night.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Duchess of Richmond's ball",
+        "url": "https://en.wikipedia.org/wiki/Duchess_of_Richmond%27s_ball"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vanity Fair, Wikipedia, on the Brussels ball",
+        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "waterloo",
+    "name": "Waterloo",
+    "progressLabel": "The battle",
+    "character": "dobbin",
+    "coords": [4.4, 50.68],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Battle of Waterloo (1815), where George Osborne is killed, is a real battle south of Brussels; sited there, outside the London setting.",
+    "reference": "The Waterloo chapter",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "On the field of Waterloo, George Osborne, who has already tired of Amelia, is killed with a bullet through the heart, leaving her a widow to grieve him far beyond his worth. Thackeray famously closes the chapter without describing the battle itself, only its cost, and the faithful Dobbin's long, unrewarded love for Amelia deepens in its shadow.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Battle of Waterloo",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+      },
+      {
+        "kind": "guide",
+        "ref": "Vanity Fair, Wikipedia, on George Osborne and Waterloo",
+        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pumpernickel",
+    "name": "Pumpernickel",
+    "progressLabel": "The reckoning",
+    "character": "becky",
+    "coords": [8.24, 50.08],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The little German spa town of Pumpernickel, where the surviving characters converge at the end, is drawn from the real spa towns of the Rhineland; sited there, outside the London setting.",
+    "reference": "The closing chapters",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Years later, at the German spa of Pumpernickel, the ruined, wandering Becky reappears, Dobbin at last wins the widowed Amelia, and old debts and secrets are quietly squared. Thackeray ends his fair on a note of weary irony, no one wholly good or wholly punished, and his closing question of which of us is happy, which has what he wants, hanging over the whole worldly show.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Vanity Fair, Wikipedia, on the ending",
+        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "baker-street",
+    "name": "221B Baker Street",
+    "progressLabel": "The case opens",
+    "character": "holmes",
+    "coords": [-0.158, 51.523],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The case opens at Holmes and Watson's rooms at 221B Baker Street in London, the fictional address on the real street; sited there, outside the Dartmoor setting.",
+    "reference": "The opening chapters",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "At Baker Street, Dr Mortimer lays before Holmes the legend of the Baskerville hound and the strange death of Sir Charles, and Holmes reads a whole history from a forgotten walking-stick. Doyle begins in the familiar London rooms before dispatching Watson to the moor, keeping the great detective offstage to sharpen the suspense of the wild country to come.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "221B Baker Street",
+        "url": "https://en.wikipedia.org/wiki/221B_Baker_Street"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hound of the Baskervilles, Wikipedia, on the opening",
+        "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "baskerville-hall",
+    "name": "Baskerville Hall",
+    "progressLabel": "The moor",
+    "character": "sir-henry",
+    "coords": [-3.9, 50.55],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Baskerville Hall, the cursed family seat on Dartmoor, is a fictional house drawn from the great houses of the Devon moor; sited there.",
+    "reference": "The Baskerville Hall chapters",
+    "order": 2,
+    "note": "Watson escorts the new heir, the sturdy Sir Henry Baskerville, to the grim old hall set amid the Dartmoor wastes, where an escaped convict roams and every neighbour hides something. Doyle steeps the house in dread, the baying heard across the moor at night and the ancient curse pressing on a man who refuses to be frightened from his own home.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Dartmoor",
+        "url": "https://en.wikipedia.org/wiki/Dartmoor"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hound of the Baskervilles, Wikipedia, on Sir Henry and the Hall",
+        "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grimpen-mire",
+    "name": "The Grimpen Mire",
+    "progressLabel": "The bog",
+    "character": "watson",
+    "coords": [-3.95, 50.53],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The deadly Grimpen Mire, a bog that swallows ponies and men, is drawn from the real treacherous mires of Dartmoor such as Fox Tor Mire; sited on the moor.",
+    "reference": "The moor chapters",
+    "order": 3,
+    "note": "Out on the moor lies the Great Grimpen Mire, a green, sucking bog that only a hidden path crosses, and into which the unwary vanish without trace. Doyle makes the mire the story's most sinister feature, a natural trap that conceals both the villain's secret lair and, in the end, the means of his own destruction.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Fox Tor Mire, Dartmoor",
+        "url": "https://en.wikipedia.org/wiki/Fox_Tor_Mires"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hound of the Baskervilles, Wikipedia, on the Grimpen Mire",
+        "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "merripit-house",
+    "name": "Merripit House",
+    "progressLabel": "The naturalist",
+    "character": "stapleton",
+    "coords": [-3.93, 50.54],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Merripit House, the moorland home of the butterfly-collecting naturalist Stapleton, is drawn from the isolated dwellings of Dartmoor; sited on the moor.",
+    "reference": "The Merripit chapters",
+    "order": 4,
+    "note": "At lonely Merripit House lives the mild naturalist Stapleton, who chases butterflies across the moor and hides, behind his affable manner, both a false marriage and a murderous design on the Baskerville fortune. Doyle plants his villain in plain sight, the outwardly harmless collector who has bred and starved a real hound to play the family ghost.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Hound of the Baskervilles, Wikipedia, on Stapleton",
+        "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-hound",
+    "name": "The hound on the moor",
+    "progressLabel": "The climax",
+    "character": "holmes",
+    "coords": [-3.955, 50.532],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The climax, in which the phosphor-painted hound is loosed through the fog and Holmes reveals the human hand behind the legend, is set on the open moor; sited in the setting.",
+    "reference": "The final chapters",
+    "order": 5,
+    "note": "In the fog a monstrous hound, its muzzle daubed with phosphorus to glow like a fiend, comes bounding after Sir Henry, and Holmes, waiting unseen, shoots it dead and unmasks Stapleton, who flees to his death in the mire. Doyle ends by dissolving the supernatural terror into a coldly rational crime, the ghostly hound revealed as paint, hunger and human greed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Hound of the Baskervilles, Wikipedia, on the climax",
+        "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

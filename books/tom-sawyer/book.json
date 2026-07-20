@@ -1,0 +1,46 @@
+{
+  "id": "tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "published": 1876,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-91.36, 39.71],
+  "zoom": 12,
+  "setting": {
+    "city": "St Petersburg, Missouri",
+    "country": "US",
+    "note": "The mischievous boy Tom Sawyer roams a sleepy Mississippi river town through a summer of whitewashed fences, pirate games, buried treasure and a murder witnessed at midnight. Twain drew St Petersburg from his own Hannibal, Missouri, and maps its real world: the village and Aunt Polly's, the graveyard and the schoolhouse, Jackson's Island where the boys run wild, and the cave where Tom and Becky are lost and Injun Joe meets his end.",
+    "bbox": [-91.45, 39.6, -91.25, 39.8]
+  },
+  "rights": {
+    "originalWork": "Public domain. Mark Twain (d. 1910), first published 1876. Mapped as a cited work: we store no text and reproduce no passages here. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. This entry reproduces no text; the public-domain original is widely available.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+    "territoryNotes": "Locations and original commentary only. The original text is in the public domain.",
+    "attribution": "The Adventures of Tom Sawyer, Mark Twain (1876). Locations mapped by Read the Places."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The sunlit gold of a boyhood summer on the Mississippi, the idyll Twain remembers even as murder and menace run through it. A cited book's colour is not a quotation, because we store no text to quote; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "tom": {
+      "name": "Tom",
+      "color": "#2E5064"
+    },
+    "huck": {
+      "name": "Huck",
+      "color": "#2E6B4A"
+    },
+    "becky": {
+      "name": "Becky",
+      "color": "#6B3B5A"
+    },
+    "injun-joe": {
+      "name": "Injun Joe",
+      "color": "#8A2B1E"
+    }
+  }
+}
