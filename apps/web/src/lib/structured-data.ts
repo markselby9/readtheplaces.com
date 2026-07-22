@@ -1,4 +1,5 @@
 import type { Book, BuiltWaypoint } from '@rtp/schema';
+import { settingLede } from '@rtp/schema';
 import type { LoadedBook } from './books';
 
 /**
@@ -150,7 +151,7 @@ export function bookSchema(loaded: LoadedBook): Json {
       {
         '@type': 'ItemList',
         '@id': `${url}#places`,
-        name: `The ${book.setting.city} of ${book.title}`,
+        name: `${settingLede(book.setting.city)} of ${book.title}`,
         description: `${waypoints.length} real places from ${book.title}, in the order the novel visits them.`,
         numberOfItems: waypoints.length,
         itemListOrder: 'https://schema.org/ItemListOrderAscending',
