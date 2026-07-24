@@ -88,6 +88,29 @@ test('a city hub gathers every novel set there', async ({ page }) => {
   await expect(page.locator('.books li').first()).toBeVisible();
 });
 
+test('a book credits its author with a link to their hub', async ({ page }) => {
+  await page.goto('/mrs-dalloway/');
+  const link = page.getByRole('link', { name: 'Virginia Woolf' });
+  await expect(link).toHaveAttribute('href', '/authors/virginia-woolf/');
+});
+
+test('an author hub shares as a rich card, not bare text', async ({ page, request }) => {
+  await page.goto('/authors/virginia-woolf/');
+
+  const og = page.locator('meta[property="og:image"]');
+  await expect(og).toHaveCount(1);
+  await expect(page.locator('meta[name="twitter:card"]')).toHaveAttribute(
+    'content',
+    'summary_large_image',
+  );
+
+  // The card must actually render, not just be promised in a meta tag. og:image
+  // is an absolute (production) URL, so fetch its path against the test server.
+  const res = await request.get(new URL((await og.getAttribute('content'))!).pathname);
+  expect(res.ok()).toBe(true);
+  expect(res.headers()['content-type']).toContain('image/png');
+});
+
 test('robots.txt points at the sitemap', async ({ request }) => {
   const res = await request.get('/robots.txt');
   expect(res.ok()).toBe(true);

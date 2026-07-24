@@ -59,7 +59,18 @@ const open = books.filter(isStub);
               <li style={`--accent: ${accentOf(book)}`}>
                 <a href={`/${slug}/`}>
                   <span class="meta">
-                    {book.setting.city} · {book.published}
+                    {book.setting.city} · {book.published} ·{' '}
+                    <span
+                      class="tag"
+                      data-kind={book.sourcing === 'cited' ? 'cited' : 'quoted'}
+                      title={
+                        book.sourcing === 'cited'
+                          ? 'In copyright: real places and our notes, no quotations.'
+                          : 'Public domain: every place pinned to a verbatim line from the text.'
+                      }
+                    >
+                      {book.sourcing === 'cited' ? 'cited' : 'quoted'}
+                    </span>
                   </span>
                   <h3>{book.title}</h3>
                   <p class="by">{book.author}</p>
@@ -166,6 +177,15 @@ const open = books.filter(isStub);
     font-size: 0.62rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
+  }
+  .tag {
+    font-weight: 700;
+  }
+  .tag[data-kind='quoted'] {
+    color: var(--accent);
+  }
+  .tag[data-kind='cited'] {
+    color: var(--ink-3);
   }
   .books h3 {
     margin-block: var(--s2) var(--s1);

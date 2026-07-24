@@ -1,3 +1,4 @@
+import { settingLede } from '@rtp/schema';
 import type { APIRoute } from 'astro';
 import sharp from 'sharp';
 import { accentOf, allBooks, loadBook } from '../../lib/books';
@@ -21,7 +22,7 @@ export const GET: APIRoute = async ({ params }) => {
   <rect x="0" y="0" width="10" height="630" fill="${accentOf(book)}"/>
   <text x="80" y="118" font-family="Helvetica,Arial,sans-serif" font-size="22" font-weight="700"
         letter-spacing="5" fill="#857D70">READ THE PLACES</text>
-  <text x="80" y="262" font-family="Georgia,serif" font-size="76" fill="#1B1917">The ${escapeXml(book.setting.city)} of</text>
+  <text x="80" y="262" font-family="Georgia,serif" font-size="76" fill="#1B1917">${escapeXml(settingLede(book.setting.city))} of</text>
   <text x="80" y="360" font-family="Georgia,serif" font-size="80" font-style="italic" fill="#1B1917">${escapeXml(book.title)}</text>
   <line x1="80" y1="428" x2="1120" y2="428" stroke="#D9D2C4" stroke-width="1"/>
   <text x="80" y="486" font-family="Georgia,serif" font-size="30" fill="#4A453D">${

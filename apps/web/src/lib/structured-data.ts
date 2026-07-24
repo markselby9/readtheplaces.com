@@ -1,4 +1,5 @@
 import type { Book, BuiltWaypoint } from '@rtp/schema';
+import { settingLede } from '@rtp/schema';
 import type { LoadedBook } from './books';
 
 /**
@@ -19,6 +20,20 @@ const SITE = 'https://readtheplaces.com';
 const REPO = 'https://github.com/markselby9/readtheplaces.com';
 
 type Json = Record<string, unknown>;
+
+/**
+ * Serialise JSON-LD for an inline <script>.
+ *
+ * The schema objects carry contributor-authored strings (titles, notes,
+ * certainty notes). Written with a bare JSON.stringify, a "</script>" inside one
+ * of them would close the script tag early and everything after it would parse
+ * as HTML — stored XSS on a site whose whole model is merging strangers' data.
+ * Escaping "<" to its \u escape neutralises "</script>" (and "<!--") while
+ * parsing back to exactly the same value.
+ */
+export function serializeJsonLd(schema: unknown): string {
+  return JSON.stringify(schema).replace(/</g, '\\u003c');
+}
 
 export function websiteSchema(bookCount: number, cityCount: number): Json {
   return {
@@ -51,7 +66,7 @@ export function websiteSchema(bookCount: number, cityCount: number): Json {
     mainEntity: {
       '@type': 'Dataset',
       name: 'Read the Places waypoints',
-      description: `${bookCount} books across ${cityCount} cities. Every place is anchored to a verbatim quotation from the text and labelled with how certain the identification is.`,
+      description: `${bookCount} books across ${cityCount} cities. Public-domain books anchor each place to a verbatim quotation from the text; in-copyright books cite the scene without quoting. Every place is labelled with how certain the identification is.`,
       license: 'https://creativecommons.org/licenses/by-sa/4.0/',
       isAccessibleForFree: true,
       creator: { '@type': 'Organization', name: 'Read the Places contributors' },
@@ -150,7 +165,7 @@ export function bookSchema(loaded: LoadedBook): Json {
       {
         '@type': 'ItemList',
         '@id': `${url}#places`,
-        name: `The ${book.setting.city} of ${book.title}`,
+        name: `${settingLede(book.setting.city)} of ${book.title}`,
         description: `${waypoints.length} real places from ${book.title}, in the order the novel visits them.`,
         numberOfItems: waypoints.length,
         itemListOrder: 'https://schema.org/ItemListOrderAscending',

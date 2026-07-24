@@ -182,6 +182,12 @@ export type Book = z.infer<typeof bookSchema>;
 /** A waypoint whose position has been derived from the source text. */
 export type BuiltWaypoint = Waypoint & { position: number };
 
+/** The "The {place} of {book}" lede, minus the book — e.g. "The Dublin".
+ *  Most places are proper nouns, but some already open with an article
+ *  ("The Sundarbans", "the Mississippi", "a northern Italian abbey"). Strip a
+ *  leading article before prepending "The" so the lede never doubles up. */
+export const settingLede = (city: string): string => `The ${city.replace(/^(the|an?)\s+/i, '')}`;
+
 /** Turn a `setting.wikivoyage` title into its article URL. Wikivoyage titles
  *  join words with underscores; parentheses (disambiguation) stay literal. */
 export const wikivoyageUrl = (title: string): string =>

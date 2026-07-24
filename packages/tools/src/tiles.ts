@@ -37,7 +37,26 @@ export function tileUrl(
     .replace('{r}', retina ? '@2x' : '');
 }
 
-async function fetchTile(url: string): Promise<Buffer | null> {
+/**
+ * Retry a fallible fetch. Tile CDNs throttle and drop the odd request, and a
+ * single missing tile now fails the whole build (see renderPlate), so a
+ * transient null must not be taken at face value. Returns the first non-null
+ * result, or null once the attempt budget is spent.
+ */
+export async function withRetry<T>(
+  fn: () => Promise<T | null>,
+  attempts = 3,
+  delay: (n: number) => Promise<void> = (n) => new Promise((r) => setTimeout(r, 200 * 2 ** n)),
+): Promise<T | null> {
+  for (let i = 0; i < attempts; i++) {
+    const result = await fn();
+    if (result !== null) return result;
+    if (i < attempts - 1) await delay(i);
+  }
+  return null;
+}
+
+async function fetchTileOnce(url: string): Promise<Buffer | null> {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': 'readtheplaces-plates/1.0' } });
     if (!res.ok) return null;
@@ -45,6 +64,10 @@ async function fetchTile(url: string): Promise<Buffer | null> {
   } catch {
     return null;
   }
+}
+
+function fetchTile(url: string): Promise<Buffer | null> {
+  return withRetry(() => fetchTileOnce(url));
 }
 
 export interface PlateOptions {
@@ -97,6 +120,18 @@ export async function renderPlate(o: PlateOptions): Promise<Buffer> {
   }
 
   const fetched = await Promise.all(requests);
+
+  // A plate is the LCP element on the walk page. One missing tile leaves a blank
+  // region on the hero map, so a partially-fetched plate must fail the build
+  // rather than ship. fetchTile already retried each tile before giving up.
+  const missing = fetched.filter((t) => t.buf === null).length;
+  if (missing > 0) {
+    throw new Error(
+      `${missing}/${fetched.length} tiles missing for ${o.template} at ${o.lat},${o.lon} z${o.zoom}. ` +
+        'Refusing to ship a plate with blank regions.',
+    );
+  }
+
   const layers = await Promise.all(
     fetched
       .filter((t): t is { buf: Buffer; left: number; top: number } => t.buf !== null)
@@ -106,10 +141,6 @@ export async function renderPlate(o: PlateOptions): Promise<Buffer> {
         top: t.top,
       })),
   );
-
-  if (layers.length === 0) {
-    throw new Error(`No tiles returned for ${o.template} at ${o.lat},${o.lon} z${o.zoom}`);
-  }
 
   let buf = await sharp({
     create: {

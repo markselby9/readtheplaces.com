@@ -37,7 +37,12 @@ const schema = [
 ];
 ---
 
-<Base title={title} description={description} schema={schema}>
+<Base
+  title={title}
+  description={description}
+  ogImage={`/og/authors/${Astro.params.author}.png`}
+  schema={schema}
+>
   <BrowseList
     kicker={`${books.length} book${books.length === 1 ? '' : 's'}`}
     lead="Books by"

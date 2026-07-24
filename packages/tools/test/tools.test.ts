@@ -1,7 +1,54 @@
 import { describe, expect, it } from 'vitest';
-import { deg2num, tileUrl } from '../src/tiles.ts';
+import { deg2num, tileUrl, withRetry } from '../src/tiles.ts';
 import { findPlaces } from '../src/places.ts';
 import { toPlainText } from '../src/text.ts';
+
+describe('withRetry', () => {
+  // A no-op delay so the tests do not actually sleep between attempts.
+  const noDelay = async () => {};
+
+  it('returns the first non-null result without retrying', async () => {
+    let calls = 0;
+    const r = await withRetry(
+      async () => {
+        calls++;
+        return 'ok';
+      },
+      3,
+      noDelay,
+    );
+    expect(r).toBe('ok');
+    expect(calls).toBe(1);
+  });
+
+  it('retries a transient null until a value arrives', async () => {
+    let calls = 0;
+    const r = await withRetry(
+      async () => {
+        calls++;
+        return calls < 3 ? null : 'ok';
+      },
+      3,
+      noDelay,
+    );
+    expect(r).toBe('ok');
+    expect(calls).toBe(3);
+  });
+
+  it('gives up and returns null after exhausting the attempt budget', async () => {
+    let calls = 0;
+    const r = await withRetry(
+      async () => {
+        calls++;
+        return null;
+      },
+      3,
+      noDelay,
+    );
+    expect(r).toBeNull();
+    expect(calls).toBe(3);
+  });
+});
 
 describe('deg2num', () => {
   it('is monotonic in longitude', () => {
