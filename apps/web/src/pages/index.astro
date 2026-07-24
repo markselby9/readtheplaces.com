@@ -24,7 +24,7 @@ const schema = [websiteSchema(mapped.length, cities.length)];
 
 <Base
   title="Read the Places — A Literary Atlas of Real Places"
-  description={`Explore the real places in ${mapped.length} books, mapped in the order each story visits them — across ${cities.length} cities, every location tied to a line from the text.`}
+  description={`Explore the real places in ${mapped.length} books, mapped in the order each story visits them — across ${cities.length} cities, every place labelled with how sure we are it is the right one.`}
   ogImage="/og/mrs-dalloway.png"
   ogType="website"
   schema={schema}
@@ -33,9 +33,10 @@ const schema = [websiteSchema(mapped.length, cities.length)];
     <header class="mast">
       <h1>Not a map of books.<br /><em>A book you can walk through.</em></h1>
       <p class="standfirst">
-        An open atlas of the real places in novels, in the order the story visits them. Every place
-        is pinned to a verbatim line from the book, and says how sure we are that it is the right
-        place.
+        An open atlas of the real places in novels, in the order the story visits them. In
+        public-domain books, every place is pinned to the verbatim line that names it; books still
+        in copyright are mapped as <em>cited works</em> — the place and why it matters, without quoting.
+        Always with how sure we are.
       </p>
 
       <dl class="colophon">
@@ -60,7 +61,7 @@ const schema = [websiteSchema(mapped.length, cities.length)];
 
     <main id="main">
       <p class="no-results" hidden>
-        Nothing matches that. Try a city or an author, or <a href="#open">browse the open list</a>.
+        Nothing matches that. Try a city or an author, or <a href="/browse/">browse all books</a>.
       </p>
 
       <section aria-labelledby="mapped" data-search-section>
@@ -90,7 +91,18 @@ const schema = [websiteSchema(mapped.length, cities.length)];
               >
                 <a href={`/${slug}/`}>
                   <span class="meta">
-                    {book.setting.city} · {book.published}
+                    {book.setting.city} · {book.published} ·{' '}
+                    <span
+                      class="tag"
+                      data-kind={book.sourcing === 'cited' ? 'cited' : 'quoted'}
+                      title={
+                        book.sourcing === 'cited'
+                          ? 'In copyright: real places and our notes, no quotations.'
+                          : 'Public domain: every place pinned to a verbatim line from the text.'
+                      }
+                    >
+                      {book.sourcing === 'cited' ? 'cited' : 'quoted'}
+                    </span>
                   </span>
                   <h3>{book.title}</h3>
                   <p class="by">{book.author}</p>
@@ -134,36 +146,42 @@ const schema = [websiteSchema(mapped.length, cities.length)];
           One sentence. One stroke of the clock. Two places nearly two miles apart, two people who
           never meet, one of whom will be dead within six hours. Order is the whole difference.
         </p>
-      </section>
-
-      <section aria-labelledby="open" data-search-section>
-        <h2 id="open" class="section">Open for adoption</h2>
-        <p class="section-note">
-          Listed because they can be done: the text is public domain, the city is real, and the
-          places in them are findable. Each is waiting for somebody who has read it. <a
-            href="/contribute/">You do not need to write code.</a
-          >
+        <p class="pitch-cta">
+          <a href="/mrs-dalloway/read/">See it on the map →</a>
         </p>
-
-        <ul class="books stubs">
-          {
-            open.map(({ slug, book }) => (
-              <li
-                data-search={`${book.title} ${book.author} ${book.setting.city} ${book.setting.country}`.toLowerCase()}
-              >
-                <a href={`/${slug}/`}>
-                  <span class="meta">
-                    {book.setting.city} · {book.published}
-                  </span>
-                  <h3>{book.title}</h3>
-                  <p class="by">{book.author}</p>
-                  <p class="count claim">Adopt this book →</p>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
       </section>
+
+      {
+        open.length > 0 && (
+          <section aria-labelledby="open" data-search-section>
+            <h2 id="open" class="section">
+              Open for adoption
+            </h2>
+            <p class="section-note">
+              Listed because they can be done: the text is public domain, the city is real, and the
+              places in them are findable. Each is waiting for somebody who has read it.{' '}
+              <a href="/contribute/">You do not need to write code.</a>
+            </p>
+
+            <ul class="books stubs">
+              {open.map(({ slug, book }) => (
+                <li
+                  data-search={`${book.title} ${book.author} ${book.setting.city} ${book.setting.country}`.toLowerCase()}
+                >
+                  <a href={`/${slug}/`}>
+                    <span class="meta">
+                      {book.setting.city} · {book.published}
+                    </span>
+                    <h3>{book.title}</h3>
+                    <p class="by">{book.author}</p>
+                    <p class="count claim">Adopt this book →</p>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
     </main>
   </div>
 </Base>
@@ -360,6 +378,17 @@ const schema = [websiteSchema(mapped.length, cities.length)];
     letter-spacing: 0.12em;
     text-transform: uppercase;
   }
+  /* Provenance, said plainly: a "quoted" book pins each place to a verbatim
+     line; a "cited" (in-copyright) book maps the place and our note, no quote. */
+  .tag {
+    font-weight: 700;
+  }
+  .tag[data-kind='quoted'] {
+    color: var(--accent);
+  }
+  .tag[data-kind='cited'] {
+    color: var(--ink-3);
+  }
   .books h3 {
     margin-block: var(--s2) var(--s1);
     font-size: var(--step-1);
@@ -472,5 +501,14 @@ const schema = [websiteSchema(mapped.length, cities.length)];
   }
   .pitch blockquote {
     color: var(--ink);
+  }
+  .pitch-cta {
+    margin-top: var(--s5);
+    font-family: var(--sans);
+    font-size: var(--step--1);
+    font-weight: 600;
+  }
+  .pitch-cta a {
+    color: var(--accent);
   }
 </style>

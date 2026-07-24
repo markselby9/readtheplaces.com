@@ -83,6 +83,17 @@ export function validateBook(
   const errors: string[] = checkPalette(book, text, cited);
   const bbox = book.setting?.bbox;
 
+  // The bounding box is what catches a transposition that lands somewhere
+  // plausible, or a geocoder that returned the wrong city. A book that maps
+  // places but declares no bbox silently disables that guard, so refuse it
+  // rather than skip the check. (A stub has no waypoints and nothing to check.)
+  if (waypoints.length > 0 && !bbox) {
+    errors.push(
+      'the book maps places but declares no setting.bbox, so coordinates cannot be ' +
+        'checked for transposition. Add a bounding box to setting.',
+    );
+  }
+
   const seen = new Set<string>();
   const built: BuiltWaypoint[] = [];
 

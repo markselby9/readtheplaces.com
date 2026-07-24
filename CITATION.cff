@@ -1,0 +1,23 @@
+# This file lets GitHub, Zenodo and reference managers cite the project and its
+# dataset. When you mint a Zenodo DOI for a release, add it under `doi:` and (if
+# you want per-version citation) `preferred-citation`.
+cff-version: 1.2.0
+message: 'If you use this dataset, please cite it as below.'
+title: 'Read the Places'
+abstract: >-
+  An open, contributor-driven atlas of the real places in novels, presented in
+  the order the story happens. Each waypoint anchors a place to its position in
+  the narrative, with its source and an explicit statement of how certain the
+  identification is.
+type: dataset
+authors:
+  - family-names: Feng
+    given-names: Mark
+url: 'https://readtheplaces.com'
+repository-code: 'https://github.com/markselby9/readtheplaces.com'
+license: CC-BY-SA-4.0
+keywords:
+  - literary geography
+  - literary tourism
+  - digital humanities
+  - public domain literature

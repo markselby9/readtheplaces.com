@@ -11,9 +11,11 @@ We will acknowledge within a week.
 This is a static site with no accounts, no user data, and no database. The
 realistic surface is small, but not empty:
 
-- **The auto-PR bot** (`infra/pr-bot`) accepts input from unauthenticated
-  strangers and opens pull requests with it. Injection into PR bodies, branch
-  names, or file paths is in scope and interesting.
+- **The auto-PR bot** (`infra/pr-bot`) — _planned, not yet built_ — will accept
+  input from unauthenticated strangers and open pull requests with it. Injection
+  into PR bodies, branch names, or file paths will be in scope and interesting
+  once it exists. Until then, contribution is git-based and every data PR is
+  reviewed by a human.
 - **Book data is user-authored.** Waypoint notes and passages render as HTML.
   Anything that gets stored XSS past the schema is in scope.
 - **Tile and geocoding endpoints** are third-party URLs held in `book.json`. A

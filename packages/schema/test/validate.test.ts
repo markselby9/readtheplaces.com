@@ -166,6 +166,13 @@ describe('geography must be sane', () => {
       true,
     );
   });
+
+  it('refuses to silently skip the check when the book declares no bounding box', () => {
+    // bbox is what catches a transposition that lands somewhere plausible. A book
+    // that maps places but omits it disables the guard, so the build must say no.
+    const book = { ...BOOK, setting: { city: 'London', country: 'GB' } } as Book;
+    expect(matching(errs([wp()], book), 'setting.bbox')).toBe(true);
+  });
 });
 
 describe('simultaneity must be declared and mutual', () => {

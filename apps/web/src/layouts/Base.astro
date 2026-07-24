@@ -1,5 +1,6 @@
 ---
 import '../styles/tokens.css';
+import { serializeJsonLd } from '../lib/structured-data';
 
 interface Props {
   title: string;
@@ -51,7 +52,7 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
 
     {
       schema.map((s) => (
-        <script is:inline type="application/ld+json" set:html={JSON.stringify(s)} />
+        <script is:inline type="application/ld+json" set:html={serializeJsonLd(s)} />
       ))
     }
 
@@ -116,7 +117,7 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
             <li><a href="/#mapped">All books</a></li>
             <li><a href="/browse/">Browse by country, author, era</a></li>
             <li><a href="/#by-city">By city</a></li>
-            <li><a href="/#open">Open for adoption</a></li>
+            <li><a href="/contribute/">Open for adoption</a></li>
           </ul>
         </nav>
 

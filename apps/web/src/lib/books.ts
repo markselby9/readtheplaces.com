@@ -95,10 +95,19 @@ export async function loadBook(slug: string): Promise<LoadedBook> {
   return { slug, book, waypoints: built };
 }
 
-export async function allBooks(): Promise<LoadedBook[]> {
-  const books = await getCollection('books');
-  const slugs = books.map((b) => b.id.split('/')[0]!);
-  return Promise.all(slugs.map(loadBook));
+let allBooksCache: Promise<LoadedBook[]> | undefined;
+
+export function allBooks(): Promise<LoadedBook[]> {
+  // Memoised: ~13 getStaticPaths modules call this, and loadBook re-reads and
+  // re-validates every book's text each time. Without the cache the whole corpus
+  // is validated a dozen times over per build. The Promise is cached (not its
+  // result) so concurrent callers share one pass.
+  allBooksCache ??= (async () => {
+    const books = await getCollection('books');
+    const slugs = books.map((b) => b.id.split('/')[0]!);
+    return Promise.all(slugs.map(loadBook));
+  })();
+  return allBooksCache;
 }
 
 /**

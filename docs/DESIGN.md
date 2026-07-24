@@ -298,7 +298,9 @@ accent moves, only where the text licenses it.**
 
 ### 4.8 Certainty is set, not badged
 
-`explicit` / `inferred` / `disputed` are typography, not coloured chips. An
+`explicit` / `inferred` / `inspired_by` / `disputed` are typography, not coloured
+chips (`inspired_by` — a place the book transforms rather than names outright — is
+the most common of the uncertain kinds). An
 inferred place name is set in *italic with a dotted underline*, its note in small
 caps, the way a critical edition marks an emendation. At noon the reader sees
 *“Westminster, the green dress”* (italic, inferred) beside *“Harley Street, the
@@ -398,6 +400,15 @@ discovery; never automate assertion.**
 
 ### 6.2 The path from a stranger to a merged waypoint
 
+> **Status (not yet built).** The in-app triage queue and the GitHub App that
+> opens PRs (`infra/pr-bot`, §7.2) are the designed flow, not the shipped one.
+> Today contribution is git-based: edit `books/<slug>/waypoints.json` and open a
+> pull request by hand, as [CONTRIBUTING.md](../CONTRIBUTING.md) describes. CI
+> already gates that path; the queue and bot are what make it approachable for a
+> non-coding contributor, and they remain to be implemented.
+
+The designed flow:
+
 ```
 in-app triage queue → drag pin, set certainty, write note → Submit
  → GitHub App opens the PR on their behalf (no git required)
@@ -466,7 +477,7 @@ readtheplaces/
  packages/schema/ Zod → emitted JSON Schema (editor autocomplete on raw JSON)
  packages/tools/ extract · validate (TypeScript, run by Bun)
  books/<slug>/ book.json · source.txt · waypoints.json · candidates.json
- infra/pr-bot/ Cloudflare Worker + Octokit, opens PRs for the triage queue
+ infra/pr-bot/ (planned, not yet built) Cloudflare Worker + Octokit, opens PRs for the triage queue
 ```
 
 **Rejected:** Next.js (React/RSC is the wrong tool for a content site), Leaflet
@@ -500,6 +511,13 @@ dependency, and forks can point at their own bucket or the public one.
 
 The public OSM raster endpoint is never a production default. The prototype's
 CARTO tiles are a development convenience and get removed.
+
+> **Status (differs from the above).** The self-hosted PMTiles/R2 target is not
+> yet in place. Today the live reader's modern basemap is served by OpenFreeMap
+> (`apps/web/src/lib/mapstyle.ts`), and the build-time static plates
+> (`packages/tools/src/plates.ts`) still composite CARTO raster tiles. Both are
+> the "development convenience" this section says to remove; migrating them to the
+> single PMTiles file on R2 is outstanding work.
 
 ### 7.5 Motion
 
@@ -573,7 +591,9 @@ replaces its UI layer entirely.
 ## 12. Deployment
 
 Cloudflare Workers, serving static assets. There is no Worker script: the site is
-43 static pages and some images, served from the edge.
+static pages and images, served from the edge. As of the current corpus the build
+emits ~1,535 HTML pages (a page per book, per stop, and per author/city/era/country
+facet) plus a per-book/per-author OG image.
 
 Config lives in `wrangler.jsonc`. The build is:
 
