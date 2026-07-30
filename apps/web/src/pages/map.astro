@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import Atlas from '../islands/Atlas.svelte';
+---
+
+<Base
+  title="The whole atlas — Read the Places"
+  description="Every real place from every mapped novel on one map. Click a pin to read its book in the order the story happens."
+  ogType="website"
+>
+  {/* Like the reader, this is a full-viewport map island; the rest of the site ships no JS. */}
+  <Atlas client:load />
+</Base>
+
+<style is:global>
+  /* The atlas fills the viewport, so the site chrome would push it off screen. */
+  body:has(.atlas) .site-nav,
+  body:has(.atlas) .site-foot {
+    display: none;
+  }
+  body:has(.atlas) {
+    overflow: hidden;
+  }
+</style>
