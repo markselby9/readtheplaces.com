@@ -12,7 +12,6 @@
   const PAPER = '#F5F2EA';
   const INK = '#4a453d';
 
-  let map: maplibregl.Map | undefined;
   let count = $state<number | null>(null);
 
   const reduceMotion =
@@ -24,132 +23,136 @@
   }
 
   onMount(() => {
-    let cancelled = false;
+    let destroyed = false;
 
-    (async () => {
-      const fc: WaypointCollection = await fetch('/waypoints.geojson').then((r) => r.json());
-      if (cancelled) return;
+    // The map is created synchronously, the moment the container is laid out.
+    // Creating it after an `await` (e.g. behind the data fetch) leaves it in a
+    // broken sizing state during hydration and the 'load' event can be missed,
+    // so the data is fetched in parallel and joined inside the load handler.
+    const map = new maplibregl.Map({
+      container: 'map-atlas',
+      style: modernStyle(),
+      center: [-2, 40],
+      zoom: 2,
+      attributionControl: false,
+    });
+    map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+
+    const data = fetch('/waypoints.geojson').then((r) => r.json() as Promise<WaypointCollection>);
+    data.then((fc) => {
       count = fc.features.length;
+    });
 
-      map = new maplibregl.Map({
-        container: 'map-atlas',
-        style: modernStyle(),
-        center: [-2, 40],
-        zoom: 2,
-        attributionControl: false,
+    map.on('load', async () => {
+      const fc = await data;
+      if (destroyed) return;
+      map.addSource('waypoints', {
+        type: 'geojson',
+        data: fc as unknown as GeoJSON.FeatureCollection,
+        cluster: true,
+        clusterRadius: 48,
+        clusterMaxZoom: 14,
       });
-      map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
-      map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
 
-      map.on('load', () => {
-        if (!map) return;
-        map.addSource('waypoints', {
-          type: 'geojson',
-          data: fc as unknown as GeoJSON.FeatureCollection,
-          cluster: true,
-          clusterRadius: 48,
-          clusterMaxZoom: 14,
-        });
+      map.addLayer({
+        id: 'clusters',
+        type: 'circle',
+        source: 'waypoints',
+        filter: ['has', 'point_count'],
+        paint: {
+          'circle-color': INK,
+          'circle-opacity': 0.85,
+          'circle-stroke-width': 1.5,
+          'circle-stroke-color': PAPER,
+          'circle-radius': ['step', ['get', 'point_count'], 14, 25, 18, 100, 24, 500, 32],
+        },
+      });
 
-        map.addLayer({
-          id: 'clusters',
-          type: 'circle',
-          source: 'waypoints',
-          filter: ['has', 'point_count'],
-          paint: {
-            'circle-color': INK,
-            'circle-opacity': 0.85,
-            'circle-stroke-width': 1.5,
-            'circle-stroke-color': PAPER,
-            'circle-radius': ['step', ['get', 'point_count'], 14, 25, 18, 100, 24, 500, 32],
-          },
-        });
+      map.addLayer({
+        id: 'cluster-count',
+        type: 'symbol',
+        source: 'waypoints',
+        filter: ['has', 'point_count'],
+        layout: {
+          'text-field': ['get', 'point_count_abbreviated'],
+          'text-font': ['Noto Sans Regular'],
+          'text-size': 12,
+        },
+        paint: { 'text-color': PAPER },
+      });
 
-        map.addLayer({
-          id: 'cluster-count',
-          type: 'symbol',
-          source: 'waypoints',
-          filter: ['has', 'point_count'],
-          layout: {
-            'text-field': ['get', 'point_count_abbreviated'],
-            'text-font': ['Noto Sans Regular'],
-            'text-size': 12,
-          },
-          paint: { 'text-color': PAPER },
-        });
+      map.addLayer({
+        id: 'unclustered-point',
+        type: 'circle',
+        source: 'waypoints',
+        filter: ['!', ['has', 'point_count']],
+        paint: {
+          'circle-color': ['coalesce', ['get', 'color'], INK],
+          'circle-radius': 6,
+          'circle-stroke-width': 1.5,
+          'circle-stroke-color': PAPER,
+        },
+      });
 
-        map.addLayer({
-          id: 'unclustered-point',
-          type: 'circle',
-          source: 'waypoints',
-          filter: ['!', ['has', 'point_count']],
-          paint: {
-            'circle-color': ['coalesce', ['get', 'color'], INK],
-            'circle-radius': 6,
-            'circle-stroke-width': 1.5,
-            'circle-stroke-color': PAPER,
-          },
-        });
+      // Open the corpus at a frame that holds every point.
+      const bounds = new maplibregl.LngLatBounds();
+      for (const f of fc.features) bounds.extend(f.geometry.coordinates as [number, number]);
+      if (!bounds.isEmpty()) map.fitBounds(bounds, { padding: 48, maxZoom: 11, duration: 0 });
 
-        // Open the corpus at a frame that holds every point.
-        const bounds = new maplibregl.LngLatBounds();
-        for (const f of fc.features) bounds.extend(f.geometry.coordinates as [number, number]);
-        if (!bounds.isEmpty()) map.fitBounds(bounds, { padding: 48, maxZoom: 11, duration: 0 });
+      const popup = new maplibregl.Popup({
+        closeButton: false,
+        closeOnClick: false,
+        offset: 12,
+      });
 
-        const popup = new maplibregl.Popup({
-          closeButton: false,
-          closeOnClick: false,
-          offset: 12,
-        });
-
-        map.on('click', 'clusters', (e) => {
-          const f = map!.queryRenderedFeatures(e.point, { layers: ['clusters'] })[0];
-          if (!f) return;
-          const id = f.properties!.cluster_id as number;
-          const src = map!.getSource('waypoints') as maplibregl.GeoJSONSource;
-          src.getClusterExpansionZoom(id).then((zoom) => {
-            map!.easeTo({
-              center: (f.geometry as GeoJSON.Point).coordinates as [number, number],
-              zoom,
-              duration: reduceMotion ? 0 : 500,
-            });
+      map.on('click', 'clusters', (e) => {
+        const f = map.queryRenderedFeatures(e.point, { layers: ['clusters'] })[0];
+        if (!f) return;
+        const id = f.properties!.cluster_id as number;
+        const src = map.getSource('waypoints') as maplibregl.GeoJSONSource;
+        src.getClusterExpansionZoom(id).then((zoom) => {
+          map.easeTo({
+            center: (f.geometry as GeoJSON.Point).coordinates as [number, number],
+            zoom,
+            duration: reduceMotion ? 0 : 500,
           });
         });
-
-        // A point is a place in a book; clicking it opens that book's reader.
-        map.on('click', 'unclustered-point', (e) => {
-          const href = e.features?.[0]?.properties?.href as string | undefined;
-          if (href) window.location.href = href;
-        });
-
-        map.on('mouseenter', 'unclustered-point', (e) => {
-          map!.getCanvas().style.cursor = 'pointer';
-          const f = e.features?.[0];
-          if (!f) return;
-          const p = f.properties as { name: string; title: string; city: string };
-          popup
-            .setLngLat((f.geometry as GeoJSON.Point).coordinates as [number, number])
-            .setHTML(`<strong>${esc(p.name)}</strong><span>${esc(p.title)} · ${esc(p.city)}</span>`)
-            .addTo(map!);
-        });
-        map.on('mouseleave', 'unclustered-point', () => {
-          map!.getCanvas().style.cursor = '';
-          popup.remove();
-        });
-        map.on('mouseenter', 'clusters', () => {
-          map!.getCanvas().style.cursor = 'pointer';
-        });
-        map.on('mouseleave', 'clusters', () => {
-          map!.getCanvas().style.cursor = '';
-        });
       });
-    })();
 
-    // Svelte runs the returned function on destroy. `cancelled` guards the async
-    // fetch above from touching a map that has already been torn down.
+      // A point is a place in a book; clicking it opens that book's reader.
+      map.on('click', 'unclustered-point', (e) => {
+        const href = e.features?.[0]?.properties?.href as string | undefined;
+        if (href) window.location.href = href;
+      });
+
+      map.on('mouseenter', 'unclustered-point', (e) => {
+        map.getCanvas().style.cursor = 'pointer';
+        const f = e.features?.[0];
+        if (!f) return;
+        const p = f.properties as { name: string; title: string; city: string };
+        popup
+          .setLngLat((f.geometry as GeoJSON.Point).coordinates as [number, number])
+          .setHTML(`<strong>${esc(p.name)}</strong><span>${esc(p.title)} · ${esc(p.city)}</span>`)
+          .addTo(map);
+      });
+      map.on('mouseleave', 'unclustered-point', () => {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+      });
+      map.on('mouseenter', 'clusters', () => {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+      map.on('mouseleave', 'clusters', () => {
+        map.getCanvas().style.cursor = '';
+      });
+    });
+
+    // Svelte runs the returned function on destroy. `destroyed` stops the async
+    // load handler from touching a map that has already been torn down.
     return () => {
-      cancelled = true;
-      map?.remove();
+      destroyed = true;
+      map.remove();
     };
   });
 </script>
