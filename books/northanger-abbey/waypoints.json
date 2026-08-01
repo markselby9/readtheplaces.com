@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bath-pump-room",
+    "name": "The Pump Room",
+    "progressLabel": "Chapter 3",
+    "character": "catherine",
+    "coords": [-2.3597, 51.3813],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Austen names the Pump Room as a hub of Catherine's Bath season; sited at the real Grand Pump Room beside the Roman Baths.",
+    "reference": "Chapter 3-5",
+    "order": 1,
+    "note": "In the great room where Bath society drinks the waters and takes its daily turn, Catherine Morland is paraded by her chaperone in search of acquaintance. Here she cements her friendship with the scheming Isabella Thorpe and keeps hoping to meet the witty Mr Tilney again. The Pump Room is the marriage market where the whole comedy of manners is transacted.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Northanger Abbey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northanger_Abbey"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pump Room, Bath, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pump_Room,_Bath"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "upper-assembly-rooms",
+    "name": "The Upper Assembly Rooms",
+    "progressLabel": "Chapter 2",
+    "character": "henry",
+    "coords": [-2.362, 51.3866],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Catherine's first Bath ball and her introduction to Henry Tilney take place at the Assembly Rooms; sited at the real Upper Rooms on Bennett Street.",
+    "reference": "Chapter 2-3",
+    "order": 2,
+    "note": "At a crowded evening ball the master of ceremonies introduces Catherine to Henry Tilney, and their teasing first dance sets the novel's romance going. It is here she learns the rituals of the ballroom and the sting of being cut or claimed for the next dance. The Assembly Rooms are where Catherine's real education in society begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Northanger Abbey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northanger_Abbey"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Bath Assembly Rooms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bath_Assembly_Rooms"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "milsom-street",
+    "name": "Milsom Street",
+    "progressLabel": "Chapter 7",
+    "character": "henry",
+    "coords": [-2.3615, 51.3845],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Austen sites the Tilneys' Bath lodgings and the fashionable shops on Milsom Street; sited at the real street in the city centre.",
+    "reference": "Chapter 7-12",
+    "order": 3,
+    "note": "The smartest shopping street in Bath is where the Tilneys lodge and where Catherine glimpses new hats, new books and, better, Henry and his sister Eleanor. Errands and accidental meetings here draw her further into the Tilney family's orbit and away from the vulgar Thorpes. Milsom Street is the everyday stage of her Bath life.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Northanger Abbey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northanger_Abbey"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Bath, Somerset, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bath,_Somerset"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "beechen-cliff",
+    "name": "Beechen Cliff",
+    "progressLabel": "Chapter 14",
+    "character": "henry",
+    "coords": [-2.3595, 51.3735],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The walk and the famous conversation about novels take place on Beechen Cliff; sited at the real wooded hill above the city on the south bank of the Avon.",
+    "reference": "Chapter 14",
+    "order": 4,
+    "note": "On the steep green hill overlooking Bath, Catherine walks with Henry and Eleanor Tilney and the talk turns to novels, history and the picturesque. Henry gently mocks and then defends the reading of fiction, and Catherine's honest enthusiasm charms him. Beechen Cliff is where the two minds meet in earnest, above the fashionable town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Northanger Abbey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northanger_Abbey"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Beechen Cliff, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beechen_Cliff"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "northanger-abbey-gloucestershire",
+    "name": "Northanger Abbey, Gloucestershire",
+    "progressLabel": "Chapter 20",
+    "character": "catherine",
+    "coords": [-2.15, 51.7],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Northanger Abbey is a fictional house in Gloucestershire with no confirmed real model; Austen places it a day's drive north of Bath. The pin sites it generically in the Gloucestershire countryside on that road; treat it as the region, not a specific building. Marked outside the setting box as it lies beyond Bath.",
+    "reference": "Chapter 20-29",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "Invited to the Tilneys' country seat, a former abbey, Catherine arrives primed by Gothic novels to expect secret passages, murdered wives and sinister General Tilney. Her lurid imaginings are gently exploded by Henry, but the General's real, mercenary cruelty proves her instinct that something is wrong half-right. The abbey is where fantasy is corrected by a harder truth about money and manners.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Northanger Abbey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northanger_Abbey"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gloucestershire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gloucestershire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

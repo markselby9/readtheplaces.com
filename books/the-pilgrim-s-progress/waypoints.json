@@ -1,0 +1,127 @@
+[
+  {
+    "id": "elstow-city-of-destruction",
+    "name": "Elstow, the City of Destruction",
+    "progressLabel": "The setting out",
+    "character": "christian",
+    "coords": [-0.478, 52.117],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The City of Destruction is a place in the allegory, not on any map; the geography of the book is spiritual. Bunyan was born and raised in Elstow, just south of Bedford, and local tradition reads the doomed home-city Christian flees as drawn from the ordinary village world he left. Anchored to Bunyan's real Bedfordshire.",
+    "reference": "The setting out",
+    "order": 1,
+    "note": "Christian starts the book at home in the City of Destruction, a burden on his back, reading that his town is condemned, and he runs from it with his fingers in his ears. The whole journey is the flight from this first place toward salvation. Bunyan's own first place was Elstow, the village where he grew up and first felt the terrors the book dramatises.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Elstow, Wikipedia, on Bunyan's home village",
+        "url": "https://en.wikipedia.org/wiki/Elstow"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "John Bunyan, Wikipedia, on his Bedfordshire origins",
+        "url": "https://en.wikipedia.org/wiki/John_Bunyan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bedford-county-gaol",
+    "name": "Bedford and the county gaol",
+    "progressLabel": "Where it was written",
+    "character": "evangelist",
+    "coords": [-0.4667, 52.1359],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The book's places are allegorical, not literal Bedford. But Bunyan wrote The Pilgrim's Progress during his long imprisonment in Bedford, and the town and its gaol are the real ground the allegory was composed on. Anchored to Bunyan's real Bedfordshire; the pin marks central Bedford by the river.",
+    "reference": "Where it was written",
+    "order": 2,
+    "note": "Bunyan spent years jailed in Bedford for preaching without licence, and it was in confinement here that he wrote the dream of Christian's journey. Evangelist, who points Christian toward the wicket-gate, carries something of Bunyan's own vocation as a preacher of the way. The town is real; the road out of it in the book is the road of the soul.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Bedford, Wikipedia, on the town where Bunyan was imprisoned",
+        "url": "https://en.wikipedia.org/wiki/Bedford"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "John Bunyan, Wikipedia, on his imprisonment and writing",
+        "url": "https://en.wikipedia.org/wiki/John_Bunyan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "great-ouse-river-of-death",
+    "name": "The Great Ouse, the River of Death",
+    "progressLabel": "The last river",
+    "character": "christian",
+    "coords": [-0.45, 52.13],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The River of Death that Christian must wade to reach the Celestial City is an allegory of dying, not a mapped stream. Local tradition ties Bunyan's river-imagery to the Great Ouse that winds through Bedford, the water he knew all his life. Anchored to Bunyan's real Bedfordshire.",
+    "reference": "The last river",
+    "order": 3,
+    "note": "At the end of the road the pilgrims come to a deep river with no bridge, and Christian nearly drowns in his fear before he finds his feet and crosses to the far shore. It is the book's image of death, the last passage before the gate. The Great Ouse, curving through Bunyan's Bedford, is the real water his readers there would have pictured.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "River Great Ouse, Wikipedia, on the river through Bedford",
+        "url": "https://en.wikipedia.org/wiki/River_Great_Ouse"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Pilgrim's Progress, Wikipedia, on the River of Death",
+        "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ampthill-road-the-way",
+    "name": "The Bedford-Ampthill road, the King's Highway",
+    "progressLabel": "The way",
+    "character": "faithful",
+    "coords": [-0.4917, 52.0264],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The straight, narrow way Christian is told to keep is the allegory's central road, not a literal highway. A local Bedfordshire tradition connects the pilgrim's route south from Bedford with the old road toward Ampthill, the way Bunyan himself would have walked. Anchored to his real Bedfordshire; the pin marks Ampthill.",
+    "reference": "The way",
+    "order": 4,
+    "note": "Christian is commanded to keep to the narrow way and not turn aside, and much of the book is the temptation to leave it for easier paths. Faithful, his companion for a stretch, walks the same road and dies for it at Vanity Fair. Bunyan's readers around Bedford matched the pilgrim's route to the familiar road running south toward Ampthill.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Ampthill, Wikipedia, on the Bedfordshire town on the old road",
+        "url": "https://en.wikipedia.org/wiki/Ampthill"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Pilgrim's Progress, Wikipedia, on the way and Vanity Fair",
+        "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "barton-hills-delectable-mountains",
+    "name": "The Barton Hills, the Delectable Mountains",
+    "progressLabel": "The Delectable Mountains",
+    "character": "christian",
+    "coords": [-0.4167, 52.0167],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Delectable Mountains, from which the shepherds show the pilgrims a distant sight of the Celestial City, are an allegorical vista, not a named range. A long-standing Bedfordshire tradition identifies them with the Barton Hills at the edge of the Chilterns, the highest ground Bunyan knew. Anchored to his real Bedfordshire.",
+    "reference": "The Delectable Mountains",
+    "order": 5,
+    "note": "Near the journey's end the pilgrims climb the Delectable Mountains, where shepherds feed their flocks and let them glimpse, far off, the shining city they are walking toward. It is the book's moment of rest and hope before the last dangers. Local tradition places these heights at the Barton Hills, the chalk ridge of the Chilterns south of Bedford.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Barton Hills National Nature Reserve, Wikipedia, on the Chiltern ridge of the tradition",
+        "url": "https://en.wikipedia.org/wiki/Barton_Hills_National_Nature_Reserve"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "The Pilgrim's Progress, Wikipedia, on the Delectable Mountains",
+        "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

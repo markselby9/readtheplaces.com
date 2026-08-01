@@ -1,0 +1,127 @@
+[
+  {
+    "id": "salinas-river-bank",
+    "name": "The Salinas River bank",
+    "progressLabel": "Ch. 1",
+    "character": "george",
+    "coords": [-121.34, 36.385],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The opening places the sandy pool and willow bank a few miles south of Soledad on the Salinas River. The exact spot is unnamed; sited on the river just south of the town where the text puts it.",
+    "reference": "Ch. 1",
+    "order": 1,
+    "note": "George and Lennie camp by the green pool the night before they start work, and George lays down the plan: if trouble comes, Lennie is to return here and wait. The quiet riverbank is both the book's opening and its closing, the only patch of the world that is theirs. Everything between happens under its shadow.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Salinas River, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salinas_River_(California)"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Of Mice and Men, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ranch-bunkhouse",
+    "name": "The ranch bunkhouse",
+    "progressLabel": "Ch. 2",
+    "character": "slim",
+    "coords": [-121.31, 36.43],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The barley ranch is never named or precisely located; the text sets it near Soledad, within walking distance of the river camp. Sited just east of Soledad in the valley bottomland as a representative spot for such a ranch.",
+    "reference": "Ch. 2-3",
+    "order": 2,
+    "note": "In the long bunkhouse George and Lennie meet the men they will work beside: old Candy, the quiet mule skinner Slim, and the boss's dangerous son Curley. Here the dream of a little farm briefly seems reachable when Candy offers his savings. The room's talk and tension set everything in motion.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Of Mice and Men, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+      },
+      {
+        "kind": "guide",
+        "ref": "Soledad, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soledad,_California"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ranch-barn",
+    "name": "The barn",
+    "progressLabel": "Ch. 5",
+    "character": "lennie",
+    "coords": [-121.308, 36.432],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The barn is part of the same unnamed ranch and is not separately located in the text. Sited a short way from the bunkhouse on the same valley ranch site.",
+    "reference": "Ch. 5",
+    "order": 3,
+    "note": "Alone in the barn with a dead pup and then with Curley's wife, Lennie's uncontrolled strength turns fatal. The accident here breaks the dream for good and sends him running for the river. It is the hinge on which the whole tragedy swings.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Of Mice and Men, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+      },
+      {
+        "kind": "guide",
+        "ref": "Soledad, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soledad,_California"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "soledad-town",
+    "name": "The town of Soledad",
+    "progressLabel": "Setting",
+    "character": "curley",
+    "coords": [-121.3258, 36.4247],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Soledad is named directly as the town the ranch lies near and where the men go on Saturday nights.",
+    "reference": "Ch. 1-3",
+    "order": 4,
+    "note": "The small Salinas Valley town is where the ranch hands blow their pay and where Curley and the others head for a night out, leaving the vulnerable behind. Its name, Spanish for solitude, hangs over a book about lonely men with no roots. It anchors the story's real geography.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Soledad, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soledad,_California"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Of Mice and Men, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gabilan-mountains",
+    "name": "The Gabilan mountains, east",
+    "progressLabel": "Ch. 1 & 6",
+    "character": "george",
+    "coords": [-121.15, 36.46],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Gabilan mountains are named in the opening and closing descriptions, the range whose flame-colored crests rise east of the river. Sited on the Gabilan range east of Soledad.",
+    "reference": "Ch. 1 & 6",
+    "order": 5,
+    "note": "The Gabilans glow in the low sun over the river in both the first and last chapters, framing the story's brief span. Their warm light watches the opening hope and the closing loss alike. Steinbeck uses the range as the book's silent, indifferent horizon.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Gabilan Range, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gabilan_Range"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Of Mice and Men, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

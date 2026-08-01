@@ -1,0 +1,130 @@
+[
+  {
+    "id": "rochester-bull-inn",
+    "name": "The Bull Inn, Rochester",
+    "progressLabel": "Chapter 2",
+    "character": "jingle",
+    "coords": [0.5045, 51.3897],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Pickwickians put up at the Bull at Rochester on their first excursion; sited at the real coaching inn on Rochester High Street, later the Royal Victoria and Bull Hotel. Marked outside the setting box as an excursion into Kent.",
+    "reference": "Chapter 2",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "On the club's first journey out of town the travellers reach the old cathedral city of Rochester and lodge at its chief coaching inn. Here the smooth-talking stranger Mr Jingle borrows Mr Winkle's coat for the charity ball and provokes a near-duel. The Bull sets the pattern for the whole book: a good inn, a fine dinner, and a scrape born of misunderstanding.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Pickwick Papers, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Royal Victoria and Bull Hotel, Rochester, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Royal_Victoria_and_Bull_Hotel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ipswich-great-white-horse",
+    "name": "The Great White Horse, Ipswich",
+    "progressLabel": "Chapter 22",
+    "character": "pickwick",
+    "coords": [1.1567, 52.0586],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names the Great White Horse at Ipswich; sited at the real inn on Tavern Street. Marked outside the setting box as an excursion into Suffolk.",
+    "reference": "Chapter 22",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "Pursuing Jingle to Suffolk, Mr Pickwick stops at a rambling old inn and loses his way among its corridors at bedtime. He blunders into the wrong room and the wrong bed, occupied by a middle-aged lady in yellow curl-papers, and the mortifying mix-up nearly costs him a breach-of-promise suit of its own. It is the book's most famous comedy of an inn's confusing geography.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Pickwick Papers, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Great White Horse Hotel, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_White_Horse_Hotel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bath-pump-room",
+    "name": "The Pump Room, Bath",
+    "progressLabel": "Chapter 35",
+    "character": "sam",
+    "coords": [-2.3597, 51.3813],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The party takes the waters at Bath; sited at the real Grand Pump Room beside the Roman Baths. Marked outside the setting box as an excursion into Somerset.",
+    "reference": "Chapter 35-36",
+    "order": 3,
+    "outsideSetting": true,
+    "note": "Advised that the waters will do him good, Mr Pickwick joins the fashionable crowd at Bath, drinking his daily glass under the master of ceremonies' eye. Below stairs Sam Weller falls in with the town's self-important footmen and their genteel airs, and the club nearly loses a member to a moonlit elopement. Bath gives Dickens his set-piece on Regency snobbery at play.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Pickwick Papers, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pump Room, Bath, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pump_Room,_Bath"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "george-and-vulture-city",
+    "name": "The George and Vulture, City of London",
+    "progressLabel": "Chapter 26",
+    "character": "pickwick",
+    "coords": [-0.0873, 51.5133],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Dickens names the George and Vulture as Mr Pickwick's London lodging; sited at the real chophouse in Castle Court off Lombard Street in the City.",
+    "reference": "Chapter 26",
+    "order": 4,
+    "note": "When in town Mr Pickwick and Sam Weller lodge at an old City tavern tucked in a court off Lombard Street. It is here that Mrs Bardell's lawyers serve him over the pretended promise of marriage, and here the loyal Sam plots the club's affairs over dinner. The George and Vulture is Pickwick's fixed London address, the still point of all the rambling.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Pickwick Papers, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The George & Vulture, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_George_%26_Vulture"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "fleet-prison-london",
+    "name": "The Fleet Prison",
+    "progressLabel": "Chapter 40",
+    "character": "pickwick",
+    "coords": [-0.105, 51.515],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Mr Pickwick is committed to the Fleet, London's debtors' prison; sited at the real prison's location off Farringdon Street, demolished in the mid-19th century.",
+    "reference": "Chapter 40-45",
+    "order": 5,
+    "note": "Rather than pay the damages awarded against him in the Bardell suit he believes unjust, Mr Pickwick chooses prison, and enters the squalid world of the Fleet's debtors. Among the ruined and the desperate his comic geniality darkens into real compassion, and only Sam's devotion and a stroke of mercy bring him out. The prison is where the book's laughter turns, briefly, to conscience.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Pickwick Papers, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Fleet Prison, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fleet_Prison"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

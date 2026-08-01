@@ -1,0 +1,127 @@
+[
+  {
+    "id": "theatre-des-varietes",
+    "name": "Théâtre des Variétés, Passage des Panoramas",
+    "progressLabel": "Chapter 1",
+    "character": "nana",
+    "coords": [2.3419, 48.8713],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens at the Théâtre des Variétés on the Boulevard Montmartre, beside the Passage des Panoramas, where Nana makes her sensational stage debut. The theatre is real and named; the pin marks it.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "At the Théâtre des Variétés, the unknown Nana walks on as Venus and, though she can barely act or sing, conquers the whole house with her body alone. The boulevard theatre and the shabby-glamorous Passage des Panoramas beside it are the launch pad of her career. From this stage her power over the men of Paris begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nana (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nana_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Théâtre des Variétés, Boulevard Montmartre",
+        "url": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Vari%C3%A9t%C3%A9s"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bois-de-boulogne",
+    "name": "The Bois de Boulogne",
+    "progressLabel": "Chapter 8",
+    "character": "nana",
+    "coords": [2.25, 48.862],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Nana parades in her carriage among fashionable Paris in the Bois de Boulogne, the great park on the western edge of the city. It is named in the novel; the pin marks the park's central drives.",
+    "reference": "Chapter 8",
+    "order": 2,
+    "note": "The Bois de Boulogne is where Nana shows herself off to Paris, driving through the park in a fine carriage among the very society women she outshines. The daily parade of the fashionable world is exactly the arena where a courtesan's status is measured and displayed. Her triumph here is public proof of how far she has climbed.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nana (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nana_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Bois de Boulogne, Paris",
+        "url": "https://en.wikipedia.org/wiki/Bois_de_Boulogne"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hotel-avenue-de-villiers",
+    "name": "Nana's mansion, avenue de Villiers",
+    "progressLabel": "Chapter 10",
+    "character": "muffat",
+    "coords": [2.305, 48.883],
+    "placeCertainty": "inferred",
+    "certaintyNote": "At the height of her power Nana keeps a lavish private mansion on the avenue de Villiers, in the smart 17th arrondissement. The house is fictional but the avenue is named and real; the pin marks the avenue de Villiers.",
+    "reference": "Chapter 10",
+    "order": 3,
+    "note": "Nana's mansion on the avenue de Villiers is the golden trap where she devours fortunes, and Count Muffat, the pious chamberlain who abandons everything for her, is ruined inside its gilded rooms. The house swallows the wealth of a whole procession of men. Zola makes it an emblem of the appetite eating away at the Empire's ruling class.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nana (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nana_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Avenue de Villiers, 17th arrondissement of Paris",
+        "url": "https://en.wikipedia.org/wiki/Avenue_de_Villiers"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "longchamp-racecourse",
+    "name": "Longchamp, the Grand Prix de Paris",
+    "progressLabel": "Chapter 11",
+    "character": "nana",
+    "coords": [2.228, 48.857],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The famous racing chapter unfolds at the Longchamp hippodrome in the Bois de Boulogne on the day of the Grand Prix de Paris. The racecourse is real and named; the pin marks the Hippodrome de Longchamp.",
+    "reference": "Chapter 11",
+    "order": 4,
+    "note": "At Longchamp on the day of the Grand Prix, a filly named Nana wins the great race, and the crowd's roar for the horse becomes a roar for the woman. Zola stages the whole glittering, feverish society of the Empire around the track. The coincidence of names turns the courtesan's triumph into a piece of public theatre.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nana (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nana_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Longchamp Racecourse, Bois de Boulogne",
+        "url": "https://en.wikipedia.org/wiki/Longchamp_Racecourse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grand-hotel-capucines",
+    "name": "The Grand Hôtel, Boulevard des Capucines",
+    "progressLabel": "Chapter 14",
+    "character": "nana",
+    "coords": [2.3313, 48.8703],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel ends with Nana dying of smallpox in a room at the Grand Hôtel on the Boulevard des Capucines, near the Opéra, as the crowds below cry out for war in July 1870. The hotel is real and named; the pin marks it.",
+    "reference": "Chapter 14",
+    "order": 5,
+    "note": "Nana dies alone and disfigured by smallpox in a room at the Grand Hôtel, while outside on the boulevard the crowds shout for the war that will topple the Empire. Zola ties her ruined beauty to the doomed regime she embodied. The glamorous body that dazzled Paris rots away just as the Second Empire marches to its own catastrophe.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nana (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nana_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "InterContinental Paris Le Grand (the Grand Hôtel), Boulevard des Capucines",
+        "url": "https://en.wikipedia.org/wiki/InterContinental_Paris_Le_Grand_Hotel"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

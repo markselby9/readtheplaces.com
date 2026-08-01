@@ -1,0 +1,33 @@
+{
+  "id": "the-sun-also-rises",
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "published": 1926,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-1.6, 42.87],
+  "zoom": 6,
+  "setting": {
+    "city": "Pamplona",
+    "country": "ES",
+    "note": "A restless group of expatriates drifts from 1920s Paris to the fiesta of San Fermín in Pamplona, where the bulls, the drink and their tangled loves come to a head before scattering again.",
+    "bbox": [-1.7, 42.78, -1.3, 43.03]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ernest Hemingway, first published 1926. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Sun Also Rises, Ernest Hemingway (1926). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of the fiesta sashes and the bullring. A cited book's colour is not a quotation; this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jake": { "name": "Jake Barnes", "color": "#2E5064" },
+    "brett": { "name": "Lady Brett Ashley", "color": "#6B3B5A" },
+    "cohn": { "name": "Robert Cohn", "color": "#4A4A4A" }
+  }
+}

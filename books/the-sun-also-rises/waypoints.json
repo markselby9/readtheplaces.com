@@ -1,0 +1,128 @@
+[
+  {
+    "id": "paris-montparnasse",
+    "name": "Montparnasse, Paris",
+    "progressLabel": "Book 1",
+    "character": "jake",
+    "coords": [2.322, 48.8422],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The novel opens in the Montparnasse café world Hemingway names directly; sited on the real quarter around the Boulevard du Montparnasse, deliberately outside the Pamplona bbox as the book's starting frame.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "Before Spain there is Paris: the cafés, the drinking, and the aimless circling of Jake, Brett and their friends. Montparnasse establishes the wound at the centre of the book, Jake's longing for Brett and the restlessness that sends them all south.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sun Also Rises, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Montparnasse, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Montparnasse"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "burguete-irati-fishing",
+    "name": "Burguete and the Irati river",
+    "progressLabel": "The fishing",
+    "character": "jake",
+    "coords": [-1.335, 42.9908],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel names Burguete and the trout fishing on the Irati; pinned on the real village of Auritz/Burguete in the Navarrese Pyrenees above Pamplona.",
+    "reference": "Chapters 11–12",
+    "order": 2,
+    "note": "Away from the crowd, Jake and Bill fish the cold Irati and drink wine in the hills above Pamplona. It is the one clean, happy stretch of the book, a male friendship at ease before the fiesta pulls everyone back into jealousy and noise.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sun Also Rises, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Auritz/Burguete, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Auritz/Burguete"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pamplona-plaza-del-castillo",
+    "name": "Plaza del Castillo and the Hotel La Perla",
+    "progressLabel": "The fiesta",
+    "character": "brett",
+    "coords": [-1.6427, 42.8184],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The great central square of Pamplona; the Hotel La Perla on its corner is the real inn tied to Hemingway and to Montoya's hotel in the novel, sited here on the plaza.",
+    "reference": "Chapters 13–17",
+    "order": 3,
+    "note": "The Plaza del Castillo is the fiesta's living room, ringed by cafés where the group drinks and quarrels through San Fermín. At the hotel here, the aficionado Montoya keeps his faith in Jake until Brett's pursuit of the young bullfighter breaks it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sun Also Rises, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Plaza del Castillo, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plaza_del_Castillo"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pamplona-calle-estafeta",
+    "name": "Calle Estafeta, the running of the bulls",
+    "progressLabel": "The encierro",
+    "character": "cohn",
+    "coords": [-1.641, 42.8188],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The long straight of Calle Estafeta is the real heart of the encierro route through Pamplona's old town, run each morning of San Fermín.",
+    "reference": "Chapter 15",
+    "order": 4,
+    "note": "Each dawn the bulls run through these streets to the ring, and the danger gives the fiesta its edge. Hemingway's precise attention to the encierro turns spectacle into a test of nerve that quietly judges every man in the group.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sun Also Rises, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Running of the Bulls, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Running_of_the_Bulls"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pamplona-plaza-de-toros",
+    "name": "Plaza de Toros de Pamplona",
+    "progressLabel": "The bullfight",
+    "character": "brett",
+    "coords": [-1.6386, 42.8159],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The real bullring at the end of the encierro route, where the afternoon corridas of San Fermín are held; pinned on the arena on the Paseo Hemingway.",
+    "reference": "Chapters 15–18",
+    "order": 5,
+    "note": "In the ring the book's admiration for grace under pressure finds its clearest form in the young matador Romero. Brett's infatuation with him, watched by the wounded Jake, brings the fiesta's tensions to their breaking point before everyone scatters.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Sun Also Rises, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Plaza de toros de Pamplona, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plaza_de_toros_de_Pamplona"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

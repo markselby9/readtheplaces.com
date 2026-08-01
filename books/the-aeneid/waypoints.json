@@ -1,0 +1,129 @@
+[
+  {
+    "id": "troy-hisarlik",
+    "name": "Troy (Hisarlik), the city that burns",
+    "progressLabel": "Book 2",
+    "character": "aeneas",
+    "coords": [26.2389, 39.9575],
+    "placeCertainty": "disputed",
+    "certaintyNote": "The fall of Troy is the fixed backstory Aeneas flees; Troy is most widely identified with the mound of Hisarlik in northwest Turkey, though the identification is debated. Marked outsideSetting: it lies far east of Italy, off the map's frame.",
+    "reference": "Book 2",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "The poem's great flashback is the night Troy falls to the wooden horse, and Aeneas carries his father on his back out of the flames with his son at his side. Everything that follows is the search for a second home to replace this lost one. Its likely site is the ruin-mound of Hisarlik above the Dardanelles.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Hisarlik, Wikipedia, on the site widely identified as Troy",
+        "url": "https://en.wikipedia.org/wiki/Hisarlik"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Aeneid, Wikipedia, on the fall of Troy in Book 2",
+        "url": "https://en.wikipedia.org/wiki/Aeneid"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "carthage-byrsa",
+    "name": "Carthage, the Byrsa hill (Dido's city)",
+    "progressLabel": "Books 1, 4",
+    "character": "dido",
+    "coords": [10.3233, 36.8525],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Carthage is a real ancient city on the coast of modern Tunis, and the Byrsa is the citadel hill at its heart where Dido's legend places her palace; the poem's Carthage is legendary but the place is real. Marked outsideSetting: it lies across the sea in North Africa, off the map's frame.",
+    "reference": "Books 1, 4",
+    "order": 2,
+    "outsideSetting": true,
+    "note": "Shipwrecked on the African coast, Aeneas is taken in by Dido, the queen building Carthage, and the two fall into a love that nearly ends his mission. When the gods order him on, she kills herself on a pyre and curses his descendants, seeding the enmity of Rome and Carthage. The pin marks the Byrsa, the hill her city rose around.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Byrsa, Wikipedia, on the citadel hill of ancient Carthage",
+        "url": "https://en.wikipedia.org/wiki/Byrsa"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Dido, Wikipedia, on the queen of Carthage in the Aeneid",
+        "url": "https://en.wikipedia.org/wiki/Dido"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cumae-sibyls-cave",
+    "name": "Cumae and the Sibyl's cave",
+    "progressLabel": "Book 6",
+    "character": "aeneas",
+    "coords": [14.0531, 40.8483],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cumae is a real Greek colony on the coast north of Naples, and the poem names it as the Sibyl's seat; the rock-cut gallery at the site is shown as her cave. This is a genuine, visitable archaeological place, not a legendary siting.",
+    "reference": "Book 6",
+    "order": 3,
+    "note": "At Cumae, Aeneas seeks out the Sibyl, who leads him down into the underworld to meet the shade of his father and see the parade of unborn Romans who will spring from his line. It is the hinge of the whole poem, where the past he is fleeing turns into the future he is founding. The site above the bay is real and still walked.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cumae, Wikipedia, on the ancient site and its rock-cut galleries",
+        "url": "https://en.wikipedia.org/wiki/Cumae"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Cumaean Sibyl, Wikipedia, on the prophetess of Book 6",
+        "url": "https://en.wikipedia.org/wiki/Cumaean_Sibyl"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lavinium-latium",
+    "name": "Lavinium, the landfall in Latium",
+    "progressLabel": "Books 7-12",
+    "character": "turnus",
+    "coords": [12.478, 41.6431],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The poem has the Trojans land at the mouth of the Tiber and settle in Latium, where the city of Lavinium is founded and named for Lavinia. Lavinium is a real archaeological site at Pratica di Mare, traditionally identified with the legend; the pin marks it as the inferred landing-ground, not a named coordinate in the text.",
+    "reference": "Books 7-12",
+    "order": 4,
+    "note": "Reaching Latium at last, Aeneas is promised Lavinia, the local king's daughter, and the promise ignites the war that fills the poem's second half. Turnus, her other suitor, leads the Latin and Rutulian resistance, and the fighting decides who will father the Roman people. Lavinium, the town Aeneas founds and names for her, survives as a site south of Rome.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Lavinium, Wikipedia, on the Latin site tied to the Aeneas legend",
+        "url": "https://en.wikipedia.org/wiki/Lavinium"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Aeneid, Wikipedia, on the war in Latium",
+        "url": "https://en.wikipedia.org/wiki/Aeneid"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "palatine-future-rome",
+    "name": "The Palatine, the future site of Rome",
+    "progressLabel": "Book 8",
+    "character": "aeneas",
+    "coords": [12.4869, 41.8892],
+    "placeCertainty": "explicit",
+    "certaintyNote": "In Book 8 Aeneas is shown the site of the future Rome by Evander, whose settlement stands on the Palatine; the hill is a real, named place at the centre of Rome. The vision is legendary but the ground is exact.",
+    "reference": "Book 8",
+    "order": 5,
+    "note": "Evander walks Aeneas over the low hills where cattle graze and points out the places that will one day be the Forum and the Capitol, and the poem lets the reader see empire in a field. The Palatine, where Evander's poor town stands, is the hill Rome's own founding legend puts Romulus on. It is the poem's true destination, the ground the whole voyage was for.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Palatine Hill, Wikipedia, on the central hill of Rome",
+        "url": "https://en.wikipedia.org/wiki/Palatine_Hill"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Aeneid, Wikipedia, on Evander and the site of Rome in Book 8",
+        "url": "https://en.wikipedia.org/wiki/Aeneid"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

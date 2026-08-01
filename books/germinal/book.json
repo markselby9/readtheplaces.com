@@ -1,0 +1,34 @@
+{
+  "id": "germinal",
+  "title": "Germinal",
+  "author": "Émile Zola",
+  "published": 1885,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [3.5, 50.37],
+  "zoom": 10.5,
+  "setting": {
+    "city": "Anzin",
+    "country": "FR",
+    "note": "In the coal country of northern France in the 1860s, a drifter takes work at a pit and is drawn into a doomed miners' strike, told across the pit head, the terraced coron and the slag heap of a whole company town.",
+    "bbox": [3.24, 50.32, 3.58, 50.44]
+  },
+  "rights": {
+    "originalWork": "Public domain. Émile Zola, first published 1885; the author died in 1902. Mapped here as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Germinal_(novel)",
+    "territoryNotes": "Locations and original commentary only. No text is reproduced, in any territory.",
+    "attribution": "Germinal, Émile Zola (1885). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The banked fire of the pit and of the strike that flares up in it, the red seed of the title. A dark ember tone that clears WCAG AA on paper."
+  },
+  "characters": {
+    "etienne": { "name": "Étienne Lantier", "color": "#2E5064" },
+    "maheu": { "name": "Maheu", "color": "#4A4A4A" },
+    "catherine": { "name": "Catherine Maheu", "color": "#6B3B5A" },
+    "chaval": { "name": "Chaval", "color": "#8A3B1E" }
+  }
+}

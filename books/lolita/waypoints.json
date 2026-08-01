@@ -1,0 +1,129 @@
+[
+  {
+    "id": "ramsdale-new-england-town",
+    "name": "Ramsdale, the Haze house",
+    "progressLabel": "Part 1",
+    "character": "humbert",
+    "coords": [-73.3612, 42.1959],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Ramsdale is a fictional New England town and appears on no map. It is anchored here to Great Barrington in the western Massachusetts Berkshires, the kind of leafy small town Nabokov drew on, as a representative real-world stand-in rather than an identified location.",
+    "reference": "Part 1, ch. 10-17",
+    "order": 1,
+    "note": "Humbert takes lodgings in the Haze household in the quiet town of Ramsdale and is undone at once by the sight of the widow's daughter Dolores sunning herself in the yard. He marries the mother to stay near the child; when the mother dies under a car, the road opens in front of him.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lolita, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolita"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Great Barrington, Massachusetts, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Barrington,_Massachusetts"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "beardsley-college-town",
+    "name": "Beardsley, the school and college town",
+    "progressLabel": "Part 2",
+    "character": "lolita",
+    "coords": [-72.5199, 42.3732],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Beardsley and its women's college are invented and unlocated. Anchored to Amherst, a real western Massachusetts college town, as a representative model for the tidy New England academic place Nabokov imagined; not an identification of Amherst as Beardsley.",
+    "reference": "Part 2, ch. 4-14",
+    "order": 2,
+    "note": "After the first year on the road, Humbert settles Dolores in the college town of Beardsley and enrols her in a girls' school, playing the strict widowed father. The stability is a cage; her rehearsals for the school play become the cover under which Quilty makes contact and the second flight begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lolita, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolita"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Amherst, Massachusetts, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amherst,_Massachusetts"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "western-highway-motels",
+    "name": "The cross-country motel road",
+    "progressLabel": "Part 2",
+    "character": "humbert",
+    "coords": [-109.2029, 41.5875],
+    "placeCertainty": "inferred",
+    "outsideSetting": true,
+    "certaintyNote": "The two motoring years cover thousands of real miles of American highway with no single home. This pin sits on the old transcontinental route across Wyoming, far outside the New England setting, to stand for the endless West of gas stations and tourist courts through which Humbert drives Dolores.",
+    "reference": "Part 2, ch. 1-3",
+    "order": 3,
+    "note": "For the better part of two years Humbert keeps Dolores moving from motel to motel along the real highways of the American West, cataloguing the roadside kitsch with a connoisseur's eye while a child's life is spent in the passenger seat. The open road, that great American promise of freedom, is here the instrument of her captivity.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lolita, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolita"
+      },
+      {
+        "kind": "external",
+        "ref": "Vladimir Nabokov, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Nabokov"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "elphinstone-rocky-mountain-town",
+    "name": "Elphinstone, where Lolita vanishes",
+    "progressLabel": "Part 2",
+    "character": "lolita",
+    "coords": [-107.8123, 37.9375],
+    "placeCertainty": "inspired_by",
+    "outsideSetting": true,
+    "certaintyNote": "Elphinstone is a fictional Rocky Mountain resort town, far outside the New England setting. It is anchored to Telluride, Colorado, a mountain town where Nabokov famously hunted butterflies in 1951 and which is a documented touchstone for the western scenes, as a representative model rather than a strict identification.",
+    "reference": "Part 2, ch. 22",
+    "order": 4,
+    "note": "In the mountain town of Elphinstone, Dolores falls ill and is taken to hospital, and from there she disappears, spirited away by the man who has been shadowing them. Humbert loses her without ever seeing the face of his rival, and the loss cracks the narrative open into pursuit and breakdown.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lolita, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolita"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Telluride, Colorado, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Telluride,_Colorado"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pavor-manor-final-confrontation",
+    "name": "Pavor Manor, the reckoning with Quilty",
+    "progressLabel": "Part 2",
+    "character": "quilty",
+    "coords": [-73.25, 42.3],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pavor Manor, Quilty's house near Parkington, is fictional and unmapped. It is placed here in the Berkshires within reach of Ramsdale, matching the novel's sense that Humbert circles back toward where it started; a representative siting, not a real house.",
+    "reference": "Part 2, ch. 35",
+    "order": 5,
+    "note": "Years later Humbert tracks the playwright Clare Quilty to his sprawling country house and shoots him in a scene that turns into grotesque farce. Naming Quilty at last, Humbert admits the rival was only a darker mirror of himself, and the killing settles nothing about the girl he ruined.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lolita, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolita"
+      },
+      {
+        "kind": "heritage",
+        "ref": "The Berkshires, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Berkshires"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

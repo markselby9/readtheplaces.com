@@ -1,0 +1,127 @@
+[
+  {
+    "id": "marchiennes-road",
+    "name": "The road from Marchiennes",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "etienne",
+    "coords": [3.2892, 50.4008],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens with Étienne walking through the night along the road from Marchiennes to the fictional Montsou. Marchiennes is a real town near Douai, named in the book; the pin marks it at the western edge of the coal district.",
+    "reference": "Part 1, ch. 1",
+    "order": 1,
+    "note": "The book begins on the open road out of Marchiennes, where the jobless Étienne Lantier tramps through a freezing night toward the glow of a coal pit. Marchiennes is the real northern town that fixes the fictional Montsou in a genuine landscape. His arrival on foot, cold and broke, is the door into the whole underground world of the mine.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Germinal (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Marchiennes, Nord",
+        "url": "https://en.wikipedia.org/wiki/Marchiennes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "le-voreux-pit-head",
+    "name": "Le Voreux, the pit head",
+    "progressLabel": "Part 1",
+    "character": "maheu",
+    "coords": [3.503, 50.372],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Le Voreux, the pit that seems to devour its men, is fictional. Zola built it and the whole company town of Montsou from his 1884 research in the Anzin collieries near Valenciennes; the pin marks Anzin, the real coalfield he drew on.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "Le Voreux is the great pit at the centre of the novel, its winding gear and furnaces looming over the plain like a beast that swallows the miners each dawn. Maheu, a hewer from a long line of them, takes Étienne down into the choking galleries where families cut coal in the dark for almost nothing. Montsou and its pit are invented, but Zola modelled them closely on the real Anzin mines.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Germinal (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Anzin, historic coal-mining town in the Nord",
+        "url": "https://en.wikipedia.org/wiki/Anzin"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "coron-miners-village",
+    "name": "The coron, the miners' village",
+    "progressLabel": "Part 2",
+    "character": "catherine",
+    "coords": [3.495, 50.365],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The coron, the long rows of identical company cottages where the Maheu family lives, is Zola's fictional Village des Deux-Cent-Quarante. It is modelled on the real terraced corons the mining company built at Anzin; the pin marks that housing ground beside the pit.",
+    "reference": "Part 2",
+    "order": 3,
+    "note": "The coron is the cramped brick terrace where the Maheus and their neighbours are packed together, sharing walls, hunger and gossip. Catherine Maheu, still a girl, hauls coal underground by day and comes home to this crowded house where privacy is impossible. The village of identical company cottages shows how completely the mine owned its workers' lives, above ground as well as below.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Germinal (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Corons, the terraced miners' housing of northern France",
+        "url": "https://en.wikipedia.org/wiki/Coron_(habitat)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "slag-heap-terri",
+    "name": "The slag heap",
+    "progressLabel": "Part 5",
+    "character": "chaval",
+    "coords": [3.488, 50.36],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The terril, the towering black spoil heap beside the pit, is a real feature of the coalfield that Zola makes into a recurring landmark of fictional Montsou. The pin marks the Anzin pit surroundings the novel is modelled on, where such heaps rose over the plain.",
+    "reference": "Part 5",
+    "order": 4,
+    "note": "The slag heap looms over the pit and the strike, a black man-made mountain of the region's waste and the backdrop to some of the story's ugliest scenes. It is near here that the brutal, jealous Chaval fights Étienne and forces Catherine between them. As hunger sharpens the strike, the ground around the heap becomes a place of confrontation and violence.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Germinal (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Terril, the spoil tips of the Nord-Pas-de-Calais coalfield",
+        "url": "https://en.wikipedia.org/wiki/Spoil_tip"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "valenciennes",
+    "name": "Valenciennes, the market town",
+    "progressLabel": "Part 4",
+    "character": "etienne",
+    "coords": [3.5236, 50.3579],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Valenciennes is the real market and administrative town beside the coalfield; Anzin, the collieries Zola researched, sits on its edge. The novel keeps its named places fictional, but the pin marks Valenciennes as the actual regional town the district orbits.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "Valenciennes is the nearest real town to the coalfield, the place of markets, garrisons and company offices that stands apart from the pit villages. It represents the world of owners, soldiers and shopkeepers against which the strikers press. When the miners' anger boils over, it is troops summoned from a town like this that finally break them.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Germinal (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Valenciennes, Nord",
+        "url": "https://en.wikipedia.org/wiki/Valenciennes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

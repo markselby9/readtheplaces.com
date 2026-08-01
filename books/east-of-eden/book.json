@@ -1,0 +1,35 @@
+{
+  "id": "east-of-eden",
+  "title": "East of Eden",
+  "author": "John Steinbeck",
+  "published": 1952,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-121.4, 36.4],
+  "zoom": 9,
+  "setting": {
+    "city": "Salinas",
+    "country": "US",
+    "note": "Two families work the land of California's Salinas Valley from the 1860s to the First World War, between the dry eastern hills and the town of Salinas, with the fog and vice of Monterey to the west.",
+    "bbox": [-121.95, 36.08, -120.98, 36.72],
+    "wikivoyage": "Salinas"
+  },
+  "rights": {
+    "originalWork": "In copyright. John Steinbeck, first published 1952. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/296389/east-of-eden-by-john-steinbeck/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "East of Eden, John Steinbeck (1952). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The rust of turned Salinas Valley earth. Legible on paper and clears WCAG AA."
+  },
+  "characters": {
+    "adam": { "name": "Adam Trask", "color": "#2E5064" },
+    "cal": { "name": "Cal Trask", "color": "#8A2B1E" },
+    "kate": { "name": "Cathy / Kate", "color": "#6B3B5A" },
+    "samuel": { "name": "Samuel Hamilton", "color": "#2E6B4A" }
+  }
+}

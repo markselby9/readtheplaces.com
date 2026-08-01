@@ -1,0 +1,32 @@
+{
+  "id": "the-mill-on-the-floss",
+  "title": "The Mill on the Floss",
+  "author": "George Eliot",
+  "published": 1860,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.773, 53.397],
+  "zoom": 11.5,
+  "setting": {
+    "city": "Gainsborough",
+    "country": "GB",
+    "note": "A brother and sister grow up at a riverside mill in the fictional town of St Ogg's, drawn from Gainsborough on the tidal River Trent in Lincolnshire; loyalty, thwarted love and family ruin play out along the water until a great flood carries the story to its end.",
+    "bbox": [-0.82, 53.36, -0.74, 53.43]
+  },
+  "rights": {
+    "originalWork": "First published 1860. George Eliot (Mary Ann Evans) died in 1880; the work is in the public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the text, in any territory.",
+    "attribution": "The Mill on the Floss, George Eliot (1860). Locations mapped by Read the Places; not affiliated with or endorsed by any estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green-brown of a working river, weed and mill-water and flood, the element that runs through the whole book. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "maggie": { "name": "Maggie Tulliver", "color": "#8A2B1E" },
+    "tom": { "name": "Tom Tulliver", "color": "#2E5064" }
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "wickham-place-marylebone",
+    "name": "Wickham Place, the Schlegels' London",
+    "progressLabel": "Chapter 6",
+    "character": "margaret",
+    "coords": [-0.152, 51.52],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Wickham Place is a fictional London square; Forster imagined the Schlegels in the comfortable streets of Marylebone. The pin sites their house in that district; the square itself is invented, so treat the point as the neighbourhood rather than an address.",
+    "reference": "Chapter 6-11",
+    "order": 1,
+    "note": "The Schlegel sisters keep an old family house in a quiet London square, full of books, talk and music, where they try to live by personal relations and the life of the mind. Its coming loss to redevelopment shadows the book, a sign of how the London they love is being swept away by flats and money. Wickham Place is the fragile home of the novel's cultivated ideals.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Howards End, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Howards_End"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Marylebone, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marylebone"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "simpsons-in-the-strand",
+    "name": "Simpson's-in-the-Strand",
+    "progressLabel": "Chapter 17",
+    "character": "henry-w",
+    "coords": [-0.1206, 51.5106],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Forster names Simpson's in the Strand as the scene of a dinner between Margaret and Henry Wilcox; sited at the real restaurant on the Strand.",
+    "reference": "Chapter 17",
+    "order": 2,
+    "note": "At the famous old English restaurant, over saddle of mutton carved at the table, the widower Henry Wilcox courts Margaret Schlegel in his brisk, unreflective way. The solid, carnivorous Englishness of the place stands for everything practical and prosperous that draws and troubles her. Simpson's is where the book's central, unlikely marriage of head and money is set in motion.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Howards End, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Howards_End"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Simpson's-in-the-Strand, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Simpson%27s-in-the-Strand"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "chelsea-embankment",
+    "name": "The Chelsea Embankment",
+    "progressLabel": "Chapter 13",
+    "character": "helen",
+    "coords": [-0.168, 51.4842],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Forster sets the Wilcoxes' London flat on the Chelsea Embankment; sited on the real riverside embankment beside the Thames.",
+    "reference": "Chapter 13-25",
+    "order": 3,
+    "note": "The Wilcoxes take a flat on the fashionable river frontage, all modern comfort and telephones, the opposite of the Schlegels' book-lined old house. Along this stretch of the Thames the two families' worlds keep meeting and misreading each other. The Embankment marks the moneyed, up-to-date London the Wilcoxes belong to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Howards End, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Howards_End"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Chelsea Embankment, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chelsea_Embankment"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "howards-end-rooksnest",
+    "name": "Howards End, drawn from Rooksnest",
+    "progressLabel": "Chapter 1",
+    "character": "margaret",
+    "coords": [-0.183, 51.913],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The house Howards End is closely modelled on Rooksnest, the farmhouse near Stevenage in Hertfordshire where Forster spent his childhood; this is the documented real original. Sited at Rooksnest and marked outside the setting box as it lies well beyond London.",
+    "reference": "Chapter 1-3, 44",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "The country house with its great wych-elm and hay-meadow is the emotional centre of the whole book, promised in secret to Margaret by the dying first Mrs Wilcox. Around who truly belongs to it the plot turns, until the house finds its rightful heirs at the last. Forster built it stone for stone from Rooksnest, the Hertfordshire home he loved and lost as a boy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Howards End, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Howards_End"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Stevenage, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stevenage"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "oniton-shropshire-clun",
+    "name": "Oniton, drawn from Clun",
+    "progressLabel": "Chapter 25",
+    "character": "helen",
+    "coords": [-3.03, 52.418],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Oniton Grange, the Wilcoxes' Shropshire estate, is fictional; Forster drew the town and its setting from Clun in south Shropshire, which he visited. Sited at Clun and marked outside the setting box as a far western excursion.",
+    "reference": "Chapter 25-27",
+    "order": 5,
+    "outsideSetting": true,
+    "note": "At Henry Wilcox's remote Shropshire estate a wedding party gathers, and the strands of the story knot fatefully together when Helen brings the ruined clerk Leonard Bast and his wife into the Wilcoxes' path. The border country's beauty sets off the human wreckage that follows. Oniton, drawn from the real Clun, is where charity, class and old secrets collide.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Howards End, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Howards_End"
+      },
+      { "kind": "heritage", "ref": "Clun, Wikipedia", "url": "https://en.wikipedia.org/wiki/Clun" }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

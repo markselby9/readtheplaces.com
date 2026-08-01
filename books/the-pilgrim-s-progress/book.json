@@ -1,0 +1,42 @@
+{
+  "id": "the-pilgrim-s-progress",
+  "title": "The Pilgrim's Progress",
+  "author": "John Bunyan",
+  "published": 1678,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.47, 52.08],
+  "zoom": 10,
+  "setting": {
+    "city": "Bedford",
+    "country": "GB",
+    "note": "Bunyan's allegory maps a soul's journey, not a country: Christian walks from the City of Destruction to the Celestial City through named virtues and dangers. There is no literal geography to plot, but he wrote it in Bedford gaol, and local tradition has long tied its landmarks to the real Bedfordshire he knew.",
+    "bbox": [-0.55, 51.98, -0.39, 52.17]
+  },
+  "rights": {
+    "originalWork": "First published in 1678 by John Bunyan; long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "The Pilgrim's Progress, John Bunyan (1678). Locations mapped by Read the Places; the allegorical places are anchored to Bunyan's real Bedfordshire by local tradition."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The gilded light of the Celestial City the pilgrim walks toward. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "christian": {
+      "name": "Christian",
+      "color": "#2E5064"
+    },
+    "evangelist": {
+      "name": "Evangelist",
+      "color": "#4A4A4A"
+    },
+    "faithful": {
+      "name": "Faithful",
+      "color": "#8A2B1E"
+    }
+  }
+}

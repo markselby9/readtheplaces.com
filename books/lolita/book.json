@@ -1,0 +1,33 @@
+{
+  "id": "lolita",
+  "title": "Lolita",
+  "author": "Vladimir Nabokov",
+  "published": 1955,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-73.0, 42.3],
+  "zoom": 7,
+  "setting": {
+    "city": "Great Barrington",
+    "country": "US",
+    "note": "A European emigre's obsession with a twelve-year-old girl carries them from a New England town through two years of American motels, a cross-country flight along the highways, and a final murder, all narrated from a prison cell.",
+    "bbox": [-73.45, 42.14, -72.46, 42.45]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vladimir Nabokov, first published 1955. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Lolita",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Lolita, Vladimir Nabokov (1955). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "A bruised mauve, the colour of Humbert's aestheticised cruelty. A cited book's colour is not a quotation; this shade clears WCAG AA on paper."
+  },
+  "characters": {
+    "humbert": { "name": "Humbert Humbert", "color": "#2E5064" },
+    "lolita": { "name": "Dolores \"Lolita\" Haze", "color": "#8A2B1E" },
+    "quilty": { "name": "Clare Quilty", "color": "#4A4A4A" }
+  }
+}

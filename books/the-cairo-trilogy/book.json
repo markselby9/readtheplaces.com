@@ -1,0 +1,35 @@
+{
+  "id": "the-cairo-trilogy",
+  "title": "The Cairo Trilogy",
+  "author": "Naguib Mahfouz",
+  "published": 1956,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [31.2617, 30.049],
+  "zoom": 14.5,
+  "setting": {
+    "city": "Cairo",
+    "country": "EG",
+    "note": "Three generations of the al-Jawad family live out Egypt's early-twentieth-century upheavals within a few crowded lanes of medieval Cairo, in the al-Gamaliya quarter around Bayn al-Qasrayn, the great al-Husayn mosque and the bazaars. The whole trilogy turns on a handful of real streets a walker can still trace.",
+    "bbox": [31.246, 30.038, 31.272, 30.058],
+    "wikivoyage": "Cairo"
+  },
+  "rights": {
+    "originalWork": "In copyright. Naguib Mahfouz, first published in Arabic 1956-57. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "Translated from the Arabic; the English titles Palace Walk, Palace of Desire and Sugar Street render the trilogy's three volumes. We store none of the text in any language.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Cairo_Trilogy",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory or language.",
+    "attribution": "The Cairo Trilogy, Naguib Mahfouz (1956-57). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "A deep mulberry drawn from the trilogy's mashrabiya screens and the domestic interiors where Amina waits. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "ahmad": { "name": "al-Sayyid Ahmad Abd al-Jawad", "color": "#8A2B1E" },
+    "amina": { "name": "Amina", "color": "#2E6B4A" },
+    "kamal": { "name": "Kamal", "color": "#2E5064" },
+    "yasin": { "name": "Yasin", "color": "#8A6A12" }
+  }
+}

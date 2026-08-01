@@ -1,0 +1,33 @@
+{
+  "id": "the-lord-of-the-rings",
+  "title": "The Lord of the Rings",
+  "author": "J. R. R. Tolkien",
+  "published": 1954,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.1, 51.95],
+  "zoom": 6.5,
+  "setting": {
+    "city": "Birmingham",
+    "country": "GB",
+    "note": "Middle-earth is invented, so this map holds only the documented real-world places Tolkien drew on: the West Midlands countryside of his Birmingham boyhood behind the Shire, the West Country hills and caves he lent to Rohan and Helm's Deep, and, far off the map, the alpine valley and the Great War battlefield that fed Rivendell and the Dead Marshes.",
+    "bbox": [-2.86, 51.19, -1.77, 52.53]
+  },
+  "rights": {
+    "originalWork": "In copyright. J. R. R. Tolkien, first published 1954-55. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Lord of the Rings, J. R. R. Tolkien (1954). Locations mapped by Read the Places; not affiliated with or endorsed by the author or his estate."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The deep green of the Shire's fields and the West Midlands countryside Tolkien remembered. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "frodo": { "name": "Frodo Baggins", "color": "#2E5064" },
+    "sam": { "name": "Samwise Gamgee", "color": "#8A6A12" },
+    "aragorn": { "name": "Aragorn", "color": "#5A3B8A" }
+  }
+}

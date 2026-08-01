@@ -1,0 +1,127 @@
+[
+  {
+    "id": "frydlant-bridge-inn",
+    "name": "The Bridge Inn where K. arrives",
+    "progressLabel": "Chapter 1",
+    "character": "k",
+    "coords": [15.081, 50.9185],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Village of the novel is wholly invented and never placed on any map. Kafka visited Frydlant in north Bohemia in 1911 and its castle-and-village is the documented real-world model; the fictional Bridge Inn is anchored here in the town below the castle, not to any real inn.",
+    "reference": "Chapter 1",
+    "order": 1,
+    "note": "K. reaches the village late at night and beds down in the taproom of the Bridge Inn, only to be woken and told he needs a permit from the Castle even to sleep here. The inn becomes his first foothold and his first lesson: nothing in this place happens without an authority no one can quite produce.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Castle (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Castle_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Frydlant, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%BDdlant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frydlant-village-street",
+    "name": "The village street to the Castle",
+    "progressLabel": "Chapter 2",
+    "character": "k",
+    "coords": [15.0805, 50.9198],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The single winding village street is invented. It is anchored to the real lane that climbs through Frydlant town toward the castle, as the kind of street Kafka drew on; the fictional geography is not a survey of the real town.",
+    "reference": "Chapter 2",
+    "order": 2,
+    "note": "K. sets out to walk to the Castle and finds the main street will not take him there: it curves away, keeping the same distance no matter how far he goes, and the snow swallows his effort. The street that should connect the village to its ruler instead holds them apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Castle (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Castle_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Frydlant, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%BDdlant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frydlant-castle-hill",
+    "name": "The Castle on the hill",
+    "progressLabel": "Chapter 1",
+    "character": "k",
+    "coords": [15.0808, 50.9211],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Castle of the novel is fictional, never reached and barely described. Frydlant Castle, which Kafka toured in 1911, is the accepted real-world model and stands on its rock above the town exactly here; the pin marks the model, not a place the book names.",
+    "reference": "Chapter 1",
+    "order": 3,
+    "note": "The Castle sits above the village as a straggle of low buildings that look, up close, almost shabby, its offices staffed by officials K. can never quite reach. It is less a fortress than a bureaucracy on a hill, dispensing authority through messengers, phone calls that ring emptily, and letters that arrive already out of date.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Castle (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Castle_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Frydlant, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%BDdlant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frydlant-school",
+    "name": "The school where K. becomes caretaker",
+    "progressLabel": "Chapter 5",
+    "character": "frieda",
+    "coords": [15.0788, 50.9179],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The village school is invented. It is anchored to the town of Frydlant, the real-world model for the Village, as the sort of building Kafka pictured; no specific school in the town is being identified.",
+    "reference": "Chapter 5",
+    "order": 4,
+    "note": "With no surveying work to do, K. takes a humiliating post as school caretaker, and he and Frieda end up sleeping in a classroom, harried out each morning by teacher and pupils. Frieda, whom he took from the Castle official Klamm, has thrown in her lot with him, and the cold schoolroom is where that gamble slowly sours.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Castle (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Castle_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Frydlant, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%BDdlant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "frydlant-road-up",
+    "name": "The road up toward the officials",
+    "progressLabel": "Chapter 8",
+    "character": "k",
+    "coords": [15.0818, 50.9204],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The approach road on which K. waylays officials is fictional. It is anchored to the climbing road out of Frydlant toward the castle, the real landscape Kafka used as his model, rather than to a mapped route in the book.",
+    "reference": "Chapter 8",
+    "order": 5,
+    "note": "K. keeps trying to catch officials on the road as they come and go, learning that even their comings and goings are hedged with rules he keeps breaking by accident. The unfinished novel leaves him still on this road, still not admitted, the Castle's recognition always one interview away.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Castle (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Castle_(novel)"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Frydlant, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fr%C3%BDdlant"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

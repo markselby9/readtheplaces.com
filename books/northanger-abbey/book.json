@@ -1,0 +1,33 @@
+{
+  "id": "northanger-abbey",
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "published": 1817,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.359, 51.382],
+  "zoom": 12,
+  "setting": {
+    "city": "Bath",
+    "country": "GB",
+    "note": "A bookish young woman with a head full of Gothic novels comes to fashionable Bath for the season, learns to read people rather than plots, and is then carried off to a real abbey where she must tell her lurid imaginings from the truth.",
+    "bbox": [-2.38, 51.365, -2.34, 51.395],
+    "wikivoyage": "Bath"
+  },
+  "rights": {
+    "originalWork": "Written in the late 1790s, published posthumously 1817. Jane Austen died in 1817; the work is in the public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Northanger_Abbey",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the text, in any territory.",
+    "attribution": "Northanger Abbey, Jane Austen (1817). Locations mapped by Read the Places; not affiliated with or endorsed by any estate or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "A muted plum, half Gothic gloom and half drawing-room fashion, for a book that plays one against the other. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "catherine": { "name": "Catherine Morland", "color": "#2E5064" },
+    "henry": { "name": "Henry Tilney", "color": "#8A6A12" }
+  }
+}

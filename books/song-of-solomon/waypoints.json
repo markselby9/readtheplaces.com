@@ -1,0 +1,129 @@
+[
+  {
+    "id": "not-doctor-street-mercy-hospital",
+    "name": "Not Doctor Street & Mercy Hospital",
+    "progressLabel": "Ch. 1",
+    "character": "milkman",
+    "coords": [-83.063, 42.355],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's unnamed Michigan city is drawn from Morrison's own Detroit-shaped north, though she keeps its names fictional: \"Not Doctor Street\" and \"No Mercy Hospital\" are invented plays on the city's real geography. Sited in central Detroit as the real ground the opening evokes.",
+    "reference": "Ch. 1",
+    "order": 1,
+    "note": "The book opens with an insurance man leaping from the hospital roof in his blue silk wings, and with Milkman born the next day, the first Black baby delivered inside those walls. The street the Black community renames in defiance sets the tone of a place that keeps its own history. This is the city Milkman must eventually leave to understand.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Song of Solomon (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Song_of_Solomon_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Detroit, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Detroit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "dead-household",
+    "name": "The Dead household",
+    "progressLabel": "Part 1",
+    "character": "milkman",
+    "coords": [-83.075, 42.362],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Macon Dead's respectable house on the well-to-do side of the fictional city has no real address; it is modeled on the prosperous Black neighborhoods of Morrison's imagined Detroit. Sited in the city's near-north as a representative such street.",
+    "reference": "Part 1",
+    "order": 2,
+    "note": "Milkman grows up in his father's cold, money-minded house, where property matters more than the people in it. The airless respectability here is exactly what he inherits and slowly rejects. His whole journey south begins as an escape from this address.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Song of Solomon (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Song_of_Solomon_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Detroit, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Detroit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "pilate-house-south-end",
+    "name": "Pilate's house, the south end",
+    "progressLabel": "Part 1",
+    "character": "pilate",
+    "coords": [-83.09, 42.34],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Pilate's ramshackle wine house sits at the poor southern edge of the fictional city, deliberately opposite Macon's respectable district. Sited toward the southern side of Detroit as the contrasting ground the novel sketches; the house is invented.",
+    "reference": "Part 1",
+    "order": 3,
+    "note": "At the far end of town from his father, Milkman finds his aunt Pilate, who makes wine, keeps no navel, and carries the family's real memory in songs and a bag of bones. Her house is everything his father's is not: alive, poor, and unafraid. She sends him, in the end, toward the south and the truth.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Song of Solomon (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Song_of_Solomon_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Detroit, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Detroit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "danville-pennsylvania",
+    "name": "Danville, Pennsylvania",
+    "progressLabel": "Part 2",
+    "character": "milkman",
+    "coords": [-76.6122, 40.9631],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "Danville, Pennsylvania is named directly as the place Milkman travels to on his search, the farm country where his grandfather once prospered. It lies far outside the Michigan home setting.",
+    "reference": "Part 2",
+    "order": 4,
+    "note": "Chasing a rumor of hidden gold, Milkman goes to Danville and instead finds the story of his grandfather's murdered farm and the awe he inspired in the local Black families. The gold is gone but the past opens up. The trip turns from greed into genealogy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Danville, Pennsylvania, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Danville,_Pennsylvania"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Song of Solomon (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Song_of_Solomon_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shalimar-virginia",
+    "name": "Shalimar, Virginia",
+    "progressLabel": "Part 2",
+    "character": "milkman",
+    "coords": [-79.52, 37.33],
+    "placeCertainty": "inspired_by",
+    "outsideSetting": true,
+    "certaintyNote": "Shalimar (locals say \"Shalleemone\") is a fictional hamlet, drawn by Morrison from the rural Blue Ridge country of Virginia where the flying-African legend took root. Sited in the Virginia Blue Ridge foothills as the real landscape it evokes; far outside the home setting.",
+    "reference": "Part 2",
+    "order": 5,
+    "note": "In the tiny southern town of his ancestors, Milkman decodes a children's song and learns that his great-grandfather Solomon was a slave who, in the legend, simply flew back to Africa. Standing on this ground he finally knows his own name and history. The book's flight imagery lands here, in the place it all began.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Song of Solomon (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Song_of_Solomon_(novel)"
+      },
+      {
+        "kind": "guide",
+        "ref": "Blue Ridge Mountains, Virginia, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blue_Ridge_Mountains"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

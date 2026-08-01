@@ -1,0 +1,32 @@
+{
+  "id": "a-farewell-to-arms",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "published": 1929,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [11.1, 45.72],
+  "zoom": 6,
+  "setting": {
+    "city": "Gorizia",
+    "country": "IT",
+    "note": "On the Italian front of the First World War, an American ambulance officer serving above Gorizia falls in love with an English nurse, and the two flee the collapse of the army toward neutral Switzerland.",
+    "bbox": [8.48, 45.42, 13.68, 46.0]
+  },
+  "rights": {
+    "originalWork": "In copyright. Ernest Hemingway, first published 1929. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "A Farewell to Arms, Ernest Hemingway (1929). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The grey of rain, mud and retreating columns that soaks the whole novel. A cited book's colour is not a quotation; this clears WCAG AA on paper."
+  },
+  "characters": {
+    "frederic": { "name": "Frederic Henry", "color": "#2E5064" },
+    "catherine": { "name": "Catherine Barkley", "color": "#6B3B5A" }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sentimental-education",
+  "title": "Sentimental Education",
+  "author": "Gustave Flaubert",
+  "published": 1869,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [2.34, 48.86],
+  "zoom": 12,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "A young provincial arrives in Paris in 1840 and spends the next decade drifting through its boulevards, salons and studios in love with a married woman, while the 1848 revolution rises and dies around him.",
+    "bbox": [2.3, 48.82, 2.39, 48.9],
+    "wikivoyage": "Paris"
+  },
+  "rights": {
+    "originalWork": "Public domain. Gustave Flaubert, first published 1869; the author died in 1880. Mapped here as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education",
+    "territoryNotes": "Locations and original commentary only. No text is reproduced, in any territory.",
+    "attribution": "Sentimental Education, Gustave Flaubert (1869). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The tarnished gold of lost illusions, a hero's youth spent and nothing quite achieved. A worn brass tone that clears WCAG AA on paper."
+  },
+  "characters": {
+    "frederic": { "name": "Frédéric Moreau", "color": "#2E5064" },
+    "arnoux": { "name": "Madame Arnoux", "color": "#6B3B5A" },
+    "deslauriers": { "name": "Deslauriers", "color": "#4A4A4A" }
+  }
+}
