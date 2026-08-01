@@ -23,6 +23,10 @@
     "article": "A Confederacy of Dunces",
     "views": 311835
   },
+  "a-farewell-to-arms": {
+    "article": "A Farewell to Arms",
+    "views": 248858
+  },
   "a-fine-balance": {
     "article": "A Fine Balance",
     "views": 59569
@@ -55,6 +59,10 @@
     "article": "A Passage to India",
     "views": 126922
   },
+  "a-portrait-of-the-artist-as-a-young-man": {
+    "article": "A Portrait of the Artist as a Young Man",
+    "views": 148148
+  },
   "a-room-with-a-view": {
     "article": "A Room with a View",
     "views": 121023
@@ -78,6 +86,10 @@
   "abyssinian-chronicles": {
     "article": "Abyssinian Chronicles",
     "views": 887
+  },
+  "adventures-of-huckleberry-finn": {
+    "article": "Adventures of Huckleberry Finn",
+    "views": 520334
   },
   "alamut": {
     "article": "Alamut (Bartol novel)",
@@ -267,6 +279,10 @@
     "article": "Democracy",
     "views": 513158
   },
+  "demons": {
+    "article": "Demons (Dostoevsky novel)",
+    "views": 204288
+  },
   "disgrace": {
     "article": "Disgrace",
     "views": 56506
@@ -311,6 +327,10 @@
     "article": "Dubliners",
     "views": 163019
   },
+  "east-of-eden": {
+    "article": "East of Eden (novel)",
+    "views": 760638
+  },
   "el-senor-presidente": {
     "article": "El Señor Presidente",
     "views": 14838
@@ -347,6 +367,10 @@
     "article": "For Bread Alone",
     "views": 7122
   },
+  "for-whom-the-bell-tolls": {
+    "article": "For Whom the Bell Tolls",
+    "views": 359116
+  },
   "fortress-besieged": {
     "article": "Fortress Besieged",
     "views": 10257
@@ -375,6 +399,10 @@
     "article": "Gate of the Sun",
     "views": 24955
   },
+  "germinal": {
+    "article": "Germinal (novel)",
+    "views": 60227
+  },
   "girl-at-war": {
     "article": "Girls at War",
     "views": 3111
@@ -390,6 +418,10 @@
   "great-expectations": {
     "article": "Great Expectations",
     "views": 521412
+  },
+  "gulliver-s-travels": {
+    "article": "Gulliver's Travels",
+    "views": 409887
   },
   "gullivers-travels": {
     "article": "Gulliver's Travels",
@@ -435,6 +467,10 @@
     "article": "How Green Was My Valley (novel)",
     "views": 2068
   },
+  "howards-end": {
+    "article": "Howards End",
+    "views": 116627
+  },
   "huasipungo": {
     "article": "Huasipungo",
     "views": 3515
@@ -454,6 +490,10 @@
   "in-praise-of-hatred": {
     "article": "In Praise of Hatred",
     "views": 761
+  },
+  "in-search-of-lost-time": {
+    "article": "In Search of Lost Time",
+    "views": 444035
   },
   "in-the-castle-of-my-skin": {
     "article": "In the Castle of My Skin",
@@ -539,6 +579,14 @@
     "article": "Little Women",
     "views": 717831
   },
+  "lolita": {
+    "article": "Lolita",
+    "views": 1324097
+  },
+  "lord-jim": {
+    "article": "Lord Jim",
+    "views": 83062
+  },
   "love-in-a-fallen-city": {
     "article": "Love in a Fallen City (novella)",
     "views": 12789
@@ -583,6 +631,10 @@
     "article": "Middlesex (novel)",
     "views": 111288
   },
+  "midnight-s-children": {
+    "article": "Midnight's Children",
+    "views": 153870
+  },
   "midnights-children": {
     "article": "Midnight's Children",
     "views": 153870
@@ -619,6 +671,14 @@
     "article": "My Uncle Napoleon",
     "views": 11604
   },
+  "nana": {
+    "article": "Nana (novel)",
+    "views": 34000
+  },
+  "native-son": {
+    "article": "Native Son",
+    "views": 107442
+  },
   "nedjma": {
     "article": "Nedjma",
     "views": 2996
@@ -639,9 +699,17 @@
     "article": "Noli Me Tángere (novel)",
     "views": 166260
   },
+  "northanger-abbey": {
+    "article": "Northanger Abbey",
+    "views": 207027
+  },
   "norwegian-wood": {
     "article": "Norwegian Wood (novel)",
     "views": 300894
+  },
+  "nostromo": {
+    "article": "Nostromo",
+    "views": 86230
   },
   "notre-dame-de-paris": {
     "article": "The Hunchback of Notre-Dame",
@@ -654,6 +722,10 @@
   "odessa-stories": {
     "article": "Odessa Stories",
     "views": 6146
+  },
+  "of-mice-and-men": {
+    "article": "Of Mice and Men",
+    "views": 691438
   },
   "oliver-twist": {
     "article": "Oliver Twist",
@@ -677,7 +749,7 @@
   },
   "one-hundred-years-of-solitude": {
     "article": "One Hundred Years of Solitude",
-    "views": 0
+    "views": 870609
   },
   "our-lady-of-the-assassins": {
     "article": "Our Lady of the Assassins (novel)",
@@ -702,6 +774,10 @@
   "palace-walk": {
     "article": "Palace Walk",
     "views": 14085
+  },
+  "pale-fire": {
+    "article": "Pale Fire",
+    "views": 157804
   },
   "palpasa-cafe": {
     "article": "Palpasa Café",
@@ -791,6 +867,10 @@
     "article": "Sense and Sensibility",
     "views": 560533
   },
+  "sentimental-education": {
+    "article": "Sentimental Education",
+    "views": 36350
+  },
   "shantaram": {
     "article": "Shantaram (novel)",
     "views": 160561
@@ -823,6 +903,10 @@
     "article": "Son of man",
     "views": 39450
   },
+  "song-of-solomon": {
+    "article": "Song of Solomon (novel)",
+    "views": 116286
+  },
   "sons-and-lovers": {
     "article": "Sons and Lovers",
     "views": 75115
@@ -847,6 +931,10 @@
     "article": "Taras Bulba",
     "views": 67992
   },
+  "tender-is-the-night": {
+    "article": "Tender Is the Night",
+    "views": 141893
+  },
   "tess-of-the-durbervilles": {
     "article": "Tess of the d'Urbervilles",
     "views": 253358
@@ -866,6 +954,10 @@
   "the-adventures-of-tom-sawyer": {
     "article": "The Adventures of Tom Sawyer",
     "views": 326890
+  },
+  "the-aeneid": {
+    "article": "Aeneid",
+    "views": 453600
   },
   "the-age-of-innocence": {
     "article": "The Age of Innocence",
@@ -942,6 +1034,14 @@
   "the-brothers-karamazov": {
     "article": "The Brothers Karamazov",
     "views": 804742
+  },
+  "the-cairo-trilogy": {
+    "article": "Cairo Trilogy",
+    "views": 27156
+  },
+  "the-castle": {
+    "article": "The Castle (novel)",
+    "views": 126011
   },
   "the-catcher-in-the-rye": {
     "article": "The Catcher in the Rye",
@@ -1093,11 +1193,15 @@
   },
   "the-heart-of-the-matter": {
     "article": "The Heart of the Matter",
-    "views": 0
+    "views": 38636
   },
   "the-help": {
     "article": "The Help",
     "views": 137601
+  },
+  "the-hobbit": {
+    "article": "The Hobbit",
+    "views": 630573
   },
   "the-hostage": {
     "article": "Hostage",
@@ -1163,6 +1267,10 @@
     "article": "The Line of Beauty",
     "views": 51039
   },
+  "the-lord-of-the-rings": {
+    "article": "The Lord of the Rings",
+    "views": 1494580
+  },
   "the-lost-steps": {
     "article": "The Lost Steps",
     "views": 1022
@@ -1199,6 +1307,10 @@
     "article": "The Mayor of Casterbridge",
     "views": 70515
   },
+  "the-mill-on-the-floss": {
+    "article": "The Mill on the Floss",
+    "views": 71123
+  },
   "the-ministry-of-utmost-happiness": {
     "article": "The Ministry of Utmost Happiness",
     "views": 55473
@@ -1223,6 +1335,10 @@
     "article": "The No. 1 Ladies' Detective Agency (novel)",
     "views": 8205
   },
+  "the-odyssey": {
+    "article": "Odyssey",
+    "views": 2792471
+  },
   "the-old-drift": {
     "article": "The Old Drift",
     "views": 7388
@@ -1231,13 +1347,25 @@
     "article": "The Old Man and his Sons (novel)",
     "views": 538
   },
+  "the-old-man-and-the-sea": {
+    "article": "The Old Man and the Sea",
+    "views": 443250
+  },
   "the-phantom-of-the-opera": {
     "article": "The Phantom of the Opera (novel)",
     "views": 346451
   },
+  "the-pickwick-papers": {
+    "article": "The Pickwick Papers",
+    "views": 121819
+  },
   "the-picture-of-dorian-gray": {
     "article": "The Picture of Dorian Gray",
     "views": 862215
+  },
+  "the-pilgrim-s-progress": {
+    "article": "The Pilgrim's Progress",
+    "views": 323107
   },
   "the-pillar-of-salt": {
     "article": "Lot's wife",
@@ -1298,6 +1426,10 @@
   "the-return-of-philip-latinowicz": {
     "article": "The Return of Philip Latinowicz",
     "views": 3185
+  },
+  "the-satanic-verses": {
+    "article": "The Satanic Verses",
+    "views": 438149
   },
   "the-scarlet-letter": {
     "article": "The Scarlet Letter",
@@ -1363,6 +1495,10 @@
     "article": "The Street of Crocodiles",
     "views": 17808
   },
+  "the-sun-also-rises": {
+    "article": "The Sun Also Rises",
+    "views": 336334
+  },
   "the-tailor-of-panama": {
     "article": "The Tailor of Panama",
     "views": 28504
@@ -1394,6 +1530,10 @@
   "the-tin-drum": {
     "article": "The Tin Drum",
     "views": 81052
+  },
+  "the-trial": {
+    "article": "The Trial",
+    "views": 298021
   },
   "the-truce": {
     "article": "The Truce",
