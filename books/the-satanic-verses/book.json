@@ -1,0 +1,33 @@
+{
+  "id": "the-satanic-verses",
+  "title": "The Satanic Verses",
+  "author": "Salman Rushdie",
+  "published": 1988,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.05, 51.35],
+  "zoom": 8,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Two Indian actors survive the mid-air explosion of a hijacked jet, fall onto an English beach transformed into angel and devil, and are pulled through Thatcher-era London and its immigrant East End as their fortunes and identities come apart.",
+    "bbox": [-0.2, 50.8, 0.4, 51.56],
+    "wikivoyage": "London"
+  },
+  "rights": {
+    "originalWork": "In copyright. Salman Rushdie, first published 1988. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Satanic Verses, Salman Rushdie (1988). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "A scorched orange for the falling plane and Gibreel's halo of fire. A cited book's colour is not a quotation; this shade clears WCAG AA on paper."
+  },
+  "characters": {
+    "saladin": { "name": "Saladin Chamcha", "color": "#2E5064" },
+    "gibreel": { "name": "Gibreel Farishta", "color": "#2E6B4A" }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "midnight-s-children",
+  "title": "Midnight's Children",
+  "author": "Salman Rushdie",
+  "published": 1981,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [72.82, 18.95],
+  "zoom": 5.5,
+  "setting": {
+    "city": "Mumbai",
+    "country": "IN",
+    "note": "Saleem Sinai, born on the stroke of India's independence, tells his life and the nation's together, from a Kashmir lake in 1915 through his Bombay childhood on Warden Road to the ghettos of Old Delhi and the swamps of the 1971 war. The anchor is Bombay; the story reaches the length of the subcontinent.",
+    "bbox": [72.79, 18.9, 72.85, 19.0],
+    "wikivoyage": "Mumbai"
+  },
+  "rights": {
+    "originalWork": "In copyright. Salman Rushdie, first published 1981. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Midnight%27s_Children",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Midnight's Children, Salman Rushdie (1981). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A3B1E",
+    "note": "The rust-red of Bombay's chutneys and the pickle factory where Saleem writes his life. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "saleem": { "name": "Saleem Sinai", "color": "#2E5064" },
+    "shiva": { "name": "Shiva", "color": "#8A2B1E" },
+    "padma": { "name": "Padma", "color": "#2E6B4A" }
+  }
+}

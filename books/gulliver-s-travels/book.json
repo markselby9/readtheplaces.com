@@ -1,0 +1,35 @@
+{
+  "id": "gulliver-s-travels",
+  "title": "Gulliver's Travels",
+  "author": "Jonathan Swift",
+  "published": 1726,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.07, 51.508],
+  "zoom": 11.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "Swift's satire sends its narrator to invented islands, but it frames every voyage in a real, ordinary England: a ship's surgeon from Nottinghamshire who trains and settles around the London docks and sails from English ports before the fantastical lands begin.",
+    "bbox": [-0.12, 51.495, -0.04, 51.52],
+    "wikivoyage": "London"
+  },
+  "rights": {
+    "originalWork": "First published anonymously in 1726 by Jonathan Swift; long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "Gulliver's Travels, Jonathan Swift (1726). Locations mapped by Read the Places; the fantastical islands are satirical inventions and are not mapped."
+  },
+  "palette": {
+    "accent": "#2E6B4A",
+    "note": "The green of the English shore the voyages keep returning to. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "gulliver": {
+      "name": "Lemuel Gulliver",
+      "color": "#2E5064"
+    }
+  }
+}

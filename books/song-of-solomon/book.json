@@ -1,0 +1,33 @@
+{
+  "id": "song-of-solomon",
+  "title": "Song of Solomon",
+  "author": "Toni Morrison",
+  "published": 1977,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-83.07, 42.35],
+  "zoom": 6,
+  "setting": {
+    "city": "Detroit",
+    "country": "US",
+    "note": "A well-off Black man raised in an unnamed Michigan city modeled on Detroit leaves his father's respectable house and travels south to Pennsylvania and Virginia, unearthing a family history that ends in a legend of a flying African.",
+    "bbox": [-83.12, 42.3, -83.02, 42.42]
+  },
+  "rights": {
+    "originalWork": "In copyright. Toni Morrison, first published 1977. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/168818/song-of-solomon-by-toni-morrison/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Song of Solomon, Toni Morrison (1977). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The deep violet of memory and the flying-Solomon legend. Legible on paper and clears WCAG AA."
+  },
+  "characters": {
+    "milkman": { "name": "Milkman Dead", "color": "#2E5064" },
+    "pilate": { "name": "Pilate Dead", "color": "#6B3B5A" },
+    "guitar": { "name": "Guitar", "color": "#8A2B1E" }
+  }
+}

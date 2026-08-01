@@ -1,0 +1,127 @@
+[
+  {
+    "id": "wordsmith-college-cornell",
+    "name": "Wordsmith College",
+    "progressLabel": "The commentary",
+    "character": "shade",
+    "coords": [-76.4735, 42.4534],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "New Wye and its Wordsmith College are fictional and set in an invented Appalachia. Nabokov taught at Cornell in Ithaca while writing the book, and the campus is the accepted real-world model; anchored here to central Cornell, not presented as a named location.",
+    "reference": "Foreword; note to lines 47-48",
+    "order": 1,
+    "note": "John Shade is the resident poet at Wordsmith College, and it is here that the deranged Kinbote attaches himself to him as colleague and neighbour. The genteel campus is the stage for a one-sided friendship that Kinbote will later mistake for a shared secret about kings and assassins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pale Fire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pale_Fire"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cornell University, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cornell_University"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "shade-house-above-cayuga-lake",
+    "name": "John Shade's house above the lake",
+    "progressLabel": "Note to line 47",
+    "character": "shade",
+    "coords": [-76.51, 42.47],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Shade's frame house at New Wye is fictional. Ithaca sits above the long finger of Cayuga Lake, the water Nabokov looked out on; the house is anchored to the lakeside heights here as the real-world setting the fiction draws from, not an identified address.",
+    "reference": "Note to line 47",
+    "order": 2,
+    "note": "Shade writes his poem in the old house he has lived in all his life, with Kinbote spying from next door and reading the drafts as veiled autobiography. When Shade is shot on his own lawn, Kinbote seizes the manuscript, and the poem about a poet's grief becomes the vehicle for a stranger's fantasy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pale Fire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pale_Fire"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cayuga Lake, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cayuga_Lake"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wordsmith-library",
+    "name": "The college library",
+    "progressLabel": "Note to line 949",
+    "character": "kinbote",
+    "coords": [-76.4842, 42.4479],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Wordsmith library is fictional. It is anchored to Cornell's central libraries in Ithaca, the collections Nabokov used, as the real model for the academic apparatus Kinbote both leans on and abuses; not a named place in the book.",
+    "reference": "Note to line 949",
+    "order": 3,
+    "note": "Kinbote frames his whole commentary as scholarship, complete with cross-references and a haughty index, and the college library is the natural seat of that pretence. The apparatus of learning becomes the perfect disguise for a reading that has almost nothing to do with the poem in front of it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pale Fire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pale_Fire"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cornell University, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cornell_University"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "ithaca-gorges",
+    "name": "The gorges and falls",
+    "progressLabel": "Note to line 230",
+    "character": "shade",
+    "coords": [-76.4926, 42.4569],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "New Wye's dramatic ravines are fictional detail. Ithaca is famous for the gorges and waterfalls that cut through it, and they are the real landscape behind the poem's watery, mortal imagery; anchored to Ithaca Falls as a representative point.",
+    "reference": "Note to line 230",
+    "order": 4,
+    "note": "Shade's poem circles around death, chance, and a daughter lost to drowning, and the plunging gorges of the setting give that grief its physical shape. Kinbote reads the same lines as coded signals about Zembla, and the gap between the real water and his imagined kingdom is the whole comedy of the book.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pale Fire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pale_Fire"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Ithaca, New York, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ithaca,_New_York"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "new-wye-town-ithaca",
+    "name": "The town of New Wye",
+    "progressLabel": "Foreword",
+    "character": "kinbote",
+    "coords": [-76.4966, 42.4396],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "New Wye, the college town, is invented. It is anchored to downtown Ithaca, the real town below Cornell where Nabokov lived and taught, as the model for the ordinary American place against which Kinbote's royal delusions play out; not an identification of the town in the book.",
+    "reference": "Foreword",
+    "order": 5,
+    "note": "The small town of New Wye, with its faculty parties and rented rooms, is where Kinbote lives out his exile before fleeing to write the commentary. Whether he is truly the deposed king of Zembla or a lonely, mad professor who has invented a kingdom, everything he claims sits on this modest, verifiable ground.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Pale Fire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pale_Fire"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Ithaca, New York, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ithaca,_New_York"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

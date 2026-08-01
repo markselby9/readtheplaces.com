@@ -1,0 +1,42 @@
+{
+  "id": "the-aeneid",
+  "title": "The Aeneid",
+  "author": "Virgil",
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [12.9, 41.4],
+  "zoom": 7,
+  "setting": {
+    "city": "Rome",
+    "country": "IT",
+    "note": "A Trojan refugee carries the survivors of a burning city west across the Mediterranean, is nearly held in Carthage by love, and fights his way into Latium to found the line that will become Rome; the poem's destination is the real hill Rome grew on, though its founding is legend.",
+    "bbox": [12.4, 40.75, 14.15, 41.95],
+    "wikivoyage": "Rome"
+  },
+  "rights": {
+    "originalWork": "Latin epic by Virgil, composed between about 29 and 19 BCE and long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Aeneid",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "The Aeneid, Virgil. Locations mapped by Read the Places; legendary sitings are noted as such."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The fire of Troy the poem opens in and the blood of the Latin war it ends in. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "aeneas": {
+      "name": "Aeneas",
+      "color": "#2E5064"
+    },
+    "dido": {
+      "name": "Dido",
+      "color": "#6B3B5A"
+    },
+    "turnus": {
+      "name": "Turnus",
+      "color": "#8A6A12"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "native-son",
+  "title": "Native Son",
+  "author": "Richard Wright",
+  "published": 1940,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-87.62, 41.81],
+  "zoom": 12,
+  "setting": {
+    "city": "Chicago",
+    "country": "US",
+    "note": "In 1930s Chicago, a young Black man crosses the hard color line from the crowded South Side Black Belt into a rich white household in Hyde Park, and one panicked night sets the machinery of the city against him.",
+    "bbox": [-87.71, 41.79, -87.58, 41.85],
+    "wikivoyage": "Chicago"
+  },
+  "rights": {
+    "originalWork": "In copyright. Richard Wright, first published 1940. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.harpercollins.com/products/native-son-richard-wright",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Native Son, Richard Wright (1940). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A2B1E",
+    "note": "The red of fear and fire that drives the book. Legible on paper and clears WCAG AA."
+  },
+  "characters": {
+    "bigger": { "name": "Bigger Thomas", "color": "#4A4A4A" },
+    "mary": { "name": "Mary Dalton", "color": "#2E5064" }
+  }
+}

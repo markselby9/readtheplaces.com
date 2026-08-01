@@ -1,0 +1,32 @@
+{
+  "id": "pale-fire",
+  "title": "Pale Fire",
+  "author": "Vladimir Nabokov",
+  "published": 1962,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-76.49, 42.45],
+  "zoom": 12,
+  "setting": {
+    "city": "Ithaca",
+    "country": "US",
+    "note": "A 999-line poem by a New England poet comes wrapped in the mad commentary of his neighbour, who reads into it the story of a deposed king from an imaginary northern land; the real ground beneath it is Nabokov's Cornell and the town of Ithaca.",
+    "bbox": [-76.54, 42.42, -76.46, 42.49]
+  },
+  "rights": {
+    "originalWork": "In copyright. Vladimir Nabokov, first published 1962. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Pale Fire, Vladimir Nabokov (1962). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "A twilight violet for the waxwing and the false-flame title. A cited book's colour is not a quotation; this shade clears WCAG AA on paper."
+  },
+  "characters": {
+    "shade": { "name": "John Shade", "color": "#2E5064" },
+    "kinbote": { "name": "Charles Kinbote", "color": "#8A2B1E" }
+  }
+}

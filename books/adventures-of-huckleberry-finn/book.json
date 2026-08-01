@@ -1,0 +1,34 @@
+{
+  "id": "adventures-of-huckleberry-finn",
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "published": 1884,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-90.5, 38.4],
+  "zoom": 6,
+  "setting": {
+    "city": "Hannibal",
+    "country": "US",
+    "note": "A boy and a runaway man ride a raft down the 1840s Mississippi, starting from a sleepy Missouri river town and drifting far south past the confluence they mean to reach and can't.",
+    "bbox": [-91.42, 36.94, -89.12, 39.76],
+    "wikivoyage": "Hannibal"
+  },
+  "rights": {
+    "originalWork": "Public domain in most territories, but mapped here as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the text, in any territory.",
+    "attribution": "Adventures of Huckleberry Finn, Mark Twain (1884). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The muddy gold of the Mississippi at low water. Legible on paper and clears WCAG AA."
+  },
+  "characters": {
+    "huck": { "name": "Huck Finn", "color": "#8A3B1E" },
+    "jim": { "name": "Jim", "color": "#2E5064" },
+    "tom": { "name": "Tom Sawyer", "color": "#2E6B4A" }
+  }
+}

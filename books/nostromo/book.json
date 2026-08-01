@@ -1,0 +1,42 @@
+{
+  "id": "nostromo",
+  "title": "Nostromo",
+  "author": "Joseph Conrad",
+  "published": 1904,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-74.7, 10.75],
+  "zoom": 7,
+  "setting": {
+    "city": "Santa Marta",
+    "country": "CO",
+    "note": "Conrad invents a whole South American republic, Costaguana, and its silver port Sulaco, then fills it with revolutions and a hoard of mine silver that corrupts everyone it touches; the fictional coast is built from the real northern shore of South America Conrad had seen, anchored here to Colombia's Caribbean rim.",
+    "bbox": [-75.9, 10.05, -73.55, 11.45]
+  },
+  "rights": {
+    "originalWork": "First published in 1904 by Joseph Conrad; long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Nostromo",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "Nostromo, Joseph Conrad (1904). Locations mapped by Read the Places; Costaguana and Sulaco are fictional, anchored to the real northern-South-American coast."
+  },
+  "palette": {
+    "accent": "#4A4A4A",
+    "note": "The dull gleam of the San Tomé silver that drives and poisons the story. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "nostromo": {
+      "name": "Nostromo (Gian' Battista Fidanza)",
+      "color": "#8A2B1E"
+    },
+    "gould": {
+      "name": "Charles Gould",
+      "color": "#2E5064"
+    },
+    "decoud": {
+      "name": "Martin Decoud",
+      "color": "#2E6B4A"
+    }
+  }
+}

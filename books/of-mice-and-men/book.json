@@ -1,0 +1,35 @@
+{
+  "id": "of-mice-and-men",
+  "title": "Of Mice and Men",
+  "author": "John Steinbeck",
+  "published": 1937,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-121.3, 36.42],
+  "zoom": 11,
+  "setting": {
+    "city": "Soledad",
+    "country": "US",
+    "note": "Two Depression-era ranch hands chase a small dream of their own land on a barley ranch near Soledad in the Salinas Valley, between a sandy river bank and the Gabilan hills to the east.",
+    "bbox": [-121.38, 36.35, -121.1, 36.51],
+    "wikivoyage": "Salinas"
+  },
+  "rights": {
+    "originalWork": "In copyright. John Steinbeck, first published 1937. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://www.penguinrandomhouse.com/books/296390/of-mice-and-men-by-john-steinbeck/",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Of Mice and Men, John Steinbeck (1937). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "Dry barley gold of the valley ranch land. Legible on paper and clears WCAG AA."
+  },
+  "characters": {
+    "george": { "name": "George Milton", "color": "#2E5064" },
+    "lennie": { "name": "Lennie Small", "color": "#8A3B1E" },
+    "curley": { "name": "Curley", "color": "#8A2B1E" },
+    "slim": { "name": "Slim", "color": "#2E6B4A" }
+  }
+}

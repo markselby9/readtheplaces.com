@@ -1,0 +1,129 @@
+[
+  {
+    "id": "cojimar-harbour",
+    "name": "Cojímar harbour, Santiago's port",
+    "progressLabel": "The village",
+    "character": "santiago",
+    "coords": [-82.3106, 23.1656],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cojímar is the real fishing village Hemingway drew on and long identified with the story; the small harbour with its shingle and skiffs is where the old man keeps his boat and returns each night.",
+    "reference": "The village",
+    "order": 1,
+    "note": "This is the shore the story circles back to: the beach where the skiffs are drawn up, and the shack where Santiago sleeps under his newspapers. Everything he risks out on the water is measured against getting home to this small, poor harbour.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and the Sea, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cojímar, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coj%C3%ADmar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "la-terraza-de-cojimar",
+    "name": "La Terraza de Cojímar",
+    "progressLabel": "The Terrace",
+    "character": "manolin",
+    "coords": [-82.3097, 23.1653],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Terrace on the Cojímar waterfront is the real bar-restaurant frequented by the village fishermen and by Hemingway; it stands beside the harbour as the story's meeting place ashore.",
+    "reference": "The village",
+    "order": 2,
+    "note": "The Terrace is where the fishermen gather, where the boy brings food and news, and where the successful ones sit while others wait. It is the human counterweight to the empty sea: the place of talk, baseball, and the loyalty between the old man and the boy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and the Sea, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cojímar, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coj%C3%ADmar"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "havana-malecon",
+    "name": "Havana and the Malecón",
+    "progressLabel": "The city",
+    "character": "santiago",
+    "coords": [-82.383, 23.145],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Havana lies just west of Cojímar and is the city whose lights and markets frame the village world; the Malecón is its seafront, sited here on the real esplanade.",
+    "reference": "The village",
+    "order": 3,
+    "note": "Havana is the great presence over the horizon, the market for the catch and the glow the old man watches at night from far out on the water. Its nearness sharpens how solitary the fishing is: the city is close, but the sea is another country.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and the Sea, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Malecón, Havana, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Malec%C3%B3n,_Havana"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gulf-stream-hooking",
+    "name": "The Gulf Stream, where the marlin takes the bait",
+    "progressLabel": "Far out",
+    "character": "santiago",
+    "coords": [-82.35, 23.75],
+    "placeCertainty": "inferred",
+    "outsideSetting": true,
+    "certaintyNote": "The novel gives no chart position, only that the old man rows far out into the Gulf Stream north of the coast; sited on the real current well beyond sight of land, outside the village bbox to show the excursion.",
+    "reference": "Far out to sea",
+    "order": 4,
+    "note": "Alone and far past the other boats, the old man sets his lines deep in the Stream and the great fish takes hold. From this point the story leaves the shore behind entirely: it is just the man, the boat, and the pull of something he cannot yet see.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and the Sea, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+      },
+      {
+        "kind": "external",
+        "ref": "Gulf Stream, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gulf_Stream"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "gulf-stream-the-fight",
+    "name": "The open Stream, the long fight",
+    "progressLabel": "The fight",
+    "character": "santiago",
+    "coords": [-82.15, 24.1],
+    "placeCertainty": "inferred",
+    "outsideSetting": true,
+    "certaintyNote": "The days-long struggle drags the skiff further out and along the current; no fixed coordinate exists in the text, so this pin marks the open Gulf Stream well north of Cuba, deliberately outside the village bbox.",
+    "reference": "Far out to sea",
+    "order": 5,
+    "note": "Towed for days by the marlin and then defending the catch against sharks, the old man is carried far across open water before he can turn for home. This is the heart of the book: endurance without witness, a victory the sea half takes back before he ever reaches the harbour.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Old Man and the Sea, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+      },
+      {
+        "kind": "external",
+        "ref": "Gulf Stream, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gulf_Stream"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

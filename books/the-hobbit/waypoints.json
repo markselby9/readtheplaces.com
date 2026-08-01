@@ -1,0 +1,129 @@
+[
+  {
+    "id": "sarehole-mill-bag-end",
+    "name": "Sarehole Mill, Birmingham",
+    "progressLabel": "Bag End",
+    "character": "bilbo",
+    "coords": [-1.8558, 52.4341],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. Tolkien lived beside Sarehole Mill in Hall Green as a boy and named this rural corner as the model for Hobbiton and the world of Bag End.",
+    "reference": "Chapter 1, 'An Unexpected Party'",
+    "order": 1,
+    "note": "Bag End is Bilbo's snug hobbit-hole, the comfortable home he is reluctant to leave and spends the whole book aching to see again. Tolkien traced Hobbiton and its countryside to the mill and lanes he knew as a small boy at Sarehole, before Birmingham spread over the fields. The mill survives as a museum on the River Cole.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sarehole Mill, Wikipedia, on Tolkien and Hobbiton",
+        "url": "https://en.wikipedia.org/wiki/Sarehole_Mill"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hobbit, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Hobbit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malvern-hills-landscape",
+    "name": "The Malvern Hills, Worcestershire",
+    "progressLabel": "The hill country",
+    "character": "bilbo",
+    "coords": [-2.3387, 52.1006],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. The West Midlands landscape Tolkien lived in, including the sharp Malvern ridge, is widely cited as feeding the rolling, hilly country the company crosses on the early stages of the road east.",
+    "reference": "Chapter 2, 'Roast Mutton'",
+    "order": 2,
+    "note": "Before the mountains and the dragon, the journey is a walk out through ordinary green hill country, the world beyond Bilbo's door growing wilder by degrees. Tolkien's feel for that English landscape came from the Worcestershire hills he lived among, the Malverns rising over the lowland. It is real ground standing in for the invented road.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Malvern Hills, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Malvern_Hills"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Tolkien's influences, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tolkien%27s_influences"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lauterbrunnen-rivendell",
+    "name": "Lauterbrunnen, Switzerland",
+    "progressLabel": "Rivendell",
+    "character": "gandalf",
+    "coords": [7.9089, 46.5936],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. It lies far outside the English anchor and is flagged as an excursion. Tolkien walked the Lauterbrunnen valley on his 1911 alpine tour and later linked its cliff-walled trough to Rivendell, the Last Homely House.",
+    "reference": "Chapter 3, 'A Short Rest'",
+    "order": 3,
+    "note": "Rivendell is the elven refuge where the travellers pause, are fed and advised, and read the moon-letters that set their course. Tolkien's picture of the deep, sheltered valley came from the glacial trough of Lauterbrunnen, remembered from his youth. It is a real Swiss valley behind the hidden house.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lauterbrunnen, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lauterbrunnen"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Rivendell, Wikipedia, on the Lauterbrunnen inspiration",
+        "url": "https://en.wikipedia.org/wiki/Rivendell"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jungfrau-misty-mountains",
+    "name": "The Jungfrau and Swiss Alps near Interlaken",
+    "progressLabel": "The Misty Mountains",
+    "character": "thorin",
+    "coords": [7.9622, 46.5367],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. It lies far outside the English anchor and is flagged as an excursion. Tolkien's 1911 walking tour in the Bernese Oberland above Interlaken, in sight of the Jungfrau, is the documented source he drew on for the high, snow-bound Misty Mountains.",
+    "reference": "Chapter 4, 'Over Hill and Under Hill'",
+    "order": 4,
+    "note": "The Misty Mountains are the great snow-topped range the company must cross, driven by thunder-battles and goblins into the tunnels beneath, where Bilbo will meet Gollum. Tolkien pointed to the high Alps he tramped through as a young man, above Interlaken and under the Jungfrau, as the range he had seen. They are the real peaks behind the invented barrier.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jungfrau, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jungfrau"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Misty Mountains, Wikipedia, on Tolkien's alpine tour",
+        "url": "https://en.wikipedia.org/wiki/Misty_Mountains"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "river-wye-running-river",
+    "name": "The River Wye, near Ross-on-Wye",
+    "progressLabel": "The running river",
+    "character": "thorin",
+    "coords": [-2.5836, 51.9138],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. The winding river country of the English-Welsh borders that Tolkien knew is used here to stand for the running-river landscape approaching the Lonely Mountain; the exact scenes are invented, so a representative Midlands river reach is pinned.",
+    "reference": "Chapter 9, 'Barrels Out of Bond'",
+    "order": 5,
+    "note": "The later journey runs along a great river, down which Bilbo floats the barrelled dwarves toward Lake-town under the Lonely Mountain. Tolkien's feel for wooded, winding river country came from the borderland rivers of his own ground, the Wye among them. A real reach of that river stands here for the invented water road east.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "River Wye, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/River_Wye"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Hobbit, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Hobbit"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

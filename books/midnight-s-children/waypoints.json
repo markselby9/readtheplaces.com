@@ -1,0 +1,130 @@
+[
+  {
+    "id": "srinagar-dal-lake-1915",
+    "name": "Dal Lake, Srinagar, Kashmir",
+    "progressLabel": "Kashmir, 1915",
+    "character": "saleem",
+    "coords": [74.8691, 34.1218],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "Srinagar and its lake open the novel and are named directly; the point lies far north of the Bombay anchor and is flagged as an excursion into the family's origins.",
+    "reference": "Book 1, 'The Perforated Sheet'",
+    "order": 1,
+    "note": "The story begins a generation before Saleem, in the Kashmir valley, where his grandfather Aadam Aziz returns from Europe and courts his future wife through a hole in a sheet. Dal Lake and the mountains around Srinagar set the note of longing and division the whole book carries. It is the far origin of a family that will end up in Bombay.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Dal Lake, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dal_Lake"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midnight's Children, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midnight%27s_Children"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "methwolds-estate-warden-road",
+    "name": "Methwold's Estate, Warden Road, Bombay",
+    "progressLabel": "Bombay",
+    "character": "shiva",
+    "coords": [72.8072, 18.9668],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Methwold's Estate is a fictional name for a real kind of place: the departing-Englishman's villas Rushdie sites on Warden Road, on Cumballa Hill in south Bombay. The point is placed on the Warden Road (now Bhulabhai Desai Road) rise where such houses stood.",
+    "reference": "Book 1, 'Methwold'",
+    "order": 2,
+    "note": "Saleem grows up in one of the grand houses on Methwold's Estate, bought cheap from the leaving British on the eve of independence. It is also where the midnight swap happens, so that Saleem and the boy Shiva are exchanged at birth and their fates knotted together. The Warden Road hill is the real Bombay ground under this invented address.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cumballa Hill, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cumballa_Hill"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midnight's Children, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midnight%27s_Children"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cathedral-john-connon-school",
+    "name": "Cathedral & John Connon School, Bombay",
+    "progressLabel": "Schooldays",
+    "character": "padma",
+    "coords": [72.832, 18.9295],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Bombay schooling of Saleem and his classmates matches the real Cathedral and John Connon School in the Fort district, the elite institution of the city Rushdie himself attended; it is not named outright, so this is marked inferred.",
+    "reference": "Book 2, 'At the Pioneer Cafe'",
+    "order": 3,
+    "note": "Saleem's Bombay boyhood runs through the classrooms and rivalries of a colonial-era school in the old Fort district. That world of masters, cricket and cruelty carries the middle of the novel, the ordinary city life against which his secret midnight powers grow. The Cathedral and John Connon School is the real institution behind those scenes.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cathedral and John Connon School, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cathedral_and_John_Connon_School"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midnight's Children, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midnight%27s_Children"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-delhi-magicians-ghetto",
+    "name": "The magicians' ghetto, Old Delhi",
+    "progressLabel": "Old Delhi",
+    "character": "saleem",
+    "coords": [77.2334, 28.6507],
+    "outsideSetting": true,
+    "placeCertainty": "inferred",
+    "certaintyNote": "The magicians' slum where Saleem later lives is sited by the Jama Masjid in Old Delhi; the shanty colony is invented but its setting under the great mosque is real, and the point lies far from the Bombay anchor, so it is flagged as an excursion.",
+    "reference": "Book 3, 'The Shadow of the Mosque'",
+    "order": 4,
+    "note": "After the wars, Saleem ends up in a colony of conjurers and performers huddled in the shadow of Delhi's great mosque, a community swept up in the emergency of the mid-1970s. The ghetto stands for the poor, precarious India the newspapers overlook. Its real anchor is the ground below the Jama Masjid in Old Delhi.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Jama Masjid, Delhi, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi"
+      },
+      {
+        "kind": "guide",
+        "ref": "Old Delhi, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Old_Delhi"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "sundarbans-1971-war",
+    "name": "The Sundarbans, Bay of Bengal",
+    "progressLabel": "The 1971 war",
+    "character": "saleem",
+    "coords": [88.9, 21.9497],
+    "outsideSetting": true,
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Sundarbans are named in the novel and are a real mangrove delta on the Bay of Bengal, far east of the Bombay anchor; the point is flagged as an excursion into the 1971 war chapters.",
+    "reference": "Book 3, 'In the Sundarbans'",
+    "order": 5,
+    "note": "During the 1971 war that births Bangladesh, Saleem is lost in the vast tidal mangrove forest of the Sundarbans, a hallucinatory stretch where the soldiers unravel and memory dissolves. The jungle is where the novel's history turns most nightmarish. It is a real delta, the largest mangrove forest on earth, straddling the Bengal coast.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Sundarbans, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sundarbans"
+      },
+      {
+        "kind": "guide",
+        "ref": "Midnight's Children, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midnight%27s_Children"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "sarehole-mill-the-shire",
+    "name": "Sarehole Mill, Birmingham",
+    "progressLabel": "The Shire",
+    "character": "frodo",
+    "coords": [-1.8558, 52.4341],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. Tolkien lived beside Sarehole Mill in Hall Green from about 1896 to 1900, and repeatedly named this rural corner of his boyhood as the model for the Shire and Hobbiton.",
+    "reference": "Book 1, 'A Long-expected Party'",
+    "order": 1,
+    "note": "The Shire is the green, unbothered homeland the hobbits carry with them and long to return to, a place of mills, lanes and ordinary comfort set against the world's danger. Tolkien traced its feel directly to the countryside around this water mill, where he played as a small boy before the city grew over it. The mill still stands as a museum on the River Cole.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Sarehole Mill, Wikipedia, on Tolkien and the Shire",
+        "url": "https://en.wikipedia.org/wiki/Sarehole_Mill"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Lord of the Rings, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lauterbrunnen-rivendell",
+    "name": "Lauterbrunnen valley, Switzerland",
+    "progressLabel": "Rivendell",
+    "character": "frodo",
+    "coords": [7.9089, 46.5936],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. It lies far outside the West Midlands anchor and is flagged as an excursion. Tolkien walked the Lauterbrunnen valley on his 1911 alpine tour and later linked its deep, waterfall-walled trough to Rivendell, the elven refuge of Imladris.",
+    "reference": "Book 2, 'Many Meetings'",
+    "order": 2,
+    "note": "Rivendell is the hidden valley where the weary are healed and the Council decides the Ring's fate, a place set apart from the world's harm. The steep glacial valley of Lauterbrunnen, ringed by cliffs and threaded with falling water, is the real landscape Tolkien remembered from his youth when he pictured it. The resemblance is one he acknowledged himself.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Lauterbrunnen, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lauterbrunnen"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Rivendell, Wikipedia, on the Lauterbrunnen inspiration",
+        "url": "https://en.wikipedia.org/wiki/Rivendell"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "malvern-hills-white-mountains",
+    "name": "The Malvern Hills, Worcestershire",
+    "progressLabel": "The White Mountains",
+    "character": "aragorn",
+    "coords": [-2.3387, 52.1006],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. The Malvern ridge that Tolkien knew from Worcestershire and his friendship with C. S. Lewis is often cited as feeding the long mountain walls of his landscape, including the White Mountains of Gondor and Rohan.",
+    "reference": "Book 3, 'The King of the Golden Hall'",
+    "order": 3,
+    "note": "The White Mountains rise as the spine of the southern kingdoms, the barrier along which Aragorn rides toward his inheritance. Tolkien's sense of a long, sudden ridge standing over lowland country was shaped by the Malverns, the sharp green range he lived near and walked. It is a real English skyline standing in for an invented one.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Malvern Hills, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Malvern_Hills"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Tolkien's influences, Wikipedia, on English landscape sources",
+        "url": "https://en.wikipedia.org/wiki/Tolkien%27s_influences"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cheddar-gorge-glittering-caves",
+    "name": "Cheddar Gorge, Somerset",
+    "progressLabel": "Helm's Deep",
+    "character": "aragorn",
+    "coords": [-2.765, 51.282],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. Tolkien visited Cheddar Gorge on his 1916 honeymoon and again later, and said its caverns lay behind the Glittering Caves of Aglarond below Helm's Deep.",
+    "reference": "Book 3, 'Helm's Deep'",
+    "order": 4,
+    "note": "The Glittering Caves are the vast crystalline caverns behind the fortress of Helm's Deep, where the people of Rohan shelter during the siege and which so move the dwarf Gimli. Tolkien named the show caves of Cheddar Gorge, in the Mendip Hills, as the real place he had in mind. The limestone gorge and its caverns are open to visitors today.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "Cheddar Gorge, Wikipedia, on Tolkien and Aglarond",
+        "url": "https://en.wikipedia.org/wiki/Cheddar_Gorge"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Tolkien's influences, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tolkien%27s_influences"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "somme-dead-marshes",
+    "name": "The Somme battlefield, France",
+    "progressLabel": "The Dead Marshes",
+    "character": "sam",
+    "coords": [2.6867, 50.0509],
+    "outsideSetting": true,
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "This is a real place that inspired the invented setting, not a location in the book. It lies far outside the English anchor and is flagged as an excursion. Tolkien served as a signals officer at the Somme in 1916, and he attributed the corpse-filled Dead Marshes to the churned, flooded no man's land he saw there.",
+    "reference": "Book 4, 'The Passage of the Marshes'",
+    "order": 5,
+    "note": "The Dead Marshes are the drowned battlefield Frodo and Sam cross toward Mordor, where the faces of the long-dead stare up from stagnant water. Tolkien traced the image plainly to his experience of the Western Front, the shell-holes and flooded ground of the Somme where so many were lost. It is the one point on this map that is not a landscape he loved but one he survived.",
+    "sources": [
+      {
+        "kind": "historical-map",
+        "ref": "Battle of the Somme, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Dead Marshes, Wikipedia, on the Somme inspiration",
+        "url": "https://en.wikipedia.org/wiki/Dead_Marshes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

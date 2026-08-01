@@ -1,0 +1,34 @@
+{
+  "id": "the-pickwick-papers",
+  "title": "The Pickwick Papers",
+  "author": "Charles Dickens",
+  "published": 1836,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-0.1, 51.51],
+  "zoom": 7.5,
+  "setting": {
+    "city": "London",
+    "country": "GB",
+    "note": "A genial gentleman and his club ramble out of Regency London by coach across southern England, tumbling through inns, elections, cricket matches and lawsuits, until misplaced chivalry lands the good Mr Pickwick in a debtors' prison.",
+    "bbox": [-0.14, 51.5, -0.05, 51.53],
+    "wikivoyage": "London"
+  },
+  "rights": {
+    "originalWork": "First published in serial parts 1836-37. Charles Dickens died in 1870; the work is in the public domain. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the text, in any territory.",
+    "attribution": "The Pickwick Papers, Charles Dickens (1836-37). Locations mapped by Read the Places; not affiliated with or endorsed by any estate or publisher."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The mellow amber of a coaching-inn taproom, brass and candlelight, the world Pickwick travels through. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "pickwick": { "name": "Mr Pickwick", "color": "#2E5064" },
+    "sam": { "name": "Sam Weller", "color": "#8A2B1E" },
+    "jingle": { "name": "Mr Jingle", "color": "#5A3B8A" }
+  }
+}

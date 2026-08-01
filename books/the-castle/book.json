@@ -1,0 +1,32 @@
+{
+  "id": "the-castle",
+  "title": "The Castle",
+  "author": "Franz Kafka",
+  "published": 1926,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [15.08, 50.92],
+  "zoom": 13,
+  "setting": {
+    "city": "Frydlant",
+    "country": "CZ",
+    "note": "A man called only K. arrives in a snowbound village to take up work as a land-surveyor, and spends the book trying and failing to reach the Castle on the hill that supposedly summoned him, its offices always one message further away.",
+    "bbox": [15.068, 50.912, 15.092, 50.926]
+  },
+  "rights": {
+    "originalWork": "In copyright through much of the 20th century; Franz Kafka wrote it in 1922 and left it unfinished, published posthumously in 1926. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": "Originally written in German (Das Schloss). The descriptions here are our own English words, not a quotation of any translation.",
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Castle_(novel)",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Castle, Franz Kafka (1926). Locations mapped by Read the Places; not affiliated with or endorsed by the author's estate or publisher."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The blue-grey of a village under snow, seen from below. A cited book's colour is not a quotation; this cold slate clears WCAG AA on paper."
+  },
+  "characters": {
+    "k": { "name": "K., the land-surveyor", "color": "#8A2B1E" },
+    "frieda": { "name": "Frieda", "color": "#6B3B5A" }
+  }
+}

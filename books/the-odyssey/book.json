@@ -1,0 +1,42 @@
+{
+  "id": "the-odyssey",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [20.71, 38.4],
+  "zoom": 6,
+  "setting": {
+    "city": "Ithaca",
+    "country": "GR",
+    "note": "A soldier ten years gone from the Trojan war spends ten more years fighting the sea to reach one small Ionian island; the poem's fixed point is real Ithaca, but the wanderings that fill it belong to a mythic Mediterranean whose stops scholars have argued over for centuries.",
+    "bbox": [20.55, 38.3, 20.85, 38.5],
+    "wikivoyage": "Ithaca"
+  },
+  "rights": {
+    "originalWork": "Ancient Greek epic attributed to Homer, composed around the eighth century BCE and long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Odyssey",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "The Odyssey, attributed to Homer. Locations mapped by Read the Places; traditional identifications are noted as such."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The wine-dark Aegean the whole poem is spent crossing. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "odysseus": {
+      "name": "Odysseus",
+      "color": "#8A2B1E"
+    },
+    "telemachus": {
+      "name": "Telemachus",
+      "color": "#2E6B4A"
+    },
+    "penelope": {
+      "name": "Penelope",
+      "color": "#6B3B5A"
+    }
+  }
+}

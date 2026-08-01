@@ -1,0 +1,127 @@
+[
+  {
+    "id": "dorlcote-mill-on-the-floss",
+    "name": "Dorlcote Mill on the Floss",
+    "progressLabel": "Book 1",
+    "character": "maggie",
+    "coords": [-0.77, 53.39],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Dorlcote Mill and the river Floss are inventions; Eliot drew the country from the Trent around Gainsborough, which she visited. There is no single documented mill; the pin sites the Tullivers' watermill on the riverside just south of the town, on the tidal Trent that stands in for the Floss.",
+    "reference": "Book 1, ch. 1",
+    "order": 1,
+    "note": "The book begins at a watermill where the Tulliver children run half-wild by the water, Maggie clever and headstrong, Tom sturdy and proud. The mill is home, livelihood and identity, the thing their father will ruin himself in a lawsuit to keep. Everything the story loses and grieves for is rooted in this riverside ground.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Mill on the Floss, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss"
+      },
+      {
+        "kind": "heritage",
+        "ref": "River Trent, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/River_Trent"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "st-oggs-gainsborough-old-hall",
+    "name": "St Ogg's, drawn from Gainsborough",
+    "progressLabel": "Book 1",
+    "character": "tom",
+    "coords": [-0.7746, 53.3999],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "St Ogg's is a fictional town; scholars identify Gainsborough as its principal model. The pin sits at Gainsborough Old Hall, the surviving medieval hall that anchors the old town centre Eliot reworked into St Ogg's.",
+    "reference": "Book 1, ch. 12",
+    "order": 2,
+    "note": "The market town of St Ogg's, with its wharves and old timbered hall, is the social world the Tullivers live within and answer to. Its gossip, its respectable families and its rigid sense of what a woman may do press on Maggie all her life. Eliot built the town, legend and all, out of the real Gainsborough on the Trent.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Mill on the Floss, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gainsborough Old Hall, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gainsborough_Old_Hall"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "the-floss-trent-at-gainsborough",
+    "name": "The Floss, the Trent at Gainsborough",
+    "progressLabel": "Book 6",
+    "character": "maggie",
+    "coords": [-0.7715, 53.3985],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The river Floss is fictional; Eliot modelled it on the tidal Trent she saw at Gainsborough. The pin sits on the Trent at the town's riverside, where the road bridge now crosses.",
+    "reference": "Book 6, ch. 13",
+    "order": 3,
+    "note": "The river is the book's fate as much as its setting. On its water the grown Maggie drifts downstream with Stephen Guest in a boat trip that, though innocent enough, ruins her name in St Ogg's when she returns. The Trent that Eliot walked beside becomes the current that carries Maggie past the point of no return.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Mill on the Floss, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gainsborough, Lincolnshire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gainsborough,_Lincolnshire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "red-deeps-near-st-oggs",
+    "name": "The Red Deeps",
+    "progressLabel": "Book 5",
+    "character": "maggie",
+    "coords": [-0.78, 53.38],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Red Deeps is a fictional wooded dell near St Ogg's, with no confirmed real site. The pin places it in the higher wooded ground on the town's southern edge, consistent with Eliot's Gainsborough-and-Trent geography; treat it as an approximation, not a mapped location.",
+    "reference": "Book 5, ch. 1",
+    "order": 4,
+    "note": "In a secluded hollow of old workings and trees the teenage Maggie meets, in secret, the hunchbacked Philip Wakem, son of her father's enemy. Their tender, forbidden friendship over books and talk is the first flowering of her hungry mind against the narrowness of home. The Red Deeps is where Maggie's longing for a larger life gathers, and where Tom's discovery of it breaks the meetings off.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Mill on the Floss, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss"
+      },
+      {
+        "kind": "inference",
+        "ref": "St Ogg's country modelled on Gainsborough and the Trent, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gainsborough,_Lincolnshire"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "trent-aegir-flood",
+    "name": "The flood and the Aegir",
+    "progressLabel": "Book 7",
+    "character": "tom",
+    "coords": [-0.766, 53.413],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's climactic flood draws on the Trent Aegir, the real tidal bore that surges up the river past Gainsborough. The pin sits on the tidal reach just north of the town, a stretch where the bore is watched; the fictional flood is greater than any real Aegir, so read this as the phenomenon's location, not a literal event site.",
+    "reference": "Book 7, ch. 5",
+    "order": 5,
+    "note": "In the book's last pages the river rises in a devastating flood, and Maggie rows out to reach the marooned mill and her estranged brother. Brother and sister are reconciled in the boat only to be overwhelmed together by the water that shaped their whole lives. Eliot built the disaster from the Trent Aegir, the tidal wave that really runs up this river.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Mill on the Floss, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Mill_on_the_Floss"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Trent Aegir, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trent_Aegir"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

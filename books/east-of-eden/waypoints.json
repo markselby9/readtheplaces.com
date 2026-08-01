@@ -1,0 +1,127 @@
+[
+  {
+    "id": "salinas-valley-land",
+    "name": "The Salinas Valley",
+    "progressLabel": "Ch. 1",
+    "character": "samuel",
+    "coords": [-121.33, 36.4],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The novel opens by naming the Salinas Valley outright and describing its geography, the light valley to the west and the dark hills to the east. Sited at a representative point mid-valley.",
+    "reference": "Ch. 1",
+    "order": 1,
+    "note": "Steinbeck begins with the land itself, the long trough between the Gabilan and Santa Lucia ranges that shapes everyone who settles it. The valley's split between bright and dark hills sets the book's whole moral weather. It is the ground the Trasks and Hamiltons will both try to make something of.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Salinas Valley, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salinas_Valley"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "East of Eden (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "trask-ranch-king-city",
+    "name": "The Trask ranch near King City",
+    "progressLabel": "Part 2",
+    "character": "adam",
+    "coords": [-121.18, 36.25],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The Trask ranch is fictional but placed by the text on the good bottomland near King City. Sited just outside the real King City, where such a spread would lie.",
+    "reference": "Part 2, ch. 12-13",
+    "order": 2,
+    "note": "Adam Trask buys the best ranch in the valley and dreams of making it an Eden for Cathy and their unborn children. When she shoots him and leaves, the ranch goes to seed with him in it. It is where his sons Cal and Aron grow up under a broken father.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "King City, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_City,_California"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "East of Eden (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "hamilton-ranch-eastern-hills",
+    "name": "The Hamilton ranch, the dry hills",
+    "progressLabel": "Part 1",
+    "character": "samuel",
+    "coords": [-121.02, 36.13],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Hamilton ranch is drawn directly from the real homestead of Steinbeck's own maternal grandparents, Samuel and Elizabeth Hamilton, in the parched hills east of King City near San Lucas. Sited in that foothill country; the exact quarter-section is not marked.",
+    "reference": "Part 1, ch. 3",
+    "order": 3,
+    "note": "Samuel Hamilton, Steinbeck's own grandfather, farms the poorest, driest land in the valley and yet is its most generous and inventive soul. The waterless eastern hills are the making of his character. His wit and decency measure everyone else in the book.",
+    "sources": [
+      {
+        "kind": "heritage",
+        "ref": "John Steinbeck, family background, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Steinbeck"
+      },
+      {
+        "kind": "guide",
+        "ref": "San Lucas, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/San_Lucas,_California"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "monterey-coast",
+    "name": "Monterey",
+    "progressLabel": "Part 3",
+    "character": "kate",
+    "coords": [-121.8947, 36.6002],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Monterey is named directly as the coast town beyond the valley, the fog-bound port of the Cannery Row era.",
+    "reference": "Part 3-4",
+    "order": 4,
+    "note": "The old Spanish port on the bay is the valley's shadow side, where money and appetite gather. It is the world Cathy is drawn back toward after she leaves the ranch, trading a family for a colder kind of power. The sea fog here answers the dry hills inland.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Monterey, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monterey,_California"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "East of Eden (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "salinas-town",
+    "name": "The town of Salinas",
+    "progressLabel": "Part 4",
+    "character": "cal",
+    "coords": [-121.6555, 36.6777],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Salinas, the valley's chief town and Steinbeck's own birthplace, is named directly as where the Trasks move and where Kate runs her house.",
+    "reference": "Part 4",
+    "order": 5,
+    "note": "The family comes to town, and Salinas becomes the stage for the sons' rivalry as the First World War closes in. Cal's discovery of who and where his mother is happens on these streets. The town is where the book's inherited sins come due.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Salinas, California, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salinas,_California"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "East of Eden (novel), Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

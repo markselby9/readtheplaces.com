@@ -1,0 +1,129 @@
+[
+  {
+    "id": "hotel-du-cap-eden-roc",
+    "name": "Gausse's Hôtel des Étrangers (Hôtel du Cap-Eden-Roc)",
+    "progressLabel": "Book 1",
+    "character": "dick",
+    "coords": [7.122, 43.5525],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Gausse's hotel in the novel is fictional but widely understood to be modelled on the Hôtel du Cap-Eden-Roc, where the Fitzgeralds and their circle summered; pinned on the real hotel at the tip of Cap d'Antibes.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "The novel opens at Gausse's pink hotel on the Cap, where the Divers reign over a charmed summer crowd. It is the stage for Dick's effortless social magic and the first place the young actress Rosemary falls under the spell of their glittering world.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tender Is the Night, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Hôtel du Cap-Eden-Roc, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/H%C3%B4tel_du_Cap-Eden-Roc"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "juan-les-pins-beach",
+    "name": "The beach at Juan-les-Pins",
+    "progressLabel": "Book 1",
+    "character": "rosemary",
+    "coords": [7.105, 43.5686],
+    "placeCertainty": "explicit",
+    "certaintyNote": "The Riviera beach beside the Cap is drawn from Juan-les-Pins, the resort the Divers' set made fashionable; pinned on the real shore of Juan-les-Pins.",
+    "reference": "Book 1",
+    "order": 2,
+    "note": "On the hot morning sand, Rosemary first watches the Divers and their friends and longs to belong to them. The beach is where the group's easy glamour is most seductive, and where Rosemary's infatuation with Dick begins.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tender Is the Night, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Juan-les-Pins, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Juan-les-Pins"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cannes",
+    "name": "Cannes",
+    "progressLabel": "Book 1",
+    "character": "nicole",
+    "coords": [7.0128, 43.5513],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cannes is named as the near town of restaurants, the casino and the station along the coast from the Cap; pinned on the real city.",
+    "reference": "Book 1",
+    "order": 3,
+    "note": "Cannes is the Divers' town for dinners, shopping and late nights, the fuller social world beyond the beach. Its terraces and lights are where the group's brittle gaiety plays out, and where cracks in Nicole's calm first show.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tender Is the Night, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Cannes, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cannes"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "progressLabel": "Book 1",
+    "character": "rosemary",
+    "coords": [2.3212, 48.8656],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "Paris is named as the city the party moves to for its hotels, restaurants and a shocking incident; pinned on the real city, far north of the Riviera setting and marked outside the bbox.",
+    "reference": "Book 1",
+    "order": 4,
+    "note": "The set decamps to Paris, where Dick and Rosemary's flirtation deepens and a sudden killing at a hotel breaks the spell of pure pleasure. The city marks the point where the Divers' golden surface starts to crack toward the darkness beneath.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tender Is the Night, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Paris, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paris"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "lake-zurich-clinic",
+    "name": "The clinic on Lake Zurich",
+    "progressLabel": "Book 2",
+    "character": "nicole",
+    "coords": [8.59, 47.32],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The Swiss clinic where Dick treats and marries Nicole sits on the Zürichsee; the exact sanatorium is fictional, so this pin marks the real lakeshore near Zurich, far outside the Riviera bbox.",
+    "reference": "Book 2",
+    "order": 5,
+    "note": "The flashback to Switzerland reveals the marriage's origin: Dick meets Nicole as a young psychiatric patient at a lakeside clinic and becomes both her husband and, in effect, her doctor. Lake Zurich holds the secret that explains the strain slowly pulling the Divers apart.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Tender Is the Night, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Lake Zurich, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lake_Zurich"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

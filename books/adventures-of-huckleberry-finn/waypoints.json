@@ -1,0 +1,129 @@
+[
+  {
+    "id": "hannibal-st-petersburg",
+    "name": "St. Petersburg, the town on the bluff",
+    "progressLabel": "Ch. 1",
+    "character": "huck",
+    "coords": [-91.3585, 39.7084],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel's \"St. Petersburg\" is Twain's own boyhood Hannibal, Missouri, the river town he grew up in and drew on repeatedly. The Widow Douglas's house and the town are fictionalized, but the place is unmistakably Hannibal on its bluff above the Mississippi.",
+    "reference": "Ch. 1",
+    "order": 1,
+    "note": "Here Huck lives under the Widow Douglas's roof, being sivilized against his will, when his drunk father turns up to claim him and the money. The town is the whole tame world he is about to run from. Everything downriver is measured against this starting bluff.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "St. Petersburg and Hannibal, Missouri, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Adventures of Huckleberry Finn, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "jacksons-island",
+    "name": "Jackson's Island",
+    "progressLabel": "Ch. 8",
+    "character": "jim",
+    "coords": [-91.32, 39.685],
+    "placeCertainty": "inferred",
+    "certaintyNote": "The wooded island a few miles below the town is not given a real name, but Twain modeled it on the island then lying in the Mississippi just downstream of Hannibal (long since reshaped by the river). Sited here, in the channel below the bluff.",
+    "reference": "Ch. 8",
+    "order": 2,
+    "note": "Huck fakes his own death and hides on the island, where he stumbles on Jim, who has run off rather than be sold south. Two fugitives find each other in the timber and decide to travel together. The raft journey begins from this sandbar.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Adventures of Huckleberry Finn, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+      },
+      {
+        "kind": "guide",
+        "ref": "The Mississippi River at Hannibal, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mississippi_River"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "cairo-illinois-confluence",
+    "name": "Cairo, the mouth of the Ohio",
+    "progressLabel": "Ch. 15",
+    "character": "jim",
+    "coords": [-89.1812, 37.0053],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Cairo, Illinois sits at the real confluence of the Ohio and the Mississippi. The novel names it directly as the turn Jim needs to reach the free states up the Ohio.",
+    "reference": "Ch. 15",
+    "order": 3,
+    "note": "Cairo is the whole plan: reach the Ohio and steam up it toward freedom. In the fog Huck and Jim drift past the town without seeing it, carried on down into slave country instead. Missing this point is the raft's quiet tragedy.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Cairo, Illinois, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cairo,_Illinois"
+      },
+      {
+        "kind": "scholarly",
+        "ref": "Adventures of Huckleberry Finn, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "grangerford-feud-lower-river",
+    "name": "Grangerford country, the lower river",
+    "progressLabel": "Ch. 17",
+    "character": "huck",
+    "coords": [-90.5915, 34.5295],
+    "placeCertainty": "inferred",
+    "outsideSetting": true,
+    "certaintyNote": "Far below the missed confluence, well outside the home setting, where a steamboat splits the raft and Huck comes ashore among the feuding Grangerfords. Twain drew the feud from real border-river vendettas such as the Darnell-Watson quarrel; sited on the lower Mississippi near Helena, Arkansas as a representative reach of that country.",
+    "reference": "Ch. 17-18",
+    "order": 4,
+    "note": "Separated from Jim, Huck is taken in by the genteel Grangerfords, whose long feud with the Shepherdsons ends in a riverbank bloodbath. It is his first close look at how respectable people kill. He slips back to the raft and Jim, shaken.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Adventures of Huckleberry Finn, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+      },
+      {
+        "kind": "guide",
+        "ref": "Helena, Arkansas on the lower Mississippi, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Helena,_Arkansas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "phelps-farm-arkansas",
+    "name": "The Phelps farm, Pikesville",
+    "progressLabel": "Ch. 32",
+    "character": "tom",
+    "coords": [-91.034, 33.949],
+    "placeCertainty": "inferred",
+    "outsideSetting": true,
+    "certaintyNote": "The Phelps plantation is placed by the text far down in the deep-south river country, a small cotton farm near the fictional \"Pikesville.\" Sited on the lower Mississippi in southern Arkansas, near the vanished river town of Napoleon, as the kind of place the text describes; well outside the home setting.",
+    "reference": "Ch. 32-42",
+    "order": 5,
+    "note": "Jim is sold and held at the Phelps farm, where Huck is mistaken for their nephew Tom Sawyer, who then arrives and spins the freeing of Jim into an absurd game. The moral weight of the raft dissolves into farce this far south. It is the journey's furthest and lowest point.",
+    "sources": [
+      {
+        "kind": "scholarly",
+        "ref": "Adventures of Huckleberry Finn, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+      },
+      {
+        "kind": "guide",
+        "ref": "Napoleon, Arkansas, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Napoleon,_Arkansas"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "gorizia-isonzo-front",
+    "name": "Gorizia and the Isonzo front",
+    "progressLabel": "Book 1",
+    "character": "frederic",
+    "coords": [13.6222, 45.9403],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Gorizia is named as the town behind the lines where Frederic is quartered; pinned on the real city on the Isonzo (Soča), the river whose battles frame the opening.",
+    "reference": "Book 1",
+    "order": 1,
+    "note": "Frederic runs ambulances above Gorizia, where the war is a matter of shelling, rain, and talk in the mess. Here he meets Catherine and is badly wounded on the Isonzo, the injury that pulls him back from the front and toward her.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Farewell to Arms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Gorizia, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gorizia"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "milan-american-hospital",
+    "name": "The American hospital, Milan",
+    "progressLabel": "Book 2",
+    "character": "catherine",
+    "coords": [9.19, 45.4642],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Milan is named as the city he is sent to recover in; the American hospital is a fictional institution placed in the real city, sited here in the centre.",
+    "reference": "Book 2",
+    "order": 2,
+    "note": "Sent to Milan to recover, Frederic spends a summer with Catherine that is the novel's one stretch of happiness. The city of hospital rooms, races and cafés is where their love deepens and she becomes pregnant, before duty drags him back to the front.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Farewell to Arms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Milan, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Milan"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "caporetto-retreat",
+    "name": "The retreat from Caporetto",
+    "progressLabel": "Book 3",
+    "character": "frederic",
+    "coords": [13.5789, 46.2461],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "The novel follows the historic Battle of Caporetto; pinned on the real town of Kobarid (Caporetto) in present-day Slovenia, north of the Gorizia setting and marked outside the bbox as a distinct front.",
+    "reference": "Book 3",
+    "order": 3,
+    "note": "The Italian line breaks at Caporetto and the army dissolves into a rain-soaked retreat. Caught up in the chaos and nearly shot by his own side's battle police, Frederic makes his separate peace and deserts, ending his war on the spot.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Farewell to Arms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+      },
+      {
+        "kind": "historical-map",
+        "ref": "Battle of Caporetto, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "stresa-lake-maggiore",
+    "name": "Stresa on Lake Maggiore",
+    "progressLabel": "Book 4",
+    "character": "catherine",
+    "coords": [8.5406, 45.8853],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Stresa is named as the lakeside town where Frederic rejoins Catherine; pinned on the real resort on the western shore of Lake Maggiore.",
+    "reference": "Book 4",
+    "order": 4,
+    "note": "A deserter now, Frederic finds Catherine at Stresa, and for a few days the lake offers a fragile refuge from the war. Warned that he is about to be arrested, he decides they must run, and the hotel by the water becomes the launching point of their escape.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Farewell to Arms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Stresa, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stresa"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "montreux-switzerland",
+    "name": "Montreux, Switzerland",
+    "progressLabel": "Book 5",
+    "character": "frederic",
+    "coords": [6.9107, 46.4312],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "After rowing up Lake Maggiore into neutral Switzerland, the couple winters near Montreux; pinned on the real town on Lake Geneva, far west of the Italian setting and marked outside the bbox.",
+    "reference": "Book 5",
+    "order": 5,
+    "note": "They row all night into Switzerland and settle above the lake near Montreux, waiting out the winter and the birth. The peace is real but borrowed: the novel's quiet Swiss idyll runs straight into the loss that ends it.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "A Farewell to Arms, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Montreux, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Montreux"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

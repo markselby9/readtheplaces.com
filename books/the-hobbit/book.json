@@ -1,0 +1,33 @@
+{
+  "id": "the-hobbit",
+  "title": "The Hobbit",
+  "author": "J. R. R. Tolkien",
+  "published": 1937,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [-2.15, 52.16],
+  "zoom": 7,
+  "setting": {
+    "city": "Birmingham",
+    "country": "GB",
+    "note": "Middle-earth is invented, so this map holds only the real places Tolkien drew on: the Birmingham water mill behind Bag End and Hobbiton, the West Midlands hills and river country of his boyhood, and, far off the map, the Swiss valley and high Alps that fed Rivendell and the Misty Mountains after his 1911 walking tour.",
+    "bbox": [-2.67, 51.84, -1.77, 52.52]
+  },
+  "rights": {
+    "originalWork": "In copyright. J. R. R. Tolkien, first published 1937. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/The_Hobbit",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "The Hobbit, J. R. R. Tolkien (1937). Locations mapped by Read the Places; not affiliated with or endorsed by the author or his estate."
+  },
+  "palette": {
+    "accent": "#8A6A12",
+    "note": "The dwarf-gold of Thorin's hoard under the Lonely Mountain, the treasure that pulls the whole journey east. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "bilbo": { "name": "Bilbo Baggins", "color": "#2E6B4A" },
+    "gandalf": { "name": "Gandalf", "color": "#4A4A4A" },
+    "thorin": { "name": "Thorin Oakenshield", "color": "#8A2B1E" }
+  }
+}

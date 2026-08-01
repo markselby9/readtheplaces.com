@@ -1,0 +1,33 @@
+{
+  "id": "tender-is-the-night",
+  "title": "Tender Is the Night",
+  "author": "F. Scott Fitzgerald",
+  "published": 1934,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [7.07, 43.56],
+  "zoom": 8,
+  "setting": {
+    "city": "Antibes",
+    "country": "FR",
+    "note": "On the French Riviera of the 1920s, a charming young psychiatrist and his beautiful, fragile wife hold court over a golden expatriate set, as his career and their marriage slowly unravel.",
+    "bbox": [6.98, 43.52, 7.15, 43.6]
+  },
+  "rights": {
+    "originalWork": "In copyright. F. Scott Fitzgerald, first published 1934. This book is mapped as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night",
+    "territoryNotes": "Locations and original commentary only. No reproduction of the copyrighted text, in any territory.",
+    "attribution": "Tender Is the Night, F. Scott Fitzgerald (1934). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The violet dusk of the title, the Riviera at the hour the parties begin. A cited book's colour is not a quotation; this clears WCAG AA on paper."
+  },
+  "characters": {
+    "dick": { "name": "Dick Diver", "color": "#2E5064" },
+    "nicole": { "name": "Nicole Diver", "color": "#6B3B5A" },
+    "rosemary": { "name": "Rosemary Hoyt", "color": "#8A6A12" }
+  }
+}

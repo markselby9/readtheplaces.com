@@ -1,0 +1,129 @@
+[
+  {
+    "id": "nottinghamshire-newark",
+    "name": "Nottinghamshire (Newark), where he was born",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "gulliver",
+    "coords": [-0.8082, 53.0766],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Gulliver states he was born in Nottinghamshire, a real English county, though no town is named. The pin marks Newark-on-Trent, the county's principal market town, as a representative point. Marked outsideSetting: Nottinghamshire lies well north of the London frame.",
+    "reference": "Part 1, ch. 1",
+    "order": 1,
+    "outsideSetting": true,
+    "note": "Gulliver opens his account by placing himself: a third son of a small Nottinghamshire family, sent off to Cambridge and then to a London surgeon. The plainness of this origin is the joke's foundation, a dull English gentleman reporting the impossible in the same flat voice. Newark stands here for the unnamed county town.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Nottinghamshire, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nottinghamshire"
+      },
+      {
+        "kind": "guide",
+        "ref": "Newark-on-Trent, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Newark-on-Trent"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "old-jewry-surgeon-bates",
+    "name": "Old Jewry, the surgeon Bates",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "gulliver",
+    "coords": [-0.0917, 51.5145],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Gulliver is apprenticed to Mr James Bates, a London surgeon, and later takes a house near the Old Jewry, a real street in the City of London. The pin marks Old Jewry; the exact premises are not given.",
+    "reference": "Part 1, ch. 1",
+    "order": 2,
+    "note": "Before any voyage, Gulliver learns his trade under the surgeon Bates and sets up a small London practice near the Old Jewry, in the heart of the City. It is the respectable, unremarkable career the sea keeps interrupting. The street is real, one of the old lanes off Cheapside.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Old Jewry, Wikipedia, on the City of London street",
+        "url": "https://en.wikipedia.org/wiki/Old_Jewry"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on the framing narrative",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "wapping-the-docks",
+    "name": "Wapping and the docks",
+    "progressLabel": "Part 1, ch. 1",
+    "character": "gulliver",
+    "coords": [-0.0575, 51.5045],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Gulliver, short of patients, moves among the seafaring quarter and takes lodgings and work near Wapping, the sailors' district by the river; the text names Wapping. The pin marks it as a representative point in the old riverside docks.",
+    "reference": "Part 1, ch. 1",
+    "order": 3,
+    "note": "When his City practice fails, Gulliver goes down to the river among ships' crews and settles a while at Wapping, hoping to fall in with captains who need a surgeon. It is the world of masts and lodging-houses that feeds him onto the voyages. Wapping was then the working waterfront of maritime London.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Wapping, Wikipedia, on the riverside dock district",
+        "url": "https://en.wikipedia.org/wiki/Wapping"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bristol-departure",
+    "name": "The port of Bristol",
+    "progressLabel": "Part 2, ch. 1",
+    "character": "gulliver",
+    "coords": [-2.6266, 51.4491],
+    "placeCertainty": "explicit",
+    "certaintyNote": "Gulliver sails from Bristol on the voyage that strands him in Brobdingnag; the port is named directly. Marked outsideSetting: Bristol lies far to the west of the London frame. The fantastical land the ship reaches is a satirical invention and is not mapped.",
+    "reference": "Part 2, ch. 1",
+    "order": 4,
+    "outsideSetting": true,
+    "note": "The second voyage puts out from Bristol, England's great western port for the Atlantic trade, before the storm carries the ship to the land of giants. Swift roots the impossible in an exact departure point, the real quays a real ship would leave from. Only the destination is invented; the harbour is not.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Bristol, Wikipedia, on the historic English port",
+        "url": "https://en.wikipedia.org/wiki/Bristol"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on the second voyage",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "redriff-rotherhithe",
+    "name": "Redriff (Rotherhithe), Gulliver's home",
+    "progressLabel": "The frame",
+    "character": "gulliver",
+    "coords": [-0.0515, 51.501],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Gulliver says he settled and kept house at Redriff, the archaic name for Rotherhithe, the riverside parish downstream of the Pool of London. The pin marks Rotherhithe; Redriff is its old spelling, so the identification is secure though the exact house is fictional.",
+    "reference": "The frame",
+    "order": 5,
+    "note": "Between voyages, and at the end of them, Gulliver comes home to his wife and family at Redriff, the London river-parish now called Rotherhithe. It is the domestic anchor he keeps leaving and, after the last voyage, can barely bear to return to. The place is real; only his changed and misanthropic self is Swift's invention.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "Rotherhithe, Wikipedia, on the parish formerly called Redriff",
+        "url": "https://en.wikipedia.org/wiki/Rotherhithe"
+      },
+      {
+        "kind": "guide",
+        "ref": "Gulliver's Travels, Wikipedia, on the framing narrative",
+        "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

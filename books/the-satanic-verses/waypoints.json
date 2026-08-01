@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pevensey-beach-rosa-diamond",
+    "name": "The beach where they fall, Rosa Diamond's house",
+    "progressLabel": "Part 1",
+    "character": "saladin",
+    "coords": [0.3376, 50.818],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The novel names an English coast near Hastings but not an exact point. Anchored to Pevensey Bay in East Sussex, the low shingle shore beside Hastings where the old Norman landing took place, as the real-world model for the beach and Rosa Diamond's house; the specific house is fictional.",
+    "reference": "Part 1, ch. 3-4",
+    "order": 1,
+    "note": "Saladin and Gibreel drop out of the exploded jet and wash up alive on a snow-covered English beach, taken in by the ancient, memory-haunted Rosa Diamond. Here the transformation shows itself: Gibreel keeps a saintly glow while Saladin sprouts horns and hooves, and the police who arrive treat the devil-shaped brown man as the obvious criminal.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Satanic Verses, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Satanic_Verses"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Pevensey, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pevensey"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brickhall-brick-lane-shaandaar",
+    "name": "Brickhall, the Shaandaar Cafe",
+    "progressLabel": "Part 3",
+    "character": "saladin",
+    "coords": [-0.0716, 51.5203],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "Brickhall is a fictional London district. It is openly built from Brick Lane and Spitalfields, the Bangladeshi East End, whose name it echoes; the Shaandaar Cafe and its guest house are anchored here to Brick Lane as the real model, not an existing cafe.",
+    "reference": "Part 3, ch. 1",
+    "order": 2,
+    "note": "Still monstrous, Saladin is hidden in the attic above the Shaandaar Cafe in the immigrant quarter of Brickhall, cared for by the Sufyan family. His metamorphosis becomes a folk symbol for the neighbourhood's own sense of being demonised, and his rage at what England has made of him slowly hardens.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Satanic Verses, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Satanic_Verses"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Brick Lane, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brick_Lane"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "brickhall-club-hot-wax",
+    "name": "The Club Hot Wax",
+    "progressLabel": "Part 7",
+    "character": "saladin",
+    "coords": [-0.0754, 51.5194],
+    "placeCertainty": "inspired_by",
+    "certaintyNote": "The Club Hot Wax is a fictional nightclub in Brickhall. It is anchored to the Spitalfields end of the Brick Lane area, the same immigrant East End Rushdie drew Brickhall from, as a representative real-world siting rather than an identified venue.",
+    "reference": "Part 7, ch. 1",
+    "order": 3,
+    "note": "In the club, young Black and Asian Londoners dance while waxworks of hated historical figures are melted on cue, a nightly ritual of revenge on empire. It is one of the book's images of a community answering contempt with defiant style, the underside of the same city that fell on Saladin's head.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Satanic Verses, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Satanic_Verses"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Spitalfields, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spitalfields"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "central-london-gibreel-walks",
+    "name": "Central London, the streets Gibreel walks",
+    "progressLabel": "Part 5",
+    "character": "gibreel",
+    "coords": [-0.1281, 51.5081],
+    "placeCertainty": "inferred",
+    "certaintyNote": "Gibreel roams a hallucinatory central London that Rushdie renders in real streets and landmarks without fixing one address. This point in the West End, near Trafalgar Square and Charing Cross, stands for the heart of the city he walks trying to redeem or destroy.",
+    "reference": "Part 5, ch. 2",
+    "order": 4,
+    "note": "Convinced he is the archangel Gabriel, Gibreel wanders central London believing he must transform the cold, faithless city, tropicalising it in his mind. His visions blur the real capital with his film-star past and his madness, and the streets become the ground of a private apocalypse no one else can see.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Satanic Verses, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Satanic_Verses"
+      },
+      {
+        "kind": "heritage",
+        "ref": "London, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/London"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  },
+  {
+    "id": "bombay-gibreel-film-origins",
+    "name": "Bombay, Gibreel's film-star origins",
+    "progressLabel": "Part 1 & 9",
+    "character": "gibreel",
+    "coords": [72.8479, 19.0176],
+    "placeCertainty": "explicit",
+    "outsideSetting": true,
+    "certaintyNote": "Bombay (Mumbai) is named directly as Gibreel's home and the seat of the Indian film industry that made him a star. It lies far outside the English setting, so it is marked as an outside excursion; the coordinates fall in the city's central film-world district.",
+    "reference": "Part 1, ch. 1; Part 9",
+    "order": 5,
+    "note": "Before the fall, Gibreel Farishta is a Bombay screen god who plays Hindu deities for adoring millions, and the city is where his story begins and finally returns. Rushdie's Bombay is the warm, plural counterweight to grey London, the home both men carry with them and cannot simply go back to.",
+    "sources": [
+      {
+        "kind": "guide",
+        "ref": "The Satanic Verses, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Satanic_Verses"
+      },
+      {
+        "kind": "heritage",
+        "ref": "Mumbai, Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mumbai"
+      }
+    ],
+    "editorialStatus": "reviewed"
+  }
+]

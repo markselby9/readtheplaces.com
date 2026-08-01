@@ -1,0 +1,35 @@
+{
+  "id": "in-search-of-lost-time",
+  "title": "In Search of Lost Time",
+  "author": "Marcel Proust",
+  "published": 1913,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [2.32, 48.86],
+  "zoom": 6,
+  "setting": {
+    "city": "Paris",
+    "country": "FR",
+    "note": "A narrator looks back over a lifetime in Belle Époque France, from a childhood village and a seaside resort to the aristocratic salons of Paris, chasing the way memory recovers lost time.",
+    "bbox": [2.2, 48.826, 2.372, 48.892],
+    "wikivoyage": "Paris"
+  },
+  "rights": {
+    "originalWork": "Public domain. Marcel Proust; the sequence appeared from 1913 to 1927 and the author died in 1922. Mapped here as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time",
+    "territoryNotes": "Locations and original commentary only. No text is reproduced, in any territory.",
+    "attribution": "In Search of Lost Time, Marcel Proust (from 1913). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#5A3B8A",
+    "note": "The mauve of Proust's hawthorns and remembered afternoons, colour steeped in memory. A soft violet that clears WCAG AA on paper."
+  },
+  "characters": {
+    "narrator": { "name": "The Narrator (Marcel)", "color": "#2E5064" },
+    "swann": { "name": "Charles Swann", "color": "#4A4A4A" },
+    "odette": { "name": "Odette", "color": "#6B3B5A" },
+    "albertine": { "name": "Albertine", "color": "#2E6B4A" }
+  }
+}

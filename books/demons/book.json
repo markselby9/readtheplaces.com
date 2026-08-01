@@ -1,0 +1,33 @@
+{
+  "id": "demons",
+  "title": "Demons",
+  "author": "Fyodor Dostoevsky",
+  "published": 1872,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [35.9, 56.87],
+  "zoom": 10.5,
+  "setting": {
+    "city": "Tver",
+    "country": "RU",
+    "note": "A conspiracy of nihilists tears through an unnamed Russian provincial town over a few feverish weeks around 1870, from the governor's drawing rooms to a country estate and a murder in the park.",
+    "bbox": [35.78, 56.82, 35.98, 56.94]
+  },
+  "rights": {
+    "originalWork": "Public domain. Fyodor Dostoevsky, first published 1871–72; the author died in 1881. Mapped here as a cited work: we store none of its text and reproduce no passages. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)",
+    "territoryNotes": "Locations and original commentary only. No text is reproduced, in any territory.",
+    "attribution": "Demons, Fyodor Dostoevsky (1872). Locations mapped by Read the Places; not affiliated with or endorsed by the author or publisher."
+  },
+  "palette": {
+    "accent": "#6B3B5A",
+    "note": "The bruised violet of a provincial town possessed by its own bad ideas. A muted, feverish tone that clears WCAG AA on paper."
+  },
+  "characters": {
+    "stavrogin": { "name": "Nikolai Stavrogin", "color": "#2E5064" },
+    "pyotr": { "name": "Pyotr Verkhovensky", "color": "#8A2B1E" },
+    "stepan": { "name": "Stepan Verkhovensky", "color": "#8A6A12" }
+  }
+}

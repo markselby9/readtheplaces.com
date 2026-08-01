@@ -1,0 +1,42 @@
+{
+  "id": "lord-jim",
+  "title": "Lord Jim",
+  "author": "Joseph Conrad",
+  "published": 1900,
+  "orderingKey": "chapter",
+  "sourcing": "cited",
+  "center": [117.7, 2.15],
+  "zoom": 8,
+  "setting": {
+    "city": "Tanjung Redeb",
+    "country": "ID",
+    "note": "A young officer abandons a crowded pilgrim ship in a moment of panic and spends the rest of the novel trying to redeem himself, finally as the trusted white man of a remote Malay river-settlement; that settlement, Patusan, is fictional, drawn from the Berau river in Borneo Conrad had known as a sailor.",
+    "bbox": [117.4, 1.95, 118.3, 2.4]
+  },
+  "rights": {
+    "originalWork": "First published in 1900 by Joseph Conrad; long out of copyright. Mapped as a cited work: no text stored, no passages reproduced. The places are facts and the notes are our own.",
+    "translation": null,
+    "textSource": "None stored. A cited book reproduces no text.",
+    "textSourceUrl": "https://en.wikipedia.org/wiki/Lord_Jim",
+    "territoryNotes": "Locations and original commentary only. No reproduction of any text, in any territory.",
+    "attribution": "Lord Jim, Joseph Conrad (1900). Locations mapped by Read the Places; Patusan is fictional, modelled on the Berau river in Borneo."
+  },
+  "palette": {
+    "accent": "#2E5064",
+    "note": "The tropical river and sea Jim's whole story moves along. A cited book's colour is not a quotation; it still has to be legible, and this clears WCAG AA on paper."
+  },
+  "characters": {
+    "jim": {
+      "name": "Jim",
+      "color": "#8A2B1E"
+    },
+    "marlow": {
+      "name": "Marlow",
+      "color": "#4A4A4A"
+    },
+    "doramin": {
+      "name": "Doramin",
+      "color": "#2E6B4A"
+    }
+  }
+}
