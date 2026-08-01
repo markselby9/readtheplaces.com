@@ -39,6 +39,16 @@
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
 
+    // maplibre only tracks the window resize event, not the container's own size.
+    // At hydration the container can still be mid-layout, so the map bakes a wrong
+    // canvas size and never re-syncs — a dead strip on one side, and pins that
+    // drift on zoom because the transform's size no longer matches the canvas.
+    // A ResizeObserver fires an initial callback with the settled size and again
+    // on every later change, keeping the canvas and transform in step.
+    const container = document.getElementById('map-atlas')!;
+    const resize = new ResizeObserver(() => map.resize());
+    resize.observe(container);
+
     const data = fetch('/waypoints.geojson').then((r) => r.json() as Promise<WaypointCollection>);
     data.then((fc) => {
       count = fc.features.length;
@@ -152,6 +162,7 @@
     // load handler from touching a map that has already been torn down.
     return () => {
       destroyed = true;
+      resize.disconnect();
       map.remove();
     };
   });
