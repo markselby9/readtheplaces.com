@@ -30,7 +30,7 @@ jobs:
           node-version-file: .nvmrc
 
       - name: Cache bun install
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.bun/install/cache
           key: bun-${{ runner.os }}-${{ hashFiles('bun.lock') }}
@@ -68,7 +68,7 @@ jobs:
       # Cache the browser binaries; the install step then only fetches system
       # deps, not the ~100 MB Chromium download, on a hit.
       - name: Cache Playwright browsers
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
           key: playwright-${{ runner.os }}-${{ hashFiles('bun.lock') }}
