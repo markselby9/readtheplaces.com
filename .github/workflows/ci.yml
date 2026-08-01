@@ -54,7 +54,13 @@ jobs:
       # contain, an ambiguous one, an unexplained guess, coordinates outside the
       # book's setting, a one-sided simultaneity, and an accent colour that is
       # not a real quotation or that misses WCAG AA.
+      # Build under Cloudflare's heap, not the runner's. The builder there caps
+      # Node's old space near 2 GB; this runner and a laptop both get roughly
+      # double, which is how a commit that OOMed the real deploy passed here and
+      # locally while production silently stayed a commit behind.
       - name: Build (the schema is the gate)
+        env:
+          NODE_OPTIONS: --max-old-space-size=2048
         run: |
           bun run plates
           bun run build

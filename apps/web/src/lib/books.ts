@@ -56,17 +56,48 @@ export function settingCities(book: Book): string[] {
 }
 
 /**
+ * Both collections, read once for the whole build and indexed by slug.
+ *
+ * `getCollection` hands back a fresh copy of the collection every call. loadBook
+ * used to call it twice per book, and allBooks runs one loadBook per book
+ * concurrently, so the entire corpus was copied once per book with every copy
+ * alive at the same time. At 427 books that overran the 2 GB JS heap on
+ * Cloudflare's builder and killed the deploy, while the same commit built fine
+ * on a laptop and in CI, both of which have roughly twice the heap. One shared
+ * copy keeps the peak flat as the corpus grows, and makes the per-book lookup a
+ * Map hit rather than a scan of every book.
+ */
+async function readCollections() {
+  const [books, waypoints] = await Promise.all([
+    getCollection('books'),
+    getCollection('waypoints'),
+  ]);
+  const slugOf = (id: string) => id.split('/')[0]!;
+  return {
+    books: new Map(books.map((b) => [slugOf(b.id), b.data])),
+    waypoints: new Map(waypoints.map((w) => [slugOf(w.id), w.data])),
+  };
+}
+
+let collectionsCache: ReturnType<typeof readCollections> | undefined;
+
+function collections() {
+  // The Promise is cached, not its result, so concurrent callers share one read.
+  collectionsCache ??= readCollections();
+  return collectionsCache;
+}
+
+/**
  * Load a book and derive every waypoint's position from the novel itself.
  *
  * Throws at build time if the data does not hold up, which is the point: you
  * cannot ship a place the book does not support.
  */
 export async function loadBook(slug: string): Promise<LoadedBook> {
-  const books = await getCollection('books');
-  const all = await getCollection('waypoints');
+  const { books, waypoints } = await collections();
 
-  const book = books.find((b) => b.id.startsWith(`${slug}/`))?.data;
-  const raw = all.find((w) => w.id.startsWith(`${slug}/`))?.data;
+  const book = books.get(slug);
+  const raw = waypoints.get(slug);
   if (!book || !raw) throw new Error(`No such book: ${slug}`);
 
   // A stub is a book that has been listed but not yet adopted: rights, a city
@@ -112,9 +143,8 @@ export function allBooks(): Promise<LoadedBook[]> {
   // is validated a dozen times over per build. The Promise is cached (not its
   // result) so concurrent callers share one pass.
   allBooksCache ??= (async () => {
-    const books = await getCollection('books');
-    const slugs = books.map((b) => b.id.split('/')[0]!);
-    return Promise.all(slugs.map(loadBook));
+    const { books } = await collections();
+    return Promise.all([...books.keys()].map(loadBook));
   })();
   return allBooksCache;
 }
