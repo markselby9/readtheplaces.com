@@ -47,6 +47,15 @@ export function accentOf(book: Book): string {
 }
 
 /**
+ * Every real city a book maps: its primary `setting.city` plus any `aka` cities
+ * its places reach. Drives the per-city hub pages and the by-city lists, so a
+ * search for the real Perm or Staraya Russa lands on a page that lists the book.
+ */
+export function settingCities(book: Book): string[] {
+  return [book.setting.city, ...(book.setting.aka ?? [])];
+}
+
+/**
  * Load a book and derive every waypoint's position from the novel itself.
  *
  * Throws at build time if the data does not hold up, which is the point: you

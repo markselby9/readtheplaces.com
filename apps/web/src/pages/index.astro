@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { accentOf, allBooks, isStub } from '../lib/books';
+import { accentOf, allBooks, isStub, settingCities } from '../lib/books';
 import { websiteSchema } from '../lib/structured-data';
 import { slugifyCity } from './places/[city].astro';
 import popularity from '../data/popularity.json';
@@ -15,10 +15,10 @@ const viewsOf = (slug: string) => pop[slug]?.views ?? 0;
 const mapped = books.filter((b) => !isStub(b)).sort((a, b) => viewsOf(b.slug) - viewsOf(a.slug));
 const open = books.filter(isStub);
 
-const cities = [...new Set(mapped.map((b) => b.book.setting.city))];
+const cities = [...new Set(mapped.flatMap((b) => settingCities(b.book)))];
 const places = mapped.reduce((n, b) => n + b.waypoints.length, 0);
 
-const cityLinks = [...new Set(mapped.map((b) => b.book.setting.city))].sort();
+const cityLinks = [...new Set(mapped.flatMap((b) => settingCities(b.book)))].sort();
 const schema = [websiteSchema(mapped.length, cities.length)];
 ---
 

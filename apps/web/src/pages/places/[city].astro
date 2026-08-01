@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { accentOf, allBooks, isStub, type LoadedBook } from '../../lib/books';
+import { accentOf, allBooks, isStub, settingCities, type LoadedBook } from '../../lib/books';
 import { breadcrumbSchema, citySchema } from '../../lib/structured-data';
 
 /**
@@ -27,8 +27,11 @@ export async function getStaticPaths() {
 
   const byCity = new Map<string, LoadedBook[]>();
   for (const b of books) {
-    const key = b.book.setting.city;
-    byCity.set(key, [...(byCity.get(key) ?? []), b]);
+    // A book joins the hub for its primary city and for every `aka` city its
+    // places reach, so the real Perm and Staraya Russa each get a page.
+    for (const key of settingCities(b.book)) {
+      byCity.set(key, [...(byCity.get(key) ?? []), b]);
+    }
   }
 
   return [...byCity.entries()].map(([city, list]) => ({
