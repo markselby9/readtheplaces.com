@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { allBooks } from '../lib/books';
+import { allBooks, settingCities } from '../lib/books';
 import { byAuthor, byCountry, byEra } from '../lib/facets';
 import { slugifyCity } from './places/[city].astro';
 import { breadcrumbSchema } from '../lib/structured-data';
@@ -10,7 +10,7 @@ const books = await allBooks();
 const countries = byCountry(books);
 const authors = byAuthor(books);
 const eras = byEra(books);
-const cities = [...new Set(books.map((b) => b.book.setting.city))].sort((a, b) =>
+const cities = [...new Set(books.flatMap((b) => settingCities(b.book)))].sort((a, b) =>
   a.localeCompare(b),
 );
 

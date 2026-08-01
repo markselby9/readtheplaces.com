@@ -9,6 +9,7 @@
   "zoom": 4.8,
   "setting": {
     "city": "Moscow",
+    "aka": ["Perm"],
     "country": "RU",
     "note": "A life pulled apart by history: a Moscow doctor and poet is carried from his family's city through revolution and famine, then east by train across Russia to the towns and forests of the Urals, where he loves Lara. The map runs from central Moscow more than a thousand kilometres to Perm, the real Ural city that stands behind the novel's Yuriatin, and to the taiga beyond it.",
     "bbox": [36.0, 54.5, 59.0, 60.0],

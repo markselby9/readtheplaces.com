@@ -31,6 +31,7 @@
 
   let now: maplibregl.Map | undefined;
   let then: maplibregl.Map | undefined;
+  let resize: ResizeObserver | undefined;
   const pins = new Map<string, HTMLElement[]>();
 
   function frame(g: BuiltWaypoint[]) {
@@ -94,9 +95,21 @@
       ready = true;
       frame(group);
     });
+
+    // maplibre only tracks window resize, not the container's own size. On this
+    // page the grid row can still be zero-height when the map is created, so the
+    // canvas falls back to its 300px default and the pane renders blank. Observing
+    // the stage resizes both maps once it settles, and on every later change.
+    const stage = document.getElementById('stage')!;
+    resize = new ResizeObserver(() => {
+      now?.resize();
+      then?.resize();
+    });
+    resize.observe(stage);
   });
 
   onDestroy(() => {
+    resize?.disconnect();
     now?.remove();
     then?.remove();
   });

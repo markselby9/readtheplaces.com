@@ -125,6 +125,13 @@ export const bookSchema = z.object({
 
   setting: z.object({
     city: z.string(),
+    /** Other real cities this book's places reach, beyond the primary `city`.
+     *  Each earns its own /places/<name>/ hub and appears in the by-city lists.
+     *  Doctor Zhivago is set in Moscow but its map runs east to Perm; The
+     *  Brothers Karamazov's Skotoprigonyevsk is drawn from the real Staraya
+     *  Russa. Real places only — the honesty rule that governs `wikivoyage`
+     *  holds here too, so never list a fictional name. */
+    aka: z.array(z.string().min(1)).optional(),
     country: z.string().length(2),
     date: z.string().optional(),
     note: z.string().optional(),
