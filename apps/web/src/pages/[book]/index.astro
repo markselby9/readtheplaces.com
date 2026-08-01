@@ -29,10 +29,16 @@ const repo = 'https://github.com/markselby9/readtheplaces.com';
 const correctionUrl = `${repo}/issues/new?template=bug.md&title=${encodeURIComponent(`Correction: ${book.title}`)}`;
 const addPlaceUrl = `${repo}/issues/new?template=add-a-place.md&title=${encodeURIComponent(`Waypoint: <place>, ${book.title}`)}`;
 
-const title = `${settingLede(book.setting.city)} of ${book.title}`;
+// The H1 keeps the editorial "The {city} of {book}" line; the <title> targets
+// what people actually search — the book's name and "places / locations" — since
+// the page sits at position 8–9 for those queries with nothing in the snippet to
+// earn the click. Stubs have nothing mapped, so they keep the plainer form.
+const title = stub
+  ? `${settingLede(book.setting.city)} of ${book.title} — Read the Places`
+  : `${book.title}: real places & locations, mapped — Read the Places`;
 const description = stub
   ? `${book.title} by ${book.author}, set in ${book.setting.city}. Listed and open for adoption: nobody has mapped its places yet.`
-  : `${waypoints.length} real places from ${book.title}, in the order ${book.author} visits them.`;
+  : `${waypoints.length} real places from ${book.title} by ${book.author}, mapped in the order the novel visits them.`;
 const schema = [
   bookSchema(loaded),
   breadcrumbSchema([
