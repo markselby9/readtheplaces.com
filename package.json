@@ -25,6 +25,7 @@
     "commit": "git cz || git commit",
     "new-book": "bun --filter @rtp/tools new-book",
     "fetch-text": "bun --filter @rtp/tools fetch-text",
+    "check-deploy": "bun --filter @rtp/tools check-deploy",
     "seed": "bun run scripts/seed-catalogue.ts"
   },
   "devDependencies": {

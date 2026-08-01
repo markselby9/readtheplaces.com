@@ -1,0 +1,77 @@
+name: Deploy freshness
+
+# Did the merge actually reach production?
+#
+# The site ships via Cloudflare's own git-connected build (docs/DESIGN.md), which
+# reports success or failure to its dashboard and to nobody else. So a build that
+# fails or never triggers leaves main green, the data valid, and production quietly
+# serving the previous commit. That happened: prod read "392 books" for over an
+# hour against a repo holding 427, and the only detector in the whole system was a
+# human noticing the number.
+#
+# This polls the build stamp until production catches up, and files an issue if it
+# never does. See packages/tools/src/freshness.ts.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '43 6 * * *' # daily, as a net for a rollback or an expired deploy
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+# A newer push supersedes this one: it is the newer commit prod should be serving,
+# and letting both poll would fail the older run for being behind.
+concurrency:
+  group: freshness
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Production is serving this commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.2'
+
+      # A Cloudflare build takes minutes, so a single check straight after the push
+      # would fail every time. Poll instead, and only complain once the window a
+      # healthy deploy needs has passed.
+      - name: Wait for production to catch up
+        run: |
+          for attempt in $(seq 1 15); do
+            if bun run check-deploy; then
+              exit 0
+            fi
+            echo "not yet (attempt ${attempt}/15); waiting 120s"
+            sleep 120
+          done
+          echo '::error::production never caught up with this commit'
+          exit 1
+
+      # A scheduled job that fails silently rots. File one issue (and only one) so
+      # a stuck deploy is visible without watching the dashboard.
+      - name: Open an issue if production is stuck
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title='Production is not serving the latest commit'
+          open=$(gh issue list --state open --json title \
+            --jq "[.[] | select(.title==\"${title}\")] | length")
+          if [ "${open}" = '0' ]; then
+            gh issue create --title "${title}" \
+              --body "$(printf '%s\n' \
+                "The deploy freshness check could not see commit ${GITHUB_SHA} on readtheplaces.com after 30 minutes." \
+                "" \
+                "The site deploys from Cloudflare's git-connected build, so check the Builds tab for the readtheplaces-com Worker: the build has probably failed or never triggered." \
+                "" \
+                "Run locally with \`bun run check-deploy\`. Latest run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}")"
+          else
+            echo 'An open issue already tracks this; not filing another.'
+          fi

@@ -9,7 +9,8 @@
     "extract": "bun run src/extract.ts",
     "typecheck": "tsc --noEmit",
     "new-book": "bun run src/new-book.ts",
-    "fetch-text": "bun run src/fetch-text.ts"
+    "fetch-text": "bun run src/fetch-text.ts",
+    "check-deploy": "bun run src/check-deploy.ts"
   },
   "dependencies": {
     "@rtp/schema": "workspace:*",
