@@ -612,6 +612,26 @@ dashboard. There is deliberately no deploy workflow in this repo: two deploy
 paths racing each other is worse than one, and the dashboard build needs no
 secrets.
 
+**The deploy is verified, because it is not ours.** That dashboard build reports
+to the dashboard and to nobody else, so a build that fails or never triggers
+leaves main green, the data valid, and production serving the previous commit.
+That is not hypothetical: prod once read "392 books" for over an hour against a
+repo holding 427, and the only detector in the system was a human noticing the
+number. So the build stamps itself at `/build-info.json` (its commit, and how
+many books it globbed), and `bun run check-deploy` compares that against the
+repo:
+
+```
+bun run check-deploy            # is readtheplaces.com serving origin/main?
+```
+
+The `Deploy freshness` workflow runs it after every push to main, polling for
+half an hour before filing an issue, since a healthy build takes minutes. A 404
+on the stamp counts as stale: any build old enough to lack it is not current.
+Every count on the site is computed at build time, so "the number is wrong" and
+"the deploy did not happen" are the same sentence, and this is the one that
+says it out loud.
+
 `_headers` is in `apps/web/public/` and is natively supported by Workers Static
 Assets.
 

@@ -21,3 +21,8 @@
 
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
+
+# The build stamp exists to answer "what is live right now?". A cached answer is
+# a wrong answer, and the freshness check would read the previous deploy's.
+/build-info.json
+  Cache-Control: no-store
