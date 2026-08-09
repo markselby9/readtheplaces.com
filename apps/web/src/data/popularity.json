@@ -17,7 +17,7 @@
   },
   "a-christmas-carol": {
     "article": "A Christmas Carol",
-    "views": 861342
+    "views": 862328
   },
   "a-confederacy-of-dunces": {
     "article": "A Confederacy of Dunces",
@@ -233,7 +233,7 @@
   },
   "crazy-rich-asians": {
     "article": "Crazy Rich Asians (novel)",
-    "views": 75322
+    "views": 74377
   },
   "crime-and-punishment": {
     "article": "Crime and Punishment",
@@ -349,11 +349,11 @@
   },
   "fateless": {
     "article": "Fatelessness",
-    "views": 9664
+    "views": 9561
   },
   "fatelessness": {
     "article": "Fatelessness",
-    "views": 9664
+    "views": 9561
   },
   "father-goriot": {
     "article": "Père Goriot",
@@ -365,7 +365,7 @@
   },
   "for-bread-alone": {
     "article": "For Bread Alone",
-    "views": 7242
+    "views": 7122
   },
   "for-whom-the-bell-tolls": {
     "article": "For Whom the Bell Tolls",
@@ -377,7 +377,7 @@
   },
   "four-reigns": {
     "article": "Four Reigns",
-    "views": 3524
+    "views": 3545
   },
   "frankenstein": {
     "article": "Frankenstein",
@@ -421,23 +421,23 @@
   },
   "gulliver-s-travels": {
     "article": "Gulliver's Travels",
-    "views": 411571
+    "views": 409887
   },
   "gullivers-travels": {
     "article": "Gulliver's Travels",
-    "views": 411571
+    "views": 409887
   },
   "half-of-a-yellow-sun": {
     "article": "Half of a Yellow Sun",
-    "views": 103176
+    "views": 100577
   },
   "hamnet": {
     "article": "Hamnet (novel)",
-    "views": 884585
+    "views": 890678
   },
   "harry-potter-and-the-philosophers-stone": {
     "article": "Harry Potter and the Philosopher's Stone",
-    "views": 647353
+    "views": 631196
   },
   "heart-of-darkness": {
     "article": "Heart of Darkness",
@@ -445,19 +445,19 @@
   },
   "heidi": {
     "article": "Heidi",
-    "views": 213085
+    "views": 210556
   },
   "history-a-novel": {
     "article": "History (novel)",
-    "views": 11940
+    "views": 10836
   },
   "history-la-storia": {
     "article": "History (novel)",
-    "views": 11940
+    "views": 10836
   },
   "homegoing": {
     "article": "Homegoing (Gyasi novel)",
-    "views": 61826
+    "views": 61066
   },
   "houseboy": {
     "article": "Houseboy (novel)",
@@ -525,7 +525,7 @@
   },
   "jane-eyre": {
     "article": "Jane Eyre",
-    "views": 915765
+    "views": 907771
   },
   "journey-to-the-end-of-the-night": {
     "article": "Journey to the End of the Night",
@@ -533,7 +533,7 @@
   },
   "jude-the-obscure": {
     "article": "Jude the Obscure",
-    "views": 110736
+    "views": 109898
   },
   "justine": {
     "article": "Justine (de Sade novel)",
@@ -593,7 +593,7 @@
   },
   "love-in-the-time-of-cholera": {
     "article": "Love in the Time of Cholera",
-    "views": 155283
+    "views": 151427
   },
   "madame-bovary": {
     "article": "Madame Bovary",
@@ -689,7 +689,7 @@
   },
   "never-let-me-go": {
     "article": "Never Let Me Go (novel)",
-    "views": 443665
+    "views": 443733
   },
   "nineteen-eighty-four": {
     "article": "Nineteen Eighty-Four",
@@ -788,8 +788,8 @@
     "views": 102709
   },
   "paranoia": {
-    "article": "Paranoia",
-    "views": 167190
+    "article": "Paranoia (novel)",
+    "views": 2144
   },
   "pedro-paramo": {
     "article": "Pedro Páramo",
@@ -797,7 +797,7 @@
   },
   "perfume": {
     "article": "Perfume (novel)",
-    "views": 194735
+    "views": 191545
   },
   "persuasion": {
     "article": "Persuasion (novel)",
@@ -809,7 +809,7 @@
   },
   "pride-and-prejudice": {
     "article": "Pride and Prejudice",
-    "views": 1307164
+    "views": 0
   },
   "prision-verde": {
     "article": "Ramón Amaya Amador",
@@ -853,7 +853,7 @@
   },
   "savushun": {
     "article": "Savushun",
-    "views": 6398
+    "views": 5974
   },
   "season-of-migration-to-the-north": {
     "article": "Season of Migration to the North",
@@ -901,7 +901,7 @@
   },
   "son-of-man": {
     "article": "Son of man",
-    "views": 39387
+    "views": 39450
   },
   "song-of-solomon": {
     "article": "Song of Solomon (novel)",
@@ -940,8 +940,8 @@
     "views": 253358
   },
   "texaco": {
-    "article": "Texaco",
-    "views": 139415
+    "article": "Texaco (novel)",
+    "views": 4063
   },
   "the-adventures-of-huckleberry-finn": {
     "article": "Adventures of Huckleberry Finn",
@@ -977,11 +977,11 @@
   },
   "the-awakening": {
     "article": "The Awakening",
-    "views": 2543
+    "views": 2614
   },
   "the-beach": {
-    "article": "Beach",
-    "views": 133905
+    "article": "The Beach (novel)",
+    "views": 109018
   },
   "the-beautyful-ones-are-not-yet-born": {
     "article": "The Beautyful Ones Are Not Yet Born",
@@ -1005,7 +1005,7 @@
   },
   "the-bonfire-of-the-vanities": {
     "article": "The Bonfire of the Vanities",
-    "views": 157174
+    "views": 148613
   },
   "the-book-of-chameleons": {
     "article": "Music for Chameleons",
@@ -1113,7 +1113,7 @@
   },
   "the-feast-of-the-goat": {
     "article": "The Feast of the Goat",
-    "views": 33089
+    "views": 31402
   },
   "the-financier": {
     "article": "The Financier",
@@ -1137,7 +1137,7 @@
   },
   "the-garden-of-the-finzi-continis": {
     "article": "The Garden of the Finzi-Continis",
-    "views": 18301
+    "views": 19022
   },
   "the-general-in-his-labyrinth": {
     "article": "The General in His Labyrinth",
@@ -1153,11 +1153,11 @@
   },
   "the-girl-with-the-dragon-tattoo": {
     "article": "The Girl with the Dragon Tattoo",
-    "views": 275086
+    "views": 269815
   },
   "the-glass-palace": {
     "article": "The Glass Palace",
-    "views": 22536
+    "views": 22408
   },
   "the-god-of-small-things": {
     "article": "The God of Small Things",
@@ -1225,7 +1225,7 @@
   },
   "the-house-of-ulloa": {
     "article": "The House of Ulloa",
-    "views": 2874
+    "views": 2839
   },
   "the-hunchback-of-notre-dame": {
     "article": "The Hunchback of Notre-Dame",
@@ -1269,7 +1269,7 @@
   },
   "the-lord-of-the-rings": {
     "article": "The Lord of the Rings",
-    "views": 1519492
+    "views": 1494580
   },
   "the-lost-steps": {
     "article": "The Lost Steps",
@@ -1281,7 +1281,7 @@
   },
   "the-luminaries": {
     "article": "The Luminaries",
-    "views": 63538
+    "views": 62966
   },
   "the-magic-mountain": {
     "article": "The Magic Mountain",
@@ -1301,7 +1301,7 @@
   },
   "the-master-and-margarita": {
     "article": "The Master and Margarita",
-    "views": 477508
+    "views": 466908
   },
   "the-mayor-of-casterbridge": {
     "article": "The Mayor of Casterbridge",
@@ -1329,7 +1329,7 @@
   },
   "the-name-of-the-rose": {
     "article": "The Name of the Rose",
-    "views": 296687
+    "views": 292888
   },
   "the-no-1-ladies-detective-agency": {
     "article": "The No. 1 Ladies' Detective Agency (novel)",
@@ -1353,7 +1353,7 @@
   },
   "the-phantom-of-the-opera": {
     "article": "The Phantom of the Opera (novel)",
-    "views": 345356
+    "views": 346451
   },
   "the-pickwick-papers": {
     "article": "The Pickwick Papers",
@@ -1369,7 +1369,7 @@
   },
   "the-pillar-of-salt": {
     "article": "Lot's wife",
-    "views": 197499
+    "views": 193212
   },
   "the-plague": {
     "article": "Black Death",
@@ -1381,7 +1381,7 @@
   },
   "the-portrait-of-a-lady": {
     "article": "The Portrait of a Lady",
-    "views": 109145
+    "views": 108096
   },
   "the-prime-of-miss-jean-brodie": {
     "article": "The Prime of Miss Jean Brodie (novel)",
@@ -1425,7 +1425,7 @@
   },
   "the-return-of-philip-latinowicz": {
     "article": "The Return of Philip Latinowicz",
-    "views": 3164
+    "views": 3185
   },
   "the-satanic-verses": {
     "article": "The Satanic Verses",
@@ -1453,7 +1453,7 @@
   },
   "the-sorrow-of-war": {
     "article": "The Sorrow of War",
-    "views": 17714
+    "views": 17904
   },
   "the-sound-and-the-fury": {
     "article": "The Sound and the Fury",
@@ -1477,7 +1477,7 @@
   },
   "the-stone-angel": {
     "article": "The Stone Angel",
-    "views": 13664
+    "views": 13453
   },
   "the-storyteller": {
     "article": "The Storyteller (TV series)",
@@ -1525,7 +1525,7 @@
   },
   "the-time-of-the-hero": {
     "article": "The Time of the Hero",
-    "views": 18197
+    "views": 17474
   },
   "the-tin-drum": {
     "article": "The Tin Drum",
@@ -1533,7 +1533,7 @@
   },
   "the-trial": {
     "article": "The Trial",
-    "views": 300908
+    "views": 298021
   },
   "the-truce": {
     "article": "The Truce",
@@ -1589,7 +1589,7 @@
   },
   "their-eyes-were-watching-god": {
     "article": "Their Eyes Were Watching God",
-    "views": 245867
+    "views": 244499
   },
   "things-fall-apart": {
     "article": "Things Fall Apart",
@@ -1609,7 +1609,7 @@
   },
   "time-shelter": {
     "article": "Time Shelter",
-    "views": 23577
+    "views": 23291
   },
   "to-the-lighthouse": {
     "article": "To the Lighthouse",
@@ -1641,7 +1641,7 @@
   },
   "under-the-north-star": {
     "article": "Under the North Star trilogy",
-    "views": 7036
+    "views": 7219
   },
   "under-the-yoke": {
     "article": "Under the Yoke",
@@ -1665,7 +1665,7 @@
   },
   "waiting": {
     "article": "Waiting",
-    "views": 7708
+    "views": 0
   },
   "war-and-peace": {
     "article": "War and Peace",
@@ -1697,7 +1697,7 @@
   },
   "z": {
     "article": "Z",
-    "views": 470029
+    "views": 453736
   },
   "zorba-the-greek": {
     "article": "Zorba the Greek",
